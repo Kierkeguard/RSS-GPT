@@ -54,4 +54,5 @@
 
 如果你觉得本项目有帮助，欢迎 star。
 
-- https://mondovisione.com/media-and-resources/news/rss/ -> https://Kierkeguard.github.io/RSS-GPT/Borsa.xml
+- https://mondovisione.com/media-and-resources/news/rss/ -> https://Kierkeguard.github.io/RSS-GPT/borsa.xml
+- http://rss.cnn.com/rss/edition_world.rss -> https://Kierkeguard.github.io/RSS-GPT/borsatest.xml
