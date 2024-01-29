@@ -4,6 +4,65 @@
 <title>News Articles</title>
 <link>http://www.mondovisione.com/media-and-resources/news/</link>
 
+<item>
+<title>29 January 2024    Ms Edit Herczog Is The New Chair Of The ACER Administrative Board</title>
+<link>http://www.mondovisione.com/media-and-resources/news/29-january-2024-ms-edit-herczog-is-the-new-chair-of-the-acer-administrative-b/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/29-january-2024-ms-edit-herczog-is-the-new-chair-of-the-acer-administrative-b/</guid>
+<content:encoded><![CDATA[
+
+<p><span>ACER welcomes Ms Edit Herczog as the new Chair and Mr Bogdan Marius Chirițoiu as the Vice-Chair of its Administrative Board.</span></p>
+<p><span>Ms Herczog and Mr Chirițoiu were elected by the Administrative Board members on 13 December 2023. Their two-year mandate started on 28 January 2024.</span></p>
+<p><span>Welcoming Ms Herczog and Mr Chiritoiu, the ACER Director, Christian Zinglersen, expressed his gratitude to the outgoing Chair, Mr Thiolli&egrave;re, for his commitment as he led the Administrative Board including during the recent energy crisis.</span></p>
+<p><span>Ms Herczog, previously the Vice-Chair under Mr Thiolli&egrave;re&rsquo;s chairmanship, is a former member of the European Parliament (2004-2014) and the Hungarian national parliament. Currently she is active in the fields of public research, education, and digital infrastructure. Taking up the mantle, Ms Herczog underlined her commitment to advancing ACER's contribution to fostering an integrated European energy market and reaching the Green Deal&rsquo;s decarbonization targets while securing access to sustainable energy for European citizens and business.</span></p>
+<p><span>Mr Chirițoiu is Chairman of the Romanian Competition Council, the National Competition Authority in charge with enforcing competition and state aid rules.</span></p>
+<p><span>Alongside the change in leadership, the membership of the Administrative Board is also changing.</span></p>
+<p><span>The European Parliament has appointed Mr Paul Rűbig as a new member and Ms Rebecca Harms as an alternate; their mandate started on 21 January 2024.</span></p>
+<p><span>The Council of the EU appointed three members and three alternates, including Mr Chirițoiu, Mr Dąbrowski, Ms Narodoslawsky, Ms Lunning, Ms Čelić, and Mr Mak&scaron;ijan, who also started on 28 January 2024.</span></p>
+<p><span>ACER is looking forward to working with the new leadership, members and alternates of the Administrative Board.</span></p>
+<p><span><span style="text-decoration: underline;">More on the Administrative Board</span></span></p>
+<p><span>The Administrative Board is ACER&rsquo;s governing body. It appoints its main bodies, including the Director, adopts the annual work programme and its multi-annual programme. It also plays a central role in establishing the Agency&rsquo;s budget.</span></p>
+<p><span>The Administrative Board is composed of 9 Members and 9 Alternates, appointed by the European institutions. 2 members are appointed by the European Commission, 2 by the European Parliament and 5 by the Council of the European Union.</span></p>
+<p><span>&nbsp;<a href="https://mailservice.acer.europa.eu/lists/lt.php?tid=fUsFA1AGVwJUVkwNDwEFHVZdBlQdUw5QVRoBB1ECBFEHVVVUDwAdA1IGBV0CVVsdVVgHVR0GCQRQGlcBUAEZBwcGVwADAAdTBQFQRQYEUglbDwdSHQEPAVMaAQYGARlRBVMHHFMHUQVRUFkND1VTUw" target="_blank">Read more about its Members and Alternates.</a></span></p>
+]]></content:encoded>
+<pubDate>Mon, 29 Jan 2024 11:39:15 GMT</pubDate>
+<pubDate>Mon, 29 Jan 2024 11:39:15 GMT</pubDate>
+</item>
+<item>
+<title>NovaSparks Expands Its Coverage Of The Wireless Market - Leading FPGA-Powered Market Data Company Adds Quincy QED Wireless Feed To NovaTick[TM]</title>
+<link>http://www.mondovisione.com/media-and-resources/news/novasparks-expands-its-coverage-of-the-wireless-market-leading-fpga-powered-ma/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/novasparks-expands-its-coverage-of-the-wireless-market-leading-fpga-powered-ma/</guid>
+<content:encoded><![CDATA[
+
+<p>Quincy Data, powered by McKay Brothers, and NovaSparks, the leading field programmable gate array (FPGA) market data company, have worked together to add the support of the Quincy Extreme Data (QED) Feed to NovaTick<sup>TM</sup>.</p>
+<div class="dombanner"></div>
+<p>&nbsp;</p>
+<p>NovaTick<sup>TM</sup> is NovaSparks&rsquo; ultra-low latency ticker-plant based on a powerful FPGA matrix architecture. It handles the high-performance requirements of electronic trading platforms with the speed and determinism that only FPGAs can bring. NovaTick<sup>TM</sup> converts the QED feed into NovaSparks&rsquo; normalized wire format in 400ns and can also provide the QED wireless market data through its software C++ Application Programming Interface (API), NSMDA, or its hardware API, NovaLink<sup>TM</sup>. Arbitration between the QED wireless feed and the QED fiber feed can also be added in front of the feed handler in NovaTick<sup><sup>TM</sup></sup> to provide a reliable normalized stream of market data.</p>
+<p>&ldquo;The vast majority of our customers are trading across geographies and asset classes. Often, they rely on wireless services to transport market data at the fastest speed. This collaboration will not only simplify their trading architecture, but it will also give them an opportunity to further reduce the overall latency of market data sent abroad via wireless services. The addition of the QED feed brings our global feed total to 75, confirming our leading position among all the FPGA-centric market data solutions providers. This puts us in a unique position to offer unparalleled service,&rdquo; said Luc Burgun, NovaSparks&rsquo; chief executive officer and president.</p>
+<p>"Today, FPGA technology is an essential component of any high-speed trading infrastructure. FPGAs are able to handle very large market data bursts while maintaining a deterministic latency profile. The Quincy Extreme Data service distributes a normalized feed of select market data sourced from financial exchanges globally to many points of presence (PoPs) in the U.S., Europe, India, and Asia. We welcome NovaSparks into our ecosystem. This new solution will give all NovaSparks customers a very efficient way to use market data from our wireless service directly into their trading platforms," says St&eacute;phane Tyc, Quincy Data co-founder.</p>
+<p>NovaTick&rsquo;s pure FPGA processing architecture is incredibly fast and deterministic, yielding one to two orders of magnitude faster than traditional software solutions. NovaSparks&rsquo; pure-FPGA feed handlers have a normalized output format across markets, enabling NovaSparks customers to integrate new feeds with minimum effort.&nbsp;</p>
+<p>"Support of the QED feed by NovaTick<sup>TM</sup> allows us to benefit from the tight integration we already have between NovaTick<sup>TM</sup> and our trading platform," says Alain Katchouni, Managing Director, Head of ETF and Electronic Trading at National Bank Financial Inc.,<b> </b>one of Canada's six systemically important banks. "This new addition simplifies and accelerates our trading environment when we use Quincy Extreme Data service,&rdquo; added Katchouni.</p>
+]]></content:encoded>
+<pubDate>Mon, 29 Jan 2024 11:36:00 GMT</pubDate>
+<pubDate>Mon, 29 Jan 2024 11:36:00 GMT</pubDate>
+</item>
+<item>
+<title>Nagarro Signs Agreement To License And Develop Temenos Country Model Banks For Romania And Poland - Financial Institutions In These Countries Will Benefit From Temenos’ World-Class Banking Platform And Nagarro’s Regional Expertise To Offer Country Model Bank Functionality</title>
+<link>http://www.mondovisione.com/media-and-resources/news/nagarro-signs-agreement-to-license-and-develop-temenos-country-model-banks-for-r/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/nagarro-signs-agreement-to-license-and-develop-temenos-country-model-banks-for-r/</guid>
+<content:encoded><![CDATA[
+
+<p>Temenos (SIX: TEMN) today announced that&nbsp;<a href="https://www.temenos.com/community/partners/nagarro/" target="_blank">Nagarro</a>, a global digital engineering leader, has signed an agreement to license and further develop Temenos&nbsp;<a href="https://www.temenos.com/products/country-model-banks/" target="_blank">Country Model Banks</a>&nbsp;for financial institutions in Romania and Poland. The agreement opens new opportunities for growth for Temenos with enhanced local functionality and service capability provided by Nagarro in these markets.</p>
+<p>Country Model Banks are a key differentiator for Temenos and through such licensing agreements, Temenos is able to scale this competitive advantage with partners further developing and also building new model banks compatible with the banking solutions on Temenos&rsquo; composable platform and SaaS offerings on Temenos Banking Cloud.</p>
+<p>As part of this new agreement, Nagarro is committed to invest in and develop regulatory and business-specific localized functionality to enhance the Temenos Model Banks for financial institutions in Romania and Poland.</p>
+<p>Nagarro, which has over 19,000 experts in 36 countries, has been operating in Romania since 1998 and in Poland since 2014 across 7 delivery centers. The Country Model Bank agreement enables Temenos customers in these markets to benefit from Nagarro&rsquo;s already well-established presence and regional expertise.</p>
+<p>With over 25 years of experience in the industry, Nagarro supports the end-to-end banking, financial services and insurance (BFSI) spectrum, including core banking, payments, lending and leasing, mobility and cognitive services, and financial services (investment banking, asset and wealth management).</p>
+<p>This agreement builds on the strong existing relationship between the two companies, which has seen Nagarro complete more than 43 successful projects involving Temenos Transact implementation and transformation, along with 20 Temenos upgrades, and engage in 350 projects across diverse Temenos solutions. Nagarro was also awarded the&nbsp;&lsquo;APAC&nbsp;Temenos&nbsp;Delivery&nbsp;Partner of the&nbsp;Year&rsquo;&nbsp;award&nbsp;in 2023.</p>
+<p><b>Ross Mallace,</b><b>&nbsp;EVP and&nbsp;</b><b>Global Head of SaaS &amp; Partner Ecosystem, Temenos, said:</b>&nbsp;&ldquo;We are excited to announce this agreement with Nagarro, which opens new opportunities for Temenos with financial institutions in Romania and Poland. Nagarro will become a trusted partner for the development and maintenance of Country Model Banks for these two countries and help customers in their progressive technology renovation. Such agreements bring additional value to our platform, which benefits our clients and ultimately delivers incremental growth for Temenos.&rdquo;</p>
+<p><b>Vishwanath Rajashekarappa, a co-founder, Nagarro, commented:</b>&nbsp;&ldquo;We are delighted to be granted this license by Temenos to develop Country Model Banks to drive growth and customer success. This agreement is a testament to our capabilities as a long-standing partner of Temenos and our knowledge of local market practices and regulations. We look forward to helping clients in Romania and Poland scale and optimize their businesses on the Temenos banking platform.&rdquo;</p>
+]]></content:encoded>
+<pubDate>Mon, 29 Jan 2024 10:52:13 GMT</pubDate>
+<pubDate>Mon, 29 Jan 2024 10:52:13 GMT</pubDate>
+</item>
 
 <item>
 <title>MTSGF, PI, KGI, YUANTA And KTX Receive TFEX Best Award 2023 For Outstanding Derivatives Brokers</title>

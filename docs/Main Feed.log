@@ -40,3 +40,18 @@ Existing_entries: 10
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2024-01-29 10:55:20.453908
+------------------------------------------------------
+Started: 2024-01-29 11:58:14.660836
+Existing_entries: 10
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [29 January 2024    Ms Edit Herczog Is The New Chair Of The ACER Administrative Board](http://www.mondovisione.com/media-and-resources/news/29-january-2024-ms-edit-herczog-is-the-new-chair-of-the-acer-administrative-b/)
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [NovaSparks Expands Its Coverage Of The Wireless Market - Leading FPGA-Powered Market Data Company Adds Quincy QED Wireless Feed To NovaTick[TM]](http://www.mondovisione.com/media-and-resources/news/novasparks-expands-its-coverage-of-the-wireless-market-leading-fpga-powered-ma/)
+Summarization failed, append the original article
+error: Error code: 404 - {'error': {'message': 'The model `gpt-4-1106-preview` does not exist or you do not have access to it. Learn more: https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Append: [Nagarro Signs Agreement To License And Develop Temenos Country Model Banks For Romania And Poland - Financial Institutions In These Countries Will Benefit From Temenos’ World-Class Banking Platform And Nagarro’s Regional Expertise To Offer Country Model Bank Functionality](http://www.mondovisione.com/media-and-resources/news/nagarro-signs-agreement-to-license-and-develop-temenos-country-model-banks-for-r/)
+append_entries: 3
+Finish: 2024-01-29 11:58:24.754071
