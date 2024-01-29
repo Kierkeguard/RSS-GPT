@@ -50,5 +50,4 @@ These feeds on hosted in the [`docs/` subdirectory](https://github.com/yinan-c/R
 
 I will consider hosting more feeds in the future. Email me or submit an issue if there is any question using the script or any suggestions.
 
-- https://mondovisione.com/media-and-resources/news/rss/ -> https://Kierkeguard.github.io/RSS-GPT/borsa.xml
-- http://rss.cnn.com/rss/edition_world.rss -> https://Kierkeguard.github.io/RSS-GPT/borsatest.xml
+- https://mondovisione.com/media-and-resources/news/rss/ -> https://Kierkeguard.github.io/RSS-GPT/hasan.xml
