@@ -2854,3 +2854,10 @@ Existing_entries: 460
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2024-02-21 16:31:45.046057
+------------------------------------------------------
+Started: 2024-02-21 18:29:22.505377
+Existing_entries: 460
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Feed error: 503
+append_entries: 0
+error when rendering xml, skip docs/hasan
