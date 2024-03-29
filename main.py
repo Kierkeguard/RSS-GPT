@@ -122,7 +122,7 @@ def gpt_summary(query,model,language):
     else:
         messages = [
             {"role": "user", "content": query},
-            {"role": "assistant", "content": f"Please summarize this article in {language} language, first extract {keyword_length} keywords, output in the same line, then line break, write a summary containing all the points in {summary_length} words in {language}, output in order by points, and output in the following format '<br><br>Summary:' , <br> is the line break of HTML, 2 must be retained when output, and must be before the word 'Summary:'"}
+            {"role": "assistant", "content": f"Please summarize this article in {language} language, first extract {keyword_length} keywords, output in the same line, then line break, write a single sentence summary containing all the points in up to {summary_length} words in {language}, output in the following format '<br><br>Summary:', please do not forget to put '<br><br>Summary:', <br> is the line break of HTML, 2 must be retained when output, and must be before the word 'Summary:'"}
         ]
     client = OpenAI(
         api_key=OPENAI_API_KEY,
