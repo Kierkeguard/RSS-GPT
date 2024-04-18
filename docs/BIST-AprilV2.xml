@@ -5,12 +5,43 @@
 <link>http://www.mondovisione.com/media-and-resources/news/</link>
 
 <item>
+<title>GoldenSource® Introduces Comprehensive Data Management Solutions in AWS Marketplace for Financial Services Industry</title>
+<link>http://www.mondovisione.com/media-and-resources/news/goldensource-introduces-comprehensive-data-management-solutions-in-aws-marketpl/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/goldensource-introduces-comprehensive-data-management-solutions-in-aws-marketpl/</guid>
+<content:encoded><![CDATA[
+<div> AWS Marketplace, GoldenSource, data management, financial services, SaaS <br>
+Summary: 
+GoldenSource launches data management solutions on AWS Marketplace for financial services, including security, corporate actions, ESG, and data warehousing. Streamlining procurement and purchasing via AWS account. <br> <div>
+<p>GoldenSource has announced the launch of its comprehensive data management infrastructure solutions now available on AWS Marketplace, a curated digital catalogue that customers can use to find, buy, deploy, and manage third-party software, data, and services to build solutions and run their businesses. These solutions are specifically designed to support the evolving data needs of the financial services industry, catering to reference data, ESG and market data operational requirements.</p>
+<p>This will enable asset managers, asset servicers, custodians, banks, and brokers to streamline their data management processes and accelerate their cloud transformation. GoldenSource offers fully managed SaaS solutions that enable financial institutions to instantly access and deliver quality data to power transactional systems, improve investment analytics and model driven AI, manage risk, and generate regulatory reports.&nbsp;Available directly in AWS Marketplace, customers can streamline the procurement and purchase of GoldenSource&rsquo;s solutions via their AWS account.</p>
+<p>&ldquo;<em>Ensuring financial institutions can get the most out of their data is our top priority. As part of this, we are excited to grow our footprint with AWS, providing scalable solutions that cater to the needs of smaller scale asset managers through to global universal banks,&rdquo;&nbsp;</em>said John Eley, CEO of GoldenSource.</p>
+<p><em>&ldquo;With the sheer volume and breadth of data now required by firms of all sizes, we are uniquely positioned to address the complex data challenges faced by the financial services sector while leveraging the resilience, security and scale of AWS.&rdquo;</em></p>
+<p>Firms are already utilising the ability to access GoldenSource&rsquo;s solutions on AWS. One example is Dragon Capital Group, one of the longest standing independent fund managers based in Vietnam, who have deployed the GoldenSource Data Warehouse in the AWS Cloud.</p>
+<p>Commenting on the development, Beat Schuerch, CEO at Dragon Capital Group, said &ldquo;<em>The partnership between GoldenSource and AWS supports our objectives for leveraging analytics to gain insights and manage risks in support of our investment strategies, while managing around $5 billion in assets as a fund manager in Vietnam. The GoldenSource and AWS combination gives us a slick cloud platform that is not just cost-effective but also very flexible and industrial strength. This is crucial for us to scale up as we expand.&rdquo;</em></p>
+<p>Key features of GoldenSource&rsquo;s data management solutions include:</p>
+<ul>
+<li><span>Security Mastering:</span>&nbsp;Comprehensive master data for listed and private securities and their issuers sourced from major financial services data vendors.</li>
+<li><span>Corporate Actions Mastering:</span>&nbsp;Accurate matching of corporate actions for all equity and fixed-income action types across multiple sources, enhancing operational efficiency and reducing processing liabilities.</li>
+<li><span>Entity Mastering:</span>&nbsp;Purpose-built master data for legal entities, including corporate hierarchies, identifiers, credit ratings, and more, enabling efficient management of customer and counterparty data.</li>
+<li><span>Product Mastering:</span>&nbsp;Asset managers, banks, and brokers can master their products, creating a firm-wide taxonomy and cross-referencing products to regulatory obligations.</li>
+<li><span>Price and Rates Mastering:</span>&nbsp;Rule-based multi-vendor pricing and valuation solution for securities and derivatives, optimizing pricing policies and centralizing pricing for NAV calculations and portfolio valuations.</li>
+<li><span>ESG Curation &amp; Standardization:</span>&nbsp;Standardized ESG data and scores supporting comparison, trend analysis, and analytics for research, regulatory reporting, and portfolio analytics.</li>
+<li><span>Data Warehousing:</span>&nbsp;Purpose-built financial services data model for cloud data warehouse/lake house use cases, accelerating implementation of investment data operations and data warehousing for various financial institutions.</li>
+</ul>
+<p>&nbsp;</p>
+<p>Please see&nbsp;<a href="https://aws.amazon.com/marketplace/pp/prodview-6zypovnf6jadc">here</a>&nbsp;for more information on GoldenSource&rsquo;s solutions in AWS Marketplace.</p>
+]]></content:encoded>
+<pubDate>Thu, 18 Apr 2024 12:37:42 GMT</pubDate>
+<pubDate>Thu, 18 Apr 2024 12:37:42 GMT</pubDate>
+</item>
+
+<item>
 <title>HKEX Appoints Group Chief Compliance Officer</title>
 <link>http://www.mondovisione.com/media-and-resources/news/hkex-appoints-group-chief-compliance-officer/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/hkex-appoints-group-chief-compliance-officer/</guid>
 <content:encoded><![CDATA[
-<div> appointment, Lilian Cheng, Group Chief Compliance Officer, HKEX, compliance<br>
-<br>
+<div> appointment, Lilian Cheng, Group Chief Compliance Officer, HKEX, compliance<br />
+<br />
 Summary: 
 HKEX appoints Lilian Cheng from HSBC as the new Group Chief Compliance Officer, succeeding Adam Singer, with extensive global compliance experience. <div>
 <p class="spanHeading"><span>Hong Kong Exchanges and Clearing Limited (HKEX) is pleased to announce today (</span><span>Thurs</span><span>day) the appointment of Ms Lilian Cheng as Group Chief Compliance Officer.</span></p>
@@ -25,7 +56,6 @@ HKEX appoints Lilian Cheng from HSBC as the new Group Chief Compliance Officer, 
 <p class="spanHeading"><span>L</span>ilian Cheng&nbsp;</p>
 ]]></content:encoded>
 <pubDate>Thu, 18 Apr 2024 09:51:28 GMT</pubDate>
-<pubDate>Thu, 18 Apr 2024 09:51:28 GMT</pubDate>
 </item>
 <item>
 <title>QuantHouse Selects BMLL To Complement Real-Time Data Services With Historical Order Book Data</title>
@@ -33,9 +63,9 @@ HKEX appoints Lilian Cheng from HSBC as the new Group Chief Compliance Officer, 
 <guid>http://www.mondovisione.com/media-and-resources/news/quanthouse-selects-bmll-to-complement-real-time-data-services-with-historical-or/</guid>
 <content:encoded><![CDATA[
 <div> Partnership, QuantHouse, BMLL, historical data, trading strategies
-<br>
+<br />
 The partnership between QuantHouse and BMLL provides buy-side traders with real-time and historical order book data to test and deploy trading strategies faster and more effectively.
-<br><br>Summary: <br>The partnership between QuantHouse and BMLL enables buy-side traders to access real-time and historical order book data, empowering them to backtest and deploy trading strategies more efficiently. <div>
+<br /><br />Summary: <br />The partnership between QuantHouse and BMLL enables buy-side traders to access real-time and historical order book data, empowering them to backtest and deploy trading strategies more efficiently. <div>
 <ul>
 <li> <span>Joint offering to empower buy-side trading strategies, accelerate time to insights and time to market.</span> </li>
 <li> <span>Enables asset managers and hedge funds to backtest trading strategies and move into production with new ease and speed.</span> </li>
@@ -51,7 +81,6 @@ The partnership between QuantHouse and BMLL provides buy-side traders with real-
 <p><span>&ldquo;Our mission is to democratise access to high-quality Level 3, 2 and 1 order book data and analytics globally, and this partnership with Iress is an important milestone in our journey.&rdquo;&nbsp;</span></p>
 ]]></content:encoded>
 <pubDate>Thu, 18 Apr 2024 09:53:56 GMT</pubDate>
-<pubDate>Thu, 18 Apr 2024 09:53:56 GMT</pubDate>
 </item>
 <item>
 <title>FIA European Principal Traders Association: New Paper Identifies Unreported Segment Of Liquidity In European Equity Markets - Addressing This Gap Would Present A Much More Accurate And Appealing Market Environment For Those Seeking To Invest And Raise Capital In Europe</title>
@@ -61,7 +90,7 @@ The partnership between QuantHouse and BMLL provides buy-side traders with real-
 <div> European equity markets, FIA EPTA, liquidity crisis, MiFID II, post-trade transparency
 
 Summary:
-The FIA EPTA paper identifies unreported equity activity, proposes changes to MiFID II transparency, and emphasizes the need for regulators' attention to prevent Europe falling behind in the markets. <br><br> <div>
+The FIA EPTA paper identifies unreported equity activity, proposes changes to MiFID II transparency, and emphasizes the need for regulators' attention to prevent Europe falling behind in the markets. <br /><br /> <div>
 <p><a href="https://email.fia.org/c/1289iYJgNt3WpDRBdSB7ojw33CtWxD">A new paper</a>&nbsp;published today by FIA European Principal Traders Association identifies an entire segment of equity activity in both EU and UK markets that is currently unreported. Consequently, European share trading volumes are perceived by the market, including global investors and issuers, as being significantly lower than they actually are.&nbsp;&nbsp;</p>
 <div>
 <p>The paper points out that European equity markets are perceived to be suffering a longstanding liquidity crisis, with reported average daily volume stagnating, particularly relative to the US. This perception has been blamed for declining capital allocation towards European markets and the migration of listings to other regions.&nbsp;</p>
@@ -81,7 +110,6 @@ The FIA EPTA paper identifies unreported equity activity, proposes changes to Mi
 <p><a href="https://email.fia.org/c/1289iZcVnwWDO0BdFnoNttv4uqMKkw" title="Download Paper">Download Paper</a></p>
 ]]></content:encoded>
 <pubDate>Thu, 18 Apr 2024 10:29:11 GMT</pubDate>
-<pubDate>Thu, 18 Apr 2024 10:29:11 GMT</pubDate>
 </item>
 <item>
 <title>Leading Fund Administrator, Alter Domus Goes Live On Temenos Multifonds Platform To Manage Growth In Alternative Funds - The Alternative Investments Specialist, With $2.2tn Of Assets Under Management, Will Use Temenos To Support The Expansion Of Alternative Investments To Retail Investors</title>
@@ -90,7 +118,7 @@ The FIA EPTA paper identifies unreported equity activity, proposes changes to Mi
 <content:encoded><![CDATA[
 <div> Luxembourg, Alter Domus, Temenos Multifonds, ELTIF 2.0 regulations, fund administration
 Summary:
-Alter Domus implements Temenos Multifonds for fund administration. The platform automates investment operations, complies with ELTIF 2.0 regulations, and supports global growth.<br><br>Summary: <div>
+Alter Domus implements Temenos Multifonds for fund administration. The platform automates investment operations, complies with ELTIF 2.0 regulations, and supports global growth.<br /><br />Summary: <div>
 <p>Temenos (SIX: TEMN) today announced that&nbsp;<a href="https://alterdomus.com/" target="_blank">Alter Domus</a>, a leading provider of tech-enabled fund administration, private debt, and corporate services for the alternative investment industry, has gone live on Temenos&rsquo;&nbsp;<a href="https://www.temenos.com/solutions/temenos-multifonds/" target="_blank">automated fund management platform</a>, implementing the solution in under six months.</p>
 <p>Headquartered in Luxembourg, with large operations in the US, Alter Domus has more than 5,100 employees across 38 offices globally. Solely focused on alternative investments, the firm has $2.2tn of assets under management and serves 85% of the top 30 asset managers, helping them to handle the complexities of fund management through advanced technology and multijurisdictional&nbsp;expertise.</p>
 <p>With the ELTIF 2.0 regulations coming into effect in January 2024, making alternative investments more accessible to a large pool of retail investors, Alter Domus wanted to quickly implement a scalable, cost-efficient platform that could manage a significant increase in transaction volumes. The fund administrator chose Temenos Multifonds Global Investor Servicing to automate and streamline its investment operations, initially for transfer agency services in Europe, with the possibility to move other activities and geographies onto the platform in the future.</p>
@@ -101,9 +129,7 @@ Alter Domus implements Temenos Multifonds for fund administration. The platform 
 <p>The Temenos Multifonds solution recently won the Innovation in Fund Technology Award at the&nbsp;<a href="https://www.globalcustodian.com/79250-2/" target="_blank">Global Custodian Industry Leaders Awards 2023</a>&nbsp;and has received the award for Best Integrated Back-Office Platform at the prestigious&nbsp;<a href="https://www.temenos.com/news/2022/11/04/multifonds-bst-awards-2022/" target="_blank">WatersTechnology Buy-Side Technology Awards</a>&nbsp;for three years in a row.</p>
 ]]></content:encoded>
 <pubDate>Thu, 18 Apr 2024 10:54:28 GMT</pubDate>
-<pubDate>Thu, 18 Apr 2024 10:54:28 GMT</pubDate>
 </item>
-
 <item>
 <title>Exegy, ING And Optiver Further Broaden Sustainable Trading’s Diverse Membership</title>
 <link>http://www.mondovisione.com/media-and-resources/news/exegy-ing-and-optiver-further-broaden-sustainable-tradings-diverse-membership/</link>
