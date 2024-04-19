@@ -5,6 +5,60 @@
 <link>http://www.mondovisione.com/media-and-resources/news/</link>
 
 <item>
+<title>Moscow Exchange Changes The Tick Size From The 2nd Of May 2024</title>
+<link>http://www.mondovisione.com/media-and-resources/news/moscow-exchange-changes-the-tick-size-from-the-2nd-of-may-2024/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/moscow-exchange-changes-the-tick-size-from-the-2nd-of-may-2024/</guid>
+<content:encoded><![CDATA[
+<div> tick size, Decimals parameter, trading modes, MOEX, methodology
+Summary:
+MOEX establishes new tick size and Decimals parameter for various trading modes, including Main trading mode Т+ and Negotiated trades mode. Tick size is determined by a new methodology. <br> <div>
+<p>To increase the effectiveness of equity market microstructure, MOEX establishes the new tick size and Decimals parameter for the&nbsp;<a href="https://fs.moex.com/f/20031/min-step-02-05-2024-eng.xlsx">following stocks</a>&nbsp;starting 2nd May 2024 in the following trading modes:</p>
+<ul>
+<li>Main trading mode Т+ ("Т+1" order book)</li>
+<li>Odd lots trading mode</li>
+<li>IIR sector* &mdash; Main trading mode Т+</li>
+<li>Negotiated trades mode (NTM)</li>
+<li>NTM with CCP trading mode</li>
+<li>IIR sector &mdash; NTM trading mode</li>
+<li>IIR sector &mdash; NTM with CCP trading mode</li>
+</ul>
+<p>&nbsp;</p>
+<p>The new approach to setting the tick size was&nbsp;<a href="http://fs.moex.com/files/16989">approved</a>&nbsp;by the MOEX Securities Market committee.</p>
+<p>The methodology includes:</p>
+<ul>
+<li>The tick size equals (1,2,5)*10N, where N &ndash; integer;</li>
+<li>Increasing the number of price ranges to 25, and the ranges of liquidity - up to 7;</li>
+<li>For each liquidity range a recommended range price tick sizes in the spread is established;</li>
+<li>The maximum allowed relative tick size &ndash; 1%</li>
+</ul>
+<p>&nbsp;</p>
+<p><em>* Sector of companies with increased investment risk</em></p>
+<table>
+</table>
+<p><br />Read more on the Moscow Exchange: https://www.moex.com/n69115</p>
+]]></content:encoded>
+<pubDate>Fri, 19 Apr 2024 16:21:13 GMT</pubDate>
+<pubDate>Fri, 19 Apr 2024 16:21:13 GMT</pubDate>
+</item>
+<item>
+<title>Mercuryo To Power Fiat On-Ramps As Tether Tokens (USDt) Launches On The Open Network (TON)</title>
+<link>http://www.mondovisione.com/media-and-resources/news/mercuryo-to-power-fiat-on-ramps-as-tether-tokens-usdt-launches-on-the-open-net/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/mercuryo-to-power-fiat-on-ramps-as-tether-tokens-usdt-launches-on-the-open-net/</guid>
+<content:encoded><![CDATA[
+<div> launch, fiat-to-crypto on-ramps, Tether tokens, USDt, wallets <br>
+Summary:<br>Global payments provider launches fiat-to-crypto on-ramps for Tether (USDt) in TON ecosystem wallets, enabling seamless conversion and off-ramp services later. <div>
+<p>Global payments infrastructure provider <a href="https://mercuryo.io/">Mercuryo</a> has announced that it will launch fiat-to-crypto on-ramps for Tether tokens (USDt), the biggest stablecoin in the digital token space, on a suite of wallets across the ecosystem of The Open Network (TON), a fast, and scalable Layer 1 blockchain and network project.</p>
+<p>The launch of the on-ramps, which will enable the seamless conversion of fiat to USDt, has been launched with an integration in Tonkeeper. This self-custody wallet lets users receive, buy, spend and swap TON and other digital tokens. The launch coincides with today&rsquo;s addition of TON as a transport layer for USDt.</p>
+<p>Wallet, a cryptocurrency wallet in Telegram, will also integrate Mercuryo&rsquo;s on-ramp for USDt. Wallet resides in Telegram, a social network with more than 900 million users. Wallet in Telegram enables users to transfer USDt instantly and with no fees to their Telegram contacts worldwide.</p>
+<p>&ldquo;We are delighted to launch these on-ramp services for Tether tokens (USDt) across the growing TON ecosystem,&rdquo; said Aviessa Khoo, Executive Director, Singapore, at Mercuryo. &ldquo;This once again demonstrates Mercuryo&rsquo;s capacity to deliver superior, seamless payment solutions in partnership with the most esteemed pillars of the digital token space.&rdquo;</p>
+<p>&ldquo;USDt support in TON is making possible a truly mass-market economy on a decentralised network for the first time in history,&rdquo; said Oleg Andreev, CEO of Ton Apps Group. &ldquo;Tonkeeper enables people all over the world to securely store and pay using USDt. We are proud to have the Mercuryo exchange integrated in Tonkeeper, providing an outstanding user experience.&rdquo;</p>
+<p>In addition, Mercuryo will add off-ramp services for USDt later this spring, enabling the conversion of crypto into fiat for Wallet and other leading wallet applications in the TON ecosystem.</p>
+]]></content:encoded>
+<pubDate>Fri, 19 Apr 2024 15:18:07 GMT</pubDate>
+<pubDate>Fri, 19 Apr 2024 15:18:07 GMT</pubDate>
+</item>
+
+<item>
 <title>ACER Assesses The Tariff Methodology Proposed For The Czech Gas Transmission System</title>
 <link>http://www.mondovisione.com/media-and-resources/news/acer-assesses-the-tariff-methodology-proposed-for-the-czech-gas-transmission-sys/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/acer-assesses-the-tariff-methodology-proposed-for-the-czech-gas-transmission-sys/</guid>
@@ -12,7 +66,7 @@
 <div> ACER, Czech, gas, transmission, tariffs
 Summary:
 ACER recommends transparency and consistency, additional information on risk premium, details on revenue reconciliation, and monitoring of flow-based charge. 
-Next steps: ERO to adopt new tariff methodology by 19 October 2024.<br><br> <div>
+Next steps: ERO to adopt new tariff methodology by 19 October 2024.<br /><br /> <div>
 <p><span><span style="text-decoration: underline;">What is the report about?</span></span></p>
 <p><span>Today, ACER releases its report on the Czech gas transmission tariffs proposed for 2025 by the Energetick&yacute; regulačn&iacute; &uacute;řad (ERO), the National Regulatory Authority (NRA) of the Czech Republic.</span></p>
 <p><span>Recent changes in the patterns of the European gas imports (resulting from Russia&rsquo;s invasion of Ukraine) have led to the underutilisation of the Czech natural gas transmission infrastructure. Additionally, future flows into the network face considerable uncertainty due to the termination of the transit contract for gas transportation through Ukraine scheduled by the end of 2025.</span></p>
@@ -43,7 +97,6 @@ Next steps: ERO to adopt new tariff methodology by 19 October 2024.<br><br> <div
 <p><span><a href="https://mailservice.acer.europa.eu/lists/lt.php?tid=fUsGBVUAAwdSUExaBVBWHVZaAQUdUw8ABxoEXAUEDQNQDgAHVwIdVAACVFoPAgUdVw4BAx0GClAAGlRcUQUZBgNWAQAACFFQBwBQRQYEUglbDwdSHQEPAVMaAQYGARlRBVMHHFMHUQVRUFkND1VTUw" target="_blank">Access all ACER reports on national tariff consultation documents</a>.</span></p>
 ]]></content:encoded>
 <pubDate>Fri, 19 Apr 2024 14:27:18 GMT</pubDate>
-<pubDate>Fri, 19 Apr 2024 14:27:18 GMT</pubDate>
 </item>
 <item>
 <title>Readout Of Five Finance Ministers Meeting In Washington DC</title>
@@ -51,7 +104,7 @@ Next steps: ERO to adopt new tariff methodology by 19 October 2024.<br><br> <div
 <guid>http://www.mondovisione.com/media-and-resources/news/readout-of-five-finance-ministers-meeting-in-washington-dc/</guid>
 <content:encoded><![CDATA[
 <div> meeting, finance ministers, economic security, supply chains, global economy
-Summary: UK Chancellor Jeremy Hunt chaired a meeting of the Five Finance Ministers to discuss economic security, supply chain risks, resilience building, and global growth.<br><br>Summary: <div>
+Summary: UK Chancellor Jeremy Hunt chaired a meeting of the Five Finance Ministers to discuss economic security, supply chain risks, resilience building, and global growth.<br /><br />Summary: <div>
 <p><span>UK Chancellor Jeremy Hunt chaired a meeting of the &ldquo;Five Finance Ministers&rdquo; of Australia, Canada, New Zealand, the United Kingdom and the United States.</span></p>
 <div class="govuk-grid-row">
 <div class="metadata-logo-wrapper">
@@ -81,16 +134,15 @@ Summary: UK Chancellor Jeremy Hunt chaired a meeting of the Five Finance Ministe
 <p><span><br /></span></p>
 ]]></content:encoded>
 <pubDate>Fri, 19 Apr 2024 14:21:42 GMT</pubDate>
-<pubDate>Fri, 19 Apr 2024 14:21:42 GMT</pubDate>
 </item>
 <item>
 <title>HKEX: Exchange Publishes Conclusions On Climate Disclosure Requirements</title>
 <link>http://www.mondovisione.com/media-and-resources/news/hkex-exchange-publishes-conclusions-on-climate-disclosure-requirements/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/hkex-exchange-publishes-conclusions-on-climate-disclosure-requirements/</guid>
 <content:encoded><![CDATA[
-<div> Enhancement, Climate-related disclosures, IFRS S2, Implementation Guidance, Training<br>
-Summary:<br>
-- The Stock Exchange of Hong Kong received market support to enhance climate-related disclosures based on IFRS S2.<br>
+<div> Enhancement, Climate-related disclosures, IFRS S2, Implementation Guidance, Training<br />
+Summary:<br />
+- The Stock Exchange of Hong Kong received market support to enhance climate-related disclosures based on IFRS S2.<br />
 - New Climate Requirements will align with IFRS S2 and be effective from 2025, with implementation guidance available for issuers. <div>
 <ul>
 <li class="spanHeading"><span>Exchange receives broad-based market support to enhance listed issuers&rsquo; climate-related disclosures</span></li>
@@ -195,9 +247,7 @@ Summary:<br>
 </ol>
 ]]></content:encoded>
 <pubDate>Fri, 19 Apr 2024 14:15:02 GMT</pubDate>
-<pubDate>Fri, 19 Apr 2024 14:15:02 GMT</pubDate>
 </item>
-
 <item>
 <title>HKEX Reaches Agreement With Shanghai Stock Exchange And Shenzhen Stock Exchange To Expand Scope Of Eligible ETFs Under Stock Connect</title>
 <link>http://www.mondovisione.com/media-and-resources/news/hkex-reaches-agreement-with-shanghai-stock-exchange-and-shenzhen-stock-exchange/</link>
