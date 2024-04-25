@@ -5,19 +5,244 @@
 <link>http://www.mondovisione.com/media-and-resources/news/</link>
 
 <item>
+<title>Opening Remarks Of CFTC Commissioner Kristin N. Johnson At FIA L&amp;C Panel: Futureproofing Financial Markets: AI And Derivatives Markets</title>
+<link>http://www.mondovisione.com/media-and-resources/news/opening-remarks-of-cftc-commissioner-kristin-n-johnson-at-fia-landc-panel-future/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/opening-remarks-of-cftc-commissioner-kristin-n-johnson-at-fia-landc-panel-future/</guid>
+<content:encoded><![CDATA[
+<div> Regulation, AI, CFTC, Market, Manipulation
+Summary:<br><br>Regulating AI in CFTC markets, concerns about market manipulation and fraud, inter-agency task force proposal, oversight measures, and examination questionnaire expansion. <div>
+<p>Introduction&nbsp;</p>
+<p>Good morning. Thank you very much to the Futures Industry Association, President and Chief Executive Officer Walt Lukken, and Yvette Valdez for the generous invitation for me to join you this morning. I delivered my very first keynote address as a Commissioner at the FIA IDX conference in London in June of 2022 and my first public appearance as a Commissioner was here at FIA L&amp;C. Commissioner Summer Mersinger and I shared details of the road to serving as a CFTC Commissioner.</p>
+<p>During my tenure as a Commissioner, conversations among global regulators, market participants, customers, and investors have reached a fever pitch. Innovations such as generative AI have the power and the potential to alter many aspects of our markets and lives. These innovations offer exciting hope for more effective disease screening, more accurate and timely disease diagnosis and mapping, and exceptional potential to solve complex questions that have posed challenges in math, science, and medicine for centuries. At the same time, without appropriate guardrails that ensure responsible adoption of AI, the risks of integrating this technology may outweigh the benefits in some contexts.</p>
+<p>For the last several years, I have advanced international dialogue regarding the best approach for addressing the significance of AI in our markets. In a series of speeches over the last few months, I have publicly advocated as a Commissioner for the Commission to consider three specific interventions.</p>
+<p>First, to ensure unequivocal commitment as an independent federal regulator to our obligation to supervise markets and ensure the effectiveness of the rule of law, I have advocated for heightened penalties for the use of AI to engage in fraud or market manipulation. Policing derivatives markets is one of the cornerstones of the CFTC&rsquo;s mission. We must adapt our surveillance technologies and enforcement penalties to keep pace with the rapidly evolving innovation that characterizes global financial markets.</p>
+<p>Second, the CFTC should adopt a principles-based regulatory framework for addressing the increasing prevalence of AI in our markets. In January of this year, the CFTC launched initiatives to begin to better understand the use cases for AI in our markets, including by issuing a Request for Comment (RFC) to the market. The RFC is an excellent beginning and we anticipate receiving critical information regarding the uses and potential uses of AI in our markets. We should not, however, rest on our laurels. Our first step as a Commission is simply that &ndash; a first step.</p>
+<p>Two weeks ago, the Market Risk Advisory Committee that I sponsor met and announced that the Future of Finance Subcommittee would proceed with developing several specific, targeted initiatives to support the CFTC, but also to enable the Commission to come into compliance with the October 30, 2023 Executive Order on Safe, Secure, and Trustworthy Artificial Intelligence.</p>
+<p>The Executive Order calls for transparency in the integration of AI. To achieve this goal, we must survey markets to successfully achieve a full understanding of the integration of AI models in our markets and to effectively address threats to critical infrastructure resources in our markets.</p>
+<p>Finally, I have called for an inter-agency task force to consider the adoption of parallel, harmonized safeguards that will focus on ensuring the stability and integrity of our markets.</p>
+<p>As recent reports by international standard setting bodies indicate, automation and complex algorithms&nbsp;have&nbsp;existed &ldquo;for many years&rdquo;&nbsp;but&nbsp;recent, significant advances in the ability of such tools to handle complex tasks and to expand their capabilities without explicit human instruction may deeply impact how our markets operate and how we supervise our markets.&nbsp;<a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson13?utm_source=govdelivery#_ftn1">[1]</a></p>
+<p>Considering each of these suggestions in turn may be useful.</p>
+<p>Evolving Markets and Existing Regulatory Authority</p>
+<p>For years, traders in CFTC-regulated markets have deployed algorithm and AI-based tools, and we expect their use to only increase in scope and sophistication going forward.</p>
+<p>At present, AI is being used in CFTC markets in a number of different ways:<a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson13?utm_source=govdelivery#_ftn2">[2]</a></p>
+<ul>
+<li>Trading (e.g., market intelligence, robo-advisory, sentiment analysis, algorithmic trading, smart routing, and transactions)</li>
+<li>Risk Management (e.g., margin and capital requirements, trade monitoring, fraud detection)</li>
+<li>Risk Assessments and Hedging</li>
+<li>Resource Optimization (e.g., energy and computer power)</li>
+<li>RegTech &ndash; Applications that enhance or improve compliance and oversight activities (e.g., surveillance, reporting)</li>
+<li>Compliance (e.g., identity and customer validation, anti-money laundering, regulatory reporting)</li>
+<li>Books and Records (e.g., automated trade histories from voice or text)</li>
+<li>Data Processing and Analytics</li>
+<li>Cybersecurity and Resilience</li>
+<li>Customer Service</li>
+</ul>
+<p>&nbsp;</p>
+<p>Proactively addressing AI&rsquo;s use in CFTC-regulated markets will likely involve a combination of applying existing regulations and developing new rules tailored to these new technologies. Many areas of our market, such as risk management, that integrate AI models may be subject to existing regulation. Consequently, AI models are already subject to regulation. We must ensure that existing regulation is fit for purpose, effectively addresses risks, and aligns with existing compliance obligations.</p>
+<p>Existing governance requirements can also help facilitate effective oversight of AI applications. CFTC regulations, for example, introduce important governance obligations for registered market participants. Designated Clearing Organizations must establish a Risk Management Committee &ldquo;comprised of clearing members and customers of clearing members on matters that could materially affect the risk profile of the DCO&rdquo; and Risk Management Working Groups composed of market participants.<a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson13?utm_source=govdelivery#_ftn3">[3]</a>&nbsp;Enhanced risk management oversight and governance best practices will play an important role in managing the development and implementation of this new technology.</p>
+<p>(En)Visioning A New Regulatory Framework</p>
+<p>In my keynote remarks at a recent event hosted by New York University, I have noted that it is important for the CFTC to develop a principles-based regulatory framework that takes into account the integration of AI in our markets. Some of the critical questions that the framework may address&nbsp;include:</p>
+<ul>
+<li>Promoting the explainability of AI models.&nbsp;Many AI models are &ldquo;black-box&rdquo; models, meaning that it may be difficult,&nbsp;and in some cases impossible, to explain their decision-making processes. Accordingly, FSOC, IOSCO, the FSB, and FINRA have all emphasized the importance of addressing the explainability challenge.&nbsp;As FINRA put it, [i]ncorporating explainability [is] a key consideration in the model risk management process for AI-based applications.&rdquo;<a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson13?utm_source=govdelivery#_ftn4">[4]</a></li>
+<li>The need for data controls.&nbsp;Data quality,&nbsp;security and privacy are central concerns for regulators as market participants adopt AI models. A recent FSOC report notes, &ldquo;data controls like data quality, suitability, security, privacy, and timeliness are vital to sound AI use.&rdquo;&nbsp;<a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson13?utm_source=govdelivery#_ftn5">[5]</a>&nbsp;Similarly, FINRA calls for &ldquo;data governance efforts&rdquo; including: &ldquo;data review for potential bias,&rdquo; &ldquo;data source verification,&rdquo; &ldquo;data integration,&rdquo; &ldquo;data security,&rdquo; and &ldquo;data quality benchmarks and metrics.&rdquo;<a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson13?utm_source=govdelivery#_ftn6">[6]</a></li>
+<li>Implementing measures to address bias.&nbsp;In 2019, I testified before Congress and voiced my concerns that AI models trained on incomplete or inaccurate data may engender biased results. FSOC has similarly noted that &ldquo;specific requirements to prevent discrimination or bias that apply to tools, models, or processes used in consumer compliance also apply to AI. This is an important consideration because without proper design, testing, and controls, AI can lead to disparate outcomes, which may cause direct consumer harm and/or raise consumer compliance risks.&rdquo;<a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson13?utm_source=govdelivery#_ftn7">[7]</a></li>
+<li>A focus on the governance of AI models.&nbsp;We also need clear governance frameworks with documented lines of accountability as well as testing and monitoring for effectiveness. For example, FSOC &ldquo;recommends monitoring the rapid developments in AI, including generative AI, to ensure that oversight structures keep up with or stay ahead of emerging risks to the financial system while facilitating efficiency and innovation.&rdquo;<a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson13?utm_source=govdelivery#_ftn8">[8]</a></li>
+<li>Testing and monitoring output.&nbsp;Protecting against bias, promoting explainability, and implementing governance strategies are only possible where models are properly tested and monitored.&nbsp;FSOC notes the responsibility of financial institutions to &ldquo;monitor the quality and applicability of AI&rsquo;s output&rdquo; &ndash; and the ability of regulators to &ldquo;help to ensure that they do so.&rdquo;<a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson13?utm_source=govdelivery#_ftn9">[9]</a>&nbsp;</li>
+</ul>
+<p>&nbsp;</p>
+<p>Proposed Interventions</p>
+<p>Based on years of critical thinking and dialogue regarding these issues, I am advocating for the following interventions.</p>
+<p>Interagency Task Force</p>
+<p>I have the privilege of serving as the CFTC&rsquo;s executive representative of the Administrative Conference of the United States. Serving alongside executives across federally regulated markets, I have the opportunity to see the benefit of convening regulators and our interagency dialogue. In my previous role, I supported the development of several of the earliest, most comprehensive and groundbreaking reports on AI.</p>
+<p>Consequently, I am advocating for the Commission to lead in creating a financial markets interagency task force focused on information sharing and composed of market and prudential regulators including the CFTC, SEC, Federal Reserve System, OCC, CFPB, FDIC, FHFA, and NCUA. The task force would support the AI Safety Institute, housed in the&nbsp;National Institute of Standards and Technology,&nbsp;in developing guidelines, tools, benchmarks, and best practices for the use and regulation of AI in the financial services industry. It may also provide recommendations to the AI Safety Institute as well as evaluate proposals coming out of the Institute.</p>
+<p>Combatting AI-enabled Market Manipulation and Fraud</p>
+<p>As I mentioned at the start, we also need to take action to combat AI-enabled manipulation and fraud in CFTC-regulated markets. Before we get to that however, a basic overview of the relevant statutory and regulatory structure is in order.</p>
+<p>Prior to Dodd-Frank, the CFTC charged manipulation under Sections 6(c) and 9(a) of the Commodity Exchange Act (CEA).<a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson13?utm_source=govdelivery#_ftn10">[10]</a>&nbsp;Section 6(c) &ldquo;authorize[d] the CFTC to bring an action &lsquo;[i]f the Commission has reason to believe that any person ... has manipulated or attempted to manipulate the market price of any commodity.&rsquo; 7 U.S.C. &sect; 9 (2006). Section 9(a)(2) similarly prohibit[ed] any person from &ldquo;manipulat[ing] or attempt[ing] to manipulate the price of any commodity ... on or subject to the rules of any registered entity.&rdquo;<a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson13?utm_source=govdelivery#_ftn11">[11]</a>&nbsp;To prevail on such claims, the CFTC had to show: &ldquo;(1) Defendants possessed an ability to influence market prices; (2) an artificial price existed; (3) Defendants caused the artificial prices; and (4) Defendants specifically intended to cause the artificial price.&rdquo;<a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson13?utm_source=govdelivery#_ftn12">[12]</a><i>&nbsp;</i></p>
+<p>The Dodd-Frank Act, enacted in 2010, included new statutory provisions addressing manipulation in CFTC-regulated markets. Section 6 of the CEA, as amended by Dodd-Frank, makes it:</p>
+<p>unlawful for any person, directly or indirectly, to use or employ, or attempt to use or employ, in connection with any swap, or a contract of sale of any commodity in interstate commerce, or for future delivery on or subject to the rules of any registered entity, any manipulative or deceptive device or contrivance, in contravention of such rules and regulations as the Commission shall promulgate by not later than 1 year after the date of enactment of the Dodd-Frank Act.<a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson13?utm_source=govdelivery#_ftn13">[13]</a></p>
+<p>Guided by similarities between the language in the relevant statutes, the Commission enacted an implementing rule &ldquo;modeled on SEC Rule 10b&ndash;5,&rdquo; which targets fraud in securities markets.<a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson13?utm_source=govdelivery#_ftn14">[14]</a>&nbsp;For our purposes, I want to focus on one key aspect of the statutory provisions and regulation&mdash;that a party engaging in the prohibited activities must have a culpable state of mind, known as scienter.</p>
+<p>Under Regulation 180.1, the level of scienter required to plead a cause of action for manipulation is &ldquo;intentionally or recklessly.&rdquo; 17 C.F.R. &sect; 180.1(a). In its notice of final rule making regarding Regulation 180.1, the CFTC stated that &ldquo;a showing of recklessness is, at a minimum, necessary to prove the scienter element of final Rule 180.1. Consistent with long-standing precedent under the commodities and securities laws, the Commission defines recklessness as an act or omission that &lsquo;departs so far from the standards of ordinary care that it is very difficult to believe the actor was not aware of what he or she was doing.&rsquo;&rsquo;&rsquo;&nbsp;<i>Final Rule,</i>&nbsp;76 Fed. Reg. at 41,404.<a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson13?utm_source=govdelivery#_ftn15">[15]</a></p>
+<p>Courts have accepted both &ldquo;direct evidence of intent&rdquo; as well as &ldquo;circumstantial evidence showing intent&rdquo; to meet Rule 180.1&rsquo;s scienter element.<a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson13?utm_source=govdelivery#_ftn16">[16]</a></p>
+<p>The scienter requirement raises interesting questions in the context of algorithm and AI-based trading. Attributing a &ldquo;mental state&rdquo; in the context of fraud or manipulation perpetrated using AI may create new challenges for enforcement.</p>
+<p>As Michael Barr and Michael Wellman and their co-authors explain, &ldquo;[t]he problem with scienter flows from manipulation law&rsquo;s emphasis on intent but an autonomously developing algorithm&rsquo;s lack of any mental state attributable directly to a designer.&rdquo;<a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson13?utm_source=govdelivery#_ftn17">[17]</a></p>
+<p>Most of us here likely remember the 2010 &ldquo;Flash Crash&rdquo; in which,&nbsp;&nbsp;within minutes on a trading day, &ldquo;major equity indices in both the futures and securities markets . . . suddenly plummeted . . . 5&ndash;6%&rdquo; and then rebounded.<a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson13?utm_source=govdelivery#_ftn18">[18]</a>&nbsp;In 2015, Department of Justice and CFTC investigations revealed that a rogue London-based futures trader&mdash;Navinder Singh Sarao&mdash;had manipulated the E-Mini S&amp;P 500 by using an algorithm to flood the Chicago Mercantile Exchange (CME) with sell orders.<a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson13?utm_source=govdelivery#_ftn19">[19]</a>&nbsp;In entering a Consent Order, under which Sarao admitted to spoofing and manipulation in violation of the CEA, the court noted that Sarao&rsquo;s communications with programmers &ldquo;demonstrated an intent to use the programs to place orders (1) with no intention of executing those orders; and (2) with an intention to affect E-mini S&amp;P market prices.&rdquo;<a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson13?utm_source=govdelivery#_ftn20">[20]</a>&nbsp;These communications&nbsp;included design requests to&nbsp;&ldquo;make [the program] workable in terms of me moving the market like we discussed&rdquo; and an email indicating that &ldquo;when [Sarao] was &lsquo;short,&rsquo; he wanted to &lsquo;spoof&nbsp;[the market] down.&rsquo;&rdquo;<a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson13?utm_source=govdelivery#_ftn21">[21]</a></p>
+<p>This example illustrates risk management and enforcement concerns that may arise if an algorithm is intentionally designed or deployed order to engage in prohibited conduct.</p>
+<p>Two weeks ago, the Future of Finance Subcommittee of the Market Risk Advisory Committee (MRAC) and the MRAC, which I sponsor, voted to approve and adopted a working plan for advancing the Commission&rsquo;s oversight of market integration of AI.</p>
+<p>MRAC-Led AI Interventions</p>
+<p>Among other forthcoming proposals, the MRAC Subcommittee will examine the possibility of:</p>
+<ul>
+<li>&nbsp;A Survey on the Use of AI in CFTC-regulated Markets. The Subcommittee believes that it may be useful for the Commission to conduct a survey of CFTC registrants&rsquo; use of AI in CFTC-regulated markets, including possibly integrating the survey in the examinations and other oversight and monitoring tools of the Commission. The survey would be designed to inform the Commission and its staff on how different types of AI are being integrated and details regarding relevant risks and risk mitigation.<a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson13?utm_source=govdelivery#_ftn22">[22]</a></li>
+<li>Recommendations on New Guidance, Advisories or Rulemaking. The Subcommittee may advance a recommendation that the staff should consider new guidance, advisories or formal rulemaking, based on how CFTC market participants are using AI to conduct regulated activities and any gaps identified in existing regulations and guidance. Areas of focus may include, without limitation, framing the risk of AI models; robust monitoring and testing of AI models, including to address cybersecurity, data controls, bias, privacy, and output consistency; and oversight and of AI models.</li>
+</ul>
+<p>&nbsp;</p>
+<p>We will work to improve and refine the working plan in the coming months, and I look forward to what the Future of Finance Subcommittee will produce.&nbsp;</p>
+<p>As I mentioned earlier, in January, the Commission issued an RFC on the use of artificial intelligence in CFTC-regulated markets.&nbsp;FIA, CME and ICE recently provided a joint response to the RFC, which noted that &ldquo;this request for comment should be the first amongst many steps that Staff and the CFTC take to better understand any potential, risks, and use cases for AI.&rdquo;<a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson13?utm_source=govdelivery#_ftn23">[23]</a><br /><br />I have proposed a specific next step, encouraging greater visibility and transparency regarding our registrants&rsquo; use of AI by expanding our annual systems examination questionnaire to incorporate questions that directly inquire about the adoption of AI and related risks.&nbsp;An expansion of our annual systems examination questionnaire is an appropriate next step to advance our understanding.</p>
+<p>Conclusion&nbsp;</p>
+<p>Thank you so much for allowing me to share these remarks on AI today. I look forward to our discussion.&nbsp;</p>
+<div>
+<hr align="left" size="1" width="33%" />
+<div>
+<p><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson13?utm_source=govdelivery#_ftnref2">[1]</a>&nbsp;Fin. Stability Bd., Artificial Intelligence and Machine Learning in Financial Services Market Developments and Financial Stability Implications at 3 (Nov. 1, 2017),&nbsp;<a href="https://www.fsb.org/wp-content/uploads/P011117.pdf">https://www.fsb.org/wp-content/uploads/P011117.pdf</a>.</p>
+</div>
+<div>
+<p><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson13?utm_source=govdelivery#_ftnref2">[2]</a>&nbsp;LabCFTC, A Primer on Artificial Intelligence in Financial Markets (Oct. 24, 2019),&nbsp;<a href="https://www.cftc.gov/media/2846/LabCFTC_PrimerArtificialIntelligence102119/download">https://www.cftc.gov/media/2846/LabCFTC_PrimerArtificialIntelligence102119/download</a>.</p>
+</div>
+<div>
+<p><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson13?utm_source=govdelivery#_ftnref3">[3]</a>&nbsp;88 F.R. 44675.</p>
+</div>
+<div>
+<p><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson13?utm_source=govdelivery#_ftnref4">[4]</a>&nbsp;The Financial Industry regulatory Authority&nbsp;(FINRA),&nbsp;<i>Report on Artificial Intelligence (AI) in the Securities Industry</i>, June 2020,&nbsp;<a href="https://www.finra.org/sites/default/files/2020-06/ai-report-061020.pdf">https://www.finra.org/sites/default/files/2020-06/ai-report-061020.pdf</a>.</p>
+</div>
+<div>
+<p><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson13?utm_source=govdelivery#_ftnref5">[5]</a>&nbsp;Financial Stability Oversight Council,&nbsp;<i>2023 Annual Report</i>&nbsp;(Dec. 14, 2023),&nbsp;<a href="https://home.treasury.gov/system/files/261/FSOC2023AnnualReport.pdf">https://home.treasury.gov/system/files/261/FSOC2023AnnualReport.pdf</a>.</p>
+</div>
+<div>
+<p><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson13?utm_source=govdelivery#_ftnref6">[6]</a>&nbsp;FINRA,&nbsp;<i>Report on Artificial Intelligence (AI) in the Securities Industry</i>,&nbsp;<i>supra</i>.</p>
+</div>
+<div>
+<p><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson13?utm_source=govdelivery#_ftnref7">[7]</a>&nbsp;Financial Stability Oversight Council,&nbsp;<i>2023 Annual Report, supra.</i></p>
+</div>
+<div>
+<p><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson13?utm_source=govdelivery#_ftnref8">[8]</a>&nbsp;<i>Id.</i></p>
+</div>
+<div>
+<p><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson13?utm_source=govdelivery#_ftnref9">[9]</a>&nbsp;<i>Id.</i></p>
+</div>
+<div>
+<p><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson13?utm_source=govdelivery#_ftnref10">[10]</a>&nbsp;75 F.R. 67657 at 67658.</p>
+</div>
+<div>
+<p><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson13?utm_source=govdelivery#_ftnref11">[11]</a>&nbsp;<i>United States Commodity Futures Trading Comm'n v. Wilson</i>, No. 13 CIV. 7884 (RJS), 2018 WL 6322024, at *12 (S.D.N.Y. Nov. 30, 2018) (citing pre-Dodd Frank statute).</p>
+</div>
+<div>
+<p><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson13?utm_source=govdelivery#_ftnref12">[12]</a>&nbsp;<i>Id.</i></p>
+</div>
+<div>
+<p><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson13?utm_source=govdelivery#_ftnref13">[13]</a>&nbsp;75 F.R. 67657.</p>
+</div>
+<div>
+<p><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson13?utm_source=govdelivery#_ftnref14">[14]</a>&nbsp;75 F.R. 67657 at 67658.</p>
+</div>
+<div>
+<p><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson13?utm_source=govdelivery#_ftnref15">[15]</a>&nbsp;<i>U.S. Commodity Futures Trading Comm'n v. Kraft Foods Grp., Inc.</i>, 153 F. Supp. 3d 996, 1014 (N.D. Ill. 2015)</p>
+</div>
+<div>
+<p><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson13?utm_source=govdelivery#_ftnref16">[16]</a>&nbsp;<i>Id.&nbsp;</i>at 1015.</p>
+</div>
+<div>
+<p><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson13?utm_source=govdelivery#_ftnref17">[17]</a>&nbsp;Michael Barr, et al.,&nbsp;<i>The Coming Failure of Manipulation Law?</i>, (Draft) at 7,&nbsp;<a href="https://law-economic-studies.law.columbia.edu/sites/default/files/content/Barr%20et%20al_Reinforcement%20Learning,%20Algorithms,%20&amp;%20Manipulation%20Law_rev%202021%2010%2019_7%20pm.pdf">Barr et al_Reinforcement Learning, Algorithms, &amp; Manipulation Law_rev 2021 10 19_7 pm.pdf (columbia.edu)</a>.</p>
+</div>
+<div>
+<p><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson13?utm_source=govdelivery#_ftnref18">[18]</a>&nbsp;U.S. Securities &amp; Exchange Comm&rsquo;n &amp; U.S. Commodity Futures Trading Comm&rsquo;n, Findings Regarding the Market Events of May 6, 2010: Report of the Staffs of the CFTC and SEC to the Joint Advisory Committee on Emerging Regulatory Issues 1 (Sept. 30, 2010),&nbsp;<a href="https://www.sec.gov/news/studies/2010/marketevents-report.pdf">https://www.sec.gov/news/studies/2010/marketevents-report.pdf</a>.</p>
+</div>
+<div>
+<p><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson13?utm_source=govdelivery#_ftnref19">[19]</a>&nbsp;CFTC Release No. 7156-15, CFTC Charges U.K. Resident Navinder Singh Sarao and His Company Nav Sarao Futures Limited PLC with Price Manipulation and Spoofing (Apr. 21, 2015),&nbsp;<a href="http://www.cftc.gov/PressRoom/PressReleases/pr7156-15">http://www.cftc.gov/PressRoom/PressReleases/pr7156-15</a>.</p>
+</div>
+<div>
+<p><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson13?utm_source=govdelivery#_ftnref20">[20]</a>&nbsp;<i>U.S. Commodity Futures Trading Comm'n v. Nav Sarao Futures Ltd. PLC</i>, No. 15-CV-3398, 2016 WL 8257513, at *5 (N.D. Ill. Nov. 14, 2016).</p>
+</div>
+<div>
+<p><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson13?utm_source=govdelivery#_ftnref21">[21]</a>&nbsp;<i>Id.</i></p>
+</div>
+<div>
+<p><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson13?utm_source=govdelivery#_ftnref22">[22]</a>&nbsp;For citations supporting this discussion, see Statement of Commissioner Johnson at the Market Risk Advisory Committee Meeting,&nbsp;<i>CCP Resilience, AI and Risk Management Implications, Market Structure Reforms, and Climate Related Market Risks</i>, April 9, 2024 available at&nbsp;<a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/johnsonstatement040924#_ftn34">https://www.cftc.gov/PressRoom/SpeechesTestimony/johnsonstatement040924#_ftn34</a>.</p>
+</div>
+<div>
+<p><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson13?utm_source=govdelivery#_ftnref23">[23]</a>&nbsp;FIA, CME, ICE,&nbsp;<i>Response to Request for Comment on the Use of Artificial Intelligence in CFTC-Regulated Markets&nbsp;</i>(Apr. 24, 2024).</p>
+</div>
+</div>
+]]></content:encoded>
+<pubDate>Thu, 25 Apr 2024 21:18:41 GMT</pubDate>
+<pubDate>Thu, 25 Apr 2024 21:18:41 GMT</pubDate>
+</item>
+<item>
+<title>IIPA Supports USTR Focus On Major Copyright Markets In The 2024 Special 301 Report - 2024 Special 301 Report Highlights Market Access And Enforcement Challenges For U.S. Creative Industries In 27 Overseas Markets</title>
+<link>http://www.mondovisione.com/media-and-resources/news/iipa-supports-ustr-focus-on-major-copyright-markets-in-the-2024-special-301-repo/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/iipa-supports-ustr-focus-on-major-copyright-markets-in-the-2024-special-301-repo/</guid>
+<content:encoded><![CDATA[
+<div> countries, copyright, market, USTR, Special 301 Report
+Summary:
+The IIPA acknowledges the release of the 2024 Special 301 Report, which lists countries on the Priority Watch List and Watch List.<br><br> <div>
+<p>The following is a statement from the International Intellectual Property Alliance&reg; (IIPA&reg;) on the release today of the 2024 Special 301 Report:</p>
+<p>&ldquo;The IIPA&reg; congratulates the Office of the United States Trade Representative (USTR) on the release today of the&nbsp;<b><i>2024 Special 301 Report</i></b>. This congressionally mandated annual report importantly identifies obstacles to expanding legitimate global commerce in creative works. IIPA thanks Ambassador Katherine Tai, the USTR team, and their interagency colleagues for diligently working to open foreign markets to American creative content, which helps to support the livelihoods of U.S. creators and workers.</p>
+<p>&ldquo;This year&rsquo;s Report once again highlights key priorities of the U.S. creative industries, including calling on U.S. trading partners to eliminate barriers that undermine the competitiveness of lawful services, especially in online and mobile marketplaces. IIPA welcomes the Report&rsquo;s discussion of online and broadcast piracy, including stream ripping and illicit IPTV services; collective management problems that impede right holders from receiving compensation for their works; and the need to improve IP enforcement. The Report also notes the importance of freedom of contract for the transfers of exclusive rights, which allows copyright owners &ldquo;to freely and separately transfer their economic rights by contract and to fully enjoy the benefits derived from those rights,&rdquo; a critical factor for the healthy growth of a dynamic digital marketplace.</p>
+<p>&ldquo;Principally, the Special 301 Report identifies overseas markets where trade barriers, including inadequate copyright protection and enforcement and other market access restrictions, should be addressed. Progress on elimination of these barriers not only supports U.S. creators but also helps our trading partners to develop their domestic creative industries and nurture their own creators.</p>
+<p>&ldquo;The U.S. government&rsquo;s regular engagement with U.S. trading partners as part of the Special 301 review process remains a key trade policy tool for advancing these priorities. The U.S. copyright industries appreciate USTR&rsquo;s commitment to preserving this tool&rsquo;s integrity and effectiveness, as well as all the work by USTR and the interagency to help open markets for U.S. creative content over the past year. IIPA looks forward to working with USTR and with agencies across the U.S. government to encourage our trading partners to continue to make concrete progress toward stronger and more open copyright marketplaces.</p>
+<p>On January 30, IIPA made a detailed submission to USTR with its recommendations for the 2024 Special 301 Report. IIPA&rsquo;s full submission can be found at&nbsp;<a href="https://www.iipa.org/files/uploads/2024/01/Final-PDF-for-Website-1.pdf" target="_blank"></a><a href="https://www.iipa.org/files/uploads/2024/01/Final-PDF-for-Website-1.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.iipa.org/files/uploads/2024/01/Final-PDF-for-Website-1.pdf</a>.&rdquo;</p>
+<p>In today&rsquo;s announcement:</p>
+<p>∙ USTR lists 7 countries on the Priority Watch List, including key copyright markets like Argentina, Chile, China, India, Indonesia, and the Russian Federation;</p>
+<p>∙ USTR lists 20 countries on the Watch List, including key markets for creators like Brazil, Canada, Colombia, Mexico, Thailand, and Vietnam.&nbsp;</p>
+<p>The 2024 Special 301 Report lists the following countries:</p>
+<div align="center">
+<table border="1" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td colspan="2" valign="top" width="623">
+<p align="center"><b>USTR&nbsp;2024&nbsp;Special&nbsp;301&nbsp;Decisions</b></p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="312">
+<p align="center"><b>Priority Watch List</b><b>&nbsp;</b></p>
+</td>
+<td valign="top" width="312">
+<p align="center"><b>Watch List</b><b></b></p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="312">
+<p>Argentina</p>
+<p>Chile</p>
+<p>China</p>
+<p>India</p>
+<p>Indonesia</p>
+<p>Russian Federation</p>
+<p>Venezuela</p>
+</td>
+<td valign="top" width="312">
+<p>Algeria</p>
+<p>Barbados</p>
+<p>Belarus</p>
+<p>Bolivia</p>
+<p>Brazil</p>
+<p>Bulgaria</p>
+<p>Canada</p>
+<p>Colombia</p>
+<p>Ecuador</p>
+<p>Egypt</p>
+<p>Guatemala</p>
+<p>Mexico</p>
+<p>Pakistan</p>
+<p>Paraguay</p>
+<p>Peru</p>
+<p>Thailand</p>
+<p>Trinidad &amp; Tobago</p>
+<p>Turkey</p>
+<p>Turkmenistan</p>
+<p>Vietnam</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+]]></content:encoded>
+<pubDate>Thu, 25 Apr 2024 21:30:07 GMT</pubDate>
+<pubDate>Thu, 25 Apr 2024 21:30:07 GMT</pubDate>
+</item>
+
+<item>
 <title>SEC Small Business Advisory Committee To Discuss Regulation Crowdfunding And The State Of Angel Investing</title>
 <link>http://www.mondovisione.com/media-and-resources/news/sec-small-business-advisory-committee-to-discuss-regulation-crowdfunding-and-the/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/sec-small-business-advisory-committee-to-discuss-regulation-crowdfunding-and-the/</guid>
 <content:encoded><![CDATA[
-<div> Regulation Crowdfunding, angel investing, SEC meeting, small businesses, early-stage capital<br>
-Summary:<br>
+<div> Regulation Crowdfunding, angel investing, SEC meeting, small businesses, early-stage capital<br />
+Summary:<br />
 SEC meeting discusses Reg CF and angel investing to improve access to early-stage capital. Examines successes, challenges, and potential changes. Explores state of angel investing. <div>
 <p>The Securities and Exchange Commission&rsquo;s&nbsp;<a href="https://www.sec.gov/page/small-business-capital-formation-advisory-committee">Small Business Capital Formation Advisory Committee</a>&nbsp;today released the&nbsp;<a href="https://www.sec.gov/sbcfac-agenda-050624">agenda</a>&nbsp;for its meeting on Monday, May 6, 2024. The meeting will include a discussion of Regulation Crowdfunding (Reg CF) and activity and trends in angel investing. Members of the public can watch the live meeting via webcast on www.sec.gov.</p>
 <p>The Committee, which provides advice and recommendations to the Commission on rules, regulations, and policy matters relating to small businesses, will start the morning session by continuing to explore ways to expand access to early-stage capital raising, with a deep dive into Reg CF. The Committee will discuss successes to-date, challenges, and whether there are potential changes that could improve the exemption. SEC staff will share background information on the regulatory framework, and Committee members will hear from an invited guest about her recent academic report and about the experiences and outcomes of women and under-represented entrepreneurs who participated in Reg CF.</p>
 <p>In the afternoon session, following remarks from the Director of the SEC&rsquo;s Office of Strategic Hub for Innovation and Financial Technology, the Committee will explore the state of angel investing. Angel investors play a critical role in supporting early-stage companies, yet angel investments have slowed over the past year. Members will share their experiences on how capital raising trends and the current market are affecting angel investors, angel funds, and the companies they support. As part of this discussion, the Committee will explore how angel investors make decisions, their views on investment risk, and consider whether there are ways to encourage more angel investment activity.</p>
 <p>The full&nbsp;<a href="https://www.sec.gov/sbcfac-agenda-050624">agenda</a>, meeting materials, and information on how to watch the meeting are available on the&nbsp;<a href="https://www.sec.gov/page/small-business-capital-formation-advisory-committee">Committee webpage</a>.</p>
 ]]></content:encoded>
-<pubDate>Thu, 25 Apr 2024 19:25:52 GMT</pubDate>
 <pubDate>Thu, 25 Apr 2024 19:25:52 GMT</pubDate>
 </item>
 <item>
@@ -26,7 +251,7 @@ SEC meeting discusses Reg CF and angel investing to improve access to early-stag
 <guid>http://www.mondovisione.com/media-and-resources/news/us-acting-comptroller-of-the-currency-issues-statement-on-the-fdics-proposals-r/</guid>
 <content:encoded><![CDATA[
 <div> proposals, bank ownership, control, governance, interagency coordination
-Summary:<br>Acting Comptroller of the Currency Hsu discusses evolving bank ownership and control, highlighting the need for interagency coordination and further research.<br> <div>
+Summary:<br />Acting Comptroller of the Currency Hsu discusses evolving bank ownership and control, highlighting the need for interagency coordination and further research.<br /> <div>
 <p>Acting Comptroller of the Currency Michael J. Hsu today issued the following statement at the Federal Deposit Insurance Corporation&rsquo;s (FDIC) board meeting concerning the FDIC memorandum and resolution for proposals related to Change in Bank Control Act:</p>
 <blockquote>
 <p><em>I want to thank Directors Chopra and McKernan for these proposals. They shine much needed light on the evolving nature of bank ownership, control, and corporate governance.</em></p>
@@ -44,7 +269,6 @@ Summary:<br>Acting Comptroller of the Currency Hsu discusses evolving bank owner
 </ul>
 ]]></content:encoded>
 <pubDate>Thu, 25 Apr 2024 19:39:42 GMT</pubDate>
-<pubDate>Thu, 25 Apr 2024 19:39:42 GMT</pubDate>
 </item>
 <item>
 <title>SIFMA AMG Statement On FDIC Postponing Rule Proposals On “Control”</title>
@@ -57,7 +281,6 @@ Summary: SIFMA AMG appreciates the postponement of FDIC rule proposals on asset 
 <p>&ldquo;SIFMA AMG appreciates Director McKernan and Director Chopra&rsquo;s decision to table their proposals that would revise the FDIC&rsquo;s approach to passivity agreements and assessments of noncontrolling investments in FDIC-supervised institutions.&nbsp; &nbsp;As we note in our&nbsp;<a href="https://www.sifma.org/resources/submissions/potential-reevaluation-of-certain-asset-managers-passive-investments-in-fdic-supervised-institutions-sifma-amg/">letter</a>&nbsp;filed with the FDIC earlier this week, we believe the FDIC&rsquo;s current approach has worked well and is not in need of reevaluation.&nbsp; We also noted that some of the suggestions that were under consideration could have serious unintended consequences, including a detrimental impact on bank capital, as noted by Vice Chair Hill at today&rsquo;s meeting. By withdrawing the proposals today, we believe the FDIC will have the opportunity to further engage with industry and more thoughtfully consider proposed changes before determining whether to proceed.&nbsp; We also think it is important to consider Acting Comptroller of the Currency Hsu&rsquo;s concerns regarding ensuring any regulatory process includes all relevant regulatory agencies.</p>
 <p>&ldquo;Millions of Americans save for retirement and other financial goals with the help of funds managed by asset managers. Investors benefit from economies of scale and are paying lower fees than ever before, largely due to the lower costs of index investing. Such funds provide investors with exposure to many sectors of the economy including banking and as such are an important source of capital for the sector. Any reevaluation of asset managers&rsquo; investments in FDIC-supervised institutions should be done through a thoughtful, transparent and public notice-and-comment process that is designed to avoid limiting banks&rsquo; access to capital and risk unduly disincentivizing investment in banks and increasing the cost of investment for retail investors in the United States. We stand ready to work with the FDIC and its Directors as it considers what changes, if any, are necessary that would address concerns without negatively impacting our markets.&rdquo;</p>
 ]]></content:encoded>
-<pubDate>Thu, 25 Apr 2024 19:30:55 GMT</pubDate>
 <pubDate>Thu, 25 Apr 2024 19:30:55 GMT</pubDate>
 </item>
 <item>
@@ -79,7 +302,6 @@ The B.C. Securities Commission issued a decision about promotional disclosure, s
 <p>&ldquo;The Commission panel laid out specific expectations for the level of clarity and candor it expects to see in promotional material,&rdquo; said Brenda Leong, the BCSC&rsquo;s Chair and CEO. &ldquo;The integrity of our investment market depends on that clarity and candor, because investors need to be able to assess the objectivity of the information they&rsquo;re receiving. Companies and promoters should be aware of these expectations, which the BCSC will continue to enforce.&rdquo;</p>
 ]]></content:encoded>
 <pubDate>Thu, 25 Apr 2024 19:19:19 GMT</pubDate>
-<pubDate>Thu, 25 Apr 2024 19:19:19 GMT</pubDate>
 </item>
 <item>
 <title>The EBA Observes An Increase Of High Earners In The EU In 2022</title>
@@ -93,9 +315,7 @@ Summary: The EBA report shows a 19.7% increase in high earners receiving over EU
 <p>Click <a href="https://www.eba.europa.eu/publications-and-media/press-releases/eba-observes-increase-high-earners-eu-2022" title="here">here</a> for full details.</p>
 ]]></content:encoded>
 <pubDate>Thu, 25 Apr 2024 19:47:17 GMT</pubDate>
-<pubDate>Thu, 25 Apr 2024 19:47:17 GMT</pubDate>
 </item>
-
 <item>
 <title>Canadian Securities Administrators Publishes Research On Impact Of Client Relationship Model Amendments On Industry And Investor Behaviour</title>
 <link>http://www.mondovisione.com/media-and-resources/news/canadian-securities-administrators-publishes-research-on-impact-of-client-relati/</link>
