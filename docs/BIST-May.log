@@ -825,3 +825,15 @@ Summarized using GPT-3.5-turbo-1106
 Append: [New Exchange Council at EEX](http://www.mondovisione.com/media-and-resources/news/new-exchange-council-at-eex/)
 append_entries: 1
 Finish: 2024-05-16 12:33:22.220790
+------------------------------------------------------
+Started: 2024-05-16 14:17:02.684085
+Existing_entries: 140
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Token length: 2110
+Summarized using GPT-3.5-turbo-1106
+Append: [Vojtěch Belling Reappointed Vice Chair Of ESMA](http://www.mondovisione.com/media-and-resources/news/vojtch-belling-reappointed-vice-chair-of-esma/)
+Token length: 1628
+Summarized using GPT-3.5-turbo-1106
+Append: [ESMA Publishes Data On Markets And Securities In The EEA](http://www.mondovisione.com/media-and-resources/news/esma-publishes-data-on-markets-and-securities-in-the-eea/)
+append_entries: 2
+Finish: 2024-05-16 14:17:05.938922
