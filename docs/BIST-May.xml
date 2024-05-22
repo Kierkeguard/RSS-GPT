@@ -4,6 +4,324 @@
 <title>News Articles</title>
 <link>http://www.mondovisione.com/media-and-resources/news/</link>
 
+<item>
+<title>UK Financial Conduct Authority Fines CGML £27,766,200 For Failures In Its Trading Systems And Controls</title>
+<link>http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-fines-cgml-27766200-for-failures-in-its-tradin-1/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-fines-cgml-27766200-for-failures-in-its-tradin-1/</guid>
+<content:encoded><![CDATA[
+<div> Investigation, Citigroup Global Markets Limited, FCA, Algorithmic trading, Financial penalty
+<br>
+The FCA fined CGML £27.7m for algorithmic trading failures resulting in £1.4bn of equities sold in error in European markets.
+<br><br>Summary: The FCA fined CGML for algorithmic trading failures, resulting in £1.4bn of equities sold in error in European markets. <div>
+<p><section class="copy-highlighted copy-block component fca-colour--6c1d45 default">
+<div class="container">
+<p>The FCA has fined Citigroup Global Markets Limited (CGML) &pound;27,766,200.</p>
+</div>
+</section><section class="copy-block default">
+<div class="container">
+<p>Failures in the firm&rsquo;s systems and controls led to US$1.4bn of equities being sold in European markets when they should not have been.</p>
+<p>On 2 May 2022, a CGML trader had intended to sell a basket of equities to the value of US$58m. The trader made an inputting error while entering the basket in an order management system. This resulted in a basket to the value of US$444bn being created.</p>
+<p>CGML controls blocked US$255bn of the basket progressing, but not the remaining US$189bn which was sent to a trading algorithm. The algorithm selected was designed to place portions of this total order to be sold in the market over the rest of the day.</p>
+<p>In total US$1.4bn of equities were sold across European exchanges, before the trader cancelled the order. This coincided with a material short-term drop in some European indices which lasted a few minutes.</p>
+<p>While parts of CGML&rsquo;s trading control framework operated as CGML expected, some primary controls were absent or deficient. In particular, there was no hard block that would have rejected this large erroneous basket of equities in its entirety and prevented any of it reaching the market.</p>
+<p>Due to poor design, the trader was also able to manually override a pop-up alert, without being required to scroll down and read all the alerts within it. The firm&rsquo;s real-time monitoring was ineffective, which meant that it was too slow to escalate internal alerts about the erroneous trades.</p>
+<p>Steve Smart, joint executive director of enforcement and market oversight at the FCA, said: &lsquo;The FCA expects firms engaged in trading activities, including those using algorithmic trading, to have effective systems and controls in place to stop errors like this occurring.</p>
+<p>&lsquo;These failings led to over a billion pounds of erroneous orders being executed and risked creating a disorderly market. We expect firms to look at their own controls and ensure that they are appropriate given the speed and complexity of financial markets.&rsquo;</p>
+<p>CGML did not dispute the FCA&rsquo;s findings and agreed to settle, which means it has qualified for a 30% discount. Without this discount, the amount of financial penalty imposed by the FCA would have been &pound;39,666,000.</p>
+<p>On 22 May 2024, the Prudential Regulation Authority (PRA) also imposed a financial penalty of &pound;33,880,000 on CGML following its own investigation into related matters.</p>
+<h3>Background</h3>
+<ol>
+<li>
+<p>Read the&nbsp;<a href="https://www.fca.org.uk/publication/final-notices/citigroup-global-markets-limited-2024.pdf" title="Final Notice 2024: Citigroup Global Markets Ltd">FCA&rsquo;s Final Notice to CGML</a>.</p>
+</li>
+<li>
+<p>Read the&nbsp;<a class="ext" href="https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/regulatory-action/final-notice-from-boe-and-pra-to-citigroup-global-markets-limited.pdf" rel="noopener" target="_blank" title="Citigroup Global Markets Ltd - Final Notice">PRA&rsquo;s Final Notice to CGML<span class="ext">&nbsp;</span></a>.</p>
+</li>
+<li>
+<p>The FCA found that CGML breached the following during the relevant period:&nbsp;</p>
+<ul>
+<li><a href="https://www.handbook.fca.org.uk/handbook/PRIN/2/?view=chapter" target="_blank" title="PRIN 2.1 The Principles | FCA Handbook">Principle 2 of the FCA Handbook</a>&nbsp;(requires a firm to conduct its business with due skill, care, and diligence)</li>
+<li><a href="https://www.handbook.fca.org.uk/handbook/PRIN/2/?view=chapter" target="_blank" title="PRIN 2.1 The Principles | FCA Handbook">Principle 3 of the FCA Handbook</a>&nbsp;(requires a firm to take reasonable care to organise and control its affairs responsibly and effectively, with adequate risk management systems)</li>
+<li><a href="https://www.handbook.fca.org.uk/handbook/MAR/7A/?view=chapter" target="_blank" title="MAR 7A.1 Application | FCA Handbook">Rule 7A.3.2</a>&nbsp;of the Market Conduct part of the FCA&rsquo;s handbook known as MAR&nbsp;(requires firms that engage in algorithmic trading to have in place effective systems and controls, suitable to the business it operates)</li>
+</ul>
+</li>
+<li>
+<p>CGML is regulated by the Prudential Regulation Authority (PRA) for prudential purposes and by the Financial Conduct Authority (FCA) for conduct matters.&nbsp;</p>
+</li>
+<li>
+<p>Read the&nbsp;<a href="https://www.fca.org.uk/about/how-we-regulate/enforcement" title="Enforcement">FCA&rsquo;s approach to enforcement</a>.</p>
+</li>
+<li>
+<p>Read the&nbsp;<a href="https://www.fca.org.uk/publication/corporate/enforcement-information-guide.pdf" title="Enforcement information guide">FCA enforcement information guide</a>.</p>
+</li>
+<li>
+<p>Read the&nbsp;<a class="ext" href="https://www.bankofengland.co.uk/prudential-regulation/the-bank-of-england-enforcement" rel="noopener" target="_blank" title="The Bank of England&rsquo;s approach to enforcement | Prudential Regulation Authority">PRA&rsquo;s statutory supervisory powers<span class="ext"></span></a>.</p>
+</li>
+<li>
+<p>Read the&nbsp;<a class="ext" href="https://www.bankofengland.co.uk/prudential-regulation/publication/2024/january/the-bank-of-england-approach-to-enforcement-statements-of-policy-and-procedure" rel="noopener" target="_blank" title="The Bank&rsquo;s approach to enforcement: statutory statements of policy and procedure | Bank of England">PRA&rsquo;s approach to enforcement<span class="ext"></span></a>.</p>
+</li>
+</ol></div>
+</section></p>
+]]></content:encoded>
+<pubDate>Wed, 22 May 2024 07:14:40 GMT</pubDate>
+<pubDate>Wed, 22 May 2024 07:14:40 GMT</pubDate>
+</item>
+<item>
+<title>Shenzhen Stock Exchange Market Bulletin, May 17, 2024, Issue 13</title>
+<link>http://www.mondovisione.com/media-and-resources/news/shenzhen-stock-exchange-market-bulletin-may-17-2024-issue-13/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/shenzhen-stock-exchange-market-bulletin-may-17-2024-issue-13/</guid>
+<content:encoded><![CDATA[
+<div> Keywords: Shenzhen Stock Exchange, market bulletin, issue 13, download, stock market.
+Summary: The Shenzhen Stock Exchange has released issue 13 of its market bulletin for download, providing updates on the stock market.<br><br>Summary: Shenzhen Stock Exchange releases market bulletin issue 13 for download, offering insights into the stock market. <div>
+<p><span>Click&nbsp;</span><a href="https://mondovisione.com/_assets/files/SZSE_MKT_Bull_13_24.pdf" title="SZSE_MKT_Bull_13_24.pdf">here</a><span>&nbsp;to download Shenzhen Stock Exchange's market bulletin, issue 13.</span></p>
+]]></content:encoded>
+<pubDate>Wed, 22 May 2024 07:10:30 GMT</pubDate>
+<pubDate>Wed, 22 May 2024 07:10:30 GMT</pubDate>
+</item>
+<item>
+<title>Opening Remarks At The ASIC UTS AI Regulators Symposium, Address By ASIC Chair Joe Longo On 21 May 2024</title>
+<link>http://www.mondovisione.com/media-and-resources/news/opening-remarks-at-the-asic-uts-ai-regulators-symposium-address-by-asic-chair-j/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/opening-remarks-at-the-asic-uts-ai-regulators-symposium-address-by-asic-chair-j/</guid>
+<content:encoded><![CDATA[
+<div> ASIC UTS AI Regulators Symposium, AI regulation, government role, mitigating risks, using AI for good, strong regulatory framework<br>
+Summary:<br>
+ASIC UTS AI Regulators Symposium discussed AI regulation, government's role in mitigating risks and using AI for good, and the need for a strong regulatory framework. <div>
+<p>Good evening, everyone: the Assistant Treasurer and Minister for Financial Services Stephen Jones, Commissioners, colleagues and guests.</p>
+<p>Welcome to the ASIC UTS AI Regulators Symposium.</p>
+<p>This has been in discussion for quite a while and I take a lot of personal satisfaction from this coming together, and a special thanks to Professor Nick Davis and Graham Jefferson from ASIC for pulling this together.</p>
+<p>I was last here in January, when I had the privilege of delivering the keynote address at the university&rsquo;s Shaping Our Future Symposium. At that forum, I spoke about the current and future state of AI regulation.</p>
+<p>Today, we are continuing the conversation, as we bring together academics, industry experts and government to consider how we bridge the divide between the regulation we have and the regulation we need.</p>
+<p>While generative AI technology is well advanced &ndash; and its development continues apace &ndash; we should not cede to defeatist notions that the horse has bolted.</p>
+<p>Government and regulators can &ndash; and must &ndash; have a hand in shaping how AI technology is designed and deployed. It needs to accord with the values and rights on which our social stability and individual liberties depend.</p>
+<p>We should avoid, as well, the notion that AI is too complex to be knowable. Like all technology, AI is the product of human ingenuity and can therefore, by definition, be understood. Moreover, it is the job of government and regulators to ensure that these systems are explainable and transparent.</p>
+<p>Fatalistic fears of sentient technology overrunning humanity are the stuff of nightmares &ndash; and science fiction. We should not let these existential anxieties &ndash; grimly enthralling though they are &ndash; distract us from the task in hand.</p>
+<p>Our job is to mitigate the known risks &ndash; and, in doing so, bend the trajectory away from the worst imagined outcomes, so that they never materialise.</p>
+<p>One such risk that ASIC is concerned with, for example, is the use of AI to super-charge scams at scale. This is an issue that has sometimes been overshadowed by speculation about the more apocalyptic outcomes that have captured so much of the conversation around AI. But, at an individual level, the consequences could be devastating.</p>
+<p>There are also, of course, a great number of opportunities to use AI for good.</p>
+<p>Yesterday, ASIC released its report into our review of the financial hardship practices of lenders. The report shows that home loan lenders have made accessing financial hardship assistance so difficult that more than one in three applicants dropped out of the process.</p>
+<p>So, I hope industry will be looking at how it can use AI to improve outcomes for consumers.</p>
+<p>Across Australia, a consensus is developing: we need a strong regulatory framework to steer the course of AI towards its safe and responsible development and use. A framework that enables technological innovation to flourish, so that it can deliver the promised economic benefits and productivity improvements. But not at the expense of consumers and investors.</p>
+<p>Someone who has been facing into this challenge is our keynote speaker: the Honourable Stephen Jones, Assistant Treasurer and Minister for Financial Services.</p>
+<p>Minister, on behalf of ASIC and UTS, we thank you for your time and look forward to hearing from you.</p>
+]]></content:encoded>
+<pubDate>Wed, 22 May 2024 05:55:40 GMT</pubDate>
+<pubDate>Wed, 22 May 2024 05:55:40 GMT</pubDate>
+</item>
+<item>
+<title>New Zealand Financial Markets Authority - Consultation: Class Exemption Renewal For Disclosure Of Relevant Interests By Directors And Senior Managers, And NZCDC Settlement System</title>
+<link>http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-consultation-class-exemption-renewal/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-consultation-class-exemption-renewal/</guid>
+<content:encoded><![CDATA[
+<div> Financial Markets Conduct Act, exemption notices, directors, senior managers, clearing and depository participants  
+Summary:  
+- Review of two exemption notices under FMC Act  
+- Renewal consideration for directors and senior managers  
+- Relief for clearing and depository participants  
+- Feedback invited for the review  <div>
+<table style="border-collapse: collapse; width: 100.029%; height: 111px;">
+<colgroup><col style="width: 49.9407%;" /><col style="width: 49.9407%;" /></colgroup> 
+<tbody>
+<tr style="height: 18.5px;">
+<td style="height: 18.5px;"><strong><span class="TextRun SCXW84104944 BCX8"><span class="NormalTextRun SCXW84104944 BCX8">Final date for submission</span></span><span class="EOP SCXW84104944 BCX8">&nbsp;</span></strong></td>
+<td style="height: 18.5px;"><strong><span class="TextRun SCXW44226167 BCX8"><span class="NormalTextRun SCXW44226167 BCX8">5pm, Friday</span><span class="NormalTextRun SCXW44226167 BCX8"> 21 June</span><span class="NormalTextRun SCXW44226167 BCX8"> 2024 </span></span><span class="EOP SCXW44226167 BCX8">&nbsp;</span></strong></td>
+</tr>
+<tr style="height: 37px;">
+<td style="height: 37px;"><strong><span class="TextRun SCXW169292456 BCX8"><span class="NormalTextRun SCXW169292456 BCX8">Consultation documents</span></span></strong></td>
+<td style="height: 37px;"><a href="https://mondovisione.com/assets/Consultations/Consultation-paper_Exemption-renewal-director-interests-and-NZCDC-settlement-system.pdf" title="Have your say on the renewal of exemptions for disclosures of relevant interests by directors and senior managers, and in relation to NZCDC Settlement System activities. Submissions close 21 June 2024. ">Consultation paper: Class exemption renewal for disclosure of relevant interests by directors and senior managers, and NZCDC Settlement System</a></td>
+</tr>
+<tr style="height: 37px;">
+<td style="height: 37px;"><strong><span class="TextRun SCXW31731694 BCX8"><span class="NormalTextRun SCXW31731694 BCX8">Submission form </span></span><span class="EOP SCXW31731694 BCX8">&nbsp;</span></strong></td>
+<td><a href="https://mondovisione.com/assets/Consultations/Feedback-form_Exemption-renewal-director-interests-and-NZCDC-settlement-system.docx" title="Feedback form Exemption renewal director interests and NZCDC settlement system">Submission form:  Class exemption renewal for disclosure of relevant interests by directors and senior managers, and NZCDC Settlement System &nbsp;</a></td>
+</tr>
+<tr>
+<td><strong><span class="TextRun SCXW31731694 BCX8"><span class="NormalTextRun SCXW31731694 BCX8"><span class="TextRun SCXW212313346 BCX8"><span class="NormalTextRun SCXW212313346 BCX8">Email for submission</span></span><span class="EOP SCXW212313346 BCX8">&nbsp;</span></span></span></strong></td>
+<td><a href="https://mondovisione.com/cdn-cgi/l/email-protection#5e3d31302d2b322a3f2a3731301e38333f703931282a703024612d2b3c343b3d2a631d31302d2b322a3f2a3731307b6c6e2d2b3c33372d2d3731307b6d1f7b6c6e1d323f2d2d7b6c6e3b263b332e2a3731307b6c6e2c3b303b293f327b6c6e38312c7b6c6e3a372d3d32312d2b2c3b7b6c6e31387b6c6e2c3b323b283f302a7b6c6e37302a3b2c3b2d2a2d7b6c6e3c277b6c6e3a372c3b3d2a312c2d7b6c6e3f303a7b6c6e2d3b3037312c7b6c6e333f303f393b2c2d7b6c1d7b6c6e3f303a7b6c6e10041d1a1d7b6c6e0d3b2a2a323b333b302a7b6c6e0d272d2a3b337b6c6e"><span class="__cf_email__">[email&nbsp;protected]</span></a></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>We are reviewing whether to renew two existing class exemption notices for a further five years: &nbsp;</p>
+<ul>
+<li><strong>The Financial Markets Conduct (Disclosure of Relevant Interests by Directors and Senior Managers) Exemption Notice 2019 &ndash;</strong> this provides conditional relief for directors and senior managers of listed issuers from the requirements of the Financial Markets Conduct Act 2013 (FMC Act) to disclose relevant interests in quoted financial products of the listed issuer or a related body corporate where: &nbsp; &nbsp;  
+<ul>
+<li>the financial product is an interest in a passive fund; or &nbsp; &nbsp;</li>
+<li>financial products of the listed issuer are approved for trading on a financial product market authorised to operate in Australia or the United Kingdom, and a valid disclosure has been made under the listing rules of that other market. &nbsp; &nbsp;</li>
+</ul>
+</li>
+<li><strong>The Financial Markets Conduct (NZCDC Settlement System) Exemption Notice 2019 &ndash;</strong> this provides relief for clearing and depository participants from the substantial holding disclosure requirements of the FMC Act for interests that arise in the course of certain clearing and settlement activities and not on a participant&rsquo;s own account. &nbsp; &nbsp;</li>
+</ul>
+<p>&nbsp;</p>
+<p>We invite your feedback to support our review of these exemption notices. Please use the feedback form above. &nbsp;</p>
+<p><span class="button-link--green-dark"><a href="https://mondovisione.com/assets/Consultations/Consultation-paper_Exemption-renewal-director-interests-and-NZCDC-settlement-system.pdf" title="Have your say on the renewal of exemptions for disclosures of relevant interests by directors and senior managers, and in relation to NZCDC Settlement System activities. Submissions close 21 June 2024. ">Download Consultation paper: Class exemption renewal for disclosure of relevant interests by directors and senior managers, and NZCDC Settlement System [PDF]</a></span></p>
+]]></content:encoded>
+<pubDate>Wed, 22 May 2024 06:12:50 GMT</pubDate>
+<pubDate>Wed, 22 May 2024 06:12:50 GMT</pubDate>
+</item>
+<item>
+<title>CFTC Chairman Behnam To Keynote At The HCMC Public Conference “Climate In The Center Of Economy”</title>
+<link>http://www.mondovisione.com/media-and-resources/news/cftc-chairman-behnam-to-keynote-at-the-hcmc-public-conference-climate-in-the-ce/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/cftc-chairman-behnam-to-keynote-at-the-hcmc-public-conference-climate-in-the-ce/</guid>
+<content:encoded><![CDATA[
+<div> Conference, Climate, Economy, Chairman, HCMC
+<br>
+Chairman Rostin Behnam will keynote at the HCMC Public Conference “Climate in the Center of Economy” at Grand Hyatt Athens Hotel.
+<br><br>Summary: 
+Chairman Rostin Behnam will be speaking at the HCMC Public Conference in Greece on May 29, 2024, discussing the impact of climate on the economy. <div>
+<table border="0" cellpadding="0" cellspacing="0" width="99%">
+<tbody>
+<tr>
+<td valign="top" width="15%">
+<p>WHAT:</p>
+</td>
+<td valign="top" width="84%">
+<p>Chairman Rostin Behnam will keynote at the HCMC Public Conference &ldquo;Climate in the Center of Economy&rdquo;.</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="15%">
+<p>WHEN:</p>
+</td>
+<td valign="top" width="84%">
+<p>Wednesday, May 29, 2024<br /><br />2:45 p.m. (Athens/UTC +7)<br />7:45 a.m. (USA/ET)</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="15%">
+<p>WHERE:</p>
+</td>
+<td valign="top" width="84%">
+<p>Grand Hyatt Athens Hotel<br />Leof.Andrea Siggrou 115<br />Athina 117 45, Greece<br /><br />Additional information:&nbsp;<a href="http://www.cftc.gov/exit/index.htm?https://www.iosco2024greece.com/index.php" target="_blank">IOSCO 2024 GREECE</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+]]></content:encoded>
+<pubDate>Wed, 22 May 2024 06:58:46 GMT</pubDate>
+<pubDate>Wed, 22 May 2024 06:58:46 GMT</pubDate>
+</item>
+<item>
+<title>CFTC Chairman Behnam To Participate In A Fireside Chat At The CCP Annual General Meeting 2024</title>
+<link>http://www.mondovisione.com/media-and-resources/news/cftc-chairman-behnam-to-participate-in-a-fireside-chat-at-the-ccp-annual-general-1/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/cftc-chairman-behnam-to-participate-in-a-fireside-chat-at-the-ccp-annual-general-1/</guid>
+<content:encoded><![CDATA[
+
+<table class="Table" width="99%">
+<tbody>
+<tr>
+<td valign="top">
+<p class="x"><span><span><span><span><span>WHAT:</span></span></span></span></span></p>
+</td>
+<td valign="top">
+<p class="x"><span><span><span><span>Chairman Rostin Behnam will participate in a fireside chat at the CCP Annual General Meeting 2024.</span></span></span></span></p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p class="x"><span><span><span><span><span>WHEN:</span></span></span></span></span></p>
+</td>
+<td valign="top">
+<p class="x"><span><span><span><span>Wednesday, May 29, 2024</span></span></span></span></p>
+<p class="x"><span><span><span><span>1:00 p.m. (Athens/UTC +7)<br />6:00 a.m. (USA/ET)</span></span></span></span></p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p class="x"><span><span><span><span><span>WHERE:</span></span></span></span></span></p>
+</td>
+<td valign="top">
+<p><span><span><span><span>Royal Olympic Athens Hotel<br />Athanasiou Diakou 28<br />Athina 117 43, Greece<br /><br />Additional information:&nbsp;<a href="http://www.cftc.gov/exit/index.htm?https://ccp-global.org/meetings/" target="_blank">CCPG Meetings - CCP Global (ccp-global.org)</a></span></span></span></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+]]></content:encoded>
+<pubDate>Wed, 22 May 2024 06:56:00 GMT</pubDate>
+<pubDate>Wed, 22 May 2024 06:56:00 GMT</pubDate>
+</item>
+<item>
+<title>CFTC Chairman Behnam To Participate In A Fireside Chat At The CCP Annual General Meeting 2024</title>
+<link>http://www.mondovisione.com/media-and-resources/news/cftc-chairman-behnam-to-participate-in-a-fireside-chat-at-the-ccp-annual-general/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/cftc-chairman-behnam-to-participate-in-a-fireside-chat-at-the-ccp-annual-general/</guid>
+<content:encoded><![CDATA[
+
+<table class="Table" width="99%">
+<tbody>
+<tr>
+<td valign="top">
+<p class="x"><span><span><span><span><span>WHAT:</span></span></span></span></span></p>
+</td>
+<td valign="top">
+<p class="x"><span><span><span><span>Chairman Rostin Behnam will participate in a fireside chat at the CCP Annual General Meeting 2024.</span></span></span></span></p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p class="x"><span><span><span><span><span>WHEN:</span></span></span></span></span></p>
+</td>
+<td valign="top">
+<p class="x"><span><span><span><span>Wednesday, May 29, 2024</span></span></span></span></p>
+<p class="x"><span><span><span><span>1:00 p.m. (Athens/UTC +7)<br />6:00 a.m. (USA/ET)</span></span></span></span></p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p class="x"><span><span><span><span><span>WHERE:</span></span></span></span></span></p>
+</td>
+<td valign="top">
+<p><span><span><span><span>Royal Olympic Athens Hotel<br />Athanasiou Diakou 28<br />Athina 117 43, Greece<br /><br />Additional information:&nbsp;<a href="http://www.cftc.gov/exit/index.htm?https://ccp-global.org/meetings/" target="_blank">CCPG Meetings - CCP Global (ccp-global.org)</a></span></span></span></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+]]></content:encoded>
+<pubDate>Wed, 22 May 2024 06:55:59 GMT</pubDate>
+<pubDate>Wed, 22 May 2024 06:55:59 GMT</pubDate>
+</item>
+<item>
+<title>Disclosure Of Cybersecurity Incidents Determined To Be Material And Other Cybersecurity Incidents[*], Erik Gerding, Director, SEC Division Of Corporation Finance, May 21, 2024</title>
+<link>http://www.mondovisione.com/media-and-resources/news/disclosure-of-cybersecurity-incidents-determined-to-be-material-and-other-cybers/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/disclosure-of-cybersecurity-incidents-determined-to-be-material-and-other-cybers/</guid>
+<content:encoded><![CDATA[
+
+<p>The cybersecurity rules that the Commission adopted on July 26, 2023 require public companies to disclose material cybersecurity incidents under Item 1.05 of Form 8-K.<a href="https://www.sec.gov/news/statement/gerding-cybersecurity-incidents-05212024#_ftn1" name="_ftnref1">[1]</a>&nbsp;&nbsp;If a company chooses to disclose a cybersecurity incident for which it has not yet made a materiality determination, or a cybersecurity incident that the company determined was not material, the Division of Corporation Finance encourages the company to disclose that cybersecurity incident under a different item of Form 8-K (for example, Item 8.01). &nbsp;Although the text of Item 1.05 does not expressly prohibit voluntary filings, Item 1.05 was added to Form 8-K to require the disclosure of a cybersecurity incident &ldquo;that is determined by the registrant to be material,&rdquo; and, in fact, the item is titled &ldquo;Material Cybersecurity Incidents.&rdquo;<a href="https://www.sec.gov/news/statement/gerding-cybersecurity-incidents-05212024#_ftn2" name="_ftnref2">[2]</a>&nbsp;&nbsp;In addition, in adopting Item 1.05, the Commission stated that &ldquo;Item 1.05 is not a voluntary disclosure, and it is by definition material because it is not triggered until the company determines the materiality of an incident.&rdquo;<a href="https://www.sec.gov/news/statement/gerding-cybersecurity-incidents-05212024#_ftn3" name="_ftnref3">[3]</a>&nbsp;&nbsp;Therefore, it could be confusing for investors if companies disclose either immaterial cybersecurity incidents or incidents for which a materiality determination has not yet been made under Item 1.05.</p>
+<p>This clarification is not intended to discourage companies from voluntarily disclosing cybersecurity incidents for which they have not yet made a materiality determination, or from disclosing incidents that companies determine to be immaterial.&nbsp; I recognize the value of such voluntary disclosures to investors, the marketplace, and ultimately to companies, and this statement is not intended to disincentivize companies from making those disclosures.&nbsp; Rather, this statement is intended to encourage the filing of such voluntary disclosures in a manner that does not result in investor confusion or dilute the value of Item 1.05 disclosures regarding material cybersecurity incidents.</p>
+<p>Given the prevalence of cybersecurity incidents, this distinction between a Form 8-K filed under Item 1.05 for a cybersecurity incident determined by a company to be material and a Form 8-K voluntarily filed under Item 8.01 for other cybersecurity incidents will allow investors to more easily distinguish between the two and make better investment and voting decisions with respect to material cybersecurity incidents.&nbsp; By contrast, if all cybersecurity incidents are disclosed under Item 1.05, then there is a risk that investors will misperceive immaterial cybersecurity incidents as material, and vice versa.</p>
+<p>If a company discloses an immaterial incident (or one for which it has not yet made a materiality determination) under Item 8.01 of Form 8-K, and then it subsequently determines that the incident is material, then it should file an Item 1.05 Form 8-K within four business days of such subsequent materiality determination.<a href="https://www.sec.gov/news/statement/gerding-cybersecurity-incidents-05212024#_ftn4" name="_ftnref4">[4]</a>&nbsp; That Form 8-K may refer to the earlier Item 8.01 Form 8-K, but the company would need to ensure that the disclosure in the subsequent filing satisfies the requirements of Item 1.05.</p>
+<p>Finally, in determining whether a cybersecurity incident is material, and in assessing the incident&rsquo;s impact (or reasonably likely impact), companies should assess all relevant factors.&nbsp; As the Commission noted in the Adopting Release, that assessment should not be limited to the impact on &ldquo;financial condition and results of operation,&rdquo; and &ldquo;companies should consider qualitative factors alongside quantitative factors.&rdquo;<a href="https://www.sec.gov/news/statement/gerding-cybersecurity-incidents-05212024#_ftn5" name="_ftnref5">[5]</a>&nbsp; For example, companies should consider whether the incident will &ldquo;harm . . . [its] reputation, customer or vendor relationships, or competitiveness.&rdquo;<a href="https://www.sec.gov/news/statement/gerding-cybersecurity-incidents-05212024#_ftn6" name="_ftnref6">[6]</a>&nbsp; Companies also should consider &ldquo;the possibility of litigation or regulatory investigations or actions, including regulatory actions by state and Federal Governmental authorities and non-U.S. authorities.&rdquo;<a href="https://www.sec.gov/news/statement/gerding-cybersecurity-incidents-05212024#_ftn7" name="_ftnref7">[7]</a>&nbsp; There also may be cases in which a cybersecurity incident is so significant that a company determines it to be material even though the company has not yet determined its impact (or reasonably likely impact).&nbsp; In those cases, the company should disclose the incident in an Item 1.05 Form 8-K, include a statement noting that the company has not yet determined the impact (or reasonably likely impact) of the incident, and amend the Form 8-K to disclose the impact once that information is available.<a name="_Ref164093738"></a><a href="https://www.sec.gov/news/statement/gerding-cybersecurity-incidents-05212024#_ftn8" name="_ftnref8">[8]</a>&nbsp; The initial Form 8-K filing, however, should provide investors with information necessary to understand the material aspects of the nature, scope, and timing of the incident, notwithstanding the company&rsquo;s inability to determine the incident&rsquo;s impact (or reasonably likely impact) at that time.</p>
+<div>
+<hr align="left" size="1" width="33%" />
+<div id="ftn*">
+<p><a href="https://www.sec.gov/news/statement/gerding-cybersecurity-incidents-05212024#_ftnref*" name="_ftn*">[*]</a>&nbsp;This statement is provided in the author&rsquo;s official capacity as the Commission&rsquo;s Director of the Division of Corporation Finance but does not necessarily reflect the views of the Commission, Commissioners, or other members of the staff. &nbsp;This statement is not a rule, regulation, or statement of the Commission. &nbsp;The Commission has neither approved nor disapproved its content. &nbsp;This statement, like all staff statements, has no legal force or effect: it does not alter or amend applicable law, and it creates no new or additional obligations for any person.</p>
+</div>
+<div id="ftn1">
+<p><a href="https://www.sec.gov/news/statement/gerding-cybersecurity-incidents-05212024#_ftnref1" name="_ftn1">[1]</a>&nbsp;<i>Cybersecurity Risk Management, Strategy, Governance, and Incident Disclosure</i>, Release Nos. 33-11216; 34-97989 (July 26, 2023) [88 FR 51896 (Aug. 4, 2023)] (&ldquo;Adopting Release&rdquo;).&nbsp; Market participants also should refer to my previous statement on these rules, which I issued last December, available at&nbsp;<a href="https://www.sec.gov/news/statement/gerding-cybersecurity-disclosure-20231214">https://www.sec.gov/news/statement/gerding-cybersecurity-disclosure-20231214</a>.</p>
+</div>
+<div id="ftn2">
+<p><a href="https://www.sec.gov/news/statement/gerding-cybersecurity-incidents-05212024#_ftnref2" name="_ftn2">[2]</a>&nbsp;Form 8-K, Item 1.05.</p>
+</div>
+<div id="ftn3">
+<p><a href="https://www.sec.gov/news/statement/gerding-cybersecurity-incidents-05212024#_ftnref3" name="_ftn3">[3]</a>&nbsp;Adopting Release at 51907.</p>
+</div>
+<div id="ftn4">
+<p><a href="https://www.sec.gov/news/statement/gerding-cybersecurity-incidents-05212024#_ftnref4" name="_ftn4">[4]</a>&nbsp;For the avoidance of doubt, a company that discloses a cybersecurity incident under Item 8.01 of Form 8-K for which it has not yet made a materiality determination is still subsequently required, under Item 1.05 of Form 8-K, to determine, without unreasonable delay, whether the incident was material.</p>
+</div>
+<div id="ftn5">
+<p><a href="https://www.sec.gov/news/statement/gerding-cybersecurity-incidents-05212024#_ftnref5" name="_ftn5">[5]</a>&nbsp;Adopting Release at 51904.</p>
+</div>
+<div id="ftn6">
+<p><a href="https://www.sec.gov/news/statement/gerding-cybersecurity-incidents-05212024#_ftnref6" name="_ftn6">[6]</a>&nbsp;<i>Id.</i></p>
+</div>
+<div id="ftn7">
+<p><a href="https://www.sec.gov/news/statement/gerding-cybersecurity-incidents-05212024#_ftnref7" name="_ftn7">[7]</a>&nbsp;<i>Id.</i></p>
+</div>
+<div id="ftn8">
+<p><a href="https://www.sec.gov/news/statement/gerding-cybersecurity-incidents-05212024#_ftnref8" name="_ftn8">[8]</a>&nbsp;<i>See&nbsp;</i>Instruction 2 to Item 1.05 of Form 8-K (&ldquo;To the extent that the information called for in Item 1.05(a) is not determined or is unavailable at the time of the required filing, the registrant shall include a statement to this effect in the filing and then must file an amendment to its Form 8-K filing under this Item 1.05 containing such information within four business days after the registrant, without unreasonable delay, determines such information or within four business days after such information becomes available.&rdquo;).</p>
+</div>
+</div>
+]]></content:encoded>
+<pubDate>Wed, 22 May 2024 06:06:41 GMT</pubDate>
+<pubDate>Wed, 22 May 2024 06:06:41 GMT</pubDate>
+</item>
 
 <item>
 <title>SEC Chair Gensler Statement On Upcoming Implementation Of T+1 Settlement Cycle</title>
