@@ -3108,3 +3108,15 @@ Existing_entries: 512
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2024-07-04 04:20:46.004692
+------------------------------------------------------
+Started: 2024-07-04 06:25:49.657602
+Existing_entries: 512
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Token length: 492
+Summarized using GPT-3.5-turbo-1106
+Append: [ASX Group Monthly Activity Report - June 2024](http://www.mondovisione.com/media-and-resources/news/asx-group-monthly-activity-report-june-2024/)
+Token length: 2045
+Summarized using GPT-3.5-turbo-1106
+Append: [B.C. Securities Commission: Crypto Trading Platform Operator Violated Securities Act](http://www.mondovisione.com/media-and-resources/news/bc-securities-commission-crypto-trading-platform-operator-violated-securities/)
+append_entries: 2
+Finish: 2024-07-04 06:25:52.356337
