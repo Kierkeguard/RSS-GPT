@@ -5,6 +5,388 @@
 <link>http://www.mondovisione.com/media-and-resources/news/</link>
 
 <item>
+<title>ESMA Reappoints Three Members To Its Management Board</title>
+<link>http://www.mondovisione.com/media-and-resources/news/esma-reappoints-three-members-to-its-management-board/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/esma-reappoints-three-members-to-its-management-board/</guid>
+<content:encoded><![CDATA[
+<div> reappointed, members, ESMA, Management Board, Financial Markets regulator<br>
+Summary: 
+ESMA reappointed three members, including Thorsten Pötzsch and Rodrigo Buenaventura, to its Management Board for a second term. <div>
+<div class="clearfix text-formatted field field--name-field-news-introduction field--type-text-long field--label-hidden field__item">
+<p>The European Securities and Markets Authority (ESMA), the EU&rsquo;s financial markets regulator and supervisor, has reappointed three current members to its&nbsp;<a href="https://www.esma.europa.eu/about-esma/governance-structure/management-board">Management Board</a>. The appointments took place at the Board of Supervisors meeting on 3 July 2024.</p>
+</div>
+<div class="clearfix text-formatted field field--name-field-news-body field--type-text-long field--label-hidden field__item">
+<p>The members who have been reappointed are:</p>
+<ul>
+<li>Thorsten P&ouml;tzsch, Bundesanstalt f&uuml;r Finanzdienstleistungsaufsicht (BaFin);&nbsp;</li>
+<li>Rodrigo Buenaventura, Comisi&oacute;n Nacional del Mercado de Valores (CNMV) and</li>
+<li>Eduard M&uuml;ller,&nbsp;Finanzmarktaufsicht&nbsp;(FMA)</li>
+</ul>
+<br />
+<p>Their respective second terms will commence on 1 October 2024 and end on 31 March 2027.</p>
+<p>The Management Board, chaired by Verena Ross, Chair of ESMA, is responsible for ensuring that the Authority carries out its mission and performs the tasks assigned to it under its founding Regulation. The Management Board consists of:</p>
+<ul>
+<li>Verena Ross, European Securities and Markets Authority (ESMA);</li>
+<li>Vojtech Belling, Česk&aacute; n&aacute;rodn&iacute; banka (CNB);</li>
+<li>Thorsten P&ouml;tzsch, Bundesanstalt f&uuml;r Finanzdienstleistungsaufsicht (BaFin);</li>
+<li>Armi Taipale,&nbsp;Finanssivalvonta (FIN-FSA);</li>
+<li>Vasiliki Lazarakou,&nbsp;&Epsilon;&lambda;&lambda;&eta;&nu;&iota;&kappa;ή&nbsp;&Epsilon;&pi;&iota;&tau;&rho;&omicron;&pi;ή&nbsp;&Kappa;&epsilon;&phi;&alpha;&lambda;&alpha;&iota;&alpha;&gamma;&omicron;&rho;ά&sigmaf; (HCMC);</li>
+<li>Jos Heuvelman, Autoriteit Financi&euml;le Markten (AFM);</li>
+<li>Rodrigo Buenaventura, Comisi&oacute;n Nacional del Mercado de Valores (CNMV);</li>
+<li>Eduard M&uuml;ller,&nbsp;Finanzmarktaufsicht&nbsp;(FMA)</li>
+<li>Natasha Cazenave, European Securities and Markets Authority (non-voting); and</li>
+<li>A European Commission representative (non-voting)</li>
+</ul>
+</div>
+]]></content:encoded>
+<pubDate>Thu, 04 Jul 2024 15:03:46 GMT</pubDate>
+<pubDate>Thu, 04 Jul 2024 15:03:46 GMT</pubDate>
+</item>
+<item>
+<title>BME Launches SpainAtMid, A Dark Order Book With Zero-Latency Dark-To-Lit Sweep Order Functionality</title>
+<link>http://www.mondovisione.com/media-and-resources/news/bme-launches-spainatmid-a-dark-order-book-with-zero-latency-dark-to-lit-sweep-o/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/bme-launches-spainatmid-a-dark-order-book-with-zero-latency-dark-to-lit-sweep-o/</guid>
+<content:encoded><![CDATA[
+<div> incorporate, SpainAtMid, functionality, equities, trading
+Summary:
+The new SpainAtMid functionality on BME's Smart platform allows for non-displayed trading of equities at the BBO mid-point, providing liquidity and price improvement options.<br><br> <div>
+<ul>
+<li><span>This new functionality will allow trading participants to seek contra liquidity in larger size, whilst minimising the price impact of resting orders or seeking price improvement on aggressive orders.</span></li>
+</ul>
+<p>&nbsp;</p>
+<p>Starting in December, BME will incorporate a new functionality to its Smart platform called SpainAtMid, a non-displayed pool which will allow the trading of equities at the BBO mid-point of BME's central limit order book (CLOB). This functionality will be available &nbsp;during the continuous trading phase and support the execution of resting, immediate and sweep orders.</p>
+<p><img height="126" src="https://www.bolsasymercados.es/aspx/Imagen.ashx?Num=6322" width="479" /></p>
+<p>A separate MIC Code has been registered for SpainAtMid &nbsp;and it has been designed to operate on the same atomic matching cycle as the BME CLOB.&nbsp; This ensures that there is no latency cost in seeking price-improvement at the mid-point when sweeping through SpainAtMid to aggress a displayed price on the CLOB.&nbsp; Also it ensures that trades are always executed at the current PBBO mid-point price (i.e. never at a stale price).</p>
+<p>Trading participants will be able to specify how their market and limit orders interact with SpainAtMid in two ways:</p>
+<ul>
+<li><span>Direct</span>: Orders can be flagged to be routed to SpainAtMid only, where they will remain until execution at the prevailing mid-point or until they are cancelled.</li>
+<li><span>Sweep</span>: Orders can be flagged to be routed firstly to SpainAtMid, (for execution at the prevailing mid-point) and then any remaining unexecuted portion will be routed to the Central Limit Order Book where it will remain until it is either fully executed or cancelled.</li>
+</ul>
+<p>&nbsp;</p>
+<p>According to the current estimated release schedule, this new functionality will be implemented in the test environment on September 30, 2024 and will go live into production on December 9, 2024.</p>
+]]></content:encoded>
+<pubDate>Thu, 04 Jul 2024 14:50:25 GMT</pubDate>
+<pubDate>Thu, 04 Jul 2024 14:50:25 GMT</pubDate>
+</item>
+<item>
+<title>EEX And IncubEx To Expand European Environmental Markets With New GO Futures</title>
+<link>http://www.mondovisione.com/media-and-resources/news/eex-and-incubex-to-expand-european-environmental-markets-with-new-go-futures/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/eex-and-incubex-to-expand-european-environmental-markets-with-new-go-futures/</guid>
+<content:encoded><![CDATA[
+<div> EEX, IncubEx, Guarantees of Origin, renewable energy, futures contracts
+<br>
+Summary:
+EEX and IncubEx launch new Guarantees of Origin (GO) futures contracts for renewable energy tracking to facilitate investment and hedge exposure. <div>
+<p>The European Energy Exchange (EEX), a leading energy and commodity exchange and IncubEx, a specialist environmental commodity and climate risk product development firm, announced today the launch of a new suite of Guarantees of Origin (GO) futures contracts on 2 September 2024.</p>
+<p>EEX will list four new GO contracts:</p>
+<ul class="content-list">
+<li>EEX European Renewable Power GO Future (any technology GOs: Hydro/Wind/Solar/Biomass)</li>
+<li>EEX European Hydro GO Future</li>
+<li>EEX European Wind GO Future</li>
+<li>EEX European Solar GO Future</li>
+</ul>
+<p>GOs are a key component of the energy transition as they provide transparent tracking of origins of renewable energy within the EU and help facilitate investment into renewable energy projects. The verified certificates, each representing 1 MWh from renewable energy sources, can be traded and used across Europe. The new standardised EEX futures contracts will allow market participants to hedge these markets.</p>
+<p><em>"EEX offers the most liquid power market in Europe today, therefore listing GO futures is very complementary to our existing power, natural gas and environmental market offerings,"</em>&nbsp;says Peter Reitz, EEX Chief Executive Officer.&nbsp;<em>"GOs and registry services are central to our efforts to support the energy transition, and these new products are another important step of this journey. The&nbsp;evolving environmental markets require product innovations, and we are excited to respond to this need with new products while looking forward to further building this market by leveraging our long-standing experience."</em></p>
+<p><em>"We have seen massive growth in the European GO market in recent years with activity that reflects the broader push towards renewables along with macro impacts from the energy crisis and climate events such as droughts,"</em>&nbsp;adds Dan Scarbrough, President and COO of IncubEx.<em>&nbsp;"Participants from the utility sector to corporates are looking for ways to hedge their exposure and expand the flow of investment capital, which makes GO futures a valuable product set as further evidenced by the significant development of the renewable energy certificate futures market in the U.S. over the last 15 years."</em></p>
+<p>Over the past several years, the supply and demand for GOs has increased significantly, driven by renewable energy policies and more corporations decarbonising their operations via the purchase of GOs. The volume of GOs issued in Europe has grown 46% to 987 TWh over the past five years (2019 &ndash; 2023), while the number of physical GO transfers has risen 60% to 1,409 TWh, according to the Association of Issuing Bodies.</p>
+<p>The new physically delivered GO futures offer participants standardisation, price transparency with capital efficiencies via clearing on European Commodity Clearing (ECC), which also reduces counterparty risk. The GO contracts also complement the GO spot auction platform, offered by another EEX Group company, EPEX SPOT, as well as EEX&rsquo;s registry services. GO futures will be listed and cleared alongside power, natural gas and European emission allowances (EUA) futures and options.</p>
+<p>EEX and IncubEx have a proven track record in building environmental markets. Since November 2018, Nodal Exchange, an EEX subsidiary and IncubEx have worked together to develop and list the broadest suite of futures and options contracts on Renewable Energy Certificates (RECs), carbon and renewable fuels. Nodal also offers the largest set of North American REC futures, which is a close proxy to the GO market in Europe.</p>
+]]></content:encoded>
+<pubDate>Thu, 04 Jul 2024 14:43:55 GMT</pubDate>
+<pubDate>Thu, 04 Jul 2024 14:43:55 GMT</pubDate>
+</item>
+<item>
+<title>June 2024 Figures At Eurex</title>
+<link>http://www.mondovisione.com/media-and-resources/news/june-2024-figures-at-eurex/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/june-2024-figures-at-eurex/</guid>
+<content:encoded><![CDATA[
+<div> traded contracts, interest rate derivatives, OTC Clearing, Eurex Repo, volumes<br>
+<br>Summary:
+Eurex's traded contracts increased by 14% in June. Interest rate derivatives grew by 27%. OTC Clearing notional outstanding increased by 5%. Eurex Repo daily volume increased by 7%. Term-adjusted repo volumes declined by 16%. <div>
+<div class="dbx-container">
+<div class="dbx-row">
+<div class="dbx-col-sm-12 dbx-col-md-12 dbx-col-xl-10">
+<div class="dbx-richtext">
+<div>
+<ul class="rte--list">
+<li>Total traded contracts at Eurex up 14 percent in June year-on-year.</li>
+<li>Interest rate derivatives at Eurex grew by 27 percent year-on-year in June.</li>
+<li>Notional outstanding in OTC Clearing increased by 5 percent compared to June 2023.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p>&nbsp;</p>
+<div class="dbx-container dbx-richtext">
+<div class="dbx-row">
+<div class="dbx-col-sm-12 dbx-col-md-12 dbx-col-xl-10">
+<div>
+<p class="xx">&nbsp;</p>
+<p class="xx">Eurex, Europe&rsquo;s leading derivatives exchange, reports a 14 percent increase in traded contracts for June compared to the previous year, up from 182.1 million to 208.1 million contracts. Interest rate derivatives continued to record the largest increase, rising by 27 percent from 72.1 million to 91.5 million contracts. Equity derivatives grew by 12 percent to 28.9 million contracts, while index derivatives increased by 4 percent to 87.4 million traded contracts.</p>
+<p class="xx">In OTC Clearing the notional outstanding volumes experienced a 5 percent growth in June, reaching EUR 35,412 billion compared to EUR 33,623 billion in the same month in the previous year. The notional outstanding in overnight index swaps increased by 36 percent to EUR 3,773 billion, while the notional outstanding volumes in interest rate swaps rose by 7 percent, reaching EUR 15,189 billion.</p>
+<p class="xx">Eurex Repo, Eurex&rsquo;s leading electronic market for secured funding and financing, reports an increase of overall daily repo volume of 7 percent year-to-date (January to June) compared to the same period in 2023, with GC Pooling growing by 17 percent for this period.&nbsp;However, June 2024 compared to June 2023 experienced a 16 percent decline in the&nbsp;average daily term-adjusted repo volumes, amounting to EUR 321.6 billion. Daily GC Pooling volumes decreased with 7 percent to EUR 156.7 billion while the Repo Market saw a decline of 22 percent to EUR 164.9 billion.</p>
+<p class="xx"><strong>Business overview &ndash; June 2024</strong></p>
+<div class="tableWrapper">
+<table class="richtextTable dataTable">
+<tbody>
+<tr>
+<td class="ckEditorTableResizeWidth-268px"></td>
+<td class="ckEditorTableResizeWidth-129px">
+<p>June</p>
+<p>2024</p>
+</td>
+<td class="ckEditorTableResizeWidth-123px">
+<p>June<br />2023</p>
+</td>
+<td class="ckEditorTableResizeWidth-104px">
+<p>Change</p>
+</td>
+</tr>
+<tr>
+<td class="ckEditorTableResizeWidth-268px">
+<p><strong>Financial derivatives: traded contracts Eurex Exchange</strong></p>
+</td>
+<td class="ckEditorTableResizeWidth-129px"></td>
+<td class="ckEditorTableResizeWidth-123px"></td>
+<td class="ckEditorTableResizeWidth-104px"></td>
+</tr>
+<tr>
+<td class="ckEditorTableResizeWidth-268px">
+<p>Index derivatives (million)</p>
+</td>
+<td class="ckEditorTableResizeWidth-129px">
+<p class="align--right">87.4</p>
+</td>
+<td class="ckEditorTableResizeWidth-123px">
+<p class="align--right">83.7</p>
+</td>
+<td class="ckEditorTableResizeWidth-104px">
+<p class="align--right">+4%</p>
+</td>
+</tr>
+<tr>
+<td class="ckEditorTableResizeWidth-268px">
+<p>Interest rate derivatives (million)</p>
+</td>
+<td class="ckEditorTableResizeWidth-129px">
+<p class="align--right">91.5</p>
+</td>
+<td class="ckEditorTableResizeWidth-123px">
+<p class="align--right">72.1</p>
+</td>
+<td class="ckEditorTableResizeWidth-104px">
+<p class="align--right">+27%</p>
+</td>
+</tr>
+<tr>
+<td class="ckEditorTableResizeWidth-268px">
+<p>Equity derivatives (million)</p>
+</td>
+<td class="ckEditorTableResizeWidth-129px">
+<p class="align--right">28.9</p>
+</td>
+<td class="ckEditorTableResizeWidth-123px">
+<p class="align--right">25.9</p>
+</td>
+<td class="ckEditorTableResizeWidth-104px">
+<p class="align--right">+12%</p>
+</td>
+</tr>
+<tr>
+<td class="ckEditorTableResizeWidth-268px">
+<p>Total (million)<sup>1</sup></p>
+</td>
+<td class="ckEditorTableResizeWidth-129px">
+<p class="align--right">208.1</p>
+</td>
+<td class="ckEditorTableResizeWidth-123px">
+<p class="align--right">182.1</p>
+</td>
+<td class="ckEditorTableResizeWidth-104px">
+<p class="align--right">+14%</p>
+</td>
+</tr>
+<tr>
+<td class="ckEditorTableResizeWidth-268px">
+<p><strong>OTC Clearing</strong><sup>2</sup></p>
+</td>
+<td class="ckEditorTableResizeWidth-129px"></td>
+<td class="ckEditorTableResizeWidth-123px"></td>
+<td class="ckEditorTableResizeWidth-104px"></td>
+</tr>
+<tr>
+<td class="ckEditorTableResizeWidth-268px">
+<p>Notional outstanding volumes (billion EUR)</p>
+</td>
+<td class="ckEditorTableResizeWidth-129px">
+<p class="align--right">35,412</p>
+</td>
+<td class="ckEditorTableResizeWidth-123px">
+<p class="align--right">33,623</p>
+</td>
+<td class="ckEditorTableResizeWidth-104px">
+<p class="align--right">+5%</p>
+</td>
+</tr>
+<tr>
+<td class="ckEditorTableResizeWidth-268px">
+<ul class="rte--list">
+<li>of which interest rate swaps (billion EUR)</li>
+</ul>
+</td>
+<td class="ckEditorTableResizeWidth-129px">
+<p class="align--right">15,189</p>
+</td>
+<td class="ckEditorTableResizeWidth-123px">
+<p class="align--right">14,162</p>
+</td>
+<td class="ckEditorTableResizeWidth-104px">
+<p class="align--right">+7%</p>
+</td>
+</tr>
+<tr>
+<td class="ckEditorTableResizeWidth-268px">
+<ul class="rte--list">
+<li>of which overnight index swaps (billion EUR)</li>
+</ul>
+</td>
+<td class="ckEditorTableResizeWidth-129px">
+<p class="align--right">3,773</p>
+</td>
+<td class="ckEditorTableResizeWidth-123px">
+<p class="align--right">2,775</p>
+</td>
+<td class="ckEditorTableResizeWidth-104px">
+<p class="align--right">+36%</p>
+</td>
+</tr>
+<tr>
+<td class="ckEditorTableResizeWidth-268px">
+<p>Average daily cleared volumes (billion EUR)</p>
+</td>
+<td class="ckEditorTableResizeWidth-129px">
+<p class="align--right">200</p>
+</td>
+<td class="ckEditorTableResizeWidth-123px">
+<p class="align--right">173</p>
+</td>
+<td class="ckEditorTableResizeWidth-104px">
+<p class="align--right">+16%</p>
+</td>
+</tr>
+<tr>
+<td class="ckEditorTableResizeWidth-268px">
+<ul class="rte--list">
+<li>of which interest rate swaps (billion EUR)</li>
+</ul>
+</td>
+<td class="ckEditorTableResizeWidth-129px">
+<p class="align--right">35</p>
+</td>
+<td class="ckEditorTableResizeWidth-123px">
+<p class="align--right">20</p>
+</td>
+<td class="ckEditorTableResizeWidth-104px">
+<p class="align--right">+77%</p>
+</td>
+</tr>
+<tr>
+<td class="ckEditorTableResizeWidth-268px">
+<ul class="rte--list">
+<li>of which overnight index swaps (billion EUR)</li>
+</ul>
+</td>
+<td class="ckEditorTableResizeWidth-129px">
+<p class="align--right">21</p>
+</td>
+<td class="ckEditorTableResizeWidth-123px">
+<p class="align--right">13</p>
+</td>
+<td class="ckEditorTableResizeWidth-104px">
+<p class="align--right">+58%</p>
+</td>
+</tr>
+<tr>
+<td class="ckEditorTableResizeWidth-268px">
+<p>Compression volumes (billion EUR)</p>
+</td>
+<td class="ckEditorTableResizeWidth-129px">
+<p class="align--right">0</p>
+</td>
+<td class="ckEditorTableResizeWidth-123px">
+<p class="align--right">0</p>
+</td>
+<td class="ckEditorTableResizeWidth-104px">
+<p class="align--right">N/A</p>
+</td>
+</tr>
+<tr>
+<td class="ckEditorTableResizeWidth-268px">
+<p><strong>Repo: Average daily term adjusted volume on Eurex Repo</strong></p>
+</td>
+<td class="ckEditorTableResizeWidth-129px"></td>
+<td class="ckEditorTableResizeWidth-123px"></td>
+<td class="ckEditorTableResizeWidth-104px"></td>
+</tr>
+<tr>
+<td class="ckEditorTableResizeWidth-268px">
+<p>GC Pooling<sup>3</sup>&nbsp;(billion EUR)</p>
+</td>
+<td class="ckEditorTableResizeWidth-129px">
+<p class="align--right">156.7</p>
+</td>
+<td class="ckEditorTableResizeWidth-123px">
+<p class="align--right">168.6</p>
+</td>
+<td class="ckEditorTableResizeWidth-104px">
+<p class="align--right">-7%</p>
+</td>
+</tr>
+<tr>
+<td class="ckEditorTableResizeWidth-268px">
+<p>Repo Market (billion EUR)</p>
+</td>
+<td class="ckEditorTableResizeWidth-129px">
+<p class="align--right">164.9</p>
+</td>
+<td class="ckEditorTableResizeWidth-123px">
+<p class="align--right">212.5</p>
+</td>
+<td class="ckEditorTableResizeWidth-104px">
+<p class="align--right">-22%</p>
+</td>
+</tr>
+<tr>
+<td class="ckEditorTableResizeWidth-268px">
+<p>Total (billion EUR)</p>
+</td>
+<td class="ckEditorTableResizeWidth-129px">
+<p class="align--right">321.6</p>
+</td>
+<td class="ckEditorTableResizeWidth-123px">
+<p class="align--right">381.2</p>
+</td>
+<td class="ckEditorTableResizeWidth-104px">
+<p class="align--right">-16%</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><sub><sup>1</sup>&nbsp;The total number of contracts traded includes other asset classes such as commodities.<br /><sup>2&nbsp;</sup>Notional cleared volumes including post trading events such as compression.<br /><sup>3</sup>&nbsp;Includes all currencies.&nbsp;&nbsp;</sub></p>
+<p>&nbsp;</p>
+</div>
+</div>
+</div>
+</div>
+]]></content:encoded>
+<pubDate>Thu, 04 Jul 2024 14:58:40 GMT</pubDate>
+<pubDate>Thu, 04 Jul 2024 14:58:40 GMT</pubDate>
+</item>
+
+<item>
 <title>LME Data Highlights: Q2 2024</title>
 <link>http://www.mondovisione.com/media-and-resources/news/lme-data-highlights-q2-2024/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/lme-data-highlights-q2-2024/</guid>
@@ -153,23 +535,20 @@ LME futures and options ADV reached a 10-year high, with significant growth seen
 <p><br />NB: Data excludes UNA trades.</p>
 ]]></content:encoded>
 <pubDate>Thu, 04 Jul 2024 13:05:00 GMT</pubDate>
-<pubDate>Thu, 04 Jul 2024 13:05:00 GMT</pubDate>
 </item>
 <item>
 <title>Equity Of Swedish Company Coegin Pharma AB Now Tradable At Boerse Stuttgart</title>
 <link>http://www.mondovisione.com/media-and-resources/news/equity-of-swedish-company-coegin-pharma-ab-now-tradable-at-boerse-stuttgart/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/equity-of-swedish-company-coegin-pharma-ab-now-tradable-at-boerse-stuttgart/</guid>
 <content:encoded><![CDATA[
-<div> Swedish equities, Boerse Stuttgart Group, Nordic Growth Market, Coegin Pharma AB, liquidity provider <br>
+<div> Swedish equities, Boerse Stuttgart Group, Nordic Growth Market, Coegin Pharma AB, liquidity provider <br />
 Summary: Boerse Stuttgart Group and NGM have combined services for Swedish equities, making them more visible and accessible to German investors. EUWAX AG provides liquidity. <div>
 <p>Two European exchanges of Boerse Stuttgart Group have combined their services in the equity sector. Swedish equities listed on the Scandinavian exchange Nordic Growth Market (NGM) and with a secondary listing in Germany at Boerse Stuttgart can be included in the &ldquo;Nordic Growth Market&rdquo; trading segment. In Stuttgart, German investors can now trade the equity of Coegin Pharma AB in euro every exchange trading day from 9.00 to 17.30 hours CET. The function of quality liquidity provider in trading at Boerse Stuttgart is performed by EUWAX AG, which is also the liquidity provider in equities trading at NGM.</p>
 <p>The inclusion of their equities in Boerse Stuttgart&rsquo;s trading segment &ldquo;Nordic Growth Market&rdquo; makes Swedish companies more visible on the capital market of the euro zone, allowing them to expand their investor base. There are currently 79 securities listed on Nordic SME, NGM&rsquo;s multilateral trading platform for equities of growth companies.</p>
 <p>&nbsp;For further information about the &ldquo;Nordic Growth Market&rdquo; trading segment, please visit: <a href="https://www.boerse-stuttgart.de/en/investing/segmente/nordic-growth-market/" title="https://www.boerse-stuttgart.de/en/investing/segmente/nordic-growth-market/">https://www.boerse-stuttgart.de/en/investing/segmente/nordic-growth-market/</a></p>
 ]]></content:encoded>
 <pubDate>Thu, 04 Jul 2024 12:57:41 GMT</pubDate>
-<pubDate>Thu, 04 Jul 2024 12:57:41 GMT</pubDate>
 </item>
-
 <item>
 <title>Avelacom Facilitates Low Latency Access To Brazil Stock Exchange (B3) For All Trading Participants - Avelacom Has Completed Certification As An RCB-Authorized Party, Enabling Global Financial Services Firms To Explore And Trade Locally Or Remotely One Of The Largest Latin American Markets With Cost-Efficient Connectivity Options</title>
 <link>http://www.mondovisione.com/media-and-resources/news/avelacom-facilitates-low-latency-access-to-brazil-stock-exchange-b3-for-all-tr/</link>
