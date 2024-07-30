@@ -5,12 +5,101 @@
 <link>http://www.mondovisione.com/media-and-resources/news/</link>
 
 <item>
+<title>Target Zero Outages: The IOSCO Report And Resilience For Non-Stop Trading</title>
+<link>http://www.mondovisione.com/media-and-resources/news/target-zero-outages-the-iosco-report-and-resilience-for-non-stop-trading/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/target-zero-outages-the-iosco-report-and-resilience-for-non-stop-trading/</guid>
+<content:encoded><![CDATA[
+<div> Keywords: IT outage, IOSCO report, market resilience, best practices, legacy technology <br>
+Summary: The global cyber crash caused the most significant IT outage in history, prompting the IOSCO report on market outages and best practices. Legacy technology presents barriers to market resilience and requires careful management. Internal IT teams need to work closely with software suppliers to manage software updates effectively. <br> <div>
+<p>The global cyber crash on Friday, July 19, has been declared the most significant IT outage in history, a claim supported by industry experts. This unprecedented disruption was likely the result of a perfect storm: an urgent update that bypassed extensive testing or an issue undetectable within the testing environment, leading to a problem that standard mitigations couldn't resolve. Whereas some faulty updates are rectifiable with subsequent updates or rollbacks, this escalated rapidly.</p>
+<p>A CrowdStrike Black Friday-type event likely wasn't on the authors' minds of the recent IOSCO Report (FR04/2024) on market outages. Surveying IOSCO members, the report identifies 42 market outages from 2018 to 2022, primarily due to software and hardware issues. It emphasises the necessity for clear communication, robust outage plans, and effective business continuity measures to minimise the impact on market participants and the financial system.</p>
+<p>Sinara, a London-based software house building and supporting systems for financial markets participants, fielded calls from concerned clients wanting to know if they were impacted by the July 19 event. &ldquo;We were fortunate to be unaffected and in a position to assist our customers if they needed support,&rdquo; says Steve Dobb, technical director at Sinara. &ldquo;Though it demonstrated the growing risks and the need to avoid similar disasters. We haven&rsquo;t seen anything at this scale hit the financial markets before, but it doesn&rsquo;t mean they are invulnerable.&rdquo;</p>
+<p>IOSCO advised stock exchanges and trading platforms to develop and publicise plans for handling outages to offer greater predictability for customers. Although trading systems of exchanges remained unaffected on Friday, the broader financial markets ecosystem, including banks and tech groups, experienced significant disruptions, with some traders unable to access their systems to process trades.</p>
+<p>The IOSCO report highlights that exchanges worldwide have suffered glitches and outages for various reasons, including software changes. However, none have matched the scale of the CrowdStrike event, with prior incidents being localised and lasting no more than a few hours.</p>
+<p>An update to CrowdStrike's widely used "Falcon Sensor" software caused Microsoft Windows to crash, displaying the infamous "Blue Screen of Death." While software updates vary in urgency and all undergo some testing, they can still lead to unexpected issues. CrowdStrike swiftly identified the root cause and deployed a fix. Nevertheless, while a simple reboot restored functionality for some systems, others took longer to recover fully.</p>
+<p>&ldquo;Sometimes unforeseen issues can happen,&rdquo; continues Dobb, &ldquo;and it&rsquo;s crucial that you have a process in place, and the right skills, to make sure you&rsquo;re able to manage them, work with your technology partners, and communicate what&rsquo;s going on with your customers.&rdquo;</p>
+<p>A recent New York Stock Exchange glitch led to significant volatility in Berkshire Hathaway and Barrick Gold shares, and trading halts in dozens of other companies before the issue was resolved.</p>
+<p>The IOSCO report underscores the necessity for trading venues to establish and publicise outage plans, execute effective communication strategies, and assess the implications for closing auctions and prices. It also emphasises the importance of post-outage analysis to improve future responses.</p>
+<p>IOSCO outlines five best practices for trading venues to enhance market resilience: developing outage plans, enforcing communication strategies, reopening trading efficiently, managing closing auctions, and conducting post-outage reviews. These practices are designed to be flexible and adaptable across various market structures and regulatory environments.</p>
+<p>Although these best practices are primarily designed for equity listing trading venues, IOSCO acknowledges their relevance to other trading venues, including non-listing and derivatives markets. IOSCO encourages adopting these practices while recognising that the final decision lies with individual venues and is subject to domestic legal and regulatory requirements.</p>
+<p>The report also examines the legislative and regulatory frameworks within IOSCO jurisdictions, noting that most trading venues require business continuity plans and must notify regulators of outages. It highlights industry protocols, such as those from the Federation of European Securities Exchanges (FESE), to standardise communication and outage procedures.</p>
+<p>&ldquo;These are all good practices,&rdquo; Dobb confirms, &ldquo;though it&rsquo;s vital that they don&rsquo;t just exist on paper but are really put into practice, with regular test runs and training refreshers for staff. It&rsquo;s important people know what to do when problems happen.&rdquo;</p>
+<p>In conclusion, the IOSCO report provides a comprehensive analysis of market outages and offers practical recommendations to strengthen the resilience of financial markets. It advocates for a balanced approach that respects the unique circumstances of each market while promoting best practices for managing and recovering from trading disruptions.</p>
+<p>Established, legacy players reliant on complex, ageing infrastructure dominate the global exchange landscape. Unsurprisingly, they struggle to keep pace with the increasingly demanding trading environment, whether due to higher volumes or evolving requirements. The ongoing cost pressures and scale of necessary technological overhauls make it challenging for exchanges to implement upgrades; shutting down an exchange for weeks to facilitate a complete transfer is not feasible.</p>
+<p>&ldquo;There are many ways that exchanges can introduce new and better technology, and it doesn&rsquo;t need to be all at once,&rdquo; says Dobb. &ldquo;The same goes for exchange members, who also need to make sure they have multiple ways of accessing their exchanges, in case one method fails.&rdquo;</p>
+<p>Another significant barrier to change is the broader ecosystem in which trading systems operate, consisting of various organisations dependent on infrastructure compatible only with legacy technology. Consequently, counterparties may be unwilling or unable to accommodate a switch or significant upgrade by the exchange.</p>
+<p>One outcome of CrowdStrike's Black Friday will be internal IT teams working in closer partnership with their software suppliers, whether for security or other operations, to better manage the software update process.</p>
+<p>&ldquo;It&rsquo;s quite right that our customers want to make sure they don&rsquo;t end up in the situation where an update that is supposed to make things better actually creates a problem,&rdquo; concludes Dobb. &ldquo;Certainly we at Sinara understand that even a small release needs to be treated with due care&mdash;otherwise we can all see the consequences.&rdquo;</p>
+]]></content:encoded>
+<pubDate>Tue, 30 Jul 2024 14:44:45 GMT</pubDate>
+<pubDate>Tue, 30 Jul 2024 14:44:45 GMT</pubDate>
+</item>
+<item>
+<title>ThetaRay Revolutionizes AI Financial Crime Detection With Screena Acquisition</title>
+<link>http://www.mondovisione.com/media-and-resources/news/thetaray-revolutionizes-ai-financial-crime-detection-with-screena-acquisition/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/thetaray-revolutionizes-ai-financial-crime-detection-with-screena-acquisition/</guid>
+<content:encoded><![CDATA[
+<div> Acquisition, Financial crime detection, AI, Compliance, Technology
+Summary:
+ThetaRay acquires Screena, integrating advanced screening technology to enhance financial crime detection, global compliance, and customer onboarding with AI-powered solutions. ThetaRay continues to invest and grow globally. <div>
+<p>ThetaRay, the leading provider of AI-powered financial crime detection technology, today announced the acquisition of next-generation European screening company,&nbsp;Screena. The acquisition demonstrates ThetaRay's continuous investment in proprietary technology and reaffirms its mission of enabling banks, fintechs, and regulators to detect financial crime with state-of-the-art AI solutions.&nbsp;</p>
+<p>Screena helps financial institutions stop wrongdoers without afflicting legitimate parties. It screens individuals, companies, or other entities against numerous lists of sanctioned parties. This ensures compliance with international law and regulations while empowering global trade, protecting reputations, and delivering financial security.</p>
+<p>ThetaRay, deployed in over 40 countries across six continents, is on a journey from being a leader in AI-powered Transaction Monitoring solutions to a cloud-based, end-to-end financial crime detection platform used by over 100 financial institutions including Santander, Payoneer, and Travelex. This strategic acquisition formalizes Screena's cutting-edge, cloud-based AI-driven screening solution as part of ThetaRay's product suite, providing financial institutions with an unparalleled, holistic view of transactional and customer screening risks.</p>
+<p>With ThetaRay, clients detect multiple types of financial crimes such as money laundering, terrorist financing, and drug trafficking. Most recently, in a global effort to combat modern slavery, Santander UK teamed up with ThetaRay to deploy advanced technology aimed at detecting human trafficking within financial transactions. This collaborative effort received accolades for "Best Use of Data for Human Trafficking and Modern Slavery Detection" at the Digital Transformation Awards in June 2024.&nbsp;</p>
+<p>ThetaRay's product suite ensures financial institutions can swiftly and effectively comply with complex regulatory requirements. Furthermore, ThetaRay enables seamless customer onboarding and transaction flows and allows companies to scale rapidly and capitalize on business opportunities while fostering growth across varied business lines.&nbsp;</p>
+<p>"The acquisition of Screena is a significant milestone for ThetaRay as we continue our mission to power the global fight against financial crime by enhancing our offerings with the most advanced AI capabilities. It furthers our commitment to delivering an end-to-end platform that enables banks, fintechs, and regulators to effectively identify financial crime &ndash; vital capabilities to grow and operate a financial institution today," remarked&nbsp;<b>Peter Reynolds, CEO of ThetaRay</b>. "The recent launch of our Customer Risk Assessment (CRA) product this year and the mass adoption of our leading Transaction Monitoring offering demonstrates both a clear need in the market and our proven ability to build pioneering solutions. We are delighted to have closed our first acquisition, bringing key capabilities and further establishing our already rapidly growing presence in Europe."</p>
+<p>"The need for international, cross-border payments, and business corridors between Europe and Africa, South America and the US, and many locations around the world requires the use of AI and advanced technology to make sure that the transactions are trusted, and that the people behind them are trusted," said&nbsp;<b>Erel Margalit, Chairman of ThetaRay, and Founder and Chairman of JVP</b>. "ThetaRay's AI also establishes a highway for the good actors that require an international payment network to do their business. The acquisition of Screena advances the ability to identify bad actors, whether it's money laundering, drug trafficking, or terrorist financing in a much more pointed way. This move is a testament to ThetaRay's mission of thwarting financial crime and continuously enhancing capabilities to win this critical fight on our journey to becoming a category leader."</p>
+<p><b>C&eacute;dric Iggiotti, CEO of Screena</b>, stated, "Integrating with ThetaRay has been a game-changer for us at Screena, revealing the true potential of combining Transaction Monitoring, Screening, and Customer Risk Assessment. For too long, screening was siloed from other critical financial crime detection tools. Our partnership with ThetaRay not only meets stringent regulatory demands but also significantly enhances our crime detection capabilities, as evidenced by our recent successes with major financial institutions. Looking ahead, we are excited to push the boundaries of what's possible in building a more trustworthy financial ecosystem."</p>
+]]></content:encoded>
+<pubDate>Tue, 30 Jul 2024 14:11:31 GMT</pubDate>
+<pubDate>Tue, 30 Jul 2024 14:11:31 GMT</pubDate>
+</item>
+<item>
+<title>TMX Group Pledges Support To The 2024 Alberta Wildfires Appeal</title>
+<link>http://www.mondovisione.com/media-and-resources/news/tmx-group-pledges-support-to-the-2024-alberta-wildfires-appeal/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/tmx-group-pledges-support-to-the-2024-alberta-wildfires-appeal/</guid>
+<content:encoded><![CDATA[
+<div> donation, TMX Group, Alberta, wildfires, Canadian Red Cross
+Summary:<br>TMX Group donated $25,000 to the Canadian Red Cross for Alberta wildfires relief efforts, supporting evacuees, recovery, and community preparedness. <div>
+<p class="sizeable">TMX Group today announced a $25,000 donation to the&nbsp;<a class="blank" href="https://give.redcross.ca/page/24AWA?_gl=1*1c94sgk*_gcl_au*ODI3NDAyMzYuMTcyMTg1MTUyNQ..*_ga*OTc1MzA3NDE5LjE3MjE4NTE1MjU.*_ga_376D8LHM0R*MTcyMTkyODg5OC40LjEuMTcyMTkyOTcxMy4wLjAuMTkxMDg4NTQ1*_fplc*Y3pQUVhiSEI5UXN5WFNHR3hKQWRvVlZPaXc0Zlo0M1RpTDU4UHRON0FiMm5ncWpzcE9OSjRIMkJ5OWtac0dpTlBUVzN4WnB1JTJGWTNSQmxpbFFQdm5wOCUyRkx4WkVwVWpMTUlYS2xmMGFKcTdxY21QYUVvaUdrMDZGJTJGYmptSURRJTNEJTNE&amp;_ga=2.15127346.583257015.1721851525-975307419.1721851525" rel="external" target="_blank">Canadian Red Cross 2024 Alberta Wildfires Appeal</a>&nbsp;to help those impacted by wildfires in Jasper and other affected areas in the province. Donations in support of this appeal will be used by the Red Cross for assistance with immediate and ongoing relief including financial assistance, support to evacuees and the communities hosting them, recovery and resilience efforts in response to the wildfires, as well as supporting community preparedness and risk reduction for future all-hazard disaster events within Alberta.</p>
+<p class="sizeable">The Canadian Red Cross is accepting online donations to the 2024 Alberta Wildfires Appeal at&nbsp;<a class="blank" href="http://www.redcross.ca/" rel="external" target="_blank">www.redcross.ca</a>, or by telephone at 1-800-418-1111 (toll-free).</p>
+]]></content:encoded>
+<pubDate>Tue, 30 Jul 2024 14:08:22 GMT</pubDate>
+<pubDate>Tue, 30 Jul 2024 14:08:22 GMT</pubDate>
+</item>
+<item>
+<title>Indonesian Crypto Exchange Achieves 365 Days 100% Uptime With Devexperts Software</title>
+<link>http://www.mondovisione.com/media-and-resources/news/indonesian-crypto-exchange-achieves-365-days-100-uptime-with-devexperts-softwar/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/indonesian-crypto-exchange-achieves-365-days-100-uptime-with-devexperts-softwar/</guid>
+<content:encoded><![CDATA[
+<div> Developer, DXmatch, cryptocurrency exchange, high trade volumes, reliability
+Summary:<br>Devexperts achieved 12-month uptime for DXmatch on a cryptocurrency exchange, handling high trade volumes. The platform's robustness and reliability are confirmed. Focus remains on new features and user experience. CEO Ben Hurley emphasizes the commitment to excellence.<br> <div>
+<ul>
+<li>Outstanding accomplishment confirms platform&rsquo;s robustness and reliability, even when processing particularly high trade volumes<strong>&nbsp;</strong></li>
+</ul>
+<p>&nbsp;</p>
+<p>Global software developer for the capital markets industry,&nbsp;<a class="safe---anchor---wc" href="https://click.icptrack.com/icp/relay.php?r=59597334&amp;msgid=629185&amp;act=FNP7&amp;c=783105&amp;pid=4497258&amp;destination=https%3A%2F%2Fdevexperts.com%2F&amp;cf=3638&amp;v=2a56194f0294246a32a94dfe876f0a75ed71bf10de2ae67e24d4c0cad63d1b80" rel="noopener noreferrer nofollow" target="_blank">Devexperts</a>, has announced that its turn-key solution for exchanges and dark pools, DXmatch, has achieved an uninterrupted 12-month uptime with a leading cryptocurrency exchange.</p>
+<div class="dombanner"></div>
+<p>&nbsp;</p>
+<p>Devexperts explains that the accomplishment has been achieved with DXmatch successfully withstanding peak loads of volatile cryptocurrency markets. In an industry where even a few minutes of downtime can result in significant financial losses, the achievement highlights the robustness and dependability of the platform.</p>
+<p>The case is especially impressive given that the exchange in question requires the processing of a particularly high peak load, enabling its five million traders to trade crypto assets such as Bitcoin, Ethereum, and Ripple. DXmatch can process 100,000 orders per second, per segment with the option to add as many segments as required.</p>
+<p>DXmatch includes a matching engine, the epicenter of an exchange which allows for trading to take place seamlessly around the clock. The platform is asset-agnostic, supporting equities, futures, options, FX, digital assets, as well as non-standard industries, like bets, real estate, and predictions. Other DXmatch features include market data delivery, storage, risk controls, WebSocket, and FIX API.</p>
+<p>Importantly, DXmatch focuses on enabling low latency and high throughput. In the volatile world of cryptocurrency, platform reliability enables users to take advantage of market opportunities with confidence.&nbsp;</p>
+<p>For exchanges, the proven efficiency of DXmatch translates to fewer resources being spent on troubleshooting, allowing focus to remain on new features and user experience.&nbsp;</p>
+<p><strong>Ben Hurley, CEO of Devexperts,&nbsp;</strong>commented:</p>
+<p>"Our client set the challenge of providing a matching engine that could process a particularly high volume of trades &ndash; not only were we able to do this, but we were able to do it in a way that has resulted in no issues nor downtime being experienced for over a year. This testifies to our expertise and commitment to excellence for our clients."&nbsp;</p>
+]]></content:encoded>
+<pubDate>Tue, 30 Jul 2024 13:57:38 GMT</pubDate>
+<pubDate>Tue, 30 Jul 2024 13:57:38 GMT</pubDate>
+</item>
+
+<item>
 <title>Revised REMIT Brings New Obligations For Market Participants: ACER Addresses Algorithmic Trading Notifications</title>
 <link>http://www.mondovisione.com/media-and-resources/news/revised-remit-brings-new-obligations-for-market-participants-acer-addresses-alg/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/revised-remit-brings-new-obligations-for-market-participants-acer-addresses-alg/</guid>
 <content:encoded><![CDATA[
 <div> Regulation, Wholesale Energy Market, Integrity, Transparency, Algorithmic Trading
-Summary: The open letter clarifies notification obligations for algorithmic trading under the revised REMIT, reinforcing oversight and market transparency. Market participants should review and comply. <br><br> <div>
+Summary: The open letter clarifies notification obligations for algorithmic trading under the revised REMIT, reinforcing oversight and market transparency. Market participants should review and comply. <br /><br /> <div>
 <p>The Regulation on Wholesale Energy Market Integrity and Transparency (<a class="safe---anchor---wc" href="https://mailservice.acer.europa.eu/lists/lt.php?tid=fUsDUAcDAlQGUkwABAVTHVYBVAMdUFhXAxoGUQoGVwJTAVNUAQcdVlZSVV8AAlUdAQEMDh0GDANUGgxRBVIZClEGBFIFCFBYBQYFRQYEUglbDwdSHQEPAVMaAQYGARlRBVMHHFMHUQVRUFkND1VTUw" rel="noopener noreferrer nofollow" target="_blank">REMIT</a>) aims to prevent and protect consumers and businesses against market abuse in the European electricity and gas markets. The rules were&nbsp;<a class="safe---anchor---wc" href="https://mailservice.acer.europa.eu/lists/lt.php?tid=fUsEUgZVBwddVUxaUARXHVZcDA8dCwkEAhoMBlZUBQIFUw4HDwMdVlZSVV8AAlUdAQEMDh0GDANUGgxRBVIZClEGBFIFCFBYBQYFRQYEUglbDwdSHQEPAVMaAQYGARlRBVMHHFMHUQVRUFkND1VTUw" rel="noopener noreferrer nofollow" target="_blank">revised</a>&nbsp;in May 2024 to ensure they keep pace with evolving market dynamics.</p>
 <p>In April 2024, ACER&nbsp;<a class="safe---anchor---wc" href="https://mailservice.acer.europa.eu/lists/lt.php?tid=fUsOB1VXUFRXU0wNBgJUHVYNA1QdUAxUVhoFBwoPAQoFUlQCVwkdVlZSVV8AAlUdAQEMDh0GDANUGgxRBVIZClEGBFIFCFBYBQYFRQYEUglbDwdSHQEPAVMaAQYGARlRBVMHHFMHUQVRUFkND1VTUw" rel="noopener noreferrer nofollow" target="_blank">addressed</a>&nbsp;several questions from stakeholders to help them comply with their reporting obligations under the revised REMIT, before it entered into force.</p>
 <p>As a follow up, ACER now clarifies (in an&nbsp;<a class="safe---anchor---wc" href="https://mailservice.acer.europa.eu/lists/lt.php?tid=fUsFAw5SUVAHBUxfAVZQHVYBAgYdUA0JBBpRBwoOBVUCAlBTUAAdVlZSVV8AAlUdAQEMDh0GDANUGgxRBVIZClEGBFIFCFBYBQYFRQYEUglbDwdSHQEPAVMaAQYGARlRBVMHHFMHUQVRUFkND1VTUw" rel="noopener noreferrer nofollow" target="_blank">open letter</a>) the obligations for market participants to notify National Regulatory Authorities (NRAs) and ACER on their usage of algorithmic trading and direct electronic access.</p>
@@ -21,15 +110,14 @@ Summary: The open letter clarifies notification obligations for algorithmic trad
 <p><a class="safe---anchor---wc" href="https://mailservice.acer.europa.eu/lists/lt.php?tid=fUsFVQJVVlddWkxfVwNTHVZbBQIdU11UUBoFAAYPDABQUwIHA1cdVlZSVV8AAlUdAQEMDh0GDANUGgxRBVIZClEGBFIFCFBYBQYFRQYEUglbDwdSHQEPAVMaAQYGARlRBVMHHFMHUQVRUFkND1VTUw" rel="noopener noreferrer nofollow" target="_blank">Read more.</a></p>
 ]]></content:encoded>
 <pubDate>Tue, 30 Jul 2024 11:31:39 GMT</pubDate>
-<pubDate>Tue, 30 Jul 2024 11:31:39 GMT</pubDate>
 </item>
 <item>
 <title>Bank Of England Establishes Cost Benefit Analysis Panel - The Prudential Regulation Authority And Bank Of England Have Established A New Cost Benefit Analysis Panel</title>
 <link>http://www.mondovisione.com/media-and-resources/news/bank-of-england-establishes-cost-benefit-analysis-panel-the-prudential-regulat/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/bank-of-england-establishes-cost-benefit-analysis-panel-the-prudential-regulat/</guid>
 <content:encoded><![CDATA[
-<div> Panel, Cost Benefit Analysis, PRA, Bank of England, Financial Regulation <br>
-<br>Summary:
+<div> Panel, Cost Benefit Analysis, PRA, Bank of England, Financial Regulation <br />
+<br />Summary:
 The PRA and Bank of England have established a CBA Panel, with Laurel Powers-Freeling as the Chair, and other members appointed. The panel consists of senior financial services and cost benefit analysis experts. Laurel Powers-Freeling, Stephen Gibson, Martina Garcia, Andrew Maclaren, David Aikman, and Kristy Robinson have been appointed as members. The CBA Panel held its first meeting on 9 July 2024 to discuss the Panel’s terms of reference and the PRA’s approach to cost benefit analysis. The Chair, Laurel Powers-Freeling, stated that the work of the PRA and the Bank is essential for the stability of the financial sector, and the panel needs to provide advice to ensure its continued success. The Deputy Governor for Prudential Regulation, Sam Woods, expressed his delight in attracting such a strong panel to help ensure the best job is done in this vital area. The Deputy Governor for Financial Stability and Chair of the Bank’s Financial Market Infrastructure Committee, Sarah Breeden, welcomed the addition of the CBA Panel to the UK's financial regulation framework. Financial Services and Market Act 2023 (FSMA) requires the PRA to establish and maintain a new CBA Panel and the appointment of Laurel Powers-Freeling as the CBA Chair was approved by the Bank of England’s Prudential Regulation Committee, in consultation with the Financial Market Infrastructure Committee, and HM Treasury. This appointment is effective from the 24 June 2024 for an initial three-year term, which is once renewable. The other members appointed are agreed by the Bank of England’s Prudential Regulation Committee, in consultation with the Financial Market Infrastructure Committee. All members have begun their terms, and there is a vacancy for a further member from a PRA-authorized firm that will be appointed in due course once the recruitment process is finalized. <div>
 <p>The Prudential Regulation Authority (PRA) and Bank of England (the Bank) have established a new cost benefit analysis panel ('the CBA Panel'). The CBA Panel will provide advice on the preparation of cost benefit analysis when the PRA and Bank propose new rules or amend existing rules for firms and financial market infrastructures. The CBA Panel may also provide recommendations for how the PRA and the Bank can improve their overall methodology and approach to cost benefit analysis.</p>
 <p>The PRA is required to establish and maintain a CBA Panel under section 138JA of the Financial Services and Markets Act 2000.</p>
@@ -53,15 +141,14 @@ The PRA and Bank of England have established a CBA Panel, with Laurel Powers-Fre
 <p>5. There is a vacancy for a further member from a PRA-authorised firm that will be appointed in due course once the recruitment process is finalised.&nbsp;</p>
 ]]></content:encoded>
 <pubDate>Tue, 30 Jul 2024 11:25:29 GMT</pubDate>
-<pubDate>Tue, 30 Jul 2024 11:25:29 GMT</pubDate>
 </item>
 <item>
 <title>HKEX Names Head Of Post Trade</title>
 <link>http://www.mondovisione.com/media-and-resources/news/hkex-names-head-of-post-trade/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/hkex-names-head-of-post-trade/</guid>
 <content:encoded><![CDATA[
-<div> Managing Director, Head of Post Trade, HKEX, Vicky Chan, Vanessa Lau <br>
-Summary:<br>
+<div> Managing Director, Head of Post Trade, HKEX, Vicky Chan, Vanessa Lau <br />
+Summary:<br />
 Vicky Chan rejoins HKEX as Managing Director, brings 30 years of experience, to lead post-trade team, replacing Hector Lau. <div>
 <p class="spanHeading"><span>Hong Kong Exchange &amp; Clearing Limited (HKEX) is today (Tuesday) pleased to announce the appointment of Vicky Chan as Managing Director, Head of Post Trade. Ms Chan will join the Group on Monday 5 August, reporting to Vanessa Lau, HKEX Co-Chief Operating Officer and Group Chief Financial Officer.</span></p>
 <p class="spanHeading">Ms Chan rejoins the Group after previously spending 15 years with HKEX in various teams including Cash Settlement, Clearing Operations and Platform Development, leaving in 2017 to relocate to Canada with her family.&nbsp; In her new role, she will be responsible for leading the Post Trade team to further elevate HKEX&rsquo;s service offering across its clearing and settlement systems.</p>
@@ -74,7 +161,6 @@ Vicky Chan rejoins HKEX as Managing Director, brings 30 years of experience, to 
 <p class="spanHeading">Vicky Chan</p>
 <p class="spanHeading">&nbsp;</p>
 ]]></content:encoded>
-<pubDate>Tue, 30 Jul 2024 11:28:53 GMT</pubDate>
 <pubDate>Tue, 30 Jul 2024 11:28:53 GMT</pubDate>
 </item>
 <item>
@@ -110,9 +196,7 @@ The Bank of England published a Discussion Paper on its approach to innovation i
 </ol></section></p>
 ]]></content:encoded>
 <pubDate>Tue, 30 Jul 2024 11:33:52 GMT</pubDate>
-<pubDate>Tue, 30 Jul 2024 11:33:52 GMT</pubDate>
 </item>
-
 <item>
 <title>Spectrum Markets H1 2024 Business Update Reflects Strategic Expansions And Resilience</title>
 <link>http://www.mondovisione.com/media-and-resources/news/spectrum-markets-h1-2024-business-update-reflects-strategic-expansions-and-resil/</link>
