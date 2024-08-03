@@ -4,6 +4,163 @@
 <title>News Articles</title>
 <link>http://www.mondovisione.com/media-and-resources/news/</link>
 
+<item>
+<title>Data Beta: Statement On Financial Data Transparency Act Joint Data Standards Proposal, SEC Commissioner Hester M. Peirce, Aug. 2, 2024</title>
+<link>http://www.mondovisione.com/media-and-resources/news/data-beta-statement-on-financial-data-transparency-act-joint-data-standards-pro/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/data-beta-statement-on-financial-data-transparency-act-joint-data-standards-pro/</guid>
+<content:encoded><![CDATA[
+<div> Interoperability, Legal Entity Identifier, Financial Data Transparency Act, FDTA, data standards
+Summary:<br><br>Implementation of FDTA for financial data transparency examined for costs, benefits, and practicality, emphasizing public input and flexibility in rulemaking. <div>
+<p>I support issuing this proposal, which is the first step in implementing the Financial Data Transparency Act (&ldquo;FDTA&rdquo;), which seeks to enhance the accessibility, usefulness, and interoperability of data reported to federal financial regulators. Together with other US financial regulators, we are proposing joint data standards, which we will then apply to our respective rulebooks in agency-specific rulemakings.</p>
+<p>If well implemented, the FDTA could enhance the analytical capability of regulators, investors, and other market participants and reduce compliance costs for regulated entities. However, this result is not guaranteed. Mangling implementation could result in costs disproportionate to the benefits. FDTA regulations, for example, could drive municipal issuers away from securities markets, prevent companies from going and staying public, or force the publication of unreliable data. To maximize the potential for the FDTA to serve the public interest, we need broad public input. I urge commenters to address the questions in the proposing release and my additional questions below, as well as to provide advance thoughts on the second, agency-specific, phase of the FDTA rulemaking process.</p>
+<ol>
+<li><i>Costs and benefits</i>: The Commission did not conduct an economic analysis for this proposal, so I particularly welcome commenters&rsquo; input on the proposal&rsquo;s costs and benefits and the economic consequences of subsequent choices that individual agencies might make in their second phase rulemakings.<ol>
+<li>Costs of FDTA implementation:<ol>
+<li>What are the total direct and indirect costs of adopting the contemplated data standards? Do these costs vary based on factors such as firm size or type of regulatory filing?</li>
+<li>How have standardized data costs changed over time? Will these trends continue?</li>
+<li>How much of the FDTA compliance burden is likely to stem from the one-time cost of setting up new data systems as opposed to ongoing compliance costs?</li>
+<li>Will certain types of entities, such as municipal issuers, bear disproportionate FDTA-related costs? If so, what can we do to reduce those costs?</li>
+</ol></li>
+<li>Benefits of FDTA implementation:<ol>
+<li>What are the potential benefits of FDTA implementation?</li>
+<li>How could the Commission maximize the utility of financial regulatory information filed in compliance with the FDTA-mandated data standards? For example, should the Commission work to reduce error rates in structured data filings?</li>
+<li>In light of the Commission&rsquo;s broad discretion in implementing the second phase of FDTA rulemaking, are there areas where full application of these proposed data standards would be particularly helpful or unhelpful?<a href="https://www.sec.gov/newsroom/speeches-statements/peirce-statement-financial-data-transparency-act-080224#_ftn1" name="_ftnref1">[1]</a></li>
+</ol></li>
+</ol></li>
+<li><i>Financial Data Interoperability.&nbsp;</i>The FDTA aims to promote the interoperability of financial regulatory data across financial regulators.<a href="https://www.sec.gov/newsroom/speeches-statements/peirce-statement-financial-data-transparency-act-080224#_ftn2" name="_ftnref2">[2]</a><ol>
+<li>What could the benefits of interoperability be in the intermediate and longer term? What level of interoperability is necessary to achieve these benefits?</li>
+<li>What are the largest hurdles to interoperability of financial regulatory data across financial regulators? How should we address those hurdles?</li>
+<li>How could we achieve the benefits of interoperability without imposing unnecessary costs on reporting firms, particularly smaller ones?</li>
+</ol></li>
+<li><i>Legal Entity Identifier</i>: The FDTA mandates a &ldquo;common nonproprietary legal entity identifier that is available under an open license for all entities required to report to&rdquo; the regulators.<a href="https://www.sec.gov/newsroom/speeches-statements/peirce-statement-financial-data-transparency-act-080224#_ftn3" name="_ftnref3">[3]</a>&nbsp;The proposal specifies this standard as&nbsp;<i>the&nbsp;</i>Legal Entity Identifier (&ldquo;LEI&rdquo;), which the Global LEI Foundation (&ldquo;GLEIF&rdquo;) manages and supports.<a href="https://www.sec.gov/newsroom/speeches-statements/peirce-statement-financial-data-transparency-act-080224#_ftn4" name="_ftnref4">[4]</a><ol>
+<li>Mandating the adoption of any product or service managed by a third-party carries risks, including the possibility that the third-party could use its regulatory-mandated advantage to, for example, raise fees inordinately, demand obtrusive information from registrants, or provide poor service. Is this a risk of the LEI mandate? If so, how can we mitigate this risk, or does the existing regulatory oversight of the GLEIF already adequately manage this risk?</li>
+</ol></li>
+</ol><ol>
+<li><ol start="2">
+<li>Would timely obtaining and maintaining the required LEIs be manageable for small entities and for large entities with many subsidiaries?</li>
+</ol></li>
+</ol><ol start="3">
+<li><ol start="3">
+<li>How would an LEI mandate integrate with other entity identifiers such as the Central Index Key (&ldquo;CIK&rdquo;), which identifies EDGAR filers?</li>
+</ol></li>
+<li><i>CUSIP and FIGI</i>:&nbsp;<i>&nbsp;</i>The proposal&rsquo;s scope designates as an identifier of financial instruments the Financial Instrument Global Identifier (&ldquo;FIGI&rdquo;), which is &ldquo;established by the Object Management Group . . . an open-membership standards consortium.&rdquo;<a href="https://www.sec.gov/newsroom/speeches-statements/peirce-statement-financial-data-transparency-act-080224#_ftn5" name="_ftnref5">[5]</a>&nbsp;The joint rulemaking does not include the Committee on Uniform Securities Identification Procedure (&ldquo;CUSIP&rdquo;), a common securities identifier, because CUSIP is &ldquo;proprietary and not available for open license in the United States.&rdquo;<a href="https://www.sec.gov/newsroom/speeches-statements/peirce-statement-financial-data-transparency-act-080224#_ftn6" name="_ftnref6">[6]</a><ol>
+<li>Does the FDTA&rsquo;s statutory mandate extend to financial instruments?</li>
+<li>Is the proposing release correct that the FIGI does and the CUSIP does not meet the FDTA&rsquo;s criteria for designation as a joint standard? If CUSIP does not now meet the criteria, what changes would enable it to do so?</li>
+</ol></li>
+</ol><ol start="4">
+<li><ol start="3">
+<li>What, if any, policy issues arise from the FIGI being managed by a standards consortium?</li>
+<li>How should the Commission consider FIGI and CUSIP in setting data standards for financial instruments in the second-phase rulemaking?</li>
+</ol></li>
+<li><i>Scope of the data standards</i>: To implement the FDTA successfully, we need to scope it properly and remain within statutory parameters.<ol>
+<li>Did the joint regulators strike the right balance when choosing the proposal&rsquo;s scope, in light of the statutory mandate?</li>
+<li>What policy issues should the Commission consider when adapting its rulebook to conform to the joint data standards, particularly given the statutory discretion afforded to the Commission (and other implementing agencies) in the second-phase rulemaking?<a href="https://www.sec.gov/newsroom/speeches-statements/peirce-statement-financial-data-transparency-act-080224#_ftn7" name="_ftnref7">[7]</a></li>
+</ol></li>
+<li><i>Principles-based regulation and maintaining updated FDTA standards</i>: Hardwiring a technology into a rule runs the risk of preserving that requirement far after that technology&rsquo;s expiration date.<a href="https://www.sec.gov/newsroom/speeches-statements/peirce-statement-financial-data-transparency-act-080224#_ftn8" name="_ftnref8">[8]</a>&nbsp;To benefit from FDTA implementation, we need meaningful consistency of data standards across agencies, which requires at least some specificity regarding data standards. If we are not vigilant, however, the FDTA could inhibit data standards from evolving over time or force firms to maintain parallel data systems. The proposal affords some flexibility in data transmission and schema and taxonomy format standards,<a href="https://www.sec.gov/newsroom/speeches-statements/peirce-statement-financial-data-transparency-act-080224#_ftn9" name="_ftnref9">[9]</a>&nbsp;while specifying other data standards.<a href="https://www.sec.gov/newsroom/speeches-statements/peirce-statement-financial-data-transparency-act-080224#_ftn10" name="_ftnref10">[10]</a><ol>
+<li>Does the proposal strike the right balance between principles and prescription? If not, how should the approach change?</li>
+<li>Would the balance the proposal strikes allow data standards to be updated in a timely manner? If not, what would work better?</li>
+<li>How often should regulators revisit the mandated standards to ensure that they remain current? Should we build a requirement to revisit the standards into the final rule?</li>
+<li>How, if at all, will artificial intelligence or other technologies influence the need for structured data? How should we take these potential future developments into account in implementing the FDTA?</li>
+</ol></li>
+</ol>
+<p>Today&rsquo;s proposed rule is a reasonable first step in the FDTA implementation journey. For this process to have the best chance of unlocking the FDTA&rsquo;s promise and avoiding its peril, public discussion is essential. I welcome commenters&rsquo; thoughts on these questions and how the second phase should unfold, particularly given the meaningful flexibility that the joint regulators will have during that phase.</p>
+<p>Joint rulemakings are inevitably challenging. I therefore particularly appreciate the hard work of staff in the SEC&rsquo;s Divisions of Corporation Finance, Economic and Risk Analysis, Investment Management, and Trading and Markets, and in the Offices of the Chief Data Officer, Credit Ratings, the General Counsel, and Municipal Securities, along with staff at the other financial regulators who have worked on this first stage of FDTA implementation.</p>
+<div>
+<hr align="left" size="1" width="33%" />
+<div id="ftn1">
+<p><a href="https://www.sec.gov/newsroom/speeches-statements/peirce-statement-financial-data-transparency-act-080224#_ftnref1" name="_ftn1">[1]</a>&nbsp;This first phase of FDTA implementation deals only with standards applicable to all agencies, so some common standards used in SEC filings are not reflected in the proposal but could be reflected in the Commission&rsquo;s phase two rulemaking.</p>
+</div>
+<div id="ftn2">
+<p><a href="https://www.sec.gov/newsroom/speeches-statements/peirce-statement-financial-data-transparency-act-080224#_ftnref2" name="_ftn2">[2]</a>&nbsp;Section 5811(a) of the FDTA directs the Agencies to &ldquo;seek to promote interoperability of financial regulatory data across [FSOC] members&rdquo; when establishing the joint standards. The FDTA also requires a Government Accountability Office &ldquo;report on the feasibility, costs, and potential benefits of building upon the taxonomy [established by the FDTA] a Federal Government-wide regulatory compliance standardization mechanism similar to Standard Business Reporting.&rdquo; Section 5893 of the FDTA. Standard Business Reporting (&ldquo;SBR&rdquo;) could allow firms to file one universal regulatory filing, which would be transformed automatically into regulatory filings at every applicable regulatory agency.&nbsp;<i>See, e.g.</i>, Commonwealth of Australia,&nbsp;<i>What Is Standard Business Reporting</i>,<a href="https://www.sbr.gov.au/">https://www.sbr.gov.au</a>&nbsp;(describing Australia&rsquo;s SBR initiative); Parliament of the Commonwealth of Australia, House of Representatives Standing Committee on Tax and Revenue,<i>2016 Annual Report of the Australian Taxation Office, Performance Review 2015-16</i>at 53,<a href="https://www.aph.gov.au/-/media/02_Parliamentary_Business/24_Committees/243_Reps_Committees/TaxRev/2015-16_Annual_Report_ATO/Consolidated.pdf?la=en&amp;hash=0B88E9BAFA7B5D7E1C111B9D6033271B092918CC">https://www.aph.gov.au/-/media/02_Parliamentary_Business/24_Committees/243_Reps_Committees/TaxRev/2015-16_Annual_Report_ATO/Consolidated.pdf?la=en&amp;hash=0B88E9BAFA7B5D7E1C111B9D6033271B092918CC</a>(reporting that in 2015 and 2016, SBR saved businesses 1.2 billion Australian dollars in regulatory costs).</p>
+</div>
+<div id="ftn3">
+<p><a href="https://www.sec.gov/newsroom/speeches-statements/peirce-statement-financial-data-transparency-act-080224#_ftnref3" name="_ftn3">[3]</a>&nbsp;Section 5811(a) of the FDTA.</p>
+</div>
+<div id="ftn4">
+<p><a href="https://www.sec.gov/newsroom/speeches-statements/peirce-statement-financial-data-transparency-act-080224#_ftnref4" name="_ftn4">[4]</a>&nbsp;<i>See</i>&nbsp;Global Legal Entity Identifier Foundation,&nbsp;<i>Introducing the Legal Entity Identifier (LEI),</i>&nbsp;<a href="https://www.gleif.org/en/about-lei/introducing-the-legal-entity-identifier-lei">https://www.gleif.org/en/about-lei/introducing-the-legal-entity-identifier-lei</a>.</p>
+</div>
+<div id="ftn5">
+<p><a href="https://www.sec.gov/newsroom/speeches-statements/peirce-statement-financial-data-transparency-act-080224#_ftnref5" name="_ftn5">[5]</a>&nbsp;Release at 28;&nbsp;<i>see also&nbsp;</i>Standard Symbology for Global Financial Securities<i>,&nbsp;</i>Object Management Group,&nbsp;<i>available at</i>&nbsp;<a href="https://www.omg.org/figi/">https://www.omg.org/figi/</a>.</p>
+</div>
+<div id="ftn6">
+<p><a href="https://www.sec.gov/newsroom/speeches-statements/peirce-statement-financial-data-transparency-act-080224#_ftnref6" name="_ftn6">[6]</a>&nbsp;Release at 28.</p>
+</div>
+<div id="ftn7">
+<p><a href="https://www.sec.gov/newsroom/speeches-statements/peirce-statement-financial-data-transparency-act-080224#_ftnref7" name="_ftn7">[7]</a>&nbsp;<i>See&nbsp;</i>Release at 19 (&ldquo;Generally, an implementing Agency will determine the applicability of the joint standards to the collections of information specified in the FDTA under its purview. Additionally, in issuing an Agency-specific rulemaking, each implementing Agency 1) may scale data reporting requirements to reduce any unjustified burden on smaller entities affected by the regulations and 2) must seek to minimize disruptive changes to those entities or persons. Further, section 5891(c) of the FDTA provides that nothing in the FDTA may be construed to prohibit an Agency from tailoring the data standards when those standards are adopted.&rdquo;) (footnotes omitted).</p>
+</div>
+<div id="ftn8">
+<p><a href="https://www.sec.gov/newsroom/speeches-statements/peirce-statement-financial-data-transparency-act-080224#_ftnref8" name="_ftn8">[8]</a>&nbsp;See, e.g., Hester M. Peirce, Burying the Technologically Primitive WORM, Comments at the Open Meeting on Broker-Dealer Recordkeeping Requirements (Oct. 12, 2022),&nbsp;<a href="https://www.sec.gov/newsroom/speeches-statements/peirce-statement-recordkeeping-requirements-101222">https://www.sec.gov/newsroom/speeches-statements/peirce-statement-recordkeeping-requirements-101222</a>&nbsp;(discussing the elimination of an outdated recordkeeping technology mandate).</p>
+</div>
+<div id="ftn9">
+<p><a href="https://www.sec.gov/newsroom/speeches-statements/peirce-statement-financial-data-transparency-act-080224#_ftnref9" name="_ftn9">[9]</a>&nbsp;<i>See&nbsp;</i>Release at 31 (&ldquo;For the joint standard for data transmission and schema and taxonomy formats, the Agencies propose to establish that the data transmission or schema and taxonomy formats used have, to the extent practicable, four properties, derived from the requirements listed in section 124(c)(1)(B) of the Financial Stability Act.&rdquo;). Section 5811 of the FDTA amends subtitle A of the Financial Stability Act of 2010 by adding a new section 124.</p>
+</div>
+<div id="ftn10">
+<p><a href="https://www.sec.gov/newsroom/speeches-statements/peirce-statement-financial-data-transparency-act-080224#_ftnref10" name="_ftn10">[10]</a>&nbsp;<i>See&nbsp;</i>Release at Section II(B) (designating the Legal Entity Identifier); Release at Section II(C) (proposed to establish seven common identifiers in the joint standards).</p>
+</div>
+</div>
+]]></content:encoded>
+<pubDate>Sat, 03 Aug 2024 06:49:23 GMT</pubDate>
+<pubDate>Sat, 03 Aug 2024 06:49:23 GMT</pubDate>
+</item>
+<item>
+<title>Statement On Financial Data Transparency Act Proposed Joint Data Standards, SEC Commissioner Mark T. Uyeda, Aug. 2, 2024</title>
+<link>http://www.mondovisione.com/media-and-resources/news/statement-on-financial-data-transparency-act-proposed-joint-data-standards-sec/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/statement-on-financial-data-transparency-act-proposed-joint-data-standards-sec/</guid>
+<content:encoded><![CDATA[
+<div> Joint Data Standards, LEI, FDTA, Commission, proposal
+Summary:<br>The Commission proposes joint data standards, including LEI, for financial reporting, considering concerns over mandating payments to private organizations. <div>
+<div class="clearfix text-formatted usa-prose field field--name-body field--type-text-with-summary field--label-hidden field__item">
+<p>As part of the Financial Data Transparency Act of 2022 (&ldquo;FDTA&rdquo;),<a href="https://www.sec.gov/newsroom/speeches-statements/uyeda-statement-financial-data-transparency-act-080224#_ftn1" name="_ftnref1">[1]</a>&nbsp;Congress directed the Commission and other financial regulatory agencies to jointly propose data standards for (1) certain collections of information reported to each agency by financial entities and (2) the data collected from the agencies on behalf of the Financial Stability Oversight Council.<a href="https://www.sec.gov/newsroom/speeches-statements/uyeda-statement-financial-data-transparency-act-080224#_ftn2" name="_ftnref2">[2]</a></p>
+<p>Today, the Commission is proposing joint standards with the other agencies.<a href="https://www.sec.gov/newsroom/speeches-statements/uyeda-statement-financial-data-transparency-act-080224#_ftn3" name="_ftnref3">[3]</a>&nbsp;One part of the proposal establishes International Organization for Standardization (ISO) 17442-1:2020, Financial Services &ndash; Legal Entity Identifier (&ldquo;LEI&rdquo;), as the joint standard for the legal entity identifier. While LEI satisfies the FDTA&rsquo;s requirements for a joint data standard, I have concerns were the Commission<a href="https://www.sec.gov/newsroom/speeches-statements/uyeda-statement-financial-data-transparency-act-080224#_ftn4" name="_ftnref4">[4]</a>&nbsp;and other agencies to ultimately mandate the exclusive use of LEI from a specific organization.</p>
+<p>LEI is managed by the Global Legal Entity Identifier Foundation (&ldquo;GLEIF&rdquo;) and issued through &ldquo;local operating units&rdquo; (&ldquo;LOUs&rdquo;). Although GLEIF is overseen by the Regulatory Oversight Committee, of which the Commission is a member, neither the committee nor any LOU is a federal or state regulator. Entities must pay a fee to an LOU both to initially obtain an LEI and to renew the LEI annually.</p>
+<p>While the fee may be&nbsp;<i>de minimis</i>&nbsp;to some entities, mandating payments to a private third party as a condition to satisfying legal requirements raises significant concerns &ndash; especially when such fees are not subject to approval by Congress or the Commission. If a company wants to raise capital by filing a registration statement, then it needs to first purchase an LEI from a third party.<a href="https://www.sec.gov/newsroom/speeches-statements/uyeda-statement-financial-data-transparency-act-080224#_ftn5" name="_ftnref5">[5]</a>&nbsp;If a school or water district seeks to issue tax-exempt bonds to pay for infrastructure, then it needs to purchase an LEI before it can submit materials to the Municipal Securities Rulemaking Board.<a href="https://www.sec.gov/newsroom/speeches-statements/uyeda-statement-financial-data-transparency-act-080224#_ftn6" name="_ftnref6">[6]</a></p>
+<p>The FDTA amends section 124(c)(1)(A) of the Financial Stability Act to require the joint standards to include &ldquo;a common nonproprietary legal entity identifier that is available under an open license.&rdquo;<a href="https://www.sec.gov/newsroom/speeches-statements/uyeda-statement-financial-data-transparency-act-080224#_ftn7" name="_ftnref7">[7]</a>&nbsp;The term &ldquo;open license&rdquo; means a legal guarantee that a data asset is made available at no cost to the public and with no restrictions on copying, publishing, distributing, transmitting, citing, or adapting such asset.<a href="https://www.sec.gov/newsroom/speeches-statements/uyeda-statement-financial-data-transparency-act-080224#_ftn8" name="_ftnref8">[8]</a></p>
+<p>Given these concerns, the Commission should consider alternatives to requiring regulated entities to pay for something &ndash; such as an LEI &ndash; if free alternatives, such as the Central Index Key (CIK) used to make EDGAR filings with the Commission<a href="https://www.sec.gov/newsroom/speeches-statements/uyeda-statement-financial-data-transparency-act-080224#_ftn9" name="_ftnref9">[9]</a>&nbsp;or the file number issued by the Delaware Department of State&rsquo;s Division of Corporations,<a href="https://www.sec.gov/newsroom/speeches-statements/uyeda-statement-financial-data-transparency-act-080224#_ftn10" name="_ftnref10">[10]</a>&nbsp;are available and may also satisfy the FDTA&rsquo;s data standard requirements. One option, consistent with certain of the Commission&rsquo;s forms,<a href="https://www.sec.gov/newsroom/speeches-statements/uyeda-statement-financial-data-transparency-act-080224#_ftn11" name="_ftnref11">[11]</a>&nbsp;is to require an entity to use and disclose its LEI only if that entity has already obtained one for other purposes.</p>
+<p>I look forward to reviewing the public comments from investors and market participants on the LEI requirement and other aspects of the proposal. In receiving feedback, I am particularly interested in whether the joint data standards being proposed, including LEI, can be obtained or used by non-traditional business organizations that exist today or that may exist in the future, such as those in the crypto and digital assets industry.</p>
+<p>Because of the Congressional mandate to undertake this rulemaking, I will support the joint proposal. I thank staff from across the Commission who worked on this proposal, and I would especially like to recognize the staff of the Office of the Chief Data Officer, the Division of Corporation Finance, and the Division of Economic and Risk Analysis for their involvement and engagement with my staff and me.</p>
+<div>
+<hr align="left" size="1" width="33%" />
+<div id="ftn1">
+<p><a href="https://www.sec.gov/newsroom/speeches-statements/uyeda-statement-financial-data-transparency-act-080224#_ftnref1" name="_ftn1">[1]</a>&nbsp;Pub. L. No. 117-263, 136 Stat. 3421 (2022).</p>
+</div>
+<div id="ftn2">
+<p><a href="https://www.sec.gov/newsroom/speeches-statements/uyeda-statement-financial-data-transparency-act-080224#_ftnref2" name="_ftn2">[2]</a>&nbsp;<i>Id</i>. at 3422.</p>
+</div>
+<div id="ftn3">
+<p><a href="https://www.sec.gov/newsroom/speeches-statements/uyeda-statement-financial-data-transparency-act-080224#_ftnref3" name="_ftn3">[3]</a>&nbsp;Financial Data Transparency Act Joint Data Standards, Release No. 33-11295 (Aug. 2, 2024) (the &ldquo;Proposing Release&rdquo;), available at&nbsp;<a href="https://www.sec.gov/files/rules/proposed/2024/33-11295.pdf">https://www.sec.gov/files/rules/proposed/2024/33-11295.pdf</a>.</p>
+</div>
+<div id="ftn4">
+<p><a href="https://www.sec.gov/newsroom/speeches-statements/uyeda-statement-financial-data-transparency-act-080224#_ftnref4" name="_ftn4">[4]</a>&nbsp;Even if the final joint data standard for the legal entity identifier were LEI, the Commission could, as part of its agency-specific rulemaking, determine to use a legal entity identifier that is not LEI if the Commission determines either that using LEI was not feasible or that using a legal entity identifier other than LEI would minimize disruptive changes to the persons affected by LEI.&nbsp;<i>See</i>, e.g., the Proposing Release at note 20.</p>
+</div>
+<div id="ftn5">
+<p><a href="https://www.sec.gov/newsroom/speeches-statements/uyeda-statement-financial-data-transparency-act-080224#_ftnref5" name="_ftn5">[5]</a>&nbsp;<i>See</i>&nbsp;Section 5821(e) of FDTA, 136 Stat. at 3425.</p>
+</div>
+<div id="ftn6">
+<p><a href="https://www.sec.gov/newsroom/speeches-statements/uyeda-statement-financial-data-transparency-act-080224#_ftnref6" name="_ftn6">[6]</a>&nbsp;<i>See&nbsp;</i>Section 5823 of FDTA, 136 Stat. at 3427.</p>
+</div>
+<div id="ftn7">
+<p><a href="https://www.sec.gov/newsroom/speeches-statements/uyeda-statement-financial-data-transparency-act-080224#_ftnref7" name="_ftn7">[7]</a>&nbsp;<i>See</i>&nbsp;Section 5811(a) of FDTA, 136 Stat. at 3422.</p>
+</div>
+<div id="ftn8">
+<p><a href="https://www.sec.gov/newsroom/speeches-statements/uyeda-statement-financial-data-transparency-act-080224#_ftnref8" name="_ftn8">[8]</a>&nbsp;<i>See</i>&nbsp;Proposing Release at p.23.</p>
+</div>
+<div id="ftn9">
+<p><a href="https://www.sec.gov/newsroom/speeches-statements/uyeda-statement-financial-data-transparency-act-080224#_ftnref9" name="_ftn9">[9]</a>&nbsp;<i>See</i>&nbsp;CIK Lookup, available at&nbsp;<a href="https://www.sec.gov/search-filings/cik-lookup">https://www.sec.gov/search-filings/cik-lookup</a>&nbsp;and&nbsp;<a href="https://www.edgarcompany.sec.gov/">https://www.edgarcompany.sec.gov/</a>.</p>
+</div>
+<div id="ftn10">
+<p><a href="https://www.sec.gov/newsroom/speeches-statements/uyeda-statement-financial-data-transparency-act-080224#_ftnref10" name="_ftn10">[10]</a>&nbsp;<i>See</i>&nbsp;<a href="https://icis.corp.delaware.gov/Ecorp/FieldDesc.aspx#FILE%20NUMBER">https://icis.corp.delaware.gov/Ecorp/FieldDesc.aspx#FILE%20NUMBER</a>&nbsp;(describing the file number as &ldquo;a unique identifier assigned to each entity incorporated, formed, qualified or registered with the Division of Corporations&rdquo;).</p>
+</div>
+<div id="ftn11">
+<p><a href="https://www.sec.gov/newsroom/speeches-statements/uyeda-statement-financial-data-transparency-act-080224#_ftnref11" name="_ftn11">[11]</a>&nbsp;<i>See</i>, e.g., Form ADV, Part 1A, Item 1.P.</p>
+<div></div>
+</div>
+</div>
+</div>
+<div class="date-modified usa-prose"></div>
+]]></content:encoded>
+<pubDate>Sat, 03 Aug 2024 06:51:24 GMT</pubDate>
+<pubDate>Sat, 03 Aug 2024 06:51:24 GMT</pubDate>
+</item>
 
 <item>
 <title>MIAX Sapphire Options System Settings</title>
