@@ -2347,3 +2347,12 @@ Fetching from https://mondovisione.com/media-and-resources/news/rss/
 Feed error: 503
 append_entries: 0
 error when rendering xml, skip docs/BIST-August
+------------------------------------------------------
+Started: 2024-08-22 14:18:50.454002
+Existing_entries: 313
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Token length: 5193
+Summarized using GPT-3.5-turbo-1106
+Append: [Global Asset Managers Divided Over The FCA’s Unbundling Rules](http://www.mondovisione.com/media-and-resources/news/global-asset-managers-divided-over-the-fcas-unbundling-rules/)
+append_entries: 1
+Finish: 2024-08-22 14:18:55.532118
