@@ -5,6 +5,126 @@
 <link>http://www.mondovisione.com/media-and-resources/news/</link>
 
 <item>
+<title>DiffusionData Releases Diffusion 6.11 - Community Feedback Has Major Impact On New Enhancements In Latest Version Of Diffusion</title>
+<link>http://www.mondovisione.com/media-and-resources/news/diffusiondata-releases-diffusion-611-community-feedback-has-major-impact-on-n/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/diffusiondata-releases-diffusion-611-community-feedback-has-major-impact-on-n/</guid>
+<content:encoded><![CDATA[
+<div> performance, usage monitor, cluster-aware, topic view, session filtering
+Summary:
+Diffusion 6.11 introduces major performance improvement, usage monitoring, cluster-aware enhancements, topic view mapping, and session filtering features. The update aims to enhance developer productivity and operational efficiency. <br><br>Summary: <div>
+<p><span><span style="text-decoration: underline;"><a class="OWAAutoLink safe---anchor---wc" href="https://www.diffusiondata.com/" rel="noopener noreferrer nofollow" target="_blank">DiffusionData</a></span></span>, the pioneer and leader in real-time data streaming and messaging solutions, today announced the release of Diffusion 6.11. The latest developer-centric enhancements to the framework aim to speed and simplify development, reduce operational costs, and ensure reliable and efficient delivery of real-time data.</p>
+<p>Grethe Brown, CEO of DiffusionData, said: &ldquo;Many of the enhancements we&rsquo;ve introduced in 6.11 have been driven by an ongoing dialogue with our Diffusion community. It&rsquo;s important for us to understand the evolving requirements of our clients and address those when introducing improvements to our framework. The enhancements reflect some of the daily challenges faced by developers and are intended to improve operational productivity. &nbsp;&nbsp;The feedback from our amazing customers continues to fuel our innovations in real-time data.&rdquo;</p>
+<p>Enhancements in Diffusion 6.11 include:</p>
+<p><b>Major Improvement in Distributed Update Performance</b></p>
+<p><b>&nbsp;</b>In previous releases the performance of updates in a clustered environment was significantly slower than that of a single server. With this release, asynchronous operations are applied to bring cluster performance comparable to a single server.</p>
+<p><b>Usage Monitor</b></p>
+<p><b>&nbsp;</b>In 6.11, a new usage monitoring feature has been introduced. This provides customers with the ability to collect certain usage statistics in files that can then be sent to DiffusionData periodically so that their usage of the framework can be assessed. This allows DiffusionData to have a far better view on how Diffusion is being used and provide customers with feedback on their usage to improve the overall technology experience.</p>
+<p><b>Other enhancements in 6.11 include:</b></p>
+<ul>
+<li><b>Cluster-aware Session Event Listener:</b>&nbsp;a new API has been added to replace the previous session properties listener. This brings the ability to listen for events related to sessions across a cluster of servers, as well as new filtering capabilities.</li>
+<li><b>Topic View Scalar Path Mapping Extension:</b>&nbsp;an enhancement to allow topic views to include parent paths when creating views of the topic tree.</li>
+<li><b>New &lsquo;Environment&rsquo; Session Property</b>: a new fixed session property has been added to provide additional information about connecting clients, and enable more powerful filtering of sessions.</li>
+<li><b>New &lsquo;Matches&rsquo; Comparison for Session Filtering</b>: session filters can now make use of regular expressions for matching sessions.</li>
+<li><b>Ability to Turn Delta Compression Off for Update Streams</b>: users can now suppress delta generation in update streams. Disabling delta compression can reduce the CPU workload at the client at the cost of increased bandwidth.</li>
+<li><b>Fetching Topic Sizes</b>: it is now possible to fetch the sizes of topics without transferring the topic payload. &nbsp;Sizes are also displayed in the Diffusion Management Console.</li>
+<li><b>Diffusion Management Console Improvements</b>: the Diffusion Management Console has had several improvements. These include a new intuitive way to define and manage topic views, and a new structural browser for JSON values.</li>
+</ul>
+]]></content:encoded>
+<pubDate>Thu, 05 Sep 2024 08:59:11 GMT</pubDate>
+<pubDate>Thu, 05 Sep 2024 08:59:11 GMT</pubDate>
+</item>
+<item>
+<title>Evolve ETFs Launches Evolve Canadian Utilities Enhanced Yield Index Fund Tracking Solactive Canada Utility Index</title>
+<link>http://www.mondovisione.com/media-and-resources/news/evolve-etfs-launches-evolve-canadian-utilities-enhanced-yield-index-fund-trackin/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/evolve-etfs-launches-evolve-canadian-utilities-enhanced-yield-index-fund-trackin/</guid>
+<content:encoded><![CDATA[
+<div> Collaboration, Solactive, Evolve ETFs, Canada Utility Index, ETF
+<br>
+The Solactive Canada Utility Index, launched in partnership with Evolve ETFs, offers exposure to stable Canadian utility sectors with potential for long-term growth.
+<br><br>Summary: The index provides exposure to stable Canadian utility sectors, with potential for long-term growth through targeted and diversified investments. <div>
+<p><strong>Solactive is pleased to announce the extension of its collaboration with Evolve ETFs with the launch of the Solactive Canada Utility Index. This index provides targeted exposure to essential industry sectors that form the backbone of Canada&rsquo;s economy, including utilities, pipelines, and telecommunications. These sectors are known for their low volatility and ability to generate consistent income, even in turbulent market environments, and are positioned to benefit from potential long-term trends.</strong></p>
+<p><strong>The&nbsp;<a href="https://www.solactive.com/downloads/Guideline-Solactive-SOLCAUT.pdf">Solactive Canada Utility Index</a>, consists of the largest Canadian companies in the extended utility sector and ensures diversified exposure across the portfolio by equally weighting each component. The index first selects the top four companies by free float market capitalization from each of the three key categories: utilities, pipelines, and telecommunications. Subsequently, the ten remaining companies with the highest free-float market capitalization across all sectors are selected. This fully rule-based index is rebalanced quarterly to maintain an optimal mix of established market leaders and evolving players within the Canadian broader utility landscape.</strong></p>
+<p><strong>The ETF listed on 4<span>th</span>&nbsp;September on the Toronto Stock Exchange with the ticker symbol &ldquo;UTES&rdquo;.&nbsp;</strong></p>
+<p><strong><span style="text-decoration: underline;">Timo Pfeiffer, Chief Markets Officer at Solactive, comments:</span>&nbsp;<em>&ldquo;We are excited to partner with Evolve ETFs on this launch. The Solactive Canada Utility Index captures the performance of the stable yet dynamic utilities sector in Canada. This collaboration underscores our commitment to delivering innovative index solutions that meet the evolving needs of investors.&rdquo;</em></strong></p>
+<p><strong><em>&ldquo;With over $7 billion in assets, we are excited to announce another addition to our growing lineup of covered call funds,&rdquo;&nbsp;</em><span style="text-decoration: underline;">says Raj Lala, President and CEO at Evolve ETFs</span>.&nbsp;<em>&ldquo;Utilities are a staple in Canadian portfolios, offering stable dividends, low volatility, and long-term growth potential. In today&rsquo;s market environment, characterized by economic uncertainty, market volatility, and declining interest rates, we believe utilities can be a valuable addition to client portfolios. UTES will employ our actively managed covered call strategy and modest 25% leverage to provide investors with enhanced, tax-efficient income.&rdquo;</em></strong></p>
+]]></content:encoded>
+<pubDate>Thu, 05 Sep 2024 08:43:30 GMT</pubDate>
+<pubDate>Thu, 05 Sep 2024 08:43:30 GMT</pubDate>
+</item>
+<item>
+<title>BNP Paribas Asset Management Successfully Completes The Final Close Of Third European Senior Private Debt Fund</title>
+<link>http://www.mondovisione.com/media-and-resources/news/bnp-paribas-asset-management-successfully-completes-the-final-close-of-third-eur/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/bnp-paribas-asset-management-successfully-completes-the-final-close-of-third-eur/</guid>
+<content:encoded><![CDATA[
+<div> Private Debt, European SME Debt Fund III, BNP Paribas Asset Management, Senior Debt, Private Assets<br>
+Summary: 
+BNP Paribas Asset Management announced the final close of the BNP Paribas European SME Debt Fund III, with EUR 741 million, targeting SMEs and mid-caps in Continental Europe. The fund has won the confidence of around twenty institutional investors and is classified as Article 8 under SFDR. It targets a portfolio of 70 SMEs and Mid-caps that are champions in their respective sectors and has already financed more than 40 companies at this stage. The success of this third senior debt vintage demonstrates the relevance of the model implemented by BNP Paribas Asset Management's private asset platform, offering investors a differentiating product in this growing market. <div>
+<p><span><strong>BNP Paribas Asset Management (&lsquo;BNPP AM&rsquo;) announces the final close of the BNP Paribas European SME Debt Fund III (&lsquo;Fund III&rsquo;), with EUR 741 million, above the initial target of EUR 600 million. The&nbsp;</strong><strong>SME Debt Fun</strong><strong>d III</strong><strong>&nbsp;fund finances Small and Medium sized Enterprises (&lsquo;SMEs&rsquo;) and Mid-cap companies in Continental Europe in the form of secured bullet loans. Since its creation in 2016, BNPP AM&rsquo;s private debt activity helped more than 250 companies develop their business with more than EUR 1.7 billion deployed.</strong></span></p>
+<p><span>This third vintage has won the confidence of around twenty institutional investors from six different countries, including insurers, pension funds, asset managers and intergovernmental organizations. This success consolidates BNP Paribas Asset Management's position in the dynamic corporate private credit market. This fast-growing market offers investors the opportunity to diversify their asset allocation, with an attractive risk-return profile. It also provides successful companies with an additional opportunity to finance their long-term growth.</span></p>
+<p><span>Fund III targets a portfolio of 70 SMEs and Mid-caps that are champions in their respective sectors and has already financed more than 40 companies at this stage. As per the two previous vintages, Fund III has a distinctive positioning in the private debt universe thanks to its very high granularity, combined with a strong selectivity of financing opportunities. This is made possible by the well-established partnership between the fund's management team and BNP Paribas' banking networks, which represent an important but not exclusive part of the identification of the financed companies.</span></p>
+<p>Classified as Article 8 under SFDR<sup>1</sup>, Fund III integrates companies&rsquo; environmental and social characteristics in its investment process.</p>
+<p><span>Christophe Carrasco, Head of Private Debt at BNPP AM, comments:</span></p>
+<p><span>&ldquo;Senior European private credit offers a compelling option for SMEs and mid-caps, as one of the key elements for a company to strengthen its leading position, or to bolster global innovation efforts. As far as investors are concerned, private credit offers an attractive risk-return profile with a significant illiquidity premium over the bond market with counterparties that have dominant positions in their specialised sectors.&rdquo;</span></p>
+<p><span>David Bouchoucha, Head of Private Assets at BNPP AM, adds:</span></p>
+<p><span>&ldquo;The success of this third senior debt vintage demonstrates the relevance of the model implemented by our private asset platform. The combination of unique market access thanks to the BNP Paribas Group, with the selectivity of experienced management teams, and a rigorous attention to ESG criteria, makes it possible to offer investors a differentiating product in this growing market.&rdquo;</span></p>
+<p><span>Fund III is managed by BNPP AM's Private Assets division, created in January 2023. It consists of more than 100 investment professionals and currently manages and advises EUR 40 million in assets.</span></p>
+<h4 class="section-title"><a href="https://mediaroom-en.bnpparibas-am.com/assets/sme-debt-iii-final-close-july-2024-en-v1-pdf-41d05-0fb7a.html" title="SME Debt III final close July 2024 EN v1.pdf">SME Debt III final close July 2024 EN v1.pdf</a></h4>
+<p><span><br /></span></p>
+<p>
+<hr />
+</p>
+<p>Footnotes</p>
+<ol>
+<li id="footnote-light-1"><cite>Sustainable Finance Disclosure Regulation</cite></li>
+</ol>
+]]></content:encoded>
+<pubDate>Thu, 05 Sep 2024 08:49:46 GMT</pubDate>
+<pubDate>Thu, 05 Sep 2024 08:49:46 GMT</pubDate>
+</item>
+<item>
+<title>Droit Achieves ISO/IEC 27001 And ISO/IEC 27017 Certifications - Reinforcing Commitment To Cloud Security</title>
+<link>http://www.mondovisione.com/media-and-resources/news/droit-achieves-isoiec-27001-and-isoiec-27017-certifications-reinforcing-comm/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/droit-achieves-isoiec-27001-and-isoiec-27017-certifications-reinforcing-comm/</guid>
+<content:encoded><![CDATA[
+<div> certifications, security, cloud, data breaches, ISO standards
+<br>
+Droit achieves ISO/IEC 27001 and ISO/IEC 27017 certifications for cloud security, enhancing data privacy, resilience, and compliance assurance.
+<br><br>Summary:
+Droit achieves ISO/IEC 27001 and ISO/IEC 27017 certifications. Cloud security is enhanced, offering assurance for data privacy, resilience, and compliance. <div>
+<p><strong><span>Droit</span></strong><span>, a technology firm at the forefront of computational law and regulation, is proud to announce its achievement of the latest&nbsp;</span><a class="safe---anchor---wc" href="https://74n5c4m7.r.eu-west-1.awstrack.me/L0/https:%2F%2Fwww.iso.org%2Fstandard%2F27001/1/01020191c0fa36c9-9c695ad3-6038-4688-a5d5-4e2ca8b553d8-000000/X2za8flEAYyq1fpSRSs4hv0lE3Q=390" rel="noopener noreferrer nofollow" target="_blank"><span>ISO/IEC 27001:2022</span></a><span>&nbsp;and&nbsp;</span><a class="safe---anchor---wc" href="https://74n5c4m7.r.eu-west-1.awstrack.me/L0/https:%2F%2Fwww.iso.org%2Fstandard%2F43757.html/1/01020191c0fa36c9-9c695ad3-6038-4688-a5d5-4e2ca8b553d8-000000/2TiVNsadcR06Mx2wQN2vuMPWO74=390" rel="noopener noreferrer nofollow" target="_blank"><span>ISO/IEC 27017:2015</span></a><span>&nbsp;certifications. These accreditations represent the highest international standards and provide security assurance to Droit&rsquo;s clients as they invest in cloud migrations.&nbsp;</span></p>
+<p><span>A recent&nbsp;</span><a class="safe---anchor---wc" href="https://74n5c4m7.r.eu-west-1.awstrack.me/L0/https:%2F%2Fwww.pwc.com%2Fbm%2Fen%2Fpress-releases%2Fpwc-2024-global-digital-trust-insights.html%23:~:text=9%2520October%2520%25E2%2580%2593%2520PwC's%25202024%2520Global,from%252027%2525%2520to%252036%2525./1/01020191c0fa36c9-9c695ad3-6038-4688-a5d5-4e2ca8b553d8-000000/GyNr9cvcsUrHsK4jmgyRnm4Cnwk=390" rel="noopener noreferrer nofollow" target="_blank"><span>PWC survey</span></a><span>&nbsp;has revealed that data breaches are on the rise, prompting firms to look for reassurance that cyber defenses are integrated in technology and automation investments from the outset. By aligning with these internationally recognised standards, Droit demonstrates its dedication to resilience, security and data privacy. Clients and potential clients can be confident that the firm&rsquo;s security systems and processes adhere to best practices.&nbsp;</span></p>
+<p><span>The cloud security certifications offer numerous benefits including increased resilience against cyber-attacks, compliance with evolving security risks, secure management of information across various formats, preparation of people, processes and technology to face technology-based risks and, the creation of a centrally managed framework to secure all information.</span></p>
+<p><span>"Achieving these certifications and meeting their rigorous requirements was only possible through the dedication, hard work, and collaboration of all our employees and stakeholders," said&nbsp;</span><strong><span>Brock Arnason, Founder and Chief Executive Officer of Droit.</span></strong><span>&nbsp;"We are proud of the culture we are building where security excellence is a core aspect of the business.</span></p>
+<p><span>&ldquo;These certifications offer assurance to our clients that their data and</span><span>&nbsp;</span><span>cloud services are secure, and their own compliance efforts are enhanced as regulatory compliance is aligned with ISO standards through the use of Droit's services,&rdquo; Arnason continued.</span></p>
+<p><span>ISO/IEC 27001:2002 is specifically designed to enhance information security, cybersecurity and privacy protection. ISO/IEC 27017:2015 complements this standard, focusing on all aspects of cloud security.</span></p>
+<p><span>These updated certifications address new and emerging security concerns, especially in cloud computing and advanced technologies, offering confidence to all stakeholders and users of Droit&rsquo;s products.&nbsp;</span></p>
+<p><span>&ldquo;Droit's integration of these ISO information security standards is a major step forward in the assurance we provide to our clients."&nbsp;</span><span>&nbsp;</span><strong><span>added Kaveh Moravej, Head of Information Security, Droit</span></strong><span>. &ldquo;We are not just complying with international standards; we continue building on the principles of these standards to prioritize the security of our clients and their data in every aspect of our operations, including end-to-end cloud security."</span></p>
+<p><span>Today&rsquo;s certifications build upon the ISO/IEC 27001:2013 certification achieved by Droit in 2022 and demonstrates recognition and achievement of Droit&rsquo;s Information Security Management System (ISMS) against a globally recognized standard.&nbsp;</span></p>
+]]></content:encoded>
+<pubDate>Thu, 05 Sep 2024 08:26:15 GMT</pubDate>
+<pubDate>Thu, 05 Sep 2024 08:26:15 GMT</pubDate>
+</item>
+<item>
+<title>XTCC Partners With FINMAAL DMCC To Offer Carbon Offset Opportunities For Financial Services Customers</title>
+<link>http://www.mondovisione.com/media-and-resources/news/xtcc-partners-with-finmaal-dmcc-to-offer-carbon-offset-opportunities-for-financi/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/xtcc-partners-with-finmaal-dmcc-to-offer-carbon-offset-opportunities-for-financi/</guid>
+<content:encoded><![CDATA[
+<div> partnership, XTCC, Finmaal, carbon offset, sustainability
+<br>
+XTCC and Finmaal partner to offer carbon offset options for financial products, integrating sustainability into everyday financial activities. 
+<br><br>Summary: 
+Partnership between XTCC and Finmaal enables carbon offset options for financial products, promoting sustainability and environmental responsibility. <div>
+<p><span><span><a class="safe---anchor---wc" href="https://info.therealizationgroup.com/e3t/Ctc/I6+113/cWmHt04/VWg1Ly749wxqN3WrcJ6J4RFQW1m0cDV5kBv_hN4-lLgg3lYMRW69sMD-6lZ3l3W7mB9yR83fhymW8T8gbh1MH2BbN5BG7xHPlZcQN5V93Vq-bzc8W82Ngj57hBwxyW8zvN-Q2J8Pc6N7WRy95pvtcmW4FTcvR1VnzwJW4LPCNn7hMq8lW8lFyVg5xVtMrW1V4XyW8CkVv3W68Mkdw7ZbQrbVWN5ZL3VDW9dW2xXsmc3GTKHyW8_L-JB127fZgW4C409N5yVFPQW8QLgq578PLP5W7Sy9yf8RtJQsW12gbNB59PmhdW3hdzp99cWcfKf4y0xkP04" rel="noopener noreferrer nofollow" target="_blank"><strong>XTCC</strong></a></span>, a firm specialising in tradable financial instruments tied to high integrity carbon credits, today announces a strategic partnership with&nbsp;<span><a class="safe---anchor---wc" href="https://info.therealizationgroup.com/e3t/Ctc/I6+113/cWmHt04/VWg1Ly749wxqN3WrcJ6J4RFQW1m0cDV5kBv_hN4-lLgz3lYMRW6N1vHY6lZ3prW5yKPjy8dK5FVW8l09Bk78T2NpW4LTHrQ5bMx4DW7wvNK557B0r8W1Qj48X8_1W-8W8qTYnJ49F6-PN8C3bz84SG7rW98zD5M8YpVwfW3hSgwx6T9bTqW4ygZGG47vqM_W5jpL0d8824VRW6-nrhN3pLgr7W64X_ft1-d4pcW71w5ny14wQYjN5G5qHgh0nwNW1ph7JC3h590dW3tCBdT66PzR6W9fKpjg5_PKG8N7vysHQLwXF6W6P70Xq1Qvk3sN2b1XWpKc39bW7zPQN86rnXY6f7gz0qd04" rel="noopener noreferrer nofollow" target="_blank"><strong>Finmaal</strong></a></span>, a premier e-marketplace service provider focused on fintech and insurtech solutions, headquartered in Dubai, UAE. This partnership empowers Finmaal customers to elect to offset Greenhouse Gas (GHG) emissions directly associated with the Finmaal products they purchase through its platform, marking a significant step forward in the integration of sustainability within financial services.</span></p>
+<p><span>XTCC's expertise in the global carbon market and experience building financial products underpinned with high-quality carbon reducing projects will be leveraged to create offset calculations and products that can be accessed seamlessly by Finmaal&rsquo;s diverse customer base. This collaboration aligns perfectly with XTCC's mission to embed environmental sustainability into financial solutions, enabling individuals and businesses to actively reduce carbon footprints.</span></p>
+<p><span>&ldquo;We&rsquo;re thrilled to partner with Finmaal, a company that shares our commitment to sustainability,&rdquo; said&nbsp;<strong>XTCC CEO, Seth Elliott</strong>, &ldquo;Through this collaboration, customers purchasing financial products, such as insurance and banking, will now have the option to offset their estimated carbon emissions during the transaction. This integration not only allows customers to see the specific impact of their choices but also empowers them to neutralise their carbon footprint more effectively. This partnership is an important step in XTCC&rsquo;s strategy to enhance the inter-relationship between capital markets and the natural world.&rdquo;</span></p>
+<p><span><strong>Muhammad Ashfaq-Ur-Rehman</strong>,<strong>&nbsp;CEO of Finmaal</strong>, added &ldquo;As an ethical and innovative company, Finmaal is excited to partner with XTCC to offer our clients a straightforward way to contribute to global sustainability efforts, linked directly to their financial products and services.&nbsp; For example, we will be able to estimate a vehicle&rsquo;s annual carbon emissions over time and give purchasers the option to offset these at the point of sale. This is more than just ticking a box; it&rsquo;s about offering tailored, actionable steps toward carbon neutrality, integrated into the financial services they already use.&rdquo;</span></p>
+<p><span>By leveraging Finmaal&rsquo;s advanced technology and customer engagement strategies, this collaboration will ensure that users are both informed and equipped to take advantage of the carbon offset opportunities available. Both companies are committed to promoting sustainability in financial services, recognizing that integrating carbon offsetting into everyday financial activities is a crucial step toward global environmental responsibility.</span></p>
+]]></content:encoded>
+<pubDate>Thu, 05 Sep 2024 08:29:27 GMT</pubDate>
+<pubDate>Thu, 05 Sep 2024 08:29:27 GMT</pubDate>
+</item>
+
+<item>
 <title>Opening Remarks, Dato’ Mohammad Faiz Azmi, Chairman, Securities Commission Malaysia, FIKRAtech Roundtable, 4 September 2024</title>
 <link>http://www.mondovisione.com/media-and-resources/news/opening-remarks-dato-mohammad-faiz-azmi-chairman-securities-commission-malay/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/opening-remarks-dato-mohammad-faiz-azmi-chairman-securities-commission-malay/</guid>
@@ -15,15 +135,14 @@ Summary: SC Chairman, Dato’ Mohammad Faiz Azmi urges collaboration for the fut
 <p>Click <a href="https://mondovisione.com/_assets/files/4-Sept-2024---Opening-Remarks-delivered-by-SC-Chairman-at-FIKRAtech-Roundtable-.pdf" title="4 Sept 2024 - Opening Remarks delivered by SC Chairman at FIKRAtech Roundtable  ">here</a> for full details.</p>
 ]]></content:encoded>
 <pubDate>Thu, 05 Sep 2024 05:53:59 GMT</pubDate>
-<pubDate>Thu, 05 Sep 2024 05:53:59 GMT</pubDate>
 </item>
 <item>
 <title>ASIC Updates Misconduct Reporting Guidance For External Administrators And Controllers</title>
 <link>http://www.mondovisione.com/media-and-resources/news/asic-updates-misconduct-reporting-guidance-for-external-administrators-and-contr/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/asic-updates-misconduct-reporting-guidance-for-external-administrators-and-contr/</guid>
 <content:encoded><![CDATA[
-<div> Regulatory Guide 16, ASIC, external administrators, controllers, statutory reports<br>
-Summary: ASIC updated guidance for reporting alleged misconduct by external administrators and controllers, focusing on professional judgment and timely reporting.<br> <div>
+<div> Regulatory Guide 16, ASIC, external administrators, controllers, statutory reports<br />
+Summary: ASIC updated guidance for reporting alleged misconduct by external administrators and controllers, focusing on professional judgment and timely reporting.<br /> <div>
 <p>ASIC has today released its updated regulatory guidance for external administrators and controllers when reporting and lodging statutory reports about alleged misconduct.</p>
 <p>The updates to Regulatory Guide 16&nbsp;<em>External administrators and controllers: Reporting of possible offences and misconduct</em>&nbsp;(<a href="https://asic.gov.au/for-finance-professionals/registered-liquidators/applying-for-and-managing-your-liquidator-registration/rg-16-external-administrators-and-controllers-reporting-of-possible-offences-and-misconduct/" title="RG 16 External administrators - Reporting and lodging">RG 16</a>) follow&nbsp;<a href="https://asic.gov.au/about-asic/news-centre/find-a-media-release/2024-releases/24-072mr-asic-consults-on-misconduct-reporting-guidance-for-external-administrators-and-controllers/" title="24-072MR ASIC consults on misconduct reporting guidance for external administrators and controllers">an extensive consultation process</a>&nbsp;that included targeted industry roundtables to seek input into our proposed changes.</p>
 <p>ASIC released Consultation Paper 377&nbsp;<em>Guidance for reporting by external administrators and controllers: Updates to RG 16</em>&nbsp;(<a href="https://asic.gov.au/regulatory-resources/find-a-document/consultations/cp-377-guidance-for-reporting-by-external-administrators-and-controllers-updates-to-rg-16/" title="CP 377 Guidance for reporting by external administrators and controllers: Updates to RG 16">CP 377</a>) in April 2024.</p>
@@ -50,7 +169,6 @@ Summary: ASIC updated guidance for reporting alleged misconduct by external admi
 </ul>
 ]]></content:encoded>
 <pubDate>Thu, 05 Sep 2024 06:29:21 GMT</pubDate>
-<pubDate>Thu, 05 Sep 2024 06:29:21 GMT</pubDate>
 </item>
 <item>
 <title>ASX Group Monthly Activity Report - August 2024</title>
@@ -59,7 +177,7 @@ Summary: ASIC updated guidance for reporting alleged misconduct by external admi
 <content:encoded><![CDATA[
 <div> trading, cash markets, equities, interest rate, ETP trades
 Summary:
-Average daily trades up 19% on pcp, value traded up 8%. Volatility increased to 0.8% while future volatility rose by 10%.<br><br> <div>
+Average daily trades up 19% on pcp, value traded up 8%. Volatility increased to 0.8% while future volatility rose by 10%.<br /><br /> <div>
 <h4>Trading &ndash; Cash Markets (including equities, interest rate and ETP trades)</h4>
 <ul>
 <li>In August 2024, the average daily number of trades was up 19% on the pcp. The average daily value traded onmarket of $5.863 billion was up 8% on the pcp.&nbsp;</li>
@@ -69,15 +187,14 @@ Average daily trades up 19% on pcp, value traded up 8%. Volatility increased to 
 <p>Click <a href="https://www.asx.com.au/content/dam/asx/about/media-releases/2024/47-05-september-2024-asx-group-monthly-activity-report-august-2024.pdf" title="here">here</a> for full details.</p>
 ]]></content:encoded>
 <pubDate>Thu, 05 Sep 2024 06:37:12 GMT</pubDate>
-<pubDate>Thu, 05 Sep 2024 06:37:12 GMT</pubDate>
 </item>
 <item>
 <title>Speech By New Zealand Financial Markets Authority Head Of Insurance Jane Brown To The New Zealand Insurance Law Association 2024 Conference</title>
 <link>http://www.mondovisione.com/media-and-resources/news/speech-by-new-zealand-financial-markets-authority-head-of-insurance-jane-brown-t/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/speech-by-new-zealand-financial-markets-authority-head-of-insurance-jane-brown-t/</guid>
 <content:encoded><![CDATA[
-<div> enforce, CoFI, supervision, insurance, regulatory<br>
-Summary:<br>
+<div> enforce, CoFI, supervision, insurance, regulatory<br />
+Summary:<br />
 Jane Brown, Head of Insurance at FMA, discussed recent regulatory investigations, enforcement cases, the CoFI regime, and FMA's supervision approach. <div>
 <p>Tēnā koutou katoa,</p>
 <p>Ko Kōtirana te whakapaparanga mai,</p>
@@ -132,7 +249,6 @@ Jane Brown, Head of Insurance at FMA, discussed recent regulatory investigations
 <p>I said this in my first speech as an FMA employee earlier this year but it&rsquo;s worth reiterating. We all want the same end result. That is for businesses to grow successfully and support their customers by treating them fairly and putting their interests at the heart of their decision-making. For those professionals that help industry with financial services regulation, we understand and support the work you do. We know that keeping an open dialogue with all our stakeholders will be critical to our success in both the short-term, delivering the up-coming changes, but also the long-term, in order to foster the fairest financial sector in the world.</p>
 ]]></content:encoded>
 <pubDate>Thu, 05 Sep 2024 06:33:39 GMT</pubDate>
-<pubDate>Thu, 05 Sep 2024 06:33:39 GMT</pubDate>
 </item>
 <item>
 <title>SEC Charges Broker-Dealer Nationwide Planning And Two Affiliated Investment Advisers With Violating Whistleblower Protection Rule - NJ-Based Firms Impeded Clients From Voluntarily Reporting Information To The SEC</title>
@@ -141,7 +257,7 @@ Jane Brown, Head of Insurance at FMA, discussed recent regulatory investigations
 <content:encoded><![CDATA[
 <div> SEC, charges, settlement, violations, whistleblower
 Summary:
-SEC announces charges against three affiliated registrants for impeding clients from reporting violations. Firms to pay $240,000 in penalties. Violations of whistleblower protection rule.<br><br> <div>
+SEC announces charges against three affiliated registrants for impeding clients from reporting violations. Firms to pay $240,000 in penalties. Violations of whistleblower protection rule.<br /><br /> <div>
 <p>The Securities and Exchange Commission today announced settled charges against three affiliated registrants, Commission-registered broker-dealer Nationwide Planning Associates, Inc. and investment adviser NPA Asset Management, LLC, and state-registered investment adviser Blue Point Strategic Wealth Management, LLC, for impeding brokerage customers and advisory clients from reporting securities law violations to the SEC. The firms agreed to pay combined civil penalties of $240,000 to settle the SEC&rsquo;s charges.</p>
 <p>According to the SEC&rsquo;s order, from May 2021 through February 2024, Nationwide, NPA, and Blue Point collectively asked 11 retail clients to sign confidentiality agreements in connection with payments made by the entities to the clients&rsquo; investment accounts. The payments were intended to compensate the clients for losses caused by the firms&rsquo; alleged breaches of federal or state securities laws. The order finds that the agreements contained provisions that impeded clients from reporting potential securities law violations to the SEC by permitting communications only where the SEC first initiated an inquiry. As described in the order, some of the agreements further required the clients to represent that they had not reported the underlying dispute to the SEC or to another securities regulator and would forever refrain from such reporting.</p>
 <p>&ldquo;Pure and simple, investors need to be able to report complaints or evidence of wrongdoing to the SEC without impediment,&rdquo; said Corey Schuster, Co-Chief of the Enforcement Division&rsquo;s Asset Management Unit.&nbsp; &ldquo;We will continue to hold firms accountable for putting roadblocks between us and their investors.&rdquo;</p>
@@ -153,21 +269,17 @@ SEC announces charges against three affiliated registrants for impeding clients 
 </ul>
 ]]></content:encoded>
 <pubDate>Thu, 05 Sep 2024 05:45:09 GMT</pubDate>
-<pubDate>Thu, 05 Sep 2024 05:45:09 GMT</pubDate>
 </item>
 <item>
 <title>Cboe Global Markets To Present At The Barclays Global Financial Services Conference On September 9</title>
 <link>http://www.mondovisione.com/media-and-resources/news/cboe-global-markets-to-present-at-the-barclays-global-financial-services-confere-1/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/cboe-global-markets-to-present-at-the-barclays-global-financial-services-confere-1/</guid>
 <content:encoded><![CDATA[
-
 <p>Cboe Global Markets, Inc. (Cboe: CBOE), the world's leading derivatives and securities exchange network, announced today that Fredric Tomczyk, Chief Executive Officer, Jill Griebenow, Executive Vice President and Chief Financial Officer, and David Howson, Executive Vice President and Global President, will present at the Barclays Global Financial Services Conference in New York City on Monday, September 9 at 10:30 a.m. ET.</p>
 <p>The live webcast and replay of the presentation will be accessible at&nbsp;<a href="https://c212.net/c/link/?t=0&amp;l=en&amp;o=4246953-1&amp;h=3619861297&amp;u=https%3A%2F%2Fir.cboe.com%2Foverview%2Fdefault.aspx&amp;a=ir.cboe.com" rel="nofollow" target="_blank">ir.cboe.com</a>, under Events and Presentations. The archived webcast is expected to be available within an hour of the presentation.</p>
 ]]></content:encoded>
 <pubDate>Thu, 05 Sep 2024 05:40:07 GMT</pubDate>
-<pubDate>Thu, 05 Sep 2024 05:40:07 GMT</pubDate>
 </item>
-
 <item>
 <title>Nasdaq Executives To Present At Upcoming Investor Conferences</title>
 <link>http://www.mondovisione.com/media-and-resources/news/nasdaq-executives-to-present-at-upcoming-investor-conferences-2/</link>
