@@ -1164,3 +1164,10 @@ Existing_entries: 194
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2024-09-10 22:18:28.406962
+------------------------------------------------------
+Started: 2024-09-11 01:26:40.446617
+Existing_entries: 194
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Feed error: 503
+append_entries: 0
+error when rendering xml, skip docs/BIST-September
