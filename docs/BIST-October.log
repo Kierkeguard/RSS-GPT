@@ -303,3 +303,10 @@ Existing_entries: 65
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2024-10-11 01:38:11.218465
+------------------------------------------------------
+Started: 2024-10-11 02:50:29.101020
+Existing_entries: 65
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Feed error: 503
+append_entries: 0
+error when rendering xml, skip docs/BIST-October
