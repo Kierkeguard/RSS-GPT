@@ -5,6 +5,93 @@
 <link>http://www.mondovisione.com/media-and-resources/news/</link>
 
 <item>
+<title>ISO Standardizes GLEIF's Pioneering Digital Organizational Identity Offering With Publication Of vLEI Technical Standard</title>
+<link>http://www.mondovisione.com/media-and-resources/news/iso-standardizes-gleifs-pioneering-digital-organizational-identity-offering-wit/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/iso-standardizes-gleifs-pioneering-digital-organizational-identity-offering-wit/</guid>
+<content:encoded><![CDATA[
+<div> standard, vLEI, GLEIF, ISO, authentication <br>
+Summary: ISO expands LEI standard to include verifiable LEIs for secure, digital verification of legal entities, pioneering decentralized authentication. GLEIF leads standardization effort.<br><br> <div>
+<p><span><span><span lang="EN-US">ISO has expanded the Legal Entity Identifier (LEI) technical standard&mdash;ISO 17442&mdash;to describe a standard approach for embedding the LEI in digitally signed, tamper-resistant verifiable credentials, known as verifiable LEIs (vLEIs).</span></span></span></p>
+<p><span><span><span lang="EN-US">The publication of&nbsp;<a class="safe---anchor---wc" href="https://u7061146.ct.sendgrid.net/ls/click?upn=u001.gqh-2BaxUzlo7XKIuSly0rC0wQXSLG7ubyZJwuiqG2yCZRPzkc28sopyzm06B-2FQHCTBYbm_pIbxPfpDI69aAybPrpOfg1n6CWmKMnb3conIyNKCYgopkqlx8cS0FFNxZUe51piZ6n6okyeDMJdkH51q5lbJ1CbKrK-2FN9A2-2FZ3E0Qhk1jsCvnSIougtAdmFq1VzyVxoyhKR1PwyiOsbcgAZA0n50opmJ2o1PecoJvCUfp8zRejnUGhZ2VGDA5-2BPLgtp7RNOBoE0c9-2BIpbImPJGqGOaLyuULUWFLr1piy1-2FAsKv8G3Hyo8-2Blo5OIRQzdLoONJvU6oOTNV777LHkd9gVLMB-2FgR9Z6tnwwdUp-2BCZPARIwGJxaliAs7RRHsrZLjmWo-2FC62wpyRbvn4HxU9NKHRoKJMa1wA-3D-3D" rel="noopener noreferrer nofollow" target="_blank">ISO 17442-3:2024</a>&nbsp;standardizes the vLEI&mdash;a new form of digitized organizational identity pioneered by GLEIF which answers the global need for the decentralized, automated authentication and verification of legal entities across various industries.</span></span></span></p>
+<p><span><span><span lang="EN-US">The standard describes different types of vLEI credentials developed using the chaining capabilities of Authentic Chained Data Container (ACDC) credentials. This chaining, combined with the secure capabilities of the Key Event Receipt Infrastructure (KERI) protocol for the issuance and revocation of credentials and the pre-rotation of cryptographic keys, allows for the provenance of vLEIs to be traced back to GLEIF as the 'root of trust' for the vLEI trust chain, as well as the organization's LEI in the Global LEI System, which is operated by GLEIF under regulatory oversight.&nbsp;</span></span></span></p>
+<p><span><span><span lang="EN-US">Notably, the standard describes the use of the vLEI to verify the identity of people that represent an organization in either official or functional roles, both inside and outside the boundaries of the organization. This marks an important step forward in establishing the vLEI as a universally trusted method of digitally verifying the authenticity of persons authorized to act on behalf of an organization, which is a key requirement for sensitive business transactions and other official interactions.</span></span></span></p>
+<p><span><span><span lang="EN-US">Alexandre Kech, CEO of GLEIF, comments: "This is a pivotal moment in the evolution of digital organizational identity. The inclusion of the vLEI in ISO 17442 solidifies its role as the global benchmark for secure, digital verification of legal entities. As the vLEI gains traction, it promises to revolutionize how businesses authenticate and trust each other, enabling seamless interactions in a way that has never been possible before. The vLEI not only enhances security and trust but also drives efficiency and scalability across platforms and industries."</span></span></span></p>
+<p><span><span><span lang="EN-US">The proposal for standardizing the vLEI was brought to ISO by GLEIF. The organization also participated in work efforts for the revision through its membership of the technical committee which manages ISO 17442 (ISO/TC 68 SC 8).</span></span></span></p>
+<p><span><span><span lang="EN-US">Jim Northey, ISO TC 68 Chair and Non-Executive Director, the FIX Trading Community, adds: "ISO TC68 community would like to thank the work of GLEIF in conjunction with ISO TC 68/SC 8 in their innovative approach to provide secure credentials capable of identifying a legal entity and associated role associated with the legal entity&nbsp;which provides a global standard approach for not only managing identity in regulatory reporting but also commerce in general. Having this open globally supported standard for securely identifying counterparties provides a significant improvement in infrastructure that further increases the value of our global legal identifier system."</span></span></span></p>
+<p><span><span><span lang="EN-US">This latest publication marks the ongoing standardization of evolving LEI applications, following&nbsp;<a class="safe---anchor---wc" href="https://u7061146.ct.sendgrid.net/ls/click?upn=u001.gqh-2BaxUzlo7XKIuSly0rC0XauvKen-2BAw2v2fpxe0d5PHccQa2D6iexbZ1IJqlhs-2B-2Ffm8YnXJ92pzZYWjlFrbT9a-2BiSsf1-2BB2vgcnY1vd931keLOJ1lzRUXAEo-2BdJy5CVjn-2Bet1PiHx3W80LdryHs1E6t8T1MAdXDUOIC7KltreI-3Dt1bf_pIbxPfpDI69aAybPrpOfg1n6CWmKMnb3conIyNKCYgopkqlx8cS0FFNxZUe51piZ6n6okyeDMJdkH51q5lbJ1CbKrK-2FN9A2-2FZ3E0Qhk1jsCvnSIougtAdmFq1VzyVxoyhKR1PwyiOsbcgAZA0n50opmJ2o1PecoJvCUfp8zRejnUGhZ2VGDA5-2BPLgtp7RNOBoE0c9-2BIpbImPJGqGOaLyueZwib1Xz9WoBwl0rWwbGNhTKxyoUZeN-2Fj8eXpR0Rw6YQwLyNaj9p-2BQ7vva2HWam6AxCz5yQCDhku-2F-2Bqvbz2ZLfUoj6XbFGcA5rd6uGumn8ZbtKRyJ7xV58YRWTHUhj1vw-3D-3D" rel="noopener noreferrer nofollow" target="_blank">the release of ISO 17442-2 in 2020</a>&nbsp;which defined the use of embedded LEIs within standard X.509 digital certificates, as well as the work of developing&nbsp;<a class="safe---anchor---wc" href="https://u7061146.ct.sendgrid.net/ls/click?upn=u001.gqh-2BaxUzlo7XKIuSly0rC0wQXSLG7ubyZJwuiqG2yCajId1TVjGRWmniEqRc-2B1BqhTZh_pIbxPfpDI69aAybPrpOfg1n6CWmKMnb3conIyNKCYgopkqlx8cS0FFNxZUe51piZ6n6okyeDMJdkH51q5lbJ1CbKrK-2FN9A2-2FZ3E0Qhk1jsCvnSIougtAdmFq1VzyVxoyhKR1PwyiOsbcgAZA0n50opmJ2o1PecoJvCUfp8zRejnUGhZ2VGDA5-2BPLgtp7RNOBoE0c9-2BIpbImPJGqGOaLyueZvhrutcd8d7uw9G2Bbn-2Bza4Z15nJPEPzBrQM8YIi0lxbeYCL6SqM9lOS1yM7M8LXr2-2F9OuuK7g0NNwglRUJcRhKS3-2F-2FOCGrw2z9L4p619xEc4t0HBipYDEKopTBgW3Kg-3D-3D" rel="noopener noreferrer nofollow" target="_blank">ISO 5009, Financial services &mdash; Official organizational roles &mdash; Scheme for official organizational roles</a></span>, which can be used<span lang="EN-US">&nbsp;within vLEI credentials.</span></span></span></p>
+]]></content:encoded>
+<pubDate>Mon, 14 Oct 2024 12:33:34 GMT</pubDate>
+<pubDate>Mon, 14 Oct 2024 12:33:34 GMT</pubDate>
+</item>
+<item>
+<title>RegTech Innovator GSS Teams Up With Swift To Drive Frictionless Cross-Border Payments - GSS's Transaction Screening Platform To Be Made Available Globally, To Thousands Of Financial Institutions Over Swift's Highly Secure And Resilient Network</title>
+<link>http://www.mondovisione.com/media-and-resources/news/regtech-innovator-gss-teams-up-with-swift-to-drive-frictionless-cross-border-pay/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/regtech-innovator-gss-teams-up-with-swift-to-drive-frictionless-cross-border-pay/</guid>
+<content:encoded><![CDATA[
+<div> Partnership, RegTech, Sanctions screening, Swift, Financial institutions
+Summary: GSS and Swift extend partnership for sanctions screening, reducing inefficiencies, false positives, and implementation time. Collaboration aims for industry-wide frictionless payments.<br><br> <div>
+<p>
+<div><span style="text-decoration: underline;">Global Screening Services (GSS),</span>&nbsp;a leading RegTech pioneer, today announced an extended partnership with Swift that will enable financial institutions around the world to access its unique end&shy; to-end sanctions screening platform over the same infrastructure that they already trust to move money between more than 200 countries and four billion accounts globally.</div>
+<div>&nbsp;</div>
+<div>The collaboration progresses a strategic relationship the two organisations announced in October 2022, and reflects a commitment by Swift, GSS and the GSS Advisory Board, comprising 35 of the world's leading financial institutions, to reduce inefficiency in the global payments ecosystem.</div>
+<div>&nbsp;</div>
+<div>More than 40 billion cross-border transactions are screened each year for sanctions compliance, often multiple times to meet different regulatory requirements across the jurisdictions through which money flows. Almost 99% of those flagged for further investigation turn out to be false positives, creating extra costs and delays. GSS aims to address this challenge, providing a cloud-based, standardised and centralised screening service to eliminate unnecessary screening repetition, frequency of false positives and time to investigate. Enabling connectivity via Swift's secure and resilient network, and standard API solution, adds to the efficiency and significantly reduces the time for financial institutions to implement the GSS utility.</div>
+<div>&nbsp;</div>
+<div><b>Tom Scampion, CEO and Co-founder of GSS, said:&nbsp;</b><i>&ldquo;GSS&nbsp;</i>is committed to improving regulatory compliance and delivering an enhanced customer experience, which our agreement with Swift puts us in a perfect place to provide. We're thrilled to be collaborating with a trusted and secure global platform and are looking forward to our customers unlocking the new benefits on offer.</div>
+<div>&nbsp;</div>
+<div>"Ultimately, our principal focus is to reduce friction and streamline cross-border payments, so working with Swift will help us take this goal to the next level by guaranteeing the protection of end-to-end screened transactions."</div>
+<div>&nbsp;</div>
+<div class="elementToProof"><b>Thierry Chilosi, Chief Business Officer at Swift, added: "</b>lndustry-wide collaboration is vital if we're to remove friction from the cross-border payments ecosystem and achieve our collective goals. Working with GSS will enable our community to streamline their sanctions screening processes using their existing Swift connectivity, with GSS' services complementing our own existing capabilities which are helping drive the industry towards an instant and frictionless future.</div>
+<div>&nbsp;</div>
+<div class="elementToProof">"Beyond enabling access to GSS via the Swift network, the agreement also encompasses ongoing collaboration on the development of screening standards, enhancing the effectiveness of sanctions compliance testing, and supporting institutional performance benchmarking."</div>
+</p>
+]]></content:encoded>
+<pubDate>Mon, 14 Oct 2024 12:30:46 GMT</pubDate>
+<pubDate>Mon, 14 Oct 2024 12:30:46 GMT</pubDate>
+</item>
+<item>
+<title>Boerse Stuttgart Digital Partners With AWS To Boost Its Crypto Infrastructure Solutions For Financial Institutions Across Europe</title>
+<link>http://www.mondovisione.com/media-and-resources/news/boerse-stuttgart-digital-partners-with-aws-to-boost-its-crypto-infrastructure-so/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/boerse-stuttgart-digital-partners-with-aws-to-boost-its-crypto-infrastructure-so/</guid>
+<content:encoded><![CDATA[
+<div> partnership, AWS, Boerse Stuttgart Digital, crypto infrastructure, Europe
+
+Summary: 
+Boerse Stuttgart Digital partners with AWS to enhance crypto infrastructure for European financial institutions, offering scalable and secure solutions for institutional clients. <br><br> <div>
+<p><a class="safe---anchor---wc" href="http://www.bsdigital.com/" rel="noopener noreferrer nofollow" target="_blank">Boerse Stuttgart Digital</a>, Europe&rsquo;s leading regulated crypto infrastructure provider partners with&nbsp;&nbsp;<a class="safe---anchor---wc" href="https://aws.amazon.com/en" rel="noopener noreferrer nofollow" target="_blank">Amazon Web Services</a>&nbsp;(AWS) to boost its product offerings for European financial institutions,&nbsp; enabling more efficient scalability and facilitating expansion. This&nbsp;will simplify the deployment of Boerse Stuttgart Digital&rsquo;s solutions tailored to traditional banks, brokers, and asset managers.</p>
+<p>Across Europe, retail customers and corporates are increasingly seeking reliable avenues to venture into the crypto market. Traditional financial institutions are facing a pivotal&nbsp;choice: to miss out on this structural trend or partner with established infrastructure providers which stand for trust, security, and reliability.</p>
+<p>Boerse Stuttgart Group has established the largest crypto and digital asset business among European exchange groups: Boerse Stuttgart Digital.&nbsp;Its integrated crypto infrastructure solutions stand for trust, security, and reliability, delivering a one-stop-shop for trading, exchange, and custody for institutional clients.</p>
+<p><i>"Trust is paramount in the cryptocurrency and digital assets world</i>," said Dr. Matthias Voelkel, CEO of Boerse Stuttgart Group.&nbsp;<i>"Institutional investors are eager to offer their clients access to cryptocurrencies and digital assets without compromising on trust, security and reliability. That&rsquo;s why they choose Boerse Stuttgart Digital. With the AWS Cloud we boost our proven and fully regulated infrastructure&nbsp;solutions, enabling institutional clients across Europe to easily&nbsp;build&nbsp;and scale their own crypto businesses.&rdquo;</i></p>
+<p><i>&ldquo;We are delighted to be working closely with Boerse Stuttgart Group on their mission to make their crypto infrastructure solutions even more scalable&rdquo;,&nbsp;</i>said Tanuja Randery, Vice President and Managing Director, Europe, Middle East and Africa (EMEA) at AWS.<i>&nbsp;&ldquo;As the relationship between AWS and Boerse Stuttgart Digital grows from strength to strength, we look forward to innovating with them to serve the evolving needs of their customer base.&rdquo;</i></p>
+]]></content:encoded>
+<pubDate>Mon, 14 Oct 2024 12:10:57 GMT</pubDate>
+<pubDate>Mon, 14 Oct 2024 12:10:57 GMT</pubDate>
+</item>
+<item>
+<title>CME Group International Average Daily Volume Reached New Record Of 8.4 Million Contracts In Q3 2024</title>
+<link>http://www.mondovisione.com/media-and-resources/news/cme-group-international-average-daily-volume-reached-new-record-of-84-million-c/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/cme-group-international-average-daily-volume-reached-new-record-of-84-million-c/</guid>
+<content:encoded><![CDATA[
+<div> EMEA, APAC, ADV, CME Group, contracts<br>
+<br>Summary: CME Group reported record global ADV of 28.3M contracts in Q3 2024, driven by significant growth in EMEA and APAC across all asset classes. <div>
+<ul>
+<li><span>Record&nbsp;<span class="xn-location">Europe</span>,&nbsp;<span class="xn-location">Middle East</span>&nbsp;and&nbsp;<span class="xn-location">Africa</span>&nbsp;(<span class="xn-person">EMEA) ADV</span>&nbsp;of&nbsp;<span class="xn-money">6.2M</span>, up 30% in Q3 2024</span></li>
+<li><span><span class="xn-location">Asia Pacific</span>&nbsp;(APAC) ADV of&nbsp;<span class="xn-money">1.8M</span>, up 28%</span></li>
+</ul>
+<p>CME Group, the world's leading derivatives marketplace, today announced that its international average daily volume (ADV) reached a record 8.4 million contracts in Q3 2024, up 29% year on year. Reflecting all trading reported outside&nbsp;<span class="xn-location">the United States</span>, the record volume was driven by growth across all asset classes, with the highest trading volumes coming from interest rate and equity products, which accounted for three-quarters of the growth in volume.&nbsp;&nbsp;</p>
+<p>Interest rate products saw record growth of 32% in quarterly volumes year on year, driven by an increase of 38% growth in SOFR futures and 25% growth in Treasury contracts. In addition,&nbsp;Energy products saw 30% growth, Equities products were up 25%, and record FX volumes increased by 14% in the third quarter.</p>
+<p>"Our record Q3 international ADV was driven by significant increases in volume across all asset classes in EMEA and APAC, demonstrating how our clients turned to the breadth of our products to navigate unpredictability and volatility," said&nbsp;<span class="xn-person">Julie Winkler</span>, Senior Managing Director and Chief Commercial Officer, CME Group. "In particular, our SOFR and U.S. Treasury futures and E-Mini equity options achieved notable growth.&nbsp;Going forward, we remain focused on partnering with our clients to help them manage risk, pursue opportunities and expand their businesses internationally."&nbsp;</p>
+<p>In Q3 2024,&nbsp;<span class="xn-person">EMEA ADV</span>&nbsp;hit a record 6.2 million contracts, up 30% from Q3 2023.&nbsp;Energy, interest rate and foreign exchange products reached new ADV records in EMEA in Q3 2024, growing 37%, 32% and 18% respectively year on year.</p>
+<p>APAC ADV hit 1.8 million contracts in Q3 2024, up 28% from Q3 2023.&nbsp;The region saw strong quarterly ADV performance in metals, up 49%, while interest rate and equity products ADV were up 33% and 30% year over year respectively.</p>
+<p>LatAm ADV stood at 181,000 contracts in Q3 2024, up 12% compared to Q3 2023. There was strong quarterly ADV performance in metals, up 37% and energy products, up 30% year over year.&nbsp;</p>
+<p>Canada ADV stood at 169,000 contracts in Q3 2024, up 21% YoY. This was a result of strong growth in interest rate and energy products, up 39% and 19% year over year.&nbsp;</p>
+<p>Globally, CME Group reported a record ADV of 28.3 million contracts in Q3 2024, up 27% over Q3 2023.&nbsp;This was largely driven by record volume of 14.9 million contracts in interest rate products, up 36% year over year. CME Group's deeply liquid U.S. Treasury complex hit an all-time quarterly ADV record of 8.4 million contracts and SOFR futures reached an all-time quarterly ADV record of 4.1 million contracts.</p>
+]]></content:encoded>
+<pubDate>Mon, 14 Oct 2024 12:23:40 GMT</pubDate>
+<pubDate>Mon, 14 Oct 2024 12:23:40 GMT</pubDate>
+</item>
+
+<item>
 <title>Monetary Authority Of Singapore Monetary Policy Statement - October 2024</title>
 <link>http://www.mondovisione.com/media-and-resources/news/monetary-authority-of-singapore-monetary-policy-statement-october-2024/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/monetary-authority-of-singapore-monetary-policy-statement-october-2024/</guid>
@@ -18,7 +105,7 @@ Summary:
 4. MAS expects GDP growth at upper end of 2-3% forecast range for 2024.
 5. Core inflation expected to remain contained, monetary policy settings consistent with medium-term price stability.
 
-Summary:<br><br>MAS maintained S$NEER rate, anticipating sustained growth. Global economy resilient but China's domestic spending weak. Tech-related activities boost regional economies. Singapore's Q3 growth stronger than expected, supported by electronics and modern services. MAS expects GDP growth at upper end of 2-3% forecast range for 2024. Core inflation expected to remain contained, monetary policy settings consistent with medium-term price stability. <div>
+Summary:<br /><br />MAS maintained S$NEER rate, anticipating sustained growth. Global economy resilient but China's domestic spending weak. Tech-related activities boost regional economies. Singapore's Q3 growth stronger than expected, supported by electronics and modern services. MAS expects GDP growth at upper end of 2-3% forecast range for 2024. Core inflation expected to remain contained, monetary policy settings consistent with medium-term price stability. <div>
 <h2>INTRODUCTION</h2>
 <p>1.&nbsp; &nbsp;<span>In the July 2024 Monetary Policy Statement, MAS maintained the rate of appreciation of the Singapore dollar nominal effective exchange rate (S$NEER) policy band, with no change to the width of the band or the level at which it was centred. Since then, the S$NEER has been appreciating gradually in line with the policy band</span><span>.</span></p>
 <p><span>Chart 1</span><span><br />S$ Nominal Effective Exchange Rate (S$NEER)</span></p>
@@ -57,7 +144,6 @@ Summary:<br><br>MAS maintained S$NEER rate, anticipating sustained growth. Globa
 <p><a class="mas-link" href="https://www.mas.gov.sg/monetary-policy/past-monetary-policy-decisions"><span class="mas-link__text">Past Monetary Policy Decisions</span></a></p>
 ]]></content:encoded>
 <pubDate>Mon, 14 Oct 2024 09:27:32 GMT</pubDate>
-<pubDate>Mon, 14 Oct 2024 09:27:32 GMT</pubDate>
 </item>
 <item>
 <title>NSW Treasurer Daniel Mookhey Joins ASX To Celebrate World Investor Week And Announce Winners Of The ASX Sharemarket Game</title>
@@ -65,9 +151,9 @@ Summary:<br><br>MAS maintained S$NEER rate, anticipating sustained growth. Globa
 <guid>http://www.mondovisione.com/media-and-resources/news/nsw-treasurer-daniel-mookhey-joins-asx-to-celebrate-world-investor-week-and-anno/</guid>
 <content:encoded><![CDATA[
 <div> ASX, World Investor Week, financial literacy, ASX sharemarket game, investor education
-<br>
+<br />
 ASX joined World Investor Week to promote financial literacy. NSW Treasurer and ASX CEO ring the bell in support. ASX sharemarket game winners announced.
-<br><br>Summary: 
+<br /><br />Summary: 
 ASX supports World Investor Week. NSW Treasurer and ASX CEO promote financial literacy. ASX sharemarket game winners announced. <div>
 <p>ASX today joined over 60 other exchanges globally in ringing the bell for financial literacy in support of World Investor Week. This annual event, led by the International Organization of Securities Commissions (IOSCO), aims to promote investor education and protection by empowering investors with the tools and knowledge they need to make informed financial decisions.&nbsp;</p>
 <p>NSW Treasurer, the Hon Daniel Mookhey MLC joined ASX Managing Director and CEO Helen Lofthouse and schools from across NSW to ring the bell for financial literacy at ASX headquarters in Sydney.&nbsp;</p>
@@ -90,7 +176,6 @@ ASX supports World Investor Week. NSW Treasurer and ASX CEO promote financial li
 <p>Information about the ASX sharemarket game and investor education resources is available o<a href="https://www.asx.com.au/investors/investment-tools-and-resources/sharemarket-game">n </a><a href="https://www.asx.com.au/investors/investment-tools-and-resources/sharemarket-game">ASX&rsquo;s website</a><a href="https://www.asx.com.au/investors/investment-tools-and-resources/sharemarket-game">.</a></p>
 ]]></content:encoded>
 <pubDate>Mon, 14 Oct 2024 09:37:31 GMT</pubDate>
-<pubDate>Mon, 14 Oct 2024 09:37:31 GMT</pubDate>
 </item>
 <item>
 <title>NZX Updates FY2024 Earnings Guidance</title>
@@ -99,11 +184,10 @@ ASX supports World Investor Week. NSW Treasurer and ASX CEO promote financial li
 <content:encoded><![CDATA[
 <div> raised, guidance, earnings, capital, trading
 Summary:
-NZX Limited raised FY2024 operating earnings guidance by 10% due to strong capital raisings, increased trading, and ongoing growth in funds under management and administration.<br><br>Summary: <div>
+NZX Limited raised FY2024 operating earnings guidance by 10% due to strong capital raisings, increased trading, and ongoing growth in funds under management and administration.<br /><br />Summary: <div>
 <p><span>NZX Limited has today updated its full-year operating earnings1 guidance following strong performance across all business lines.  NZX has raised the FY2024 guidance range from $40.0-$44.5 million to $45.0-$49.0 million (normalised to exclude integration and restructuring costs). This represents a move of approximately 10% between the midpoint of the ranges.  The revision is primarily due to stronger-than-expected levels of large capital raisings in September 2024, which have fed into increased trading and clearing activity. In addition, both Smart &ndash; formally known as Smartshares &ndash; and NZX Wealth Technologies, are benefitting from ongoing growth in funds under management and funds under administration respectively.  The guidance is subject to market outcomes, particularly with respect to market capitalisation, total capital listed and raised, secondary market value and derivatives volumes traded, funds under management and administration growth and technology costs.  Additionally, this guidance assumes there is no material decline in the macro-economic environment and/or market conditions, and there are no significant one-off expenses, major accounting adjustments, other unforeseeable circumstances, or future acquisitions or divestments. </span></p>
 <div class="mcePaste" id="_mcePaste"><span>NZX Limited has today updated its full-year operating earnings1 guidance following strong performance across all business lines.  NZX has raised the FY2024 guidance range from $40.0-$44.5 million to $45.0-$49.0 million (normalised to exclude integration and restructuring costs). This represents a move of approximately 10% between the midpoint of the ranges.  The revision is primarily due to stronger-than-expected levels of large capital raisings in September 2024, which have fed into increased trading and clearing activity. In addition, both Smart &ndash; formally known as Smartshares &ndash; and NZX Wealth Technologies, are benefitting from ongoing growth in funds under management and funds under administration respectively.  The guidance is subject to market outcomes, particularly with respect to market capitalisation, total capital listed and raised, secondary market value and derivatives volumes traded, funds under management and administration growth and technology costs.  Additionally, this guidance assumes there is no material decline in the macro-economic environment and/or market conditions, and there are no significant one-off expenses, major accounting adjustments, other unforeseeable circumstances, or future acquisitions or divestments.</span></div>
 ]]></content:encoded>
-<pubDate>Mon, 14 Oct 2024 09:42:46 GMT</pubDate>
 <pubDate>Mon, 14 Oct 2024 09:42:46 GMT</pubDate>
 </item>
 <item>
@@ -115,9 +199,7 @@ NZX Limited raised FY2024 operating earnings guidance by 10% due to strong capit
 <p><span>Click&nbsp;</span><a href="https://mondovisione.com/_assets/files/Amman_SE_October-2024-1.pdf" title="Amman_SE_October 2024 1.pdf">here</a><span>&nbsp;to download Amman Stock Exchange's m</span><span>onthly bulletin newsletter.</span></p>
 ]]></content:encoded>
 <pubDate>Mon, 14 Oct 2024 09:50:38 GMT</pubDate>
-<pubDate>Mon, 14 Oct 2024 09:50:38 GMT</pubDate>
 </item>
-
 <item>
 <title>Shenzhen Stock Exchange Market Bulletin, October 11, 2024, Issue 31</title>
 <link>http://www.mondovisione.com/media-and-resources/news/shenzhen-stock-exchange-market-bulletin-october-11-2024-issue-31/</link>
