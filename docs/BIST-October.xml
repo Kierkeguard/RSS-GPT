@@ -4,13 +4,14 @@
 <title>News Articles</title>
 <link>http://www.mondovisione.com/media-and-resources/news/</link>
 
+
 <item>
 <title>ISO Standardizes GLEIF's Pioneering Digital Organizational Identity Offering With Publication Of vLEI Technical Standard</title>
 <link>http://www.mondovisione.com/media-and-resources/news/iso-standardizes-gleifs-pioneering-digital-organizational-identity-offering-wit/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/iso-standardizes-gleifs-pioneering-digital-organizational-identity-offering-wit/</guid>
 <content:encoded><![CDATA[
-<div> standard, vLEI, GLEIF, ISO, authentication <br>
-Summary: ISO expands LEI standard to include verifiable LEIs for secure, digital verification of legal entities, pioneering decentralized authentication. GLEIF leads standardization effort.<br><br> <div>
+<div> standard, vLEI, GLEIF, ISO, authentication <br />
+Summary: ISO expands LEI standard to include verifiable LEIs for secure, digital verification of legal entities, pioneering decentralized authentication. GLEIF leads standardization effort.<br /><br /> <div>
 <p><span><span><span lang="EN-US">ISO has expanded the Legal Entity Identifier (LEI) technical standard&mdash;ISO 17442&mdash;to describe a standard approach for embedding the LEI in digitally signed, tamper-resistant verifiable credentials, known as verifiable LEIs (vLEIs).</span></span></span></p>
 <p><span><span><span lang="EN-US">The publication of&nbsp;<a class="safe---anchor---wc" href="https://u7061146.ct.sendgrid.net/ls/click?upn=u001.gqh-2BaxUzlo7XKIuSly0rC0wQXSLG7ubyZJwuiqG2yCZRPzkc28sopyzm06B-2FQHCTBYbm_pIbxPfpDI69aAybPrpOfg1n6CWmKMnb3conIyNKCYgopkqlx8cS0FFNxZUe51piZ6n6okyeDMJdkH51q5lbJ1CbKrK-2FN9A2-2FZ3E0Qhk1jsCvnSIougtAdmFq1VzyVxoyhKR1PwyiOsbcgAZA0n50opmJ2o1PecoJvCUfp8zRejnUGhZ2VGDA5-2BPLgtp7RNOBoE0c9-2BIpbImPJGqGOaLyuULUWFLr1piy1-2FAsKv8G3Hyo8-2Blo5OIRQzdLoONJvU6oOTNV777LHkd9gVLMB-2FgR9Z6tnwwdUp-2BCZPARIwGJxaliAs7RRHsrZLjmWo-2FC62wpyRbvn4HxU9NKHRoKJMa1wA-3D-3D" rel="noopener noreferrer nofollow" target="_blank">ISO 17442-3:2024</a>&nbsp;standardizes the vLEI&mdash;a new form of digitized organizational identity pioneered by GLEIF which answers the global need for the decentralized, automated authentication and verification of legal entities across various industries.</span></span></span></p>
 <p><span><span><span lang="EN-US">The standard describes different types of vLEI credentials developed using the chaining capabilities of Authentic Chained Data Container (ACDC) credentials. This chaining, combined with the secure capabilities of the Key Event Receipt Infrastructure (KERI) protocol for the issuance and revocation of credentials and the pre-rotation of cryptographic keys, allows for the provenance of vLEIs to be traced back to GLEIF as the 'root of trust' for the vLEI trust chain, as well as the organization's LEI in the Global LEI System, which is operated by GLEIF under regulatory oversight.&nbsp;</span></span></span></p>
@@ -21,7 +22,6 @@ Summary: ISO expands LEI standard to include verifiable LEIs for secure, digital
 <p><span><span><span lang="EN-US">This latest publication marks the ongoing standardization of evolving LEI applications, following&nbsp;<a class="safe---anchor---wc" href="https://u7061146.ct.sendgrid.net/ls/click?upn=u001.gqh-2BaxUzlo7XKIuSly0rC0XauvKen-2BAw2v2fpxe0d5PHccQa2D6iexbZ1IJqlhs-2B-2Ffm8YnXJ92pzZYWjlFrbT9a-2BiSsf1-2BB2vgcnY1vd931keLOJ1lzRUXAEo-2BdJy5CVjn-2Bet1PiHx3W80LdryHs1E6t8T1MAdXDUOIC7KltreI-3Dt1bf_pIbxPfpDI69aAybPrpOfg1n6CWmKMnb3conIyNKCYgopkqlx8cS0FFNxZUe51piZ6n6okyeDMJdkH51q5lbJ1CbKrK-2FN9A2-2FZ3E0Qhk1jsCvnSIougtAdmFq1VzyVxoyhKR1PwyiOsbcgAZA0n50opmJ2o1PecoJvCUfp8zRejnUGhZ2VGDA5-2BPLgtp7RNOBoE0c9-2BIpbImPJGqGOaLyueZwib1Xz9WoBwl0rWwbGNhTKxyoUZeN-2Fj8eXpR0Rw6YQwLyNaj9p-2BQ7vva2HWam6AxCz5yQCDhku-2F-2Bqvbz2ZLfUoj6XbFGcA5rd6uGumn8ZbtKRyJ7xV58YRWTHUhj1vw-3D-3D" rel="noopener noreferrer nofollow" target="_blank">the release of ISO 17442-2 in 2020</a>&nbsp;which defined the use of embedded LEIs within standard X.509 digital certificates, as well as the work of developing&nbsp;<a class="safe---anchor---wc" href="https://u7061146.ct.sendgrid.net/ls/click?upn=u001.gqh-2BaxUzlo7XKIuSly0rC0wQXSLG7ubyZJwuiqG2yCajId1TVjGRWmniEqRc-2B1BqhTZh_pIbxPfpDI69aAybPrpOfg1n6CWmKMnb3conIyNKCYgopkqlx8cS0FFNxZUe51piZ6n6okyeDMJdkH51q5lbJ1CbKrK-2FN9A2-2FZ3E0Qhk1jsCvnSIougtAdmFq1VzyVxoyhKR1PwyiOsbcgAZA0n50opmJ2o1PecoJvCUfp8zRejnUGhZ2VGDA5-2BPLgtp7RNOBoE0c9-2BIpbImPJGqGOaLyueZvhrutcd8d7uw9G2Bbn-2Bza4Z15nJPEPzBrQM8YIi0lxbeYCL6SqM9lOS1yM7M8LXr2-2F9OuuK7g0NNwglRUJcRhKS3-2F-2FOCGrw2z9L4p619xEc4t0HBipYDEKopTBgW3Kg-3D-3D" rel="noopener noreferrer nofollow" target="_blank">ISO 5009, Financial services &mdash; Official organizational roles &mdash; Scheme for official organizational roles</a></span>, which can be used<span lang="EN-US">&nbsp;within vLEI credentials.</span></span></span></p>
 ]]></content:encoded>
 <pubDate>Mon, 14 Oct 2024 12:33:34 GMT</pubDate>
-<pubDate>Mon, 14 Oct 2024 12:33:34 GMT</pubDate>
 </item>
 <item>
 <title>RegTech Innovator GSS Teams Up With Swift To Drive Frictionless Cross-Border Payments - GSS's Transaction Screening Platform To Be Made Available Globally, To Thousands Of Financial Institutions Over Swift's Highly Secure And Resilient Network</title>
@@ -29,7 +29,7 @@ Summary: ISO expands LEI standard to include verifiable LEIs for secure, digital
 <guid>http://www.mondovisione.com/media-and-resources/news/regtech-innovator-gss-teams-up-with-swift-to-drive-frictionless-cross-border-pay/</guid>
 <content:encoded><![CDATA[
 <div> Partnership, RegTech, Sanctions screening, Swift, Financial institutions
-Summary: GSS and Swift extend partnership for sanctions screening, reducing inefficiencies, false positives, and implementation time. Collaboration aims for industry-wide frictionless payments.<br><br> <div>
+Summary: GSS and Swift extend partnership for sanctions screening, reducing inefficiencies, false positives, and implementation time. Collaboration aims for industry-wide frictionless payments.<br /><br /> <div>
 <p>
 <div><span style="text-decoration: underline;">Global Screening Services (GSS),</span>&nbsp;a leading RegTech pioneer, today announced an extended partnership with Swift that will enable financial institutions around the world to access its unique end&shy; to-end sanctions screening platform over the same infrastructure that they already trust to move money between more than 200 countries and four billion accounts globally.</div>
 <div>&nbsp;</div>
@@ -47,7 +47,6 @@ Summary: GSS and Swift extend partnership for sanctions screening, reducing inef
 </p>
 ]]></content:encoded>
 <pubDate>Mon, 14 Oct 2024 12:30:46 GMT</pubDate>
-<pubDate>Mon, 14 Oct 2024 12:30:46 GMT</pubDate>
 </item>
 <item>
 <title>Boerse Stuttgart Digital Partners With AWS To Boost Its Crypto Infrastructure Solutions For Financial Institutions Across Europe</title>
@@ -57,7 +56,7 @@ Summary: GSS and Swift extend partnership for sanctions screening, reducing inef
 <div> partnership, AWS, Boerse Stuttgart Digital, crypto infrastructure, Europe
 
 Summary: 
-Boerse Stuttgart Digital partners with AWS to enhance crypto infrastructure for European financial institutions, offering scalable and secure solutions for institutional clients. <br><br> <div>
+Boerse Stuttgart Digital partners with AWS to enhance crypto infrastructure for European financial institutions, offering scalable and secure solutions for institutional clients. <br /><br /> <div>
 <p><a class="safe---anchor---wc" href="http://www.bsdigital.com/" rel="noopener noreferrer nofollow" target="_blank">Boerse Stuttgart Digital</a>, Europe&rsquo;s leading regulated crypto infrastructure provider partners with&nbsp;&nbsp;<a class="safe---anchor---wc" href="https://aws.amazon.com/en" rel="noopener noreferrer nofollow" target="_blank">Amazon Web Services</a>&nbsp;(AWS) to boost its product offerings for European financial institutions,&nbsp; enabling more efficient scalability and facilitating expansion. This&nbsp;will simplify the deployment of Boerse Stuttgart Digital&rsquo;s solutions tailored to traditional banks, brokers, and asset managers.</p>
 <p>Across Europe, retail customers and corporates are increasingly seeking reliable avenues to venture into the crypto market. Traditional financial institutions are facing a pivotal&nbsp;choice: to miss out on this structural trend or partner with established infrastructure providers which stand for trust, security, and reliability.</p>
 <p>Boerse Stuttgart Group has established the largest crypto and digital asset business among European exchange groups: Boerse Stuttgart Digital.&nbsp;Its integrated crypto infrastructure solutions stand for trust, security, and reliability, delivering a one-stop-shop for trading, exchange, and custody for institutional clients.</p>
@@ -65,15 +64,14 @@ Boerse Stuttgart Digital partners with AWS to enhance crypto infrastructure for 
 <p><i>&ldquo;We are delighted to be working closely with Boerse Stuttgart Group on their mission to make their crypto infrastructure solutions even more scalable&rdquo;,&nbsp;</i>said Tanuja Randery, Vice President and Managing Director, Europe, Middle East and Africa (EMEA) at AWS.<i>&nbsp;&ldquo;As the relationship between AWS and Boerse Stuttgart Digital grows from strength to strength, we look forward to innovating with them to serve the evolving needs of their customer base.&rdquo;</i></p>
 ]]></content:encoded>
 <pubDate>Mon, 14 Oct 2024 12:10:57 GMT</pubDate>
-<pubDate>Mon, 14 Oct 2024 12:10:57 GMT</pubDate>
 </item>
 <item>
 <title>CME Group International Average Daily Volume Reached New Record Of 8.4 Million Contracts In Q3 2024</title>
 <link>http://www.mondovisione.com/media-and-resources/news/cme-group-international-average-daily-volume-reached-new-record-of-84-million-c/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/cme-group-international-average-daily-volume-reached-new-record-of-84-million-c/</guid>
 <content:encoded><![CDATA[
-<div> EMEA, APAC, ADV, CME Group, contracts<br>
-<br>Summary: CME Group reported record global ADV of 28.3M contracts in Q3 2024, driven by significant growth in EMEA and APAC across all asset classes. <div>
+<div> EMEA, APAC, ADV, CME Group, contracts<br />
+<br />Summary: CME Group reported record global ADV of 28.3M contracts in Q3 2024, driven by significant growth in EMEA and APAC across all asset classes. <div>
 <ul>
 <li><span>Record&nbsp;<span class="xn-location">Europe</span>,&nbsp;<span class="xn-location">Middle East</span>&nbsp;and&nbsp;<span class="xn-location">Africa</span>&nbsp;(<span class="xn-person">EMEA) ADV</span>&nbsp;of&nbsp;<span class="xn-money">6.2M</span>, up 30% in Q3 2024</span></li>
 <li><span><span class="xn-location">Asia Pacific</span>&nbsp;(APAC) ADV of&nbsp;<span class="xn-money">1.8M</span>, up 28%</span></li>
@@ -88,9 +86,7 @@ Boerse Stuttgart Digital partners with AWS to enhance crypto infrastructure for 
 <p>Globally, CME Group reported a record ADV of 28.3 million contracts in Q3 2024, up 27% over Q3 2023.&nbsp;This was largely driven by record volume of 14.9 million contracts in interest rate products, up 36% year over year. CME Group's deeply liquid U.S. Treasury complex hit an all-time quarterly ADV record of 8.4 million contracts and SOFR futures reached an all-time quarterly ADV record of 4.1 million contracts.</p>
 ]]></content:encoded>
 <pubDate>Mon, 14 Oct 2024 12:23:40 GMT</pubDate>
-<pubDate>Mon, 14 Oct 2024 12:23:40 GMT</pubDate>
 </item>
-
 <item>
 <title>Monetary Authority Of Singapore Monetary Policy Statement - October 2024</title>
 <link>http://www.mondovisione.com/media-and-resources/news/monetary-authority-of-singapore-monetary-policy-statement-october-2024/</link>
