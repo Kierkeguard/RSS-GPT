@@ -5,6 +5,44 @@
 <link>http://www.mondovisione.com/media-and-resources/news/</link>
 
 <item>
+<title>Moscow Exchange Changes The Tick Size From The 1st Of November 2024</title>
+<link>http://www.mondovisione.com/media-and-resources/news/moscow-exchange-changes-the-tick-size-from-the-1st-of-november-2024/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/moscow-exchange-changes-the-tick-size-from-the-1st-of-november-2024/</guid>
+<content:encoded><![CDATA[
+<div> tick size, Decimals parameter, MOEX, equity market microstructure, trading modes <br>
+Summary: MOEX sets new tick size and Decimals parameter for various trading modes, increasing price ranges and liquidity, and establishing maximum allowed tick size. <div>
+<p>To increase the effectiveness of equity market microstructure, MOEX establishes the new tick size and Decimals parameter for the <a href="https://fs.moex.com/f/20785/min-step-01-11-2024-eng.xlsx">following stocks</a> starting 1<sup>st</sup> November 2024 in the following trading modes:</p>
+<ul>
+<li>Main trading mode Т+ ("Т+1" order book)</li>
+<li>Odd lots trading mode</li>
+<li>IIR sector* &mdash; Main trading mode Т+</li>
+<li>Negotiated trades mode (NTM)</li>
+<li>NTM with CCP trading mode</li>
+<li>IIR sector &mdash; NTM trading mode</li>
+<li>IIR sector &mdash; NTM with CCP trading mode</li>
+</ul>
+<p>The new approach to setting the tick size was <a href="http://fs.moex.com/files/16989">approved</a> by the MOEX Securities Market committee.</p>
+<p>The methodology includes:</p>
+<ul>
+<li>The tick size equals (1,2,5)*10<sup>N</sup>, where N &ndash; integer;</li>
+<li>Increasing the number of price ranges to 25, and the ranges of liquidity - up to 7;</li>
+<li>For each liquidity range a recommended range price tick sizes in the spread is established;</li>
+<li>The maximum allowed relative tick size &ndash; 1%</li>
+</ul>
+<p>* Sector of companies with increased investment risk</p>
+<div class="row">
+<div class="col-sm-19">Contacts for media <br />+7 (495) 363-3232<br /><a href="https://mondovisione.com/media-and-resources/news/rss/">Public Relations Department</a></div>
+<div class="col-sm-10"></div>
+</div>
+<table>
+</table>
+<p><br />Read more on the Moscow Exchange: https://www.moex.com/n74118</p>
+]]></content:encoded>
+<pubDate>Fri, 18 Oct 2024 15:03:15 GMT</pubDate>
+<pubDate>Fri, 18 Oct 2024 15:03:15 GMT</pubDate>
+</item>
+
+<item>
 <title>SET To Tighten Broker Oversight With Stricter Penalty Framework, Effective November 1, 2024</title>
 <link>http://www.mondovisione.com/media-and-resources/news/set-to-tighten-broker-oversight-with-stricter-penalty-framework-effective-novem/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/set-to-tighten-broker-oversight-with-stricter-penalty-framework-effective-novem/</guid>
@@ -19,7 +57,6 @@ SET implements stricter fines for broker violations, including triple penalties 
 <p>For more information on updated regulations, please see the &ldquo;Circular Letters for Member&rdquo; topic under the &ldquo;Rule and Regulations&rdquo; section on the SET's website at <a href="http://www.set.or.th/">www.set.or.th</a>.&nbsp;</p>
 ]]></content:encoded>
 <pubDate>Fri, 18 Oct 2024 12:09:02 GMT</pubDate>
-<pubDate>Fri, 18 Oct 2024 12:09:02 GMT</pubDate>
 </item>
 <item>
 <title>Kroll Appoints Katherine Keefe To Lead Global Cyber Insurance Industry Capabilities</title>
@@ -27,7 +64,7 @@ SET implements stricter fines for broker violations, including triple penalties 
 <guid>http://www.mondovisione.com/media-and-resources/news/kroll-appoints-katherine-keefe-to-lead-global-cyber-insurance-industry-capabilit/</guid>
 <content:encoded><![CDATA[
 <div> Kroll, Katherine Keefe, Cyber Insurance, Resilience, Risk Management
-Summary:<br><br>Katherine Keefe joins Kroll as Global Cyber Insurance Industry Lead, bringing extensive experience in cyber insurance and regulatory landscape. Kroll expands support for insurance clients. <div>
+Summary:<br /><br />Katherine Keefe joins Kroll as Global Cyber Insurance Industry Lead, bringing extensive experience in cyber insurance and regulatory landscape. Kroll expands support for insurance clients. <div>
 <p><span><a class="x_OWAAutoLink safe---anchor---wc" href="http://www.kroll.com/" rel="noopener noreferrer nofollow" target="_blank">Kroll</a></span><a class="x_OWAAutoLink safe---anchor---wc" href="http://www.kroll.com/" rel="noopener noreferrer nofollow" target="_blank">,</a>&nbsp;the leading independent provider of global risk and financial advisory solutions, announced today that Katherine Keefe will be joining Kroll as Managing Director and Global Cyber Insurance Industry Lead for Kroll&rsquo;s cyber insurance capabilities worldwide.</p>
 <p>&ldquo;We are proud to welcome Katherine to Kroll. Her deep understanding of the cyber insurance and regulatory landscape, along with her strong cyber marketplace relationships, is invaluable as we expand our support for insurance clients,&rdquo; said&nbsp;<b>Dave Burg, Global Head of Cyber &amp; Data Resilience at Kroll</b>, &ldquo;Our clients face significant risks that challenge their resilience, from active and evolving cyber threats to changing regulations worldwide. With Katherine leading our cyber insurance strategy, we will further enhance our end-to-end solutions, helping clients navigate ongoing threats, manage costs and build robust resilience strategies.&rdquo;</p>
 <p>Katherine previously served as the US Cyber Incident Management Leader at Marsh where she was responsible for leading cyber response and event management, including data breaches and ransomware attacks. She advised clients on pre- and post-incident management and oversaw relationships with breach coaches, forensic investigators and cyber insurers. Prior to Marsh, she was Head of Breach Response Services at Beazley. Katherine brings extensive experience in regulatory, transactional, compliance and risk management issues. She has served as a partner at several law firms including Reed Smith LLP, and as in-house counsel for an academic medical center and a large Blue Cross plan.</p>
@@ -36,9 +73,7 @@ Summary:<br><br>Katherine Keefe joins Kroll as Global Cyber Insurance Industry L
 <p>&ldquo;We will continue to bolster our Cyber &amp; Data Resilience leadership with strategic hires in major markets and around the world which will extend our unique capabilities to address the hardest and most important business issues that face the global economy,&rdquo; added&nbsp;<b>Burg</b>.</p>
 ]]></content:encoded>
 <pubDate>Fri, 18 Oct 2024 12:16:58 GMT</pubDate>
-<pubDate>Fri, 18 Oct 2024 12:16:58 GMT</pubDate>
 </item>
-
 <item>
 <title>HKEX And Hong Kong Securities And Futures Commission Joint Statement On Enhanced Timeframe For New Listing Application Process</title>
 <link>http://www.mondovisione.com/media-and-resources/news/hkex-and-hong-kong-securities-and-futures-commission-joint-statement-on-enhanced/</link>
