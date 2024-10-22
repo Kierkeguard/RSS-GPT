@@ -1714,3 +1714,10 @@ Summarized using GPT-3.5-turbo-1106
 Append: [FSB Chair Sets Out The FSB’s Work To Maintain Financial Stability Amidst Technological Advancements](http://www.mondovisione.com/media-and-resources/news/fsb-chair-sets-out-the-fsbs-work-to-maintain-financial-stability-amidst-technol/)
 append_entries: 5
 Finish: 2024-10-22 16:26:40.315770
+------------------------------------------------------
+Started: 2024-10-22 18:28:12.948827
+Existing_entries: 264
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Feed error: 503
+append_entries: 0
+error when rendering xml, skip docs/BIST-October
