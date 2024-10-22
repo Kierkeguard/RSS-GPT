@@ -1616,3 +1616,18 @@ Fetching from https://mondovisione.com/media-and-resources/news/rss/
 Feed error: 503
 append_entries: 0
 error when rendering xml, skip docs/BIST-October
+------------------------------------------------------
+Started: 2024-10-22 06:29:05.694261
+Existing_entries: 242
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Token length: 2055
+Summarized using GPT-3.5-turbo-1106
+Append: [ASIC Annual Report Underscores Transformation](http://www.mondovisione.com/media-and-resources/news/asic-annual-report-underscores-transformation/)
+Token length: 12499
+Summarized using GPT-3.5-turbo-1106
+Append: [New Zealand Financial Markets Authority Chief Executive, Samantha Barrass Speaks At Financial Services Federation Conference 2024](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-chief-executive-samantha-barrass-speaks/)
+Token length: 1045
+Summarized using GPT-3.5-turbo-1106
+Append: [ASIC: Ex CEO Of Crypto Exchange Mine Digital Charged With Fraud](http://www.mondovisione.com/media-and-resources/news/asic-ex-ceo-of-crypto-exchange-mine-digital-charged-with-fraud/)
+append_entries: 3
+Finish: 2024-10-22 06:29:10.196780
