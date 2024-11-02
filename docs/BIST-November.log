@@ -97,3 +97,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [CFTC Commitments Of Traders Reports Update](http://www.mondovisione.com/media-and-resources/news/cftc-commitments-of-traders-reports-update-49/)
 append_entries: 1
 Finish: 2024-11-01 22:19:18.808026
+------------------------------------------------------
+Started: 2024-11-02 01:37:44.655556
+Existing_entries: 23
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2024-11-02 01:37:46.207362
