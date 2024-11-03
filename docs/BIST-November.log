@@ -205,3 +205,15 @@ Existing_entries: 25
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2024-11-03 08:23:22.493159
+------------------------------------------------------
+Started: 2024-11-03 10:22:28.930564
+Existing_entries: 25
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Tehran Securities Exchange Weekly Market Snapshot, 30 October 2024](http://www.mondovisione.com/media-and-resources/news/tehran-securities-exchange-weekly-market-snapshot-30-october-2024/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Tehran Securities Exchange Ranks Companies By Corporate Governance Score](http://www.mondovisione.com/media-and-resources/news/tehran-securities-exchange-ranks-companies-by-corporate-governance-score/)
+append_entries: 2
+Finish: 2024-11-03 10:22:41.660563
