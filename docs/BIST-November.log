@@ -217,3 +217,9 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Tehran Securities Exchange Ranks Companies By Corporate Governance Score](http://www.mondovisione.com/media-and-resources/news/tehran-securities-exchange-ranks-companies-by-corporate-governance-score/)
 append_entries: 2
 Finish: 2024-11-03 10:22:41.660563
+------------------------------------------------------
+Started: 2024-11-03 12:36:50.502887
+Existing_entries: 27
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2024-11-03 12:36:51.416049
