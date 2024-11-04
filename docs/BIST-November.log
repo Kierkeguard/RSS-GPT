@@ -340,3 +340,24 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Boerse Stuttgart Records October Turnover Of Around EUR 8,9 Billion - Increases In Structured Securities, Equities And Exchange-Traded Products Compared To The Same Month Of The Previous Year](http://www.mondovisione.com/media-and-resources/news/boerse-stuttgart-records-october-turnover-of-around-eur-89-billion-increases/)
 append_entries: 5
 Finish: 2024-11-04 14:20:38.974211
+------------------------------------------------------
+Started: 2024-11-04 16:26:03.031816
+Existing_entries: 40
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [OCC October 2024 Monthly Volume Data](http://www.mondovisione.com/media-and-resources/news/occ-october-2024-monthly-volume-data/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Broadridge Appoints David Fellah As Vice President Of AI Trading Solutions](http://www.mondovisione.com/media-and-resources/news/broadridge-appoints-david-fellah-as-vice-president-of-ai-trading-solutions/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Plato Partnership Proposes New Standards For Managing Market Outages](http://www.mondovisione.com/media-and-resources/news/plato-partnership-proposes-new-standards-for-managing-market-outages/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [ICE Mortgage Monitor: Record Levels Of Tappable Equity, Fed Rate Cuts Could Spur Resurgence In Home Equity Withdrawals](http://www.mondovisione.com/media-and-resources/news/ice-mortgage-monitor-record-levels-of-tappable-equity-fed-rate-cuts-could-spur/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [SET Launches New Financial Statement Analysis Tool To Boost Investor Insights](http://www.mondovisione.com/media-and-resources/news/set-launches-new-financial-statement-analysis-tool-to-boost-investor-insights/)
+append_entries: 5
+Finish: 2024-11-04 16:26:35.411179
