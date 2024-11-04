@@ -367,3 +367,25 @@ Existing_entries: 45
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2024-11-04 18:27:20.948254
+------------------------------------------------------
+Started: 2024-11-04 20:21:30.072439
+Existing_entries: 45
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [MIAX Options Exchange - MIAX Product Feed Will Stop Disseminating The VSPIKES Index Cash Value On Monday, November 11, 2024](http://www.mondovisione.com/media-and-resources/news/miax-options-exchange-miax-product-feed-will-stop-disseminating-the-vspikes-in/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [ISDA Wins Regulation Asia’s Industry Association Of The Year And Best Regulatory Reporting Solution Awards](http://www.mondovisione.com/media-and-resources/news/isda-wins-regulation-asias-industry-association-of-the-year-and-best-regulatory/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [UK Financial Conduct Authority Welcomes Project Guardian’s First Industry Report On Tokenisation](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-welcomes-project-guardians-first-industry-report/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Hedge Funds’ Holdings Will be Classified as Free Float in Tel Aviv Stock Exchange-Listed Companies](http://www.mondovisione.com/media-and-resources/news/hedge-funds-holdings-will-be-classified-as-free-float-in-tel-aviv-stock-exchang/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [New At The Tel Aviv Stock Exchange - Block Trade Facility TASE Launches Protected Block Trade Facility, Expanding Trading Capabilities This Is Part Of TASE’s Strategy Of Upgrading The Israel Capital Market And Aligning It With Global Standards](http://www.mondovisione.com/media-and-resources/news/new-at-the-tel-aviv-stock-exchange-block-trade-facility-tase-launches-protecte/)
+Append: [ISDA derivatiViews: A Clear Plan For Voluntary Carbon Trading](http://www.mondovisione.com/media-and-resources/news/isda-derivativiews-a-clear-plan-for-voluntary-carbon-trading/)
+append_entries: 6
+Finish: 2024-11-04 20:21:59.774087
