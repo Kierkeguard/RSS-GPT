@@ -271,3 +271,21 @@ Existing_entries: 27
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2024-11-04 04:24:58.256923
+------------------------------------------------------
+Started: 2024-11-04 06:30:50.060301
+Existing_entries: 27
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: ["Tokenisation In Financial Services: Pathways To Scale" - Opening Keynote Address By Mr Leong Sing Chiong, Deputy Managing Director (Markets & Development), Monetary Authority Of Singapore, At The Layer One Summit On 4 November 2024](http://www.mondovisione.com/media-and-resources/news/tokenisation-in-financial-services-pathways-to-scale-opening-keynote-addres/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [RegTech As Key Enabler Of Market Integrity In Future oO Finance - Opening Remarks At SFC Anti-Money Laundering And Counter-Financing Of Terrorism - RegTech Forum 2024 - Ms Julia Leung, Hong Kong Securities And Futures Commission Chief Executive Officer, 4 November 2024](http://www.mondovisione.com/media-and-resources/news/regtech-as-key-enabler-of-market-integrity-in-future-oo-finance-opening-remark/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Shenzhen Stock Exchange Market Bulletin, November 01, 2024, Issue 34](http://www.mondovisione.com/media-and-resources/news/shenzhen-stock-exchange-market-bulletin-november-01-2024-issue-34/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Singapore FinTech Festival 2024 Kicks Off With AI And Quantum Technology In Focus](http://www.mondovisione.com/media-and-resources/news/singapore-fintech-festival-2024-kicks-off-with-ai-and-quantum-technology-in-focu/)
+append_entries: 4
+Finish: 2024-11-04 06:31:15.104553

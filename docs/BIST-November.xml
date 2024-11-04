@@ -4,6 +4,175 @@
 <title>News Articles</title>
 <link>http://www.mondovisione.com/media-and-resources/news/</link>
 
+<item>
+<title>"Tokenisation In Financial Services: Pathways To Scale" - Opening Keynote Address By Mr Leong Sing Chiong, Deputy Managing Director (Markets &amp; Development), Monetary Authority Of Singapore, At The Layer One Summit On 4 November 2024</title>
+<link>http://www.mondovisione.com/media-and-resources/news/tokenisation-in-financial-services-pathways-to-scale-opening-keynote-addres/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/tokenisation-in-financial-services-pathways-to-scale-opening-keynote-addres/</guid>
+<content:encoded><![CDATA[
+
+<p><span>Ladies and Gentlemen, Good Morning.</span><br /><br /><span>Introduction</span><br /><br /><span>1.</span><span> </span><span>It gives me great pleasure to join you at the inaugural Layer One Summit.&nbsp;</span><br /><br /><span>2.</span><span> </span><span>In 2023, at the Singapore FinTech Festival, MAS held up a possible future state of financial services, where financial assets can be transacted seamlessly across multiple trading venues through digital assets, digital money and interoperable digital networks.&nbsp;&nbsp;</span><br /><span><br />Benefits of tokenisation</span><br /><br /><span>3.</span><span> </span><span>We saw the potential for tokenisation in financial services, where tokenised financial assets, can be exchanged directly on a programmable platform without the need for intermediaries.</span><br /><br /><span>4.</span><span> </span><span>In allowing for the simultaneous exchange of two assets in real-time, and enabling the exchange of information and value to happen in a single step, this can help eliminate settlement risk, duplicative reconciliation, and increase the efficiency of transaction processing.&nbsp;</span><br /><br /><span>5.</span><span> </span><span>With a programmable platform that allows for pre-determined conditions to be encoded with the tokenised asset(s), this can also facilitate greater straight-through processing in capital market transactions, and greater efficiency in asset servicing.&nbsp;</span><br /><span><br />Industry showcase of benefits of asset tokenisation<br />&nbsp;</span><br /><span>6.</span><span> </span><span>We are seeing greater momentum towards tokenisation in financial services. Let me provide some examples of industry pilots which have been progressing well under MAS&rsquo; asset tokenisation initiative, or Project Guardian.&nbsp;</span><br /><br /><span>7.</span><span> </span><span>First, on FX,&nbsp;</span></p>
+<ul>
+<li>Imagine a scenario where a corporate treasury can initiate and receive payments around the clock (24/7), seamlessly bridging across multiple locations in an increasingly global business landscape. This is precisely what Ant International is striving to achieve through tokenisation to serve their 1.2 billion buyers and 2 million sellers across 200 countries.&nbsp;<br /><br /></li>
+<li>Ant International is leveraging tokenised deposits of its partner banks such as HSBC and DBS, for real-time payments, across various currencies.<br /><br /></li>
+<li>The beneficiary within Ant International&rsquo;s network can receive its funds in its domiciled currency, for instance US Dollar, in the form of a tokenised deposit.<br /><br /></li>
+<li>This is made possible through an FX provider which provides a price quote and liquidity for the currency pair.&nbsp;<br /><br /></li>
+<li>The originating currency, for instance Singapore dollar, is then swapped instantaneously through a smart contract to US Dollar. The smart contract also incorporates an automatic anti-money laundering check to meet regulatory compliance requirements.<br /><br /></li>
+<li>This illustrates how tokenisation can transform how corporate treasuries manage multi-currency assets while offering the promise of faster, more seamless treasury position management, eliminating delays and significantly enhancing overall operational efficiency.</li>
+</ul>
+<p>8.<span>&nbsp;</span>For Funds,&nbsp;</p>
+<ul>
+<li>UBS and Swift, in partnership with Chainlink, are collaborating on an end-to-end payment orchestration capability to automate fund subscription and redemption processes.<br /><br /></li>
+<li>This industry trial showcases that tokenisation can automate payment initiation and confirmation processes, provide real-time update on payment status, while riding on existing processes and standards for Fund Distributors and Fund Administrators. This can greatly reduce operational risks and costs.&nbsp;</li>
+</ul>
+<p>9.<span>&nbsp;</span>Bringing both Funds and FX together,&nbsp;</p>
+<ul>
+<li><span>&nbsp;</span>A solution developed by Citi and Fidelity International combined the properties of two distinct asset classes -&nbsp; tokenised Money Market Funds (MMFs) and FX swaps.&nbsp;<br /><br /></li>
+<li>This solution seamlessly combined yield generation of tokenised MMF tokens with real-time digital currency risk hedging. Today, FX hedging is generally carried out separately from the money market fund investments.&nbsp;</li>
+</ul>
+<p>10.<span> </span>Central banks have also been particularly active in exploring the use and development of central bank digital currencies (CBDCs). Central bank pilots have ranged from multi-CBDC arrangements, programming compliance for cross-border use cases, and the use of wholesale CBDCs in the settlement of tokenised securities.<br /><br />11.<span> </span>All these efforts point to the fact that interest and investment in asset tokenisation is deepening across asset classes, jurisdictions and currencies.&nbsp;<br /><br />12.<span> </span>However, my sense is that we have reached an inflexion point.&nbsp; Notwithstanding the significant efforts of various players to push the boundaries of tokenisation in financial services, no one has really succeeded in achieving scale.&nbsp; Many promising use cases have not yet gained industry wide traction.&nbsp; Further, there is a need for supporting infrastructure to enable good use cases to scale beyond individual networks.<br /><br /><span>Pathways to scale</span><br /><br />13.<span> </span>For tokenisation to scale and achieve industry wide adoption, we need to see tokenised activity span across assets, across key currencies, across networks, and also to interoperate with existing systems.&nbsp;<br /><br />14.<span> </span>We think there are four jigsaw puzzle pieces that need to come together to support industry-wide deployment of tokenised assets: 1) Liquidity, 2) Foundational Infrastructure 3) Standardised Frameworks and Protocols 4) Common Settlement Assets.<br /><br />15.<span> </span>First, enhancing liquidity.<br /><br />16.<span> </span>When we survey the current digital and tokenisation landscape, we see a real dichotomy. On the one hand, there are good reasons to believe in the potential for leveraging this technology to reap efficiency benefits for wholesale markets. On the other hand, the proliferation of disparate tokenisation efforts has resulted in market fragmentation, and increased funding and opportunity costs. To ensure that tokenisation is viable, we need deeper liquidity across primary and secondary markets.<br /><br />17.<span> </span>To address this, MAS is facilitating industry&rsquo;s efforts to establish commercial networks for payments, capital raising, and secondary trading of tokenised assets.&nbsp;</p>
+<ul>
+<li>An example of this is the formation of the Guardian Wholesale Network Industry Group by Citi, HSBC, Schroders, Standard Chartered and UOB. They are collaborating on the development of a multi-member network to scale their respective asset tokenisation trials.&nbsp;<br /><br /></li>
+<li>The involvement of multiple participants, support for multi-asset and multi-currency transactions can engender deeper liquidity across primary and secondary markets for tokenised asset transactions.&nbsp;</li>
+</ul>
+<p>18.<span> </span>We welcome more commercial networks to be set up to drive greater activity in tokenised assets and payments.&nbsp;<br /><br />19.<span> </span>Second, developing foundational digital infrastructure.<br /><br />20.<span> </span>To support the formation of commercial networks, and to enable seamless transactions of tokenised assets across such networks, there is a need for a base layer foundational digital infrastructure that can meet the needs of regulated financial institutions. Today, such foundational digital infrastructures lie on a spectrum:</p>
+<ul>
+<li>At one end, public permissionless blockchains have attracted many types of users and applications.&nbsp; But the overall governance of such structures suffers from the lack of accountability, anonymity of service providers, and legal uncertainty over who&rsquo;s responsible for the blockchain performance and resiliency.&nbsp;<br /><br /></li>
+<li>Some financial institutions have developed their own private permissioned blockchains to offer digital asset services to their customers. These set-ups are generally designed to meet the applicable legal and regulatory frameworks. But they suffer from a lack of interoperability, leading to fragmentation.<br /><br /></li>
+<li>So, if not public blockchain, nor private permissioned networks, then what? We think the answer perhaps lies in between: public, permissioned networks.&nbsp;<br /><br />o Public permissioned networks are built on similar principles of openness and accessibility as the public internet, but with robust built-in safeguards for its use as a network for value exchange.&nbsp;<br /><br />o<span>&nbsp;</span>For example, while the network may be accessible to financial institutions that meet eligible criteria, the governing rule may restrict membership to regulated financial institutions only.&nbsp; This means developing a public blockchain equivalent infrastructure, but serving regulated wholesale financial markets.</li>
+</ul>
+<p>21.<span> </span>With this objective in mind, MAS launched the Global Layer One (GL1) initiative last year, to foster the development of a public permissioned foundational digital infrastructure, upon which commercial networks could be deployed.&nbsp;<br /><br />22.<span> </span>Since the launch, MAS and a core group of global banks, namely BNY, Citi, J.P. Morgan, MUFG and Societe Generale-FORGE, have been leading efforts to define the business, governance, risk, legal and technology requirements of the GL1 Platform. These 5 banks represent participation from the G3 currencies, for a start.&nbsp;&nbsp;</p>
+<p>23.<span> </span>Beyond global banks, foundational digital infrastructures can also support today&rsquo;s global market infrastructure players, including global exchanges and custodians, on which high volumes of financial assets are traded, settled and custodised.&nbsp; This will enable a larger universe of tokenised assets to be traded seamlessly across borders.</p>
+<ul>
+<li>In this regard, I would like to welcome Euroclear and HSBC as new industry participants to the GL1 initiative.&nbsp;&nbsp;</li>
+</ul>
+<p>24.<span> </span>With these new participants, GL1 will also expand its scope of work in the coming year to encompass the following areas:&nbsp;</p>
+<ul>
+<li>Developing platform requirements to deploy financial applications such as cross-border payments and collateral management.&nbsp; It will also design an appropriate business model to ensure that the GL1 platform can be financially sustainable.&nbsp;<br /><br /></li>
+<li>Ecosystem development, which includes (i) the development of risk and governance principles, and settlement arrangements on market infrastructures and (ii), asset lifecycle specifications and programmable compliance templates for tokenised assets.&nbsp;</li>
+</ul>
+<p>25.<span> </span>As we make further progress on advancing the GL1, we welcome broader participation from other banks, custodians, financial market infrastructure service providers and policymakers who are able and keen to contribute to this endeavour.<br /><br />26.<span> </span>Third, there is a need for common industry standards to facilitate broad based industry adoption of tokenised assets.&nbsp;<br /><br />27.<span> </span>The absence of globally accepted taxonomies and standards in relation to digital assets, increases the costs of adoption as financial institutions would need to invest and support different types of technologies.<br /><br />28.<span> </span>This can be addressed through industry frameworks.</p>
+<ul>
+<li>For instance, in fixed Income, MAS has worked with global industry associations such as International Capital Market Association (ICMA), Capital Market and Technology Association (CMTA) and the Global Financial Markets Association (GFMA), to develop a Guardian Fixed Income Framework which we are publishing today.&nbsp;<br /><br />o<span>&nbsp;</span>The framework integrates the bond data taxonomy, token standards and design principles for tokenised securities, allowing for a standardised approach towards tokenisation in the fixed income market.&nbsp;</li>
+</ul>
+<ul>
+<li>In Asset and Wealth Management, MAS is also publishing today a non-prescriptive set of standards and industry best practices for tokenised funds, or the Guardian Funds Framework.&nbsp;<br /><br />o<span>&nbsp;</span>The report provides recommendations for establishing a framework for the tokenisation of the fund lifecycle and activities, including asset servicing, and on-chain share register archetypes and data.&nbsp;<br /><br />o<span>&nbsp;</span>The framework also proposes a composable technical standard, which demonstrates how new tokenised assets, which are a composite of multiple asset classes, can be readily created. This gives fund managers the ability to provide investors with more customised investment options at lower cost and greater flexibility.</li>
+</ul>
+<p>29.<span> </span>The final piece of the jigsaw puzzle is developing common settlement assets.&nbsp;<br /><br />30.<span> </span>To ensure settlement of tokenised assets in financial markets, regulated and credible forms of tokenised money is needed.</p>
+<ul>
+<li>The cash leg of most tokenised asset transactions generally involves tokenised commercial bank money, or tokenised bank liabilities. These are issued by commercial banks and carry the credit risks of the issuing bank.&nbsp;<br /><br /></li>
+<li>Apart from tokenised bank liabilities, common settlement assets can also be used to settle tokenised asset transactions. A common settlement asset is one that is agreed by transacting parties, and can be credit-risk free such as a wholesale CBDC. The use of such common settlement assets can help to reduce settlement risk and market fragmentation.<br /><br /></li>
+<li>Our view is that when asset tokenisation activity grows and eventually hits critical mass in key asset classes, this will drive demand for wholesale CBDCs as a common settlement asset.</li>
+</ul>
+<p>31.<span> </span>Hence, MAS will be launching a Singapore Dollar (SGD) Testnet, to enable financial institutions&rsquo; access to common settlement assets for market testing purposes.</p>
+<ul>
+<li>The SGD Testnet will offer three features, namely&nbsp;<br /><br />o<span>&nbsp;</span>A Settlement facility where wholesale CBDC can be issued, transferred and redeemed by financial institutions<br /><br />o<span>&nbsp;</span>Programmability to automate and programme conditional triggers for transactions involving tokenised assets&nbsp;<br /><br />o<span>&nbsp;</span>Interoperability which facilitates linkages with existing financial market infrastructures&nbsp;</li>
+</ul>
+<ul>
+<li>The SGD Testnet will be made available to eligible financial institutions participating in MAS&rsquo; digital asset and digital money initiatives, including Project Guardian and Project Orchid.&nbsp;<br /><br /></li>
+<li>The first set of participating FIs to access the SGD Testnet includes DBS, OCBC, Standard Chartered and UOB.<br /><br /></li>
+<li>We welcome more FIs to come forward with interesting use cases and utilise the SGD Testnet.</li>
+</ul>
+<p><span>Conclusion</span></p>
+<p>32.<span> </span>In conclusion, asset tokenisation can deliver significant efficiency gains to be reaped in the financial services industry, particularly in wholesale financial markets.&nbsp;<br /><br />33.<span> </span>Increasingly, we are seeing more FIs which are keen to deploy asset tokenisation solutions commercially. This augurs well for future growth.&nbsp;<br /><br />34.<span> </span>Given this growing interest, it is imperative that we develop pathways and tools to scale the adoption of asset tokenisation to reap network effects.&nbsp;<br /><br />35.<span> </span>The initiatives that I have mentioned today are important steps that we see in helping the industry to achieve scale, namely&nbsp;</p>
+<p>&bull;<span>&nbsp;</span>Wholesale commercial networks&nbsp;<br />&bull;<span>&nbsp;</span>Foundational digital infrastructure&nbsp;<br />&bull;<span>&nbsp;</span>Common industry tokenisation standards and taxonomies&nbsp;<br />&bull;<span>&nbsp;</span>Common settlement assets&nbsp;</p>
+<p>36.<span>&nbsp;</span>These initiatives represent pathways to help to scale vertically, from an asset class perspective, as well as horizontally, at a digital foundational infrastructure level.&nbsp;<br /><br />37.<span> </span>Viewed holistically, we see a possible future architecture of a globally scalable tokenised asset infrastructure that can enable interoperability across commercial networks, while powering tokenised asset transactions seamlessly across borders and markets.&nbsp;<br /><br />38.<span> </span>This will not be an overnight phenomenon, and will require a whole-of-industry effort and commitment. It will also require close collaboration with policymakers:&nbsp;</p>
+<ul>
+<li>Through Guardian and GL1, we engaged early on central banks, regulatory bodies, international standards setting bodies, including the Banque de France, European Central Bank, Japan Financial Services Agency (FSA), Swiss Financial Market Supervisory Authority (FINMA), the UK Financial Conduct Authority (FCA), and staff of the IMF early on to incorporate their insights and experience in this space.&nbsp;<br /><br /></li>
+<li>Today, I would like to take the opportunity to also welcome staff of the World Bank and Deutsche Bundesbank to the Project Guardian Policymaker Group.<br /><br /></li>
+<li>The role of this policymaker group is important as they help provide inputs on governance arrangements, guidance on how GL1 infrastructures can be developed in line with global standards, and advice on appropriate regulatory guardrails for tokenised asset transactions.&nbsp;</li>
+</ul>
+<p>39.<span> </span>While this conference is called the Layer One Summit, we are in some ways only really at Everest base camp. There is still some way to go before we get from base camp to the Summit.&nbsp; But with these building blocks in place, we hope that they serve as the necessary tools for the industry achieve tokenisation at scale, and scale the Summit.<br /><span></span><br />40.<span> </span>I look forward to the sharing of great insights these two days, and wish you all a fantastic Singapore FinTech Festival week. Thanks very much!</p>
+]]></content:encoded>
+<pubDate>Mon, 04 Nov 2024 06:27:49 GMT</pubDate>
+<pubDate>Mon, 04 Nov 2024 06:27:49 GMT</pubDate>
+</item>
+<item>
+<title>RegTech As Key Enabler Of Market Integrity In Future oO Finance - Opening Remarks At SFC Anti-Money Laundering And Counter-Financing Of Terrorism - RegTech Forum 2024 - Ms Julia Leung, Hong Kong Securities And Futures Commission Chief Executive Officer, 4 November 2024</title>
+<link>http://www.mondovisione.com/media-and-resources/news/regtech-as-key-enabler-of-market-integrity-in-future-oo-finance-opening-remark/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/regtech-as-key-enabler-of-market-integrity-in-future-oo-finance-opening-remark/</guid>
+<content:encoded><![CDATA[
+
+<p>Good morning, Joseph, distinguished guests, ladies and gentlemen. A warm welcome to the SFC Anti-Money Laundering and Counter-Financing of Terrorism Regtech Forum 2024. Let&rsquo;s call it &ldquo;SFC Regtech Forum&rdquo; in short.</p>
+<p>Last week, I had the opportunity to visit Saudi Arabia for a second time this year to foster capital market connectivity. It was inspiring to engage in dialogues with our Middle East and global counterparts on the future of finance encompassing fintech, digitalisation and artificial intelligence (AI), which will be pivotal to future-proof our financial markets. I&rsquo;m sure many of you also had a chance to attend the Hong Kong FinTech Week last week, where much excitement was generated over innovation, fintech, AI, tokenisation and even more.&nbsp;</p>
+<p>In fact, our theme today, Regtech or regulatory technology, is also about innovation. Regtech is a major type of fintech and also accounts for the most use cases of AI-powered solutions in the financial sector so far. I believe it has a major role to play in the future of finance as an enabler of regulatory compliance, effectively helping to prevent financial crimes and safeguard investors&rsquo; interests.&nbsp;</p>
+<p>Click <a href="https://www.sfc.hk/-/media/EN/files/COM/Speech/SFC-AML-Regtech-Forum---Opening-20241104_EN.pdf?rev=91337d82c84446e9b5070774f7c5ef07&amp;hash=5CDB71B7C284B8C7AA61CF9495DCA699" title="here">here</a> for full details.</p>
+]]></content:encoded>
+<pubDate>Mon, 04 Nov 2024 06:15:46 GMT</pubDate>
+<pubDate>Mon, 04 Nov 2024 06:15:46 GMT</pubDate>
+</item>
+<item>
+<title>Shenzhen Stock Exchange Market Bulletin, November 01, 2024, Issue 34</title>
+<link>http://www.mondovisione.com/media-and-resources/news/shenzhen-stock-exchange-market-bulletin-november-01-2024-issue-34/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/shenzhen-stock-exchange-market-bulletin-november-01-2024-issue-34/</guid>
+<content:encoded><![CDATA[
+
+<p><span>Click&nbsp;</span><a href="https://mondovisione.com/_assets/files/SZSE_Mkt_Bull_34_24.pdf" title="SZSE_Mkt_Bull_34_24.pdf">here</a><span>&nbsp;to download Shenzhen Stock Exchange's market bulletin, issue 34.</span></p>
+]]></content:encoded>
+<pubDate>Mon, 04 Nov 2024 06:20:46 GMT</pubDate>
+<pubDate>Mon, 04 Nov 2024 06:20:46 GMT</pubDate>
+</item>
+<item>
+<title>Singapore FinTech Festival 2024 Kicks Off With AI And Quantum Technology In Focus</title>
+<link>http://www.mondovisione.com/media-and-resources/news/singapore-fintech-festival-2024-kicks-off-with-ai-and-quantum-technology-in-focu/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/singapore-fintech-festival-2024-kicks-off-with-ai-and-quantum-technology-in-focu/</guid>
+<content:encoded><![CDATA[
+
+<div class="p-x:m">
+<div class="m-x:a wrap:l">
+<div class="m-t:l desktop(d:f)">
+<div class="mas-layout__main mas-layout__main--banner js-empty mas-layout__main--full">
+<div class="wrap:l m-x:a mas-section__banner-item">
+<div class="_mas-typeset contain m-t:l m-b:3xl mas-rte-content">
+<p>The ninth edition of the Singapore FinTech Festival (SFF) will kick off next week from 6 to 8 November 2024. This year, Artificial Intelligence (AI) and quantum technology will take centre stage, underscoring their transformative potential for the financial sector.<br /><br />2.&nbsp;<span> </span>With rapid advancement in the adoption of AI and in quantum technology, SFF 2024 offers a unique platform for policymakers and industry leaders to collaborate, foster innovation and unlock new growth opportunities. SFF 2024 will also highlight global and regional efforts on decarbonisation, scaling up the use of digital assets, achieving cross-border payment efficiency and advancing financial inclusion. These initiatives address how FinTech can tackle some of today&rsquo;s most pressing challenges.<br /><br /><span>Curtain Raiser: Insights Forum and The Innovation Lab Crawl<br /></span><br />3.&nbsp;<span> </span>Preceding the SFF 2024 main conference is the by-invitation-only&nbsp;<span><em>Insights Forum&trade;</em></span>, which will be held from 4 to 5 November. Insights Forum&trade; will feature an expanded two-day agenda comprising:</p>
+<ul>
+<li>The inaugural&nbsp;<em><span>Layer One Summit&nbsp;</span></em>which aims to promote a public-private sector dialogue on the future of financial infrastructure.</li>
+<li>The inaugural&nbsp;<span><em>Green Circle Climate Forum&nbsp;</em></span>which will bring together corporate leaders, NGOs, and financiers to discuss the challenges and solutions for high quality carbon markets.</li>
+<li><span><em>Public-Private Roundtables&nbsp;</em></span>which will feature public-private sector leadership dialogues to produce actionable outcomes in key focus areas.</li>
+</ul>
+<p>4.&nbsp;<span> </span>The&nbsp;<span><em>Innovation Lab Crawl</em></span>, held from 4 to 5 November, will offer attendees the opportunity to witness up-and-coming projects and innovations in the FinTech industry across 16 participating organisations including Visa Innovation Centre, Bank Julius Baer Launchpad and NUS FinTech Lab.<br /><br /><span>Festival Highlights<br /></span><br />5.&nbsp;<span> </span>The&nbsp;<span><em>Conference&nbsp;</em></span>segment of SFF 2024 will feature over 900 speakers across more than 400 sessions covering six themes:</p>
+<ul>
+<li><span>Roadmap for AI and Quantum:&nbsp;</span>Exploring responsible use of AI and quantum solutions for financial services, and measures needed to address related associated risks.</li>
+<li><span>Blueprint for Digital Assets:&nbsp;</span>Insights on scaling the use of digital assets, achieving interoperability that drives value, and developing regulation for secure and industry-wide adoption.</li>
+<li><span>Next-gen Transactions:&nbsp;</span>Addressing global payment gaps and opportunities, and facilitating cross-jurisdictional alignment and tech-driven innovations for efficient cross border payment solutions.</li>
+<li><span>Sustainability in Action:&nbsp;</span>Unpacking innovation in ClimateTech, climate data and ESG ratings, and enhancing financing mechanisms to drive global decarbonisation efforts.</li>
+<li><span>Bridging the Financial Inclusion Gap:&nbsp;</span>Exploring strategies for financial health and inclusion, and how leveraging technology, coupled with impactful policies and partnerships, can drive greater financial access for underserved communities.</li>
+<li><span>Talent of Tomorrow:&nbsp;</span>Learning how Generative AI is reshaping roles, skills, and career pathways in financial services. Expert panels will discuss in-demand skills, meaningful career pathways in FinTech, and insights on navigating the tech talent landscape.</li>
+</ul>
+<p>Please see Annex A for the list of headline and notable speakers.<br /><br />6.&nbsp;<span> </span>The&nbsp;<span><em>SFF Exhibition&nbsp;</em></span>will host over 600 exhibitors and 41 international pavilions across five thematic zones &ndash; Technology, Founders and Investors, ESG, Regulation, and Talent. Each zone will spotlight cutting-edge innovations and key discussions that will shape the future of financial services.<br /><br />7.&nbsp;<span> </span>Six new&nbsp;<span><em>certificate programmes&nbsp;</em></span>from Elevandi Education<span><a href="https://www.mas.gov.sg/news/media-releases/2024/singapore-fintech-festival-2024-kicks-off-with-ai-and-quantum-technology-in-focus#1">[1]</a></span>&nbsp;and professional development partners will be available this year, enhancing participants&rsquo; learning experience. Among these is the Leadership in the Future of Finance executive education programme, offered jointly by BondbloX, Elevandi Education, and the Singapore FinTech Association. This programme provides Chief Experience Officers with in-depth insights into the three pillars shaping the future of finance: AI, Digital Assets and Sustainability.<br /><br />8.&nbsp;<span> </span><span>Sopnendu Mohanty</span>,&nbsp;<span>Chief FinTech Officer of the Monetary Authority of Singapore (MAS)</span>&nbsp;and&nbsp;<span>Group Chief Executive Officer (Designate) of Global Finance &amp; Technology Network (GFTN)<span><a href="https://www.mas.gov.sg/news/media-releases/2024/singapore-fintech-festival-2024-kicks-off-with-ai-and-quantum-technology-in-focus#2">[2]</a></span></span>, said, &ldquo;Architecting the next transformation for our digital future requires thoughtful planning, strong partnerships, and sustained investments. As we navigate the transformative potential of emerging technologies, SFF 2024 will serve as a crucial platform for uniting innovators, industry leaders and policymakers to shape a resilient, inclusive digital economy that serves the greater good.&rdquo;<br /><br />9.&nbsp;<span> </span><span>Paul Lee</span>,&nbsp;<span>Chief Executive (Markets) at Constellar</span>, said, &ldquo;With emerging technologies rapidly transforming the global financial services industry, it is a critical time for businesses to identify opportunities, understand risks and take action. Attendees at SFF this year can expect twice as many showcases of AI solutions offering a range of products and services to build business resilience.&rdquo;<br /><br />10.&nbsp;<span> </span>SFF 2024 is organised by MAS, GFTN and Constellar, in collaboration with The Association of Banks in Singapore. For more details and SFF 2024 registration, visit&nbsp;<a class="mas-link" href="http://www.fintechfestival.sg/" target="_blank"><span class="mas-link__text">www.fintechfestival.sg</span>&nbsp;<span class="mas-icon mas-glyphs-external--link">&nbsp;</span></a>.<br /><br /></p>
+<p>***</p>
+<p><span style="background-color: initial; font-size: 11px;"><a href="https://www.mas.gov.sg/news/media-releases/2024/singapore-fintech-festival-2024-kicks-off-with-ai-and-quantum-technology-in-focus#1-footnote-1">[1]</a></span><span style="background-color: initial; font-size: 11px;">&nbsp;</span><span class="footnote-item-content" id="footnote-1" style="background-color: initial; font-size: 11px;">Elevandi Education will be rebranded as Global Finance &amp; Technology Network (GFTN) Education in 2025.</span></p>
+<p>&nbsp;<span style="font-size: 11px; background-color: initial;"><a href="https://www.mas.gov.sg/news/media-releases/2024/singapore-fintech-festival-2024-kicks-off-with-ai-and-quantum-technology-in-focus#2-footnote-2">[2]</a></span><span style="font-size: 11px; background-color: initial;">&nbsp;</span><span class="footnote-item-content" id="footnote-2" style="font-size: 11px; background-color: initial;">The Global Finance &amp; Technology Network (GFTN) is a not-for-profit organisation established by the Monetary Authority of Singapore to harness technology and foster innovation for more efficient, resilient, and inclusive financial ecosystems through global partnerships.</span></p>
+<p>&nbsp;</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p><section class="mas-content-section">
+<div class="d:f desktop(fld:r) fld:c">
+<div class="mas-layout__main js-empty mas-layout__main--full">
+<div class="mas-section">
+<div class="p-x:m">
+<div class="m-x:a wrap:l">
+<header class="mas-section__header">
+<h2 class="mas-section__title">Resources</h2>
+</header>
+<div class="_mas-typeset contain">
+<ul class="mas-list mas-list--taller">
+<li><a class="mas-link mas-link--no-underline" href="https://www.mas.gov.sg/-/media/mas/news/media-releases/2024/annex-a--list-of-headline-and-notable-speakers-at-the-singapore-fintech-festival-2024.pdf" target="_blank"><span class="mas-link__text">Annex A List of headline and notable speakers at the Singapore FinTech Festival 2024&nbsp;</span><span class="mas-icon mas-glyphs-pdf">&nbsp;</span>&nbsp;(156 KB)</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section></p>
+]]></content:encoded>
+<pubDate>Mon, 04 Nov 2024 06:24:52 GMT</pubDate>
+<pubDate>Mon, 04 Nov 2024 06:24:52 GMT</pubDate>
+</item>
 
 <item>
 <title>Tehran Securities Exchange Weekly Market Snapshot, 30 October 2024</title>
