@@ -319,3 +319,24 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Michel Semaan Joins LCH As Global Head Of RepoClear](http://www.mondovisione.com/media-and-resources/news/michel-semaan-joins-lch-as-global-head-of-repoclear/)
 append_entries: 1
 Finish: 2024-11-04 12:41:31.529878
+------------------------------------------------------
+Started: 2024-11-04 14:20:07.997613
+Existing_entries: 35
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Eventus Wins Two Best-In-Class Awards For Validus Trade Surveillance Solution In Regulation Asia Awards For Excellence 2024 - Client Growth In Asia-Pacific Continues - Naveen Wahi Appointed Senior Director Of Sales, APAC](http://www.mondovisione.com/media-and-resources/news/eventus-wins-two-best-in-class-awards-for-validus-trade-surveillance-solution-in/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [CME Group Reports October 2024 ADV Of 24.3 Million Contracts](http://www.mondovisione.com/media-and-resources/news/cme-group-reports-october-2024-adv-of-243-million-contracts/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [SIX Exchanges Figures: October 2024](http://www.mondovisione.com/media-and-resources/news/six-exchanges-figures-october-2024/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [GLEIF And Finbridge Global Announce Collaboration To Streamline Identity Verification Across The Fintech Ecosystem - Simplifying Cross-Border Onboarding And Enhancing Trust With The Legal Entity Identifier](http://www.mondovisione.com/media-and-resources/news/gleif-and-finbridge-global-announce-collaboration-to-streamline-identity-verific/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Boerse Stuttgart Records October Turnover Of Around EUR 8,9 Billion - Increases In Structured Securities, Equities And Exchange-Traded Products Compared To The Same Month Of The Previous Year](http://www.mondovisione.com/media-and-resources/news/boerse-stuttgart-records-october-turnover-of-around-eur-89-billion-increases/)
+append_entries: 5
+Finish: 2024-11-04 14:20:38.974211
