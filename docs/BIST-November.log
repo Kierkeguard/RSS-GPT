@@ -361,3 +361,9 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [SET Launches New Financial Statement Analysis Tool To Boost Investor Insights](http://www.mondovisione.com/media-and-resources/news/set-launches-new-financial-statement-analysis-tool-to-boost-investor-insights/)
 append_entries: 5
 Finish: 2024-11-04 16:26:35.411179
+------------------------------------------------------
+Started: 2024-11-04 18:27:20.030954
+Existing_entries: 45
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2024-11-04 18:27:20.948254
