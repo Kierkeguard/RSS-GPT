@@ -304,3 +304,9 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Tokyo Stock Exchange: Go-Live Date For The Cash Equity Trading System (arrowhead) Upgrade And Extension Of Trading Hours, etc](http://www.mondovisione.com/media-and-resources/news/tokyo-stock-exchange-go-live-date-for-the-cash-equity-trading-system-arrowhead/)
 append_entries: 3
 Finish: 2024-11-04 08:27:08.461360
+------------------------------------------------------
+Started: 2024-11-04 10:23:11.583515
+Existing_entries: 34
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2024-11-04 10:23:12.932553
