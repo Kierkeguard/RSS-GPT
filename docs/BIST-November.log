@@ -289,3 +289,18 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Singapore FinTech Festival 2024 Kicks Off With AI And Quantum Technology In Focus](http://www.mondovisione.com/media-and-resources/news/singapore-fintech-festival-2024-kicks-off-with-ai-and-quantum-technology-in-focu/)
 append_entries: 4
 Finish: 2024-11-04 06:31:15.104553
+------------------------------------------------------
+Started: 2024-11-04 08:26:50.316001
+Existing_entries: 31
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Securities Commission Malaysia: PLCs Show Progress In Adopting Malaysian Code On Corporate Governance Best Practices  - CG Monitor 2024 Urges Improvements In Board Refreshment, Stakeholder Engagement, And Sustainability Governance](http://www.mondovisione.com/media-and-resources/news/securities-commission-malaysia-plcs-show-progress-in-adopting-malaysian-code-on/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Monetary Authority Of Singapore Announces Plans To Support Commercialisation Of Asset Tokenisation](http://www.mondovisione.com/media-and-resources/news/monetary-authority-of-singapore-announces-plans-to-support-commercialisation-of/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Tokyo Stock Exchange: Go-Live Date For The Cash Equity Trading System (arrowhead) Upgrade And Extension Of Trading Hours, etc](http://www.mondovisione.com/media-and-resources/news/tokyo-stock-exchange-go-live-date-for-the-cash-equity-trading-system-arrowhead/)
+append_entries: 3
+Finish: 2024-11-04 08:27:08.461360
