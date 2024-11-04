@@ -389,3 +389,15 @@ Append: [New At The Tel Aviv Stock Exchange - Block Trade Facility TASE Launches
 Append: [ISDA derivatiViews: A Clear Plan For Voluntary Carbon Trading](http://www.mondovisione.com/media-and-resources/news/isda-derivativiews-a-clear-plan-for-voluntary-carbon-trading/)
 append_entries: 6
 Finish: 2024-11-04 20:21:59.774087
+------------------------------------------------------
+Started: 2024-11-04 22:18:26.759813
+Existing_entries: 51
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Nasdaq Reports October 2024 Volumes](http://www.mondovisione.com/media-and-resources/news/nasdaq-reports-october-2024-volumes/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [CFTC Swaps Report Update](http://www.mondovisione.com/media-and-resources/news/cftc-swaps-report-update-49/)
+append_entries: 2
+Finish: 2024-11-04 22:18:40.038144
