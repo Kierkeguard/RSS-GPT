@@ -485,3 +485,18 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [BIS Latest Update November 2024: Supply Shocks, Soft Landings And Nearshoring](http://www.mondovisione.com/media-and-resources/news/bis-latest-update-november-2024-supply-shocks-soft-landings-and-nearshoring/)
 append_entries: 5
 Finish: 2024-11-05 14:19:48.214320
+------------------------------------------------------
+Started: 2024-11-05 16:26:27.011286
+Existing_entries: 65
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Purdue University/CME Group Ag Economy Barometer: Farmer Sentiment In October Rebounded Ahead Of The U.S. Election](http://www.mondovisione.com/media-and-resources/news/purdue-universitycme-group-ag-economy-barometer-farmer-sentiment-in-october-re/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Investor Activity On GPW In October 2024](http://www.mondovisione.com/media-and-resources/news/investor-activity-on-gpw-in-october-2024/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [New Leadership Team Drives Major Year-On-Year Growth At INFINOX Capital Limited](http://www.mondovisione.com/media-and-resources/news/new-leadership-team-drives-major-year-on-year-growth-at-infinox-capital-limited/)
+append_entries: 3
+Finish: 2024-11-05 16:26:45.078781
