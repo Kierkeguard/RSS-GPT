@@ -500,3 +500,18 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [New Leadership Team Drives Major Year-On-Year Growth At INFINOX Capital Limited](http://www.mondovisione.com/media-and-resources/news/new-leadership-team-drives-major-year-on-year-growth-at-infinox-capital-limited/)
 append_entries: 3
 Finish: 2024-11-05 16:26:45.078781
+------------------------------------------------------
+Started: 2024-11-05 18:27:27.084135
+Existing_entries: 68
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Ontario Securities Commission Publishes Summary Report For Investment Fund And Structured Product Issuers](http://www.mondovisione.com/media-and-resources/news/ontario-securities-commission-publishes-summary-report-for-investment-fund-and-s-1/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [ELITE Welcomes 19 New Firms Bringing The Total To 2,400 Companies](http://www.mondovisione.com/media-and-resources/news/elite-welcomes-19-new-firms-bringing-the-total-to-2400-companies/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Borsa İstanbul Announces The Constituent Changes To The BIST Buyback Index For November, 2024](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-announces-the-constituent-changes-to-the-bist-buyback-index-for-n/)
+append_entries: 3
+Finish: 2024-11-05 18:27:45.576788
