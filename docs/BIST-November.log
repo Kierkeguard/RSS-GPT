@@ -515,3 +515,15 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Borsa İstanbul Announces The Constituent Changes To The BIST Buyback Index For November, 2024](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-announces-the-constituent-changes-to-the-bist-buyback-index-for-n/)
 append_entries: 3
 Finish: 2024-11-05 18:27:45.576788
+------------------------------------------------------
+Started: 2024-11-05 20:22:04.455861
+Existing_entries: 71
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [US Office Of The Comptroller Of The Currency Designates Three Senior National Bank Examiners](http://www.mondovisione.com/media-and-resources/news/office-of-the-comptroller-of-the-currency-designates-three-senior-national-bank/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [ISDA: Ark 51 Adopts CDM For CSA Data Extraction](http://www.mondovisione.com/media-and-resources/news/isda-ark-51-adopts-cdm-for-csa-data-extraction/)
+append_entries: 2
+Finish: 2024-11-05 20:22:17.220162
