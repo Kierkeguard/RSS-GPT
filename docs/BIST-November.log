@@ -428,3 +428,15 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [HKEXTto Digitalise ETP Servicing Capabilities With Online Platform](http://www.mondovisione.com/media-and-resources/news/hkextto-digitalise-etp-servicing-capabilities-with-online-platform/)
 append_entries: 1
 Finish: 2024-11-05 06:30:01.985835
+------------------------------------------------------
+Started: 2024-11-05 08:26:05.136912
+Existing_entries: 54
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [SGX Group Wins Regulation Asia’s Exchange Of The Year Award For 5th Time](http://www.mondovisione.com/media-and-resources/news/sgx-group-wins-regulation-asias-exchange-of-the-year-award-for-5th-time/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [NZX Shareholder Metrics - October 2024](http://www.mondovisione.com/media-and-resources/news/nzx-shareholder-metrics-october-2024/)
+append_entries: 2
+Finish: 2024-11-05 08:26:18.840144
