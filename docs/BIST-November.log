@@ -449,3 +449,18 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [UK Financial Conduct Authority Enhances Access To Market Data And Investment Research To Support Growth](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-enhances-access-to-market-data-and-investment-res/)
 append_entries: 1
 Finish: 2024-11-05 10:22:48.220021
+------------------------------------------------------
+Started: 2024-11-05 12:38:15.818162
+Existing_entries: 57
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [MarketAxess Announces Trading Volume Statistics For October - Second Consecutive Month Of Record Total Trading ADV On Continued Strong Market Volumes](http://www.mondovisione.com/media-and-resources/news/marketaxess-announces-trading-volume-statistics-for-october-second-consecutive/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [UK Financial Conduct Authority: Three Individuals And Two Firms Charged Over Alleged Unauthorised Business Activities](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-three-individuals-and-two-firms-charged-over-all/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [FX Options Heavyweight Chris Smith Joins OptAxe](http://www.mondovisione.com/media-and-resources/news/fx-options-heavyweight-chris-smith-joins-optaxe/)
+append_entries: 3
+Finish: 2024-11-05 12:38:34.372047
