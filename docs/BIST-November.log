@@ -464,3 +464,24 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [FX Options Heavyweight Chris Smith Joins OptAxe](http://www.mondovisione.com/media-and-resources/news/fx-options-heavyweight-chris-smith-joins-optaxe/)
 append_entries: 3
 Finish: 2024-11-05 12:38:34.372047
+------------------------------------------------------
+Started: 2024-11-05 14:19:17.405357
+Existing_entries: 60
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [October Marks Highest Volume Month In ICE’s History With 209 Million Contracts Traded](http://www.mondovisione.com/media-and-resources/news/october-marks-highest-volume-month-in-ices-history-with-209-million-contracts-t/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Intercontinental Exchange Reports October 2024 Statistics - Record Energy And Interest Rates ADV](http://www.mondovisione.com/media-and-resources/news/intercontinental-exchange-reports-october-2024-statistics-record-energy-and-in/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Exchanges Ring The Bell In Support Of Climate Initiatives And Sustainability](http://www.mondovisione.com/media-and-resources/news/exchanges-ring-the-bell-in-support-of-climate-initiatives-and-sustainability/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [DataLend: October 2024 Securities Lending Revenue Up 9% YoY To $818 Million - Rate Cut And Election Posturing Boosts U.S. Debt Revenue](http://www.mondovisione.com/media-and-resources/news/datalend-october-2024-securities-lending-revenue-up-9-yoy-to-818-million-ra/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [BIS Latest Update November 2024: Supply Shocks, Soft Landings And Nearshoring](http://www.mondovisione.com/media-and-resources/news/bis-latest-update-november-2024-supply-shocks-soft-landings-and-nearshoring/)
+append_entries: 5
+Finish: 2024-11-05 14:19:48.214320
