@@ -624,3 +624,15 @@ Append: [Vermiculus Opens New Office In Umeå To Support Continued Growth - New 
 Append: [HKEX Monthly Market Highlights](http://www.mondovisione.com/media-and-resources/news/hkex-monthly-market-highlights-49a/)
 append_entries: 6
 Finish: 2024-11-06 14:19:19.623223
+------------------------------------------------------
+Started: 2024-11-06 16:25:48.922118
+Existing_entries: 90
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Tradeweb Reports October 2024 Total Trading Volume Of $54.7 Trillion and Average Daily Volume Of $2.35 Trillion](http://www.mondovisione.com/media-and-resources/news/tradeweb-reports-october-2024-total-trading-volume-of-547-trillion-and-average/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Exegy Wins Buy-Side Award For Record-Breaking FPGA Solution](http://www.mondovisione.com/media-and-resources/news/exegy-wins-buy-side-award-for-record-breaking-fpga-solution/)
+append_entries: 2
+Finish: 2024-11-06 16:29:22.331946
