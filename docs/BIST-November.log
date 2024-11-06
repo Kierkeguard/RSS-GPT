@@ -554,3 +554,15 @@ Existing_entries: 74
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2024-11-06 04:25:36.498264
+------------------------------------------------------
+Started: 2024-11-06 06:28:41.536663
+Existing_entries: 74
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Qatar Stock Exchange: Wednesday And Thursday, November 6 And 7, 2024 Are Public Holidays](http://www.mondovisione.com/media-and-resources/news/qatar-stock-exchange-wednesday-and-thursday-november-6-and-7-2024-are-public/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Cboe Global Markets Reports Trading Volume For October 2024](http://www.mondovisione.com/media-and-resources/news/cboe-global-markets-reports-trading-volume-for-october-2024/)
+append_entries: 2
+Finish: 2024-11-06 06:28:54.165759
