@@ -566,3 +566,24 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Cboe Global Markets Reports Trading Volume For October 2024](http://www.mondovisione.com/media-and-resources/news/cboe-global-markets-reports-trading-volume-for-october-2024/)
 append_entries: 2
 Finish: 2024-11-06 06:28:54.165759
+------------------------------------------------------
+Started: 2024-11-06 08:26:49.204967
+Existing_entries: 76
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [SET Market Report For October 2024](http://www.mondovisione.com/media-and-resources/news/set-market-report-for-october-2024/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [HKEX: Report On Initial Public Offering Applications, Delisting And Suspensions, October 2024](http://www.mondovisione.com/media-and-resources/news/hkex-report-on-initial-public-offering-applications-delisting-and-suspensions-49/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Taiwan Futures Exchange Newsletter - Novenber 2024](http://www.mondovisione.com/media-and-resources/news/taiwan-futures-exchange-newsletter-novenber-2024/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [ASX Group Monthly Activity Report - October 2024](http://www.mondovisione.com/media-and-resources/news/asx-group-monthly-activity-report-october-2024/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Fonterra’s Intention To Move To NZX Main Board](http://www.mondovisione.com/media-and-resources/news/fonterras-intention-to-move-to-nzx-main-board/)
+append_entries: 5
+Finish: 2024-11-06 08:27:18.174077
