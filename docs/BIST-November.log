@@ -536,3 +536,9 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Nasdaq Executives To Present At Upcoming Investor Conferences](http://www.mondovisione.com/media-and-resources/news/nasdaq-executives-to-present-at-upcoming-investor-conferences-3/)
 append_entries: 1
 Finish: 2024-11-05 22:19:39.654325
+------------------------------------------------------
+Started: 2024-11-06 01:37:02.392585
+Existing_entries: 74
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2024-11-06 01:37:03.223907
