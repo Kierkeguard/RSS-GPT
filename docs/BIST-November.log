@@ -648,3 +648,12 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [FSB MENA Group Discusses Artificial Intelligence, Cyber Risk And Operational Readiness](http://www.mondovisione.com/media-and-resources/news/fsb-mena-group-discusses-artificial-intelligence-cyber-risk-and-operational-rea/)
 append_entries: 2
 Finish: 2024-11-06 18:27:54.662796
+------------------------------------------------------
+Started: 2024-11-06 20:21:46.753407
+Existing_entries: 94
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [TMX Group Consolidated Trading Statistics - October 2024](http://www.mondovisione.com/media-and-resources/news/tmx-group-consolidated-trading-statistics-october-2024/)
+append_entries: 1
+Finish: 2024-11-06 20:21:54.362559
