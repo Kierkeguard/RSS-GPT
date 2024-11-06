@@ -587,3 +587,18 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Fonterra’s Intention To Move To NZX Main Board](http://www.mondovisione.com/media-and-resources/news/fonterras-intention-to-move-to-nzx-main-board/)
 append_entries: 5
 Finish: 2024-11-06 08:27:18.174077
+------------------------------------------------------
+Started: 2024-11-06 10:21:43.781751
+Existing_entries: 81
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Boerse Stuttgart Digital Partners With Fenergo To Scale Regulatory Compliant Crypto Solutions Across Europe](http://www.mondovisione.com/media-and-resources/news/boerse-stuttgart-digital-partners-with-fenergo-to-scale-regulatory-compliant-cry/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Kaizen Receives £42 Million Growth Investment From Guidepost Growth Equity](http://www.mondovisione.com/media-and-resources/news/kaizen-receives-42-million-growth-investment-from-guidepost-growth-equity/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Tehran Securities Exchange Bulletin - October 2024](http://www.mondovisione.com/media-and-resources/news/tehran-securities-exchange-bulletin-october-2024/)
+append_entries: 3
+Finish: 2024-11-06 10:22:02.600865
