@@ -602,3 +602,25 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Tehran Securities Exchange Bulletin - October 2024](http://www.mondovisione.com/media-and-resources/news/tehran-securities-exchange-bulletin-october-2024/)
 append_entries: 3
 Finish: 2024-11-06 10:22:02.600865
+------------------------------------------------------
+Started: 2024-11-06 14:18:48.481340
+Existing_entries: 84
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Rick McVey To Retire from MarketAxess - Carlos Hernandez Elected As Next Chairman](http://www.mondovisione.com/media-and-resources/news/rick-mcvey-to-retire-from-marketaxess-carlos-hernandez-elected-as-next-chairma/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [MarketAxess Reports Third Quarter 2024 Financial Results](http://www.mondovisione.com/media-and-resources/news/marketaxess-reports-third-quarter-2024-financial-results/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Tehran Securities Exchange: Kish Invex Hosts Iran Financial Markets](http://www.mondovisione.com/media-and-resources/news/tehran-securities-exchange-kish-invex-hosts-iran-financial-markets/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [NSE Indices Fixed Income Index Dashboard For The Month Ended October 2024](http://www.mondovisione.com/media-and-resources/news/nse-indices-fixed-income-index-dashboard-for-the-month-ended-october-2024/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Vermiculus Opens New Office In Umeå To Support Continued Growth - New Location In One Of The Strongest FinTech Hubs In The Nordics Strengthens Vermiculus’ Capacity To Meet Global Demand](http://www.mondovisione.com/media-and-resources/news/vermiculus-opens-new-office-in-ume-to-support-continued-growth-new-location-i/)
+Append: [HKEX Monthly Market Highlights](http://www.mondovisione.com/media-and-resources/news/hkex-monthly-market-highlights-49a/)
+append_entries: 6
+Finish: 2024-11-06 14:19:19.623223
