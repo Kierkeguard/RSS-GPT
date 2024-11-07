@@ -789,3 +789,26 @@ Append: [CME Group Announces Winners Of The 21st Annual University Trading Chall
 Append: [October 2024 Figures At Eurex](http://www.mondovisione.com/media-and-resources/news/october-2024-figures-at-eurex/)
 append_entries: 8
 Finish: 2024-11-07 18:27:28.142837
+------------------------------------------------------
+Started: 2024-11-07 20:21:29.773711
+Existing_entries: 119
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Federal Reserve Issues FOMC Statement](http://www.mondovisione.com/media-and-resources/news/federal-reserve-issues-fomc-statement-49/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Canadian Securities Administrators Provides Update On Binding Dispute Resolution](http://www.mondovisione.com/media-and-resources/news/canadian-securities-administrators-provides-update-on-binding-dispute-resolution/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [MIAX Regulatory: Approved Rule Change To Amend FINRA Rule 12800 (Simplified Arbitration) To Clarify And Amend The Applicability Of Document Production Lists](http://www.mondovisione.com/media-and-resources/news/miax-regulatory-approved-rule-change-to-amend-finra-rule-12800-simplified-arbi/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Nodal Exchange Achieves New Records In Its Power (Up 23%), Environmental (Up 621%) And Natural Gas (Up 261%) Markets](http://www.mondovisione.com/media-and-resources/news/nodal-exchange-achieves-new-records-in-its-power-up-23-environmental-up-621/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Remarks at Securities Enforcement Forum D.C. 2024, Sanjay Wadhwa, Acting Director, SEC Division Of Enforcement, Washington D.C., Nov. 6, 2024](http://www.mondovisione.com/media-and-resources/news/remarks-at-securities-enforcement-forum-dc-2024-sanjay-wadhwa-acting-directo/)
+Append: [Canadian Securities Regulators Publish Report On Continuous Disclosure Reviews](http://www.mondovisione.com/media-and-resources/news/canadian-securities-regulators-publish-report-on-continuous-disclosure-reviews/)
+Append: [MIAX Options Exchange - Planned Network Refresh For The 10G ULL Extranet](http://www.mondovisione.com/media-and-resources/news/miax-options-exchange-planned-network-refresh-for-the-10g-ull-extranet/)
+append_entries: 7
+Finish: 2024-11-07 20:21:59.731367
