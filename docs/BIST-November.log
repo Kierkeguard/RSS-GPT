@@ -765,3 +765,27 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Compliance: Staying On Mission,  Keith E. Cassidy, Acting Director, SEC Division Of Examinations, 2024 National Compliance Outreach Seminar, Washington D.C., Nov. 7, 2024](http://www.mondovisione.com/media-and-resources/news/compliance-staying-on-mission-keith-e-cassidy-acting-director-sec-division/)
 append_entries: 3
 Finish: 2024-11-07 16:26:02.803873
+------------------------------------------------------
+Started: 2024-11-07 18:26:59.050220
+Existing_entries: 111
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Moscow Exchange: The Start Of Trading Postponed On The Securities Market](http://www.mondovisione.com/media-and-resources/news/moscow-exchange-the-start-of-trading-postponed-on-the-securities-market/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [CME Group Announces Employment Agreement Extension For Chairman And Chief Executive Officer Terry Duffy](http://www.mondovisione.com/media-and-resources/news/cme-group-announces-employment-agreement-extension-for-chairman-and-chief-execut/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Euronext Publishes Q3 2024 Results](http://www.mondovisione.com/media-and-resources/news/euronext-publishes-q3-2024-results/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Euronext Announces Launch Of A Share Repurchase Programme Of €300 Million](http://www.mondovisione.com/media-and-resources/news/euronext-announces-launch-of-a-share-repurchase-programme-of-300-million/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Euronext Announces Its New Strategic Plan “Innovate For Growth 2027”](http://www.mondovisione.com/media-and-resources/news/euronext-announces-its-new-strategic-plan-innovate-for-growth-2027/)
+Append: [Finansinspektionen Proposes Enhanced Preventive Work In Efforts To Prevent Investment Fraud](http://www.mondovisione.com/media-and-resources/news/finansinspektionen-proposes-enhanced-preventive-work-in-efforts-to-prevent-inves/)
+Append: [CME Group Announces Winners Of The 21st Annual University Trading Challenge](http://www.mondovisione.com/media-and-resources/news/cme-group-announces-winners-of-the-21st-annual-university-trading-challenge/)
+Append: [October 2024 Figures At Eurex](http://www.mondovisione.com/media-and-resources/news/october-2024-figures-at-eurex/)
+append_entries: 8
+Finish: 2024-11-07 18:27:28.142837
