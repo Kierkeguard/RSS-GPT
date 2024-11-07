@@ -741,3 +741,12 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Capital.Com Set To Double Technology Team Amid Strong Growth  - Global FinTech Sees Trading Volumes Rise By 20% In Q3, Plans To Fill 200 New Tech Roles In The Next 12 Months](http://www.mondovisione.com/media-and-resources/news/capitalcom-set-to-double-technology-team-amid-strong-growth-global-fintech-s/)
 append_entries: 4
 Finish: 2024-11-07 12:39:16.646862
+------------------------------------------------------
+Started: 2024-11-07 14:18:56.230107
+Existing_entries: 107
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [CME Group Declares Quarterly Dividend](http://www.mondovisione.com/media-and-resources/news/cme-group-declares-quarterly-dividend-24/)
+append_entries: 1
+Finish: 2024-11-07 14:19:03.857158
