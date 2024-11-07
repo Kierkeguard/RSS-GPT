@@ -714,3 +714,12 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [CFTC Chairman Behnam To Participate On An International Panel At The CNMV's 35th Anniversary](http://www.mondovisione.com/media-and-resources/news/cftc-chairman-behnam-to-participate-on-an-international-panel-at-the-cnmvs-35th/)
 append_entries: 4
 Finish: 2024-11-07 08:25:42.969694
+------------------------------------------------------
+Started: 2024-11-07 10:21:04.439031
+Existing_entries: 102
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [IPC And LeapXpert Partner For Federated Messaging Governance And Compliance](http://www.mondovisione.com/media-and-resources/news/ipc-and-leapxpert-partner-for-federated-messaging-governance-and-compliance/)
+append_entries: 1
+Finish: 2024-11-07 10:21:11.290706
