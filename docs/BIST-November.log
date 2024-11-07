@@ -750,3 +750,18 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [CME Group Declares Quarterly Dividend](http://www.mondovisione.com/media-and-resources/news/cme-group-declares-quarterly-dividend-24/)
 append_entries: 1
 Finish: 2024-11-07 14:19:03.857158
+------------------------------------------------------
+Started: 2024-11-07 16:25:44.568116
+Existing_entries: 108
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Rodrigo Buenaventura Appointed Secretary General Of IOSCO](http://www.mondovisione.com/media-and-resources/news/rodrigo-buenaventura-appointed-secretary-general-of-iosco/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Miami International Holdings Reports Trading Results For October 2024 - Multiple Options & Equities Exchanges Report Record Volumes - MIAX Sapphire Reaches 1.7% Market Share In October 2024](http://www.mondovisione.com/media-and-resources/news/miami-international-holdings-reports-trading-results-for-october-2024-multiple/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Compliance: Staying On Mission,  Keith E. Cassidy, Acting Director, SEC Division Of Examinations, 2024 National Compliance Outreach Seminar, Washington D.C., Nov. 7, 2024](http://www.mondovisione.com/media-and-resources/news/compliance-staying-on-mission-keith-e-cassidy-acting-director-sec-division/)
+append_entries: 3
+Finish: 2024-11-07 16:26:02.803873
