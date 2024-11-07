@@ -696,3 +696,21 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Senate Economics Legislation Committee, Supplementary Budget Estimates - Opening Statement By ASIC Chair Joe Longo At The Senate Economics Legislation Committee, Supplementary Budget Estimates, 7 November 2024](http://www.mondovisione.com/media-and-resources/news/senate-economics-legislation-committee-supplementary-budget-estimates-opening/)
 append_entries: 3
 Finish: 2024-11-07 06:28:35.761090
+------------------------------------------------------
+Started: 2024-11-07 08:25:20.269128
+Existing_entries: 98
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [JPX Monthly Headlines - October 2024](http://www.mondovisione.com/media-and-resources/news/jpx-monthly-headlines-october-2024/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: ["MAS' Fintech Vision" - Edited Transcript Of Fireside Chat By Mr Chia Der Jiun, Managing Director, Monetary Authority Of Singapore, With Ms Manisha Tank, Broadcaster & TV Presenter, At Singapore Fintech Festival 2024, On 7 November 2024](http://www.mondovisione.com/media-and-resources/news/mas-fintech-vision-edited-transcript-of-fireside-chat-by-mr-chia-der-jiun/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [NZX Investor Day Presentation](http://www.mondovisione.com/media-and-resources/news/nzx-investor-day-presentation-3/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [CFTC Chairman Behnam To Participate On An International Panel At The CNMV's 35th Anniversary](http://www.mondovisione.com/media-and-resources/news/cftc-chairman-behnam-to-participate-on-an-international-panel-at-the-cnmvs-35th/)
+append_entries: 4
+Finish: 2024-11-07 08:25:42.969694
