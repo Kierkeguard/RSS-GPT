@@ -723,3 +723,21 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [IPC And LeapXpert Partner For Federated Messaging Governance And Compliance](http://www.mondovisione.com/media-and-resources/news/ipc-and-leapxpert-partner-for-federated-messaging-governance-and-compliance/)
 append_entries: 1
 Finish: 2024-11-07 10:21:11.290706
+------------------------------------------------------
+Started: 2024-11-07 12:38:49.285624
+Existing_entries: 103
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Bank Of England: Bank Rate Reduced To 4.75% - November 2024](http://www.mondovisione.com/media-and-resources/news/bank-of-england-bank-rate-reduced-to-475-november-2024/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [EEX Group Monthly Volumes - October 2024](http://www.mondovisione.com/media-and-resources/news/eex-group-monthly-volumes-october-2024/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [UK Financial Conduct Authority Secures Convictions Against Two Individuals For £1.5m Fraud](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-secures-convictions-against-two-individuals-for/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Capital.Com Set To Double Technology Team Amid Strong Growth  - Global FinTech Sees Trading Volumes Rise By 20% In Q3, Plans To Fill 200 New Tech Roles In The Next 12 Months](http://www.mondovisione.com/media-and-resources/news/capitalcom-set-to-double-technology-team-amid-strong-growth-global-fintech-s/)
+append_entries: 4
+Finish: 2024-11-07 12:39:16.646862
