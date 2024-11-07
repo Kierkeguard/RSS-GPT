@@ -681,3 +681,18 @@ Existing_entries: 95
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2024-11-07 04:24:28.691140
+------------------------------------------------------
+Started: 2024-11-07 06:28:14.970640
+Existing_entries: 95
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [ASIC Seeks Feedback On Proposed Guidance On Sustainability Reporting Regime](http://www.mondovisione.com/media-and-resources/news/asic-seeks-feedback-on-proposed-guidance-on-sustainability-reporting-regime/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Ad Hoc Press Conference By KATO Katsunobu, Japan Minister Of Finance And Minister Of State For Financial Services - Tokyo Stock Exchange](http://www.mondovisione.com/media-and-resources/news/ad-hoc-press-conference-by-kato-katsunobu-japan-minister-of-finance-and-ministe/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Senate Economics Legislation Committee, Supplementary Budget Estimates - Opening Statement By ASIC Chair Joe Longo At The Senate Economics Legislation Committee, Supplementary Budget Estimates, 7 November 2024](http://www.mondovisione.com/media-and-resources/news/senate-economics-legislation-committee-supplementary-budget-estimates-opening/)
+append_entries: 3
+Finish: 2024-11-07 06:28:35.761090
