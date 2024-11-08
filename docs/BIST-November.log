@@ -866,3 +866,18 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [SGX Group Reports Market Statistics For October 2024](http://www.mondovisione.com/media-and-resources/news/sgx-group-reports-market-statistics-for-october-2024/)
 append_entries: 1
 Finish: 2024-11-08 08:25:33.875271
+------------------------------------------------------
+Started: 2024-11-08 10:20:53.343356
+Existing_entries: 132
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Hedge Funds Decline In October, Strategy Performance Mixed On Eve Of US Election](http://www.mondovisione.com/media-and-resources/news/hedge-funds-decline-in-october-strategy-performance-mixed-on-eve-of-us-election/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Q1-3 2024 Marked By Record-High Equity Turnover On GPW](http://www.mondovisione.com/media-and-resources/news/q1-3-2024-marked-by-record-high-equity-turnover-on-gpw/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [The Association Of National Numbering Agency (ANNA) Wins ‘Data Provider Of The Year’ At The Asset Servicing Times Industry Excellence Awards 2024](http://www.mondovisione.com/media-and-resources/news/the-association-of-national-numbering-agency-anna-wins-data-provider-of-the-y/)
+append_entries: 3
+Finish: 2024-11-08 10:21:12.595305
