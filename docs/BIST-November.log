@@ -881,3 +881,9 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [The Association Of National Numbering Agency (ANNA) Wins ‘Data Provider Of The Year’ At The Asset Servicing Times Industry Excellence Awards 2024](http://www.mondovisione.com/media-and-resources/news/the-association-of-national-numbering-agency-anna-wins-data-provider-of-the-y/)
 append_entries: 3
 Finish: 2024-11-08 10:21:12.595305
+------------------------------------------------------
+Started: 2024-11-08 12:39:08.434301
+Existing_entries: 135
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2024-11-08 12:39:09.510074
