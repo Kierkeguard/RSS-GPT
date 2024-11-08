@@ -911,3 +911,21 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Revised Lists Of The MOEX Indices](http://www.mondovisione.com/media-and-resources/news/revised-lists-of-the-moex-indices/)
 append_entries: 4
 Finish: 2024-11-08 16:27:27.392738
+------------------------------------------------------
+Started: 2024-11-08 18:27:07.780042
+Existing_entries: 139
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Euronext Announces Volumes For October 2024](http://www.mondovisione.com/media-and-resources/news/euronext-announces-volumes-for-october-2024/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Canadian Investment Regulatory Organization Announces New Proficiency Model Partnership With Fitch Learning](http://www.mondovisione.com/media-and-resources/news/canadian-investment-regulatory-organization-announces-new-proficiency-model-part/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Nigerian Exchange Weekly Market Report For The Week Ended 8 November 2024](http://www.mondovisione.com/media-and-resources/news/nigerian-exchange-weekly-market-report-for-the-week-ended-8-november-2024/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Bermuda Stock Exchange Will Be Closed For Remembrance Day, 08 November 2024](http://www.mondovisione.com/media-and-resources/news/bermuda-stock-exchange-will-be-closed-for-remembrance-day-08-november-2024/)
+append_entries: 4
+Finish: 2024-11-08 18:27:31.962471
