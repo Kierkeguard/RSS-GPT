@@ -836,3 +836,24 @@ Existing_entries: 126
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2024-11-08 04:24:04.200245
+------------------------------------------------------
+Started: 2024-11-08 06:28:30.558946
+Existing_entries: 126
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [SGX Securities Welcomes Attika Group Ltd To Catalist](http://www.mondovisione.com/media-and-resources/news/sgx-securities-welcomes-attika-group-ltd-to-catalist/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Montréal Exchange Interest Rate Derivative Trading Ceases At 13:30 Today, November 8, 2024 - Interest Rate Derivative Market Closed On November 11, 2024](http://www.mondovisione.com/media-and-resources/news/montral-exchange-interest-rate-derivative-trading-ceases-at-1330-today-novemb-3/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Solving The Right Problems: Remarks To FINSIA - The Regulators 2024 - Remarks By ASIC Commissioner Alan Kirkland At FINSIA – The Regulators In Sydney On 8 November 2024.](http://www.mondovisione.com/media-and-resources/news/solving-the-right-problems-remarks-to-finsia-the-regulators-2024-remarks-by/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Intercontinental Exchange CFO Warren Gardiner To Present At The J.P. Morgan Ultimate Services Investor Conference On November 14](http://www.mondovisione.com/media-and-resources/news/intercontinental-exchange-cfo-warren-gardiner-to-present-at-the-jp-morgan-ulti/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Robinhood Markets, Inc. To Present At The Wolfe Research Wealth Symposium On November 13, 2024](http://www.mondovisione.com/media-and-resources/news/robinhood-markets-inc-to-present-at-the-wolfe-research-wealth-symposium-on-nov-1/)
+append_entries: 5
+Finish: 2024-11-08 06:29:44.423963
