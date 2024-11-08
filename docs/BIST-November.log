@@ -929,3 +929,15 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Bermuda Stock Exchange Will Be Closed For Remembrance Day, 08 November 2024](http://www.mondovisione.com/media-and-resources/news/bermuda-stock-exchange-will-be-closed-for-remembrance-day-08-november-2024/)
 append_entries: 4
 Finish: 2024-11-08 18:27:31.962471
+------------------------------------------------------
+Started: 2024-11-08 20:21:09.199560
+Existing_entries: 143
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [FIA October 2024 SEF Tracker](http://www.mondovisione.com/media-and-resources/news/fia-october-2024-sef-tracker/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [As Crypto Heads Into Bull Run Investors Are Spending Their Profits Rather Than Choosing To HODL: Petr Kozyakov, Co-Founder And CEO Of Mercuryo](http://www.mondovisione.com/media-and-resources/news/as-crypto-heads-into-bull-run-investors-are-spending-their-profits-rather-than-c/)
+append_entries: 2
+Finish: 2024-11-08 20:21:22.328382
