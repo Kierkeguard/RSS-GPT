@@ -968,3 +968,15 @@ Existing_entries: 146
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2024-11-09 04:23:24.032182
+------------------------------------------------------
+Started: 2024-11-09 06:26:09.035615
+Existing_entries: 146
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [AppLovin Corporation To Join The Nasdaq-100 Index® Beginning November 18, 2024](http://www.mondovisione.com/media-and-resources/news/applovin-corporation-to-join-the-nasdaq-100-index-beginning-november-18-2024/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [US Department Of Justice: Bitcoin Fog Operator Sentenced For Money Laundering Conspiracy - Operator Of Notorious Darknet Cryptocurrency “Mixer” Laundered $400M In Cryptocurrency Since 2011](http://www.mondovisione.com/media-and-resources/news/us-department-of-justice-bitcoin-fog-operator-sentenced-for-money-laundering-co/)
+append_entries: 2
+Finish: 2024-11-09 06:26:21.387501
