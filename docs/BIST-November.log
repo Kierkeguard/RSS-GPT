@@ -980,3 +980,9 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [US Department Of Justice: Bitcoin Fog Operator Sentenced For Money Laundering Conspiracy - Operator Of Notorious Darknet Cryptocurrency “Mixer” Laundered $400M In Cryptocurrency Since 2011](http://www.mondovisione.com/media-and-resources/news/us-department-of-justice-bitcoin-fog-operator-sentenced-for-money-laundering-co/)
 append_entries: 2
 Finish: 2024-11-09 06:26:21.387501
+------------------------------------------------------
+Started: 2024-11-09 08:24:23.210790
+Existing_entries: 148
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2024-11-09 08:24:24.501806
