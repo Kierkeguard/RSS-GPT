@@ -1208,3 +1208,18 @@ Existing_entries: 162
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2024-11-11 20:21:18.964364
+------------------------------------------------------
+Started: 2024-11-11 22:18:35.829211
+Existing_entries: 162
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [NYSE Group Consolidated Short Interest Report](http://www.mondovisione.com/media-and-resources/news/nyse-group-consolidated-short-interest-report-49/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Robinhood Markets, Inc. Reports October 2024 Operating Data](http://www.mondovisione.com/media-and-resources/news/robinhood-markets-inc-reports-october-2024-operating-data/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Nasdaq Announces End-Of-Month Open Short Interest Positions In Nasdaq Stocks As Of Settlement Date October 31, 2024](http://www.mondovisione.com/media-and-resources/news/nasdaq-announces-end-of-month-open-short-interest-positions-in-nasdaq-stocks-as-49/)
+append_entries: 3
+Finish: 2024-11-11 22:18:52.875916
