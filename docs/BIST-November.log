@@ -1202,3 +1202,9 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [DIFC Completes On-Time Repayment Of USD 700mn Sukuk](http://www.mondovisione.com/media-and-resources/news/difc-completes-on-time-repayment-of-usd-700mn-sukuk/)
 append_entries: 4
 Finish: 2024-11-11 18:27:32.234345
+------------------------------------------------------
+Started: 2024-11-11 20:21:17.978055
+Existing_entries: 162
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2024-11-11 20:21:18.964364
