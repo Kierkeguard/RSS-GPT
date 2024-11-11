@@ -1166,3 +1166,9 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [HKEX Publishes Connect Paper - Ten Years Of Connect - Connecting China And The World](http://www.mondovisione.com/media-and-resources/news/hkex-publishes-connect-paper-ten-years-of-connect-connecting-china-and-the-w/)
 append_entries: 3
 Finish: 2024-11-11 12:40:36.429269
+------------------------------------------------------
+Started: 2024-11-11 14:19:55.676746
+Existing_entries: 156
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2024-11-11 14:19:56.528821
