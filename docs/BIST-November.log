@@ -1184,3 +1184,21 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Decision By The Nasdaq Stockholm Disciplinary Committee Regarding Citigroup Global Markets Europe AG](http://www.mondovisione.com/media-and-resources/news/decision-by-the-nasdaq-stockholm-disciplinary-committee-regarding-citigroup-glob/)
 append_entries: 2
 Finish: 2024-11-11 16:26:43.969345
+------------------------------------------------------
+Started: 2024-11-11 18:27:08.180545
+Existing_entries: 158
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [TMX Group Equity Financing Statistics - October 2024](http://www.mondovisione.com/media-and-resources/news/tmx-group-equity-financing-statistics-october-2024/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Montréal Exchange Interest Rate Derivative Market Closed Today, November 11, 2024](http://www.mondovisione.com/media-and-resources/news/montral-exchange-interest-rate-derivative-market-closed-today-november-11-20-1/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [UK Financial Conduct Authority - Enforcement Regulatory Disclosure Review: Outcome](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-enforcement-regulatory-disclosure-review-outco/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [DIFC Completes On-Time Repayment Of USD 700mn Sukuk](http://www.mondovisione.com/media-and-resources/news/difc-completes-on-time-repayment-of-usd-700mn-sukuk/)
+append_entries: 4
+Finish: 2024-11-11 18:27:32.234345
