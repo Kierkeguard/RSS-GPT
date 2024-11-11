@@ -1121,3 +1121,15 @@ Existing_entries: 149
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2024-11-11 04:24:35.251100
+------------------------------------------------------
+Started: 2024-11-11 06:29:00.263348
+Existing_entries: 149
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Shenzhen Stock Exchange Market Bulletin, November 8, 2024, Issue 35](http://www.mondovisione.com/media-and-resources/news/shenzhen-stock-exchange-market-bulletin-november-8-2024-issue-35/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Japan Financial Services Agency - Stewardship Code : 330 Institutional Investors Have Signed Up To The Principles For Responsible Institutional Investors As Of September 30, 2024](http://www.mondovisione.com/media-and-resources/news/japan-financial-services-agency-stewardship-code-330-institutional-investors/)
+append_entries: 2
+Finish: 2024-11-11 06:29:12.425854
