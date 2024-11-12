@@ -1331,3 +1331,25 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Bitcoin Approaches USD 100,000 Milestone Boosted by Trump's Election](http://www.mondovisione.com/media-and-resources/news/bitcoin-approaches-usd-100000-milestone-boosted-by-trumps-election/)
 append_entries: 4
 Finish: 2024-11-12 18:27:38.623539
+------------------------------------------------------
+Started: 2024-11-12 20:21:42.143356
+Existing_entries: 181
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [CFTC Awards $4M To Two Whistleblowers](http://www.mondovisione.com/media-and-resources/news/cftc-awards-4m-to-two-whistleblowers/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [ESMA Publishes Latest Edition Of Its Newsletter](http://www.mondovisione.com/media-and-resources/news/esma-publishes-latest-edition-of-its-newsletter-34/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [New Rules To Strengthen Resilience Of UK’s Financial Sector](http://www.mondovisione.com/media-and-resources/news/new-rules-to-strengthen-resilience-of-uks-financial-sector/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Exchange Of Letters Between The Governor Of The Bank Of England And The UK Chancellor On The Asset Purchase Facility - November 2024](http://www.mondovisione.com/media-and-resources/news/exchange-of-letters-between-the-governor-of-the-bank-of-england-and-the-uk-chanc-10/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Tel Aviv Stock Exchange: Dimri Construction & Development Opens Trading In Celebration Of Its Joining – TA-35](http://www.mondovisione.com/media-and-resources/news/tel-aviv-stock-exchange-dimri-construction-and-development-opens-trading-in-celeb/)
+Append: [BME Welcomes Inmocemento](http://www.mondovisione.com/media-and-resources/news/bme-welcomes-inmocemento/)
+append_entries: 6
+Finish: 2024-11-12 20:22:13.056591
