@@ -1313,3 +1313,21 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [TRG Screen Strengthens C-Suite And Opens Global Capacity Center As Part Of Client-Focused Growth Strategy - New Bangalore Hub And Leadership Appointments Enable Strategic Evolution And Enhanced Client Service](http://www.mondovisione.com/media-and-resources/news/trg-screen-strengthens-c-suite-and-opens-global-capacity-center-as-part-of-clien/)
 append_entries: 2
 Finish: 2024-11-12 16:26:42.306126
+------------------------------------------------------
+Started: 2024-11-12 18:27:14.760194
+Existing_entries: 177
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Singapore-Based TransferTo And Pan-African Ecobank Group Forge Strategic Partnership To Expand Financial Access And Cross-Border Payments Across Africa](http://www.mondovisione.com/media-and-resources/news/singapore-based-transferto-and-pan-african-ecobank-group-forge-strategic-partner/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Liquidnet Releases New Liquidity-Seeking Algorithm - SmartDark Features Prioritized Routing To Venues With Larger Executions Sizes And Better Price Stability](http://www.mondovisione.com/media-and-resources/news/liquidnet-releases-new-liquidity-seeking-algorithm-smartdark-features-prioriti/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Memorandum Of Understanding Between The Bank Of England, UK Financial Conduct Authority And UK Prudential Regulatory Authority](http://www.mondovisione.com/media-and-resources/news/memorandum-of-understanding-between-the-bank-of-england-uk-financial-conduct-au/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Bitcoin Approaches USD 100,000 Milestone Boosted by Trump's Election](http://www.mondovisione.com/media-and-resources/news/bitcoin-approaches-usd-100000-milestone-boosted-by-trumps-election/)
+append_entries: 4
+Finish: 2024-11-12 18:27:38.623539
