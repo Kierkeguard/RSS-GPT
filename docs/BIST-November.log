@@ -1286,3 +1286,18 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [FOW Launches FOW Professional  Single Solution For Futures And Options Reference Data And Market Insights](http://www.mondovisione.com/media-and-resources/news/fow-launches-fow-professional-single-solution-for-futures-and-options-reference/)
 append_entries: 4
 Finish: 2024-11-12 12:40:49.964279
+------------------------------------------------------
+Started: 2024-11-12 14:19:18.317346
+Existing_entries: 172
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Wilshire Indexes Appoints Brian Rosenberg As President And Chief Revenue Officer](http://www.mondovisione.com/media-and-resources/news/wilshire-indexes-appoints-brian-rosenberg-as-president-and-chief-revenue-officer/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [FSB Reports On Progress Towards Globally Consistent And Comparable Climate-Related Disclosures](http://www.mondovisione.com/media-and-resources/news/fsb-reports-on-progress-towards-globally-consistent-and-comparable-climate-relat/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Europex – Association of European Energy Exchanges: Assessment Of Potential Impacts Of Regional Virtual Hubs On The Forward Markets](http://www.mondovisione.com/media-and-resources/news/europex-association-of-european-energy-exchanges-assessment-of-potential-impa/)
+append_entries: 3
+Finish: 2024-11-12 14:19:38.308213
