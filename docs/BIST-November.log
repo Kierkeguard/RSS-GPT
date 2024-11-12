@@ -1353,3 +1353,26 @@ Append: [Tel Aviv Stock Exchange: Dimri Construction & Development Opens Trading
 Append: [BME Welcomes Inmocemento](http://www.mondovisione.com/media-and-resources/news/bme-welcomes-inmocemento/)
 append_entries: 6
 Finish: 2024-11-12 20:22:13.056591
+------------------------------------------------------
+Started: 2024-11-12 22:18:42.120636
+Existing_entries: 187
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Federal Reserve: Senior Loan Officer Opinion Survey On Bank Lending Practices](http://www.mondovisione.com/media-and-resources/news/federal-reserve-senior-loan-officer-opinion-survey-on-bank-lending-practices-10/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [IOSCO Issues Statement Of Support On The IAASB’s International Standard On Sustainability Assurance (ISSA) 5000](http://www.mondovisione.com/media-and-resources/news/iosco-issues-statement-of-support-on-the-iaasbs-international-standard-on-susta/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Canadian Securities Administrators Encourages Canadians To Have The “Money Talk” To Prevent Financial Abuse](http://www.mondovisione.com/media-and-resources/news/canadian-securities-administrators-encourages-canadians-to-have-the-money-talk/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [BIS Board Chair Re-Elected And New Chair Of BIS Consultative Council Of The Americas Appointed](http://www.mondovisione.com/media-and-resources/news/bis-board-chair-re-elected-and-new-chair-of-bis-consultative-council-of-the-amer/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [The EBA Consults On Guidelines On Proportionate Retail Diversification Methods](http://www.mondovisione.com/media-and-resources/news/the-eba-consults-on-guidelines-on-proportionate-retail-diversification-methods/)
+Append: [What Roles Should The Private Sector And The Federal Reserve Play In Payments?, Federal Reserve Governor Christopher J. Waller, At The Clearing House Annual Conference 2024, New York, New York](http://www.mondovisione.com/media-and-resources/news/what-roles-should-the-private-sector-and-the-federal-reserve-play-in-payments/)
+Append: [The EBA Publishes Methodology, Draft Templates, And Key Milestones For Its 2025 EU-Wide Stress Test](http://www.mondovisione.com/media-and-resources/news/the-eba-publishes-methodology-draft-templates-and-key-milestones-for-its-2025/)
+append_entries: 7
+Finish: 2024-11-12 22:19:12.644043
