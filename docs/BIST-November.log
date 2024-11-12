@@ -1259,3 +1259,12 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Tehran Securities Exchange Weekly Market Snapshot, 6 Nov 2024](http://www.mondovisione.com/media-and-resources/news/tehran-securities-exchange-weekly-market-snapshot-6-nov-2024/)
 append_entries: 2
 Finish: 2024-11-12 08:26:22.982309
+------------------------------------------------------
+Started: 2024-11-12 10:21:26.204369
+Existing_entries: 167
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Governments Must Eliminate Financial Transactions Taxes To Unlock Investment And Reduce Volatility, Says The WFE](http://www.mondovisione.com/media-and-resources/news/governments-must-eliminate-financial-transactions-taxes-to-unlock-investment-and/)
+append_entries: 1
+Finish: 2024-11-12 10:21:32.763531
