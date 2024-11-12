@@ -1301,3 +1301,15 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Europex – Association of European Energy Exchanges: Assessment Of Potential Impacts Of Regional Virtual Hubs On The Forward Markets](http://www.mondovisione.com/media-and-resources/news/europex-association-of-european-energy-exchanges-assessment-of-potential-impa/)
 append_entries: 3
 Finish: 2024-11-12 14:19:38.308213
+------------------------------------------------------
+Started: 2024-11-12 16:26:29.870440
+Existing_entries: 175
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [LSEG Launches New Palm Oil Tanker Freight Assessment To Drive Transparency In Sustainable Fuel Trade](http://www.mondovisione.com/media-and-resources/news/lseg-launches-new-palm-oil-tanker-freight-assessment-to-drive-transparency-in-su/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [TRG Screen Strengthens C-Suite And Opens Global Capacity Center As Part Of Client-Focused Growth Strategy - New Bangalore Hub And Leadership Appointments Enable Strategic Evolution And Enhanced Client Service](http://www.mondovisione.com/media-and-resources/news/trg-screen-strengthens-c-suite-and-opens-global-capacity-center-as-part-of-clien/)
+append_entries: 2
+Finish: 2024-11-12 16:26:42.306126
