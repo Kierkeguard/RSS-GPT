@@ -1268,3 +1268,21 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Governments Must Eliminate Financial Transactions Taxes To Unlock Investment And Reduce Volatility, Says The WFE](http://www.mondovisione.com/media-and-resources/news/governments-must-eliminate-financial-transactions-taxes-to-unlock-investment-and/)
 append_entries: 1
 Finish: 2024-11-12 10:21:32.763531
+------------------------------------------------------
+Started: 2024-11-12 12:40:25.164234
+Existing_entries: 168
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [GLEIF Welcomes BOCOM Fintech As Latest Validation Agent, Signaling Increasing LEI Adoption Across APAC  - BOCOM Fintech Will Explore Innovative LEI And VLEI Applications In Trade Finance And E-Commerce To Enhance Cross-Border Identification And Authentication Capabilities For Chinese Enterprises](http://www.mondovisione.com/media-and-resources/news/gleif-welcomes-bocom-fintech-as-latest-validation-agent-signaling-increasing-le/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [ACER To Decide On Amending The Electricity Single Intraday Coupling Products Methodology](http://www.mondovisione.com/media-and-resources/news/acer-to-decide-on-amending-the-electricity-single-intraday-coupling-products-met/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Formycon AG New In The Prime Standard Of The Frankfurt Stock Exchange](http://www.mondovisione.com/media-and-resources/news/formycon-ag-new-in-the-prime-standard-of-the-frankfurt-stock-exchange/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [FOW Launches FOW Professional  Single Solution For Futures And Options Reference Data And Market Insights](http://www.mondovisione.com/media-and-resources/news/fow-launches-fow-professional-single-solution-for-futures-and-options-reference/)
+append_entries: 4
+Finish: 2024-11-12 12:40:49.964279
