@@ -1496,3 +1496,21 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Miami International Holdings Participates In The 2024 Ring The Bell For Climate Initiative Aligned With COP29](http://www.mondovisione.com/media-and-resources/news/miami-international-holdings-participates-in-the-2024-ring-the-bell-for-climate/)
 append_entries: 5
 Finish: 2024-11-13 18:28:15.382111
+------------------------------------------------------
+Started: 2024-11-13 20:21:40.796403
+Existing_entries: 216
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [SIFMA And EY Publish U.S. Treasury Clearing Compliance Considerations Report To Guide Industry Transition To Central Clearing](http://www.mondovisione.com/media-and-resources/news/sifma-and-ey-publish-us-treasury-clearing-compliance-considerations-report-to/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Office Of The Comptroller Of The Currency Announces Two New Deputy Comptrollers For Large Bank Supervision](http://www.mondovisione.com/media-and-resources/news/office-of-the-comptroller-of-the-currency-announces-two-new-deputy-comptrollers/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [The EBA Updates List Of Third-Country Groups And Branches Operating In The European Union And The European Economic Area](http://www.mondovisione.com/media-and-resources/news/the-eba-updates-list-of-third-country-groups-and-branches-operating-in-the-europ/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [BME To Bring Together More Than 40 Companies With Near 60 Investors At The 26th Edition Of The Latibex Forum](http://www.mondovisione.com/media-and-resources/news/bme-to-bring-together-more-than-40-companies-with-near-60-investors-at-the-26th/)
+append_entries: 4
+Finish: 2024-11-13 20:22:06.766162
