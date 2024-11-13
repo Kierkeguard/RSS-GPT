@@ -1415,3 +1415,12 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [ISDA derivatiViews: Finding Contractual Provisions In Stressed Markets](http://www.mondovisione.com/media-and-resources/news/isda-derivativiews-finding-contractual-provisions-in-stressed-markets/)
 append_entries: 3
 Finish: 2024-11-13 08:27:11.941344
+------------------------------------------------------
+Started: 2024-11-13 10:21:27.931911
+Existing_entries: 197
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [UK Financial Conduct Authority To Consult On Extending The Time Motor Finance Firms Have To Handle Commission Complaints](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-to-consult-on-extending-the-time-motor-finance-fi/)
+append_entries: 1
+Finish: 2024-11-13 10:21:34.733636
