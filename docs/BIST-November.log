@@ -1448,3 +1448,12 @@ Append: [Scientific Portfolio Launches New Platform Empowering Investors To Inde
 Append: [IOSCO Publishes Report On Transition Plans Disclosures - Report Explores How The Related Disclosures Can Support Investor Protection And Market Integrity Objectives And Sets Out Future Considerations For Key Stakeholders](http://www.mondovisione.com/media-and-resources/news/iosco-publishes-report-on-transition-plans-disclosures-report-explores-how-the/)
 append_entries: 8
 Finish: 2024-11-13 12:40:36.909296
+------------------------------------------------------
+Started: 2024-11-13 14:19:10.040856
+Existing_entries: 206
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [HKEX: Severe Weather Trading Arrangements](http://www.mondovisione.com/media-and-resources/news/hkex-severe-weather-trading-arrangements/)
+append_entries: 1
+Finish: 2024-11-13 14:19:17.250800
