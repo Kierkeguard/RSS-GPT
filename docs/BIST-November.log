@@ -1457,3 +1457,21 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [HKEX: Severe Weather Trading Arrangements](http://www.mondovisione.com/media-and-resources/news/hkex-severe-weather-trading-arrangements/)
 append_entries: 1
 Finish: 2024-11-13 14:19:17.250800
+------------------------------------------------------
+Started: 2024-11-13 16:25:04.130346
+Existing_entries: 207
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [FIA Announces 2025 Hall Of Fame Inductees](http://www.mondovisione.com/media-and-resources/news/fia-announces-2025-hall-of-fame-inductees/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [DTCC’s FICC Enhances VaR Calculator Capabilities, As Firms Prepare For The U.S. Treasury Clearing Requirements - New Cross Margining And Repo Calculator Functionalities Will Enhance Users’ Understanding Of Risk Management And Margin Requirements](http://www.mondovisione.com/media-and-resources/news/dtccs-ficc-enhances-var-calculator-capabilities-as-firms-prepare-for-the-us/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Deutsche Börse Group: Business Indicators For October 2024](http://www.mondovisione.com/media-and-resources/news/deutsche-brse-group-business-indicators-for-october-2024/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Euroclear And Transcend Work On Joint Collateral Optimisation Service](http://www.mondovisione.com/media-and-resources/news/euroclear-and-transcend-work-on-joint-collateral-optimisation-service/)
+append_entries: 4
+Finish: 2024-11-13 16:25:30.199689
