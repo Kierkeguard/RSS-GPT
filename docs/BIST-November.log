@@ -1514,3 +1514,15 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [BME To Bring Together More Than 40 Companies With Near 60 Investors At The 26th Edition Of The Latibex Forum](http://www.mondovisione.com/media-and-resources/news/bme-to-bring-together-more-than-40-companies-with-near-60-investors-at-the-26th/)
 append_entries: 4
 Finish: 2024-11-13 20:22:06.766162
+------------------------------------------------------
+Started: 2024-11-13 22:19:22.047544
+Existing_entries: 220
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Federal Reserve Board Invites Comment On A Report, As Prescribed By Law, That Discusses The Impact Of A Proposed International Capital Standard](http://www.mondovisione.com/media-and-resources/news/federal-reserve-board-invites-comment-on-a-report-as-prescribed-by-law-that-di/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Generally Soliciting Comments Without Checking Accreditation: Remarks Before The Small Business Capital Formation Advisory Committee, SEC Commissioner Hester M. Peirce, Washington D.C., Nov. 13, 2024](http://www.mondovisione.com/media-and-resources/news/generally-soliciting-comments-without-checking-accreditation-remarks-before-the/)
+append_entries: 2
+Finish: 2024-11-13 22:19:35.249942
