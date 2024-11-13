@@ -1400,3 +1400,18 @@ Existing_entries: 194
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2024-11-13 06:28:46.353031
+------------------------------------------------------
+Started: 2024-11-13 08:26:54.422098
+Existing_entries: 194
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Supporting Confidence In Our Credit System Through Good Consumer Outcomes, Address By ASIC Deputy Chair Sarah Court At The Australian Financial Security Authority Summit, 13 November 2024](http://www.mondovisione.com/media-and-resources/news/supporting-confidence-in-our-credit-system-through-good-consumer-outcomes-addre/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Singapore FinTech Festival 2024 Attracts 65,000 Participants](http://www.mondovisione.com/media-and-resources/news/singapore-fintech-festival-2024-attracts-65000-participants/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [ISDA derivatiViews: Finding Contractual Provisions In Stressed Markets](http://www.mondovisione.com/media-and-resources/news/isda-derivativiews-finding-contractual-provisions-in-stressed-markets/)
+append_entries: 3
+Finish: 2024-11-13 08:27:11.941344
