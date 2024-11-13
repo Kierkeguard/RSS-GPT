@@ -1424,3 +1424,27 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [UK Financial Conduct Authority To Consult On Extending The Time Motor Finance Firms Have To Handle Commission Complaints](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-to-consult-on-extending-the-time-motor-finance-fi/)
 append_entries: 1
 Finish: 2024-11-13 10:21:34.733636
+------------------------------------------------------
+Started: 2024-11-13 12:40:07.293362
+Existing_entries: 198
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [ETFGI Reports Global ETFs Industry Gathered 1.45 Trillion US Dollars In Net Inflows In First 10 Months Of 2024 Beating Prior Full Year Record](http://www.mondovisione.com/media-and-resources/news/etfgi-reports-global-etfs-industry-gathered-145-trillion-us-dollars-in-net-infl/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [SSImple Secures Funding To Fuel Growth And Appoints Keith Tippell As Chief Commercial Officer](http://www.mondovisione.com/media-and-resources/news/ssimple-secures-funding-to-fuel-growth-and-appoints-keith-tippell-as-chief-comme/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Quincy Data Announces Sub-Nanosecond Time Synchronization Service](http://www.mondovisione.com/media-and-resources/news/quincy-data-announces-sub-nanosecond-time-synchronization-service/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Ghana Moves Forward With Digital Carbon Market ITMO Trading Into Singapore - Ghana’s Article 6.2 ITMO Projects Lead the Way, Supported By ZERO13 The World’s First Blockchain-Enabled Digital ITMO Trading Hub And Settlement Network](http://www.mondovisione.com/media-and-resources/news/ghana-moves-forward-with-digital-carbon-market-itmo-trading-into-singapore-gha/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Comment By Douglas Grant, Group CEO Of Manx Financial Group, On Introduction Of Private Stock Market, PISCES, Presenting A Threat To AIM](http://www.mondovisione.com/media-and-resources/news/comment-by-douglas-grant-group-ceo-of-manx-financial-group-on-introduction-of/)
+Append: [FSB - The Importance Of Resolution Planning And Loss-Absorbing Capacity For Banks Systemic In Failure: Public Statement](http://www.mondovisione.com/media-and-resources/news/fsb-the-importance-of-resolution-planning-and-loss-absorbing-capacity-for-bank/)
+Append: [Scientific Portfolio Launches New Platform Empowering Investors To Independently Analyse The ESG Characteristics Of Equity Portfolios And Their Risk Consequences](http://www.mondovisione.com/media-and-resources/news/scientific-portfolio-launches-new-platform-empowering-investors-to-independently/)
+Append: [IOSCO Publishes Report On Transition Plans Disclosures - Report Explores How The Related Disclosures Can Support Investor Protection And Market Integrity Objectives And Sets Out Future Considerations For Key Stakeholders](http://www.mondovisione.com/media-and-resources/news/iosco-publishes-report-on-transition-plans-disclosures-report-explores-how-the/)
+append_entries: 8
+Finish: 2024-11-13 12:40:36.909296
