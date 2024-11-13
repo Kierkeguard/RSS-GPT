@@ -1475,3 +1475,24 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Euroclear And Transcend Work On Joint Collateral Optimisation Service](http://www.mondovisione.com/media-and-resources/news/euroclear-and-transcend-work-on-joint-collateral-optimisation-service/)
 append_entries: 4
 Finish: 2024-11-13 16:25:30.199689
+------------------------------------------------------
+Started: 2024-11-13 18:27:42.994093
+Existing_entries: 211
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Remarks To The Small Business Capital Formation Advisory Committee, SEC Commissioner Mark T. Uyeda, Washington D.C., Nov. 13, 2024](http://www.mondovisione.com/media-and-resources/news/remarks-to-the-small-business-capital-formation-advisory-committee-sec-commissi-10/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Finansinspektionen: Amal Express Shall Pay An Administrative Fine](http://www.mondovisione.com/media-and-resources/news/finansinspektionen-amal-express-shall-pay-an-administrative-fine/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Broadridge Appoints Alix Jules As AI Transformation Leader](http://www.mondovisione.com/media-and-resources/news/broadridge-appoints-alix-jules-as-ai-transformation-leader/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Prepared Remarks Before The Small Business Capital Formation Advisory Committee, SEC Chair Gary Gensler, Washington D.C., Nov. 13, 2024](http://www.mondovisione.com/media-and-resources/news/prepared-remarks-before-the-small-business-capital-formation-advisory-committee-9/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Miami International Holdings Participates In The 2024 Ring The Bell For Climate Initiative Aligned With COP29](http://www.mondovisione.com/media-and-resources/news/miami-international-holdings-participates-in-the-2024-ring-the-bell-for-climate/)
+append_entries: 5
+Finish: 2024-11-13 18:28:15.382111
