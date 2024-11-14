@@ -1663,3 +1663,26 @@ Append: [Growth − Speech By Andrew Bailey, Governor, Bank Of England, Given At
 Append: [ESMA Is Collecting Data On Costs Linked To Investments In AIFs And UCITS](http://www.mondovisione.com/media-and-resources/news/esma-is-collecting-data-on-costs-linked-to-investments-in-aifs-and-ucits/)
 append_entries: 7
 Finish: 2024-11-14 20:23:15.884113
+------------------------------------------------------
+Started: 2024-11-14 22:19:57.555067
+Existing_entries: 247
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [US Treasury Releases Report On Macroeconomic And Foreign Exchange Policies Of Major Trading Partners Of The United States](http://www.mondovisione.com/media-and-resources/news/us-treasury-releases-report-on-macroeconomic-and-foreign-exchange-policies-of-ma-6/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Europe Trip Takeaways And The Development Of Consolidated Tape, By Kelvin To, Founder And President Of Data Boiler Technologies](http://www.mondovisione.com/media-and-resources/news/europe-trip-takeaways-and-the-development-of-consolidated-tape-by-kelvin-to-fo/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [CFTC Chairman Behnam To Participate In A Fireside Chat At Georgetown University](http://www.mondovisione.com/media-and-resources/news/cftc-chairman-behnam-to-participate-in-a-fireside-chat-at-georgetown-university/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [CFTC Chairman Behnam To Give A Keynote Address And Fireside Chat At FIA’s Futures & Options Expo](http://www.mondovisione.com/media-and-resources/news/cftc-chairman-behnam-to-give-a-keynote-address-and-fireside-chat-at-fias-future/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Economic Outlook, Federal Reserve Chair Jerome H. Powell: At Conversation With Federal Reserve Chair Jerome Powell, Dallas, Texas](http://www.mondovisione.com/media-and-resources/news/economic-outlook-federal-reserve-chair-jerome-h-powell-at-conversation-with-f/)
+Append: [CCP Global - The Global Association of Central Counterparties - Welcomes Abaxx Commodity Futures Exchange And Clearinghouse As A CCP Global Observer Member.](http://www.mondovisione.com/media-and-resources/news/ccp-global-the-global-association-of-central-counterparties-welcomes-abaxx-c/)
+Append: [CCP Global - The Global Association Of Central Counterparties = Welcomes SIX As A CCP Global Observer Member](http://www.mondovisione.com/media-and-resources/news/ccp-global-the-global-association-of-central-counterparties-welcomes-six-as/)
+append_entries: 7
+Finish: 2024-11-14 22:20:29.589536
