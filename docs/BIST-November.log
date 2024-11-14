@@ -1640,3 +1640,26 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Amman Stock Exchange: Scientific Symposium Entitled "Governance And Sustainability" At Yarmouk University](http://www.mondovisione.com/media-and-resources/news/amman-stock-exchange-scientific-symposium-entitled-governance-and-sustainabili/)
 append_entries: 5
 Finish: 2024-11-14 18:29:30.726700
+------------------------------------------------------
+Started: 2024-11-14 20:22:45.829731
+Existing_entries: 240
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [CFTC Commissioner Pham To Speak At FIA Expo 2024](http://www.mondovisione.com/media-and-resources/news/cftc-commissioner-pham-to-speak-at-fia-expo-2024/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Customer Alert Regarding CFTC v. Traders Domain FX Ltd](http://www.mondovisione.com/media-and-resources/news/customer-alert-regarding-cftc-v-traders-domain-fx-ltd/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [SIFMA Fixed Income Market Close Recommendations In The U.S., The U.K., And Japan For Thanksgiving Day](http://www.mondovisione.com/media-and-resources/news/sifma-fixed-income-market-close-recommendations-in-the-us-the-uk-and-japan-45/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [The EBA Issues An Opinion In Response To The European Commission's Proposed Amendments To The EBA Final Draft Technical Standards On Supervisory Reporting And Pillar 3 Disclosures](http://www.mondovisione.com/media-and-resources/news/the-eba-issues-an-opinion-in-response-to-the-european-commissions-proposed-amen/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Canadian Securities Regulators Issue Guidance Regarding Disruption Of Mail Service](http://www.mondovisione.com/media-and-resources/news/canadian-securities-regulators-issue-guidance-regarding-disruption-of-mail-servi/)
+Append: [Growth − Speech By Andrew Bailey, Governor, Bank Of England, Given At The Mansion House Financial And Professional Services Dinner](http://www.mondovisione.com/media-and-resources/news/growth-speech-by-andrew-bailey-governor-bank-of-england-given-at-the-mansio/)
+Append: [ESMA Is Collecting Data On Costs Linked To Investments In AIFs And UCITS](http://www.mondovisione.com/media-and-resources/news/esma-is-collecting-data-on-costs-linked-to-investments-in-aifs-and-ucits/)
+append_entries: 7
+Finish: 2024-11-14 20:23:15.884113
