@@ -1610,3 +1610,12 @@ Existing_entries: 234
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2024-11-14 14:19:25.101575
+------------------------------------------------------
+Started: 2024-11-14 16:26:50.311240
+Existing_entries: 234
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [LME Clear Proposes Measures To Further Bolster Market Resilience](http://www.mondovisione.com/media-and-resources/news/lme-clear-proposes-measures-to-further-bolster-market-resilience/)
+append_entries: 1
+Finish: 2024-11-14 16:26:57.651124
