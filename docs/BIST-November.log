@@ -1619,3 +1619,24 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [LME Clear Proposes Measures To Further Bolster Market Resilience](http://www.mondovisione.com/media-and-resources/news/lme-clear-proposes-measures-to-further-bolster-market-resilience/)
 append_entries: 1
 Finish: 2024-11-14 16:26:57.651124
+------------------------------------------------------
+Started: 2024-11-14 18:28:58.553385
+Existing_entries: 235
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [UK Chancellor Fires Up Financial Services Sector To Drive Growth - Chancellor To Announce Package Of Reforms To Ensure The UK’s Status As A Global Powerhouse For Financial Services In Her First Mansion House Speech](http://www.mondovisione.com/media-and-resources/news/uk-chancellor-fires-up-financial-services-sector-to-drive-growth-chancellor-to/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [CFTC Commissioner Mersinger To Participate On A Panel At Catholic Law On Capitol Hill: The Future Of Banking](http://www.mondovisione.com/media-and-resources/news/cftc-commissioner-mersinger-to-participate-on-a-panel-at-catholic-law-on-capitol/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Moscow Exchange: Updated Constituents List For OFZ Zero Coupon Yield Curve To Come Into Force On 15 November 2024](http://www.mondovisione.com/media-and-resources/news/moscow-exchange-updated-constituents-list-for-ofz-zero-coupon-yield-curve-to-c-2/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Cyprus Stock Exchange Monthly Bulletin October 2024](http://www.mondovisione.com/media-and-resources/news/cyprus-stock-exchange-monthly-bulletin-october-2024/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Amman Stock Exchange: Scientific Symposium Entitled "Governance And Sustainability" At Yarmouk University](http://www.mondovisione.com/media-and-resources/news/amman-stock-exchange-scientific-symposium-entitled-governance-and-sustainabili/)
+append_entries: 5
+Finish: 2024-11-14 18:29:30.726700
