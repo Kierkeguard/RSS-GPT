@@ -1565,3 +1565,15 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [HKEX Severe Weather Trading Arrangements](http://www.mondovisione.com/media-and-resources/news/hkex-severe-weather-trading-arrangements-1/)
 append_entries: 5
 Finish: 2024-11-14 06:30:37.768938
+------------------------------------------------------
+Started: 2024-11-14 08:26:55.943139
+Existing_entries: 227
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Singapore’s Cyber Security Agency Award Veracity Trust Network S$1 Million Grant To Develop And Deliver AI-Powered Bot Detection - Veracity Trust Network Will Collaborate With The Cybersecurity Agency Of Singapore And A Global eCommerce Giant In The Fight Against Cyber Crime](http://www.mondovisione.com/media-and-resources/news/singapores-cyber-security-agency-award-veracity-trust-network-s1-million-grant/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [ASIC Annual Forum 2024: Bridging Generations – Regulating For All Australians - Keynote Opening Address By ASIC Chair Joe Longo At The ASIC Annual Forum, 14 November 2024](http://www.mondovisione.com/media-and-resources/news/asic-annual-forum-2024-bridging-generations-regulating-for-all-australians/)
+append_entries: 2
+Finish: 2024-11-14 08:27:09.824738
