@@ -1544,3 +1544,24 @@ Existing_entries: 222
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2024-11-14 04:25:30.520429
+------------------------------------------------------
+Started: 2024-11-14 06:29:25.920989
+Existing_entries: 222
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Qatar Stock Exchange Concludes Investment Campaign In New York To Showcase Qatari Listed Companies](http://www.mondovisione.com/media-and-resources/news/qatar-stock-exchange-concludes-investment-campaign-in-new-york-to-showcase-qatar-1/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [ASIC Annual Forum 2024: Enforcement Session Opening Remarks - Enforcement Session Opening Speech By ASIC Deputy Chair Sarah Court At The ASIC Annual Forum, 14 November 2024](http://www.mondovisione.com/media-and-resources/news/asic-annual-forum-2024-enforcement-session-opening-remarks-enforcement-sessio/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [ASX Announces Appointment Of Interim Chief Risk Officer](http://www.mondovisione.com/media-and-resources/news/asx-announces-appointment-of-interim-chief-risk-officer/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [ASIC Announces New Enforcement Priorities With A Focus On Cost Of Living Pressures](http://www.mondovisione.com/media-and-resources/news/asic-announces-new-enforcement-priorities-with-a-focus-on-cost-of-living-pressur/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [HKEX Severe Weather Trading Arrangements](http://www.mondovisione.com/media-and-resources/news/hkex-severe-weather-trading-arrangements-1/)
+append_entries: 5
+Finish: 2024-11-14 06:30:37.768938
