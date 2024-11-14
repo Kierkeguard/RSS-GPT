@@ -1586,3 +1586,21 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [ACER’s Report On EU Electricity Wholesale Market Integration Shows Progress But Challenges Persist](http://www.mondovisione.com/media-and-resources/news/acers-report-on-eu-electricity-wholesale-market-integration-shows-progress-but/)
 append_entries: 1
 Finish: 2024-11-14 10:22:17.632042
+------------------------------------------------------
+Started: 2024-11-14 12:41:20.352985
+Existing_entries: 230
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Private Equities Market Achieves 0.72% Return In September 2024](http://www.mondovisione.com/media-and-resources/news/private-equities-market-achieves-072-return-in-september-2024/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [IOSCO Publishes Its Final Report On Promoting Financial Integrity And Orderly Functioning Of Voluntary Carbon Markets (VCMs)](http://www.mondovisione.com/media-and-resources/news/iosco-publishes-its-final-report-on-promoting-financial-integrity-and-orderly-fu/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [FSB Assesses The Financial Stability Implications Of Artificial Intelligence](http://www.mondovisione.com/media-and-resources/news/fsb-assesses-the-financial-stability-implications-of-artificial-intelligence/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [HKEX Completes First Severe Weather Trading Day](http://www.mondovisione.com/media-and-resources/news/hkex-completes-first-severe-weather-trading-day/)
+append_entries: 4
+Finish: 2024-11-14 12:41:43.814011
