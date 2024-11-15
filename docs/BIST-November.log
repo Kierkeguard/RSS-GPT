@@ -1792,3 +1792,28 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [CFFEX: Notice On Delivery Of Equity Index Futures And Options Contracts](http://www.mondovisione.com/media-and-resources/news/cffex-notice-on-delivery-of-equity-index-futures-and-options-contracts-49/)
 append_entries: 4
 Finish: 2024-11-15 18:29:24.469311
+------------------------------------------------------
+Started: 2024-11-15 20:22:41.523603
+Existing_entries: 272
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [FSB Europe Group Discusses Private Credit, Financial And Operational Vulnerabilities And Securitisation](http://www.mondovisione.com/media-and-resources/news/fsb-europe-group-discusses-private-credit-financial-and-operational-vulnerabili/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Nigerian Exchange Weekly Market Report For The Week Ended 15 November 2024](http://www.mondovisione.com/media-and-resources/news/nigerian-exchange-weekly-market-report-for-the-week-ended-15-november-2024/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [UK Financial Conduct Authority Statement On The Chancellor’s Mansion House Speech](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-statement-on-the-chancellors-mansion-house-speec/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [The ESAs Announce Timeline To Collect Information For The Designation Of Critical ICT Third-Party Service Providers Under The Digital Operational Resilience Act](http://www.mondovisione.com/media-and-resources/news/the-esas-announce-timeline-to-collect-information-for-the-designation-of-critica/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [UK Financial Conduct Authority Fines And Bans Craig Buchan And Martin Cooke For Recklessly Breaching Requirements](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-fines-and-bans-craig-buchan-and-martin-cooke-for/)
+Append: [The UK Prudential Regulation Authority Consults On Reforms To The UK Insurance Special Purpose Vehicle Regulatory framework](http://www.mondovisione.com/media-and-resources/news/the-uk-prudential-regulation-authority-consults-on-reforms-to-the-uk-insurance-s/)
+Append: [ACER Recommends Aligning The Estonian Gas Transmission Tariffs With The Network Code’s Requirements](http://www.mondovisione.com/media-and-resources/news/acer-recommends-aligning-the-estonian-gas-transmission-tariffs-with-the-network/)
+Append: [BME Welcomes Cox](http://www.mondovisione.com/media-and-resources/news/bme-welcomes-cox-1/)
+Append: [UK Financial Conduct Authority Welcomes Move To Bring ESG Ratings Providers Into Regulation](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-welcomes-move-to-bring-esg-ratings-providers-into/)
+append_entries: 9
+Finish: 2024-11-15 20:23:13.020623
