@@ -1756,3 +1756,12 @@ Existing_entries: 266
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2024-11-15 12:43:09.923574
+------------------------------------------------------
+Started: 2024-11-15 14:19:44.609126
+Existing_entries: 266
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Recommendations For The Financial Conduct Authority: November 2024 - Letter From The Chancellor Of The Exchequer To The Chief Executive Of The UK Financial Conduct Authority Providing Recommendations For The FCA](http://www.mondovisione.com/media-and-resources/news/recommendations-for-the-financial-conduct-authority-november-2024-letter-from/)
+append_entries: 1
+Finish: 2024-11-15 14:19:52.129089
