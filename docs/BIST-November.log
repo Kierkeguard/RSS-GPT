@@ -1704,3 +1704,12 @@ Existing_entries: 254
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2024-11-15 04:25:59.347055
+------------------------------------------------------
+Started: 2024-11-15 06:32:53.899913
+Existing_entries: 254
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [AuditBoard Survey Finds Misalignment Between Top Risks And Internal Audit Efforts - Key Findings Suggest One In Three Organizations Won’t Be Ready For The Institute Of Internal Auditors’ Global Internal Audit Standards January 2025 Deadline.](http://www.mondovisione.com/media-and-resources/news/auditboard-survey-finds-misalignment-between-top-risks-and-internal-audit-effort/)
+append_entries: 1
+Finish: 2024-11-15 06:33:02.932985
