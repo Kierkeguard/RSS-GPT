@@ -1774,3 +1774,21 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Malawi Stock Exchange Weekly Summary, 15 November 2024](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-15-november-2024/)
 append_entries: 1
 Finish: 2024-11-15 16:26:59.759524
+------------------------------------------------------
+Started: 2024-11-15 18:28:45.271286
+Existing_entries: 268
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Shanghai Gold Exchange: Notice On Release Of Adjustments To The Benchmark Price Market](http://www.mondovisione.com/media-and-resources/news/shanghai-gold-exchange-notice-on-release-of-adjustments-to-the-benchmark-price/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [International Investors: Be Optimistic About China's Capital Market In The Long Term](http://www.mondovisione.com/media-and-resources/news/international-investors-be-optimistic-about-chinas-capital-market-in-the-long/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [CFFEX: Notice On Listing Of New Equity Index Futures And Options Contracts](http://www.mondovisione.com/media-and-resources/news/cffex-notice-on-listing-of-new-equity-index-futures-and-options-contracts-27/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [CFFEX: Notice On Delivery Of Equity Index Futures And Options Contracts](http://www.mondovisione.com/media-and-resources/news/cffex-notice-on-delivery-of-equity-index-futures-and-options-contracts-49/)
+append_entries: 4
+Finish: 2024-11-15 18:29:24.469311
