@@ -1713,3 +1713,28 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [AuditBoard Survey Finds Misalignment Between Top Risks And Internal Audit Efforts - Key Findings Suggest One In Three Organizations Won’t Be Ready For The Institute Of Internal Auditors’ Global Internal Audit Standards January 2025 Deadline.](http://www.mondovisione.com/media-and-resources/news/auditboard-survey-finds-misalignment-between-top-risks-and-internal-audit-effort/)
 append_entries: 1
 Finish: 2024-11-15 06:33:02.932985
+------------------------------------------------------
+Started: 2024-11-15 08:26:53.253382
+Existing_entries: 255
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [HKEX Collaborates With Hang Seng Indexes Company To Launch Hang Seng HKEX Stock Connect China Enterprises Index](http://www.mondovisione.com/media-and-resources/news/hkex-collaborates-with-hang-seng-indexes-company-to-launch-hang-seng-hkex-stock/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [ASX Files Its Defence In The ASIC Proceedings](http://www.mondovisione.com/media-and-resources/news/asx-files-its-defence-in-the-asic-proceedings/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [SGX Securities Welcomes Goodwill Entertainment Holding Limited To Catalist](http://www.mondovisione.com/media-and-resources/news/sgx-securities-welcomes-goodwill-entertainment-holding-limited-to-catalist/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Over 2,200 Shanghai Stock Exchange-Listed Companies Disclose ESG Information: Showing Strong Momentum In Green Transformation](http://www.mondovisione.com/media-and-resources/news/over-2200-shanghai-stock-exchange-listed-companies-disclose-esg-information-sh/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [SGX Securities Welcomes PC Partner Group Limited To Mainboard](http://www.mondovisione.com/media-and-resources/news/sgx-securities-welcomes-pc-partner-group-limited-to-mainboard/)
+Append: [Policy Paper: Next Steps For Reforming The UK Markets In Financial Instruments Directive](http://www.mondovisione.com/media-and-resources/news/policy-paper-next-steps-for-reforming-the-uk-markets-in-financial-instruments-d/)
+Append: [MIAX: Approved Rule Change To Amend FINRA Rule 13606 (Record Of Proceedings) To Provide Customers Access To A Copy Of The Official Record Of An Expungement Hearing](http://www.mondovisione.com/media-and-resources/news/miax-approved-rule-change-to-amend-finra-rule-13606-record-of-proceedings-to/)
+Append: [Consultation Outcome: UK Private Intermittent Securities And Capital Exchange System (PISCES): Consultation](http://www.mondovisione.com/media-and-resources/news/consultation-outcome-uk-private-intermittent-securities-and-capital-exchange-sy/)
+Append: [UK Green Taxonomy](http://www.mondovisione.com/media-and-resources/news/uk-green-taxonomy/)
+append_entries: 9
+Finish: 2024-11-15 08:27:22.110318
