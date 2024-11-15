@@ -1817,3 +1817,21 @@ Append: [BME Welcomes Cox](http://www.mondovisione.com/media-and-resources/news/
 Append: [UK Financial Conduct Authority Welcomes Move To Bring ESG Ratings Providers Into Regulation](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-welcomes-move-to-bring-esg-ratings-providers-into/)
 append_entries: 9
 Finish: 2024-11-15 20:23:13.020623
+------------------------------------------------------
+Started: 2024-11-15 22:21:23.820540
+Existing_entries: 281
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [US Department Of Justice: Operator Of Helix Darknet Cryptocurrency “Mixer” Sentenced In Money Laundering Conspiracy And Ordered To Forfeit Over $400M In Assets](http://www.mondovisione.com/media-and-resources/news/us-department-of-justice-operator-of-helix-darknet-cryptocurrency-mixer-sente/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Remarks At PLI’s 56th Annual Institute On Securities Regulation, Sanjay Wadhwa, Acting Director, SEC Division Of Enforcement, New York, NY, Nov. 15, 2024](http://www.mondovisione.com/media-and-resources/news/remarks-at-plis-56th-annual-institute-on-securities-regulation-sanjay-wadhwa/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [CFTC Commissioner Johnson To Speak At FIA Expo 2024](http://www.mondovisione.com/media-and-resources/news/cftc-commissioner-johnson-to-speak-at-fia-expo-2024/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Master Plan Amendment For BIS Campus Open For Public Review](http://www.mondovisione.com/media-and-resources/news/master-plan-amendment-for-bis-campus-open-for-public-review/)
+append_entries: 4
+Finish: 2024-11-15 22:21:47.741447
