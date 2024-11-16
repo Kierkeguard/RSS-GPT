@@ -1853,3 +1853,15 @@ Existing_entries: 285
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2024-11-16 04:26:51.809177
+------------------------------------------------------
+Started: 2024-11-16 06:28:03.366910
+Existing_entries: 285
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [CFTC Staff Issues An Advisory Related To Clearing Of Options On Spot Commodity Exchange Traded Funds](http://www.mondovisione.com/media-and-resources/news/cftc-staff-issues-an-advisory-related-to-clearing-of-options-on-spot-commodity-e/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Disruption In Regular Mail Service – See What Measures The Autorité des Marchés Financiers Has Put In Place For The Duration Of The Labour Conflict](http://www.mondovisione.com/media-and-resources/news/disruption-in-regular-mail-service-see-what-measures-the-autorit-des-marchs/)
+append_entries: 2
+Finish: 2024-11-16 06:28:16.228110
