@@ -1976,3 +1976,9 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Tehran Securities Exchange Weekly Snapshot, 13 November 2024](http://www.mondovisione.com/media-and-resources/news/tehran-securities-exchange-weekly-snapshot-13-november-2024/)
 append_entries: 1
 Finish: 2024-11-17 18:27:12.835285
+------------------------------------------------------
+Started: 2024-11-17 20:21:11.375872
+Existing_entries: 288
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2024-11-17 20:21:12.336356
