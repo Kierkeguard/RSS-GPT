@@ -2092,3 +2092,18 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Altea Green Power Transfers To Euronext STAR Milan](http://www.mondovisione.com/media-and-resources/news/altea-green-power-transfers-to-euronext-star-milan/)
 append_entries: 5
 Finish: 2024-11-18 18:29:59.802075
+------------------------------------------------------
+Started: 2024-11-18 20:22:26.783364
+Existing_entries: 306
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Embracing Risk: Remarks At The Ethiopian Capital Market Authority Industry Day, SEC Commissioner Hester M. Peirce, Washington D.C., Nov. 18, 2024](http://www.mondovisione.com/media-and-resources/news/embracing-risk-remarks-at-the-ethiopian-capital-market-authority-industry-day/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [IMPLAN Announces Strategic Investment From Charlesbank Capital Partners](http://www.mondovisione.com/media-and-resources/news/implan-announces-strategic-investment-from-charlesbank-capital-partners/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [ISDA - Derivatives Usage And The Buy Side: Asia-Pacific Perspectives](http://www.mondovisione.com/media-and-resources/news/isda-derivatives-usage-and-the-buy-side-asia-pacific-perspectives/)
+append_entries: 3
+Finish: 2024-11-18 20:22:45.374502
