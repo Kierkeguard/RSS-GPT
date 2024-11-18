@@ -2107,3 +2107,15 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [ISDA - Derivatives Usage And The Buy Side: Asia-Pacific Perspectives](http://www.mondovisione.com/media-and-resources/news/isda-derivatives-usage-and-the-buy-side-asia-pacific-perspectives/)
 append_entries: 3
 Finish: 2024-11-18 20:22:45.374502
+------------------------------------------------------
+Started: 2024-11-18 22:20:09.250296
+Existing_entries: 309
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [SEC Charges BIT Mining With FCPA Violations In Connection With Bribery Scheme To Influence Members Of Japanese Parliament - Company, Formerly Known As 500.Com, Sought To Open Casino In Japan](http://www.mondovisione.com/media-and-resources/news/sec-charges-bit-mining-with-fcpa-violations-in-connection-with-bribery-scheme-to/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Treasury International Capital Data For September](http://www.mondovisione.com/media-and-resources/news/treasury-international-capital-data-for-september-10/)
+append_entries: 2
+Finish: 2024-11-18 22:20:21.847631
