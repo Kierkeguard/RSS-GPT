@@ -2045,3 +2045,29 @@ Existing_entries: 291
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2024-11-18 14:20:31.315950
+------------------------------------------------------
+Started: 2024-11-18 16:27:25.305576
+Existing_entries: 291
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Liquidnet Adds Ayesha Rasheed Boulware To The West Coast Team](http://www.mondovisione.com/media-and-resources/news/liquidnet-adds-ayesha-rasheed-boulware-to-the-west-coast-team/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Corporate And Municipal CUSIP Request Volumes Surge In October](http://www.mondovisione.com/media-and-resources/news/corporate-and-municipal-cusip-request-volumes-surge-in-october/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Central European Exchanges Join Forces To Develop Regional Capital Markets](http://www.mondovisione.com/media-and-resources/news/central-european-exchanges-join-forces-to-develop-regional-capital-markets/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Higo Bank Selects DTCC’s ITP Services, Streamlining And Accelerating Post-Trade Processing - Adoption Of DTCC’s Institutional Trade Processing (ITP) Solutions Enables The Firm To Accelerate The Trade Lifecycle, As Jurisdictions Around The World Consider Moving To T+1 Settlement](http://www.mondovisione.com/media-and-resources/news/higo-bank-selects-dtccs-itp-services-streamlining-and-accelerating-post-trade/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [UK Financial Conduct Authority Bans Director Following Grievous Bodily Harm Conviction](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-bans-director-following-grievous-bodily-harm-conv/)
+Append: [CISI Announces Financial Planning Week 2025 As An Opportunity To Give Back](http://www.mondovisione.com/media-and-resources/news/cisi-announces-financial-planning-week-2025-as-an-opportunity-to-give-back/)
+Append: [FSB Chair Calls On G20 Leaders To Implement Agreed Reforms Fully](http://www.mondovisione.com/media-and-resources/news/fsb-chair-calls-on-g20-leaders-to-implement-agreed-reforms-fully/)
+Append: [HKEX Celebrates 10th Anniversary Of Connect Programme](http://www.mondovisione.com/media-and-resources/news/hkex-celebrates-10th-anniversary-of-connect-programme/)
+Append: [Leading Financial Services Firms Choose Broadridge For Corporate Actions And Income Processing - Seamless Integration Across Global Markets And Lines-Of-Business, Enhanced Operational Efficiency Through AI-Driven Automation, And Advanced Risk Management Capabilities](http://www.mondovisione.com/media-and-resources/news/leading-financial-services-firms-choose-broadridge-for-corporate-actions-and-inc/)
+Append: [Quantoz Payments Issues Euro And US Dollar Stablecoins; Receives Backing From Major Crypto-Asset Firms - Quantoz Payments To Receive Investment From Fabric Ventures, Kraken And Tether](http://www.mondovisione.com/media-and-resources/news/quantoz-payments-issues-euro-and-us-dollar-stablecoins-receives-backing-from-ma/)
+append_entries: 10
+Finish: 2024-11-18 16:27:54.214109
