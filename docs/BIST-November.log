@@ -2006,3 +2006,15 @@ Existing_entries: 288
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2024-11-18 04:26:13.273844
+------------------------------------------------------
+Started: 2024-11-18 06:31:29.521172
+Existing_entries: 288
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Bursa Malaysia To Host The 63rd World Federation Of Exchanges (WFE) General Assembly & Annual Meeting In Kuala Lumpur](http://www.mondovisione.com/media-and-resources/news/bursa-malaysia-to-host-the-63rd-world-federation-of-exchanges-wfe-general-ass/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [ASIC Sues NAB For Failing Customers Facing Financial Hardship](http://www.mondovisione.com/media-and-resources/news/asic-sues-nab-for-failing-customers-facing-financial-hardship/)
+append_entries: 2
+Finish: 2024-11-18 06:31:42.250474
