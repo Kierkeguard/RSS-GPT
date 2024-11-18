@@ -2071,3 +2071,24 @@ Append: [Leading Financial Services Firms Choose Broadridge For Corporate Action
 Append: [Quantoz Payments Issues Euro And US Dollar Stablecoins; Receives Backing From Major Crypto-Asset Firms - Quantoz Payments To Receive Investment From Fabric Ventures, Kraken And Tether](http://www.mondovisione.com/media-and-resources/news/quantoz-payments-issues-euro-and-us-dollar-stablecoins-receives-backing-from-ma/)
 append_entries: 10
 Finish: 2024-11-18 16:27:54.214109
+------------------------------------------------------
+Started: 2024-11-18 18:29:27.629286
+Existing_entries: 301
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [CFTC Commissioner Mersinger To Participate In A Fireside Chat At The North American Blockchain Summit](http://www.mondovisione.com/media-and-resources/news/cftc-commissioner-mersinger-to-participate-in-a-fireside-chat-at-the-north-ameri/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [US Treasury Issues Final Regulations To Sharpen And Enhance CFIUS Procedures And Enforcement Authorities To Protect National Security](http://www.mondovisione.com/media-and-resources/news/us-treasury-issues-final-regulations-to-sharpen-and-enhance-cfius-procedures-and/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [CFTC Commissioner Mersinger To Participate On A Panel At FIA Expo](http://www.mondovisione.com/media-and-resources/news/cftc-commissioner-mersinger-to-participate-on-a-panel-at-fia-expo/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [The EBA Appoints New Director To Lead Its Economic & Risk Analysis Department](http://www.mondovisione.com/media-and-resources/news/the-eba-appoints-new-director-to-lead-its-economic-and-risk-analysis-department/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Altea Green Power Transfers To Euronext STAR Milan](http://www.mondovisione.com/media-and-resources/news/altea-green-power-transfers-to-euronext-star-milan/)
+append_entries: 5
+Finish: 2024-11-18 18:29:59.802075
