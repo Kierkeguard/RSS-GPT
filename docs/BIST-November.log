@@ -2119,3 +2119,9 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Treasury International Capital Data For September](http://www.mondovisione.com/media-and-resources/news/treasury-international-capital-data-for-september-10/)
 append_entries: 2
 Finish: 2024-11-18 22:20:21.847631
+------------------------------------------------------
+Started: 2024-11-19 01:44:20.504134
+Existing_entries: 311
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2024-11-19 01:44:43.150074
