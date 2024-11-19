@@ -2192,3 +2192,25 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [CME Group To Launch Mortgage Rate Futures In January 2025 - First Contracts Based On An Optimal Blue Mortgage Market Index](http://www.mondovisione.com/media-and-resources/news/cme-group-to-launch-mortgage-rate-futures-in-january-2025-first-contracts-base/)
 append_entries: 1
 Finish: 2024-11-19 14:22:18.178857
+------------------------------------------------------
+Started: 2024-11-19 16:26:37.027240
+Existing_entries: 320
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [ACER Identifies Need For Higher Consistency In European Gas And Hydrogen Network Plans](http://www.mondovisione.com/media-and-resources/news/acer-identifies-need-for-higher-consistency-in-european-gas-and-hydrogen-network/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Moscow Exchange: Trading Was Suspended On The Derivatives Market](http://www.mondovisione.com/media-and-resources/news/moscow-exchange-trading-was-suspended-on-the-derivatives-market-1/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Trading Technologies To Offer Clients Access To Cboe Equity Index Options - Move Gives TT® Platform Users Access To Rapidly Growing Equity Options Space](http://www.mondovisione.com/media-and-resources/news/trading-technologies-to-offer-clients-access-to-cboe-equity-index-options-move/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Fiserv To Present At Upcoming Investor Conferences](http://www.mondovisione.com/media-and-resources/news/fiserv-to-present-at-upcoming-investor-conferences-5/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [SET Elevates Corporate Governance Excellence Through Landmark SET ESG Professionals Forum 2024, Championing Ethical Leadership For Thailand's Sustainable Future](http://www.mondovisione.com/media-and-resources/news/set-elevates-corporate-governance-excellence-through-landmark-set-esg-profession/)
+Append: [Securities Commission Malaysia And World Federation Of Exchanges Host Inaugural Dialogue To Enhance Collaboration Among Global Securities Regulators And Exchanges](http://www.mondovisione.com/media-and-resources/news/securities-commission-malaysia-and-world-federation-of-exchanges-host-inaugural/)
+append_entries: 6
+Finish: 2024-11-19 16:27:06.190067
