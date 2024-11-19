@@ -2143,3 +2143,25 @@ Existing_entries: 311
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2024-11-19 06:30:10.159114
+------------------------------------------------------
+Started: 2024-11-19 08:27:48.499504
+Existing_entries: 311
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [DataBP Announces Agreement With Miami International Holdings To Optimize Market Data Services](http://www.mondovisione.com/media-and-resources/news/databp-announces-agreement-with-miami-international-holdings-to-optimize-market/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [BMLL Expands Coverage With Addition Of US Equity Options Data](http://www.mondovisione.com/media-and-resources/news/bmll-expands-coverage-with-addition-of-us-equity-options-data/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Temenos Powers On-Premises Generative AI For Real-Time Banking With NVIDIA Accelerated Computing](http://www.mondovisione.com/media-and-resources/news/temenos-powers-on-premises-generative-ai-for-real-time-banking-with-nvidia-accel/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Cboe Conducts First European Retail Investor Survey - Indicates Strong Demand For European Equity Options And Trusted Financial Education](http://www.mondovisione.com/media-and-resources/news/cboe-conducts-first-european-retail-investor-survey-indicates-strong-demand-fo/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [CalPERS Climate Solution Commitments Surpass $53 Billion](http://www.mondovisione.com/media-and-resources/news/calpers-climate-solution-commitments-surpass-53-billion/)
+Append: [Department of Justice: Former CEO Indicted For Role In Bribing Japanese Officials And BIT Mining Ltd. Resolves Foreign Bribery Investigation](http://www.mondovisione.com/media-and-resources/news/department-of-justice-former-ceo-indicted-for-role-ii-bribing-japanese-official/)
+append_entries: 6
+Finish: 2024-11-19 08:28:18.537563
