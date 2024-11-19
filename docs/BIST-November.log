@@ -2220,3 +2220,27 @@ Existing_entries: 326
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2024-11-19 18:29:22.012665
+------------------------------------------------------
+Started: 2024-11-19 20:23:33.893658
+Existing_entries: 326
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Driving Transparency, Innovation, And Compliance: The DDubai Financial Services Authority Hosts Annual Outreach And Releases 2024 Cyber Thematic Review](http://www.mondovisione.com/media-and-resources/news/driving-transparency-innovation-and-compliance-the-ddubai-financial-services/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [MIAX Exchange Group - Options Markets - Market For Underlying Security Used For Openings on MIAX Options, MIAX Pearl Options, MIAX Emerald Options And MIAX Sapphire Options For Newly Listed Symbols Effective Wednesday, November 20, 2024](http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-options-markets-market-for-underlying-security-used-for-20/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Remarks By US Assistant Secretary For International Finance Brent Neiman On The U.S. Cross-Border Payments Agenda](http://www.mondovisione.com/media-and-resources/news/remarks-by-us-assistant-secretary-for-international-finance-brent-neiman-on-the/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Remarks By US Assistant Secretary For Investment Security Paul Rosen At The Third Annual CFIUS Conference](http://www.mondovisione.com/media-and-resources/news/remarks-by-us-assistant-secretary-for-investment-security-paul-rosen-at-the-thir/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [MIAX Exchange Group - Holiday Schedule - Thanksgiving 2024](http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-holiday-schedule-thanksgiving-2024/)
+Append: [Canadian Securities Administrators Proposes Amendments And Changes To Implement An Access Model For Certain Continuous Disclosure Documents Of Non-Investment Fund Reporting Issuers](http://www.mondovisione.com/media-and-resources/news/canadian-securities-administrators-proposes-amendments-and-changes-to-implement/)
+Append: [FTSE Russell Launches The FTSE MIB ESG Risk-Adjusted Index](http://www.mondovisione.com/media-and-resources/news/ftse-russell-launches-the-ftse-mib-esg-risk-adjusted-index/)
+Append: [BME Highlights The Role Of The Stock Exchange In Channelling Investments To And From Latin America At The 26th Latibex Forum](http://www.mondovisione.com/media-and-resources/news/bme-highlights-the-role-of-the-stock-exchange-in-channelling-investments-to-and/)
+append_entries: 8
+Finish: 2024-11-19 20:24:02.477143
