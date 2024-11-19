@@ -2165,3 +2165,15 @@ Append: [CalPERS Climate Solution Commitments Surpass $53 Billion](http://www.mo
 Append: [Department of Justice: Former CEO Indicted For Role In Bribing Japanese Officials And BIT Mining Ltd. Resolves Foreign Bribery Investigation](http://www.mondovisione.com/media-and-resources/news/department-of-justice-former-ceo-indicted-for-role-ii-bribing-japanese-official/)
 append_entries: 6
 Finish: 2024-11-19 08:28:18.537563
+------------------------------------------------------
+Started: 2024-11-19 10:23:27.439819
+Existing_entries: 317
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [ACER’s Hydrogen Monitoring Report Foresees That Europe Is Likely To Miss Its 2030 Renewable Hydrogen Targets](http://www.mondovisione.com/media-and-resources/news/acers-hydrogen-monitoring-report-foresees-that-europe-is-likely-to-miss-its-203/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [DFM Partners With Mbank to Launch IPO Upgrade Program](http://www.mondovisione.com/media-and-resources/news/dfm-partners-with-mbank-to-launch-ipo-upgrade-program/)
+append_entries: 2
+Finish: 2024-11-19 10:23:39.829035
