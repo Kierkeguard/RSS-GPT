@@ -2316,3 +2316,15 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [The World Federation Of Exchanges Elects 7 Board Members](http://www.mondovisione.com/media-and-resources/news/the-world-federation-of-exchanges-elects-7-board-members/)
 append_entries: 4
 Finish: 2024-11-20 10:23:30.993501
+------------------------------------------------------
+Started: 2024-11-20 12:42:13.159139
+Existing_entries: 344
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Rimes: Neal Naidoo Appointed Head Of Investment Platform Solutions  - Brings Two Decades Of Financial Engineering And Data Science Expertise](http://www.mondovisione.com/media-and-resources/news/neal-naidoo-appointed-head-of-investment-platform-solutions-brings-two-decade/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [ICM.com Expands Global Reach With New Seychelles License](http://www.mondovisione.com/media-and-resources/news/icmcom-expands-global-reach-with-new-seychelles-license/)
+append_entries: 2
+Finish: 2024-11-20 12:42:25.874267
