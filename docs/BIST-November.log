@@ -2385,3 +2385,18 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Back To The Future 2: Keeping Inflation Close To The 2% Target − Speech By Dave Ramsden, Bank Of England Deputy Governor, Markets And Banking, Given At Leeds University Business School](http://www.mondovisione.com/media-and-resources/news/back-to-the-future-2-keeping-inflation-close-to-the-2-target-speech-by-dave/)
 append_entries: 5
 Finish: 2024-11-20 20:24:07.305561
+------------------------------------------------------
+Started: 2024-11-20 22:20:23.106529
+Existing_entries: 357
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [SEC Charges Three Senior Executives In Two Actions Alleging Massive Bribery Scheme Involving Indian Energy Companies Adani Green And Azure Power - Adani Green’s Note Offering Raised $175 Million From U.S. Investors While Bribery Scheme Was In Progress](http://www.mondovisione.com/media-and-resources/news/sec-charges-three-senior-executives-in-two-actions-alleging-massive-bribery-sche/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Ontario Securities Commission Seeks Comment On Priorities For 2025-2026](http://www.mondovisione.com/media-and-resources/news/ontario-securities-commission-seeks-comment-on-priorities-for-2025-2026/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Acting US Comptroller Of The Currency Testifies On State Of The Federal Banking System](http://www.mondovisione.com/media-and-resources/news/acting-us-comptroller-of-the-currency-testifies-on-state-of-the-federal-banking/)
+append_entries: 3
+Finish: 2024-11-20 22:20:41.554124
