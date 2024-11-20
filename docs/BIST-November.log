@@ -2298,3 +2298,21 @@ Existing_entries: 340
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2024-11-20 08:28:20.086084
+------------------------------------------------------
+Started: 2024-11-20 10:23:05.296743
+Existing_entries: 340
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Nasdaq Congratulates The Winner Of European Small And Mid-Cap Awards 2024](http://www.mondovisione.com/media-and-resources/news/nasdaq-congratulates-the-winner-of-european-small-and-mid-cap-awards-2024/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [BNP Paribas Asset Management Launches The BNP Paribas Future Forest Fund To Answer Global Demand For Sustainably Managed Timberland Investments](http://www.mondovisione.com/media-and-resources/news/bnp-paribas-asset-management-launches-the-bnp-paribas-future-forest-fund-to-answ/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [FESE: Winners Of The European Small And Mid-Cap Awards 2024 Announced](http://www.mondovisione.com/media-and-resources/news/fese-winners-of-the-european-small-and-mid-cap-awards-2024-announced/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [The World Federation Of Exchanges Elects 7 Board Members](http://www.mondovisione.com/media-and-resources/news/the-world-federation-of-exchanges-elects-7-board-members/)
+append_entries: 4
+Finish: 2024-11-20 10:23:30.993501
