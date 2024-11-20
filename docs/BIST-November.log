@@ -2328,3 +2328,18 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [ICM.com Expands Global Reach With New Seychelles License](http://www.mondovisione.com/media-and-resources/news/icmcom-expands-global-reach-with-new-seychelles-license/)
 append_entries: 2
 Finish: 2024-11-20 12:42:25.874267
+------------------------------------------------------
+Started: 2024-11-20 14:19:46.427677
+Existing_entries: 346
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [The 26th Latibex Forum Ends After 250 Meetings Between 40 Companies And 60 Investors](http://www.mondovisione.com/media-and-resources/news/the-26th-latibex-forum-ends-after-250-meetings-between-40-companies-and-60-inves/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Active Account Requirement - ESMA Is Seeking First Input Under EMIR 3](http://www.mondovisione.com/media-and-resources/news/active-account-requirement-esma-is-seeking-first-input-under-emir-3/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Guest Of Honour Speech By Tan Boon Gin, CEO Of Singapore Exchange Regulation (SGX RegCo), At The REIT Association Of Singapore Annual Conference 2024](http://www.mondovisione.com/media-and-resources/news/guest-of-honour-speech-by-tan-boon-gin-ceo-of-singapore-exchange-regulation-sg/)
+append_entries: 3
+Finish: 2024-11-20 14:20:06.012629
