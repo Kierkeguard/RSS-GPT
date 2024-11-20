@@ -2280,3 +2280,15 @@ Existing_entries: 338
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2024-11-20 04:26:12.896905
+------------------------------------------------------
+Started: 2024-11-20 06:30:32.242920
+Existing_entries: 338
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [End-To-End Accountability: Remarks To Association Of Superannuation Funds Of Australia Conference 2024 - Remarks By ASIC Commissioner Simone Constant At Association Of Superannuation Funds Of Australia Conference 2024 In Sydney On 20 November 2024](http://www.mondovisione.com/media-and-resources/news/end-to-end-accountability-remarks-to-association-of-superannuation-funds-of-aus/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Welcoming Remarks At The “Conversations With Global Investors”, Investment Forum Of The 2024 Global Financial Leaders’ Investment Summit, Ms Julia Leung,  Hong Kong Securities And Futures Commission Chief Executive Officer, 20 November 2024](http://www.mondovisione.com/media-and-resources/news/welcoming-remarks-at-the-conversations-with-global-investors-investment-forum/)
+append_entries: 2
+Finish: 2024-11-20 06:30:45.482715
