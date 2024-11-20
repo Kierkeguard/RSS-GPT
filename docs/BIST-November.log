@@ -2292,3 +2292,9 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Welcoming Remarks At The “Conversations With Global Investors”, Investment Forum Of The 2024 Global Financial Leaders’ Investment Summit, Ms Julia Leung,  Hong Kong Securities And Futures Commission Chief Executive Officer, 20 November 2024](http://www.mondovisione.com/media-and-resources/news/welcoming-remarks-at-the-conversations-with-global-investors-investment-forum/)
 append_entries: 2
 Finish: 2024-11-20 06:30:45.482715
+------------------------------------------------------
+Started: 2024-11-20 08:28:18.633436
+Existing_entries: 340
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2024-11-20 08:28:20.086084
