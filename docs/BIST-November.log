@@ -2349,3 +2349,18 @@ Existing_entries: 349
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2024-11-20 16:27:25.830128
+------------------------------------------------------
+Started: 2024-11-20 18:29:35.580083
+Existing_entries: 349
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Federal Reserve Board: Speech By Governor Cook On The Economic Outlook At The University Of Virginia, Charlottesville, Virginia](http://www.mondovisione.com/media-and-resources/news/federal-reserve-board-speech-by-governor-cook-on-the-economic-outlook-at-the-un/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Basel Committee Reaffirms Expectation To Implement Basel III; Finalises Guidelines To Strengthen Banks' Counterparty Credit Risk Management; And Progresses Work To Strengthen Supervisory Effectiveness](http://www.mondovisione.com/media-and-resources/news/basel-committee-reaffirms-expectation-to-implement-basel-iii-finalises-guidelin/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [MIAX Exchange Group - Options Markets December 1, 2024 Non-Transaction Fee Changes](http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-options-markets-december-1-2024-non-transaction-fee-chang/)
+append_entries: 3
+Finish: 2024-11-20 18:29:55.790989
