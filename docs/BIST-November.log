@@ -2364,3 +2364,24 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [MIAX Exchange Group - Options Markets December 1, 2024 Non-Transaction Fee Changes](http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-options-markets-december-1-2024-non-transaction-fee-chang/)
 append_entries: 3
 Finish: 2024-11-20 18:29:55.790989
+------------------------------------------------------
+Started: 2024-11-20 20:23:37.821459
+Existing_entries: 352
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Ontario Securities Commission Announces Plans To Delegate Expanded Registration Functions To Canadian Investment Regulatory Organization](http://www.mondovisione.com/media-and-resources/news/ontario-securities-commission-announces-plans-to-delegate-expanded-registration/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Canadian Securities Regulators Explore Streamlining Registration Delegation To The Canadian Investment Regulatory Organization](http://www.mondovisione.com/media-and-resources/news/canadian-securities-regulators-explore-streamlining-registration-delegation-to-t/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Finansinspektionen: Stability In The Financial System (2024:2): Improved Outlook, But Risk Of Set-Backs](http://www.mondovisione.com/media-and-resources/news/finansinspektionen-stability-in-the-financial-system-20242-improved-outlook/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Active Account Requirement - ESMA Is Seeking First Input Under EMIR 3](http://www.mondovisione.com/media-and-resources/news/active-account-requirement-esma-is-seeking-first-input-under-emir-3-1/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Back To The Future 2: Keeping Inflation Close To The 2% Target − Speech By Dave Ramsden, Bank Of England Deputy Governor, Markets And Banking, Given At Leeds University Business School](http://www.mondovisione.com/media-and-resources/news/back-to-the-future-2-keeping-inflation-close-to-the-2-target-speech-by-dave/)
+append_entries: 5
+Finish: 2024-11-20 20:24:07.305561
