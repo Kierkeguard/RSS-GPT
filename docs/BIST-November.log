@@ -2343,3 +2343,9 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Guest Of Honour Speech By Tan Boon Gin, CEO Of Singapore Exchange Regulation (SGX RegCo), At The REIT Association Of Singapore Annual Conference 2024](http://www.mondovisione.com/media-and-resources/news/guest-of-honour-speech-by-tan-boon-gin-ceo-of-singapore-exchange-regulation-sg/)
 append_entries: 3
 Finish: 2024-11-20 14:20:06.012629
+------------------------------------------------------
+Started: 2024-11-20 16:27:24.899718
+Existing_entries: 349
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2024-11-20 16:27:25.830128
