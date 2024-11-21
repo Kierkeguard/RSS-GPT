@@ -2439,3 +2439,12 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Approaching Policymaking Pragmatically, Federal Reserve Governor Michelle W. Bowman, At The Forum Club Of The Palm Beaches, West Palm Beach, Florida](http://www.mondovisione.com/media-and-resources/news/approaching-policymaking-pragmatically-federal-reserve-governor-michelle-w-bow/)
 append_entries: 5
 Finish: 2024-11-21 06:30:50.124916
+------------------------------------------------------
+Started: 2024-11-21 08:27:31.730628
+Existing_entries: 365
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Global Oil And Gas Contract Value Declines Despite Steady Volume In Q3 2024, Reveals GlobalData](http://www.mondovisione.com/media-and-resources/news/global-oil-and-gas-contract-value-declines-despite-steady-volume-in-q3-2024-rev/)
+append_entries: 1
+Finish: 2024-11-21 08:27:38.956968
