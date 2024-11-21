@@ -2418,3 +2418,24 @@ Existing_entries: 360
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2024-11-21 04:26:30.369609
+------------------------------------------------------
+Started: 2024-11-21 06:30:20.288305
+Existing_entries: 360
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [ASIC Releases New And Updated Guidance In Response To The DBFO Act](http://www.mondovisione.com/media-and-resources/news/asic-releases-new-and-updated-guidance-in-response-to-the-dbfo-act/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Tradewell Technologies Named FIA's 2024 Innovator Of The Year](http://www.mondovisione.com/media-and-resources/news/tradewell-technologies-named-fias-2024-innovator-of-the-year/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [MIAX Exchange Group - Options Markets - Market For Underlying Security Used For Openings On MIAX Options, MIAX Pearl Options, MIAX Emerald Options And MIAX Sapphire Options For Newly Listed Symbols Effective Thursday, November 21, 2024](http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-options-markets-market-for-underlying-security-used-for-21/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [MIAX Exchange Group - Options Markets - New Listings Effective For November 21, 2024](http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-options-markets-new-listings-effective-for-november-21/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Approaching Policymaking Pragmatically, Federal Reserve Governor Michelle W. Bowman, At The Forum Club Of The Palm Beaches, West Palm Beach, Florida](http://www.mondovisione.com/media-and-resources/news/approaching-policymaking-pragmatically-federal-reserve-governor-michelle-w-bow/)
+append_entries: 5
+Finish: 2024-11-21 06:30:50.124916
