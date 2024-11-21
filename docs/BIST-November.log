@@ -2548,3 +2548,15 @@ Append: [Nadex Amends Rules For Trading Members](http://www.mondovisione.com/med
 Append: [Canadian Securities Regulators Propose Amendments To Multilateral Instrument 13-102 System Fee](http://www.mondovisione.com/media-and-resources/news/canadian-securities-regulators-propose-amendments-to-multilateral-instrument-13/)
 append_entries: 8
 Finish: 2024-11-21 20:25:06.073758
+------------------------------------------------------
+Started: 2024-11-21 22:19:56.373543
+Existing_entries: 390
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [CFTC’s Global Markets Advisory Committee Advances Recommendation On Tokenized Non-Cash Collateral](http://www.mondovisione.com/media-and-resources/news/cftcs-global-markets-advisory-committee-advances-recommendation-on-tokenized-no/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [SEC Charges Advisory Firm La Mancha And Its Owner David Kushner With Fraud - Defendants, Who Purported To Make Business Loans, Including To Professional Athletes, Allegedly Stole Investor Funds To Pay For Personal Expenses](http://www.mondovisione.com/media-and-resources/news/sec-charges-advisory-firm-la-mancha-and-its-owner-david-kushner-with-fraud-def/)
+append_entries: 2
+Finish: 2024-11-21 22:20:09.895627
