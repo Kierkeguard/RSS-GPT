@@ -2490,3 +2490,15 @@ Existing_entries: 374
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2024-11-21 14:20:07.094555
+------------------------------------------------------
+Started: 2024-11-21 16:27:24.016434
+Existing_entries: 374
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [MIAX Receives Editors' Choice Award For Outstanding Futures And Options Trading Venue At The Trade's Leaders In Trading Awards 2024](http://www.mondovisione.com/media-and-resources/news/miax-receives-editors-choice-award-for-outstanding-futures-and-options-trading/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [UK Financial Conduct Authority Charges Four Individuals With Fraud Offences Relating To Failed Credit Union](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-charges-four-individuals-with-fraud-offences-rela/)
+append_entries: 2
+Finish: 2024-11-21 16:27:37.238325
