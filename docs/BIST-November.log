@@ -2463,3 +2463,24 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [UK Financial Conduct Authority Proposes To Extend The Time Firms Have To Handle Complaints Relating To Motor Finance Commission](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-proposes-to-extend-the-time-firms-have-to-handle/)
 append_entries: 3
 Finish: 2024-11-21 10:23:27.948299
+------------------------------------------------------
+Started: 2024-11-21 12:42:23.475967
+Existing_entries: 369
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Focus On Gujarat International Finance Tec-City 2024](http://www.mondovisione.com/media-and-resources/news/focus-on-gujarat-international-finance-tec-city-2024/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [CLS FX Trading Activity | October 2024](http://www.mondovisione.com/media-and-resources/news/cls-fx-trading-activity-october-2024/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [IOSCO Publishes Consultation Report On Pre-Hedging - Report Assesses Potential Conduct And Market Integrity Issues Associated With The Practice Of Pre-Hedging](http://www.mondovisione.com/media-and-resources/news/iosco-publishes-consultation-report-on-pre-hedging-report-assesses-potential-c/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Worldline Enables GarantiBBVA International N.V. To Comply With EU Instant Payments Regulation With Cloud-Based Solution](http://www.mondovisione.com/media-and-resources/news/worldline-enables-garantibbva-international-nv-to-comply-with-eu-instant-payme/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [SkySparc Strengthens Americas Practice With Appointment Of Ex-PwC Executive Logan Wacker To Lead Treasury Technology Delivery](http://www.mondovisione.com/media-and-resources/news/skysparc-strengthens-americas-practice-with-appointment-of-ex-pwc-executive-loga/)
+append_entries: 5
+Finish: 2024-11-21 12:43:45.896721
