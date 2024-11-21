@@ -2524,3 +2524,27 @@ Append: [SSImple's Reaction To ESMA's Proposal To Move To T+1 By October 2027](h
 Append: [Beyond Faster Horses: Wholesale Financial Markets In The Digital Age, Given At The Tokenisation Summit 2024 = Sasha Mills, Bank Of England Executive Director For Financial Market Infrastructure](http://www.mondovisione.com/media-and-resources/news/beyond-faster-horses-wholesale-financial-markets-in-the-digital-age-given-at-t/)
 append_entries: 6
 Finish: 2024-11-21 18:30:30.261839
+------------------------------------------------------
+Started: 2024-11-21 20:23:37.600502
+Existing_entries: 382
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Statement On The Departure Of SEC Chair Gensler By SEC Commissioner Jaime Lizárraga](http://www.mondovisione.com/media-and-resources/news/statement-on-the-departure-of-sec-chair-gensler-by-sec-commissioner-jaime-lizrr/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [SIFMA Comments To FDIC On Brokered Deposits Rulemaking](http://www.mondovisione.com/media-and-resources/news/sifma-comments-to-fdic-on-brokered-deposits-rulemaking/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [CME Group Adjusted Interest Rate Total Return Futures Reach Record Open Interest, Volume](http://www.mondovisione.com/media-and-resources/news/cme-group-adjusted-interest-rate-total-return-futures-reach-record-open-interest-2/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [SEC Chair Gensler To Depart Agency On January 20 - Gensler Implemented Reforms To Enhance Efficiency, Resiliency, And Integrity In U.S. Capital Markets - Agency Held Wrongdoers Accountable And Returned Billions To Harmed Investors](http://www.mondovisione.com/media-and-resources/news/sec-chair-gensler-to-depart-agency-on-january-20-gensler-implemented-reforms-t/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [ICE First Look At Mortgage Performance: Serious Delinquencies Hit 17-Month High While Foreclosure Activity Remains Historically Muted](http://www.mondovisione.com/media-and-resources/news/ice-first-look-at-mortgage-performance-serious-delinquencies-hit-17-month-high/)
+Append: [Exegy Expands Ultra-Low Latency, Tick-To-Trade Support To Include All Canadian Equity Exchanges](http://www.mondovisione.com/media-and-resources/news/exegy-expands-ultra-low-latency-tick-to-trade-support-to-include-all-canadian-e/)
+Append: [Nadex Amends Rules For Trading Members](http://www.mondovisione.com/media-and-resources/news/nadex-amends-rules-for-trading-members/)
+Append: [Canadian Securities Regulators Propose Amendments To Multilateral Instrument 13-102 System Fee](http://www.mondovisione.com/media-and-resources/news/canadian-securities-regulators-propose-amendments-to-multilateral-instrument-13/)
+append_entries: 8
+Finish: 2024-11-21 20:25:06.073758
