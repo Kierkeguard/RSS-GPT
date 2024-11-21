@@ -2502,3 +2502,25 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [UK Financial Conduct Authority Charges Four Individuals With Fraud Offences Relating To Failed Credit Union](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-charges-four-individuals-with-fraud-offences-rela/)
 append_entries: 2
 Finish: 2024-11-21 16:27:37.238325
+------------------------------------------------------
+Started: 2024-11-21 18:29:20.380675
+Existing_entries: 376
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [US Treasury Sanctions Gazprombank And Takes Additional Steps To Curtail Russia’s Use Of The International Financial System - Treasury Imposes Sanctions On Dozens Of Russian Banks, Securities Registrars, And Finance Officials - OFAC Issues Alert Warning Of Risks Of Joining Russia’s System For Transfer Of Financial Messages](http://www.mondovisione.com/media-and-resources/news/us-treasury-sanctions-gazprombank-and-takes-additional-steps-to-curtail-russias/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Montis Group Strengthens Leadership And Senior Management Team](http://www.mondovisione.com/media-and-resources/news/montis-group-strengthens-leadership-and-senior-management-team/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [BDO LLP Achieves Approved Verifier Status Under Climate Bonds Certification Scheme, Strengthening Support For Green Debt Verification](http://www.mondovisione.com/media-and-resources/news/bdo-llp-achieves-approved-verifier-status-under-climate-bonds-certification-sche/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Introducing Canada Climate Week Xchange (CCWX), A New Initiative Dedicated To Promoting Cross-Collaboration On Canada’s Climate-Related Challenges  - A Five-Year Initiative Founded By Toronto Stock Exchange And National Organizations, CCWX Will Curate And Promote A Variety Of Events Focused On Canada’s Unique Perspective And Prospects On Climate-Related Issues](http://www.mondovisione.com/media-and-resources/news/introducing-canada-climate-week-xchange-ccwx-a-new-initiative-dedicated-to-pr/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [SSImple's Reaction To ESMA's Proposal To Move To T+1 By October 2027](http://www.mondovisione.com/media-and-resources/news/ssimples-reaction-to-esmas-proposal-to-move-to-t1-by-october-2027/)
+Append: [Beyond Faster Horses: Wholesale Financial Markets In The Digital Age, Given At The Tokenisation Summit 2024 = Sasha Mills, Bank Of England Executive Director For Financial Market Infrastructure](http://www.mondovisione.com/media-and-resources/news/beyond-faster-horses-wholesale-financial-markets-in-the-digital-age-given-at-t/)
+append_entries: 6
+Finish: 2024-11-21 18:30:30.261839
