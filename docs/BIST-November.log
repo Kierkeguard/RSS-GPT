@@ -2667,3 +2667,26 @@ Append: [ESMA Responds To The European Commission Consultation On Non-Bank Finan
 Append: [SEC: UPS To Pay $45 Million Penalty For Improperly Valuing Business Unit](http://www.mondovisione.com/media-and-resources/news/sec-ups-to-pay-45-million-penalty-for-improperly-valuing-business-unit/)
 append_entries: 10
 Finish: 2024-11-22 20:24:42.078343
+------------------------------------------------------
+Started: 2024-11-22 22:19:46.638215
+Existing_entries: 409
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [US Financial Stability Report](http://www.mondovisione.com/media-and-resources/news/us-financial-stability-report-4/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [SEC Announces Enforcement Results For Fiscal Year 2024 - Commission Saw Market Participants Respond To Its Efforts To Promote Culture Of Proactive Compliance](http://www.mondovisione.com/media-and-resources/news/sec-announces-enforcement-results-for-fiscal-year-2024-commission-saw-market-p/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Federal Reserve Announces College Fed Challenge Winners](http://www.mondovisione.com/media-and-resources/news/federal-reserve-announces-college-fed-challenge-winners-4/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Federal Reserve Announces Additional Information About The Periodic Review Of Its Monetary Policy Strategy, Tools, And Communications](http://www.mondovisione.com/media-and-resources/news/federal-reserve-announces-additional-information-about-the-periodic-review-of-it/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [SEC Chair Gensler Statement On Planned Departure Of SEC Commissioner Jaime Lizárraga](http://www.mondovisione.com/media-and-resources/news/sec-chair-gensler-statement-on-planned-departure-of-sec-commissioner-jaime-lizr/)
+Append: [SIFMA Statement On Issuance Of Revised No-Action Relief For SEC Rule 15c2-11](http://www.mondovisione.com/media-and-resources/news/sifma-statement-on-issuance-of-revised-no-action-relief-for-sec-rule-15c2-11/)
+Append: [DTCC Comments On SEC Action On FICC Rule Filings](http://www.mondovisione.com/media-and-resources/news/dtcc-comments-on-sec-action-on-ficc-rule-filings/)
+append_entries: 7
+Finish: 2024-11-22 22:20:15.096050
