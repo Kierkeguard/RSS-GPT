@@ -2587,3 +2587,15 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Japan Financial Services Agency: Publication Of Statistics Regarding Over-The-Counter (OTC) Derivative Transactions (As Of March 31, 2024)](http://www.mondovisione.com/media-and-resources/news/japan-financial-services-agency-publication-of-statistics-regarding-over-the-co-1/)
 append_entries: 1
 Finish: 2024-11-22 06:30:15.964048
+------------------------------------------------------
+Started: 2024-11-22 08:27:33.189561
+Existing_entries: 393
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [BMLL Wins “Outstanding Market Data Services Provider - Equities” At The TRADE’s Inaugural Leaders In Trading New York 2024 Awards](http://www.mondovisione.com/media-and-resources/news/bmll-wins-outstanding-market-data-services-provider-equities-at-the-trades/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [HKEX Appoints Group Chief Sustainability Officer And Group Chief Communications Officer](http://www.mondovisione.com/media-and-resources/news/hkex-appoints-group-chief-sustainability-officer-and-group-chief-communications/)
+append_entries: 2
+Finish: 2024-11-22 08:27:45.918426
