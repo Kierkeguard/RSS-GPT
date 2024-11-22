@@ -2614,3 +2614,12 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Mixed Performance for Global Exchanges in October Amid US Election Drama With FTSE Mondo Visione Exchange Index Down 1.2%](http://www.mondovisione.com/media-and-resources/news/mixed-performance-for-global-exchanges-in-october-amid-us-election-drama-with-ft/)
 append_entries: 1
 Finish: 2024-11-22 12:41:43.823521
+------------------------------------------------------
+Started: 2024-11-22 14:19:32.233379
+Existing_entries: 396
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Malawi Stock Exchange Weekly Summary, 22 November 2024](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-22-november-2024/)
+append_entries: 1
+Finish: 2024-11-22 14:20:19.161278
