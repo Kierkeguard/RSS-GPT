@@ -2623,3 +2623,9 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Malawi Stock Exchange Weekly Summary, 22 November 2024](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-22-november-2024/)
 append_entries: 1
 Finish: 2024-11-22 14:20:19.161278
+------------------------------------------------------
+Started: 2024-11-22 16:26:51.417906
+Existing_entries: 397
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2024-11-22 16:26:52.820999
