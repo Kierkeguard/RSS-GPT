@@ -2629,3 +2629,15 @@ Existing_entries: 397
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2024-11-22 16:26:52.820999
+------------------------------------------------------
+Started: 2024-11-22 18:29:06.811142
+Existing_entries: 397
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Hong Kong Securities And Futures Commission And China Securities Regulatory Commission Top Management Meet In Hong Kong](http://www.mondovisione.com/media-and-resources/news/hong-kong-securities-and-futures-commission-and-china-securities-regulatory-comm-9/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Hong Kong Securities And Futures Commission Hosts Workshops To Further Engage The Industry](http://www.mondovisione.com/media-and-resources/news/hong-kong-securities-and-futures-commission-hosts-workshops-to-further-engage-th/)
+append_entries: 2
+Finish: 2024-11-22 18:29:19.944748
