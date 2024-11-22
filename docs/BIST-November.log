@@ -2641,3 +2641,29 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Hong Kong Securities And Futures Commission Hosts Workshops To Further Engage The Industry](http://www.mondovisione.com/media-and-resources/news/hong-kong-securities-and-futures-commission-hosts-workshops-to-further-engage-th/)
 append_entries: 2
 Finish: 2024-11-22 18:29:19.944748
+------------------------------------------------------
+Started: 2024-11-22 20:24:10.707205
+Existing_entries: 399
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Henry Hub Natural Gas Sets Single Day Options Record Amid Colder Weather In The U.S.](http://www.mondovisione.com/media-and-resources/news/henry-hub-natural-gas-sets-single-day-options-record-amid-colder-weather-in-the/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [The Updated Coefficients For Moscow Exchange Indices To Come Into Force](http://www.mondovisione.com/media-and-resources/news/the-updated-coefficients-for-moscow-exchange-indices-to-come-into-force-40/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Nasdaq Announces Semi-Annual Changes To OMX Stockholm Benchmark™ Index](http://www.mondovisione.com/media-and-resources/news/nasdaq-announces-semi-annual-changes-to-omx-stockholm-benchmark-index-3/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Nasdaq Announces Semi-Annual Changes To The OMX Helsinki Benchmark™ Index](http://www.mondovisione.com/media-and-resources/news/nasdaq-announces-semi-annual-changes-to-the-omx-helsinki-benchmark-index-7/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Nasdaq Announces Semi-Annual Changes To The OMX Copenhagen Benchmark™ Index](http://www.mondovisione.com/media-and-resources/news/nasdaq-announces-semi-annual-changes-to-the-omx-copenhagen-benchmark-index-7/)
+Append: [Cboe To Launch The First Cash-Settled Options Product Related To Spot Bitcoin, Beginning Monday, December 2](http://www.mondovisione.com/media-and-resources/news/cboe-to-launch-the-first-cash-settled-options-product-related-to-spot-bitcoin-b/)
+Append: [Smart Capital Lists On The Professional Segment Of Euronext Growth Milan](http://www.mondovisione.com/media-and-resources/news/smart-capital-lists-on-the-professional-segment-of-euronext-growth-milan/)
+Append: [Wiener Börse Punsch: Over 600 Guests Celebrated Under The Banner Of Inclusion](http://www.mondovisione.com/media-and-resources/news/wiener-brse-punsch-over-600-guests-celebrated-under-the-banner-of-inclusion/)
+Append: [ESMA Responds To The European Commission Consultation On Non-Bank Financial Intermediation (NBFI)](http://www.mondovisione.com/media-and-resources/news/esma-responds-to-the-european-commission-consultation-on-non-bank-financial-inte/)
+Append: [SEC: UPS To Pay $45 Million Penalty For Improperly Valuing Business Unit](http://www.mondovisione.com/media-and-resources/news/sec-ups-to-pay-45-million-penalty-for-improperly-valuing-business-unit/)
+append_entries: 10
+Finish: 2024-11-22 20:24:42.078343
