@@ -2717,3 +2717,12 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Nigerian Exchange Weekly Market Report For The Week Ended 22 November 2024](http://www.mondovisione.com/media-and-resources/news/nigerian-exchange-weekly-market-report-for-the-week-ended-22-november-2024/)
 append_entries: 1
 Finish: 2024-11-23 06:28:59.357513
+------------------------------------------------------
+Started: 2024-11-23 08:25:00.325435
+Existing_entries: 417
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Artificial Intelligence In The Financial System, Federal Reserve Governor Michelle W. Bowman,At The 27th Annual Symposium On Building The Financial System Of The 21st Century: An Agenda For Japan And The United States, Washington, D.C.](http://www.mondovisione.com/media-and-resources/news/artificial-intelligence-in-the-financial-system-federal-reserve-governor-michel/)
+append_entries: 1
+Finish: 2024-11-23 08:25:08.469127
