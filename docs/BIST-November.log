@@ -2708,3 +2708,12 @@ Existing_entries: 416
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2024-11-23 04:25:31.525851
+------------------------------------------------------
+Started: 2024-11-23 06:28:52.284287
+Existing_entries: 416
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Nigerian Exchange Weekly Market Report For The Week Ended 22 November 2024](http://www.mondovisione.com/media-and-resources/news/nigerian-exchange-weekly-market-report-for-the-week-ended-22-november-2024/)
+append_entries: 1
+Finish: 2024-11-23 06:28:59.357513
