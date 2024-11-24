@@ -2804,3 +2804,9 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Qatar Stock Exchange: FTSE Global Equity Index Series December 2024 Quarterly Review Changes](http://www.mondovisione.com/media-and-resources/news/qatar-stock-exchange-ftse-global-equity-index-series-december-2024-quarterly-re/)
 append_entries: 2
 Finish: 2024-11-24 08:25:32.211720
+------------------------------------------------------
+Started: 2024-11-24 10:21:00.082524
+Existing_entries: 420
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2024-11-24 10:21:01.086434
