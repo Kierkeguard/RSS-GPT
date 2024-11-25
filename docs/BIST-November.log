@@ -2904,3 +2904,15 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [GCEX Extends Partnership With Hex Trust For Enhanced Asset Protection - GCEX Deepens Partnership With Hex Trust, Offering Institutions Enhanced Asset Security With Fully-Licensed, Bank-Grade Custody](http://www.mondovisione.com/media-and-resources/news/gcex-extends-partnership-with-hex-trust-for-enhanced-asset-protection-gcex-dee/)
 append_entries: 2
 Finish: 2024-11-25 10:24:16.529248
+------------------------------------------------------
+Started: 2024-11-25 12:43:22.761032
+Existing_entries: 428
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Keynote Address At The Tokenisation Summit: UK Government Approach To Tokenisation And Regulation - Outlining Initiatives The UK Government Is Taking Forward In The Digital Asset Ecosystem E.G., The Digital Securities Sandbox And The Government’s Wider Cryptoasset Strategy](http://www.mondovisione.com/media-and-resources/news/keynote-address-at-the-tokenisation-summit-uk-government-approach-to-tokenisati/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [IOSCO Publishes Its Report - Targeted Implementation Review On Principles For The Regulation And Supervision Of Commodity Derivatives Markets](http://www.mondovisione.com/media-and-resources/news/iosco-publishes-its-report-targeted-implementation-review-on-principles-for-th/)
+append_entries: 2
+Finish: 2024-11-25 12:43:36.989953
