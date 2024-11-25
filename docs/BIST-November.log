@@ -2943,3 +2943,25 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Tehran Securities Exchange: Warm Welcome For Green Project Underwriting](http://www.mondovisione.com/media-and-resources/news/tehran-securities-exchange-warm-welcome-for-green-project-underwriting/)
 append_entries: 5
 Finish: 2024-11-25 16:28:02.377466
+------------------------------------------------------
+Started: 2024-11-25 18:29:19.861685
+Existing_entries: 435
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Statement On Fixed Income Clearing Corporation Rules, SEC Chair Gary Gensler, Nov. 25, 2024](http://www.mondovisione.com/media-and-resources/news/statement-on-fixed-income-clearing-corporation-rules-sec-chair-gary-gensler-no/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Remarks At The Program On Corporate Compliance And Enforcement Annual Fall Conference, Sanjay Wadhwa, SEC Acting Director, Division Of Enforcement. Program On Corporate Compliance And Enforcement Annual Fall Conference, New York, NY, Nov. 22, 2024](http://www.mondovisione.com/media-and-resources/news/remarks-at-the-program-on-corporate-compliance-and-enforcement-annual-fall-confe/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Robeco Becomes New ETF Issuer At SIX Swiss Exchange](http://www.mondovisione.com/media-and-resources/news/robeco-becomes-new-etf-issuer-at-six-swiss-exchange/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [ESMA Announces Further Guidance On Exclusion Criteria For The Selection Of Consolidated Tape Providers](http://www.mondovisione.com/media-and-resources/news/esma-announces-further-guidance-on-exclusion-criteria-for-the-selection-of-conso/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Inflation Dynamics - Slides By Swati Dhingra, Member Of The Monetary Policy Committee - Bank Of England Watchers Conference](http://www.mondovisione.com/media-and-resources/news/inflation-dynamics-slides-by-swati-dhingra-member-of-the-monetary-policy-comm/)
+Append: [Final Chance To Register For The 6th Annual ETFGI Global ETFs Insights Summit On Wednesday, November 27](http://www.mondovisione.com/media-and-resources/news/final-chance-to-register-for-the-6th-annual-etfgi-global-etfs-insights-summit-on/)
+append_entries: 6
+Finish: 2024-11-25 18:30:55.604521
