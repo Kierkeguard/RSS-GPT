@@ -2922,3 +2922,24 @@ Existing_entries: 430
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2024-11-25 14:21:52.619778
+------------------------------------------------------
+Started: 2024-11-25 16:27:32.478853
+Existing_entries: 430
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Cboe Clear Europe Secures Regulatory Approval To Launch Securities Financing Transactions Clearing](http://www.mondovisione.com/media-and-resources/news/cboe-clear-europe-secures-regulatory-approval-to-launch-securities-financing-tra/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [UK Financial Conduct Authority Launches First Research Competition To Help Drive UK Economic Growth](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-launches-first-research-competition-to-help-drive/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [mai-listed Companies Report Strong Nine-Month Performance With Total Sales Of THB 155.84 Billion And Net Profit Of THB 6.30 Billion](http://www.mondovisione.com/media-and-resources/news/mai-listed-companies-report-strong-nine-month-performance-with-total-sales-of-th/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [SET-Listed Firms Post 9-Month Growth On Tourism Boost While Net Profit Weakens From Oil Business Amid Oil Price Dips](http://www.mondovisione.com/media-and-resources/news/set-listed-firms-post-9-month-growth-on-tourism-boost-while-net-profit-weakens-f/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Tehran Securities Exchange: Warm Welcome For Green Project Underwriting](http://www.mondovisione.com/media-and-resources/news/tehran-securities-exchange-warm-welcome-for-green-project-underwriting/)
+append_entries: 5
+Finish: 2024-11-25 16:28:02.377466
