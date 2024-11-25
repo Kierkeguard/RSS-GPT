@@ -2870,3 +2870,25 @@ Existing_entries: 420
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2024-11-25 06:31:27.262287
+------------------------------------------------------
+Started: 2024-11-25 08:29:10.047857
+Existing_entries: 420
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [UK Financial Conduct Authority Fines Barclays £40 Million](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-fines-barclays-40-million/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Moscow Exchange Announces Results For The Third Quarter Of 2024](http://www.mondovisione.com/media-and-resources/news/moscow-exchange-announces-results-for-the-third-quarter-of-2024/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Finansinspektionen: Capital Requirements For Swedish Banks As Of Q3 2024](http://www.mondovisione.com/media-and-resources/news/finansinspektionen-capital-requirements-for-swedish-banks-as-of-q3-2024/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Press Conference By KATO Katsunobu, Japan Minister Of Finance And Minister Of State For Financial Services - Arrest Of Former Employee Of Nomura Securities On Suspicion Of aAttempted Robbery. Murder And Arson.](http://www.mondovisione.com/media-and-resources/news/press-conference-by-kato-katsunobu-japan-minister-of-finance-and-minister-of-st-1/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Shenzhen Stock Exchange Market Bulletin, November 22, 2024, Issue 36](http://www.mondovisione.com/media-and-resources/news/shenzhen-stock-exchange-market-bulletin-november-22-2024-issue-36/)
+Append: [ASIC Update On Maintenance Of Regulatory Guides](http://www.mondovisione.com/media-and-resources/news/asic-update-on-maintenance-of-regulatory-guides/)
+append_entries: 6
+Finish: 2024-11-25 08:29:40.265625
