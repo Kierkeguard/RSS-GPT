@@ -2980,3 +2980,12 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Managing The Present, Shaping The Future - Speech By Clare Lombardelli, Bank Of England, Deputy Governor, Monetary Policy, Given At The Bank Of England Watchers Conference, Organised By King’s Business School And The Money, Macro And Finance Society](http://www.mondovisione.com/media-and-resources/news/managing-the-present-shaping-the-future-speech-by-clare-lombardelli-bank-of/)
 append_entries: 3
 Finish: 2024-11-25 20:24:11.273430
+------------------------------------------------------
+Started: 2024-11-25 22:19:01.319501
+Existing_entries: 444
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [CME Group Completes Primary Conversion Of 28-Day TIIE Interest Rate Swaps For Mexican Market](http://www.mondovisione.com/media-and-resources/news/cme-group-completes-primary-conversion-of-28-day-tiie-interest-rate-swaps-for-me/)
+append_entries: 1
+Finish: 2024-11-25 22:19:08.913943
