@@ -2965,3 +2965,18 @@ Append: [Inflation Dynamics - Slides By Swati Dhingra, Member Of The Monetary Po
 Append: [Final Chance To Register For The 6th Annual ETFGI Global ETFs Insights Summit On Wednesday, November 27](http://www.mondovisione.com/media-and-resources/news/final-chance-to-register-for-the-6th-annual-etfgi-global-etfs-insights-summit-on/)
 append_entries: 6
 Finish: 2024-11-25 18:30:55.604521
+------------------------------------------------------
+Started: 2024-11-25 20:23:53.305951
+Existing_entries: 441
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [ISDA Response To EC Consultation On Macroprudential Policies For NBFIs](http://www.mondovisione.com/media-and-resources/news/isda-response-to-ec-consultation-on-macroprudential-policies-for-nbfis/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [ISDA - CDS Market Dynamics: Analyzing Trends In Single-Name CDS And Index CDS Market Activity](http://www.mondovisione.com/media-and-resources/news/isda-cds-market-dynamics-analyzing-trends-in-single-name-cds-and-index-cds-ma/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Managing The Present, Shaping The Future - Speech By Clare Lombardelli, Bank Of England, Deputy Governor, Monetary Policy, Given At The Bank Of England Watchers Conference, Organised By King’s Business School And The Money, Macro And Finance Society](http://www.mondovisione.com/media-and-resources/news/managing-the-present-shaping-the-future-speech-by-clare-lombardelli-bank-of/)
+append_entries: 3
+Finish: 2024-11-25 20:24:11.273430
