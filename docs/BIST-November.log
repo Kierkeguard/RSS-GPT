@@ -2892,3 +2892,15 @@ Append: [Shenzhen Stock Exchange Market Bulletin, November 22, 2024, Issue 36](h
 Append: [ASIC Update On Maintenance Of Regulatory Guides](http://www.mondovisione.com/media-and-resources/news/asic-update-on-maintenance-of-regulatory-guides/)
 append_entries: 6
 Finish: 2024-11-25 08:29:40.265625
+------------------------------------------------------
+Started: 2024-11-25 10:24:02.523107
+Existing_entries: 426
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [IOSCO Publishes Its Final Report On Post Trade Risk Reduction Services: Sound Practices For Consideration](http://www.mondovisione.com/media-and-resources/news/iosco-publishes-its-final-report-on-post-trade-risk-reduction-services-sound-pr/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [GCEX Extends Partnership With Hex Trust For Enhanced Asset Protection - GCEX Deepens Partnership With Hex Trust, Offering Institutions Enhanced Asset Security With Fully-Licensed, Bank-Grade Custody](http://www.mondovisione.com/media-and-resources/news/gcex-extends-partnership-with-hex-trust-for-enhanced-asset-protection-gcex-dee/)
+append_entries: 2
+Finish: 2024-11-25 10:24:16.529248
