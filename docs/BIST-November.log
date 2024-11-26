@@ -3108,3 +3108,21 @@ Append: [Trading Technologies' Abel Noser Solutions Wins Editors' Choice Award F
 Append: [HKEX: Adjustment Of China Tower Structured Products, Futures And Options](http://www.mondovisione.com/media-and-resources/news/hkex-adjustment-of-china-tower-structured-products-futures-and-options/)
 append_entries: 7
 Finish: 2024-11-26 18:30:45.390156
+------------------------------------------------------
+Started: 2024-11-26 20:23:48.887704
+Existing_entries: 468
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Minutes Of The Federal Open Market Committee, November 6-7, 2024](http://www.mondovisione.com/media-and-resources/news/minutes-of-the-federal-open-market-committee-november-6-7-2024/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [US Office Of The Comptroller Of The Currency Issues First And Second Quarter 2025 CRA Evaluation Schedule](http://www.mondovisione.com/media-and-resources/news/us-office-of-the-comptroller-of-the-currency-issues-first-and-second-quarter-202-1/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Ontario Securities Commission And The Canadian Investment Regulation Organization Announce Coordinated Review Into Bank Branch Sales Practices](http://www.mondovisione.com/media-and-resources/news/ontario-securities-commission-and-the-canadian-investment-regulation-organizatio/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Market Commentary On Today's Bitcoin Price By Petr Kozyakov, Co-Founder And CEO, Mercuryo](http://www.mondovisione.com/media-and-resources/news/market-commentary-on-todays-bitcoin-price-by-petr-kozyakov-co-founder-and-ceo/)
+append_entries: 4
+Finish: 2024-11-26 20:24:13.580614
