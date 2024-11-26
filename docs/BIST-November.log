@@ -3031,3 +3031,21 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [SEC Charges Ken Leech, Former Co-Chief Investment Officer Of Western Asset Management Co., With Fraud - Defendant Allegedly Engaged In Cherry-Picking, Allocating Hundreds Of Millions Of Dollars In Net First-Day Gains And Losses To Favored And Disfavored Portfolios, Respectively](http://www.mondovisione.com/media-and-resources/news/sec-charges-ken-leech-former-co-chief-investment-officer-of-western-asset-manag/)
 append_entries: 4
 Finish: 2024-11-26 08:28:57.733425
+------------------------------------------------------
+Started: 2024-11-26 10:23:42.051006
+Existing_entries: 449
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [UK Financial Conduct Authority: Macquarie Bank Limited Fined £13m For Serious Control Failures That Allowed Trader To Conceal Over 400 Fictitious Trades](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-macquarie-bank-limited-fined-13m-for-serious-co/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [BNP Paribas, AXA And Bloomberg's Former Executive Joins FinTech Premialab - Diane Lansard, Further Expands Premialab's Marketing Footprint Bringing In Her Extensive Banking And Asset Management Expertise To The FinTech Dedicated To Quantitative Investment Strategies](http://www.mondovisione.com/media-and-resources/news/bnp-paribas-axa-and-bloombergs-former-executive-joins-fintech-premialab-dian/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [ASEAN-Interconnected Sustainability Ecosystem (ASEAN-ISE) Participating Exchanges To Issue A Request For Information (RFI) To  Develop A Centralised ASEAN ESG Data Infrastructure](http://www.mondovisione.com/media-and-resources/news/asean-interconnected-sustainability-ecosystem-asean-ise-participating-exchange/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [SET To Introduce Caution Signs For Funds And Revise Trading Resumption Criteria For Listed Companies Under Delisting Review, Effective January 1, 2025](http://www.mondovisione.com/media-and-resources/news/set-to-introduce-caution-signs-for-funds-and-revise-trading-resumption-criteria/)
+append_entries: 4
+Finish: 2024-11-26 10:24:07.238364
