@@ -3049,3 +3049,27 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [SET To Introduce Caution Signs For Funds And Revise Trading Resumption Criteria For Listed Companies Under Delisting Review, Effective January 1, 2025](http://www.mondovisione.com/media-and-resources/news/set-to-introduce-caution-signs-for-funds-and-revise-trading-resumption-criteria/)
 append_entries: 4
 Finish: 2024-11-26 10:24:07.238364
+------------------------------------------------------
+Started: 2024-11-26 12:43:32.538358
+Existing_entries: 453
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [LightOn Lists On Euronext Growth](http://www.mondovisione.com/media-and-resources/news/lighton-lists-on-euronext-growth/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [UK Prudential Regulation Authority And UK Financial Conduct Authority Publish Consultation On Pay For Senior Bankers](http://www.mondovisione.com/media-and-resources/news/uk-prudential-regulation-authority-and-uk-financial-conduct-authority-publish-co/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Morgan Stanley And Athens Stock Exchange 3rd Greek Investment Conference](http://www.mondovisione.com/media-and-resources/news/morgan-stanley-and-athens-stock-exchange-3rd-greek-investment-conference/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Boerse Stuttgart Group: UniCredit Lists Structured Securities In Easy Euwax Trading Segment - High Trading Quality And Transparency Without Exchange Transaction Fees For Around 150,000 Products](http://www.mondovisione.com/media-and-resources/news/boerse-stuttgart-group-unicredit-lists-structured-securities-in-easy-euwax-trad/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Nordic Mining Transfers To Euronext Oslo Børs](http://www.mondovisione.com/media-and-resources/news/nordic-mining-transfers-to-euronext-oslo-brs/)
+Append: [LTX, A Broadridge Company, Announces Strategic Partnership With TransFICC To Improve Connectivity And Onboarding Speeds -  Sell-Side Clients Benefit From Simplified Integration And Connectivity To LTX, Reduced Operational Risk And Implementation Costs And Improved Time-To-Market](http://www.mondovisione.com/media-and-resources/news/ltx-a-broadridge-company-announces-strategic-partnership-with-transficc-to-imp/)
+Append: [FSB Publishes 2024 G-SIB List](http://www.mondovisione.com/media-and-resources/news/fsb-publishes-2024-g-sib-list/)
+Append: [UK Financial Conduct Authority Finds Crypto Ownership Continues To Rise As It Delivers Plans To Regulate Crypto](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-finds-crypto-ownership-continues-to-rise-as-it-de/)
+append_entries: 8
+Finish: 2024-11-26 12:44:04.390045
