@@ -3085,3 +3085,26 @@ Existing_entries: 461
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2024-11-26 16:28:36.149052
+------------------------------------------------------
+Started: 2024-11-26 18:30:16.729366
+Existing_entries: 461
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [FTSE UK Index Series – Indicative Quarterly Review Changes December 2024](http://www.mondovisione.com/media-and-resources/news/ftse-uk-index-series-indicative-quarterly-review-changes-december-2024/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [BIS: Basel Committee Publishes More Details On Global Systemically Important Banks](http://www.mondovisione.com/media-and-resources/news/bis-basel-committee-publishes-more-details-on-global-systemically-important-ban-3/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Euronext Strengthens Its Position As The Leading Stock Exchange For European Tech Companies](http://www.mondovisione.com/media-and-resources/news/euronext-strengthens-its-position-as-the-leading-stock-exchange-for-european-tec/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Setting The Foundations For Our Future Strategy - Speech By Emily Shepperd, UK Financial Conduct Authority Chief Operating Officer, Delivered At The TheCityUK National Conference In Birmingham](http://www.mondovisione.com/media-and-resources/news/setting-the-foundations-for-our-future-strategy-speech-by-emily-shepperd-uk-f/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Worldscale Adopts ICE’s Benchmark EUA Carbon Pricing For Its Tanker Freight Rates](http://www.mondovisione.com/media-and-resources/news/worldscale-adopts-ices-benchmark-eua-carbon-pricing-for-its-tanker-freight-rate/)
+Append: [Trading Technologies' Abel Noser Solutions Wins Editors' Choice Award For TCA Provider Of The Year In Inaugural Leaders In Trading New York Awards Hosted By The TRADE](http://www.mondovisione.com/media-and-resources/news/trading-technologies-abel-noser-solutions-wins-editors-choice-award-for-tca-pr/)
+Append: [HKEX: Adjustment Of China Tower Structured Products, Futures And Options](http://www.mondovisione.com/media-and-resources/news/hkex-adjustment-of-china-tower-structured-products-futures-and-options/)
+append_entries: 7
+Finish: 2024-11-26 18:30:45.390156
