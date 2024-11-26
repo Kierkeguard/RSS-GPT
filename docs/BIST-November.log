@@ -2989,3 +2989,9 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [CME Group Completes Primary Conversion Of 28-Day TIIE Interest Rate Swaps For Mexican Market](http://www.mondovisione.com/media-and-resources/news/cme-group-completes-primary-conversion-of-28-day-tiie-interest-rate-swaps-for-me/)
 append_entries: 1
 Finish: 2024-11-25 22:19:08.913943
+------------------------------------------------------
+Started: 2024-11-26 01:45:01.678580
+Existing_entries: 445
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2024-11-26 01:45:02.820838
