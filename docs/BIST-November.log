@@ -3197,3 +3197,18 @@ Existing_entries: 481
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2024-11-27 12:44:01.304663
+------------------------------------------------------
+Started: 2024-11-27 14:20:16.293827
+Existing_entries: 481
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [UK Financial Conduct Authority Fines Former Airline Executive For Trading During Closed Periods And For Trade Disclosure Failures](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-fines-former-airline-executive-for-trading-during/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Nasdaq Dubai Celebrates The Listing Of USD 2 Billion Bonds By China’s Ministry Of Finance](http://www.mondovisione.com/media-and-resources/news/nasdaq-dubai-celebrates-the-listing-of-usd-2-billion-bonds-by-chinas-ministry-o/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Court Of Appeal Rules In Favour Of The Securities Commission Malaysia In Insider Trading Appeal - Patimas Computers Ex-Deputy Chairman Fails In Bid To Overturn High Court Judgment](http://www.mondovisione.com/media-and-resources/news/court-of-appeal-rules-in-favour-of-the-securities-commission-malaysia-in-insider/)
+append_entries: 3
+Finish: 2024-11-27 14:21:12.710902
