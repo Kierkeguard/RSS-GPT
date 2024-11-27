@@ -3179,3 +3179,15 @@ Append: [Intercontinental Exchange Chair & CEO Jeffrey C. Sprecher To Present At
 Append: [Nasdaq Announces Mid-Month Open Short Interest Positions In Nasdaq Stocks As Of Settlement Date November 15, 2024](http://www.mondovisione.com/media-and-resources/news/nasdaq-announces-mid-month-open-short-interest-positions-in-nasdaq-stocks-as-of-49/)
 append_entries: 7
 Finish: 2024-11-27 08:29:46.247291
+------------------------------------------------------
+Started: 2024-11-27 10:23:41.740594
+Existing_entries: 479
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [big xyt And Trackinsight Partner To Elevate Analytics For Global ETF Markets - This Collaboration Between Trusted Industry Leaders Provides The Highest Quality Data For ETFs](http://www.mondovisione.com/media-and-resources/news/big-xyt-and-trackinsight-partner-to-elevate-analytics-for-global-etf-markets-t/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [SIX Invests In OpenBrick, A Digital Platform Of Tokenized Securities For Real Estate Projects In Spain](http://www.mondovisione.com/media-and-resources/news/six-invests-in-openbrick-a-digital-platform-of-tokenized-securities-for-real-es/)
+append_entries: 2
+Finish: 2024-11-27 10:23:54.564134
