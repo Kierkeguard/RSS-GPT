@@ -3156,3 +3156,26 @@ Existing_entries: 472
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2024-11-27 06:31:15.304276
+------------------------------------------------------
+Started: 2024-11-27 08:29:17.415119
+Existing_entries: 472
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [MNI Indicators: MNI China Money Market Index™ – November Conditions Ease](http://www.mondovisione.com/media-and-resources/news/mni-indicators-mni-china-money-market-index-november-conditions-ease/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Monetary Authority Of Singapore And Chinese National Financial Regulatory Administration Reaffirm Commitment To Strengthen Supervisory Cooperation](http://www.mondovisione.com/media-and-resources/news/monetary-authority-of-singapore-and-chinese-national-financial-regulatory-admini/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Hong Kong Securities And Futures Commission Hosts Workshops To Further Engage The Industry](http://www.mondovisione.com/media-and-resources/news/hong-kong-securities-and-futures-commission-hosts-workshops-to-further-engage-th-1/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [ASIC And APRA Release Observations From The Banking Industry’s Implementation Of The Financial Accountability Regime](http://www.mondovisione.com/media-and-resources/news/asic-and-apra-release-observations-from-the-banking-industrys-implementation-of/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [CFTC Commissioner Johnson Announces CFTC Market Risk Advisory Committee Meeting On Dec. 10](http://www.mondovisione.com/media-and-resources/news/cftc-commissioner-johnson-announces-cftc-market-risk-advisory-committee-meeting-2/)
+Append: [Intercontinental Exchange Chair & CEO Jeffrey C. Sprecher To Present At The Goldman Sachs Financial Services Conference On December 10](http://www.mondovisione.com/media-and-resources/news/intercontinental-exchange-chair-and-ceo-jeffrey-c-sprecher-to-present-at-the-gold-3/)
+Append: [Nasdaq Announces Mid-Month Open Short Interest Positions In Nasdaq Stocks As Of Settlement Date November 15, 2024](http://www.mondovisione.com/media-and-resources/news/nasdaq-announces-mid-month-open-short-interest-positions-in-nasdaq-stocks-as-of-49/)
+append_entries: 7
+Finish: 2024-11-27 08:29:46.247291
