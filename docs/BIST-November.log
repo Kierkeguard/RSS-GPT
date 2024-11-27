@@ -3233,3 +3233,21 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Société Générale Goes Live On CLS’s Cross Currency Swaps Service](http://www.mondovisione.com/media-and-resources/news/socit-gnrale-goes-live-on-clss-cross-currency-swaps-service/)
 append_entries: 5
 Finish: 2024-11-27 16:28:30.241795
+------------------------------------------------------
+Started: 2024-11-27 18:29:50.454754
+Existing_entries: 489
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Finansinspektionen: TRS 2 System Closed 4−5 December](http://www.mondovisione.com/media-and-resources/news/finansinspektionen-trs-2-system-closed-45-december/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [LSEG World-Check: Holiday Season Is The Gift That Keeps Giving For Criminals, Rogue Employers And Unscrupulous Service Providers](http://www.mondovisione.com/media-and-resources/news/lseg-world-check-holiday-season-is-the-gift-that-keeps-giving-for-criminals-ro/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Borsa İstanbul Announces The Constituent Changes To The BIST Participation Indices For The Period December 2024 – April 2025](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-announces-the-constituent-changes-to-the-bist-participation-indic-5/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Bank Of Communications Co. Ltd. Expands Global Footprint In The Middle East With DIFC Branch](http://www.mondovisione.com/media-and-resources/news/bank-of-communications-co-ltd-expands-global-footprint-in-the-middle-east-with/)
+append_entries: 4
+Finish: 2024-11-27 18:30:14.537567
