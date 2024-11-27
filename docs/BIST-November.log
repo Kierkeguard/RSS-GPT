@@ -3266,3 +3266,15 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [ISDA Letter To FASB On Hedge Accounting Improvements](http://www.mondovisione.com/media-and-resources/news/isda-letter-to-fasb-on-hedge-accounting-improvements/)
 append_entries: 3
 Finish: 2024-11-27 20:24:26.033025
+------------------------------------------------------
+Started: 2024-11-27 22:20:19.183739
+Existing_entries: 496
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [New Zealand Financial Markets Authority Publishes Refreshed Audit Quality Monitoring Report](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-publishes-refreshed-audit-quality-monito/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [EU Banks Continue To Meet Their MREL, Still 21 Banks In Their Transition Period Report A Shortfall](http://www.mondovisione.com/media-and-resources/news/eu-banks-continue-to-meet-their-mrel-still-21-banks-in-their-transition-period/)
+append_entries: 2
+Finish: 2024-11-27 22:20:32.138200
