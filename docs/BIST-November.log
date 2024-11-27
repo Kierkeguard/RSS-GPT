@@ -3212,3 +3212,24 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Court Of Appeal Rules In Favour Of The Securities Commission Malaysia In Insider Trading Appeal - Patimas Computers Ex-Deputy Chairman Fails In Bid To Overturn High Court Judgment](http://www.mondovisione.com/media-and-resources/news/court-of-appeal-rules-in-favour-of-the-securities-commission-malaysia-in-insider/)
 append_entries: 3
 Finish: 2024-11-27 14:21:12.710902
+------------------------------------------------------
+Started: 2024-11-27 16:27:59.421327
+Existing_entries: 484
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [360T Has Partnered With Sailing Team Malizia And Their Skipper Boris Herrmann](http://www.mondovisione.com/media-and-resources/news/360t-has-partnered-with-sailing-team-malizia-and-their-skipper-boris-herrmann/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [CFTC Commissioner Johnson To Participate In Fire-Side Chat At DigiAssets Connect](http://www.mondovisione.com/media-and-resources/news/cftc-commissioner-johnson-to-participate-in-fire-side-chat-at-digiassets-connect/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [SEC Updates List Of Firms Using Inaccurate Information To Solicit Investors](http://www.mondovisione.com/media-and-resources/news/sec-updates-list-of-firms-using-inaccurate-information-to-solicit-investors-12/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [MNI Indicators: Chicago Business Barometer™ - Eased To 40.2 In November](http://www.mondovisione.com/media-and-resources/news/mni-indicators-chicago-business-barometer-eased-to-402-in-november/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Société Générale Goes Live On CLS’s Cross Currency Swaps Service](http://www.mondovisione.com/media-and-resources/news/socit-gnrale-goes-live-on-clss-cross-currency-swaps-service/)
+append_entries: 5
+Finish: 2024-11-27 16:28:30.241795
