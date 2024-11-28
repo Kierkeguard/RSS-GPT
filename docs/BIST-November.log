@@ -3323,3 +3323,18 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Press Conference By KATO Katsunobu, Japan Minister Of Finance And Minister Of State For Financial Services](http://www.mondovisione.com/media-and-resources/news/press-conference-by-kato-katsunobu-japan-minister-of-finance-and-minister-of-st-2/)
 append_entries: 4
 Finish: 2024-11-28 08:29:26.574729
+------------------------------------------------------
+Started: 2024-11-28 10:23:54.070591
+Existing_entries: 503
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Reem Finance Selects Temenos To Power New Digital Community Bank In The UAE - Temenos SaaS Enables Rapid Time-To-Market And Streamlined Scalability, Ensuring Agility And Efficiency As The Business Grows](http://www.mondovisione.com/media-and-resources/news/reem-finance-selects-temenos-to-power-new-digital-community-bank-in-the-uae-te/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [FESE Capital Markets Fact Sheet Q3 2024](http://www.mondovisione.com/media-and-resources/news/fese-capital-markets-fact-sheet-q3-2024/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [SET Unveils 2025-2027 Strategic Roadmap For Fair And Inclusive Growth](http://www.mondovisione.com/media-and-resources/news/set-unveils-2025-2027-strategic-roadmap-for-fair-and-inclusive-growth/)
+append_entries: 3
+Finish: 2024-11-28 10:24:12.293302
