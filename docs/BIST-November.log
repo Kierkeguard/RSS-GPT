@@ -3305,3 +3305,21 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [CFTC Commitments Of Traders: Weekly Report Will Be Released Monday, December 2](http://www.mondovisione.com/media-and-resources/news/cftc-commitments-of-traders-weekly-report-will-be-released-monday-december-2/)
 append_entries: 1
 Finish: 2024-11-28 06:31:25.387608
+------------------------------------------------------
+Started: 2024-11-28 08:29:03.031124
+Existing_entries: 499
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Dubai Financial Services Authority Annual Outreach 2024 Presentation Deck Now Available](http://www.mondovisione.com/media-and-resources/news/dubai-financial-services-authority-annual-outreach-2024-presentation-deck-now-av/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [SIX Appoints Bjørn Sibbern As New CEO](http://www.mondovisione.com/media-and-resources/news/six-appoints-bjrn-sibbern-as-new-ceo/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [ASIC Welcomes Recent IOSCO Reports Outlining Key Developments For Global Market Regulators](http://www.mondovisione.com/media-and-resources/news/asic-welcomes-recent-iosco-reports-outlining-key-developments-for-global-market/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Press Conference By KATO Katsunobu, Japan Minister Of Finance And Minister Of State For Financial Services](http://www.mondovisione.com/media-and-resources/news/press-conference-by-kato-katsunobu-japan-minister-of-finance-and-minister-of-st-2/)
+append_entries: 4
+Finish: 2024-11-28 08:29:26.574729
