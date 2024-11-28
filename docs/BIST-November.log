@@ -3338,3 +3338,24 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [SET Unveils 2025-2027 Strategic Roadmap For Fair And Inclusive Growth](http://www.mondovisione.com/media-and-resources/news/set-unveils-2025-2027-strategic-roadmap-for-fair-and-inclusive-growth/)
 append_entries: 3
 Finish: 2024-11-28 10:24:12.293302
+------------------------------------------------------
+Started: 2024-11-28 12:44:23.288002
+Existing_entries: 506
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Bruton Limited Lists On Euronext Growth Oslo](http://www.mondovisione.com/media-and-resources/news/bruton-limited-lists-on-euronext-growth-oslo/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [UK Financial Conduct Authority Seeks Further Views On Enforcement Transparency Proposals](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-seeks-further-views-on-enforcement-transparency-p/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [FSB Notes Significant Progress In Strengthening The Regulation And Supervision Of Investment Funds In Brazil](http://www.mondovisione.com/media-and-resources/news/fsb-notes-significant-progress-in-strengthening-the-regulation-and-supervision-o/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [HKEX: Adjustment Of PA GOODDOCTOR Structured Products, Futures And Options](http://www.mondovisione.com/media-and-resources/news/hkex-adjustment-of-pa-gooddoctor-structured-products-futures-and-options/)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [Latest UK Labour Market Trends For Risk And Compliance - FinTech Growth Reshapes Risk And Compliance Hiring Landscape: Morgan McKinley](http://www.mondovisione.com/media-and-resources/news/latest-uk-labour-market-trends-for-risk-and-compliance-fintech-growth-reshapes/)
+append_entries: 5
+Finish: 2024-11-28 12:44:52.167014
