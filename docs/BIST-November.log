@@ -3380,3 +3380,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Revised Lists Of The MOEX Indices](http://www.mondovisione.com/media-and-resources/news/revised-lists-of-the-moex-indices-2/)
 append_entries: 2
 Finish: 2024-11-28 16:27:11.264907
+------------------------------------------------------
+Started: 2024-11-28 18:29:06.660488
+Existing_entries: 514
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [OECD: Global Forum Celebrates 15 Years Of Progress And Extends Tax Transparency To The Crypto-Asset Sector](http://www.mondovisione.com/media-and-resources/news/oecd-global-forum-celebrates-15-years-of-progress-and-extends-tax-transparency/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Basel Committee Publishes A Range Of Practices Report On Implementing A Positive Neutral Countercyclical Capital Buffer](http://www.mondovisione.com/media-and-resources/news/basel-committee-publishes-a-range-of-practices-report-on-implementing-a-positive/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [EBA Finds Hungarian Waiver For Covered Bonds Justified](http://www.mondovisione.com/media-and-resources/news/eba-finds-hungarian-waiver-for-covered-bonds-justified/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Monetary Authority Of Singapore Rationalises Leverage Requirements And Introduces Additional Disclosures For REITs](http://www.mondovisione.com/media-and-resources/news/monetary-authority-of-singapore-rationalises-leverage-requirements-and-introduce/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Amman Stock Exchange Weekly Summary](http://www.mondovisione.com/media-and-resources/news/amman-stock-exchange-weekly-summary-6/)
+append_entries: 5
+Finish: 2024-11-28 18:29:56.939926
