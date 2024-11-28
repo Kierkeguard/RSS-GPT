@@ -3278,3 +3278,9 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [EU Banks Continue To Meet Their MREL, Still 21 Banks In Their Transition Period Report A Shortfall](http://www.mondovisione.com/media-and-resources/news/eu-banks-continue-to-meet-their-mrel-still-21-banks-in-their-transition-period/)
 append_entries: 2
 Finish: 2024-11-27 22:20:32.138200
+------------------------------------------------------
+Started: 2024-11-28 01:46:14.906400
+Existing_entries: 498
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2024-11-28 01:46:15.970030
