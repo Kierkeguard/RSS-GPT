@@ -3368,3 +3368,15 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [WFE Annual Meeting 2024: The WFE Convenes Exchange Industry At Bursa Malaysia In Kuala Lumpur](http://www.mondovisione.com/media-and-resources/news/wfe-annual-meeting-2024-the-wfe-convenes-exchange-industry-at-bursa-malaysia-in/)
 append_entries: 1
 Finish: 2024-11-28 14:20:23.598000
+------------------------------------------------------
+Started: 2024-11-28 16:27:10.163920
+Existing_entries: 512
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Inclusive Growth: Laying Foundations, Seizing Innovations, Speech By Sarah Pritchard, UK Financial Conduct Authority Executive Director, Markets And Executive Director, International At The TISA (The Investing And Saving Alliance) Annual Conference](http://www.mondovisione.com/media-and-resources/news/inclusive-growth-laying-foundations-seizing-innovations-speech-by-sarah-pritc/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Revised Lists Of The MOEX Indices](http://www.mondovisione.com/media-and-resources/news/revised-lists-of-the-moex-indices-2/)
+append_entries: 2
+Finish: 2024-11-28 16:27:11.264907
