@@ -3359,3 +3359,12 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [Latest UK Labour Market Trends For Risk And Compliance - FinTech Growth Reshapes Risk And Compliance Hiring Landscape: Morgan McKinley](http://www.mondovisione.com/media-and-resources/news/latest-uk-labour-market-trends-for-risk-and-compliance-fintech-growth-reshapes/)
 append_entries: 5
 Finish: 2024-11-28 12:44:52.167014
+------------------------------------------------------
+Started: 2024-11-28 14:20:16.610905
+Existing_entries: 511
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [WFE Annual Meeting 2024: The WFE Convenes Exchange Industry At Bursa Malaysia In Kuala Lumpur](http://www.mondovisione.com/media-and-resources/news/wfe-annual-meeting-2024-the-wfe-convenes-exchange-industry-at-bursa-malaysia-in/)
+append_entries: 1
+Finish: 2024-11-28 14:20:23.598000
