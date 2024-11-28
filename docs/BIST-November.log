@@ -3401,3 +3401,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Amman Stock Exchange Weekly Summary](http://www.mondovisione.com/media-and-resources/news/amman-stock-exchange-weekly-summary-6/)
 append_entries: 5
 Finish: 2024-11-28 18:29:56.939926
+------------------------------------------------------
+Started: 2024-11-28 20:23:17.224194
+Existing_entries: 519
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Canadian Securities Regulators Propose Amendments To The Principal Distributor Model](http://www.mondovisione.com/media-and-resources/news/canadian-securities-regulators-propose-amendments-to-the-principal-distributor-m/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Canadian Securities Regulators Reduce Regulatory Burden For Investment Funds In Continuous Distribution](http://www.mondovisione.com/media-and-resources/news/canadian-securities-regulators-reduce-regulatory-burden-for-investment-funds-in/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LME Group Fees And Charges 2025](http://www.mondovisione.com/media-and-resources/news/lme-group-fees-and-charges-2025/)
+append_entries: 3
+Finish: 2024-11-28 20:23:18.344856
