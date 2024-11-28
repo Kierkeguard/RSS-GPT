@@ -3296,3 +3296,12 @@ Existing_entries: 498
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2024-11-28 04:26:51.253652
+------------------------------------------------------
+Started: 2024-11-28 06:31:17.463817
+Existing_entries: 498
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [CFTC Commitments Of Traders: Weekly Report Will Be Released Monday, December 2](http://www.mondovisione.com/media-and-resources/news/cftc-commitments-of-traders-weekly-report-will-be-released-monday-december-2/)
+append_entries: 1
+Finish: 2024-11-28 06:31:25.387608
