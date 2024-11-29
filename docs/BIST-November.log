@@ -3446,3 +3446,15 @@ Existing_entries: 522
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2024-11-29 06:30:59.214115
+------------------------------------------------------
+Started: 2024-11-29 08:28:31.091956
+Existing_entries: 522
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Revised Lists Of The Moscow Exchange Indices Announced](http://www.mondovisione.com/media-and-resources/news/revised-lists-of-the-moscow-exchange-indices-announced-49/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Canadian Securities Regulators To Provide Temporary Relief From Requirements For Delivering Proxy-Related Material](http://www.mondovisione.com/media-and-resources/news/canadian-securities-regulators-to-provide-temporary-relief-from-requirements-for/)
+append_entries: 2
+Finish: 2024-11-29 08:28:32.089841
