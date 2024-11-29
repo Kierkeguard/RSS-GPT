@@ -3488,3 +3488,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [GPW Group’s New Development Directions](http://www.mondovisione.com/media-and-resources/news/gpw-groups-new-development-directions/)
 append_entries: 1
 Finish: 2024-11-29 12:42:44.128403
+------------------------------------------------------
+Started: 2024-11-29 14:20:04.372272
+Existing_entries: 530
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2024-11-29 14:20:05.963255
