@@ -3530,3 +3530,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Decisions Taken By The Governing Council Of The ECB (In Addition To Decisions Setting Interest Rates)](http://www.mondovisione.com/media-and-resources/news/decisions-taken-by-the-governing-council-of-the-ecb-in-addition-to-decisions-se-32/)
 append_entries: 3
 Finish: 2024-11-29 20:22:56.562782
+------------------------------------------------------
+Started: 2024-11-29 22:20:00.377938
+Existing_entries: 536
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2024-11-29 22:20:01.649094
