@@ -3458,3 +3458,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Canadian Securities Regulators To Provide Temporary Relief From Requirements For Delivering Proxy-Related Material](http://www.mondovisione.com/media-and-resources/news/canadian-securities-regulators-to-provide-temporary-relief-from-requirements-for/)
 append_entries: 2
 Finish: 2024-11-29 08:28:32.089841
+------------------------------------------------------
+Started: 2024-11-29 10:23:27.437323
+Existing_entries: 524
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LSEGA Financing Plc Announces Early Results Of Its Tender Offer](http://www.mondovisione.com/media-and-resources/news/lsega-financing-plc-announces-early-results-of-its-tender-offer/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [IOSCO Publishes Final Report On Regulatory Implications And Good Practices On The Evolution Of Market Structures](http://www.mondovisione.com/media-and-resources/news/iosco-publishes-final-report-on-regulatory-implications-and-good-practices-on-th/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Spanish Financial Markets’ 2025 Trading Calendar](http://www.mondovisione.com/media-and-resources/news/spanish-financial-markets-2025-trading-calendar/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX Announces Senior Management Changes](http://www.mondovisione.com/media-and-resources/news/hkex-announces-senior-management-changes/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ECB Announces Changes To The Eurosystem Collateral Framework To Foster Greater Harmonisation](http://www.mondovisione.com/media-and-resources/news/ecb-announces-changes-to-the-eurosystem-collateral-framework-to-foster-greater-h/)
+append_entries: 5
+Finish: 2024-11-29 10:23:28.438537
