@@ -3494,3 +3494,18 @@ Existing_entries: 530
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2024-11-29 14:20:05.963255
+------------------------------------------------------
+Started: 2024-11-29 16:27:11.777960
+Existing_entries: 530
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER’s Consultation Feeds Into The European Commission’s Revision Of The REMIT Implementing Regulation](http://www.mondovisione.com/media-and-resources/news/acers-consultation-feeds-into-the-european-commissions-revision-of-the-remit-i/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Malawi Stock Exchange  Weekly Summary, 29 November 2024](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-29-november-2024/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Economic Secretary Keynote Speech: TheCityUK National Conference 2024](http://www.mondovisione.com/media-and-resources/news/uk-economic-secretary-keynote-speech-thecityuk-national-conference-2024/)
+append_entries: 3
+Finish: 2024-11-29 16:27:56.319824
