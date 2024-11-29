@@ -3515,3 +3515,18 @@ Existing_entries: 533
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2024-11-29 18:28:59.709666
+------------------------------------------------------
+Started: 2024-11-29 20:22:55.336999
+Existing_entries: 533
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LSEGA Financing Plc Announces Pricing Of Its Tender Offer](http://www.mondovisione.com/media-and-resources/news/lsega-financing-plc-announces-pricing-of-its-tender-offer/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Record Of The Bank Of England  Financial Policy Committee Meeting On 15 November 2024](http://www.mondovisione.com/media-and-resources/news/record-of-the-bank-of-england-financial-policy-committee-meeting-on-15-november/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Decisions Taken By The Governing Council Of The ECB (In Addition To Decisions Setting Interest Rates)](http://www.mondovisione.com/media-and-resources/news/decisions-taken-by-the-governing-council-of-the-ecb-in-addition-to-decisions-se-32/)
+append_entries: 3
+Finish: 2024-11-29 20:22:56.562782
