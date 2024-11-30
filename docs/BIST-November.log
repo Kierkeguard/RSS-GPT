@@ -3569,3 +3569,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Financial Stability Oversight Council Meeting - Friday, December 6](http://www.mondovisione.com/media-and-resources/news/financial-stability-oversight-council-meeting-friday-december-6/)
 append_entries: 1
 Finish: 2024-11-30 08:25:47.771924
+------------------------------------------------------
+Started: 2024-11-30 10:20:43.284563
+Existing_entries: 537
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nigerian Exchange Weekly Market Report For The Week Ended 29 November 2024](http://www.mondovisione.com/media-and-resources/news/nigerian-exchange-weekly-market-report-for-the-week-ended-29-november-2024/)
+append_entries: 1
+Finish: 2024-11-30 10:20:44.935667
