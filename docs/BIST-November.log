@@ -3578,3 +3578,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Nigerian Exchange Weekly Market Report For The Week Ended 29 November 2024](http://www.mondovisione.com/media-and-resources/news/nigerian-exchange-weekly-market-report-for-the-week-ended-29-november-2024/)
 append_entries: 1
 Finish: 2024-11-30 10:20:44.935667
+------------------------------------------------------
+Started: 2024-11-30 12:39:17.937603
+Existing_entries: 538
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tehran Securities Exchange Confirms Capital Raise In Extraordinary General Assembly](http://www.mondovisione.com/media-and-resources/news/tehran-securities-exchange-confirms-capital-raise-in-extraordinary-general-assem/)
+append_entries: 1
+Finish: 2024-11-30 12:39:19.657898
