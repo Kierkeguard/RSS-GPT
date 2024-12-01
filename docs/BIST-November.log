@@ -3644,3 +3644,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Tehran Securities Exchange Weekly Market Snapshot, 27 November 2024](http://www.mondovisione.com/media-and-resources/news/tehran-securities-exchange-weekly-market-snapshot-27-november-2024/)
 append_entries: 1
 Finish: 2024-12-01 08:25:58.106053
+------------------------------------------------------
+Started: 2024-12-01 10:22:01.059172
+Existing_entries: 540
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2024-12-01 10:22:02.615684
