@@ -3769,3 +3769,12 @@ Append: [BIS Latest Update December 2024: Inflation Targeting, Navigating Uncert
 Append: [HKEX Stock Exchange Participants' Market Share Report](http://www.mondovisione.com/media-and-resources/news/hkex-stock-exchange-participants-market-share-report-49/)
 append_entries: 6
 Finish: 2024-12-02 12:46:05.612245
+------------------------------------------------------
+Started: 2024-12-02 14:21:08.822280
+Existing_entries: 555
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [EACH Publishes Its Manifesto For Efficient And Resilient Capital Markets](http://www.mondovisione.com/media-and-resources/news/each-publishes-its-manifesto-for-efficient-and-resilient-capital-markets/)
+append_entries: 1
+Finish: 2024-12-02 14:21:10.252802
