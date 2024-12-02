@@ -3747,3 +3747,25 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Offa Purchases Bank Of Ireland’s Islamic Home Finance Portfolio - Unique Funding Structure, First British Financial Institution To Buy Islamic Home Finance Book](http://www.mondovisione.com/media-and-resources/news/offa-purchases-bank-of-irelands-islamic-home-finance-portfolio-unique-funding/)
 append_entries: 3
 Finish: 2024-12-02 10:24:41.754102
+------------------------------------------------------
+Started: 2024-12-02 12:46:03.863370
+Existing_entries: 549
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIX Exchanges Figures November 2024](http://www.mondovisione.com/media-and-resources/news/six-exchanges-figures-november-2024/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Deutsche Börse Cash Market Launches New Trading Feature With Xetra Midpoint](http://www.mondovisione.com/media-and-resources/news/deutsche-brse-cash-market-launches-new-trading-feature-with-xetra-midpoint/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Boerse Stuttgart Records November Turnover Of Around EUR 9,7 Billion - Strong Increases In Structured Securities, Equities And Exchange-Traded Products Compared To The Same Month Of The Previous Year](http://www.mondovisione.com/media-and-resources/news/boerse-stuttgart-records-november-turnover-of-around-eur-97-billion-strong-in/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Acuiti Avelacom 4Q24 Insights Report: Proprietary Trading Firms Predict Strong 2025, Planning Significant Investments](http://www.mondovisione.com/media-and-resources/news/acuiti-avelacom-4q24-insights-report-proprietary-trading-firms-predict-strong-2/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BIS Latest Update December 2024: Inflation Targeting, Navigating Uncertainty And Climate Change](http://www.mondovisione.com/media-and-resources/news/bis-latest-update-december-2024-inflation-targeting-navigating-uncertainty-and/)
+Append: [HKEX Stock Exchange Participants' Market Share Report](http://www.mondovisione.com/media-and-resources/news/hkex-stock-exchange-participants-market-share-report-49/)
+append_entries: 6
+Finish: 2024-12-02 12:46:05.612245
