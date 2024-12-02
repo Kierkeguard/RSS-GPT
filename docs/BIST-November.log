@@ -3732,3 +3732,18 @@ Append: [The Dialogue Between The Japan Financial Services Agency (FSA) And The 
 Append: [New Zealand Financial Markets Authority: CBLC Update](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-cblc-update/)
 append_entries: 6
 Finish: 2024-12-02 08:29:51.031870
+------------------------------------------------------
+Started: 2024-12-02 10:24:40.802713
+Existing_entries: 546
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euronext Expands Its European Derivatives Offering With The Introduction Of Total Return Futures On The FTSE MIB Index](http://www.mondovisione.com/media-and-resources/news/euronext-expands-its-european-derivatives-offering-with-the-introduction-of-tota/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Fubon Fund Management Launches The First Ever Multi Asset ETF Including Commodities In Hong Kong, Tracking The Solactive Core Diversified Multi Asset Index](http://www.mondovisione.com/media-and-resources/news/fubon-fund-management-launches-the-first-ever-multi-asset-etf-including-commodit/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Offa Purchases Bank Of Ireland’s Islamic Home Finance Portfolio - Unique Funding Structure, First British Financial Institution To Buy Islamic Home Finance Book](http://www.mondovisione.com/media-and-resources/news/offa-purchases-bank-of-irelands-islamic-home-finance-portfolio-unique-funding/)
+append_entries: 3
+Finish: 2024-12-02 10:24:41.754102
