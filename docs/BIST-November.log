@@ -3710,3 +3710,25 @@ Existing_entries: 540
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2024-12-02 06:32:10.097258
+------------------------------------------------------
+Started: 2024-12-02 08:29:50.135721
+Existing_entries: 540
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Japan Exchange Group Trading Overview In November 2024](http://www.mondovisione.com/media-and-resources/news/japan-exchange-group-trading-overview-in-november-2024/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tokyo Financial Exchange Trading Volume In November 2024](http://www.mondovisione.com/media-and-resources/news/tokyo-financial-exchange-trading-volume-in-november-2024/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Japan Exchange Group: Ceremonies On The First And Last Trading Days Of The Year](http://www.mondovisione.com/media-and-resources/news/japan-exchange-group-ceremonies-on-the-first-and-last-trading-days-of-the-year-1/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Monetary Authority Of Singapore Imposes Civil Penalty Of $2.4 Million On JPMorgan Chase Bank, N.A. For Misconduct By Its Relationship Managers](http://www.mondovisione.com/media-and-resources/news/monetary-authority-of-singapore-imposes-civil-penalty-of-24-million-on-jpmorga/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Dialogue Between The Japan Financial Services Agency (FSA) And The Center For Financial Industry Information Systems (FISC)](http://www.mondovisione.com/media-and-resources/news/the-dialogue-between-the-japan-financial-services-agency-fsa-and-the-center-fo-1/)
+Append: [New Zealand Financial Markets Authority: CBLC Update](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-cblc-update/)
+append_entries: 6
+Finish: 2024-12-02 08:29:51.031870
