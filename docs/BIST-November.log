@@ -3778,3 +3778,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [EACH Publishes Its Manifesto For Efficient And Resilient Capital Markets](http://www.mondovisione.com/media-and-resources/news/each-publishes-its-manifesto-for-efficient-and-resilient-capital-markets/)
 append_entries: 1
 Finish: 2024-12-02 14:21:10.252802
+------------------------------------------------------
+Started: 2024-12-02 16:28:25.908047
+Existing_entries: 556
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TMX Group Holiday Operating Schedule](http://www.mondovisione.com/media-and-resources/news/tmx-group-holiday-operating-schedule-14/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Stockholm Streamlines Dual Listing Process For US-Listed Companies To Access European Markets](http://www.mondovisione.com/media-and-resources/news/nasdaq-stockholm-streamlines-dual-listing-process-for-us-listed-companies-to-acc/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Nordic And Baltic Markets Trading Statistics November 2024](http://www.mondovisione.com/media-and-resources/news/nasdaq-nordic-and-baltic-markets-trading-statistics-november-2024/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [DTCC Announces The Appointment Of Michael Winnike To Lead Clearing & Securities Services Strategy And Market Solutions - Winnike Brings More Than 20 Years Of Experience In Clearing, Market Structure And Trading To DTCC](http://www.mondovisione.com/media-and-resources/news/dtcc-announces-the-appointment-of-michael-winnike-to-lead-clearing-and-securities/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Vivenda Group Lists On Euronext Growth Milan](http://www.mondovisione.com/media-and-resources/news/vivenda-group-lists-on-euronext-growth-milan/)
+append_entries: 5
+Finish: 2024-12-02 16:28:27.065446
