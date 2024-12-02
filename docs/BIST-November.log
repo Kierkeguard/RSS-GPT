@@ -3832,3 +3832,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [BC Securities Commission Imposes Nearly $20 Million In Sanctions For Crypto Trading Platform Fraud](http://www.mondovisione.com/media-and-resources/news/bc-securities-commission-imposes-nearly-20-million-in-sanctions-for-crypto-trad/)
 append_entries: 2
 Finish: 2024-12-02 20:23:13.052521
+------------------------------------------------------
+Started: 2024-12-02 22:20:42.943796
+Existing_entries: 568
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Reports November 2024 Volumes](http://www.mondovisione.com/media-and-resources/news/nasdaq-reports-november-2024-volumes/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Commissioner Pham To Speak At Fireblocks SPARK ‘24](http://www.mondovisione.com/media-and-resources/news/cftc-commissioner-pham-to-speak-at-fireblocks-spark-24/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cut Or Skip? Federal Reseve Governor Christopher J. Waller At "Building A Better Fed Framework," American Institute For Economic Research Monetary Conference, Washington, D.C.](http://www.mondovisione.com/media-and-resources/news/cut-or-skip-federal-reseve-governor-christopher-j-waller-at-building-a-better/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The 27th Annual African Securities Exchanges Association Confernece Concludes: A Milestone In Strengthening Africa’s Capital Markets](http://www.mondovisione.com/media-and-resources/news/the-27th-annual-african-securities-exchanges-association-confernece-concludes-a/)
+append_entries: 4
+Finish: 2024-12-02 22:21:03.924725
