@@ -3850,3 +3850,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [The 27th Annual African Securities Exchanges Association Confernece Concludes: A Milestone In Strengthening Africa’s Capital Markets](http://www.mondovisione.com/media-and-resources/news/the-27th-annual-african-securities-exchanges-association-confernece-concludes-a/)
 append_entries: 4
 Finish: 2024-12-02 22:21:03.924725
+------------------------------------------------------
+Started: 2024-12-03 01:47:54.241059
+Existing_entries: 572
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2024-12-03 01:47:55.292378
