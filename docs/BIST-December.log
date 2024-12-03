@@ -121,3 +121,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [The EBA Amends The Supervisory Reporting Framework For Investment Firms](http://www.mondovisione.com/media-and-resources/news/the-eba-amends-the-supervisory-reporting-framework-for-investment-firms/)
 append_entries: 1
 Finish: 2024-12-03 20:24:23.620712
+------------------------------------------------------
+Started: 2024-12-03 22:20:54.536985
+Existing_entries: 33
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Coinbase To Participate In Goldman Sachs Financial Services Conference](http://www.mondovisione.com/media-and-resources/news/coinbase-to-participate-in-goldman-sachs-financial-services-conference/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Zealand Financial Markets Authority Encouraged By First Climate Statements](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-encouraged-by-first-climate-statements/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NZX Shareholder Metrics - November 2024](http://www.mondovisione.com/media-and-resources/news/nzx-shareholder-metrics-november-2024/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Federal Bank Regulatory Agencies Seek Further Comment On Interagency Effort To Reduce Regulatory Burden](http://www.mondovisione.com/media-and-resources/news/us-federal-bank-regulatory-agencies-seek-further-comment-on-interagency-effort-t/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Investor Advisory Committee To Examine Mandatory Arbitration Clauses In Adviser Agreements And Alternative Assets And Retail Investors At December 10 Meeting](http://www.mondovisione.com/media-and-resources/news/sec-investor-advisory-committee-to-examine-mandatory-arbitration-clauses-in-advi/)
+append_entries: 5
+Finish: 2024-12-03 22:20:55.682547
