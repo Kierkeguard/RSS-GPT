@@ -56,3 +56,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Niels Brab, Deutsche Börse, Elected President Of FESE And Delphine d’Amarzit, Euronext, Elected Vice President - Niels Brab Will Succeed Petr Koblic - New Board Appointments](http://www.mondovisione.com/media-and-resources/news/niels-brab-deutsche-brse-elected-president-of-fese-and-delphine-damarzit-eu/)
 append_entries: 1
 Finish: 2024-12-03 12:43:34.967303
+------------------------------------------------------
+Started: 2024-12-03 14:18:48.410474
+Existing_entries: 18
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASEAN Taxonomy Board (ATB) Conducts Workshop On The ASEAN Taxonomy For Sustainable Finance (ASEAN Taxonomy) In Hanoi, Vietnam And Announces Forthcoming Public Frequently Asked Questions (FAQ) & Use Cases In Response To Stakeholder Consultation Feedback](http://www.mondovisione.com/media-and-resources/news/asean-taxonomy-board-atb-conducts-workshop-on-the-asean-taxonomy-for-sustainab/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group Reports Record November ADV Of 30.2 Million Contracts, Driven By Growth Across All Six Asset Classes](http://www.mondovisione.com/media-and-resources/news/cme-group-reports-record-november-adv-of-302-million-contracts-driven-by-growt/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ATFX Connect Won Best B2B Liquidity Provider (Prime Of Prime) At Finance Magnates London Summit 2024](http://www.mondovisione.com/media-and-resources/news/atfx-connect-won-best-b2b-liquidity-provider-prime-of-prime-at-finance-magnate/)
+append_entries: 3
+Finish: 2024-12-03 14:18:49.699399
