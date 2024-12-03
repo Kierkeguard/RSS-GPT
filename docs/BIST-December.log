@@ -24,3 +24,26 @@ Append: [The 27th Annual African Securities Exchanges Association Confernece Con
 Append: [US Office Of The Comptroller Of The Currency Releases CRA Performance Evaluations For 19 National Banks And Federal Savings Associations](http://www.mondovisione.com/media-and-resources/news/us-office-of-the-comptroller-of-the-currency-releases-cra-performance-evaluation/)
 append_entries: 10
 Finish: 2024-12-03 08:28:31.039003
+------------------------------------------------------
+Started: 2024-12-03 10:25:01.551359
+Existing_entries: 10
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [GLEIF And The Netherlands Chamber Of Commerce (KVK) Collaborate To Enable Instant Due Diligence](http://www.mondovisione.com/media-and-resources/news/gleif-and-the-netherlands-chamber-of-commerce-kvk-collaborate-to-enable-instan/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TP ICAP And AWS Announce Major Strategic Collaboration](http://www.mondovisione.com/media-and-resources/news/tp-icap-and-aws-announce-major-strategic-collaboration/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Kaizen And RegGenome Announce Strategic Partnership Using AI To Expand Regulatory Content On Single Rulebook](http://www.mondovisione.com/media-and-resources/news/kaizen-and-reggenome-announce-strategic-partnership-using-ai-to-expand-regulator/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [EDI Expands Global Reach In Investment Funds Data](http://www.mondovisione.com/media-and-resources/news/edi-expands-global-reach-in-investment-funds-data/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Saudi Exchange Market Data Now Available Via QuantHouse](http://www.mondovisione.com/media-and-resources/news/saudi-exchange-market-data-now-available-via-quanthouse/)
+Append: [Statistics From Nasdaq Nordic Exchange November 2024](http://www.mondovisione.com/media-and-resources/news/statistics-from-nasdaq-nordic-exchange-november-2024/)
+Append: [Solactive Wins ETF Stream Award As Index Provider Of The Year For 2024](http://www.mondovisione.com/media-and-resources/news/solactive-wins-etf-stream-award-as-index-provider-of-the-year-for-2024/)
+append_entries: 7
+Finish: 2024-12-03 10:25:02.586878
