@@ -89,3 +89,26 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Chartered Body Alliance Welcomes New Member The CFA Society Of The UK](http://www.mondovisione.com/media-and-resources/news/chartered-body-alliance-welcomes-new-member-the-cfa-society-of-the-uk/)
 append_entries: 4
 Finish: 2024-12-03 16:27:42.729427
+------------------------------------------------------
+Started: 2024-12-03 18:28:36.643281
+Existing_entries: 25
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [A Year In Review: A Tale of Two Supply Shocks, Federal Reserve Governor Adriana D. Kugler, At The Detroit Economic Club, Detroit, Michigan](http://www.mondovisione.com/media-and-resources/news/a-year-in-review-a-tale-of-two-supply-shocks-federal-reserve-governor-adriana/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [OCC Reports November Monthly Volume](http://www.mondovisione.com/media-and-resources/news/occ-reports-november-monthly-volume/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NSE: Disclosure Of Risk-o-Meter Of The Benchmark - November 2024](http://www.mondovisione.com/media-and-resources/news/nse-disclosure-of-risk-o-meter-of-the-benchmark-november-2024/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bank Of England: Once More Unto The Breach - Speech By Philippe Lintern, Given At FX Markets Europe](http://www.mondovisione.com/media-and-resources/news/bank-of-england-once-more-unto-the-breach-speech-by-philippe-lintern-given-a/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Moscow Exchange Trading Volumes In November 2024](http://www.mondovisione.com/media-and-resources/news/moscow-exchange-trading-volumes-in-november-2024/)
+Append: [ALQUILER SEGURO Joins BME Scaleup On December 5](http://www.mondovisione.com/media-and-resources/news/alquiler-seguro-joins-bme-scaleup-on-december-5/)
+Append: [Purdue University/CME Group Ag Economy Barometer: Farmer Sentiment Following The U.S. Election Reaches Highest Levels Since May 2021](http://www.mondovisione.com/media-and-resources/news/purdue-universitycme-group-ag-economy-barometer-farmer-sentiment-following-the/)
+append_entries: 7
+Finish: 2024-12-03 18:28:37.786758
