@@ -112,3 +112,12 @@ Append: [ALQUILER SEGURO Joins BME Scaleup On December 5](http://www.mondovision
 Append: [Purdue University/CME Group Ag Economy Barometer: Farmer Sentiment Following The U.S. Election Reaches Highest Levels Since May 2021](http://www.mondovisione.com/media-and-resources/news/purdue-universitycme-group-ag-economy-barometer-farmer-sentiment-following-the/)
 append_entries: 7
 Finish: 2024-12-03 18:28:37.786758
+------------------------------------------------------
+Started: 2024-12-03 20:24:22.200628
+Existing_entries: 32
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The EBA Amends The Supervisory Reporting Framework For Investment Firms](http://www.mondovisione.com/media-and-resources/news/the-eba-amends-the-supervisory-reporting-framework-for-investment-firms/)
+append_entries: 1
+Finish: 2024-12-03 20:24:23.620712
