@@ -3868,3 +3868,18 @@ Existing_entries: 572
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2024-12-03 04:27:48.773136
+------------------------------------------------------
+Started: 2024-12-03 06:32:21.628167
+Existing_entries: 572
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Borsa Istanbul: Announcement Regarding Technology Services And Market Access Fees To Be Applied Starting From 2025](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-announcement-regarding-technology-services-and-market-access-fee-3/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Flags Key Observations From Inaugural IDR Data Publication](http://www.mondovisione.com/media-and-resources/news/asic-flags-key-observations-from-inaugural-idr-data-publication/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Commissioner Mersinger To Participate In A Fireside Chat At Wharton’s Future Of Finance Forum](http://www.mondovisione.com/media-and-resources/news/cftc-commissioner-mersinger-to-participate-in-a-fireside-chat-at-whartons-futur/)
+append_entries: 3
+Finish: 2024-12-03 06:33:46.511919
