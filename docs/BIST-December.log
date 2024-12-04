@@ -246,3 +246,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Intercontinental Exchange Reports November 2024 Statistics](http://www.mondovisione.com/media-and-resources/news/intercontinental-exchange-reports-november-2024-statistics/)
 append_entries: 3
 Finish: 2024-12-04 16:29:40.443404
+------------------------------------------------------
+Started: 2024-12-04 18:31:24.669480
+Existing_entries: 56
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Federal Agencies Issue Statement On Elder Financial Exploitation](http://www.mondovisione.com/media-and-resources/news/us-federal-agencies-issue-statement-on-elder-financial-exploitation/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Basel Committee Finds Korea Compliant With Its Net Stable Funding Ratio Standard And Largely Compliant With Its Large Exposures Framework](http://www.mondovisione.com/media-and-resources/news/basel-committee-finds-korea-compliant-with-its-net-stable-funding-ratio-standard/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Treasury Exposes Money Laundering Network Using Digital Assets To Evade Sanctions - OFAC And Foreign Partners Disrupt The TGR Group, An International Illicit Finance Network That Enables Russian Elites To Circumvent U.S. And International Sanctions](http://www.mondovisione.com/media-and-resources/news/us-treasury-exposes-money-laundering-network-using-digital-assets-to-evade-sanct/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [OECD - Economic Outlook: Global Growth To Remain Resilient In 2025 And 2026 Despite Significant Risks](http://www.mondovisione.com/media-and-resources/news/oecd-economic-outlook-global-growth-to-remain-resilient-in-2025-and-2026-desp/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Celebrating 50 Years Of FESE: A Night Of Insight,  Appreciation And Vision For The Future](http://www.mondovisione.com/media-and-resources/news/celebrating-50-years-of-fese-a-night-of-insight-appreciation-and-vision-for-t/)
+append_entries: 5
+Finish: 2024-12-04 18:31:30.123526
