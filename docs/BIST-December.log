@@ -160,3 +160,18 @@ Existing_entries: 38
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2024-12-04 04:26:33.962920
+------------------------------------------------------
+Started: 2024-12-04 06:31:43.484046
+Existing_entries: 38
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Invites Feedback On Proposed Updates To Digital Asset Guidance](http://www.mondovisione.com/media-and-resources/news/asic-invites-feedback-on-proposed-updates-to-digital-asset-guidance/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cboe Global Markets To Present At The Goldman Sachs 2024 U.S. Financial Services Conference On December 11](http://www.mondovisione.com/media-and-resources/news/cboe-global-markets-to-present-at-the-goldman-sachs-2024-us-financial-services/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MarketAxess To Participate In The Goldman Sachs Financial Services Conference](http://www.mondovisione.com/media-and-resources/news/marketaxess-to-participate-in-the-goldman-sachs-financial-services-conference/)
+append_entries: 3
+Finish: 2024-12-04 06:31:44.560605
