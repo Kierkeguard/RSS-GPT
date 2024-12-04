@@ -267,3 +267,25 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Celebrating 50 Years Of FESE: A Night Of Insight,  Appreciation And Vision For The Future](http://www.mondovisione.com/media-and-resources/news/celebrating-50-years-of-fese-a-night-of-insight-appreciation-and-vision-for-t/)
 append_entries: 5
 Finish: 2024-12-04 18:31:30.123526
+------------------------------------------------------
+Started: 2024-12-04 20:24:33.306000
+Existing_entries: 61
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Alberta Securities Commission: Industry Experts To Discuss Strategies To Foster A Thriving Alberta Market At ASC Connect 2024](http://www.mondovisione.com/media-and-resources/news/alberta-securities-commission-industry-experts-to-discuss-strategies-to-foster/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Releases FY 2024 Enforcement Results - Obtains Record-Setting $17.1 Billion In Monetary Relief, Sanctions](http://www.mondovisione.com/media-and-resources/news/cftc-releases-fy-2024-enforcement-results-obtains-record-setting-171-billion/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ISDA: Interest Rate Derivatives Trading Activity Reported In EU, UK And US Markets: Third Quarter of 2024 and Year-to-September 30,](http://www.mondovisione.com/media-and-resources/news/isda-interest-rate-derivatives-trading-activity-reported-in-eu-uk-and-us-marke-6/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Canadian Securities Regulators Publish Summary Of 2024 Systemic Risk Survey Results](http://www.mondovisione.com/media-and-resources/news/canadian-securities-regulators-publish-summary-of-2024-systemic-risk-survey-resu/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BC Securities Commission Debuts Updated Investment Caution List To Protect British Columbians](http://www.mondovisione.com/media-and-resources/news/bc-securities-commission-debuts-updated-investment-caution-list-to-protect-briti/)
+Append: [EBA Proposes Criteria To Appoint A Central Contact Point For Crypto-Asset Service Providers To Strengthen The Fight Against Money-Laundering And Terrorism Financing In Host Member States](http://www.mondovisione.com/media-and-resources/news/eba-proposes-criteria-to-appoint-a-central-contact-point-for-crypto-asset-servic/)
+append_entries: 6
+Finish: 2024-12-04 20:24:34.912896
