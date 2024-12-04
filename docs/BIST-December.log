@@ -289,3 +289,12 @@ Append: [BC Securities Commission Debuts Updated Investment Caution List To Prot
 Append: [EBA Proposes Criteria To Appoint A Central Contact Point For Crypto-Asset Service Providers To Strengthen The Fight Against Money-Laundering And Terrorism Financing In Host Member States](http://www.mondovisione.com/media-and-resources/news/eba-proposes-criteria-to-appoint-a-central-contact-point-for-crypto-asset-servic/)
 append_entries: 6
 Finish: 2024-12-04 20:24:34.912896
+------------------------------------------------------
+Started: 2024-12-04 22:21:27.770749
+Existing_entries: 67
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Coinbase to Participate In 51st Nasdaq London Investor Conference](http://www.mondovisione.com/media-and-resources/news/coinbase-to-participate-in-51st-nasdaq-london-investor-conference/)
+append_entries: 1
+Finish: 2024-12-04 22:21:28.757652
