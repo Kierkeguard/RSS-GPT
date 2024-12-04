@@ -196,3 +196,26 @@ Existing_entries: 44
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2024-12-04 10:24:03.713652
+------------------------------------------------------
+Started: 2024-12-04 12:44:32.457258
+Existing_entries: 44
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Investor Activity On GPW In November 2024](http://www.mondovisione.com/media-and-resources/news/investor-activity-on-gpw-in-november-2024/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MarketAxess Announces Trading Volume Statistics For November 2024](http://www.mondovisione.com/media-and-resources/news/marketaxess-announces-trading-volume-statistics-for-november-2024/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Exchange Data International Celebrates Double Recognition As Best Corporate Actions Data Provider In 2024](http://www.mondovisione.com/media-and-resources/news/exchange-data-international-celebrates-double-recognition-as-best-corporate-acti/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group Announces CME Term €STR Reference Rates](http://www.mondovisione.com/media-and-resources/news/cme-group-announces-cme-term-str-reference-rates/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SET Partners With Leading Regional Universities For CISA Testing Centers, Bridging Path To Capital Market Careers](http://www.mondovisione.com/media-and-resources/news/set-partners-with-leading-regional-universities-for-cisa-testing-centers-bridgi/)
+Append: [Decision By The Nasdaq Stockholm Disciplinary Committee Regarding Flexion Mobile Plc](http://www.mondovisione.com/media-and-resources/news/decision-by-the-nasdaq-stockholm-disciplinary-committee-regarding-flexion-mobile/)
+Append: [Trading Charity At The Frankfurt Stock Exchange On 6 December](http://www.mondovisione.com/media-and-resources/news/trading-charity-at-the-frankfurt-stock-exchange-on-6-december/)
+append_entries: 7
+Finish: 2024-12-04 12:44:33.383869
