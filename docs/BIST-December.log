@@ -175,3 +175,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [MarketAxess To Participate In The Goldman Sachs Financial Services Conference](http://www.mondovisione.com/media-and-resources/news/marketaxess-to-participate-in-the-goldman-sachs-financial-services-conference/)
 append_entries: 3
 Finish: 2024-12-04 06:31:44.560605
+------------------------------------------------------
+Started: 2024-12-04 08:29:52.358423
+Existing_entries: 41
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TNS Launches Market Data Monitoring Solution For Banks And Hedge Funds Together With TNS Market Data As A Service](http://www.mondovisione.com/media-and-resources/news/tns-launches-market-data-monitoring-solution-for-banks-and-hedge-funds-together/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FSB Plenary Meets In Hong Kong](http://www.mondovisione.com/media-and-resources/news/fsb-plenary-meets-in-hong-kong/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Signals Ongoing Work To Maximise Benefits Of The Reportable Situations Regime](http://www.mondovisione.com/media-and-resources/news/asic-signals-ongoing-work-to-maximise-benefits-of-the-reportable-situations-regi/)
+append_entries: 3
+Finish: 2024-12-04 08:30:44.105300
