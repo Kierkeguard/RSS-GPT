@@ -219,3 +219,15 @@ Append: [Decision By The Nasdaq Stockholm Disciplinary Committee Regarding Flexi
 Append: [Trading Charity At The Frankfurt Stock Exchange On 6 December](http://www.mondovisione.com/media-and-resources/news/trading-charity-at-the-frankfurt-stock-exchange-on-6-december/)
 append_entries: 7
 Finish: 2024-12-04 12:44:33.383869
+------------------------------------------------------
+Started: 2024-12-04 14:20:53.600277
+Existing_entries: 51
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NSE Indices Fixed Income Index Dashboard For The Month Ended November 2024](http://www.mondovisione.com/media-and-resources/news/nse-indices-fixed-income-index-dashboard-for-the-month-ended-november-2024/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LME Welcomes Clear Street As Category 1 Member](http://www.mondovisione.com/media-and-resources/news/lme-welcomes-clear-street-as-category-1-member/)
+append_entries: 2
+Finish: 2024-12-04 14:20:55.050535
