@@ -231,3 +231,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [LME Welcomes Clear Street As Category 1 Member](http://www.mondovisione.com/media-and-resources/news/lme-welcomes-clear-street-as-category-1-member/)
 append_entries: 2
 Finish: 2024-12-04 14:20:55.050535
+------------------------------------------------------
+Started: 2024-12-04 16:29:10.555431
+Existing_entries: 53
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Revised Lists Of The Moscow Exchange Indices Announced](http://www.mondovisione.com/media-and-resources/news/revised-lists-of-the-moscow-exchange-indices-announced-49/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Miami International Holdings Reports Trading Results For November 2024 - Multi-Listed Options Market Share Up 9.3% With Record Volume Across Multiple Options And Equities Exchanges](http://www.mondovisione.com/media-and-resources/news/miami-international-holdings-reports-trading-results-for-november-2024-multi-l/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Intercontinental Exchange Reports November 2024 Statistics](http://www.mondovisione.com/media-and-resources/news/intercontinental-exchange-reports-november-2024-statistics/)
+append_entries: 3
+Finish: 2024-12-04 16:29:40.443404
