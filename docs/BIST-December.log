@@ -443,3 +443,26 @@ Append: [Supervisory Board Of Deutsche Börse AG Appoints New Executive Board Me
 Append: [Supervisory Board Of Deutsche Börse AG Nominates Clara-Christina Streit As New Chairwoman - Martin Jetter To Resign After The Annual General Meeting 2025, As Announced](http://www.mondovisione.com/media-and-resources/news/supervisory-board-of-deutsche-brse-ag-nominates-clara-christina-streit-as-new-c/)
 append_entries: 9
 Finish: 2024-12-05 20:24:46.554649
+------------------------------------------------------
+Started: 2024-12-05 22:20:58.163611
+Existing_entries: 97
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq CFO Sarah Youngwood To Present At The Goldman Sachs U.S. Financial Services Conference](http://www.mondovisione.com/media-and-resources/news/nasdaq-cfo-sarah-youngwood-to-present-at-the-goldman-sachs-us-financial-servic/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Statement Of CFTC Commissioner Kristin N. Johnson On Future-Proofing Financial Markets: Assessing The Integration Of Artificial Intelligence In Global Derivatives Markets](http://www.mondovisione.com/media-and-resources/news/statement-of-cftc-commissioner-kristin-n-johnson-on-future-proofing-financial-m/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Statement Of CFTC Chairman Rostin Behnam On The Staff Advisory Related To The Use Of Artificial Intelligence By CFTC-Registered Entities And Registrants](http://www.mondovisione.com/media-and-resources/news/statement-of-cftc-chairman-rostin-behnam-on-the-staff-advisory-related-to-the-us/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Staff Issues Advisory Related To The Use Of Artificial Intelligence By CFTC-Registered Entities And Registrants](http://www.mondovisione.com/media-and-resources/news/cftc-staff-issues-advisory-related-to-the-use-of-artificial-intelligence-by-cftc/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Exchange Group - Options Markets - Amendments To Rule 1306, Branch Offices And Rule 1308, Supervision Of Accounts](http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-options-markets-amendments-to-rule-1306-branch-offices/)
+Append: [Quarterly Adjustment Of GPW Benchmark Indices](http://www.mondovisione.com/media-and-resources/news/quarterly-adjustment-of-gpw-benchmark-indices-14/)
+Append: [SIFMA Economist Roundtable Survey Forecasts Continued Economic Growth, Rate Cuts, And Declining Inflation In 2025](http://www.mondovisione.com/media-and-resources/news/sifma-economist-roundtable-survey-forecasts-continued-economic-growth-rate-cuts/)
+append_entries: 7
+Finish: 2024-12-05 22:20:59.614282
