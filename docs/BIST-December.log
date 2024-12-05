@@ -355,3 +355,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [HKEX Monthly Market Highlights](http://www.mondovisione.com/media-and-resources/news/hkex-monthly-market-highlights-49/)
 append_entries: 2
 Finish: 2024-12-05 10:23:57.323643
+------------------------------------------------------
+Started: 2024-12-05 12:44:19.632212
+Existing_entries: 75
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER’s New Country Sheets Identify Opportunities And Threats In Retail Markets Across The EU](http://www.mondovisione.com/media-and-resources/news/acers-new-country-sheets-identify-opportunities-and-threats-in-retail-markets-a/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Valu-Trac Selects Temenos Multifonds Saas To Scale Fund Administration And Transfer Agency Business In The UK -  Temenos Multifonds Will Offer A Significant Uplift In Capability And Servicing For Valu-Trac’s Managers And Collective Fund Shareholders.](http://www.mondovisione.com/media-and-resources/news/valu-trac-selects-temenos-multifonds-saas-to-scale-fund-administration-and-trans/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BMLL Wins ‘Best Data Visualisation Provider’ For BMLL Vantage At The Data Management Insight Awards Europe 2024](http://www.mondovisione.com/media-and-resources/news/bmll-wins-best-data-visualisation-provider-for-bmll-vantage-at-the-data-manage/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Association Of National Numbering Agencies (ANNA) Membership Reaches 113 As A Large Number Of Jurisdictions Transition To Become Full Members - Confirmed At ANNA’s General Meeting In Warsaw, 3-4 December 2024](http://www.mondovisione.com/media-and-resources/news/the-association-of-national-numbering-agencies-anna-membership-reaches-113-as/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FSB Details Advances In Global Resolution Regimes And Unveils A List Of Insurers Subject To Resolution Planning Standards](http://www.mondovisione.com/media-and-resources/news/fsb-details-advances-in-global-resolution-regimes-and-unveils-a-list-of-insurers/)
+append_entries: 5
+Finish: 2024-12-05 12:44:21.613107
