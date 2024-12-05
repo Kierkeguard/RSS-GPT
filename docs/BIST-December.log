@@ -397,3 +397,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [StoneX Group Inc. Approved To Operate Digital Asset Business In Ireland As A Virtual Asset Service Provider](http://www.mondovisione.com/media-and-resources/news/stonex-group-inc-approved-to-operate-digital-asset-business-in-ireland-as-a-vir/)
 append_entries: 5
 Finish: 2024-12-05 14:20:34.263175
+------------------------------------------------------
+Started: 2024-12-05 16:28:50.169715
+Existing_entries: 85
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC: Federal Court Orders Defendant To Pay More Than $2 Million For Operating Commodity Pool Fraud Scheme](http://www.mondovisione.com/media-and-resources/news/cftc-federal-court-orders-defendant-to-pay-more-than-2-million-for-operating-c/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group To Launch 1-Ounce Gold Futures To Meet Surging Retail Demand](http://www.mondovisione.com/media-and-resources/news/cme-group-to-launch-1-ounce-gold-futures-to-meet-surging-retail-demand/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [“Capital Markets, Competition, And The SEC”  Speech By Chair Gary Gensler](http://www.mondovisione.com/media-and-resources/news/capital-markets-competition-and-the-sec-speech-by-chair-gary-gensler/)
+append_entries: 3
+Finish: 2024-12-05 16:28:51.327526
