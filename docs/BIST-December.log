@@ -334,3 +334,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Cboe Global Markets Reports Trading Volume For November 2024](http://www.mondovisione.com/media-and-resources/news/cboe-global-markets-reports-trading-volume-for-november-2024/)
 append_entries: 4
 Finish: 2024-12-05 06:32:10.265532
+------------------------------------------------------
+Started: 2024-12-05 08:28:55.294603
+Existing_entries: 72
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TMX Group Limited Appoints Peter Rockandel To The Company’s Board Of Directors](http://www.mondovisione.com/media-and-resources/news/tmx-group-limited-appoints-peter-rockandel-to-the-companys-board-of-directors/)
+append_entries: 1
+Finish: 2024-12-05 08:29:57.798264
