@@ -343,3 +343,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [TMX Group Limited Appoints Peter Rockandel To The Company’s Board Of Directors](http://www.mondovisione.com/media-and-resources/news/tmx-group-limited-appoints-peter-rockandel-to-the-companys-board-of-directors/)
 append_entries: 1
 Finish: 2024-12-05 08:29:57.798264
+------------------------------------------------------
+Started: 2024-12-05 10:23:55.999991
+Existing_entries: 73
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Vienna Stock Exchange: Stock Market Taboo 2024: "AI Bubble" Caused Irritation](http://www.mondovisione.com/media-and-resources/news/vienna-stock-exchange-stock-market-taboo-2024-ai-bubble-caused-irritation/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX Monthly Market Highlights](http://www.mondovisione.com/media-and-resources/news/hkex-monthly-market-highlights-49/)
+append_entries: 2
+Finish: 2024-12-05 10:23:57.323643
