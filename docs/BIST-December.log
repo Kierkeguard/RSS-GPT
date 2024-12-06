@@ -484,3 +484,12 @@ Existing_entries: 104
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2024-12-06 04:26:55.085799
+------------------------------------------------------
+Started: 2024-12-06 06:31:17.389715
+Existing_entries: 104
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Fair’s Fair: The Case For Prohibiting Unfair Trading Practices In Financial Services - Keynote Address By ASIC Commissioner Alan Kirkland At The Australasian Consumer Law Roundtable In Melbourne On 6 December 2024](http://www.mondovisione.com/media-and-resources/news/fairs-fair-the-case-for-prohibiting-unfair-trading-practices-in-financial-serv/)
+append_entries: 1
+Finish: 2024-12-06 06:31:18.935162
