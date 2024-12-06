@@ -502,3 +502,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Derivatives Service Bureau (DSB) Wins ‘Best Standards Solution For Data Management’ At The A-Team Data Management Insight Awards Europe 2024](http://www.mondovisione.com/media-and-resources/news/derivatives-service-bureau-dsb-wins-best-standards-solution-for-data-manageme/)
 append_entries: 1
 Finish: 2024-12-06 08:28:36.192167
+------------------------------------------------------
+Started: 2024-12-06 10:23:29.205110
+Existing_entries: 106
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Vienna Stock Exchange: Midpoint Trading Goes Live](http://www.mondovisione.com/media-and-resources/news/vienna-stock-exchange-midpoint-trading-goes-live/)
+append_entries: 1
+Finish: 2024-12-06 10:23:30.347317
