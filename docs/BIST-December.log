@@ -511,3 +511,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Vienna Stock Exchange: Midpoint Trading Goes Live](http://www.mondovisione.com/media-and-resources/news/vienna-stock-exchange-midpoint-trading-goes-live/)
 append_entries: 1
 Finish: 2024-12-06 10:23:30.347317
+------------------------------------------------------
+Started: 2024-12-06 12:43:20.025358
+Existing_entries: 107
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2024-12-06 12:43:22.199216
