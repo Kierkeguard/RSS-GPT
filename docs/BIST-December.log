@@ -493,3 +493,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Fair’s Fair: The Case For Prohibiting Unfair Trading Practices In Financial Services - Keynote Address By ASIC Commissioner Alan Kirkland At The Australasian Consumer Law Roundtable In Melbourne On 6 December 2024](http://www.mondovisione.com/media-and-resources/news/fairs-fair-the-case-for-prohibiting-unfair-trading-practices-in-financial-serv/)
 append_entries: 1
 Finish: 2024-12-06 06:31:18.935162
+------------------------------------------------------
+Started: 2024-12-06 08:28:23.476223
+Existing_entries: 105
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Derivatives Service Bureau (DSB) Wins ‘Best Standards Solution For Data Management’ At The A-Team Data Management Insight Awards Europe 2024](http://www.mondovisione.com/media-and-resources/news/derivatives-service-bureau-dsb-wins-best-standards-solution-for-data-manageme/)
+append_entries: 1
+Finish: 2024-12-06 08:28:36.192167
