@@ -545,3 +545,25 @@ Append: [Malawi Stock Exchange Weekly Summary, 6 December 2024](http://www.mondo
 Append: [Fiserv Publishes 2024 Thanksgiving Holiday Spending Insights](http://www.mondovisione.com/media-and-resources/news/fiserv-publishes-2024-thanksgiving-holiday-spending-insights/)
 append_entries: 6
 Finish: 2024-12-06 16:26:32.704631
+------------------------------------------------------
+Started: 2024-12-06 18:30:15.169740
+Existing_entries: 113
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Commissioner Johnson Announces Agenda For CFTC Market Risk Advisory Committee Meeting On Dec. 10](http://www.mondovisione.com/media-and-resources/news/cftc-commissioner-johnson-announces-agenda-for-cftc-market-risk-advisory-committ/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Financial Stability Oversight Council Releases 2024 Annual Report](http://www.mondovisione.com/media-and-resources/news/us-financial-stability-oversight-council-releases-2024-annual-report/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Remarks By US Secretary Of The Treasury Janet L. Yellen At The Open Session Of The Meeting Of The US Financial Stability Oversight Council](http://www.mondovisione.com/media-and-resources/news/remarks-by-us-secretary-of-the-treasury-janet-l-yellen-at-the-open-session-of-t-1/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bank Of England: Summary Minutes Of Sub-Group And Task Force Meetings - September 2024](http://www.mondovisione.com/media-and-resources/news/bank-of-england-summary-minutes-of-sub-group-and-task-force-meetings-septembe/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Finansinspektionen: AI Increasingly Common In The Financial Sector, But Risk Management Is Lagging Behind](http://www.mondovisione.com/media-and-resources/news/finansinspektionen-ai-increasingly-common-in-the-financial-sector-but-risk-man/)
+Append: [Bank Of England: Minutes Of The London FXJSC Legal Sub-Committee Meeting – 17 September 2024](http://www.mondovisione.com/media-and-resources/news/bank-of-england-minutes-of-the-london-fxjsc-legal-sub-committee-meeting-17-se/)
+append_entries: 6
+Finish: 2024-12-06 18:30:16.729979
