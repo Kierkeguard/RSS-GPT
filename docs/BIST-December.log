@@ -589,3 +589,21 @@ Append: [Readout: US Financial Stability Oversight Council Meeting On December 6
 Append: [Ontario Securities Commission Publishes 2024 Corporate Finance Division Annual Report](http://www.mondovisione.com/media-and-resources/news/ontario-securities-commission-publishes-2024-corporate-finance-division-annual-r/)
 append_entries: 6
 Finish: 2024-12-06 20:24:14.920305
+------------------------------------------------------
+Started: 2024-12-06 22:20:39.908327
+Existing_entries: 125
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Increase To The Maximum Price Limit For MIAX Options, MIAX Pearl Options, MIAX Emerald Options And MIAX Sapphire Options Effective Monday, December 9, 2024](http://www.mondovisione.com/media-and-resources/news/increase-to-the-maximum-price-limit-for-miax-options-miax-pearl-options-miax-e-1/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Remarks By US Secretary Of The Treasury Janet L. Yellen At The US Financial Stability Oversight Council Conference On Artificial Intelligence And Financial Stability](http://www.mondovisione.com/media-and-resources/news/remarks-by-us-secretary-of-the-treasury-janet-l-yellen-at-the-us-financial-stab/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Financial Stability Oversight Council And The Brookings Institution Host A Conference On Artificial Intelligence And Financial Stability](http://www.mondovisione.com/media-and-resources/news/us-financial-stability-oversight-council-and-the-brookings-institution-host-a-co-1/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Remarks By US Deputy Assistant Secretary For The US Financial Stability Oversight Council Sandra Lee At The Conference On Artificial Intelligence And Financial Stability](http://www.mondovisione.com/media-and-resources/news/remarks-by-us-deputy-assistant-secretary-for-the-us-financial-stability-oversigh/)
+append_entries: 4
+Finish: 2024-12-06 22:20:41.237191
