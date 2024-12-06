@@ -523,3 +523,25 @@ Existing_entries: 107
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2024-12-06 14:19:59.086142
+------------------------------------------------------
+Started: 2024-12-06 16:26:31.194720
+Existing_entries: 107
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The EBA Publishes Final Standards On The Specification Of Long And Short Positions Under The Derogations For Market And Counterparty Risks](http://www.mondovisione.com/media-and-resources/news/the-eba-publishes-final-standards-on-the-specification-of-long-and-short-positio/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nigerian Exchange Weekly Market Report For The Week Ended 6 December 2024](http://www.mondovisione.com/media-and-resources/news/nigerian-exchange-weekly-market-report-for-the-week-ended-6-december-2024/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER And ESMA Cooperate To Better Protect Businesses And Consumers From Abuse Of The Energy Market](http://www.mondovisione.com/media-and-resources/news/acer-and-esma-cooperate-to-better-protect-businesses-and-consumers-from-abuse-of/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FSB Sub-Saharan Africa Group Discusses Financial Scams And Fraud Prevention, And Crisis Preparedness And Resolution](http://www.mondovisione.com/media-and-resources/news/fsb-sub-saharan-africa-group-discusses-financial-scams-and-fraud-prevention-and/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Malawi Stock Exchange Weekly Summary, 6 December 2024](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-6-december-2024/)
+Append: [Fiserv Publishes 2024 Thanksgiving Holiday Spending Insights](http://www.mondovisione.com/media-and-resources/news/fiserv-publishes-2024-thanksgiving-holiday-spending-insights/)
+append_entries: 6
+Finish: 2024-12-06 16:26:32.704631
