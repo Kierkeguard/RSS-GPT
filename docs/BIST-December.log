@@ -703,3 +703,12 @@ Existing_entries: 129
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2024-12-08 08:26:07.931889
+------------------------------------------------------
+Started: 2024-12-08 10:21:25.612814
+Existing_entries: 129
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tehran Securities Exchange Bulletin - November 2024](http://www.mondovisione.com/media-and-resources/news/tehran-securities-exchange-bulletin-november-2024/)
+append_entries: 1
+Finish: 2024-12-08 10:22:26.891617
