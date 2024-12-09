@@ -823,3 +823,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [FTSE SET Index Series December 2024 Semi-Annual Review](http://www.mondovisione.com/media-and-resources/news/ftse-set-index-series-december-2024-semi-annual-review-1/)
 append_entries: 2
 Finish: 2024-12-09 14:21:16.236993
+------------------------------------------------------
+Started: 2024-12-09 16:28:55.318140
+Existing_entries: 139
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ICE Mortgage Monitor: Recent Vintage Borrowers Pounced On Early-Autumn Rate Drops As 300K+ Refinanced In September And October](http://www.mondovisione.com/media-and-resources/news/ice-mortgage-monitor-recent-vintage-borrowers-pounced-on-early-autumn-rate-drop/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [DTCC Appoints Jason Angrisani Chief Marketing Officer - Angrisani Brings More Than 20 Years Of Experience At Leading Financial Firms To DTCC](http://www.mondovisione.com/media-and-resources/news/dtcc-appoints-jason-angrisani-chief-marketing-officer-angrisani-brings-more-th/)
+append_entries: 2
+Finish: 2024-12-09 16:28:56.282314
