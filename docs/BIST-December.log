@@ -793,3 +793,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Bursa Malaysia RAM Capital Launches Secondary Market For Its Debt Fundraising And Investment Platform](http://www.mondovisione.com/media-and-resources/news/bursa-malaysia-ram-capital-launches-secondary-market-for-its-debt-fundraising-an/)
 append_entries: 4
 Finish: 2024-12-09 08:30:38.650867
+------------------------------------------------------
+Started: 2024-12-09 10:24:51.578812
+Existing_entries: 135
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Broadridge Announces First-of-its-Kind AI-Powered Algorithm Insights Service](http://www.mondovisione.com/media-and-resources/news/broadridge-announces-first-of-its-kind-ai-powered-algorithm-insights-service/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Avelacom And CryptoStruct Announce New Partnership to Deliver Ultra-Low Latency Connectivity for Crypto Trading Firms - Combination Of Low Latency And Algorithmic Solutions Means Digital Asset Institutions Will Benefit From Optimized Access To Global Crypto Markets](http://www.mondovisione.com/media-and-resources/news/avelacom-and-cryptostruct-announce-new-partnership-to-deliver-ultra-low-latency/)
+append_entries: 2
+Finish: 2024-12-09 10:24:52.530978
