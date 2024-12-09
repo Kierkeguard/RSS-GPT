@@ -811,3 +811,15 @@ Existing_entries: 137
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2024-12-09 12:46:30.583306
+------------------------------------------------------
+Started: 2024-12-09 14:21:14.875335
+Existing_entries: 137
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ICE Expands Global Energy Offering With The Launch Of Japanese Power Futures](http://www.mondovisione.com/media-and-resources/news/ice-expands-global-energy-offering-with-the-launch-of-japanese-power-futures/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FTSE SET Index Series December 2024 Semi-Annual Review](http://www.mondovisione.com/media-and-resources/news/ftse-set-index-series-december-2024-semi-annual-review-1/)
+append_entries: 2
+Finish: 2024-12-09 14:21:16.236993
