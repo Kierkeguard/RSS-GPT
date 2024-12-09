@@ -775,3 +775,21 @@ Existing_entries: 131
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2024-12-09 06:32:39.101283
+------------------------------------------------------
+Started: 2024-12-09 08:30:37.305283
+Existing_entries: 131
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BMLL Wins ‘Best Collaboration Initiative’ For QuantHouse Partnership At The WatersTechnology American Financial Technology Awards 2024](http://www.mondovisione.com/media-and-resources/news/bmll-wins-best-collaboration-initiative-for-quanthouse-partnership-at-the-wate/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Securities Commission Malaysia Alerts Public On Fake Investment Letters Using Securities Commission Malaysia’s Name](http://www.mondovisione.com/media-and-resources/news/securities-commission-malaysia-alerts-public-on-fake-investment-letters-using-se/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SGX Group Reports Market Statistics For November 2024](http://www.mondovisione.com/media-and-resources/news/sgx-group-reports-market-statistics-for-november-2024/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bursa Malaysia RAM Capital Launches Secondary Market For Its Debt Fundraising And Investment Platform](http://www.mondovisione.com/media-and-resources/news/bursa-malaysia-ram-capital-launches-secondary-market-for-its-debt-fundraising-an/)
+append_entries: 4
+Finish: 2024-12-09 08:30:38.650867
