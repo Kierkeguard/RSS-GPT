@@ -835,3 +835,26 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [DTCC Appoints Jason Angrisani Chief Marketing Officer - Angrisani Brings More Than 20 Years Of Experience At Leading Financial Firms To DTCC](http://www.mondovisione.com/media-and-resources/news/dtcc-appoints-jason-angrisani-chief-marketing-officer-angrisani-brings-more-th/)
 append_entries: 2
 Finish: 2024-12-09 16:28:56.282314
+------------------------------------------------------
+Started: 2024-12-09 18:31:15.416834
+Existing_entries: 141
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Announces Departure Of Trading and Markets Division Director Haoxiang Zhu - Deputy Director David Saltiel To Serve As Acting Director](http://www.mondovisione.com/media-and-resources/news/sec-announces-departure-of-trading-and-markets-division-director-haoxiang-zhu/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Commissioner Johnson To Speak At The AI Summit New York 2024](http://www.mondovisione.com/media-and-resources/news/cftc-commissioner-johnson-to-speak-at-the-ai-summit-new-york-2024/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Finansinspektionen Supervision 30: The Banks Can Strengthen Their Sanction Screening](http://www.mondovisione.com/media-and-resources/news/finansinspektionen-supervision-30-the-banks-can-strengthen-their-sanction-scree/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Commissioner Johnson To Participate in Fire-Side Chat At Reuters Next 2024](http://www.mondovisione.com/media-and-resources/news/cftc-commissioner-johnson-to-participate-in-fire-side-chat-at-reuters-next-2024/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Getting The Balance Right: Ensuring The Bank’s Balance Sheet Can Support Financial Stability − Speech By Dave Ramsden, Bank Of England, Deputy Governor, Markets And Banking, Given At The Official Monetary And Financial Institutions Forum, London](http://www.mondovisione.com/media-and-resources/news/getting-the-balance-right-ensuring-the-banks-balance-sheet-can-support-financi/)
+Append: [BME Launches SpainAtMid, A New Pool Of Non-Displayed Liquidity, To Make Trading In Spanish Equities More Attractive](http://www.mondovisione.com/media-and-resources/news/bme-launches-spainatmid-a-new-pool-of-non-displayed-liquidity-to-make-trading/)
+Append: [The EBA Consults On Draft Technical Standards That Specify Material Changes And Extensions To The Internal Ratings Based Approach](http://www.mondovisione.com/media-and-resources/news/the-eba-consults-on-draft-technical-standards-that-specify-material-changes-and/)
+append_entries: 7
+Finish: 2024-12-09 18:31:16.721187
