@@ -858,3 +858,18 @@ Append: [BME Launches SpainAtMid, A New Pool Of Non-Displayed Liquidity, To Make
 Append: [The EBA Consults On Draft Technical Standards That Specify Material Changes And Extensions To The Internal Ratings Based Approach](http://www.mondovisione.com/media-and-resources/news/the-eba-consults-on-draft-technical-standards-that-specify-material-changes-and/)
 append_entries: 7
 Finish: 2024-12-09 18:31:16.721187
+------------------------------------------------------
+Started: 2024-12-09 22:21:20.233688
+Existing_entries: 148
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Federal Reserve Board Provides Technical Clarification That Its Account Access Guidelines Apply To Excess Balance Accounts](http://www.mondovisione.com/media-and-resources/news/federal-reserve-board-provides-technical-clarification-that-its-account-access-g/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group: Micro E-mini Equity Index Futures Surpass 3 Billion Contracts Traded](http://www.mondovisione.com/media-and-resources/news/cme-group-micro-e-mini-equity-index-futures-surpass-3-billion-contracts-traded/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [EACH’s Women In Clearing Series – Inspiration With Vicky Hsu, BlackRock](http://www.mondovisione.com/media-and-resources/news/eachs-women-in-clearing-series-inspiration-with-vicky-hsu-blackrock/)
+append_entries: 3
+Finish: 2024-12-09 22:21:21.065998
