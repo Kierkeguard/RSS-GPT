@@ -990,3 +990,24 @@ Append: [ICE Launches Long European Union Bond Index Futures - Futures Reference
 Append: [Eurex Clearing Expands Its ESG Compass To Cover Cash Market And Repo Transactions](http://www.mondovisione.com/media-and-resources/news/eurex-clearing-expands-its-esg-compass-to-cover-cash-market-and-repo-transaction/)
 append_entries: 10
 Finish: 2024-12-10 18:31:24.062782
+------------------------------------------------------
+Started: 2024-12-10 20:24:23.932569
+Existing_entries: 176
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Opening Statement Of CFTC Commissioner Christy Goldsmith Romero, Meeting Of The CFTC Market Risk Advisory Committee](http://www.mondovisione.com/media-and-resources/news/opening-statement-of-cftc-commissioner-christy-goldsmith-romero-meeting-of-the/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Opening Statement Of CFTC Commissioner Kristin N. Johnson Before The Market Risk Advisory Committee Meeting](http://www.mondovisione.com/media-and-resources/news/opening-statement-of-cftc-commissioner-kristin-n-johnson-before-the-market-risk-4/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Ontario Securities Commission Publishes Compliance Review Findings And Guidance For Crypto Asset Trading Platforms](http://www.mondovisione.com/media-and-resources/news/ontario-securities-commission-publishes-compliance-review-findings-and-guidance/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ETFGI: Fifty Percent Of The Top 50 Overseas Securities Purchased By Korean Retail Investors Were ETFs Listed In The United States In November](http://www.mondovisione.com/media-and-resources/news/etfgi-fifty-percent-of-the-top-50-overseas-securities-purchased-by-korean-retai/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ETFGI Reports There Were 64 New Product Launches And 8 Product Closures In The Global ETFs Industry During The Week Of December 2nd](http://www.mondovisione.com/media-and-resources/news/etfgi-reports-there-were-64-new-product-launches-and-8-product-closures-in-the-g/)
+append_entries: 5
+Finish: 2024-12-10 20:24:25.297910
