@@ -897,3 +897,28 @@ Existing_entries: 151
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2024-12-10 06:31:48.000685
+------------------------------------------------------
+Started: 2024-12-10 08:29:34.737174
+Existing_entries: 151
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euronext Announces Volumes For November 2024](http://www.mondovisione.com/media-and-resources/news/euronext-announces-volumes-for-november-2024/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [S&P Dow Jones Indices And JPX Market Innovation & Research Launch S&P/JPX Prime Market 250 Index](http://www.mondovisione.com/media-and-resources/news/sandp-dow-jones-indices-and-jpx-market-innovation-and-research-launch-sandpjpx-prime/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Reissues Regulatory Guide 133 On Funds Management And Custodial Services](http://www.mondovisione.com/media-and-resources/news/asic-reissues-regulatory-guide-133-on-funds-management-and-custodial-services/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Shenzhen Stock Exchange Market Bulletin, December 06, 2024, Issue 37](http://www.mondovisione.com/media-and-resources/news/shenzhen-stock-exchange-market-bulletin-december-06-2024-issue-37/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Zealand Financial Markets Authority - Accredited Body Report – New Zealand Institute Of Chartered Accountants](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-accredited-body-report-new-zealand/)
+Append: [ASIC Proposes To Remake Relief Instrument For 31-Day Notice Term Deposits](http://www.mondovisione.com/media-and-resources/news/asic-proposes-to-remake-relief-instrument-for-31-day-notice-term-deposits/)
+Append: [New Zealand Financial Markets Authority Launches “Regulatory Sandbox” Pilot For 2025](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-launches-regulatory-sandbox-pilot-for/)
+Append: [SEC Charges Morgan Stanley Smith Barney For Policy Deficiencies That Resulted In Failure To Prevent And Detect Its Financial Advisors’ Theft Of Investor Funds](http://www.mondovisione.com/media-and-resources/news/sec-charges-morgan-stanley-smith-barney-for-policy-deficiencies-that-resulted-in/)
+Append: [SEC Charges Ian Bell With Defrauding Professional Athletes And Others In Fraudulent Day-Trading Scheme](http://www.mondovisione.com/media-and-resources/news/sec-charges-ian-bell-with-defrauding-professional-athletes-and-others-in-fraudul/)
+append_entries: 9
+Finish: 2024-12-10 08:29:51.774526
