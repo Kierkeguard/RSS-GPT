@@ -1011,3 +1011,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ETFGI Reports There Were 64 New Product Launches And 8 Product Closures In The Global ETFs Industry During The Week Of December 2nd](http://www.mondovisione.com/media-and-resources/news/etfgi-reports-there-were-64-new-product-launches-and-8-product-closures-in-the-g/)
 append_entries: 5
 Finish: 2024-12-10 20:24:25.297910
+------------------------------------------------------
+Started: 2024-12-10 22:20:58.832731
+Existing_entries: 181
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Announces End-Of-Month Open Short Interest Positions In Nasdaq Stocks As Of Settlement Date November 29, 2024](http://www.mondovisione.com/media-and-resources/news/nasdaq-announces-end-of-month-open-short-interest-positions-in-nasdaq-stocks-as-49/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NYSE Group Consolidated Short Interest Report](http://www.mondovisione.com/media-and-resources/news/nyse-group-consolidated-short-interest-report-49/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Remarks At The Meeting Of The Investor Advisory Committee, SEC Commissioner Mark T. Uyeda, Washington D.C., Dec. 10, 2024](http://www.mondovisione.com/media-and-resources/news/remarks-at-the-meeting-of-the-investor-advisory-committee-sec-commissioner-mark-2/)
+append_entries: 3
+Finish: 2024-12-10 22:21:00.236361
