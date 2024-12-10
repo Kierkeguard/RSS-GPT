@@ -922,3 +922,24 @@ Append: [SEC Charges Morgan Stanley Smith Barney For Policy Deficiencies That Re
 Append: [SEC Charges Ian Bell With Defrauding Professional Athletes And Others In Fraudulent Day-Trading Scheme](http://www.mondovisione.com/media-and-resources/news/sec-charges-ian-bell-with-defrauding-professional-athletes-and-others-in-fraudul/)
 append_entries: 9
 Finish: 2024-12-10 08:29:51.774526
+------------------------------------------------------
+Started: 2024-12-10 10:24:34.407948
+Existing_entries: 160
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Global Exchanges See Optimistic Outlook As FTSE Mondo Visione Index Rises 2.6% In November](http://www.mondovisione.com/media-and-resources/news/global-exchanges-see-optimistic-outlook-as-ftse-mondo-visione-index-rises-26-i/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Worldline Empowers Global Online Businesses To Succeed In The Strategically Important United Arab Emirates](http://www.mondovisione.com/media-and-resources/news/worldline-empowers-global-online-businesses-to-succeed-in-the-strategically-impo/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Samsung Active Asset Management Launches KoAct US Natural Gas Infrastructure Active ETF, Which Is Benchmarked Against The Solactive US Natural Gas Infrastructure Index](http://www.mondovisione.com/media-and-resources/news/samsung-active-asset-management-launches-koact-us-natural-gas-infrastructure-act/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [talabat Debuts On Dubai Financial Market In Largest Global Tech IPO This Year](http://www.mondovisione.com/media-and-resources/news/talabat-debuts-on-dubai-financial-market-in-largest-global-tech-ipo-this-year/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Zealand Financial Markets Authority: Accredited Body Report - CPA Australia](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-accredited-body-report-cpa-australia/)
+append_entries: 5
+Finish: 2024-12-10 10:24:35.705038
