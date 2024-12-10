@@ -952,3 +952,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Polish Financial Institutions Publish Position Paper On Acceleration Of European Capital Markets Development](http://www.mondovisione.com/media-and-resources/news/polish-financial-institutions-publish-position-paper-on-acceleration-of-european/)
 append_entries: 1
 Finish: 2024-12-10 12:45:53.828314
+------------------------------------------------------
+Started: 2024-12-10 14:21:42.053741
+Existing_entries: 166
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2024-12-10 14:21:43.713583
