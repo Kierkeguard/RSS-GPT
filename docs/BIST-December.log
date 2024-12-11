@@ -1160,3 +1160,26 @@ Append: [Bank Of England: Minutes Of The Standards Advisory Panel - September 20
 Append: [UK Financial Conduct Authority Statement On Supreme Court Motor Finance Announcement](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-statement-on-supreme-court-motor-finance-announce/)
 append_entries: 10
 Finish: 2024-12-11 20:24:54.035781
+------------------------------------------------------
+Started: 2024-12-11 22:21:33.047179
+Existing_entries: 210
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Charges Ken Peterman, Former Comtech CEO, With Insider Trading In Advance Of Negative Earnings Announcement - Defendant Placed Order To Sell Company’s Securities Within Hours Of His Termination For Cause While Subject To Multiple Trading Blackouts](http://www.mondovisione.com/media-and-resources/news/sec-charges-ken-peterman-former-comtech-ceo-with-insider-trading-in-advance-of/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Robinhood Markets, Inc. Reports November 2024 Operating Data](http://www.mondovisione.com/media-and-resources/news/robinhood-markets-inc-reports-november-2024-operating-data/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ETFGI Reports Record Net Inflows And Assets In ETFs Industry In The United States Of 164 Bn US And 10.6 Tn US Dollars Respectively At End November](http://www.mondovisione.com/media-and-resources/news/etfgi-reports-record-net-inflows-and-assets-in-etfs-industry-in-the-united-state/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Department Of Justice: TD Bank Insider Arrested And Charged With Facilitating Money Laundering](http://www.mondovisione.com/media-and-resources/news/us-department-of-justice-td-bank-insider-arrested-and-charged-with-facilitating/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Acting Comptroller Of The Currency Discusses The Increasing Prevalence Of Financial Fraud](http://www.mondovisione.com/media-and-resources/news/us-acting-comptroller-of-the-currency-discusses-the-increasing-prevalence-of-fin/)
+Append: [ISDA - The Swap Episode 46: Building A Voluntary Carbon Market](http://www.mondovisione.com/media-and-resources/news/isda-the-swap-episode-46-building-a-voluntary-carbon-market/)
+Append: [DTCC’s Insurance And Retirement Services Launch API Messaging Service, Delivering Real-Time Status Requests And Responses - This Service Delivers Consistent And Immediate Activity Status Messaging For Annuity Applications Through The Application Process Across Platforms And Planning Tools](http://www.mondovisione.com/media-and-resources/news/dtccs-insurance-and-retirement-services-launch-api-messaging-service-deliverin/)
+append_entries: 7
+Finish: 2024-12-11 22:21:34.665287
