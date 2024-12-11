@@ -1113,3 +1113,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ACER Scrutinises Temporary Exemption For Bi-Directional Gas Flow On STORK I Pipeline Between Poland And Czech Republic](http://www.mondovisione.com/media-and-resources/news/acer-scrutinises-temporary-exemption-for-bi-directional-gas-flow-on-stork-i-pipe/)
 append_entries: 3
 Finish: 2024-12-11 14:21:27.994297
+------------------------------------------------------
+Started: 2024-12-11 16:28:59.052141
+Existing_entries: 197
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Fiserv And COCC Meet Tomorrow’s Digital Banking Expectations](http://www.mondovisione.com/media-and-resources/news/fiserv-and-cocc-meet-tomorrows-digital-banking-expectations/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ICE Midland WTI (HOU) Reaches Record Open Interest And Delivers A Record 20 Million Barrels Of Midland WTI Crude During November](http://www.mondovisione.com/media-and-resources/news/ice-midland-wti-hou-reaches-record-open-interest-and-delivers-a-record-20-mill/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Javier Ferran Announces The Launch Of Terlos, An Investment Platform To Support Consumer Brands In Their Next Stage Of Growth](http://www.mondovisione.com/media-and-resources/news/javier-ferran-announces-the-launch-of-terlos-an-investment-platform-to-support/)
+append_entries: 3
+Finish: 2024-12-11 16:29:00.348845
