@@ -1134,3 +1134,29 @@ Existing_entries: 200
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2024-12-11 18:31:15.471886
+------------------------------------------------------
+Started: 2024-12-11 20:24:52.597124
+Existing_entries: 200
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC: Los Angeles Federal Court Orders Five Individuals To Pay Over $5 Million For Digital Asset Fraud And Misappropriation Scheme](http://www.mondovisione.com/media-and-resources/news/cftc-los-angeles-federal-court-orders-five-individuals-to-pay-over-5-million-f/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC: Federal Court Orders North Carolina Companies And Their Owners To Pay Over $5.3 Million For Forex Fraud](http://www.mondovisione.com/media-and-resources/news/cftc-federal-court-orders-north-carolina-companies-and-their-owners-to-pay-over/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Ontario Securities Commission Publishes Exempt Market Activity Dashboard](http://www.mondovisione.com/media-and-resources/news/ontario-securities-commission-publishes-exempt-market-activity-dashboard/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Canadian Investment Regulatory Organization Welcomes Kevin Kennedy As new Board Director](http://www.mondovisione.com/media-and-resources/news/canadian-investment-regulatory-organization-welcomes-kevin-kennedy-as-new-board/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIFMA Fixed Income Market Close Recommendations In The U.S., The U.K. And Japan For New Year’s Day Holiday](http://www.mondovisione.com/media-and-resources/news/sifma-fixed-income-market-close-recommendations-in-the-us-the-uk-and-japan-46/)
+Append: [ESMA Publishes Latest Edition Of Its Newsletter](http://www.mondovisione.com/media-and-resources/news/esma-publishes-latest-edition-of-its-newsletter-35/)
+Append: [Euronext Announces December 2024 Quarterly Review Results Of The BEL® Family indices](http://www.mondovisione.com/media-and-resources/news/euronext-announces-december-2024-quarterly-review-results-of-the-bel-family-ind/)
+Append: [SEC Charges Three Individuals With Impersonating Financial Professionals In Fraud Scheme Targeting Retail Investors](http://www.mondovisione.com/media-and-resources/news/sec-charges-three-individuals-with-impersonating-financial-professionals-in-frau/)
+Append: [Bank Of England: Minutes Of The Standards Advisory Panel - September 2024](http://www.mondovisione.com/media-and-resources/news/bank-of-england-minutes-of-the-standards-advisory-panel-september-2024/)
+Append: [UK Financial Conduct Authority Statement On Supreme Court Motor Finance Announcement](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-statement-on-supreme-court-motor-finance-announce/)
+append_entries: 10
+Finish: 2024-12-11 20:24:54.035781
