@@ -1062,3 +1062,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Cboe Global Markets Announces Date Of Fourth-Quarter 2024 Earnings Release And Conference Call](http://www.mondovisione.com/media-and-resources/news/cboe-global-markets-announces-date-of-fourth-quarter-2024-earnings-release-and-c/)
 append_entries: 4
 Finish: 2024-12-11 06:31:34.420901
+------------------------------------------------------
+Started: 2024-12-11 08:29:51.120691
+Existing_entries: 188
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2024-12-11 08:29:54.342803
