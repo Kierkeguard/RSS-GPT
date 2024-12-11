@@ -1083,3 +1083,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Truss Edge Supports Launch Of Byron Place Active ETF On Harbor Capital Platform](http://www.mondovisione.com/media-and-resources/news/truss-edge-supports-launch-of-byron-place-active-etf-on-harbor-capital-platform/)
 append_entries: 3
 Finish: 2024-12-11 10:24:12.433267
+------------------------------------------------------
+Started: 2024-12-11 12:44:53.723413
+Existing_entries: 191
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bursa Carbon Exchange (BCX) Expands Product Offerings With Gold Standard Carbon Credits](http://www.mondovisione.com/media-and-resources/news/bursa-carbon-exchange-bcx-expands-product-offerings-with-gold-standard-carbon/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Partnership Of Boerse Stuttgart Digital And Flow Traders Strengthens The European Crypto Ecosystem](http://www.mondovisione.com/media-and-resources/news/partnership-of-boerse-stuttgart-digital-and-flow-traders-strengthens-the-europea-1/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FSB Notes Significant Progress In Monitoring, Regulating And Supervising Crypto-Asset Activities In France](http://www.mondovisione.com/media-and-resources/news/fsb-notes-significant-progress-in-monitoring-regulating-and-supervising-crypto/)
+append_entries: 3
+Finish: 2024-12-11 12:45:23.371098
