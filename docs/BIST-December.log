@@ -1068,3 +1068,18 @@ Existing_entries: 188
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2024-12-11 08:29:54.342803
+------------------------------------------------------
+Started: 2024-12-11 10:24:11.207582
+Existing_entries: 188
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [First Abu Dhabi Bank Chooses Broadridge To Build Global Agency Securities Finance Business - Expansion Of Securities Finance Within The UAE And Broader Middle East](http://www.mondovisione.com/media-and-resources/news/first-abu-dhabi-bank-chooses-broadridge-to-build-global-agency-securities-financ/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BNP Paribas Asset Management 2025 Market Outlook](http://www.mondovisione.com/media-and-resources/news/bnp-paribas-asset-management-2025-market-outlook/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Truss Edge Supports Launch Of Byron Place Active ETF On Harbor Capital Platform](http://www.mondovisione.com/media-and-resources/news/truss-edge-supports-launch-of-byron-place-active-etf-on-harbor-capital-platform/)
+append_entries: 3
+Finish: 2024-12-11 10:24:12.433267
