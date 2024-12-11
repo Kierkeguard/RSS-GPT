@@ -1098,3 +1098,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [FSB Notes Significant Progress In Monitoring, Regulating And Supervising Crypto-Asset Activities In France](http://www.mondovisione.com/media-and-resources/news/fsb-notes-significant-progress-in-monitoring-regulating-and-supervising-crypto/)
 append_entries: 3
 Finish: 2024-12-11 12:45:23.371098
+------------------------------------------------------
+Started: 2024-12-11 14:21:26.716021
+Existing_entries: 194
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Iberclear, BME's CSD, Receives Authorization To Provide Services To Issuers Under The Legislation Of Other EU Countries](http://www.mondovisione.com/media-and-resources/news/iberclear-bmes-csd-receives-authorization-to-provide-services-to-issuers-unde/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Deutsche Börs: Trading Charity Raises €100,000 In Donations](http://www.mondovisione.com/media-and-resources/news/deutsche-brs-trading-charity-raises-100000-in-donations/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER Scrutinises Temporary Exemption For Bi-Directional Gas Flow On STORK I Pipeline Between Poland And Czech Republic](http://www.mondovisione.com/media-and-resources/news/acer-scrutinises-temporary-exemption-for-bi-directional-gas-flow-on-stork-i-pipe/)
+append_entries: 3
+Finish: 2024-12-11 14:21:27.994297
