@@ -1044,3 +1044,21 @@ Existing_entries: 184
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2024-12-11 04:27:02.201348
+------------------------------------------------------
+Started: 2024-12-11 06:31:33.194515
+Existing_entries: 184
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Securities Commission Malaysia And Credit Guarantee Corporation Malaysia Group Sign MoU To Boost MSME And MTC Access To Capital Market Financing](http://www.mondovisione.com/media-and-resources/news/securities-commission-malaysia-and-credit-guarantee-corporation-malaysia-group-s/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SGX Securities Welcomes The Listing Of Lion-China Merchants Emerging Asia Select Index ETF](http://www.mondovisione.com/media-and-resources/news/sgx-securities-welcomes-the-listing-of-lion-china-merchants-emerging-asia-select/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Zealand Financial Markets Authority Cancels Auditor’s Licence To Carry Out FMC Audits For Multiple Failures](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-cancels-auditors-licence-to-carry-out-f/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cboe Global Markets Announces Date Of Fourth-Quarter 2024 Earnings Release And Conference Call](http://www.mondovisione.com/media-and-resources/news/cboe-global-markets-announces-date-of-fourth-quarter-2024-earnings-release-and-c/)
+append_entries: 4
+Finish: 2024-12-11 06:31:34.420901
