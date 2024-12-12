@@ -1263,3 +1263,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [HKEX To Introduce New Post-Trade Services On Orion Cash Platform](http://www.mondovisione.com/media-and-resources/news/hkex-to-introduce-new-post-trade-services-on-orion-cash-platform/)
 append_entries: 1
 Finish: 2024-12-12 12:45:33.095669
+------------------------------------------------------
+Started: 2024-12-12 14:21:18.733875
+Existing_entries: 231
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2024-12-12 14:21:20.096955
