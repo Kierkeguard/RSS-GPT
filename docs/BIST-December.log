@@ -1231,3 +1231,26 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Tokyo Commodity Exchange Partners With Tokyo Metropolitan Government On Trial Trading Of Green Hydrogen](http://www.mondovisione.com/media-and-resources/news/tokyo-commodity-exchange-partners-with-tokyo-metropolitan-government-on-trial-tr/)
 append_entries: 3
 Finish: 2024-12-12 08:28:55.627404
+------------------------------------------------------
+Started: 2024-12-12 10:23:55.263537
+Existing_entries: 223
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FSB Issues Recommendations Related To Data Flows And Regulation And Supervision Of Cross-Border Payments](http://www.mondovisione.com/media-and-resources/news/fsb-issues-recommendations-related-to-data-flows-and-regulation-and-supervision/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Christian Zinglersen Reappointed To Lead ACER For The Next Five Years](http://www.mondovisione.com/media-and-resources/news/christian-zinglersen-reappointed-to-lead-acer-for-the-next-five-years/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Dubai Welcomes Three Sukuk Issuances By The Republic Of Indonesia Totalling USD 2.75 Billion](http://www.mondovisione.com/media-and-resources/news/nasdaq-dubai-welcomes-three-sukuk-issuances-by-the-republic-of-indonesia-totalli/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SET Market Report For November 2024](http://www.mondovisione.com/media-and-resources/news/set-market-report-for-november-2024/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Shares Of Swedish Company Scandinavian Astor Group Are Now Tradable At Boerse Stuttgart](http://www.mondovisione.com/media-and-resources/news/shares-of-swedish-company-scandinavian-astor-group-are-now-tradable-at-boerse-st/)
+Append: [London Stock Exchange Group Plc Divests Stake In Euroclear Holding SA/NV](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-divests-stake-in-euroclear-holding-sanv/)
+Append: [Nasdaq Stockholm Welcomes Intea To The Main Market](http://www.mondovisione.com/media-and-resources/news/nasdaq-stockholm-welcomes-intea-to-the-main-market/)
+append_entries: 7
+Finish: 2024-12-12 10:23:56.321098
