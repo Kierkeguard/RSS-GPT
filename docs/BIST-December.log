@@ -1291,3 +1291,12 @@ Append: [ICE Launches MSCI® Marketaxess Tradable Corporate Bond Index Futures T
 Append: [ESMA Appoints Carlo Comporti As A New Member To Its Management Board And Reappoints The Chairs Of Its Standing Committees](http://www.mondovisione.com/media-and-resources/news/esma-appoints-carlo-comporti-as-a-new-member-to-its-management-board-and-reappoi/)
 append_entries: 6
 Finish: 2024-12-12 16:28:25.529733
+------------------------------------------------------
+Started: 2024-12-12 18:31:05.023737
+Existing_entries: 237
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Amman Stock Exchange Weekly Summary](http://www.mondovisione.com/media-and-resources/news/amman-stock-exchange-weekly-summary-8/)
+append_entries: 1
+Finish: 2024-12-12 18:31:06.242778
