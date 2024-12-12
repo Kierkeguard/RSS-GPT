@@ -1216,3 +1216,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CFTC To Hold A Commission Open Meeting December 18](http://www.mondovisione.com/media-and-resources/news/cftc-to-hold-a-commission-open-meeting-december-18/)
 append_entries: 3
 Finish: 2024-12-12 06:32:12.194315
+------------------------------------------------------
+Started: 2024-12-12 08:28:53.793034
+Existing_entries: 220
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Kraken Crypto Exchange Operator To Pay $8 Million Following ASIC Enforcement Action](http://www.mondovisione.com/media-and-resources/news/kraken-crypto-exchange-operator-to-pay-8-million-following-asic-enforcement-act/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Greater Connectivity Driving Hong Kong’s Capital Markets Forward: Hong Kong Securities And Futures Commission Quarterly Report](http://www.mondovisione.com/media-and-resources/news/greater-connectivity-driving-hong-kongs-capital-markets-forward-hong-kong-secu/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tokyo Commodity Exchange Partners With Tokyo Metropolitan Government On Trial Trading Of Green Hydrogen](http://www.mondovisione.com/media-and-resources/news/tokyo-commodity-exchange-partners-with-tokyo-metropolitan-government-on-trial-tr/)
+append_entries: 3
+Finish: 2024-12-12 08:28:55.627404
