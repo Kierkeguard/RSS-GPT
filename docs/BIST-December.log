@@ -1269,3 +1269,25 @@ Existing_entries: 231
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2024-12-12 14:21:20.096955
+------------------------------------------------------
+Started: 2024-12-12 16:28:24.154215
+Existing_entries: 231
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESMA Consults On Open-Ended Loan Originating Alternative Investment Funds](http://www.mondovisione.com/media-and-resources/news/esma-consults-on-open-ended-loan-originating-alternative-investment-funds/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [EEX To Introduce Japanese Power Options From February](http://www.mondovisione.com/media-and-resources/news/eex-to-introduce-japanese-power-options-from-february/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Treasury’s Office Of Cybersecurity And Critical Infrastructure Protection Issues Consumer Advisory To Protect Against Cyber Fraud During The Holiday Shopping Season](http://www.mondovisione.com/media-and-resources/news/treasurys-office-of-cybersecurity-and-critical-infrastructure-protection-issues/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESMA Consults On Technical Advice On Listing Act Implications](http://www.mondovisione.com/media-and-resources/news/esma-consults-on-technical-advice-on-listing-act-implications/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ICE Launches MSCI® Marketaxess Tradable Corporate Bond Index Futures To Help Investors Hedge Corporate Bond Exposure](http://www.mondovisione.com/media-and-resources/news/ice-launches-msci-marketaxess-tradable-corporate-bond-index-futures-to-help-inv/)
+Append: [ESMA Appoints Carlo Comporti As A New Member To Its Management Board And Reappoints The Chairs Of Its Standing Committees](http://www.mondovisione.com/media-and-resources/news/esma-appoints-carlo-comporti-as-a-new-member-to-its-management-board-and-reappoi/)
+append_entries: 6
+Finish: 2024-12-12 16:28:25.529733
