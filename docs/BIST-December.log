@@ -1300,3 +1300,27 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Amman Stock Exchange Weekly Summary](http://www.mondovisione.com/media-and-resources/news/amman-stock-exchange-weekly-summary-8/)
 append_entries: 1
 Finish: 2024-12-12 18:31:06.242778
+------------------------------------------------------
+Started: 2024-12-12 20:24:58.745487
+Existing_entries: 238
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Small Business Advocacy Office Delivers Report To Congress On Capital Raising For Startups To Small Public Companies](http://www.mondovisione.com/media-and-resources/news/sec-small-business-advocacy-office-delivers-report-to-congress-on-capital-raisin-1/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Commissioner Mersinger To Participate In A Fireside Chat At The Blockchain Association Policy Summit](http://www.mondovisione.com/media-and-resources/news/cftc-commissioner-mersinger-to-participate-in-a-fireside-chat-at-the-blockchain/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Office Of The Comptroller Of The Currency Reports Third Quarter 2024 Bank Trading Revenue](http://www.mondovisione.com/media-and-resources/news/us-office-of-the-comptroller-of-the-currency-reports-third-quarter-2024-bank-tra/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Report From FINRA Board Of Governors Meeting – December 2024 - Board Appoints Public Governor And Discusses Budget, Rules Regarding Outside Business Activities And Private Securities Transactions, And 2025 Regulatory Oversight Report](http://www.mondovisione.com/media-and-resources/news/report-from-finra-board-of-governors-meeting-december-2024-board-appoints-pu/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIFMA Issues 2025 And 2026 Fixed Income Recommendations For Full & Early Holiday Closes In The U.S., U.K., And Japan](http://www.mondovisione.com/media-and-resources/news/sifma-issues-2025-and-2026-fixed-income-recommendations-for-full-and-early-holiday/)
+Append: [SEC Office Of The Investor Advocate Issues Report On Nationally Representative Survey Of Investors And Continues Focus On Investment Fraud](http://www.mondovisione.com/media-and-resources/news/sec-office-of-the-investor-advocate-issues-report-on-nationally-representative-s/)
+Append: [Euronext Announces December 2024 Quarterly Review Results Of The CAC 40 ESG®](http://www.mondovisione.com/media-and-resources/news/euronext-announces-december-2024-quarterly-review-results-of-the-cac-40-esg/)
+Append: [Joint Associations Letter On UK CCP Equivalence And Recognition](http://www.mondovisione.com/media-and-resources/news/joint-associations-letter-on-uk-ccp-equivalence-and-recognition/)
+append_entries: 8
+Finish: 2024-12-12 20:24:59.683162
