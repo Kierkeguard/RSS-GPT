@@ -1201,3 +1201,18 @@ Existing_entries: 217
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2024-12-12 04:27:22.943239
+------------------------------------------------------
+Started: 2024-12-12 06:32:09.699512
+Existing_entries: 217
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Supporting Superior Projects With Better Treatment, The Shanghai Stock Exchange Creates A New Ecology For The REITs Market To Promote The Superior And Limit The Inferior](http://www.mondovisione.com/media-and-resources/news/supporting-superior-projects-with-better-treatment-the-shanghai-stock-exchange/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority: Millions Of People Could Get More Support With Their Pensions Under New Proposals](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-millions-of-people-could-get-more-support-with-t/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC To Hold A Commission Open Meeting December 18](http://www.mondovisione.com/media-and-resources/news/cftc-to-hold-a-commission-open-meeting-december-18/)
+append_entries: 3
+Finish: 2024-12-12 06:32:12.194315
