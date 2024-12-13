@@ -1414,3 +1414,18 @@ Existing_entries: 260
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2024-12-13 12:43:18.030501
+------------------------------------------------------
+Started: 2024-12-13 14:20:37.030619
+Existing_entries: 260
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Malawi Stock Exchange Weekly Summary, 13 December 2024](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-13-december-2024/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESMA Consults On Proposals To Digitalise Sustainability And Financial Disclosures](http://www.mondovisione.com/media-and-resources/news/esma-consults-on-proposals-to-digitalise-sustainability-and-financial-disclosure/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Oncoinvent Lists On Euronext Growth Oslo](http://www.mondovisione.com/media-and-resources/news/oncoinvent-lists-on-euronext-growth-oslo/)
+append_entries: 3
+Finish: 2024-12-13 14:20:38.159099
