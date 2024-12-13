@@ -1342,3 +1342,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CFTC: Federal Court Orders Minnesota Man And Two Companies To Pay Over $2 Million For Futures Fraud And Misappropriation](http://www.mondovisione.com/media-and-resources/news/cftc-federal-court-orders-minnesota-man-and-two-companies-to-pay-over-2-millio/)
 append_entries: 4
 Finish: 2024-12-12 22:21:03.673783
+------------------------------------------------------
+Started: 2024-12-13 01:49:09.109676
+Existing_entries: 250
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Dissenting Statement Regarding Recent SPAC Cases – Digital World Acquisition Corp., Northern Star Investment Corp. II, And Cantor Fitzgerald, L.P., SEC Commissioner Mark T. Uyeda, Dec. 12, 2024](http://www.mondovisione.com/media-and-resources/news/dissenting-statement-regarding-recent-spac-cases-digital-world-acquisition-cor/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Charges Cantor Fitzgerald Over Misleading SPAC Disclosures](http://www.mondovisione.com/media-and-resources/news/sec-charges-cantor-fitzgerald-over-misleading-spac-disclosures/)
+append_entries: 2
+Finish: 2024-12-13 01:49:10.017106
