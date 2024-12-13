@@ -1435,3 +1435,24 @@ Existing_entries: 263
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2024-12-13 16:27:50.700037
+------------------------------------------------------
+Started: 2024-12-13 18:30:13.783758
+Existing_entries: 263
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Borsa Istanbul: Announcement Regarding The Calculation Of BIST Spot Silver, BIST Spot Platinum And BIST Spot Palladium Indices](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-announcement-regarding-the-calculation-of-bist-spot-silver-bist/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Borsa Istanbul: Re-Determination Of The New Market Segments Of The Shares In The Equity Market’s BIST Stars, BIST Main And BIST SubMarket](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-re-determination-of-the-new-market-segments-of-the-shares-in-the-6/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Borsa Istanbul: Continuation Of Exemption Of ETF Transactions From Order Cancellation, Quantity Reduction, Price Worsening Fees](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-continuation-of-exemption-of-etf-transactions-from-order-cancell-1/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Shanghai Gold Exchange: Notification On NYAuTN12 Settlement Price](http://www.mondovisione.com/media-and-resources/news/shanghai-gold-exchange-notification-on-nyautn12-settlement-price-2/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFFEX: Notice On Listing Of New China Government Bond Futures Contracts](http://www.mondovisione.com/media-and-resources/news/cffex-notice-on-listing-of-new-china-government-bond-futures-contracts-17/)
+append_entries: 5
+Finish: 2024-12-13 18:30:15.112577
