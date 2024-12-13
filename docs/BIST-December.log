@@ -1399,3 +1399,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [HKEX Introduces Fund Repository On Integrated Fund Platform](http://www.mondovisione.com/media-and-resources/news/hkex-introduces-fund-repository-on-integrated-fund-platform/)
 append_entries: 4
 Finish: 2024-12-13 08:29:13.895803
+------------------------------------------------------
+Started: 2024-12-13 10:23:45.221034
+Existing_entries: 259
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Brokers “Pay To Play” Dynamic Drives Market Share In Investment Research: Substantive Research](http://www.mondovisione.com/media-and-resources/news/brokers-pay-to-play-dynamic-drives-market-share-in-investment-research-substa/)
+append_entries: 1
+Finish: 2024-12-13 10:23:46.295310
