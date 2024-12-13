@@ -1354,3 +1354,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SEC Charges Cantor Fitzgerald Over Misleading SPAC Disclosures](http://www.mondovisione.com/media-and-resources/news/sec-charges-cantor-fitzgerald-over-misleading-spac-disclosures/)
 append_entries: 2
 Finish: 2024-12-13 01:49:10.017106
+------------------------------------------------------
+Started: 2024-12-13 03:05:27.207021
+Existing_entries: 252
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2024-12-13 03:05:28.134796
