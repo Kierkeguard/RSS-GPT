@@ -1523,3 +1523,15 @@ Existing_entries: 281
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2024-12-14 06:28:55.028833
+------------------------------------------------------
+Started: 2024-12-14 08:25:54.150896
+Existing_entries: 281
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Annual Changes To The Nasdaq-100 Index®](http://www.mondovisione.com/media-and-resources/news/annual-changes-to-the-nasdaq-100-index-15/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nadex Amends Minimum Tick Sizes For Certain Contracts](http://www.mondovisione.com/media-and-resources/news/nadex-amends-minimum-tick-sizes-for-certain-contracts/)
+append_entries: 2
+Finish: 2024-12-14 08:25:55.370955
