@@ -1721,3 +1721,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Havas Announces Successful Listing On Euronext Amsterdam, Marking A New Era Of Growth And Innovation](http://www.mondovisione.com/media-and-resources/news/havas-announces-successful-listing-on-euronext-amsterdam-marking-a-new-era-of-g/)
 append_entries: 5
 Finish: 2024-12-16 10:25:01.890580
+------------------------------------------------------
+Started: 2024-12-16 12:46:17.605903
+Existing_entries: 297
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2024-12-16 12:46:58.722409
