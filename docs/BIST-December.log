@@ -1733,3 +1733,25 @@ Existing_entries: 297
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2024-12-16 14:21:04.596036
+------------------------------------------------------
+Started: 2024-12-16 16:28:42.874180
+Existing_entries: 297
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Interactive Brokers Enhances IBKR Desktop Trading Platform With New Tools And Features Combining Streamlined Design With Powerful Trading Technology](http://www.mondovisione.com/media-and-resources/news/interactive-brokers-enhances-ibkr-desktop-trading-platform-with-new-tools-and-fe/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Readout: Seventh Meeting Of The Financial Working Group Between The United States And The People’s Republic Of China](http://www.mondovisione.com/media-and-resources/news/readout-seventh-meeting-of-the-financial-working-group-between-the-united-state/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Commentary On Today's Bitcoin Price by Petr Kozyakov, Co-Founder And CEO, Mercuryo](http://www.mondovisione.com/media-and-resources/news/commentary-on-todays-bitcoin-price-by-petr-kozyakov-co-founder-and-ceo-mercur/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Broadridge Appoints Ashima Ghei As Chief Financial Officer](http://www.mondovisione.com/media-and-resources/news/broadridge-appoints-ashima-ghei-as-chief-financial-officer/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Vienna Stock Exchange: UKO Microshops Listed On The Direct Market Plus](http://www.mondovisione.com/media-and-resources/news/vienna-stock-exchange-uko-microshops-listed-on-the-direct-market-plus/)
+Append: [ESG Reporting Software Spend Set To Quadruple By 2029, With Market Predicted To Grow To $5.6 Billion - Regulatory Pressure And Stakeholder Demand Driving Resurgence In ESG Reporting Spend As Businesses Turn To Tech To Tackle Increasingly Complex And Urgent Requirements](http://www.mondovisione.com/media-and-resources/news/esg-reporting-software-spend-set-to-quadruple-by-2029-with-market-predicted-to/)
+append_entries: 6
+Finish: 2024-12-16 16:28:44.711096
