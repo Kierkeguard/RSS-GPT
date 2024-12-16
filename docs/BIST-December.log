@@ -1652,3 +1652,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [New Zealand Financial Markets Authority - ASX 24 Review Report](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-asx-24-review-report/)
 append_entries: 2
 Finish: 2024-12-15 22:19:52.721703
+------------------------------------------------------
+Started: 2024-12-16 01:51:37.450727
+Existing_entries: 286
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2024-12-16 01:52:51.232860
