@@ -1679,3 +1679,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ASIC Sues HSBC Australia Alleging Failures To Adequately Protect Customers From Scams](http://www.mondovisione.com/media-and-resources/news/asic-sues-hsbc-australia-alleging-failures-to-adequately-protect-customers-from/)
 append_entries: 1
 Finish: 2024-12-16 06:32:33.213521
+------------------------------------------------------
+Started: 2024-12-16 08:30:27.930776
+Existing_entries: 287
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FSB Reports Strong Growth In Non-Bank Financial Intermediation In 2023](http://www.mondovisione.com/media-and-resources/news/fsb-reports-strong-growth-in-non-bank-financial-intermediation-in-2023/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Opening Remarks Entitled “SROs – Up For The Challenge In A Fast-Evolving World” By Professor Tan Cheng Han, Chairman Of SGX RegCo, At CFTC-MAS Self-Regulatory Organisation Day](http://www.mondovisione.com/media-and-resources/news/opening-remarks-entitled-sros-up-for-the-challenge-in-a-fast-evolving-world/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Industry Funding: 2023-24 Dashboard Of Regulatory Costs And Summary Of Variances Have Been Released](http://www.mondovisione.com/media-and-resources/news/asic-industry-funding-2023-24-dashboard-of-regulatory-costs-and-summary-of-vari/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SET Announces 228 Listed Companies On SET ESG Ratings 2024](http://www.mondovisione.com/media-and-resources/news/t-announces-228-listed-companies-on-set-esg-ratings-2024/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [JPX Market Innovation & Research, Inc.: Launch Of " TOPIX Banks High Dividend Index”](http://www.mondovisione.com/media-and-resources/news/jpx-market-innovation-and-research-inc-launch-of-topix-banks-high-dividend-in/)
+append_entries: 5
+Finish: 2024-12-16 08:30:28.904549
