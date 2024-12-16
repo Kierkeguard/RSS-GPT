@@ -1700,3 +1700,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [JPX Market Innovation & Research, Inc.: Launch Of " TOPIX Banks High Dividend Index”](http://www.mondovisione.com/media-and-resources/news/jpx-market-innovation-and-research-inc-launch-of-topix-banks-high-dividend-in/)
 append_entries: 5
 Finish: 2024-12-16 08:30:28.904549
+------------------------------------------------------
+Started: 2024-12-16 10:25:00.377793
+Existing_entries: 292
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX: OTC Clear To Accept China Government Bonds And Policy Bank Bonds As Collateral For Swap Connect From 13 January 2025](http://www.mondovisione.com/media-and-resources/news/hkex-otc-clear-to-accept-china-government-bonds-and-policy-bank-bonds-as-collat/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER Monitoring: Increase Flexibility And Grid Capacity Cost-Effectively For EU Decarbonisation, Competitiveness And Security Of Supply](http://www.mondovisione.com/media-and-resources/news/acer-monitoring-increase-flexibility-and-grid-capacity-cost-effectively-for-eu/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BNP Paribas Appointed By Insignia Financial As Its Custodian In Australia](http://www.mondovisione.com/media-and-resources/news/bnp-paribas-appointed-by-insignia-financial-as-its-custodian-in-australia/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Argus Guarantee Of Origin Prices Available Through Trayport Joule](http://www.mondovisione.com/media-and-resources/news/argus-guarantee-of-origin-prices-available-through-trayport-joule/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Havas Announces Successful Listing On Euronext Amsterdam, Marking A New Era Of Growth And Innovation](http://www.mondovisione.com/media-and-resources/news/havas-announces-successful-listing-on-euronext-amsterdam-marking-a-new-era-of-g/)
+append_entries: 5
+Finish: 2024-12-16 10:25:01.890580
