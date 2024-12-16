@@ -1670,3 +1670,12 @@ Existing_entries: 286
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2024-12-16 04:27:49.359426
+------------------------------------------------------
+Started: 2024-12-16 06:32:32.235914
+Existing_entries: 286
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Sues HSBC Australia Alleging Failures To Adequately Protect Customers From Scams](http://www.mondovisione.com/media-and-resources/news/asic-sues-hsbc-australia-alleging-failures-to-adequately-protect-customers-from/)
+append_entries: 1
+Finish: 2024-12-16 06:32:33.213521
