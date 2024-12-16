@@ -1780,3 +1780,15 @@ Append: [Colleges On Anti-Money Laundering And Countering The Financing Of Terro
 Append: [UK Financial Conduct Authority Seeks Feedback On Plans To Improve The Transparency Of The UK’s Crypto Markets](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-seeks-feedback-on-plans-to-improve-the-transparen/)
 append_entries: 9
 Finish: 2024-12-16 20:24:38.218192
+------------------------------------------------------
+Started: 2024-12-16 22:19:45.359421
+Existing_entries: 312
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC: Becton Dickinson To Pay $175 Million For Misleading Investors About Alaris Infusion Pump - New Jersey-Based Company Will Also Retain Independent Compliance Consultant](http://www.mondovisione.com/media-and-resources/news/sec-becton-dickinson-to-pay-175-million-for-misleading-investors-about-alaris/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Commissioner Kristin N. Johnson Announces Reports And Recommendations Advanced By MRAC In 2024](http://www.mondovisione.com/media-and-resources/news/cftc-commissioner-kristin-n-johnson-announces-reports-and-recommendations-advan/)
+append_entries: 2
+Finish: 2024-12-16 22:19:46.641937
