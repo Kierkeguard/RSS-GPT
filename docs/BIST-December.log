@@ -1864,3 +1864,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Cyprus Stock Exchange Monthly Bulletin November 2024](http://www.mondovisione.com/media-and-resources/news/cyprus-stock-exchange-monthly-bulletin-november-2024/)
 append_entries: 2
 Finish: 2024-12-17 12:45:02.845419
+------------------------------------------------------
+Started: 2024-12-17 14:20:55.019441
+Existing_entries: 324
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2024-12-17 14:20:56.582667
