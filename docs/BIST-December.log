@@ -1888,3 +1888,25 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Avelacom Expands Network Infrastructure To Boost Interconnectivity Between Mexico And US Financial Markets - Company Deploys Two New Points Of Presence (PoPs) In Mexico And US, Upgrades Four Existing PoPs, And Utilizes Newly Built Routes Between The Two Countries](http://www.mondovisione.com/media-and-resources/news/avelacom-expands-network-infrastructure-to-boost-interconnectivity-between-mexic/)
 append_entries: 4
 Finish: 2024-12-17 16:29:01.253679
+------------------------------------------------------
+Started: 2024-12-17 18:31:18.749203
+Existing_entries: 328
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BME Closes The Year With 24 New Companies And Increases In Stock Market Revaluation, Shareholder Remuneration And Financing](http://www.mondovisione.com/media-and-resources/news/bme-closes-the-year-with-24-new-companies-and-increases-in-stock-market-revaluat/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euronext Announces Update On December 2024 Quarterly Review Results Of The CAC® Family](http://www.mondovisione.com/media-and-resources/news/euronext-announces-update-on-december-2024-quarterly-review-results-of-the-cac/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The EBA Publishes Final Draft Technical Standards On The Conditions For Determining Whether An Instrument Attracting Residual Risk Acts As A Hedge](http://www.mondovisione.com/media-and-resources/news/the-eba-publishes-final-draft-technical-standards-on-the-conditions-for-determin/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The ESAs’ Dry Run Exercise Shows The Goal Of Reporting Of Registers Of Information Under Digital Operational Resilience Act In 2025 Within Reach](http://www.mondovisione.com/media-and-resources/news/the-esas-dry-run-exercise-shows-the-goal-of-reporting-of-registers-of-informati/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Successfully Appeals Upper Tribunal Decision In Mr Markos Markou vs FCA](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-successfully-appeals-upper-tribunal-decision-in-m/)
+Append: [EEX Expands Power Derivatives Portfolio To Facilitate Renewables Integration](http://www.mondovisione.com/media-and-resources/news/eex-expands-power-derivatives-portfolio-to-facilitate-renewables-integration/)
+append_entries: 6
+Finish: 2024-12-17 18:31:20.109675
