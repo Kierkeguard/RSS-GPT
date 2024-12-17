@@ -1840,3 +1840,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Shenzhen Stock Exchange Market Bulletin, December 13, 2024, Issue 38](http://www.mondovisione.com/media-and-resources/news/shenzhen-stock-exchange-market-bulletin-december-13-2024-issue-38/)
 append_entries: 2
 Finish: 2024-12-17 08:29:17.480738
+------------------------------------------------------
+Started: 2024-12-17 10:23:48.952891
+Existing_entries: 320
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX To Reduce Minimum Spreads In Hong Kong Securities Market](http://www.mondovisione.com/media-and-resources/news/hkex-to-reduce-minimum-spreads-in-hong-kong-securities-market/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BNP Paribas Asset Management Appoints New Head Of European Large Cap Equities](http://www.mondovisione.com/media-and-resources/news/bnp-paribas-asset-management-appoints-new-head-of-european-large-cap-equities/)
+append_entries: 2
+Finish: 2024-12-17 10:23:49.921523
