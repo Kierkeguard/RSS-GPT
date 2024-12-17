@@ -1870,3 +1870,21 @@ Existing_entries: 324
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2024-12-17 14:20:56.582667
+------------------------------------------------------
+Started: 2024-12-17 16:29:00.373539
+Existing_entries: 324
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Exchange Group - Christmas And New Years Holiday Schedule](http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-christmas-and-new-years-holiday-schedule-4/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Open Call For Experts To Join ACER’s New Expert Group On Electricity Peak-Shaving Products](http://www.mondovisione.com/media-and-resources/news/open-call-for-experts-to-join-acers-new-expert-group-on-electricity-peak-shavin/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Charges Express, Inc. With Failing To Disclose Nearly $1 Million In Perks Provided To Former CEO - Commission Declines To Impose A Penalty Based On Company’s Self-Report, Cooperation, And Remediation](http://www.mondovisione.com/media-and-resources/news/sec-charges-express-inc-with-failing-to-disclose-nearly-1-million-in-perks-pr/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Avelacom Expands Network Infrastructure To Boost Interconnectivity Between Mexico And US Financial Markets - Company Deploys Two New Points Of Presence (PoPs) In Mexico And US, Upgrades Four Existing PoPs, And Utilizes Newly Built Routes Between The Two Countries](http://www.mondovisione.com/media-and-resources/news/avelacom-expands-network-infrastructure-to-boost-interconnectivity-between-mexic/)
+append_entries: 4
+Finish: 2024-12-17 16:29:01.253679
