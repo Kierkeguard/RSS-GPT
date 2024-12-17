@@ -1828,3 +1828,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Warning – Peak Nadex Trader a/k/a Peak Binary Option Soliciting Nadex Members](http://www.mondovisione.com/media-and-resources/news/warning-peak-nadex-trader-aka-peak-binary-option-soliciting-nadex-members/)
 append_entries: 4
 Finish: 2024-12-17 06:31:29.390775
+------------------------------------------------------
+Started: 2024-12-17 08:29:16.378437
+Existing_entries: 318
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Kiwoom Asset Management Launches KIWOOM KOSEF US Quantum Computing ETF, Tracking Solactive U.S. Quantum Computing Index](http://www.mondovisione.com/media-and-resources/news/kiwoom-asset-management-launches-kiwoom-kosef-us-quantum-computing-etf-tracking/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Shenzhen Stock Exchange Market Bulletin, December 13, 2024, Issue 38](http://www.mondovisione.com/media-and-resources/news/shenzhen-stock-exchange-market-bulletin-december-13-2024-issue-38/)
+append_entries: 2
+Finish: 2024-12-17 08:29:17.480738
