@@ -1934,3 +1934,18 @@ Append: [ISDA - The Swap - Episode 47: Basel, Treasury Clearing And NBFI](http:/
 Append: [ESMA Releases Last Policy Documents To Get Ready For MiCA](http://www.mondovisione.com/media-and-resources/news/esma-releases-last-policy-documents-to-get-ready-for-mica/)
 append_entries: 8
 Finish: 2024-12-17 20:23:10.941434
+------------------------------------------------------
+Started: 2024-12-17 22:20:02.447034
+Existing_entries: 342
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Zealand Financial Markets Authority Censures Pathfinder For Misleading Representations](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-censures-pathfinder-for-misleading-repre/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NZX - Director Independence Review: Notice Of Rule And Code Amendments](http://www.mondovisione.com/media-and-resources/news/nzx-director-independence-review-notice-of-rule-and-code-amendments/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Exchange Group - Options Markets - Reminder: January 1, 2025 And March 1, 2025 Market Data Fee Changes](http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-options-markets-reminder-january-1-2025-and-march-1-2/)
+append_entries: 3
+Finish: 2024-12-17 22:20:03.415692
