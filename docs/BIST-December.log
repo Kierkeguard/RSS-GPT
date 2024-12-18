@@ -2046,3 +2046,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Leading ESG business Holtara Becomes EDCI Benchmark Partner](http://www.mondovisione.com/media-and-resources/news/leading-esg-business-holtara-becomes-edci-benchmark-partner/)
 append_entries: 2
 Finish: 2024-12-18 14:19:56.732972
+------------------------------------------------------
+Started: 2024-12-18 16:27:11.173968
+Existing_entries: 362
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Corporate CUSIP Request Volumes Rise In November - Municipal Volumes Slow](http://www.mondovisione.com/media-and-resources/news/corporate-cusip-request-volumes-rise-in-november-municipal-volumes-slow/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tehran Securities Exchange New IPO: Pooya Power Knowledge Enterprise](http://www.mondovisione.com/media-and-resources/news/tehran-securities-exchange-new-ipo-pooya-power-knowledge-enterprise/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Lilly’s GBP279 Million Investment Set To Boost UK Life Sciences Sector, Reveals GlobalData](http://www.mondovisione.com/media-and-resources/news/lillys-gbp279-million-investment-set-to-boost-uk-life-sciences-sector-reveals/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NGX Group, Nigeria SEC Deepen Global Partnerships Through Strategic Visit To India](http://www.mondovisione.com/media-and-resources/news/ngx-group-nigeria-sec-deepen-global-partnerships-through-strategic-visit-to-ind/)
+append_entries: 4
+Finish: 2024-12-18 16:27:12.166619
