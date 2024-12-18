@@ -1997,3 +1997,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CFTC Approves Final Rule Regarding Safeguarding And Investment Of Customer Funds](http://www.mondovisione.com/media-and-resources/news/cftc-approves-final-rule-regarding-safeguarding-and-investment-of-customer-funds/)
 append_entries: 4
 Finish: 2024-12-18 08:28:38.513179
+------------------------------------------------------
+Started: 2024-12-18 10:23:09.490454
+Existing_entries: 351
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Broadridge Collaboration With CCRI Expands ClearFi Platform, Adding Crypto Sustainability Data - Comprehensive Solution For Clients Required To Disclose Sustainability Metrics And Generate Whitepapers As Per EU MiCA Regulation](http://www.mondovisione.com/media-and-resources/news/broadridge-collaboration-with-ccri-expands-clearfi-platform-adding-crypto-susta/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX’s Core Climate Provides Carbon Credits Settlement Services For Cathay Pacific Airways](http://www.mondovisione.com/media-and-resources/news/hkexs-core-climate-provides-carbon-credits-settlement-services-for-cathay-pacif/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MNI Indicators: MNI China Money Market Index™ – December Conditions Tighten](http://www.mondovisione.com/media-and-resources/news/mni-indicators-mni-china-money-market-index-december-conditions-tighten/)
+append_entries: 3
+Finish: 2024-12-18 10:23:10.510685
