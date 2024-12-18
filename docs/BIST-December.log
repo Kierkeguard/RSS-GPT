@@ -1967,3 +1967,15 @@ Existing_entries: 345
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2024-12-18 04:25:48.790859
+------------------------------------------------------
+Started: 2024-12-18 06:30:02.886205
+Existing_entries: 345
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Grants QC Clearing LLC DCO Registration](http://www.mondovisione.com/media-and-resources/news/cftc-grants-qc-clearing-llc-dco-registration/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cancelled — December 18 Commodity Futures Trading Commission (CFTC) Open Meeting](http://www.mondovisione.com/media-and-resources/news/cancelled-december-18-commodity-futures-trading-commission-cftc-open-meeting/)
+append_entries: 2
+Finish: 2024-12-18 06:30:03.825005
