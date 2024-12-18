@@ -2012,3 +2012,25 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [MNI Indicators: MNI China Money Market Index™ – December Conditions Tighten](http://www.mondovisione.com/media-and-resources/news/mni-indicators-mni-china-money-market-index-december-conditions-tighten/)
 append_entries: 3
 Finish: 2024-12-18 10:23:10.510685
+------------------------------------------------------
+Started: 2024-12-18 12:42:12.499800
+Existing_entries: 354
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Dubai Welcomes USD 500 Million Sustainability-Linked Loan Financing Bond By Emirates NBD](http://www.mondovisione.com/media-and-resources/news/nasdaq-dubai-welcomes-usd-500-million-sustainability-linked-loan-financing-bond/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LSEG Announces The Launch Of Historical Analytics Available Through Snowflake](http://www.mondovisione.com/media-and-resources/news/lseg-announces-the-launch-of-historical-analytics-available-through-snowflake/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Results Of The Semi-Annual SET Index Series Review For First Half Of 2025](http://www.mondovisione.com/media-and-resources/news/results-of-the-semi-annual-set-index-series-review-for-first-half-of-2025/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cyprus University Of Technology Students Gain Career Boost With New CISI Collaboration](http://www.mondovisione.com/media-and-resources/news/cyprus-university-of-technology-students-gain-career-boost-with-new-cisi-collabo/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Liquidnet Announces Record Growth In Asia Pacific And Expansion Into New Markets - 2024 Milestones Include Record $40 Million Block Trade In Hong Kong And Successful Rollout Of Its VWAP Cross Solution In Three Additional Markets](http://www.mondovisione.com/media-and-resources/news/liquidnet-announces-record-growth-in-asia-pacific-and-expansion-into-new-markets/)
+Append: [FSB Consults On Recommendations To Address Financial Stability Risks Arising From Leverage In Non-Bank Financial Intermediation](http://www.mondovisione.com/media-and-resources/news/fsb-consults-on-recommendations-to-address-financial-stability-risks-arising-fro/)
+append_entries: 6
+Finish: 2024-12-18 12:42:13.385128
