@@ -2034,3 +2034,15 @@ Append: [Liquidnet Announces Record Growth In Asia Pacific And Expansion Into Ne
 Append: [FSB Consults On Recommendations To Address Financial Stability Risks Arising From Leverage In Non-Bank Financial Intermediation](http://www.mondovisione.com/media-and-resources/news/fsb-consults-on-recommendations-to-address-financial-stability-risks-arising-fro/)
 append_entries: 6
 Finish: 2024-12-18 12:42:13.385128
+------------------------------------------------------
+Started: 2024-12-18 14:19:55.668284
+Existing_entries: 360
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [IOSCO’s Growth And Emerging Markets Committee Launches A Dedicated Network To Support Its Members In The Adoption Or Other Use Of ISSB Standards In Their Local Jurisdictions](http://www.mondovisione.com/media-and-resources/news/ioscos-growth-and-emerging-markets-committee-launches-a-dedicated-network-to-su/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Leading ESG business Holtara Becomes EDCI Benchmark Partner](http://www.mondovisione.com/media-and-resources/news/leading-esg-business-holtara-becomes-edci-benchmark-partner/)
+append_entries: 2
+Finish: 2024-12-18 14:19:56.732972
