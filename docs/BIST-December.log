@@ -2113,3 +2113,18 @@ Append: [Nasdaq Announces Semi-Annual Changes to the OMX Iceland 15™ Index](ht
 Append: [Nasdaq Announces Semi-Annual Changes To The First North 25™ Index](http://www.mondovisione.com/media-and-resources/news/nasdaq-announces-semi-annual-changes-to-the-first-north-25-index-6/)
 append_entries: 10
 Finish: 2024-12-18 20:23:31.746124
+------------------------------------------------------
+Started: 2024-12-18 22:20:23.436180
+Existing_entries: 383
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Statement In Support Of The PCAOB’s 2025 Budget, SEC Commissioner Caroline A. Crenshaw](http://www.mondovisione.com/media-and-resources/news/statement-in-support-of-the-pcaobs-2025-budget-sec-commissioner-caroline-a-cr/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Integrity And Transparency In Financial Reporting: The PCAOB’s FY 2025 Budget, SEC Commissioner Jaime Lizárraga](http://www.mondovisione.com/media-and-resources/news/integrity-and-transparency-in-financial-reporting-the-pcaobs-fy-2025-budget-s/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Office Of The Comptroller Of The Currency Issues Comprehensive Cease And Desist Order Against USAA Federal Savings Bank](http://www.mondovisione.com/media-and-resources/news/us-office-of-the-comptroller-of-the-currency-issues-comprehensive-cease-and-desi/)
+append_entries: 3
+Finish: 2024-12-18 22:20:25.019856
