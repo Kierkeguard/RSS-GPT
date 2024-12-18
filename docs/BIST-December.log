@@ -1979,3 +1979,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Cancelled — December 18 Commodity Futures Trading Commission (CFTC) Open Meeting](http://www.mondovisione.com/media-and-resources/news/cancelled-december-18-commodity-futures-trading-commission-cftc-open-meeting/)
 append_entries: 2
 Finish: 2024-12-18 06:30:03.825005
+------------------------------------------------------
+Started: 2024-12-18 08:28:37.456387
+Existing_entries: 347
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX Offers Enhanced Data Products Experience With Launch Of HKEX Data Marketplace](http://www.mondovisione.com/media-and-resources/news/hkex-offers-enhanced-data-products-experience-with-launch-of-hkex-data-marketpla/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Sues Crypto Company Binance Australia Derivatives For Consumer Protection Failures](http://www.mondovisione.com/media-and-resources/news/asic-sues-crypto-company-binance-australia-derivatives-for-consumer-protection-f/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Japan Financial Services Agency: Publication Of The “Monitoring Report For Improving Internal Audits Of Financial Institutions (2024)”](http://www.mondovisione.com/media-and-resources/news/japan-financial-services-agency-publication-of-the-monitoring-report-for-impro/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Approves Final Rule Regarding Safeguarding And Investment Of Customer Funds](http://www.mondovisione.com/media-and-resources/news/cftc-approves-final-rule-regarding-safeguarding-and-investment-of-customer-funds/)
+append_entries: 4
+Finish: 2024-12-18 08:28:38.513179
