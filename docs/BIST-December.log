@@ -2233,3 +2233,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Trillium Surveyor And Kaiko Announce Strategic Partnership To Enhance Crypto Trade Surveillance - Partnership Addresses Growing Demand For Institutional-Grade Crypto Trade Surveillance Solutions](http://www.mondovisione.com/media-and-resources/news/trillium-surveyor-and-kaiko-announce-strategic-partnership-to-enhance-crypto-tra/)
 append_entries: 3
 Finish: 2024-12-19 16:24:54.349777
+------------------------------------------------------
+Started: 2024-12-19 18:28:29.132954
+Existing_entries: 403
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Exchanges Options: Option Market Maker Quote Reporting Exemption For The Consolidated Audit Trail And Client Send Time Field For MEI And MEO Interfaces](http://www.mondovisione.com/media-and-resources/news/miax-exchanges-options-option-market-maker-quote-reporting-exemption-for-the-co/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Saudi Arabia Capital Market Authority Launches The Fourth Batch Of The Research Agenda Program](http://www.mondovisione.com/media-and-resources/news/the-saudi-arabia-capital-market-authority-launches-the-fourth-batch-of-the-resea/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Abu Dhabi Securities Exchange (ADX) Collaborates With 7X On Integrated Digital Postal Services](http://www.mondovisione.com/media-and-resources/news/abu-dhabi-securities-exchange-adx-collaborates-with-7x-on-integrated-digital-p/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Amman Stock Exchange Weekly Summary](http://www.mondovisione.com/media-and-resources/news/amman-stock-exchange-weekly-summary-9/)
+append_entries: 4
+Finish: 2024-12-19 18:28:30.213482
