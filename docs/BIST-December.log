@@ -2128,3 +2128,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [US Office Of The Comptroller Of The Currency Issues Comprehensive Cease And Desist Order Against USAA Federal Savings Bank](http://www.mondovisione.com/media-and-resources/news/us-office-of-the-comptroller-of-the-currency-issues-comprehensive-cease-and-desi/)
 append_entries: 3
 Finish: 2024-12-18 22:20:25.019856
+------------------------------------------------------
+Started: 2024-12-19 01:44:57.459016
+Existing_entries: 386
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2024-12-19 01:45:05.199270
