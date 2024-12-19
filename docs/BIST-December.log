@@ -2191,3 +2191,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Market Cap Segment Review At Nasdaq Nordic Exchanges](http://www.mondovisione.com/media-and-resources/news/market-cap-segment-review-at-nasdaq-nordic-exchanges-9/)
 append_entries: 5
 Finish: 2024-12-19 10:22:53.792613
+------------------------------------------------------
+Started: 2024-12-19 12:42:31.331977
+Existing_entries: 395
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER Welcomes ENTSOG Winter Supply Outlook And Recommends Improvements](http://www.mondovisione.com/media-and-resources/news/acer-welcomes-entsog-winter-supply-outlook-and-recommends-improvements/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Apologises To Collateral Investors](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-apologises-to-collateral-investors/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The World Federation Of Exchanges Warns The European Commission Of Discriminatory Impact Of EU Digital Operational Resilience Act](http://www.mondovisione.com/media-and-resources/news/the-world-federation-of-exchanges-warns-the-european-commission-of-discriminator/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CLS Welcomes NYK Line To CLSSettlement As A Third-Party Participant](http://www.mondovisione.com/media-and-resources/news/cls-welcomes-nyk-line-to-clssettlement-as-a-third-party-participant/)
+append_entries: 4
+Finish: 2024-12-19 12:42:32.291928
