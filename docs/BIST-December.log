@@ -2152,3 +2152,21 @@ Existing_entries: 386
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2024-12-19 06:30:30.444897
+------------------------------------------------------
+Started: 2024-12-19 08:27:53.606075
+Existing_entries: 386
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority: Firms Given Until December 2025 To Respond To Motor Finance Commission Complaints](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-firms-given-until-december-2025-to-respond-to-mo/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [APAC Deal Activity Down 3.6% During January-November 2024, Reveals GlobalData](http://www.mondovisione.com/media-and-resources/news/apac-deal-activity-down-36-during-january-november-2024-reveals-globaldata/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CEO Of World Gold Council Visits Shanghai Gold Exchange](http://www.mondovisione.com/media-and-resources/news/ceo-of-world-gold-council-visits-shanghai-gold-exchange/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Japan Financial Services Agency Blockchain International Joint Research Project - Research Report On "The Evolution Of Tokenization In The Financial Sector And The Feasibility Of The Use Of Blockchain Technology For RegTech/SupTech”](http://www.mondovisione.com/media-and-resources/news/japan-financial-services-agency-blockchain-international-joint-research-project/)
+append_entries: 4
+Finish: 2024-12-19 08:27:54.618466
