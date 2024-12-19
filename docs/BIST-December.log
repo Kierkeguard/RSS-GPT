@@ -2218,3 +2218,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Bank Of England: Bank Rate Maintained At 4.75% - December 2024](http://www.mondovisione.com/media-and-resources/news/bank-of-england-bank-rate-maintained-at-475-december-2024/)
 append_entries: 1
 Finish: 2024-12-19 14:19:43.796433
+------------------------------------------------------
+Started: 2024-12-19 16:24:53.190554
+Existing_entries: 400
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Interactive Brokers Enhances Web-Based Trading Experience For Financial Advisors Globally - Enhancements Enable Financial Advisors To Streamline Workflows And Engage Clients More Effectively](http://www.mondovisione.com/media-and-resources/news/interactive-brokers-enhances-web-based-trading-experience-for-financial-advisors/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER Welcomes The Draft Statutory Documents Of The European Network Of Network Operators For Hydrogen](http://www.mondovisione.com/media-and-resources/news/acer-welcomes-the-draft-statutory-documents-of-the-european-network-of-network-o/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Trillium Surveyor And Kaiko Announce Strategic Partnership To Enhance Crypto Trade Surveillance - Partnership Addresses Growing Demand For Institutional-Grade Crypto Trade Surveillance Solutions](http://www.mondovisione.com/media-and-resources/news/trillium-surveyor-and-kaiko-announce-strategic-partnership-to-enhance-crypto-tra/)
+append_entries: 3
+Finish: 2024-12-19 16:24:54.349777
