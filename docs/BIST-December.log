@@ -2170,3 +2170,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Japan Financial Services Agency Blockchain International Joint Research Project - Research Report On "The Evolution Of Tokenization In The Financial Sector And The Feasibility Of The Use Of Blockchain Technology For RegTech/SupTech”](http://www.mondovisione.com/media-and-resources/news/japan-financial-services-agency-blockchain-international-joint-research-project/)
 append_entries: 4
 Finish: 2024-12-19 08:27:54.618466
+------------------------------------------------------
+Started: 2024-12-19 10:22:52.662217
+Existing_entries: 390
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Rule Changes Proposed By UK Financial Conduct Authority To Boost Investment](http://www.mondovisione.com/media-and-resources/news/rule-changes-proposed-by-uk-financial-conduct-authority-to-boost-investment/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Broadridge Appoints Mike Cowley As Head Of International Investor Communications Service Delivery](http://www.mondovisione.com/media-and-resources/news/broadridge-appoints-mike-cowley-as-head-of-international-investor-communications/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX: Exchange Publishes Conclusions On Corporate Governance Code Enhancements](http://www.mondovisione.com/media-and-resources/news/hkex-exchange-publishes-conclusions-on-corporate-governance-code-enhancements/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX: Exchange Publishes Consultation Paper On Proposals To Optimise IPO Price Discovery And Open Market Requirements](http://www.mondovisione.com/media-and-resources/news/hkex-exchange-publishes-consultation-paper-on-proposals-to-optimise-ipo-price-d/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Market Cap Segment Review At Nasdaq Nordic Exchanges](http://www.mondovisione.com/media-and-resources/news/market-cap-segment-review-at-nasdaq-nordic-exchanges-9/)
+append_entries: 5
+Finish: 2024-12-19 10:22:53.792613
