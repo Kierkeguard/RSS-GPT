@@ -2272,3 +2272,26 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Moreld Lists On Euronext Growth Oslo](http://www.mondovisione.com/media-and-resources/news/moreld-lists-on-euronext-growth-oslo/)
 append_entries: 5
 Finish: 2024-12-19 20:22:08.931813
+------------------------------------------------------
+Started: 2024-12-19 22:18:54.463598
+Existing_entries: 412
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC: Global Aerospace Company AAR And Former Executive Of Its Subsidiary Settle Charges For Bribing Nepalese And South African Officials](http://www.mondovisione.com/media-and-resources/news/global-aerospace-company-aar-and-former-executive-of-its-subsidiary-settle-charg/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Treasury International Capital Data For October](http://www.mondovisione.com/media-and-resources/news/treasury-international-capital-data-for-october-8/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Federal Agencies Release Annual Asset-Size Thresholds Under Community Reinvestment Act Regulations](http://www.mondovisione.com/media-and-resources/news/us-federal-agencies-release-annual-asset-size-thresholds-under-community-reinves-3/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Updated Coefficients For Moscow Exchange Indices To Come Into Force](http://www.mondovisione.com/media-and-resources/news/the-updated-coefficients-for-moscow-exchange-indices-to-come-into-force-43/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Federal Reserve Board Announces Appointment Of Seven Members, Including Three New Members, To Its Insurance Policy Advisory Committee (IPAC)](http://www.mondovisione.com/media-and-resources/news/federal-reserve-board-announces-appointment-of-seven-members-including-three-ne/)
+Append: [EBA Issues Revised List Of ITS Validation Rules](http://www.mondovisione.com/media-and-resources/news/eba-issues-revised-list-of-its-validation-rules-26/)
+Append: [The EBA Releases The Technical Package For Its 4.0 Reporting Framework](http://www.mondovisione.com/media-and-resources/news/the-eba-releases-the-technical-package-for-its-40-reporting-framework/)
+append_entries: 7
+Finish: 2024-12-19 22:18:55.549754
