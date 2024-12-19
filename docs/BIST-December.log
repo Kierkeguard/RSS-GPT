@@ -2251,3 +2251,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Amman Stock Exchange Weekly Summary](http://www.mondovisione.com/media-and-resources/news/amman-stock-exchange-weekly-summary-9/)
 append_entries: 4
 Finish: 2024-12-19 18:28:30.213482
+------------------------------------------------------
+Started: 2024-12-19 20:22:07.488020
+Existing_entries: 407
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Treasury Releases Report On The Uses, Opportunities, And Risks Of Artificial Intelligence In Financial Services](http://www.mondovisione.com/media-and-resources/news/us-treasury-releases-report-on-the-uses-opportunities-and-risks-of-artificial/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Envipco Transfers To Euronext Oslo Børs](http://www.mondovisione.com/media-and-resources/news/envipco-transfers-to-euronext-oslo-brs/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Bank Of England Welcomes API Panel Of Expert Recommendations To Enhance Cross-Border Payments](http://www.mondovisione.com/media-and-resources/news/the-bank-of-england-welcomes-api-panel-of-expert-recommendations-to-enhance-cros/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESMA Consults On The Internal Control Framework For Some Of Its Supervised Entities](http://www.mondovisione.com/media-and-resources/news/esma-consults-on-the-internal-control-framework-for-some-of-its-supervised-entit/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Moreld Lists On Euronext Growth Oslo](http://www.mondovisione.com/media-and-resources/news/moreld-lists-on-euronext-growth-oslo/)
+append_entries: 5
+Finish: 2024-12-19 20:22:08.931813
