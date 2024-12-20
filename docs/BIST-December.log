@@ -2322,3 +2322,27 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Autorité des Marchés Financiers Adjusts Its Annual And Other Fees For 2025](http://www.mondovisione.com/media-and-resources/news/autorit-des-marchs-financiers-adjusts-its-annual-and-other-fees-for-2025/)
 append_entries: 1
 Finish: 2024-12-20 06:29:04.815303
+------------------------------------------------------
+Started: 2024-12-20 08:26:33.117149
+Existing_entries: 420
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Shanghai Gold Exchange: Notice On Collection Of Transfer Fees For Inventory Swaps And Clearings And Transfers Of Safe Deposit Vault Bullions For OTC Trades](http://www.mondovisione.com/media-and-resources/news/shanghai-gold-exchange-notice-on-collection-of-transfer-fees-for-inventory-swap/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Zealand Financial Markets Authority: Individual Pleads Guilty To Insider Trading Charges](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-individual-pleads-guilty-to-insider-tra/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Press Conference By KATO Katsunobu, Japan Minister Of Finance And Minister Of State For Financial Services - Financial Crime](http://www.mondovisione.com/media-and-resources/news/press-conference-by-kato-katsunobu-japan-minister-of-finance-and-minister-of-st-5/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Capital Market Organizations Unite In A Pledge To Strengthen Good Corporate Governance Standards Among Thai Listed Companies](http://www.mondovisione.com/media-and-resources/news/capital-market-organizations-unite-in-a-pledge-to-strengthen-good-corporate-gove/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Shanghai Gold Exchange: Notice On Fees Related To Bullion Storage Services On International Board](http://www.mondovisione.com/media-and-resources/news/shanghai-gold-exchange-notice-on-fees-related-to-bullion-storage-services-on-in/)
+Append: [Press Conference By KATO Katsunobu, Japan Minister Of Finance And Minister Of State For Financial Services - Mitsubishi UFJ Bank](http://www.mondovisione.com/media-and-resources/news/press-conference-by-kato-katsunobu-japan-minister-of-finance-and-minister-of-st-4/)
+Append: [Shanghai Gold Exchange: Notice On Exemption Of Fees Related To Silver Delivery Services In 2025](http://www.mondovisione.com/media-and-resources/news/shanghai-gold-exchange-notice-on-exemption-of-fees-related-to-silver-delivery-s/)
+Append: [ASIC: Federal Court Finds CFD Issuers Engaged In Systemic Unconscionable Conduct With Customer Losses Totalling Over $83 Million](http://www.mondovisione.com/media-and-resources/news/asic-federal-court-finds-cfd-issuers-engaged-in-systemic-unconscionable-conduct/)
+append_entries: 8
+Finish: 2024-12-20 08:26:34.689090
