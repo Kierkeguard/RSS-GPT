@@ -2409,3 +2409,27 @@ Existing_entries: 441
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2024-12-20 18:27:42.321344
+------------------------------------------------------
+Started: 2024-12-20 20:21:40.859307
+Existing_entries: 441
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Concurring Statement Of CFTC Commissioner Caroline D. Pham On The Separate Accounts Final Rule](http://www.mondovisione.com/media-and-resources/news/concurring-statement-of-cftc-commissioner-caroline-d-pham-on-the-separate-accou/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Approves Final Rule On Margin Adequacy, Treatment Of Separate Accounts Of A Customer By Futures Commission Merchants](http://www.mondovisione.com/media-and-resources/news/cftc-approves-final-rule-on-margin-adequacy-treatment-of-separate-accounts-of-a/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Exchange Group - Options Markets - Market For Underlying Security Used For Openings On MIAX Options, MIAX Pearl Options, MIAX Emerald Options And MIAX Sapphire Options For Newly Listed Symbols Effective Monday, December 23, 2024](http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-options-markets-market-for-underlying-security-used-for-22/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Exchange Group - Options Markets - New Listings Effective For December 23, 2024](http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-options-markets-new-listings-effective-for-december-23/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nigerian Exchange Weekly Market Report For The Week Ended 20 December 2024](http://www.mondovisione.com/media-and-resources/news/nigerian-exchange-weekly-market-report-for-the-week-ended-20-december-2024/)
+Append: [ESAs Are Recruiting Heads Of Unit For Their DORA Joint Oversight Team](http://www.mondovisione.com/media-and-resources/news/esas-are-recruiting-heads-of-unit-for-their-dora-joint-oversight-team/)
+Append: [ESMA Publishes Feedback Received To Proposed Review Of Securitisation Disclosure Templates](http://www.mondovisione.com/media-and-resources/news/esma-publishes-feedback-received-to-proposed-review-of-securitisation-disclosure/)
+Append: [Bio-Inox Lists On Euronext Access](http://www.mondovisione.com/media-and-resources/news/bio-inox-lists-on-euronext-access/)
+append_entries: 8
+Finish: 2024-12-20 20:21:42.155619
