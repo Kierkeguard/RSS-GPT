@@ -2346,3 +2346,15 @@ Append: [Shanghai Gold Exchange: Notice On Exemption Of Fees Related To Silver D
 Append: [ASIC: Federal Court Finds CFD Issuers Engaged In Systemic Unconscionable Conduct With Customer Losses Totalling Over $83 Million](http://www.mondovisione.com/media-and-resources/news/asic-federal-court-finds-cfd-issuers-engaged-in-systemic-unconscionable-conduct/)
 append_entries: 8
 Finish: 2024-12-20 08:26:34.689090
+------------------------------------------------------
+Started: 2024-12-20 10:21:18.496794
+Existing_entries: 428
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NGX Group CEO Advocates For Authenticity And People-Centric Leadership At Taj Leadership Summit](http://www.mondovisione.com/media-and-resources/news/ngx-group-ceo-advocates-for-authenticity-and-people-centric-leadership-at-taj-le/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX In 2024: Year In Review](http://www.mondovisione.com/media-and-resources/news/hkex-in-2024-year-in-review/)
+append_entries: 2
+Finish: 2024-12-20 10:21:19.935689
