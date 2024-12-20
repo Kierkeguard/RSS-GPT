@@ -2358,3 +2358,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [HKEX In 2024: Year In Review](http://www.mondovisione.com/media-and-resources/news/hkex-in-2024-year-in-review/)
 append_entries: 2
 Finish: 2024-12-20 10:21:19.935689
+------------------------------------------------------
+Started: 2024-12-20 12:39:37.898161
+Existing_entries: 430
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2024-12-20 12:39:39.560980
