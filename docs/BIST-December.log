@@ -2379,3 +2379,27 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [REMIT Breaches: Spanish Energy Regulator Fines Gesternova S.A. €6 Million And Axpo Iberia €1.5 Million For Electricity Market Manipulation](http://www.mondovisione.com/media-and-resources/news/remit-breaches-spanish-energy-regulator-fines-gesternova-sa-6-million-and-ax/)
 append_entries: 3
 Finish: 2024-12-20 14:18:17.169280
+------------------------------------------------------
+Started: 2024-12-20 16:25:04.041002
+Existing_entries: 433
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Files Settled Charges Against Multiple Entities For Failing To Timely File Forms D In Connection With Securities Offerings](http://www.mondovisione.com/media-and-resources/news/sec-files-settled-charges-against-multiple-entities-for-failing-to-timely-file-f/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Charges Silver Point Capital With Policy Failures Regarding Receipt Of Material Nonpublic Information About Bonds Issued By Puerto Rico](http://www.mondovisione.com/media-and-resources/news/sec-charges-silver-point-capital-with-policy-failures-regarding-receipt-of-mater/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC: Deutsche Bank Subsidiary To Pay $4 Million For Untimely Filing Certain Suspicious Activity Reports](http://www.mondovisione.com/media-and-resources/news/sec-deutsche-bank-subsidiary-to-pay-4-million-for-untimely-filing-certain-susp/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Energy Revolution Ventures Closes Fund I Targeting Electrification - Fund Targets Early-Stage Deep Tech To Rewire Our Economy](http://www.mondovisione.com/media-and-resources/news/energy-revolution-ventures-closes-fund-i-targeting-electrification-fund-targ/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER Proposes Electricity Grid Connection Network Code Amendments To The European Commission](http://www.mondovisione.com/media-and-resources/news/acer-proposes-electricity-grid-connection-network-code-amendments-to-the-europea/)
+Append: [SEC Charges Utility Company Entergy Corp. With Internal Accounting Controls Violations - Company Agrees To Pay $12 Million In Penalties And Adopted Independent Consultant’s Recommended Improvements](http://www.mondovisione.com/media-and-resources/news/sec-charges-utility-company-entergy-corp-with-internal-accounting-controls-viol/)
+Append: [UK Financial Conduct Authority Executes Search Warrants In Investigations Involving Unauthorised Business](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-executes-search-warrants-in-investigations-involv/)
+Append: [CFTC Commissioner Johnson Announces Executive Staff Appointments](http://www.mondovisione.com/media-and-resources/news/cftc-commissioner-johnson-announces-executive-staff-appointments/)
+append_entries: 8
+Finish: 2024-12-20 16:25:05.273443
