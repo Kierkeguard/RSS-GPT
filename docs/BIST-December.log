@@ -2364,3 +2364,18 @@ Existing_entries: 430
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2024-12-20 12:39:39.560980
+------------------------------------------------------
+Started: 2024-12-20 14:18:16.140973
+Existing_entries: 430
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Wells Fargo And LPL Financial Charged For Submitting Deficient Trading Data To SEC - Wells Fargo’s Penalty Amount Reflects That It Self-Reported Its Misconduct](http://www.mondovisione.com/media-and-resources/news/wells-fargo-and-lpl-financial-charged-for-submitting-deficient-trading-data-to-s/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Malawi Stock Exchange Weekly Summary, 20 December 2024](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-20-december-2024/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [REMIT Breaches: Spanish Energy Regulator Fines Gesternova S.A. €6 Million And Axpo Iberia €1.5 Million For Electricity Market Manipulation](http://www.mondovisione.com/media-and-resources/news/remit-breaches-spanish-energy-regulator-fines-gesternova-sa-6-million-and-ax/)
+append_entries: 3
+Finish: 2024-12-20 14:18:17.169280
