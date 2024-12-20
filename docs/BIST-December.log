@@ -2433,3 +2433,21 @@ Append: [ESMA Publishes Feedback Received To Proposed Review Of Securitisation D
 Append: [Bio-Inox Lists On Euronext Access](http://www.mondovisione.com/media-and-resources/news/bio-inox-lists-on-euronext-access/)
 append_entries: 8
 Finish: 2024-12-20 20:21:42.155619
+------------------------------------------------------
+Started: 2024-12-20 22:18:54.802370
+Existing_entries: 449
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Statement Of Support Of CFTC Chairman Rostin Behnam Final Rule Regarding Regulations To Address Margin Adequacy And To Account For The Treatment Of Separate Accounts By Futures Commission Merchants](http://www.mondovisione.com/media-and-resources/news/statement-of-support-of-cftc-chairman-rostin-behnam-final-rule-regarding-regulat/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [It’s Been A Week: Statement On Amendments To Exchange Act Rule 15c3-3, SEC Commissioner Hester M. Peirce](http://www.mondovisione.com/media-and-resources/news/its-been-a-week-statement-on-amendments-to-exchange-act-rule-15c3-3-sec-commi/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Statement On Daily Computation Of Customer And Broker-Dealer Reserve Requirements Under An Amended Broker-Dealer Customer Protection Rule, SEC Commissioner Mark T. Uyeda](http://www.mondovisione.com/media-and-resources/news/statement-on-daily-computation-of-customer-and-broker-dealer-reserve-requirement/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Adopts Rule Amendments To The Broker-Dealer Customer Protection Rule](http://www.mondovisione.com/media-and-resources/news/sec-adopts-rule-amendments-to-the-broker-dealer-customer-protection-rule/)
+append_entries: 4
+Finish: 2024-12-20 22:18:56.302186
