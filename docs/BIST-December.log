@@ -2313,3 +2313,12 @@ Existing_entries: 419
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2024-12-20 04:24:46.361922
+------------------------------------------------------
+Started: 2024-12-20 06:29:02.515872
+Existing_entries: 419
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Autorité des Marchés Financiers Adjusts Its Annual And Other Fees For 2025](http://www.mondovisione.com/media-and-resources/news/autorit-des-marchs-financiers-adjusts-its-annual-and-other-fees-for-2025/)
+append_entries: 1
+Finish: 2024-12-20 06:29:04.815303
