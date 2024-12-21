@@ -2475,3 +2475,21 @@ Existing_entries: 453
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2024-12-21 06:26:38.911046
+------------------------------------------------------
+Started: 2024-12-21 08:23:48.261644
+Existing_entries: 453
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tai Mo Shan To Pay $123 Million For Negligently Misleading Investors About Stability Of Terra USD - Order Also Finds Tai Mo Shan Acted As A Statutory Underwriter In Distributing LUNA Crypto Assets, Which Were Offered And Sold As Securities](http://www.mondovisione.com/media-and-resources/news/tai-mo-shan-to-pay-123-million-for-negligently-misleading-investors-about-stabi/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Office Of The Comptroller Of The Currency Issues Annual Report For 2024](http://www.mondovisione.com/media-and-resources/news/us-office-of-the-comptroller-of-the-currency-issues-annual-report-for-2024/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Statement On Customer Protection Rule, SEC Chair Gary Gensler](http://www.mondovisione.com/media-and-resources/news/statement-on-customer-protection-rule-sec-chair-gary-gensler/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FINRA Orders Three Firms To Pay Over $8.2 Million In Restitution To Customers - Firms Did Not Provide Fee Waivers In Connection With Mutual Fund Purchases](http://www.mondovisione.com/media-and-resources/news/finra-orders-three-firms-to-pay-over-82-million-in-restitution-to-customers/)
+append_entries: 4
+Finish: 2024-12-21 08:23:50.676238
