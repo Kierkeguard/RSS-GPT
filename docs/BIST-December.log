@@ -2493,3 +2493,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [FINRA Orders Three Firms To Pay Over $8.2 Million In Restitution To Customers - Firms Did Not Provide Fee Waivers In Connection With Mutual Fund Purchases](http://www.mondovisione.com/media-and-resources/news/finra-orders-three-firms-to-pay-over-82-million-in-restitution-to-customers/)
 append_entries: 4
 Finish: 2024-12-21 08:23:50.676238
+------------------------------------------------------
+Started: 2024-12-21 10:19:01.048944
+Existing_entries: 457
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2024-12-21 10:19:02.025734
