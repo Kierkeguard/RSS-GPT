@@ -2578,3 +2578,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [New Board Re-Appoints CEO Of Tehran Securities Exchange](http://www.mondovisione.com/media-and-resources/news/new-board-re-appoints-ceo-of-tehran-securities-exchange/)
 append_entries: 1
 Finish: 2024-12-22 10:19:13.402962
+------------------------------------------------------
+Started: 2024-12-22 12:36:40.351193
+Existing_entries: 459
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2024-12-22 12:36:41.302916
