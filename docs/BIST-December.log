@@ -2608,3 +2608,12 @@ Existing_entries: 459
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2024-12-22 20:20:06.556619
+------------------------------------------------------
+Started: 2024-12-22 22:18:03.977610
+Existing_entries: 459
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Zealand Financial Markets Authority: Westpac Admits To Misleading Representations That Resulted In $6.35m In Overcharges](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-westpac-admits-to-misleading-representa/)
+append_entries: 1
+Finish: 2024-12-22 22:18:05.480501
