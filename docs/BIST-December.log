@@ -2641,3 +2641,21 @@ Existing_entries: 460
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2024-12-23 06:30:15.211954
+------------------------------------------------------
+Started: 2024-12-23 08:26:58.602240
+Existing_entries: 460
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Hong Kong Securities And Futures Commission And Ministry Of Finance Top Management Meet In Beijing](http://www.mondovisione.com/media-and-resources/news/hong-kong-securities-and-futures-commission-and-ministry-of-finance-top-manageme/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bursa Malaysia Requires Sustainability Reporting Using The IFRS Sustainability Disclosure Standards - Enhancements Reflect The National Sustainability Reporting Framework](http://www.mondovisione.com/media-and-resources/news/bursa-malaysia-requires-sustainability-reporting-using-the-ifrs-sustainability-d/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Zealand Financial Markets Authority Seeks Clarity From High Court On Use Of Eligible Investor Certificates In Wholesale Investment Sector](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-seeks-clarity-from-high-court-on-use-of/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Publication Of "Japan Financial Services Agency Strategic Priorities: July 2024 - June 2025"](http://www.mondovisione.com/media-and-resources/news/publication-of-japan-financial-services-agency-strategic-priorities-july-2024/)
+append_entries: 4
+Finish: 2024-12-23 08:26:59.662808
