@@ -2692,3 +2692,26 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Bermuda Stock Exchange – 2024 Festive Holiday Closure Notice](http://www.mondovisione.com/media-and-resources/news/bermuda-stock-exchange-2024-festive-holiday-closure-notice/)
 append_entries: 1
 Finish: 2024-12-23 16:24:59.393716
+------------------------------------------------------
+Started: 2024-12-23 18:27:23.759557
+Existing_entries: 467
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Exchange Group - Options Markets - January 1, 2025 Fee Change To Provide Historical Open-Close Report Data Discount](http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-options-markets-january-1-2025-fee-change-to-provide-hi/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Trading Technologies Achieves High Spot In Chartis Buyside Platforms 2024 Rankings - Firm Also Earns “Strong Category Leader” Status For Energy And Equity Trade Surveillance Solutions In New Chartis Market Quadrants Report](http://www.mondovisione.com/media-and-resources/news/trading-technologies-achieves-high-spot-in-chartis-buyside-platforms-2024-rankin/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bank Of England: Minutes Of The Meeting Of The Court Of Directors Held On 29 October 2024](http://www.mondovisione.com/media-and-resources/news/bank-of-england-minutes-of-the-meeting-of-the-court-of-directors-held-on-29-oct-1/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Borsa Istanbul: Announcement About Gold Imports Made With The Cash Against Goods Payment Method](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-announcement-about-gold-imports-made-with-the-cash-against-goods/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Dubai Financial Market Market Holiday, New Year 2025](http://www.mondovisione.com/media-and-resources/news/dubai-financial-market-market-holiday-new-year-2025/)
+Append: [Hong Kong Securities And Futures Commission And Hong Kong State Administration Of Foreign Exchange Top Management Meet In Beijing](http://www.mondovisione.com/media-and-resources/news/hong-kong-securities-and-futures-commission-and-hong-kong-state-administration-o/)
+Append: [Shenzhen Stock Exchange Market Bulletin, December 20, 2024, Issue 39](http://www.mondovisione.com/media-and-resources/news/shenzhen-stock-exchange-market-bulletin-december-20-2024-issue-39/)
+append_entries: 7
+Finish: 2024-12-23 18:27:24.768765
