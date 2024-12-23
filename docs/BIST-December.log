@@ -2665,3 +2665,12 @@ Existing_entries: 464
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2024-12-23 10:22:12.625563
+------------------------------------------------------
+Started: 2024-12-23 12:40:20.337631
+Existing_entries: 464
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Fiserv To Enhance Its Embedded Finance Capability With Acquisition Of Payfare Inc. - Payfare’s Technology And Program Management Capabilities Complement Fiserv’s Embedded Finance Offerings](http://www.mondovisione.com/media-and-resources/news/fiserv-to-enhance-its-embedded-finance-capability-with-acquisition-of-payfare-in/)
+append_entries: 1
+Finish: 2024-12-23 12:40:21.241186
