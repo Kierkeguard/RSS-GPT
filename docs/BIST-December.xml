@@ -5,11 +5,71 @@
 <link>http://www.mondovisione.com/media-and-resources/news/</link>
 
 <item>
+<title>US Office Of The Comptroller Of The Currency Issues Cease And Desist Order Against Bank Of America For Bank Secrecy Act Deficiencies</title>
+<link>http://www.mondovisione.com/media-and-resources/news/us-office-of-the-comptroller-of-the-currency-issues-cease-and-desist-order-again/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/us-office-of-the-comptroller-of-the-currency-issues-cease-and-desist-order-again/</guid>
+<content:encoded><![CDATA[
+
+<p>The Office of the Comptroller of the Currency (OCC) today issued a cease-and-desist order (order) against Bank of America, N.A. (bank) for deficiencies related to its Bank Secrecy Act (BSA) and sanctions compliance programs.</p>
+<p>The OCC took this action based on violations and unsafe or unsound practices relating to these programs, including a failure to timely file suspicious activity reports and failure to correct a previously identified deficiency related to its Customer Due Diligence processes. The order also identifies deficiencies in the internal controls, governance, independent testing, and training components of the bank&rsquo;s BSA compliance program.</p>
+<p>The order requires the bank to take comprehensive corrective actions to enhance its BSA/anti&mdash;money laundering (AML) and sanctions compliance programs, including the hiring of an independent consultant to assess the bank&rsquo;s BSA/AML and sanctions compliance programs and conduct lookback reviews to ensure all suspicious activity was appropriately reported.</p>
+<h2>Related Link</h2>
+<ul>
+<li><a href="https://www.occ.gov/static/enforcement-actions/eaAA-ENF-2024-56.pdf" rel="noopener noreferrer" target="_blank">Cease and Desist Order</a>&nbsp;(PDF)</li>
+</ul>
+]]></content:encoded>
+<pubDate>Mon, 23 Dec 2024 19:47:10 GMT</pubDate>
+<pubDate>Mon, 23 Dec 2024 19:47:10 GMT</pubDate>
+</item>
+<item>
+<title>I Trust US Crypto More Than European Equity Consolidated Tape - By Kelvin To, Founder And President Of Data Boiler Technologies</title>
+<link>http://www.mondovisione.com/media-and-resources/news/i-trust-us-crypto-more-than-european-equity-consolidated-tape-by-kelvin-to-fo/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/i-trust-us-crypto-more-than-european-equity-consolidated-tape-by-kelvin-to-fo/</guid>
+<content:encoded><![CDATA[
+
+<p>I cannot comprehend how the Europe Economics (EE) can <a href="https://www.bayes.city.ac.uk/__data/assets/pdf_file/0011/366599/sale-price-information-cass-knowledge.pdf">omit Giovanni Cespa and Thierry Foucault&rsquo;s empirical study</a> in their Pre-trade equities consolidated tape (CT) <a href="https://www.fca.org.uk/publication/external-research/europe-economics-pre-trade-equities-final-report.pdf">final report</a> that commissioned by the UK Financial Conduct Authority (FCA). Stock exchanges optimally restricting access to price information exacerbated the latency gap between Proprietary Products (PPs) and SIP that caused data fragmentation. That final report does not even mention that the US Securities and Exchange Commission (SEC) has mandated the <i>&ldquo;same manner same methods&rdquo; </i>provision under <a href="https://www.sec.gov/files/rules/final/2020/34-90610.pdf">Market Data Infrastructure Rule</a> that recognizes the US Securities Information Processors (SIPs) were not modernized alongside markets evolution and technologies development. Instead, the final report undermines the issue and mis-paints the picture that its statement sounded almost like the Exchanges <i>&ldquo;The SIP has significantly improved its performance over the last 15 years&hellip;&rdquo;</i></p>
+<p>Experience from the US suggested that Investment Firms, including Self-Aggregators (SAs) and Alternative Trading Systems (ATSs), the equivalent of Multilateral Trading Facilities (MTFs) in Europe, use a mix of the US SIP / CT with selected [7.5 out of 11 most active] proprietary feeds to save cost, rather than connecting to every trading venue. The EE&rsquo;s final report shied away from telling the audience. How an Economist have authority to say <i>&ldquo;never&rdquo;</i> in an engineering topic?! Do they understand that by having a synchronized start-line using <a href="https://www.csail.mit.edu/time-lock-crypto-puzzle-and-time-capsule-innovations">time-lock cryptography</a> and CTP streaming a lighter feed (i.e. top-of-book or maybe top 5) can overcome the &ldquo;hops&rdquo; in data aggregation to match up with the direct feed that carry full-load of level 3 data with comparable speed? EE said, <i>&ldquo;The consolidated tape can never be fast enough for such use cases&rdquo;</i> is NOT objective. Low-latency CT is totally practical as proven by the High Frequency Trading firms, SAs, ATSs / MTFs.</p>
+<p>Economists supposed to understand that CT has to be a reasonable compromise, if not a close substitute, to PPs. It is the ONLY effective way to affect competitive pressures for existing sellers of market data to achieve one of the key regulatory goals. Statements from the EE&rsquo;s final report, such as <i>&ldquo;Concerns remain about the commercial viability and quality of the consolidated tape, particularly whether it can serve as a substitute for current data. There are also technical issues&hellip;&rdquo;</i> sounded like people do not want to step out of their comfort zone to do any hard work or go with LSEG&rsquo;s view that we <a href="https://www.linkedin.com/posts/kelvin-to-9125955_agree-to-disagree-on-lsegs-view-on-uk-consolidated-activity-7193989297392214017-T5ls">strongly disagree</a>.&nbsp; The premises or remarks in <a href="https://www.adamantia.paris/post/a-group-of-financial-institutions-assesses-the-viability-of-a-european-consolidated-tape-on-equity">this Adamantia Research post</a> that said <i>"the CT is intended to support use cases that do not require low latency: thus, the CT will not replace existing direct feeds from the trading venues used by professionals for trading applications, or by other venues"</i> is flawed. By fulfilling different needs, CTP business model can be viable, as well as being a non-profit to return any excess profits back to the investment communities.</p>
+<p>On a separate note, we are glad that ESMA removes references to the CT Provider (CTP) from the table in Amendments to Table 4 of Annex I of RTS 1 and keeping the &ldquo;<a href="https://www.esma.europa.eu/sites/default/files/2024-12/ESMA74-2134169708-7636_MiFIR_Review_Final_Report_on_Equity_transparency.pdf">flags</a>&rdquo; applicable to trading venues and Approved Publication Arrangements (APAs). Good that policy makers recognize the different roles play by CTP vs APAs, and <a href="https://www.fca.org.uk/publication/correspondence/portfolio-letter-data-reporting-service-provider.pdf">reminded APAs</a> their operational resiliency, data quality and other compliance requirements. We believe &ldquo;non-core&rdquo; data, taxonomy flags, and other unnecessary nuances to drag the speed would make the equity CT unusable. Also, we welcome the other <a href="https://www.esma.europa.eu/sites/default/files/2024-12/ESMA74-2134169708-7775_MiFIR_Review_Final_Report_on_amendment_of_RTS_2_and_RTS_on_RCB.pdf">non-equity</a> <a href="https://www.esma.europa.eu/sites/default/files/2024-12/ESMA74-2134169708-7577_Final_Report_on_the_amendments_to_certain_technical_standards_for_commodity_derivatives.pdf">reports</a> recently published by ESMA. They are largely in line with their original proposals. Simplifying and streamlining some the nuances with trading venues perimeters and transparency regime should be welcoming by the industry. That being said, the UK FCA is working towards updating their <a href="https://www.fca.org.uk/publication/correspondence/portfolio-letter-our-supervisory-strategy-trading-venues-2024.pdf">strategy for trading venues</a> in favor of <a href="https://www.fca.org.uk/publication/corporate/sicgo-report-2023-24.pdf">international competitiveness and growth</a>.</p>
+<p>Market participants should also keep in mind the following:</p>
+<p>(1) values of time sensitive data deteriorate substantially overtime thus requires proper security protection and in synch.</p>
+<p>(2) contents (quotes and trades contributions) belong to the content creators (broker-dealers), <a href="https://www.databoiler.com/index_htm_files/DataBoiler%20Copyright%20Licensing.pdf">see</a> <a href="https://www.databoiler.com/index_htm_files/DataBoiler%20Noumenon%20Equity%20Market%20Structure.pdf">our</a> <a href="https://www.databoiler.com/index_htm_files/DataBoiler%20Europe%202024.pdf">whitepapers</a>.</p>
+<p>(3) the FCA&rsquo;s <a href="https://www.fca.org.uk/publication/handbook/handbook-notice-117.pdf">Handbook Notice 117</a> in April 2024 stated that UK would not require that the bond CTP make payments to data providers. The EU is favoring Reasonable Commercial Basis (RCB) to address cost, fairness and other concerns, such as <i>&rdquo;(i) onerous administrative obligations on data users, for example through frequent and detailed requests on the use of data; (ii) ambiguous language in the agreement; (iii) frequent unilateral amendments to the agreement; (iv) general lack of transparency on terms and conditions; (iv) excessive fees; (v) increase of fees through penalties; and (iv) overly burdensome audits.&rdquo;</i></p>
+<p>(4) The EU decided to ban payment for order flow (PFOF) from 2026 onward, and experience from Singapore and Australia on their ban of PFOF resulted in substantial markets shrink. The EU and UK lacks <a href="https://www.sec.gov/files/rules/final/34-51808.pdf">order protection rule</a>, anonymity to NOT report which venues are setting or displaying the EBBO is perturbing. Opening and closing price of the Primary Listing Market versus Most Relevant Market is a controversy. We are reminding the smaller exchanges to fight for their own rights, while we will respect the ESMA, FCA, and NCAs requirements to serve their respective region or countries.</p>
+<p>(5) be mindful of lip service where governance control may merely be an advisory committee like the US <a href="https://www.federalregister.gov/documents/2024/11/29/2024-27644/joint-industry-plan-order-approving-as-modified-a-national-market-system-plan-regarding-consolidated">CT Plan version two</a> that the SEC recently approved amid everybody knows it is a &ldquo;Toothless Tiger&rdquo;. 2/3 trading venues and 1/3 industry representation in the proposed operating committee of the US <a href="https://www.linkedin.com/pulse/market-data-reform-without-ct-plan-kelvin-to/">CT Plan version one</a> is worse than the 50/50 split in the music industry in the 1970S. Does investment firms in the EU and the UK want 100/0 and settle with an advisory committee that trading venues lead CT contenders may offer?!</p>
+<p>(6) We believe crypto assets would attract money flow away from traditional asset classes globally under the new US Administration. The UK and the EU have opportunity to use time-lock cryptography to <a href="https://www.linkedin.com/pulse/improving-trust-amid-race-technologies-kelvin-to-8vxrc/">improve trust</a>, differentiate from the US and grow their markets. It eliminates the problem of where the CT data center is located. In turn, CTP and market participants no longer need to be stuck at pricey overcrowded data centers, but move to cheaper cost locations.</p>
+<p>Unfortunately, top data centers in Europe are mostly controlled by the US Elites, there are only a few options remain. Not willing to put up the money and reluctant to do the hard works make the European markets look grim.</p>
+<p><a href="https://www.linkedin.com/pulse/i-trust-us-crypto-more-than-european-equity-consolidated-kelvin-to-r0x0e/">https://www.linkedin.com/pulse/i-trust-us-crypto-more-than-european-equity-consolidated-kelvin-to-r0x0e/</a></p>
+<p>#CapitalMarkets #Trading #Equities #TradingVenue #BrokerDealer #posttrade #pretrade #tradereporting #FCA #ESMA #SEC #EuropeanCommission #SocialCost #MarketStructure #ConsolidatedTape #CMU #SavingsandInvestmentsUnion #BestEx #Exchanges #Latency #ApprovedPublicationArrangements #SystematicInternalisers #clocksynchronization #timelock #DataQuality #operationalresilience #Selfaggregators #highfrequencytrading #sellside #buyside #RevenueSharingScheme #ReasonableCommercialBasis #CTPlan #MDIR #Transparency #Governance</p>
+<table border="0" style="width: 100%;">
+<tbody>
+<tr>
+<td><img alt="Kelvin_To_19Aug24" src="https://mondovisione.com/_assets/images/Kelvin_To_19Aug24.jpg" title="Kelvin_To_19Aug24" /> 
+<table border="1" cellpadding="0" cellspacing="0" width="738">
+<tbody>
+<tr>
+<td valign="top" width="660">
+<p><i>By </i><a href="https://www.linkedin.com/in/kelvin-to-9125955"><b><i>Kelvin   To</i></b></a><i>, Founder and President of Data Boiler Technologies</i></p>
+<p>Data Boiler is a Type C organization   member of the European Commission&rsquo;s Data Expert Group. Between my patented   inventions in signal processing, analytics, machine learning, etc. and the   wealth of experience of my partner, Peter Martyn, we are about Market Reform,   Governance, Risk, Compliance, and FinTech Innovations to create viable paths   toward sustainable economic growth.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+]]></content:encoded>
+<pubDate>Mon, 23 Dec 2024 18:23:52 GMT</pubDate>
+<pubDate>Mon, 23 Dec 2024 18:23:52 GMT</pubDate>
+</item>
+
+<item>
 <title>MIAX Exchange Group - Options Markets - January 1, 2025 Fee Change To Provide Historical Open-Close Report Data Discount</title>
 <link>http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-options-markets-january-1-2025-fee-change-to-provide-hi/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-options-markets-january-1-2025-fee-change-to-provide-hi/</guid>
 <content:encoded><![CDATA[
-
 <p><span>In addition to the fee changes in the&nbsp;</span><a class="safe---anchor---wc" href="https://www.miaxglobal.com/alert/2024/12/17/miax-exchange-group-options-markets-reminder-january-1-2025-and-march-1-1?nav=all" rel="noopener noreferrer nofollow" target="_blank">December 17, 2024 Alert</a><span>, effective January 1, 2025, pending filing with the SEC,&nbsp;MIAX Options Exchange, MIAX Pearl Options Exchange, and MIAX Emerald Options Exchange will offer the following discount to current monthly subscribers to the Open-Close Report:</span></p>
 <ol>
 <li>From January 1, 2025 through June 30, 2025, any single purchase of $20,000 or more of historical End-of-Day Open-Close Report data and/or historical Intra-Day Open-Close Report data by an existing subscriber to the End-of-Day or Intra-Day Open-Close Report, as the case may be, will receive a 20% discount when the subscriber purchases the same category of historical data for which they have a monthly subscription.&nbsp;</li>
@@ -29,14 +89,12 @@
 </ol>
 ]]></content:encoded>
 <pubDate>Mon, 23 Dec 2024 18:07:32 GMT</pubDate>
-<pubDate>Mon, 23 Dec 2024 18:07:32 GMT</pubDate>
 </item>
 <item>
 <title>Trading Technologies Achieves High Spot In Chartis Buyside Platforms 2024 Rankings - Firm Also Earns “Strong Category Leader” Status For Energy And Equity Trade Surveillance Solutions In New Chartis Market Quadrants Report</title>
 <link>http://www.mondovisione.com/media-and-resources/news/trading-technologies-achieves-high-spot-in-chartis-buyside-platforms-2024-rankin/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/trading-technologies-achieves-high-spot-in-chartis-buyside-platforms-2024-rankin/</guid>
 <content:encoded><![CDATA[
-
 <p>Trading Technologies International, Inc. (TT), a global capital markets technology platform services provider, has earned the number 12 spot in the Chartis Buyside Platforms 2024 ranking of the top 50 providers of buy-side platforms and technology. The report released this month showcases the leading players in financial infrastructure and highlights providers delivering essential services and tools &ndash; including trading networks, market data, prime brokerage services and more &ndash; to buy-side market participants. The ranking, which Chartis called a testament of the &ldquo;commitment to delivering exceptional value and innovation&rdquo; to that community, provides insights into how the companies are shaping the industry with advanced solutions in asset management, risk assessment and operational efficiency.</p>
 <p>Separately, in Chartis&rsquo; just-released Market Quadrants report, which provides a detailed evaluation of key providers offering advanced surveillance solutions tailored to the unique needs of the energy and equity markets, TT achieved &ldquo;strong category leader&rdquo; status for both energy and equity trade surveillance solutions. In both categories, TT received a four-star rank for &ldquo;Industry Leading Platform Capabilities.&rdquo; Of particular note, TT earned &ldquo;industry-leading&rdquo; four-star rankings across all measures in the equity surveillance category, including analytics and modeling, pre-trade reporting, post-trade reporting, data infrastructure and database management, and data visualization and ease/speed of access capabilities.</p>
 <p>TT CEO Keith Todd said: &ldquo;With a long history of service to the sell side, we have been working diligently to grow our appeal to buy-side market participants, and we&rsquo;re incredibly honored to have earned in short order a number 12 ranking on a cultivated list of the top 50 service providers in the buy-side sector. It&rsquo;s a great accomplishment that our broadening of products, asset classes and services available on the TT&reg; platform &ndash; including our expansion from futures trade surveillance to a powerful multi-asset offering &ndash; are already achieving industry-leading recognition across important measures.&rdquo;</p>
@@ -46,14 +104,12 @@
 <p>With this recognition, TT has now been honored globally and regionally 14&nbsp;times this year for the TT platform, trade surveillance capabilities, algorithmic trading solution, TCA tool, execution management system (EMS), order management system (OMS) and market data services.</p>
 ]]></content:encoded>
 <pubDate>Mon, 23 Dec 2024 16:37:50 GMT</pubDate>
-<pubDate>Mon, 23 Dec 2024 16:37:50 GMT</pubDate>
 </item>
 <item>
 <title>Bank Of England: Minutes Of The Meeting Of The Court Of Directors Held On 29 October 2024</title>
 <link>http://www.mondovisione.com/media-and-resources/news/bank-of-england-minutes-of-the-meeting-of-the-court-of-directors-held-on-29-oct-1/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/bank-of-england-minutes-of-the-meeting-of-the-court-of-directors-held-on-29-oct-1/</guid>
 <content:encoded><![CDATA[
-
 <p><span>The Bank's Court of Directors acts as a unitary board, setting the organisation's strategy and budget and taking key decisions on resourcing and appointments. Required to meet a minimum seven times per year, it has five executive members from the Bank and up to nine non-executive members.</span></p>
 <div class="content-block">
 <div class="page-content page-carousel sc-5a05034565874a7f9197ef9e277a9bd7">
@@ -196,17 +252,14 @@
 </span></div>
 ]]></content:encoded>
 <pubDate>Mon, 23 Dec 2024 18:02:02 GMT</pubDate>
-<pubDate>Mon, 23 Dec 2024 18:02:02 GMT</pubDate>
 </item>
 <item>
 <title>Borsa Istanbul: Announcement About Gold Imports Made With The Cash Against Goods Payment Method</title>
 <link>http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-announcement-about-gold-imports-made-with-the-cash-against-goods/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-announcement-about-gold-imports-made-with-the-cash-against-goods/</guid>
 <content:encoded><![CDATA[
-
 <p><span>Please&nbsp;</span><a href="https://www.borsaistanbul.com/files/mal_mukabili_odeme_sekli_ile_gerceklestirilen_altin_ithalati_hakkinda_ingilizce_duyuru.pdf">click</a><span>&nbsp;for the announcement.</span></p>
 ]]></content:encoded>
-<pubDate>Mon, 23 Dec 2024 17:12:38 GMT</pubDate>
 <pubDate>Mon, 23 Dec 2024 17:12:38 GMT</pubDate>
 </item>
 <item>
@@ -214,10 +267,8 @@
 <link>http://www.mondovisione.com/media-and-resources/news/dubai-financial-market-market-holiday-new-year-2025/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/dubai-financial-market-market-holiday-new-year-2025/</guid>
 <content:encoded><![CDATA[
-
 <p>In the occasion of New Year 2025, DFM will be closed on Wednesday 1 January 2025 and work shall resume on Thursday 2 January 2025.</p>
 ]]></content:encoded>
-<pubDate>Mon, 23 Dec 2024 17:19:01 GMT</pubDate>
 <pubDate>Mon, 23 Dec 2024 17:19:01 GMT</pubDate>
 </item>
 <item>
@@ -225,11 +276,9 @@
 <link>http://www.mondovisione.com/media-and-resources/news/hong-kong-securities-and-futures-commission-and-hong-kong-state-administration-o/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/hong-kong-securities-and-futures-commission-and-hong-kong-state-administration-o/</guid>
 <content:encoded><![CDATA[
-
 <p>The Securities and Futures Commission&rsquo;s Chairman, Dr Kelvin Wong and its Chief Executive Officer, Ms Julia Leung held a high-level meeting with Deputy Governor of the People&rsquo;s Bank of China and Administrator of the State Administration of Foreign Exchange, Mr Zhu Hexin in Beijing on 20 December 2024.</p>
 <p>The two sides exchanged views on the recent financial market situations in the Mainland and Hong Kong and will further cooperation in actively promoting the internationalisation of renminbi, as well as consolidating and elevating Hong Kong&rsquo;s position as an international financial centre.</p>
 ]]></content:encoded>
-<pubDate>Mon, 23 Dec 2024 17:37:32 GMT</pubDate>
 <pubDate>Mon, 23 Dec 2024 17:37:32 GMT</pubDate>
 </item>
 <item>
@@ -237,13 +286,10 @@
 <link>http://www.mondovisione.com/media-and-resources/news/shenzhen-stock-exchange-market-bulletin-december-20-2024-issue-39/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/shenzhen-stock-exchange-market-bulletin-december-20-2024-issue-39/</guid>
 <content:encoded><![CDATA[
-
 <p><span>Click&nbsp;</span><a href="https://mondovisione.com/_assets/files/SZSE_Mkt_Bull_39_24.pdf" title="SZSE_Mkt_Bull_39_24.pdf">here</a><span>&nbsp;to download Shenzhen Stock Exchange's&nbsp; market bulletin, issue 39.</span></p>
 ]]></content:encoded>
 <pubDate>Mon, 23 Dec 2024 16:56:19 GMT</pubDate>
-<pubDate>Mon, 23 Dec 2024 16:56:19 GMT</pubDate>
 </item>
-
 <item>
 <title>Bermuda Stock Exchange – 2024 Festive Holiday Closure Notice</title>
 <link>http://www.mondovisione.com/media-and-resources/news/bermuda-stock-exchange-2024-festive-holiday-closure-notice/</link>

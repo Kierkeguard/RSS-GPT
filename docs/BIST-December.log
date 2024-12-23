@@ -2715,3 +2715,15 @@ Append: [Hong Kong Securities And Futures Commission And Hong Kong State Adminis
 Append: [Shenzhen Stock Exchange Market Bulletin, December 20, 2024, Issue 39](http://www.mondovisione.com/media-and-resources/news/shenzhen-stock-exchange-market-bulletin-december-20-2024-issue-39/)
 append_entries: 7
 Finish: 2024-12-23 18:27:24.768765
+------------------------------------------------------
+Started: 2024-12-23 20:21:32.703964
+Existing_entries: 474
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Office Of The Comptroller Of The Currency Issues Cease And Desist Order Against Bank Of America For Bank Secrecy Act Deficiencies](http://www.mondovisione.com/media-and-resources/news/us-office-of-the-comptroller-of-the-currency-issues-cease-and-desist-order-again/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [I Trust US Crypto More Than European Equity Consolidated Tape - By Kelvin To, Founder And President Of Data Boiler Technologies](http://www.mondovisione.com/media-and-resources/news/i-trust-us-crypto-more-than-european-equity-consolidated-tape-by-kelvin-to-fo/)
+append_entries: 2
+Finish: 2024-12-23 20:21:34.368155
