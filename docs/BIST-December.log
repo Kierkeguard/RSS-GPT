@@ -2659,3 +2659,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Publication Of "Japan Financial Services Agency Strategic Priorities: July 2024 - June 2025"](http://www.mondovisione.com/media-and-resources/news/publication-of-japan-financial-services-agency-strategic-priorities-july-2024/)
 append_entries: 4
 Finish: 2024-12-23 08:26:59.662808
+------------------------------------------------------
+Started: 2024-12-23 10:22:11.565288
+Existing_entries: 464
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2024-12-23 10:22:12.625563
