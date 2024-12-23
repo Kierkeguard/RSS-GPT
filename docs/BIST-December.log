@@ -2683,3 +2683,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ICE First Look At Mortgage Performance: Delinquencies Hit Highest Level In Nearly Three Years - Prepayments Drop On Higher Rates](http://www.mondovisione.com/media-and-resources/news/ice-first-look-at-mortgage-performance-delinquencies-hit-highest-level-in-nearl/)
 append_entries: 1
 Finish: 2024-12-23 14:18:48.487416
+------------------------------------------------------
+Started: 2024-12-23 16:24:58.005468
+Existing_entries: 466
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bermuda Stock Exchange – 2024 Festive Holiday Closure Notice](http://www.mondovisione.com/media-and-resources/news/bermuda-stock-exchange-2024-festive-holiday-closure-notice/)
+append_entries: 1
+Finish: 2024-12-23 16:24:59.393716
