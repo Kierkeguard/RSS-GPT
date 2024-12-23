@@ -5,11 +5,27 @@
 <link>http://www.mondovisione.com/media-and-resources/news/</link>
 
 <item>
+<title>Due To Evolving Legal Landscape &amp; Changes In The Framework Of Administrative Law, Federal Reserve Board Will Soon Seek Public Comment On Significant Changes To Improve Transparency Of Bank Stress Tests &amp; Reduce Volatility Of Resulting Capital Requirements</title>
+<link>http://www.mondovisione.com/media-and-resources/news/due-to-evolving-legal-landscape-and-changes-in-the-framework-of-administrative-law/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/due-to-evolving-legal-landscape-and-changes-in-the-framework-of-administrative-law/</guid>
+<content:encoded><![CDATA[
+
+<p>In view of the evolving legal landscape, the Federal Reserve Board will soon seek public comment on significant changes to improve the transparency of its bank stress tests and to reduce the volatility of resulting capital buffer requirements.</p>
+<p>The Board's stress test evaluates the resilience of large banks by estimating their losses, revenue, and capital levels under a hypothetical recession scenario that changes each year. Capital acts as a cushion to absorb losses and allows banks to continue lending to households and businesses even during a recession. Since its inception over 15 years ago, large banks in the stress test have more than doubled their capital levels, an increase of more than $1 trillion.</p>
+<p>The Board intends to propose changes that include, but are not limited to: disclosing and seeking public comment on all of the models that determine the hypothetical losses and revenue of banks under stress; averaging results over two years to reduce the year-over-year changes in the capital requirements that result from the stress test; and ensuring that the public can comment on the hypothetical scenarios used annually for the test, before the scenarios are finalized. These proposed changes are not designed to materially affect overall capital requirements.</p>
+<p>The framework of administrative law has changed significantly in recent years. The Board analyzed the current stress test in view of the evolving legal landscape and determined to modify the test in important respects to improve its resiliency.</p>
+<p>The Board will continue its exploratory analysis, which assesses additional risks to the banking system in ways that are separate from the stress test. The analysis would be used to inform bank supervision and financial stability assessments. It will continue to be disclosed in aggregate and not affect bank capital requirements.</p>
+<p>For the 2025 stress test, the Board plans to take immediate steps to reduce the volatility of the results and begin to improve model transparency. The Board intends to begin the public comment process on its comprehensive changes to the stress test during the early part of 2025.</p>
+]]></content:encoded>
+<pubDate>Mon, 23 Dec 2024 21:17:58 GMT</pubDate>
+<pubDate>Mon, 23 Dec 2024 21:17:58 GMT</pubDate>
+</item>
+
+<item>
 <title>US Office Of The Comptroller Of The Currency Issues Cease And Desist Order Against Bank Of America For Bank Secrecy Act Deficiencies</title>
 <link>http://www.mondovisione.com/media-and-resources/news/us-office-of-the-comptroller-of-the-currency-issues-cease-and-desist-order-again/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/us-office-of-the-comptroller-of-the-currency-issues-cease-and-desist-order-again/</guid>
 <content:encoded><![CDATA[
-
 <p>The Office of the Comptroller of the Currency (OCC) today issued a cease-and-desist order (order) against Bank of America, N.A. (bank) for deficiencies related to its Bank Secrecy Act (BSA) and sanctions compliance programs.</p>
 <p>The OCC took this action based on violations and unsafe or unsound practices relating to these programs, including a failure to timely file suspicious activity reports and failure to correct a previously identified deficiency related to its Customer Due Diligence processes. The order also identifies deficiencies in the internal controls, governance, independent testing, and training components of the bank&rsquo;s BSA compliance program.</p>
 <p>The order requires the bank to take comprehensive corrective actions to enhance its BSA/anti&mdash;money laundering (AML) and sanctions compliance programs, including the hiring of an independent consultant to assess the bank&rsquo;s BSA/AML and sanctions compliance programs and conduct lookback reviews to ensure all suspicious activity was appropriately reported.</p>
@@ -19,14 +35,12 @@
 </ul>
 ]]></content:encoded>
 <pubDate>Mon, 23 Dec 2024 19:47:10 GMT</pubDate>
-<pubDate>Mon, 23 Dec 2024 19:47:10 GMT</pubDate>
 </item>
 <item>
 <title>I Trust US Crypto More Than European Equity Consolidated Tape - By Kelvin To, Founder And President Of Data Boiler Technologies</title>
 <link>http://www.mondovisione.com/media-and-resources/news/i-trust-us-crypto-more-than-european-equity-consolidated-tape-by-kelvin-to-fo/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/i-trust-us-crypto-more-than-european-equity-consolidated-tape-by-kelvin-to-fo/</guid>
 <content:encoded><![CDATA[
-
 <p>I cannot comprehend how the Europe Economics (EE) can <a href="https://www.bayes.city.ac.uk/__data/assets/pdf_file/0011/366599/sale-price-information-cass-knowledge.pdf">omit Giovanni Cespa and Thierry Foucault&rsquo;s empirical study</a> in their Pre-trade equities consolidated tape (CT) <a href="https://www.fca.org.uk/publication/external-research/europe-economics-pre-trade-equities-final-report.pdf">final report</a> that commissioned by the UK Financial Conduct Authority (FCA). Stock exchanges optimally restricting access to price information exacerbated the latency gap between Proprietary Products (PPs) and SIP that caused data fragmentation. That final report does not even mention that the US Securities and Exchange Commission (SEC) has mandated the <i>&ldquo;same manner same methods&rdquo; </i>provision under <a href="https://www.sec.gov/files/rules/final/2020/34-90610.pdf">Market Data Infrastructure Rule</a> that recognizes the US Securities Information Processors (SIPs) were not modernized alongside markets evolution and technologies development. Instead, the final report undermines the issue and mis-paints the picture that its statement sounded almost like the Exchanges <i>&ldquo;The SIP has significantly improved its performance over the last 15 years&hellip;&rdquo;</i></p>
 <p>Experience from the US suggested that Investment Firms, including Self-Aggregators (SAs) and Alternative Trading Systems (ATSs), the equivalent of Multilateral Trading Facilities (MTFs) in Europe, use a mix of the US SIP / CT with selected [7.5 out of 11 most active] proprietary feeds to save cost, rather than connecting to every trading venue. The EE&rsquo;s final report shied away from telling the audience. How an Economist have authority to say <i>&ldquo;never&rdquo;</i> in an engineering topic?! Do they understand that by having a synchronized start-line using <a href="https://www.csail.mit.edu/time-lock-crypto-puzzle-and-time-capsule-innovations">time-lock cryptography</a> and CTP streaming a lighter feed (i.e. top-of-book or maybe top 5) can overcome the &ldquo;hops&rdquo; in data aggregation to match up with the direct feed that carry full-load of level 3 data with comparable speed? EE said, <i>&ldquo;The consolidated tape can never be fast enough for such use cases&rdquo;</i> is NOT objective. Low-latency CT is totally practical as proven by the High Frequency Trading firms, SAs, ATSs / MTFs.</p>
 <p>Economists supposed to understand that CT has to be a reasonable compromise, if not a close substitute, to PPs. It is the ONLY effective way to affect competitive pressures for existing sellers of market data to achieve one of the key regulatory goals. Statements from the EE&rsquo;s final report, such as <i>&ldquo;Concerns remain about the commercial viability and quality of the consolidated tape, particularly whether it can serve as a substitute for current data. There are also technical issues&hellip;&rdquo;</i> sounded like people do not want to step out of their comfort zone to do any hard work or go with LSEG&rsquo;s view that we <a href="https://www.linkedin.com/posts/kelvin-to-9125955_agree-to-disagree-on-lsegs-view-on-uk-consolidated-activity-7193989297392214017-T5ls">strongly disagree</a>.&nbsp; The premises or remarks in <a href="https://www.adamantia.paris/post/a-group-of-financial-institutions-assesses-the-viability-of-a-european-consolidated-tape-on-equity">this Adamantia Research post</a> that said <i>"the CT is intended to support use cases that do not require low latency: thus, the CT will not replace existing direct feeds from the trading venues used by professionals for trading applications, or by other venues"</i> is flawed. By fulfilling different needs, CTP business model can be viable, as well as being a non-profit to return any excess profits back to the investment communities.</p>
@@ -62,9 +76,7 @@
 </table>
 ]]></content:encoded>
 <pubDate>Mon, 23 Dec 2024 18:23:52 GMT</pubDate>
-<pubDate>Mon, 23 Dec 2024 18:23:52 GMT</pubDate>
 </item>
-
 <item>
 <title>MIAX Exchange Group - Options Markets - January 1, 2025 Fee Change To Provide Historical Open-Close Report Data Discount</title>
 <link>http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-options-markets-january-1-2025-fee-change-to-provide-hi/</link>

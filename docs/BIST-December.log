@@ -2727,3 +2727,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [I Trust US Crypto More Than European Equity Consolidated Tape - By Kelvin To, Founder And President Of Data Boiler Technologies](http://www.mondovisione.com/media-and-resources/news/i-trust-us-crypto-more-than-european-equity-consolidated-tape-by-kelvin-to-fo/)
 append_entries: 2
 Finish: 2024-12-23 20:21:34.368155
+------------------------------------------------------
+Started: 2024-12-23 22:18:33.330820
+Existing_entries: 476
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Due To Evolving Legal Landscape & Changes In The Framework Of Administrative Law, Federal Reserve Board Will Soon Seek Public Comment On Significant Changes To Improve Transparency Of Bank Stress Tests & Reduce Volatility Of Resulting Capital Requirements](http://www.mondovisione.com/media-and-resources/news/due-to-evolving-legal-landscape-and-changes-in-the-framework-of-administrative-law/)
+append_entries: 1
+Finish: 2024-12-23 22:18:34.465281
