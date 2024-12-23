@@ -2674,3 +2674,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Fiserv To Enhance Its Embedded Finance Capability With Acquisition Of Payfare Inc. - Payfare’s Technology And Program Management Capabilities Complement Fiserv’s Embedded Finance Offerings](http://www.mondovisione.com/media-and-resources/news/fiserv-to-enhance-its-embedded-finance-capability-with-acquisition-of-payfare-in/)
 append_entries: 1
 Finish: 2024-12-23 12:40:21.241186
+------------------------------------------------------
+Started: 2024-12-23 14:18:47.035095
+Existing_entries: 465
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ICE First Look At Mortgage Performance: Delinquencies Hit Highest Level In Nearly Three Years - Prepayments Drop On Higher Rates](http://www.mondovisione.com/media-and-resources/news/ice-first-look-at-mortgage-performance-delinquencies-hit-highest-level-in-nearl/)
+append_entries: 1
+Finish: 2024-12-23 14:18:48.487416
