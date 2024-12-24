@@ -2820,3 +2820,12 @@ Existing_entries: 483
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2024-12-24 20:20:57.797715
+------------------------------------------------------
+Started: 2024-12-24 22:18:21.730715
+Existing_entries: 483
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Announces Mid-Month Open Short Interest Positions In Nasdaq Stocks As Of Settlement Date December 13, 2024](http://www.mondovisione.com/media-and-resources/news/nasdaq-announces-mid-month-open-short-interest-positions-in-nasdaq-stocks-as-of-49/)
+append_entries: 1
+Finish: 2024-12-24 22:18:22.669844
