@@ -2799,3 +2799,18 @@ Existing_entries: 480
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2024-12-24 16:25:10.199856
+------------------------------------------------------
+Started: 2024-12-24 18:27:06.143577
+Existing_entries: 480
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Changes To The Expanded Opening And Intra-Day Quote Width Requirements And Order Monitor Settings For Certain Symbols Trading On MIAX Options And MIAX Emerald Options Through Monday, March 31, 2025](http://www.mondovisione.com/media-and-resources/news/changes-to-the-expanded-opening-and-intra-day-quote-width-requirements-and-order/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Applied Science Private University Visits The Amman Stock Exchange And Jordanian Capital Market Institutions](http://www.mondovisione.com/media-and-resources/news/applied-science-private-university-visits-the-amman-stock-exchange-and-jordanian/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Zhengzhou Commodity Exchange: Notice On Trading Schedule During National Holidays For Year 2025](http://www.mondovisione.com/media-and-resources/news/zhengzhou-commodity-exchange-notice-on-trading-schedule-during-national-holiday-3/)
+append_entries: 3
+Finish: 2024-12-24 18:28:00.819131
