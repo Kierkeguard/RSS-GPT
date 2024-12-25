@@ -2847,3 +2847,12 @@ Existing_entries: 484
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2024-12-25 04:25:53.894703
+------------------------------------------------------
+Started: 2024-12-25 06:29:12.343430
+Existing_entries: 484
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Montréal Exchange's Markets Closed December 25 And December 26, 2024](http://www.mondovisione.com/media-and-resources/news/montral-exchanges-markets-closed-december-25-and-december-26-2024/)
+append_entries: 1
+Finish: 2024-12-25 06:29:13.251991
