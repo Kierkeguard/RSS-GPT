@@ -2904,3 +2904,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Shanghai Gold Exchange: Notice On Transaction Fee Rates Adjustment In 2025](http://www.mondovisione.com/media-and-resources/news/shanghai-gold-exchange-notice-on-transaction-fee-rates-adjustment-in-2025/)
 append_entries: 2
 Finish: 2024-12-25 20:21:00.881796
+------------------------------------------------------
+Started: 2024-12-25 22:18:28.438786
+Existing_entries: 487
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2024-12-25 22:18:29.252564
