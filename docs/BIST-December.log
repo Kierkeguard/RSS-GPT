@@ -2994,3 +2994,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Zhengzhou Commodity Exchange: Notice On Night Trading Session During 2025 New Year Holiday](http://www.mondovisione.com/media-and-resources/news/zhengzhou-commodity-exchange-notice-on-night-trading-session-during-2025-new-ye/)
 append_entries: 4
 Finish: 2024-12-26 18:27:22.268947
+------------------------------------------------------
+Started: 2024-12-26 20:21:11.362069
+Existing_entries: 495
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Federal Reserve Senior Credit Officer Opinion Survey On Dealer Financing Terms](http://www.mondovisione.com/media-and-resources/news/federal-reserve-senior-credit-officer-opinion-survey-on-dealer-financing-terms-16/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Saudi Arabia Financial Markets And Stock Exchange Holiday For New Year's Day On Wednesday, January 1](http://www.mondovisione.com/media-and-resources/news/saudi-arabia-financial-markets-and-stock-exchange-holiday-for-new-years-day-on/)
+append_entries: 2
+Finish: 2024-12-26 20:21:12.370416
