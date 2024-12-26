@@ -3006,3 +3006,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Saudi Arabia Financial Markets And Stock Exchange Holiday For New Year's Day On Wednesday, January 1](http://www.mondovisione.com/media-and-resources/news/saudi-arabia-financial-markets-and-stock-exchange-holiday-for-new-years-day-on/)
 append_entries: 2
 Finish: 2024-12-26 20:21:12.370416
+------------------------------------------------------
+Started: 2024-12-26 22:18:33.039856
+Existing_entries: 497
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2024-12-26 22:18:34.122657
