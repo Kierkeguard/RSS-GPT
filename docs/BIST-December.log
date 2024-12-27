@@ -3096,3 +3096,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CFFEX: Notice On Reducing The 2025 Delivery Fee And Exercise (Assignment) Fee By Half](http://www.mondovisione.com/media-and-resources/news/cffex-notice-on-reducing-the-2025-delivery-fee-and-exercise-assignment-fee-by/)
 append_entries: 4
 Finish: 2024-12-27 16:24:17.631224
+------------------------------------------------------
+Started: 2024-12-27 18:27:13.283169
+Existing_entries: 507
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BC Securities Commission Wins Legal Victory In Effort To Collect Financial Sanctions From Fraudster](http://www.mondovisione.com/media-and-resources/news/bc-securities-commission-wins-legal-victory-in-effort-to-collect-financial-sanct/)
+append_entries: 1
+Finish: 2024-12-27 18:27:14.316145
