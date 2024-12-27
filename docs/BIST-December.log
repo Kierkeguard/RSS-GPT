@@ -3114,3 +3114,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Nigerian Exchange Weekly Market Report For The Week Ended 27 December 2024](http://www.mondovisione.com/media-and-resources/news/nigerian-exchange-weekly-market-report-for-the-week-ended-27-december-2024/)
 append_entries: 1
 Finish: 2024-12-27 20:21:14.242885
+------------------------------------------------------
+Started: 2024-12-27 22:18:26.455816
+Existing_entries: 509
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2024-12-27 22:18:43.258667
