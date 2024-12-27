@@ -3078,3 +3078,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Malawi Stock Exchange Weekly Summary, 27 December 2024](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-27-december-2024/)
 append_entries: 1
 Finish: 2024-12-27 14:18:02.703980
+------------------------------------------------------
+Started: 2024-12-27 16:24:15.838880
+Existing_entries: 503
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Dalian Commodity Exchange: Notice On Exemption Of Delivery Commission And Other Fees](http://www.mondovisione.com/media-and-resources/news/dalian-commodity-exchange-notice-on-exemption-of-delivery-commission-and-other-1/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Zhengzhou Commodity Exchange: Notice On Exemption Of Position Opening Fee For Hedging Purpose, Delivery Fee, Registered Warehouse Receipt Transfer Fee And Service Fee For Using Standard Warehouse Receipt As Margin](http://www.mondovisione.com/media-and-resources/news/zhengzhou-commodity-exchange-notice-on-exemption-of-position-opening-fee-for-he-3/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Dalian Commodity Exchange: Notice On Strengthening Risk Management During 2025 New Year’s Day Holiday](http://www.mondovisione.com/media-and-resources/news/dalian-commodity-exchange-notice-on-strengthening-risk-management-during-2025-n/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFFEX: Notice On Reducing The 2025 Delivery Fee And Exercise (Assignment) Fee By Half](http://www.mondovisione.com/media-and-resources/news/cffex-notice-on-reducing-the-2025-delivery-fee-and-exercise-assignment-fee-by/)
+append_entries: 4
+Finish: 2024-12-27 16:24:17.631224
