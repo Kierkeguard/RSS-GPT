@@ -3030,3 +3030,12 @@ Existing_entries: 497
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2024-12-27 04:24:22.414347
+------------------------------------------------------
+Started: 2024-12-27 06:28:36.188416
+Existing_entries: 497
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Press Conference By KATO Katsunobu, Japan Minister Of Finance And Minister Of State For Financial Services - Theft From Safe-Deposit Boxes By Former Employee Of Mitsubishi UFJ Bank](http://www.mondovisione.com/media-and-resources/news/press-conference-by-kato-katsunobu-japan-minister-of-finance-and-minister-of-st-6/)
+append_entries: 1
+Finish: 2024-12-27 06:28:37.137322
