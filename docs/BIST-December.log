@@ -3051,3 +3051,21 @@ Existing_entries: 498
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2024-12-27 10:20:36.780272
+------------------------------------------------------
+Started: 2024-12-27 12:39:02.932806
+Existing_entries: 498
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX Stock Exchange Participants' Market Share Report](http://www.mondovisione.com/media-and-resources/news/hkex-stock-exchange-participants-market-share-report-49/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BIS Latest Update January 2025: Quarterly Review, Price Stability, Fast Payment Systems And Central Bank Digital Currencies](http://www.mondovisione.com/media-and-resources/news/bis-latest-update-january-2025-quarterly-review-price-stability-fast-payment/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Changes To The Madrid Stock Exchange's General Index For The First Half Of 2025](http://www.mondovisione.com/media-and-resources/news/changes-to-the-madrid-stock-exchanges-general-index-for-the-first-half-of-2025/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Vienna Stock Exchange 2024: High Equity Turnover, New All-Time High For Debt Listings And ATX TR](http://www.mondovisione.com/media-and-resources/news/vienna-stock-exchange-2024-high-equity-turnover-new-all-time-high-for-debt-lis/)
+append_entries: 4
+Finish: 2024-12-27 12:39:04.673701
