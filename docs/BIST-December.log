@@ -3144,3 +3144,12 @@ Existing_entries: 509
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2024-12-28 06:27:02.481255
+------------------------------------------------------
+Started: 2024-12-28 08:24:02.048936
+Existing_entries: 509
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Secretary Of The Treasury Janet L. Yellen Sends Letter To Congressional Leadership On The Debt Limit](http://www.mondovisione.com/media-and-resources/news/us-secretary-of-the-treasury-janet-l-yellen-sends-letter-to-congressional-leade-15/)
+append_entries: 1
+Finish: 2024-12-28 08:25:14.146806
