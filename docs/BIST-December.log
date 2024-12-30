@@ -3330,3 +3330,12 @@ Existing_entries: 515
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2024-12-30 14:18:38.410036
+------------------------------------------------------
+Started: 2024-12-30 16:25:07.206563
+Existing_entries: 515
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Börse Berlin's Turnover Adds Up To Over 87 Billion Euros](http://www.mondovisione.com/media-and-resources/news/brse-berlins-turnover-adds-up-to-over-87-billion-euros/)
+append_entries: 1
+Finish: 2024-12-30 16:25:09.233756
