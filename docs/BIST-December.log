@@ -3339,3 +3339,26 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Börse Berlin's Turnover Adds Up To Over 87 Billion Euros](http://www.mondovisione.com/media-and-resources/news/brse-berlins-turnover-adds-up-to-over-87-billion-euros/)
 append_entries: 1
 Finish: 2024-12-30 16:25:09.233756
+------------------------------------------------------
+Started: 2024-12-30 18:27:41.949319
+Existing_entries: 516
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Exchange Group - Options & Equities Markets - Closed For A National Day Of Mourning In Honor Of The Late President Jimmy Carter On Thursday, January 9, 2025](http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-options-and-equities-markets-closed-for-a-national-day-of/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Announces The Closure Of Its U.S. Markets In Honor Of A National Day Of Mourning For Former President Jimmy Carter](http://www.mondovisione.com/media-and-resources/news/nasdaq-announces-the-closure-of-its-us-markets-in-honor-of-a-national-day-of-m-1/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The New York Stock Exchange Will Close Markets On January 9 To Honor The Passing Of Former President Jimmy Carter On National Day Of Mourning](http://www.mondovisione.com/media-and-resources/news/the-new-york-stock-exchange-will-close-markets-on-january-9-to-honor-the-passing/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [EdgeLab Lists On Euronext Growth Milan](http://www.mondovisione.com/media-and-resources/news/edgelab-lists-on-euronext-growth-milan/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [EGX Holiday On Wednesday 1st Of January 2025](http://www.mondovisione.com/media-and-resources/news/egx-holiday-on-wednesday-1st-of-january-2025/)
+Append: [Japan Exchange Group Trading Overview In Year 2024 & December 2024](http://www.mondovisione.com/media-and-resources/news/japan-exchange-group-trading-overview-in-year-2024-and-december-2024/)
+Append: [Shanghai Gold Exchange: Notice On Market Risk Control During The New Year's Day Holiday In 2025](http://www.mondovisione.com/media-and-resources/news/shanghai-gold-exchange-notice-on-market-risk-control-during-the-new-years-day/)
+append_entries: 7
+Finish: 2024-12-30 18:27:42.807828
