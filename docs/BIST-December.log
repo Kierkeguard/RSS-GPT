@@ -3377,3 +3377,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Bank Of England: Minutes Of Money Market Committee Meeting – December 2024](http://www.mondovisione.com/media-and-resources/news/bank-of-england-minutes-of-money-market-committee-meeting-december-2024/)
 append_entries: 3
 Finish: 2024-12-30 20:21:11.945904
+------------------------------------------------------
+Started: 2024-12-30 22:18:44.600515
+Existing_entries: 526
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group Announces Trading Hours For U.S. National Day Of Mourning To Honor Former President Jimmy Carter](http://www.mondovisione.com/media-and-resources/news/cme-group-announces-trading-hours-for-us-national-day-of-mourning-to-honor-for/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [DTCC Comments On The Passing Of President Carter](http://www.mondovisione.com/media-and-resources/news/dtcc-comments-on-the-passing-of-president-carter/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIFMA Recommends Early Market Close On January 9, 2025, For The National Day Of Mourning In Honor Of Former President Carter](http://www.mondovisione.com/media-and-resources/news/sifma-recommends-early-market-close-on-january-9-2025-for-the-national-day-of/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Justice Department’s 10th Distribution Brings Total Provided To Over $4.3B In Nearly Full Recovery To Over 40,000 Victims In Madoff Ponzi Scheme - Distribution Of Over $131M Brings Madoff Victim Recovery To Nearly 94% Of Fraud Losses](http://www.mondovisione.com/media-and-resources/news/justice-departments-10th-distribution-brings-total-provided-to-over-43b-in-ne/)
+append_entries: 4
+Finish: 2024-12-30 22:18:46.034511
