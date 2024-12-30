@@ -3324,3 +3324,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Euronext Confirms Its European Leading Position In Equity Listing And Its Worldwide Leadership In Debt Listing In 2024](http://www.mondovisione.com/media-and-resources/news/euronext-confirms-its-european-leading-position-in-equity-listing-and-its-worldw/)
 append_entries: 1
 Finish: 2024-12-30 12:39:55.383803
+------------------------------------------------------
+Started: 2024-12-30 14:18:37.435493
+Existing_entries: 515
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2024-12-30 14:18:38.410036
