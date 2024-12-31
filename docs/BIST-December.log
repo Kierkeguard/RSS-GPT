@@ -3449,3 +3449,15 @@ Existing_entries: 532
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2024-12-31 14:17:52.703625
+------------------------------------------------------
+Started: 2024-12-31 16:24:10.135868
+Existing_entries: 532
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NGX Bucks 2015 To 2019 Trend, Thrives In Roaring 20s… ASI Closes 2024 At +37.65%](http://www.mondovisione.com/media-and-resources/news/ngx-bucks-2015-to-2019-trend-thrives-in-roaring-20s-asi-closes-2024-at-3765/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NSE Indices Index Dashboard For The Month Ended December 2024](http://www.mondovisione.com/media-and-resources/news/nse-indices-index-dashboard-for-the-month-ended-december-2024/)
+append_entries: 2
+Finish: 2024-12-31 16:24:11.014045
