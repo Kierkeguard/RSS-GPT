@@ -3395,3 +3395,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Justice Department’s 10th Distribution Brings Total Provided To Over $4.3B In Nearly Full Recovery To Over 40,000 Victims In Madoff Ponzi Scheme - Distribution Of Over $131M Brings Madoff Victim Recovery To Nearly 94% Of Fraud Losses](http://www.mondovisione.com/media-and-resources/news/justice-departments-10th-distribution-brings-total-provided-to-over-43b-in-ne/)
 append_entries: 4
 Finish: 2024-12-30 22:18:46.034511
+------------------------------------------------------
+Started: 2024-12-31 01:38:34.062347
+Existing_entries: 530
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2024-12-31 01:38:35.369527
