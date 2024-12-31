@@ -3461,3 +3461,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [NSE Indices Index Dashboard For The Month Ended December 2024](http://www.mondovisione.com/media-and-resources/news/nse-indices-index-dashboard-for-the-month-ended-december-2024/)
 append_entries: 2
 Finish: 2024-12-31 16:24:11.014045
+------------------------------------------------------
+Started: 2024-12-31 18:26:44.100432
+Existing_entries: 534
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX: Proposed Rule Change To Amend The Codes Of Arbitration Procedure To Add New FINRA Rules 12808 And 13808 (Accelerated Processing) For Qualified Parties](http://www.mondovisione.com/media-and-resources/news/miax-proposed-rule-change-to-amend-the-codes-of-arbitration-procedure-to-add-ne/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Amman Stock Exchange Index Quarterly Review](http://www.mondovisione.com/media-and-resources/news/the-amman-stock-exchange-index-quarterly-review-19/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Shenzhen Stock Exchange Market Overview 2024](http://www.mondovisione.com/media-and-resources/news/shenzhen-stock-exchange-market-overview-2024/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ISDA: President James Carter – U.S. National Day Of Mourning](http://www.mondovisione.com/media-and-resources/news/isda-president-james-carter-us-national-day-of-mourning/)
+append_entries: 4
+Finish: 2024-12-31 18:26:45.113495
