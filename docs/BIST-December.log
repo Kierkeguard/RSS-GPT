@@ -3566,3 +3566,12 @@ Existing_entries: 543
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-01-01 18:27:09.043147
+------------------------------------------------------
+Started: 2025-01-01 20:21:09.891604
+Existing_entries: 543
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NGX Reveals Results Of Full-Year Review Of Market Indices](http://www.mondovisione.com/media-and-resources/news/ngx-reveals-results-of-full-year-review-of-market-indices/)
+append_entries: 1
+Finish: 2025-01-01 20:21:16.601907
