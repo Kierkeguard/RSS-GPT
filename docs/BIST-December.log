@@ -3497,3 +3497,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CFTC Chairman Behnam To Deliver Remarks, Participate In A Fireside Chat At The Brookings Institution](http://www.mondovisione.com/media-and-resources/news/cftc-chairman-behnam-to-deliver-remarks-participate-in-a-fireside-chat-at-the-b/)
 append_entries: 2
 Finish: 2024-12-31 22:19:13.361339
+------------------------------------------------------
+Started: 2025-01-01 01:46:28.314783
+Existing_entries: 540
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-01-01 01:46:29.322205
