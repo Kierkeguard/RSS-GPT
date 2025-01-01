@@ -3542,3 +3542,15 @@ Existing_entries: 541
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-01-01 12:38:53.434363
+------------------------------------------------------
+Started: 2025-01-01 14:18:11.334865
+Existing_entries: 541
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NSE Indices Fixed Income Index Dashboard For The Month Ended December 2024](http://www.mondovisione.com/media-and-resources/news/nse-indices-fixed-income-index-dashboard-for-the-month-ended-december-2024/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Steel Producer Floated Shares On Tehran Securities Exchange](http://www.mondovisione.com/media-and-resources/news/steel-producer-floated-shares-on-tehran-securities-exchange/)
+append_entries: 2
+Finish: 2025-01-01 14:18:12.390968
