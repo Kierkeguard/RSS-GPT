@@ -3599,3 +3599,18 @@ Existing_entries: 544
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-01-02 04:24:38.644257
+------------------------------------------------------
+Started: 2025-01-02 08:25:54.459407
+Existing_entries: 544
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Keynote Speech By Mr Gan Kim Yong, Deputy Prime Minister And Minister For Trade And Industry, And Chairman Of The Monetary Authority Of Singapore, At The SGX Group 25th Anniversary Securities Market Open On 2 January 2025](http://www.mondovisione.com/media-and-resources/news/keynote-speech-by-mr-gan-kim-yong-deputy-prime-minister-and-minister-for-trade-1/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Speech By Mr Koh Boon Hwee, Chairman Of SGX Group At SGX Group’s 25th Anniversary And First Trading Day Of 2025 Securities Market Opening Ceremony](http://www.mondovisione.com/media-and-resources/news/speech-by-mr-koh-boon-hwee-chairman-of-sgx-group-at-sgx-groups-25th-anniversar/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Eminent Macroeconomist Professor Atif Mian Appointed Monetary Authority Of Singapore Distinguished Term Professor At National University Of Singapore](http://www.mondovisione.com/media-and-resources/news/eminent-macroeconomist-professor-atif-mian-appointed-monetary-authority-of-singa/)
+append_entries: 3
+Finish: 2025-01-02 08:25:55.369939
