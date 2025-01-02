@@ -3644,3 +3644,26 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [London Stock Exchange Group plc - Total Voting Rights](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-total-voting-rights-48/)
 append_entries: 2
 Finish: 2025-01-02 16:25:39.606493
+------------------------------------------------------
+Started: 2025-01-02 18:28:00.112517
+Existing_entries: 549
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [DataLend: 2024 Securities Lending Revenue Down 10% YoY To $9.64 Billion - Lending Revenue Dips Against Backdrop Of Record-High Indices](http://www.mondovisione.com/media-and-resources/news/datalend-2024-securities-lending-revenue-down-10-yoy-to-964-billion-lendin/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Statistics From Nasdaq Nordic Exchange December 2024](http://www.mondovisione.com/media-and-resources/news/statistics-from-nasdaq-nordic-exchange-december-2024/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Office Of The Comptroller Of The Currency Releases CRA Performance Evaluations For 16 National Banks And Federal Savings Associations](http://www.mondovisione.com/media-and-resources/news/us-office-of-the-comptroller-of-the-currency-releases-cra-performance-evaluation-1/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Nordic And Baltic Markets Annual Trading Statistics 2024](http://www.mondovisione.com/media-and-resources/news/nasdaq-nordic-and-baltic-markets-annual-trading-statistics-2024/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Amman Stock Exchange Weekly-Summary](http://www.mondovisione.com/media-and-resources/news/amman-stock-exchange-weekly-summary-11/)
+Append: [Hong Kong Securities And Futures Commission Secures First Conviction Against A Solicitor For Breaching Secrecy Provision](http://www.mondovisione.com/media-and-resources/news/hong-kong-securities-and-futures-commission-secures-first-conviction-against-a-s/)
+Append: [INE Releases An Announcement On Requesting Public Comments On The Revised Clearing Rules Of The Shanghai International Energy Exchange And Other Implementing Rules](http://www.mondovisione.com/media-and-resources/news/ine-releases-an-announcement-on-requesting-public-comments-on-the-revised-cleari-2/)
+append_entries: 7
+Finish: 2025-01-02 18:28:01.460405
