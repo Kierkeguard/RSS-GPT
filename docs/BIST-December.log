@@ -3667,3 +3667,15 @@ Append: [Hong Kong Securities And Futures Commission Secures First Conviction Ag
 Append: [INE Releases An Announcement On Requesting Public Comments On The Revised Clearing Rules Of The Shanghai International Energy Exchange And Other Implementing Rules](http://www.mondovisione.com/media-and-resources/news/ine-releases-an-announcement-on-requesting-public-comments-on-the-revised-cleari-2/)
 append_entries: 7
 Finish: 2025-01-02 18:28:01.460405
+------------------------------------------------------
+Started: 2025-01-02 20:21:19.486159
+Existing_entries: 556
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Statement On PCAOB Rule On Withdrawal from Registration, SEC Chair Gary Gensler, Jan. 2, 2025](http://www.mondovisione.com/media-and-resources/news/statement-on-pcaob-rule-on-withdrawal-from-registration-sec-chair-gary-gensler/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Deutsche Börse To Publish Cash Market Annual Statistics 2024](http://www.mondovisione.com/media-and-resources/news/deutsche-brse-to-publish-cash-market-annual-statistics-2024/)
+append_entries: 2
+Finish: 2025-01-02 20:21:20.457145
