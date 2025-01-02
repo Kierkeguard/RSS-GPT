@@ -3632,3 +3632,15 @@ Existing_entries: 547
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-01-02 14:18:23.530062
+------------------------------------------------------
+Started: 2025-01-02 16:25:38.722609
+Existing_entries: 547
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Vienna Stock Exchange Academy Has Been Promoting Financial Education For 20 Years](http://www.mondovisione.com/media-and-resources/news/vienna-stock-exchange-academy-has-been-promoting-financial-education-for-20-year/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc - Total Voting Rights](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-total-voting-rights-48/)
+append_entries: 2
+Finish: 2025-01-02 16:25:39.606493
