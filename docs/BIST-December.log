@@ -3679,3 +3679,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Deutsche Börse To Publish Cash Market Annual Statistics 2024](http://www.mondovisione.com/media-and-resources/news/deutsche-brse-to-publish-cash-market-annual-statistics-2024/)
 append_entries: 2
 Finish: 2025-01-02 20:21:20.457145
+------------------------------------------------------
+Started: 2025-01-02 22:18:39.238037
+Existing_entries: 558
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq To Hold Fourth Quarter And Full Year 2024 Investor Conference Call](http://www.mondovisione.com/media-and-resources/news/nasdaq-to-hold-fourth-quarter-and-full-year-2024-investor-conference-call/)
+append_entries: 1
+Finish: 2025-01-02 22:18:40.254988
