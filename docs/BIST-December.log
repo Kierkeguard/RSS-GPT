@@ -3792,3 +3792,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [OCC Annual 2024 and December 2024 Volume](http://www.mondovisione.com/media-and-resources/news/occ-annual-2024-and-december-2024-volume/)
 append_entries: 1
 Finish: 2025-01-03 20:21:20.543760
+------------------------------------------------------
+Started: 2025-01-03 22:18:35.136085
+Existing_entries: 573
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-01-03 22:18:37.540318
