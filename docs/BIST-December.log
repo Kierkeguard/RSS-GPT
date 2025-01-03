@@ -3724,3 +3724,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Nadex Continues Market Maker Program Through 2025](http://www.mondovisione.com/media-and-resources/news/nadex-continues-market-maker-program-through-2025/)
 append_entries: 2
 Finish: 2025-01-03 08:25:51.064908
+------------------------------------------------------
+Started: 2025-01-03 10:20:57.658570
+Existing_entries: 561
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-01-03 10:20:59.616109
