@@ -3688,3 +3688,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Nasdaq To Hold Fourth Quarter And Full Year 2024 Investor Conference Call](http://www.mondovisione.com/media-and-resources/news/nasdaq-to-hold-fourth-quarter-and-full-year-2024-investor-conference-call/)
 append_entries: 1
 Finish: 2025-01-02 22:18:40.254988
+------------------------------------------------------
+Started: 2025-01-03 01:39:20.637077
+Existing_entries: 559
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-01-03 01:39:21.498658
