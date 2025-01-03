@@ -3760,3 +3760,26 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Malawi Stock Exchange Weekly Summary Report, 3 January 2025](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-3-january-2025/)
 append_entries: 1
 Finish: 2025-01-03 16:25:27.181617
+------------------------------------------------------
+Started: 2025-01-03 18:27:43.130757
+Existing_entries: 565
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Investor Activity On GPW In December 2024](http://www.mondovisione.com/media-and-resources/news/investor-activity-on-gpw-in-december-2024/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nigerian Exchange Weekly Market Report For The Week Ended 3 January 2025](http://www.mondovisione.com/media-and-resources/news/nigerian-exchange-weekly-market-report-for-the-week-ended-3-january-2025/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER Publishes Its Multi-Annual Work Programme 2025-2027](http://www.mondovisione.com/media-and-resources/news/acer-publishes-its-multi-annual-work-programme-2025-2027/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Philip R. Lane, Member Of The Executive Board, ECB: Navigating A Fragmenting Global Trading System: Insights For Central Banks](http://www.mondovisione.com/media-and-resources/news/philip-r-lane-member-of-the-executive-board-ecb-navigating-a-fragmenting-gl/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIX Exchanges Figures December And Full Year 2024](http://www.mondovisione.com/media-and-resources/news/six-exchanges-figures-december-and-full-year-2024/)
+Append: [U.S. Department Of The Treasury Releases Final Rules For Clean Hydrogen Production Tax Credit - Final Rules Include Significant Changes And Flexibilities To Provide Investment Certainty And Drive Deployment Of Clean Hydrogen](http://www.mondovisione.com/media-and-resources/news/us-department-of-the-treasury-releases-final-rules-for-clean-hydrogen-producti/)
+Append: [Borsa İstanbul’s Opening Bell Rang For Armada Gıda Ticaret Sanayi A.Ş.](http://www.mondovisione.com/media-and-resources/news/borsa-istanbuls-opening-bell-rang-for-armada-gda-ticaret-sanayi-a/)
+append_entries: 7
+Finish: 2025-01-03 18:27:44.186453
