@@ -3751,3 +3751,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CME Group Reports Record Annual ADV Of 26.5 Million Contracts In 2024, Driven By Growth Across All Six Asset Classes](http://www.mondovisione.com/media-and-resources/news/cme-group-reports-record-annual-adv-of-265-million-contracts-in-2024-driven-by/)
 append_entries: 1
 Finish: 2025-01-03 14:18:13.224036
+------------------------------------------------------
+Started: 2025-01-03 16:25:26.164321
+Existing_entries: 564
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Malawi Stock Exchange Weekly Summary Report, 3 January 2025](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-3-january-2025/)
+append_entries: 1
+Finish: 2025-01-03 16:25:27.181617
