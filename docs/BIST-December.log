@@ -3730,3 +3730,15 @@ Existing_entries: 561
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-01-03 10:20:59.616109
+------------------------------------------------------
+Started: 2025-01-03 12:39:45.953693
+Existing_entries: 561
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESMA Launches Selection Of The Consolidated Tape Provider For Bonds](http://www.mondovisione.com/media-and-resources/news/esma-launches-selection-of-the-consolidated-tape-provider-for-bonds/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Ubaldi Costruzioni Lists On Euronext Growth Milan](http://www.mondovisione.com/media-and-resources/news/ubaldi-costruzioni-lists-on-euronext-growth-milan/)
+append_entries: 2
+Finish: 2025-01-03 12:39:47.134785
