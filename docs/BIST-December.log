@@ -3712,3 +3712,15 @@ Existing_entries: 559
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-01-03 06:28:47.120319
+------------------------------------------------------
+Started: 2025-01-03 08:25:49.908777
+Existing_entries: 559
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nadex To Close US Indices Contracts On January 9, 2025, In Observance Of The National Day Of Mourning](http://www.mondovisione.com/media-and-resources/news/nadex-to-close-us-indices-contracts-on-january-9-2025-in-observance-of-the-nat/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nadex Continues Market Maker Program Through 2025](http://www.mondovisione.com/media-and-resources/news/nadex-continues-market-maker-program-through-2025/)
+append_entries: 2
+Finish: 2025-01-03 08:25:51.064908
