@@ -3742,3 +3742,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Ubaldi Costruzioni Lists On Euronext Growth Milan](http://www.mondovisione.com/media-and-resources/news/ubaldi-costruzioni-lists-on-euronext-growth-milan/)
 append_entries: 2
 Finish: 2025-01-03 12:39:47.134785
+------------------------------------------------------
+Started: 2025-01-03 14:18:11.463604
+Existing_entries: 563
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group Reports Record Annual ADV Of 26.5 Million Contracts In 2024, Driven By Growth Across All Six Asset Classes](http://www.mondovisione.com/media-and-resources/news/cme-group-reports-record-annual-adv-of-265-million-contracts-in-2024-driven-by/)
+append_entries: 1
+Finish: 2025-01-03 14:18:13.224036
