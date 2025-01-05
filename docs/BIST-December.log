@@ -3936,3 +3936,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [EGX Holiday On Tuesday 7th Of January 2025](http://www.mondovisione.com/media-and-resources/news/egx-holiday-on-tuesday-7th-of-january-2025/)
 append_entries: 1
 Finish: 2025-01-05 18:26:12.433791
+------------------------------------------------------
+Started: 2025-01-05 20:20:22.824073
+Existing_entries: 575
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-01-05 20:21:14.147212
