@@ -3927,3 +3927,12 @@ Existing_entries: 574
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-01-05 16:22:56.651240
+------------------------------------------------------
+Started: 2025-01-05 18:25:43.226797
+Existing_entries: 574
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [EGX Holiday On Tuesday 7th Of January 2025](http://www.mondovisione.com/media-and-resources/news/egx-holiday-on-tuesday-7th-of-january-2025/)
+append_entries: 1
+Finish: 2025-01-05 18:26:12.433791
