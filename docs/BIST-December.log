@@ -4077,3 +4077,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Curinos Inc. Appoints Jeff Hack As Chief Executive Officer - Industry Veteran Brings Wealth Of Experience To Drive Company’s Growth](http://www.mondovisione.com/media-and-resources/news/curinos-inc-appoints-jeff-hack-as-chief-executive-officer-industry-veteran-br/)
 append_entries: 3
 Finish: 2025-01-06 20:20:29.923499
+------------------------------------------------------
+Started: 2025-01-06 22:19:12.711828
+Existing_entries: 596
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Exchange Group - Options Markets - Contrary Exercise Advice Cut-Off Time Changed For Options Expiring On Thursday, January 9, 2025](http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-options-markets-contrary-exercise-advice-cut-off-time-ch/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TMX Group Consolidated Trading Statistics – December 2024](http://www.mondovisione.com/media-and-resources/news/tmx-group-consolidated-trading-statistics-december-2024/)
+append_entries: 2
+Finish: 2025-01-06 22:19:14.129361
