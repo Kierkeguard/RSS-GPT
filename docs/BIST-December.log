@@ -4041,3 +4041,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Announcement On The Amendments To The Rules Of Zhengzhou Commodity Exchange On Standard Warehouse Receipts](http://www.mondovisione.com/media-and-resources/news/announcement-on-the-amendments-to-the-rules-of-zhengzhou-commodity-exchange-on-s/)
 append_entries: 3
 Finish: 2025-01-06 16:26:01.534612
+------------------------------------------------------
+Started: 2025-01-06 18:28:29.164754
+Existing_entries: 588
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group Inc. Announces Fourth-Quarter And Year-End 2024 Earnings Release, Conference Call](http://www.mondovisione.com/media-and-resources/news/cme-group-inc-announces-fourth-quarter-and-year-end-2024-earnings-release-conf/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Finastra Announces Leadership Transition: Welcoming Chris Walters As New CEO](http://www.mondovisione.com/media-and-resources/news/finastra-announces-leadership-transition-welcoming-chris-walters-as-new-ceo/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bermuda Stock Exchange: Delayed Opening Of Trading To Commemorate President Jimmy Carter](http://www.mondovisione.com/media-and-resources/news/bermuda-stock-exchange-delayed-opening-of-trading-to-commemorate-president-jimm/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Federal Reserve Board Announces Michael S. Barr Will Step Down From His Position As Federal Reserve Board Vice Chair For Supervision, Effective February 28, 2025, And Will Continue To Serve As Governor](http://www.mondovisione.com/media-and-resources/news/federal-reserve-board-announces-michael-s-barr-will-step-down-from-his-position/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Borsa İstanbul Announces The Constituent Changes To The BIST Buyback Index For January, 2025](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-announces-the-constituent-changes-to-the-bist-buyback-index-for-j-2/)
+append_entries: 5
+Finish: 2025-01-06 18:28:30.378880
