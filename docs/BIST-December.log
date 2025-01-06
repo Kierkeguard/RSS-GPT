@@ -4026,3 +4026,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Fiserv Small Business Index® For December 2024: Retail And Services Lead As Small Business Finishes On Upswing](http://www.mondovisione.com/media-and-resources/news/fiserv-small-business-index-for-december-2024-retail-and-services-lead-as-smal/)
 append_entries: 2
 Finish: 2025-01-06 14:19:17.220433
+------------------------------------------------------
+Started: 2025-01-06 16:25:59.943474
+Existing_entries: 585
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [An Assessment Of The Economy And Financial Stability, Federal Reserve Governor Lisa D. Cook, At The Seventh Conference On Law And Macroeconomics, University Of Michigan Law School, Ann Arbor, Michigan](http://www.mondovisione.com/media-and-resources/news/an-assessment-of-the-economy-and-financial-stability-federal-reserve-governor-l/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Shenzhen Stock Exchange Market Bulletin, January 3, 2025, Issue 1](http://www.mondovisione.com/media-and-resources/news/shenzhen-stock-exchange-market-bulletin-january-3-2025-issue-1/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Announcement On The Amendments To The Rules Of Zhengzhou Commodity Exchange On Standard Warehouse Receipts](http://www.mondovisione.com/media-and-resources/news/announcement-on-the-amendments-to-the-rules-of-zhengzhou-commodity-exchange-on-s/)
+append_entries: 3
+Finish: 2025-01-06 16:26:01.534612
