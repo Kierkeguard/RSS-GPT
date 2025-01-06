@@ -4062,3 +4062,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Borsa İstanbul Announces The Constituent Changes To The BIST Buyback Index For January, 2025](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-announces-the-constituent-changes-to-the-bist-buyback-index-for-j-2/)
 append_entries: 5
 Finish: 2025-01-06 18:28:30.378880
+------------------------------------------------------
+Started: 2025-01-06 20:20:28.735485
+Existing_entries: 593
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIFMA Fixed Income Market Close Recommendations In The U.S., The U.K., And Japan For The U.S. Martin Luther King Day](http://www.mondovisione.com/media-and-resources/news/sifma-fixed-income-market-close-recommendations-in-the-us-the-uk-and-japan-48/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Commissioners Appointed To BC Securities Commission](http://www.mondovisione.com/media-and-resources/news/new-commissioners-appointed-to-bc-securities-commission/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Curinos Inc. Appoints Jeff Hack As Chief Executive Officer - Industry Veteran Brings Wealth Of Experience To Drive Company’s Growth](http://www.mondovisione.com/media-and-resources/news/curinos-inc-appoints-jeff-hack-as-chief-executive-officer-industry-veteran-br/)
+append_entries: 3
+Finish: 2025-01-06 20:20:29.923499
