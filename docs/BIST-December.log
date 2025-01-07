@@ -4128,3 +4128,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Cboe Global Markets Reports Trading Volume For December And Full Year 2024](http://www.mondovisione.com/media-and-resources/news/cboe-global-markets-reports-trading-volume-for-december-and-full-year-2024/)
 append_entries: 3
 Finish: 2025-01-07 08:26:23.214891
+------------------------------------------------------
+Started: 2025-01-07 10:22:58.458970
+Existing_entries: 601
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SET To Enhance Co-Location Services, Promoting Equity And Access For All Member Firms Starting Q2/2025](http://www.mondovisione.com/media-and-resources/news/set-to-enhance-co-location-services-promoting-equity-and-access-for-all-member/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [GlobalData Announces Acquisition Of Market Leading Competitive Intelligence Solutions Provider Deallus](http://www.mondovisione.com/media-and-resources/news/globaldata-announces-acquisition-of-market-leading-competitive-intelligence-solu/)
+append_entries: 2
+Finish: 2025-01-07 10:22:59.608763
