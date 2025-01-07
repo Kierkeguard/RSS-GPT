@@ -4155,3 +4155,27 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [World Economic Forum - Global Cooperation At A Crossroads: Possibility Amid Rising Geopolitical Uncertainty](http://www.mondovisione.com/media-and-resources/news/world-economic-forum-global-cooperation-at-a-crossroads-possibility-amid-risi/)
 append_entries: 3
 Finish: 2025-01-07 12:40:51.156154
+------------------------------------------------------
+Started: 2025-01-07 15:26:38.257159
+Existing_entries: 606
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Purdue University/CME Group Ag Economy Barometer: Farmer Sentiment Drifts Lower While Producers Remain Optimistic About The Future](http://www.mondovisione.com/media-and-resources/news/purdue-universitycme-group-ag-economy-barometer-farmer-sentiment-drifts-lower-2/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Chairman Rostin Behnam Announces Departure From CFTC](http://www.mondovisione.com/media-and-resources/news/chairman-rostin-behnam-announces-departure-from-cftc/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Decision By The Nasdaq Stockholm Disciplinary Committee Regarding ELLWEE AB (publ)](http://www.mondovisione.com/media-and-resources/news/decision-by-the-nasdaq-stockholm-disciplinary-committee-regarding-ellwee-ab-pub/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [2025: ULL Race To Zero Continues, Exchanges Moving To 25G & Market Fairness](http://www.mondovisione.com/media-and-resources/news/2025-ull-race-to-zero-continues-exchanges-moving-to-25g-and-market-fairness/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TMX Group Limited Announces Release Date For Q4 2024 Financial Results And Analyst Conference Call](http://www.mondovisione.com/media-and-resources/news/tmx-group-limited-announces-release-date-for-q4-2024-financial-results-and-analy/)
+Append: [Tradeweb Reports December 2024 Total Trading Volume Of $48.2 Trillion And Average Daily Volume Of $2.18 Trillion](http://www.mondovisione.com/media-and-resources/news/tradeweb-reports-december-2024-total-trading-volume-of-482-trillion-and-averag/)
+Append: [Tehran Securities Exchange Bulletin - December 2024](http://www.mondovisione.com/media-and-resources/news/tehran-securities-exchange-bulletin-december-2024/)
+Append: [ACER Recommends Updates To The EU Market Rules For Gas Capacity Allocation](http://www.mondovisione.com/media-and-resources/news/acer-recommends-updates-to-the-eu-market-rules-for-gas-capacity-allocation/)
+append_entries: 8
+Finish: 2025-01-07 15:26:39.922493
