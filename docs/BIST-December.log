@@ -4140,3 +4140,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [GlobalData Announces Acquisition Of Market Leading Competitive Intelligence Solutions Provider Deallus](http://www.mondovisione.com/media-and-resources/news/globaldata-announces-acquisition-of-market-leading-competitive-intelligence-solu/)
 append_entries: 2
 Finish: 2025-01-07 10:22:59.608763
+------------------------------------------------------
+Started: 2025-01-07 12:40:49.510554
+Existing_entries: 603
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LME Data Highlights:  2024](http://www.mondovisione.com/media-and-resources/news/lme-data-highlights-2024/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Aviva Investors: 2025 To Be Marked By Significant Policy Uncertainty And A Wide Range Of Possible Economic Outcomes](http://www.mondovisione.com/media-and-resources/news/aviva-investors-2025-to-be-marked-by-significant-policy-uncertainty-and-a-wide/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [World Economic Forum - Global Cooperation At A Crossroads: Possibility Amid Rising Geopolitical Uncertainty](http://www.mondovisione.com/media-and-resources/news/world-economic-forum-global-cooperation-at-a-crossroads-possibility-amid-risi/)
+append_entries: 3
+Finish: 2025-01-07 12:40:51.156154
