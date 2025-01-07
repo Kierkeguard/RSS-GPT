@@ -4185,3 +4185,18 @@ Existing_entries: 614
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-01-07 16:37:07.267474
+------------------------------------------------------
+Started: 2025-01-07 18:28:28.101545
+Existing_entries: 614
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cboe Global Markets And Metaurus Advisors, LLC Collaborate On New U.S. Equity Index, First Of Four In Planned Dispersion Product Suite](http://www.mondovisione.com/media-and-resources/news/cboe-global-markets-and-metaurus-advisors-llc-collaborate-on-new-us-equity-in/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BIS CPMI Takes Further Steps To Promote ISO 20022 Harmonisation For Enhanced Cross-Border Payments](http://www.mondovisione.com/media-and-resources/news/bis-cpmi-takes-further-steps-to-promote-iso-20022-harmonisation-for-enhanced-cro/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Full Year And December 2024 Figures At Eurex](http://www.mondovisione.com/media-and-resources/news/full-year-and-december-2024-figures-at-eurex/)
+append_entries: 3
+Finish: 2025-01-07 18:28:29.094030
