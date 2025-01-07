@@ -4206,3 +4206,15 @@ Existing_entries: 617
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-01-07 20:21:44.041380
+------------------------------------------------------
+Started: 2025-01-07 22:19:09.119927
+Existing_entries: 617
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Robinhood Markets, Inc. To Announce Fourth Quarter And Full Year 2024 Results On February 12, 2025](http://www.mondovisione.com/media-and-resources/news/robinhood-markets-inc-to-announce-fourth-quarter-and-full-year-2024-results-on/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Zimbabwe Stock Exchange Celebrates 4th Anniversary Of First ETF Listing](http://www.mondovisione.com/media-and-resources/news/zimbabwe-stock-exchange-celebrates-4th-anniversary-of-first-etf-listing/)
+append_entries: 2
+Finish: 2025-01-07 22:19:10.549460
