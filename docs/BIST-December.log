@@ -4337,3 +4337,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Minutes Of The Federal Open Market Committee, December 17-18, 2024](http://www.mondovisione.com/media-and-resources/news/minutes-of-the-federal-open-market-committee-december-17-18-2024/)
 append_entries: 2
 Finish: 2025-01-08 20:22:16.431583
+------------------------------------------------------
+Started: 2025-01-08 22:18:47.180047
+Existing_entries: 638
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Reports December 2024 Volumes And 4Q24 Statistics](http://www.mondovisione.com/media-and-resources/news/nasdaq-reports-december-2024-volumes-and-4q24-statistics/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TMX Group Equity Financing Statistics – December 2024](http://www.mondovisione.com/media-and-resources/news/tmx-group-equity-financing-statistics-december-2024/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The EBA Consults On Draft Technical Standards On The Prudential Treatment Of Crypto Assets Exposures Under The Capital Requirements Regulation](http://www.mondovisione.com/media-and-resources/news/the-eba-consults-on-draft-technical-standards-on-the-prudential-treatment-of-cry/)
+append_entries: 3
+Finish: 2025-01-08 22:18:48.726989
