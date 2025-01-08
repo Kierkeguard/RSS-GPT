@@ -4302,3 +4302,26 @@ Existing_entries: 629
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-01-08 16:26:15.668576
+------------------------------------------------------
+Started: 2025-01-08 18:28:45.799064
+Existing_entries: 629
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nodal Exchange Achieves Record Traded Volume In All Markets In 2024](http://www.mondovisione.com/media-and-resources/news/nodal-exchange-achieves-record-traded-volume-in-all-markets-in-2024/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESMA Publishes 2024 ESEF XBRL Files And ESEF Conformance Suite](http://www.mondovisione.com/media-and-resources/news/esma-publishes-2024-esef-xbrl-files-and-esef-conformance-suite/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Finansinspektionen: The TRS 2 System Closed On 14 January](http://www.mondovisione.com/media-and-resources/news/finansinspektionen-the-trs-2-system-closed-on-14-january/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [EEX Group Monthly Volumes – December 2024](http://www.mondovisione.com/media-and-resources/news/eex-group-monthly-volumes-december-2024/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Keynote Address Of CFTC Chairman Rostin Behnam](http://www.mondovisione.com/media-and-resources/news/keynote-address-of-cftc-chairman-rostin-behnam/)
+Append: [Tokeny And Ditobanx Partner To Transform El Salvador Into A Tokenization Leader](http://www.mondovisione.com/media-and-resources/news/tokeny-and-ditobanx-partner-to-transform-el-salvador-into-a-tokenization-leader/)
+Append: [CME Group To Launch Hard Red Spring Wheat Futures And Options](http://www.mondovisione.com/media-and-resources/news/cme-group-to-launch-hard-red-spring-wheat-futures-and-options/)
+append_entries: 7
+Finish: 2025-01-08 18:28:47.189874
