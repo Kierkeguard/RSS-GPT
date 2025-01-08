@@ -4260,3 +4260,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [U.S. Transfers $50M In Forfeited Assets To The Republic Of Estonia In Recognition Of Assistance In The Danske Bank Prosecution And Forfeiture](http://www.mondovisione.com/media-and-resources/news/us-transfers-50m-in-forfeited-assets-to-the-republic-of-estonia-in-recognitio/)
 append_entries: 4
 Finish: 2025-01-08 08:26:57.332352
+------------------------------------------------------
+Started: 2025-01-08 10:21:58.837158
+Existing_entries: 623
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SET Market Report For December And Full-Year 2024](http://www.mondovisione.com/media-and-resources/news/set-market-report-for-december-and-full-year-2024/)
+append_entries: 1
+Finish: 2025-01-08 10:21:59.796685
