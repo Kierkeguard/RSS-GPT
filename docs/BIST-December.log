@@ -4242,3 +4242,21 @@ Existing_entries: 619
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-01-08 06:29:00.460197
+------------------------------------------------------
+Started: 2025-01-08 08:26:56.276293
+Existing_entries: 619
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Shanghai Gold Exchange Monthly Report Of Data Highlights- December, 2024](http://www.mondovisione.com/media-and-resources/news/shanghai-gold-exchange-monthly-report-of-data-highlights-december-2024/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [U.S. Department Of The Treasury Releases Final Rules For Technology-Neutral Clean Electricity Credits](http://www.mondovisione.com/media-and-resources/news/us-department-of-the-treasury-releases-final-rules-for-technology-neutral-clea/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC - Commitments Of Traders: Updated Release Date - National Day Of Mourning For The Passing Of Former President James Earl Carter Jr.](http://www.mondovisione.com/media-and-resources/news/cftc-commitments-of-traders-updated-release-date-national-day-of-mourning-f/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [U.S. Transfers $50M In Forfeited Assets To The Republic Of Estonia In Recognition Of Assistance In The Danske Bank Prosecution And Forfeiture](http://www.mondovisione.com/media-and-resources/news/us-transfers-50m-in-forfeited-assets-to-the-republic-of-estonia-in-recognitio/)
+append_entries: 4
+Finish: 2025-01-08 08:26:57.332352
