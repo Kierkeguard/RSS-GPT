@@ -4325,3 +4325,15 @@ Append: [Tokeny And Ditobanx Partner To Transform El Salvador Into A Tokenizatio
 Append: [CME Group To Launch Hard Red Spring Wheat Futures And Options](http://www.mondovisione.com/media-and-resources/news/cme-group-to-launch-hard-red-spring-wheat-futures-and-options/)
 append_entries: 7
 Finish: 2025-01-08 18:28:47.189874
+------------------------------------------------------
+Started: 2025-01-08 20:22:15.017873
+Existing_entries: 636
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [IIPA Supports USTR Identification Of Notorious Markets Facilitating Global Piracy To Protect U.S. Creators - Special 301 Report Of “Notorious Markets” Includes Online And Physical Marketplaces That Cause Significant Economic Harm To Copyright Creators And The U.S. Economy](http://www.mondovisione.com/media-and-resources/news/iipa-supports-ustr-identification-of-notorious-markets-facilitating-global-pirac/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Minutes Of The Federal Open Market Committee, December 17-18, 2024](http://www.mondovisione.com/media-and-resources/news/minutes-of-the-federal-open-market-committee-december-17-18-2024/)
+append_entries: 2
+Finish: 2025-01-08 20:22:16.431583
