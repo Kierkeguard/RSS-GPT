@@ -4269,3 +4269,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SET Market Report For December And Full-Year 2024](http://www.mondovisione.com/media-and-resources/news/set-market-report-for-december-and-full-year-2024/)
 append_entries: 1
 Finish: 2025-01-08 10:21:59.796685
+------------------------------------------------------
+Started: 2025-01-08 12:40:48.591846
+Existing_entries: 624
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-01-08 12:40:49.641828
