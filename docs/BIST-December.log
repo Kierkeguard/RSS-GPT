@@ -4403,3 +4403,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [BME Growth Companies Increase Their Turnover By 25.5% Compounded Annual Rate Over The Last Five Years](http://www.mondovisione.com/media-and-resources/news/bme-growth-companies-increase-their-turnover-by-255-compounded-annual-rate-ove/)
 append_entries: 1
 Finish: 2025-01-09 12:40:51.133708
+------------------------------------------------------
+Started: 2025-01-09 14:18:54.165857
+Existing_entries: 646
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-01-09 14:18:55.174804
