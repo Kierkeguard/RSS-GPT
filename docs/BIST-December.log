@@ -4438,3 +4438,15 @@ Append: [Amman Stock Exchange Weekly Summary](http://www.mondovisione.com/media-
 Append: [SGX Group Reports Market Statistics For December 2024](http://www.mondovisione.com/media-and-resources/news/sgx-group-reports-market-statistics-for-december-2024/)
 append_entries: 7
 Finish: 2025-01-09 18:29:05.104827
+------------------------------------------------------
+Started: 2025-01-09 20:22:18.549714
+Existing_entries: 653
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Reflections On 2024: Monetary Policy, Economic Performance, And Lessons For Banking Regulation, Federal Reserve Governor Michelle W. Bowman, At The California Bankers Association 2025 Bank Presidents Seminar, Laguna Beach, California](http://www.mondovisione.com/media-and-resources/news/reflections-on-2024-monetary-policy-economic-performance-and-lessons-for-bank/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The EBA Publishes Its Final Guidelines On The Management Of ESG Risks](http://www.mondovisione.com/media-and-resources/news/the-eba-publishes-its-final-guidelines-on-the-management-of-esg-risks/)
+append_entries: 2
+Finish: 2025-01-09 20:22:19.766598
