@@ -4415,3 +4415,26 @@ Existing_entries: 646
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-01-09 16:26:37.257023
+------------------------------------------------------
+Started: 2025-01-09 18:29:04.253913
+Existing_entries: 646
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Canadian Investment Regulatory Organization Proposes Amendments Respecting Mandatory Close-Out Requirements](http://www.mondovisione.com/media-and-resources/news/canadian-investment-regulatory-organization-proposes-amendments-respecting-manda/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Exegy Hires Industry Vet, Fiesel, To Build On Sales Momentum](http://www.mondovisione.com/media-and-resources/news/exegy-hires-industry-vet-fiesel-to-build-on-sales-momentum/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TMX Group Pledges Support To The Red Cross California Wildfire Relief](http://www.mondovisione.com/media-and-resources/news/tmx-group-pledges-support-to-the-red-cross-california-wildfire-relief/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Reading Between The Lines − Speech By Sarah Breeden, Bank Of England Deputy Governor, Financial Stability, Given At University Of Edinburgh Business School](http://www.mondovisione.com/media-and-resources/news/reading-between-the-lines-speech-by-sarah-breeden-bank-of-england-deputy-gove/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESMA Publishes Latest Edition Of Its Newsletter](http://www.mondovisione.com/media-and-resources/news/esma-publishes-latest-edition-of-its-newsletter-36/)
+Append: [Amman Stock Exchange Weekly Summary](http://www.mondovisione.com/media-and-resources/news/amman-stock-exchange-weekly-summary-12/)
+Append: [SGX Group Reports Market Statistics For December 2024](http://www.mondovisione.com/media-and-resources/news/sgx-group-reports-market-statistics-for-december-2024/)
+append_entries: 7
+Finish: 2025-01-09 18:29:05.104827
