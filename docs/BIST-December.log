@@ -4394,3 +4394,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Sentiment Rises Across The Derivatives Market As Firms Target Increased Investment In 2025: Acuiti](http://www.mondovisione.com/media-and-resources/news/sentiment-rises-across-the-derivatives-market-as-firms-target-increased-investme/)
 append_entries: 1
 Finish: 2025-01-09 10:22:15.347624
+------------------------------------------------------
+Started: 2025-01-09 12:40:50.253684
+Existing_entries: 645
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BME Growth Companies Increase Their Turnover By 25.5% Compounded Annual Rate Over The Last Five Years](http://www.mondovisione.com/media-and-resources/news/bme-growth-companies-increase-their-turnover-by-255-compounded-annual-rate-ove/)
+append_entries: 1
+Finish: 2025-01-09 12:40:51.133708
