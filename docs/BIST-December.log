@@ -4483,3 +4483,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Canadian Investment Regulatory Organization Opens Grant Program To Advance Investor Education And Protection](http://www.mondovisione.com/media-and-resources/news/canadian-investment-regulatory-organization-opens-grant-program-to-advance-inves/)
 append_entries: 1
 Finish: 2025-01-10 06:29:30.559620
+------------------------------------------------------
+Started: 2025-01-10 08:26:29.365297
+Existing_entries: 656
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Taiwan Futures Exchange Newsletter - January 2025](http://www.mondovisione.com/media-and-resources/news/taiwan-futures-exchange-newsletter-january-2025/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX Announces Senior Appointments](http://www.mondovisione.com/media-and-resources/news/hkex-announces-senior-appointments-4/)
+append_entries: 2
+Finish: 2025-01-10 08:26:30.837050
