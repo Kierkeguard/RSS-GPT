@@ -4531,3 +4531,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [UK Financial Conduct Authority Fines Arian Financial LLP £288,962.53 For Failings Relating To Cum-Ex Trading](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-fines-arian-financial-llp-28896253-for-failing/)
 append_entries: 3
 Finish: 2025-01-10 14:19:00.348241
+------------------------------------------------------
+Started: 2025-01-10 16:26:33.798913
+Existing_entries: 664
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Staff Issues Advisory Regarding The Compliance Date For Certain DCO Reporting Requirements](http://www.mondovisione.com/media-and-resources/news/cftc-staff-issues-advisory-regarding-the-compliance-date-for-certain-dco-reporti/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Vince McMahon, Former CEO Of WWE, Charged For Failure To Disclose To WWE Two Settlement Agreements He Executed On Behalf Of WWE](http://www.mondovisione.com/media-and-resources/news/vince-mcmahon-former-ceo-of-wwe-charged-for-failure-to-disclose-to-wwe-two-set/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Malawi Stock Exchange Weekly Summary Report, 10 January 2025](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-10-january-2025/)
+append_entries: 3
+Finish: 2025-01-10 16:26:35.264169
