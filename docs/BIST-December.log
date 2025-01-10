@@ -4510,3 +4510,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [HKEX: Listing Nominating Committee Seeks Candidates For Listing Review Committee](http://www.mondovisione.com/media-and-resources/news/hkex-listing-nominating-committee-seeks-candidates-for-listing-review-committee-4/)
 append_entries: 3
 Finish: 2025-01-10 10:22:06.260138
+------------------------------------------------------
+Started: 2025-01-10 12:40:44.467008
+Existing_entries: 661
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-01-10 12:40:45.594213
