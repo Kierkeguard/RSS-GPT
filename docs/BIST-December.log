@@ -4495,3 +4495,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [HKEX Announces Senior Appointments](http://www.mondovisione.com/media-and-resources/news/hkex-announces-senior-appointments-4/)
 append_entries: 2
 Finish: 2025-01-10 08:26:30.837050
+------------------------------------------------------
+Started: 2025-01-10 10:22:05.195170
+Existing_entries: 658
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cheung Kong Graduate School Of Business Professor Jin Zhao Becomes First Chinese Business School Scholar To Win AFA Award](http://www.mondovisione.com/media-and-resources/news/cheung-kong-graduate-school-of-business-professor-jin-zhao-becomes-first-chinese/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX: Listing Nominating Committee Seeks Listing Committee Candidates](http://www.mondovisione.com/media-and-resources/news/hkex-listing-nominating-committee-seeks-listing-committee-candidates-14/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX: Listing Nominating Committee Seeks Candidates For Listing Review Committee](http://www.mondovisione.com/media-and-resources/news/hkex-listing-nominating-committee-seeks-candidates-for-listing-review-committee-4/)
+append_entries: 3
+Finish: 2025-01-10 10:22:06.260138
