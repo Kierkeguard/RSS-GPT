@@ -4516,3 +4516,18 @@ Existing_entries: 661
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-01-10 12:40:45.594213
+------------------------------------------------------
+Started: 2025-01-10 14:18:58.914477
+Existing_entries: 661
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Exchange Data International And Dewey Data Partner To Empower Academic Institutions With High-Quality Data](http://www.mondovisione.com/media-and-resources/news/exchange-data-international-and-dewey-data-partner-to-empower-academic-instituti/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER Launches A Virtual Hub Price Correlation Simulator For Electricity Forward Trading](http://www.mondovisione.com/media-and-resources/news/acer-launches-a-virtual-hub-price-correlation-simulator-for-electricity-forward/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Fines Arian Financial LLP £288,962.53 For Failings Relating To Cum-Ex Trading](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-fines-arian-financial-llp-28896253-for-failing/)
+append_entries: 3
+Finish: 2025-01-10 14:19:00.348241
