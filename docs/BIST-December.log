@@ -4546,3 +4546,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Malawi Stock Exchange Weekly Summary Report, 10 January 2025](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-10-january-2025/)
 append_entries: 3
 Finish: 2025-01-10 16:26:35.264169
+------------------------------------------------------
+Started: 2025-01-10 18:28:15.327838
+Existing_entries: 667
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Haiki+ Lists On Euronext Growth Milan](http://www.mondovisione.com/media-and-resources/news/haiki-lists-on-euronext-growth-milan/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Athens Stock Exchange: Main Market Stock Liquidity Class Assessment Results, Effective As Of January 13, 2025](http://www.mondovisione.com/media-and-resources/news/athens-stock-exchange-main-market-stock-liquidity-class-assessment-results-eff-17/)
+append_entries: 2
+Finish: 2025-01-10 18:28:16.716804
