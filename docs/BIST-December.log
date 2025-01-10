@@ -4474,3 +4474,12 @@ Existing_entries: 655
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-01-10 04:24:41.214712
+------------------------------------------------------
+Started: 2025-01-10 06:29:28.266790
+Existing_entries: 655
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Canadian Investment Regulatory Organization Opens Grant Program To Advance Investor Education And Protection](http://www.mondovisione.com/media-and-resources/news/canadian-investment-regulatory-organization-opens-grant-program-to-advance-inves/)
+append_entries: 1
+Finish: 2025-01-10 06:29:30.559620
