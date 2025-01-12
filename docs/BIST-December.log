@@ -4664,3 +4664,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Ethiopia Launches Securities Exchange To Boost Economic Growth](http://www.mondovisione.com/media-and-resources/news/ethiopia-launches-securities-exchange-to-boost-economic-growth/)
 append_entries: 1
 Finish: 2025-01-11 22:18:21.961116
+------------------------------------------------------
+Started: 2025-01-12 01:47:27.439483
+Existing_entries: 679
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-01-12 01:47:28.297194
