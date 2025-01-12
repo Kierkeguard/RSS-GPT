@@ -4688,3 +4688,12 @@ Existing_entries: 679
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-01-12 06:27:39.810997
+------------------------------------------------------
+Started: 2025-01-12 08:23:38.290094
+Existing_entries: 679
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tehran Securities Exchange Weekly Market Snapshot, 8 Jan  2025](http://www.mondovisione.com/media-and-resources/news/tehran-securities-exchange-weekly-market-snapshot-8-jan-2025/)
+append_entries: 1
+Finish: 2025-01-12 08:23:40.417133
