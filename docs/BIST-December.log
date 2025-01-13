@@ -4857,3 +4857,21 @@ Existing_entries: 698
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-01-13 20:21:46.418727
+------------------------------------------------------
+Started: 2025-01-13 22:18:09.009419
+Existing_entries: 698
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Exchange Group - Options And Equities Markets Member Firm Portal Maintenance Scheduled For January 16, 2025](http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-options-and-equities-markets-member-firm-portal-maintenanc/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC: Mosaic Exchange Ltd. And CEO Ordered To Pay Over $1.1 Million For Fraudulent Digital Asset Commodity Scheme](http://www.mondovisione.com/media-and-resources/news/cftc-mosaic-exchange-ltd-and-ceo-ordered-to-pay-over-11-million-for-fraudule/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Gemini Trust Ordered To Pay $5 Million For Making False Or Misleading Statements, Omissions To The CFTC](http://www.mondovisione.com/media-and-resources/news/gemini-trust-ordered-to-pay-5-million-for-making-false-or-misleading-statements/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Charges Former Public Company Officer And His Sister-In-Law With Insider Trading](http://www.mondovisione.com/media-and-resources/news/sec-charges-former-public-company-officer-and-his-sister-in-law-with-insider-tra/)
+append_entries: 4
+Finish: 2025-01-13 22:18:09.816624
