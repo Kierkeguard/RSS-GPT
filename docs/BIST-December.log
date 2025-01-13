@@ -4824,3 +4824,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Dairy Company Floats Equity On TSE - A New Company Was Listed On Tehran Securities Exchange (TSE): Bahar Dalahoo Dairy Company](http://www.mondovisione.com/media-and-resources/news/dairy-company-floats-equity-on-tse-a-new-company-was-listed-on-tehran-securiti/)
 append_entries: 3
 Finish: 2025-01-13 14:20:07.500325
+------------------------------------------------------
+Started: 2025-01-13 16:27:25.540772
+Existing_entries: 693
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Federal Reserve Board Announces The Designation Of The Chairs And Deputy Chairs Of The 12 Federal Reserve Banks For 2025](http://www.mondovisione.com/media-and-resources/news/federal-reserve-board-announces-the-designation-of-the-chairs-and-deputy-chairs-2/)
+append_entries: 1
+Finish: 2025-01-13 16:27:26.427050
