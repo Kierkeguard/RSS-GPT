@@ -4833,3 +4833,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Federal Reserve Board Announces The Designation Of The Chairs And Deputy Chairs Of The 12 Federal Reserve Banks For 2025](http://www.mondovisione.com/media-and-resources/news/federal-reserve-board-announces-the-designation-of-the-chairs-and-deputy-chairs-2/)
 append_entries: 1
 Finish: 2025-01-13 16:27:26.427050
+------------------------------------------------------
+Started: 2025-01-13 18:29:51.530613
+Existing_entries: 694
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New York Department Of Financial Services Superintendent Adrienne A. Harris Launches Inaugural Transatlantic Regulatory Exchange With Bank Of England - New York And British Regulators To Exchange Senior Experts In Emerging Payments And Digital Assets](http://www.mondovisione.com/media-and-resources/news/superintendent-adrienne-a-harris-launches-inaugural-transatlantic-regulatory-ex/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Announces Departure Of Clearing And Risk Director Clark Hutchison](http://www.mondovisione.com/media-and-resources/news/cftc-announces-departure-of-clearing-and-risk-director-clark-hutchison/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Executive Director Per Nordkvist To Leave Finansinspektionen](http://www.mondovisione.com/media-and-resources/news/executive-director-per-nordkvist-to-leave-finansinspektionen/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Metal Exchange: Matching Rules Relating To Chronologic Leg Ordering Of Carry Trades](http://www.mondovisione.com/media-and-resources/news/london-metal-exchange-matching-rules-relating-to-chronologic-leg-ordering-of-c/)
+append_entries: 4
+Finish: 2025-01-13 18:29:53.091256
