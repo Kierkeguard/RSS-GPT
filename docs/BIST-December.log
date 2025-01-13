@@ -4809,3 +4809,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Cyprus Stock Exchange Bulletin For December 2024](http://www.mondovisione.com/media-and-resources/news/cyprus-stock-exchange-bulletin-for-december-2024/)
 append_entries: 1
 Finish: 2025-01-13 12:42:15.769910
+------------------------------------------------------
+Started: 2025-01-13 14:20:06.067599
+Existing_entries: 690
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Charges BMO Capital Markets With Failing To Supervise Agency Bond Desk - Settlement Establishes $40 Million Fund To Compensate Harmed Investors](http://www.mondovisione.com/media-and-resources/news/sec-charges-bmo-capital-markets-with-failing-to-supervise-agency-bond-desk-set/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Multi-Banking Strategy: BISON Partners With Deutsche Bank](http://www.mondovisione.com/media-and-resources/news/multi-banking-strategy-bison-partners-with-deutsche-bank/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Dairy Company Floats Equity On TSE - A New Company Was Listed On Tehran Securities Exchange (TSE): Bahar Dalahoo Dairy Company](http://www.mondovisione.com/media-and-resources/news/dairy-company-floats-equity-on-tse-a-new-company-was-listed-on-tehran-securiti/)
+append_entries: 3
+Finish: 2025-01-13 14:20:07.500325
