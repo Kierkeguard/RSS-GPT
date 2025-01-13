@@ -4851,3 +4851,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [London Metal Exchange: Matching Rules Relating To Chronologic Leg Ordering Of Carry Trades](http://www.mondovisione.com/media-and-resources/news/london-metal-exchange-matching-rules-relating-to-chronologic-leg-ordering-of-c/)
 append_entries: 4
 Finish: 2025-01-13 18:29:53.091256
+------------------------------------------------------
+Started: 2025-01-13 20:21:45.301191
+Existing_entries: 698
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-01-13 20:21:46.418727
