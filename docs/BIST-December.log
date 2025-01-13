@@ -4788,3 +4788,15 @@ Append: [Hong Kong Securities And Futures Commission Welcomes Expanding Use Of O
 Append: [ASIC Consults On Relief For Business Introduction Services](http://www.mondovisione.com/media-and-resources/news/asic-consults-on-relief-for-business-introduction-services/)
 append_entries: 6
 Finish: 2025-01-13 08:27:59.052859
+------------------------------------------------------
+Started: 2025-01-13 10:23:00.256189
+Existing_entries: 687
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Capital.Com Secures 4 Wins At The IC Celebration Of Investment Awards 2024 - Global Trading Volumes Climb By More Than 30% In 2024, Affirming The Company’s Continued Global Growth Track](http://www.mondovisione.com/media-and-resources/news/capitalcom-secures-4-wins-at-the-ic-celebration-of-investment-awards-2024-glo/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Strong Market Performance In 2024 Highlights Investor Confidence In PNG](http://www.mondovisione.com/media-and-resources/news/strong-market-performance-in-2024-highlights-investor-confidence-in-png/)
+append_entries: 2
+Finish: 2025-01-13 10:23:01.700535
