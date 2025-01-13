@@ -4766,3 +4766,25 @@ Existing_entries: 681
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-01-13 06:30:29.417285
+------------------------------------------------------
+Started: 2025-01-13 08:27:58.207514
+Existing_entries: 681
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group International Average Daily Volume Reaches Record 7.8 Million Contracts In 2024, Up 14% From 2023 - All-Time High ADV For Europe, Middle East & Africa (EMEA), Asia Pacific (APAC) And Canada](http://www.mondovisione.com/media-and-resources/news/cme-group-international-average-daily-volume-reaches-record-78-million-contract/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX: OTC Clear To Accept China Government And Policy Bank Bonds As Collateral For All Derivatives](http://www.mondovisione.com/media-and-resources/news/hkex-otc-clear-to-accept-china-government-and-policy-bank-bonds-as-collateral-f/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euronext’s Leading Board Portal Software iBabs Joins G-Cloud 14 Framework To Enhance Governance In The UK Public Sector - Public Sector Organisations Across The UK Can Now Easily Procure iBabs’ Governance Tools Through G-Cloud 14](http://www.mondovisione.com/media-and-resources/news/euronexts-leading-board-portal-software-ibabs-joins-g-cloud-14-framework-to-enh/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Joint Statement By Commercial Affairs Department, Singapore Police Force (CAD) & Monetary Authority Of Singapore (MAS) - Civil Penalty Action Taken Against Gui Boon Sui For False Trading And Unauthorised Trading](http://www.mondovisione.com/media-and-resources/news/joint-statement-by-commercial-affairs-department-singapore-police-force-cad-and/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Hong Kong Securities And Futures Commission Welcomes Expanding Use Of Onshore RMB Bonds As Margin Collateral In OTC Clearing Hong Kong Limited](http://www.mondovisione.com/media-and-resources/news/hong-kong-securities-and-futures-commission-welcomes-expanding-use-of-onshore-rm/)
+Append: [ASIC Consults On Relief For Business Introduction Services](http://www.mondovisione.com/media-and-resources/news/asic-consults-on-relief-for-business-introduction-services/)
+append_entries: 6
+Finish: 2025-01-13 08:27:59.052859
