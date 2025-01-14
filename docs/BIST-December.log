@@ -4982,3 +4982,18 @@ Append: [LME Welcomes BMO As Category 2 Member](http://www.mondovisione.com/medi
 Append: [FICC Sponsored Service Volumes Exceeded USD$2 Trillion At The End Of 2024, Marking A New Peak And An 83% Year-Over-Year Increase](http://www.mondovisione.com/media-and-resources/news/ficc-sponsored-service-volumes-exceeded-usd2-trillion-at-the-end-of-2024-marki/)
 append_entries: 10
 Finish: 2025-01-14 18:27:02.835486
+------------------------------------------------------
+Started: 2025-01-14 20:21:06.545876
+Existing_entries: 723
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Announces Chief Accountant Paul Munter To Retire From Federal Service This Month](http://www.mondovisione.com/media-and-resources/news/sec-announces-chief-accountant-paul-munter-to-retire-from-federal-service-this-m/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Federal And State Financial Regulatory Agencies Issue Interagency Statement On Supervisory Practices Regarding Financial Institutions Affected By The California Wildfires And Straight-Line Winds](http://www.mondovisione.com/media-and-resources/news/us-federal-and-state-financial-regulatory-agencies-issue-interagency-statement-o-12/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Treasury Releases New Analysis Highlighting The U.S. Economy’s Historic Post-Pandemic Recovery Driven By The Biden Administration’s Policy Agenda](http://www.mondovisione.com/media-and-resources/news/us-treasury-releases-new-analysis-highlighting-the-us-economys-historic-post/)
+append_entries: 3
+Finish: 2025-01-14 20:21:07.493417
