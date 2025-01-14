@@ -4997,3 +4997,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [US Treasury Releases New Analysis Highlighting The U.S. Economy’s Historic Post-Pandemic Recovery Driven By The Biden Administration’s Policy Agenda](http://www.mondovisione.com/media-and-resources/news/us-treasury-releases-new-analysis-highlighting-the-us-economys-historic-post/)
 append_entries: 3
 Finish: 2025-01-14 20:21:07.493417
+------------------------------------------------------
+Started: 2025-01-14 22:18:27.122541
+Existing_entries: 726
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC’s Review Of Nadex Sports Contract Submissions](http://www.mondovisione.com/media-and-resources/news/cftcs-review-of-nadex-sports-contract-submissions/)
+append_entries: 1
+Finish: 2025-01-14 22:18:52.926178
