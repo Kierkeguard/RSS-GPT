@@ -4938,3 +4938,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Pico And BMLL Forge Groundbreaking Partnership To Offer Enhanced Historical And Real-Time Data Integration Capabilities - Partnership Offering Clients The Ability To Integrate BMLL And Pico’s Suite Of Products](http://www.mondovisione.com/media-and-resources/news/pico-and-bmll-forge-groundbreaking-partnership-to-offer-enhanced-historical-and/)
 append_entries: 4
 Finish: 2025-01-14 10:20:43.614143
+------------------------------------------------------
+Started: 2025-01-14 12:39:08.478640
+Existing_entries: 711
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [GLEIF And Companies House Link Up To Boost Identifiability And Discoverability Of UK Businesses Globally](http://www.mondovisione.com/media-and-resources/news/gleif-and-companies-house-link-up-to-boost-identifiability-and-discoverability-o/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Thunes And Hyperwallet, A PayPal Service, Expand Payout Access For Merchants Across Asia-Pacific](http://www.mondovisione.com/media-and-resources/news/thunes-and-hyperwallet-a-paypal-service-expand-payout-access-for-merchants-acr/)
+append_entries: 2
+Finish: 2025-01-14 12:39:09.370157
