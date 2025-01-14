@@ -4920,3 +4920,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Theresa Taylor And David Miller Re-Elected As CalPERS Board President, Vice President](http://www.mondovisione.com/media-and-resources/news/theresa-taylor-and-david-miller-re-elected-as-calpers-board-president-vice-pres/)
 append_entries: 5
 Finish: 2025-01-14 08:25:42.619645
+------------------------------------------------------
+Started: 2025-01-14 10:20:42.163419
+Existing_entries: 707
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Worldline Extends Long-Term Partnership With KBC For Issuing Services](http://www.mondovisione.com/media-and-resources/news/worldline-extends-long-term-partnership-with-kbc-for-issuing-services/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FSB Examines The Relevance Of Climate Transition Plans For Financial Stability](http://www.mondovisione.com/media-and-resources/news/fsb-examines-the-relevance-of-climate-transition-plans-for-financial-stability/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Moscow Exchange Trading Volumes In December 2024](http://www.mondovisione.com/media-and-resources/news/moscow-exchange-trading-volumes-in-december-2024/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Pico And BMLL Forge Groundbreaking Partnership To Offer Enhanced Historical And Real-Time Data Integration Capabilities - Partnership Offering Clients The Ability To Integrate BMLL And Pico’s Suite Of Products](http://www.mondovisione.com/media-and-resources/news/pico-and-bmll-forge-groundbreaking-partnership-to-offer-enhanced-historical-and/)
+append_entries: 4
+Finish: 2025-01-14 10:20:43.614143
