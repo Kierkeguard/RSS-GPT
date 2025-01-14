@@ -4899,3 +4899,24 @@ Existing_entries: 702
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-01-14 06:27:20.958267
+------------------------------------------------------
+Started: 2025-01-14 08:25:40.907573
+Existing_entries: 702
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASK Private Wealth Widens Its Global Footprint Through New DIFC Office To Serve NRIs And Global Investors](http://www.mondovisione.com/media-and-resources/news/ask-private-wealth-widens-its-global-footprint-through-new-difc-office-to-serve/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Gulf Mercantile Exchange Reports Strong Growth In 2024 Performance, Highlighting 12% Increase In Total Volume](http://www.mondovisione.com/media-and-resources/news/gulf-mercantile-exchange-reports-strong-growth-in-2024-performance-highlighting/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Twelve Firms To Pay More Than $63 Million Combined To Settle SEC’s Charges For Recordkeeping Failures - One Firm Received Credit For Self-Reporting And Will Pay A Reduced Civil Penalty](http://www.mondovisione.com/media-and-resources/news/twelve-firms-to-pay-more-than-63-million-combined-to-settle-secs-charges-for-r/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC: Two Robinhood Broker-Dealers To Pay $45 Million In Combined Penalties For Violating More Than 10 Separate Securities Law Provisions](http://www.mondovisione.com/media-and-resources/news/sec-two-robinhood-broker-dealers-to-pay-45-million-in-combined-penalties-for-v/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Theresa Taylor And David Miller Re-Elected As CalPERS Board President, Vice President](http://www.mondovisione.com/media-and-resources/news/theresa-taylor-and-david-miller-re-elected-as-calpers-board-president-vice-pres/)
+append_entries: 5
+Finish: 2025-01-14 08:25:42.619645
