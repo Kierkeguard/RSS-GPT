@@ -57,3 +57,18 @@ Existing_entries: 15
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-01-15 14:18:36.436088
+------------------------------------------------------
+Started: 2025-01-15 16:24:48.010581
+Existing_entries: 15
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Announces Departure Of Chief Economist Jessica Wachter](http://www.mondovisione.com/media-and-resources/news/sec-announces-departure-of-chief-economist-jessica-wachter/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Monitoring Impact Of California Wildfires On Capital Markets](http://www.mondovisione.com/media-and-resources/news/sec-monitoring-impact-of-california-wildfires-on-capital-markets/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cboe Unveils New Brand For Exchange Technology Platform, Marking New Chapter In Technology Innovation And Growth](http://www.mondovisione.com/media-and-resources/news/cboe-unveils-new-brand-for-exchange-technology-platform-marking-new-chapter-in/)
+append_entries: 3
+Finish: 2025-01-15 16:24:49.040817
