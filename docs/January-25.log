@@ -42,3 +42,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Keynote Address Dato’ Mohammad Faiz Azmi Chairman, Securities Commission, Malaysia PwC Malaysia’s Corporate Directors Survey 2024 Launch 15 January 2025](http://www.mondovisione.com/media-and-resources/news/keynote-address-dato-mohammad-faiz-azmi-chairman-securities-commission-malays/)
 append_entries: 4
 Finish: 2025-01-15 10:20:44.086719
+------------------------------------------------------
+Started: 2025-01-15 12:39:10.568584
+Existing_entries: 14
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Global Standard-Setting Bodies Publish Three Final Reports On Margin In Centrally And Non-Centrally Cleared Markets](http://www.mondovisione.com/media-and-resources/news/global-standard-setting-bodies-publish-three-final-reports-on-margin-in-centrall/)
+append_entries: 1
+Finish: 2025-01-15 12:39:11.602811
