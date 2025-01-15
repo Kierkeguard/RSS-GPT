@@ -72,3 +72,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Cboe Unveils New Brand For Exchange Technology Platform, Marking New Chapter In Technology Innovation And Growth](http://www.mondovisione.com/media-and-resources/news/cboe-unveils-new-brand-for-exchange-technology-platform-marking-new-chapter-in/)
 append_entries: 3
 Finish: 2025-01-15 16:24:49.040817
+------------------------------------------------------
+Started: 2025-01-15 18:26:38.202861
+Existing_entries: 18
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Joining The Dots - Speech By Nathanaël Benjamin, Bank Of England, Executive Director, Financial Stability Strategy And Risk, Given At The City UK](http://www.mondovisione.com/media-and-resources/news/joining-the-dots-speech-by-nathanal-benjamin-bank-of-england-executive-dire/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Bank Of England And The Commodity Futures Trading Commission Input Into Report On Initial Margin Transparency And Responsiveness In Centrally Cleared Markets](http://www.mondovisione.com/media-and-resources/news/the-bank-of-england-and-the-commodity-futures-trading-commission-input-into-repo/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Last Half Mile − Speech By Alan Taylor, Bank Of England, External Member Of The Monetary Policy Committee, Given At Leeds University Business School](http://www.mondovisione.com/media-and-resources/news/the-last-half-mile-speech-by-alan-taylor-bank-of-england-external-member-of/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [For The First Time, The Listing Of ETFs On Digital Assets - Tel Aviv Stock Exchange Continues To Develop The Israeli Capital Market And Introduce Innovative Products - Facilitating, For The First Time, The Listing Of ETFs On Digital Assets](http://www.mondovisione.com/media-and-resources/news/for-the-first-time-the-listing-of-etfs-on-digital-assets-tel-aviv-stock-excha/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Novobanco Expands Technology Partnership With Nasdaq Calypso To Simplify Its Capital Market Operations](http://www.mondovisione.com/media-and-resources/news/novobanco-expands-technology-partnership-with-nasdaq-calypso-to-simplify-its-cap/)
+append_entries: 5
+Finish: 2025-01-15 18:26:39.810133
