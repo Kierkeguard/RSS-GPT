@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>News Articles</title>
+<link>http://www.mondovisione.com/media-and-resources/news/</link>
+
+<item>
+<title>Publication Of "Japan Financial Services Agency Analytical Notes (2025.1) Vol.1"</title>
+<link>http://www.mondovisione.com/media-and-resources/news/publication-of-japan-financial-services-agency-analytical-notes-20251-vol1-1/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/publication-of-japan-financial-services-agency-analytical-notes-20251-vol1-1/</guid>
+<content:encoded><![CDATA[
+
+<p>The FSA published the English version of "FSA Analytical Notes (2025.1) vol.1".　&nbsp;<img class="pdf" src="https://www.fsa.go.jp/images/common/icon_pdf.gif" /><a href="https://www.fsa.go.jp/en/about/fsaanalyticalnotes/20250115/01.pdf">full text</a></p>
+<p>As financial institutions&rsquo; business environments and profit structures change, it is important to understand economic and market trends based on data, and to accurately grasp the business conditions of individual financial institutions and also the resilience and vulnerabilities of the financial system as a whole. From this perspective, the FSA&nbsp;has been focusing on the utilization of granular data, such as transaction-level bank loan data and financial data on individual corporations. Some case examples of data analyses using such granular data are published as a series of reports titled &ldquo;FSA Analytical Notes.&rdquo;</p>
+<p>This issue contains &ldquo;Analysis of Japanese Stock Market Turbulence in Early August 2024.&rdquo; It is notable in that it uses granular order/transaction level data to understand market conditions, while also taking into account information gathered from market participants and considerations based on macroeconomic and financial statistics.</p>
+<div><span><img class="pdf" src="https://www.fsa.go.jp/images/common/icon_pdf.gif" /><span size="3" style="font-size: small;"><strong><a href="https://www.fsa.go.jp/en/about/fsaanalyticalnotes/20250115/02.pdf">Analysis of Japanese Stock Market Turbulence in Early August 2024</a></strong></span></span></div>
+<div>
+<p>This paper presents a detailed analysis of the sharp swings that occurred in the Japanese stock market on August 5, 2024. With the use of granular order/transaction level data of the Nikkei 225 Futures, the FSA has developed several indicators to evaluate market supply, demand and liquidity conditions, including dominance by buyers/sellers, concentration by specific entities in transactions, price impact per contract amount and liquidity around the best quote.</p>
+<p>Closely following the year-to-date (until early August) and August 5 intraday movements of these indicators, the followings were suggested. On a daily basis from mid-July to early August, excessive imbalances were not observed but the market liquidity was markedly declining, making prices more susceptible to fluctuations. Furthermore, on an intraday basis focusing on August 5, market liquidity subsided rapidly toward the afternoon session. At these hours, take orders were found to be concentrated on the seller side. Combined, they may have caused rapid market turbulence.&nbsp;</p>
+<p>The use of granular data has provided a new insight into the background and mechanism of the market turbulence on August 5, 2024, compared to previous literature that has been based mainly on the views of market participants or macro-level aggregated statistics. This is a novelty of this paper. On the other hand, there is one important caveat. The analysis is obliged to focus on the Japanese stock market. While other domestic and overseas markets, including bond, foreign exchange and derivatives, should be ideally analyzed all together given their close interconnectedness, it was not possible due predominantly to the lack of data availability.</p>
+<p>Evaluating the impact of market fluctuations on financial stability is an important issue on the regulatory agenda. The FSA will continue to analyze the mechanism of sharp market turbulence and its impact on financial stability by enhancing analytical capabilities and expanding the scope of its analyses.</p>
+</div>
+<p>Enhancing the use of data in financial supervision and policy-making is a medium- to long-term agenda. The FSA will continue to build its data analysis capabilities and data infrastructure.</p>
+<p><span class="TextRun SCXW152501380 BCX8" xml:lang="EN-US">*&nbsp;</span><span>Unless otherwise noted, the figures and tables in this report were prepared by the FSA.</span></p>
+<p class="mt20"><a href="https://www.fsa.go.jp/en/about/fsaanalyticalnotes/index.html">Back to the table of contents</a></p>
+<dl class="contact_box"><dt>Contact</dt><dd>
+<p class="name">Macro-financial Stability and Data Strategy Office, Risk Analysis Division, Strategy Development and Management Bureau, Financial Services Agency</p>
+<p>Tel +81-(0)3-3506-6000<br />E-mail datastrategyoffice[at]fsa.go.jp</p>
+</dd></dl>
+]]></content:encoded>
+<pubDate>Wed, 15 Jan 2025 06:52:56 GMT</pubDate>
+<pubDate>Wed, 15 Jan 2025 06:52:56 GMT</pubDate>
+</item>
+<item>
+<title>Japan Securities Clearing Corporation: Global Standardization Of Regulatory Reporting Leveraging DRR &amp; CDM</title>
+<link>http://www.mondovisione.com/media-and-resources/news/japan-securities-clearing-corporation-global-standardization-of-regulatory-repo/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/japan-securities-clearing-corporation-global-standardization-of-regulatory-repo/</guid>
+<content:encoded><![CDATA[
+
+<p><span>Leveraging the new standardized framework for regulatory reporting based upon ISDA&rsquo;s (*1) globally promoted "Digital Regulatory Reporting (DRR)" solution and the FINOS (*2) open source managed "Common Domain Model (CDM)", JSCC plans to begin production-parallel operations of its regulatory reporting to the Financial Services Agency (FSA, the Japanese financial regulatory authority) and the CFTC (U.S. financial regulatory authority) from June 2025. JSCC is the first CCP (Central Counterparty) and Japanese entity to announce the adoption of DRR and CDM within a production environment.</span><br /><br /><span>JSCC joined The Linux Foundation in October 2023 and FINOS in June 2024 prior to its proof of concept utilizing DRR/CDM in August 2024, and has since conducted extensive discussions and experiments with major financial market organizations on the possibilities and future potential of open source software (OSS) and ecosystem-friendly solutions that can be shared globally and across industries. At the FINOS premier "Open Source in Finance Forum" held in New York in September 2024, JSCC's visionary efforts to date were recognized with JSCC being awarded the "Trailblazer Award."</span><br /><br /><span>JSCC President and CEO Konuma Yasuyuki said "Firstly, I would like to express my respect and gratitude to ISDA, FINOS, supporting developers, and all others involved with this cutting-edge global standard solution of DRR/CDM. I am also very pleased to now announce our plans to integrate DRR/CDM within our clearing organization processes. I want JSCC to continue its mid-long term perspective by proactively exploring further initiatives with global standardization and open sourced ecosystems that contribute to the advancement and stabilization of global financial markets."</span><br /><br /><span>&ldquo;We are delighted that JSCC is adopting ISDA&rsquo;s DRR as part of its regulatory reporting processes. By taking an industry-agreed interpretation of the reporting rules and converting it into code using the CDM, the ISDA DRR brings greater efficiency, automation, accuracy and consistency to the reporting of derivatives trades. ISDA has pledged to support 11 reporting rule sets in nine major jurisdictions through the DRR, so we look forward to working with JSCC as it rolls out its adoption,&rdquo; said Scott O&rsquo;Malia, Chief Executive of ISDA.</span><br /><br /><span>&ldquo;We are proud to have such an integral participant in the global market infrastructure like JSCC in the FINOS Community and to witness their swift adoption of the CDM,&rdquo; said Gabriele Columbro, Executive Director of FINOS and GM of Linux Foundation Europe. &ldquo;Since becoming an open standard in 2023 within our Open RegTech initiative, the CDM has seen substantial adoption by major financial institutions for regulatory applications. As this momentum continues, we anticipate more firms investing in open tooling to accelerate CDM adoption across a broader range of business use cases.&rdquo;</span><br /><br /><span>With the production parallel from June 2025, JSCC will begin comparative verification against its production data from the current system for IRS (interest rate swaps) transaction reporting to FSA and CFTC. JSCC will furthermore add CDS (credit default swaps) to its DRR/CDM based regulatory reporting and incrementally expand the DRR functionality (together with ISDA's plans to increase the number of target regulatory authorities).</span><br /><span>Additionally, because CDM's future-oriented design framework may contribute to the innovative evolution of future financial systems, JSCC will continue on a mid-long term perspective to explore through experiments CDM's applicable scope.</span></p>
+]]></content:encoded>
+<pubDate>Wed, 15 Jan 2025 07:05:07 GMT</pubDate>
+<pubDate>Wed, 15 Jan 2025 07:05:07 GMT</pubDate>
+</item>
+<item>
+<title>From Conformance To Performance: Governance As A Driver For Long-Term Listing Market Growth - Keynote Speech At The 2nd Hong Kong Capital Markets Forum 2025 - Dr Kelvin Wong Chairman Hong Kong Securities And Futures Commission, 15 January 2025</title>
+<link>http://www.mondovisione.com/media-and-resources/news/from-conformance-to-performance-governance-as-a-driver-for-long-term-listing-ma/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/from-conformance-to-performance-governance-as-a-driver-for-long-term-listing-ma/</guid>
+<content:encoded><![CDATA[
+
+<p>Honourable guests, ladies and gentlemen, good morning.</p>
+<p>Despite facing multiple challenges, 2024 proved to be rewarding and fruitful for Hong Kong's  capital markets, which made significant strides across various fronts.</p>
+<p>Our broad and deep listing market continued to develop in a healthy, resilient, and  sustainable manner. The Securities and Futures Commission (SFC) undertook tremendous  efforts to facilitate vibrant market growth in collaboration with the China Securities Regulatory  Commission (CSRC), other regulatory counterparts, and Hong Kong Exchanges and  Clearing Limited, while also ensuring effective communication with stakeholders. We are now  poised to embrace the new challenges and opportunities that 2025 will bring.</p>
+<p>As we begin this new year, I would like to reflect on our achievements from the past year.</p>
+<p>Click <a href="https://www.sfc.hk/en/Published-resources/-/media/8BA1D7C1E79D4A39ABCA812816BD2337.ashx" title="here">here</a> for full details.</p>
+]]></content:encoded>
+<pubDate>Wed, 15 Jan 2025 06:40:51 GMT</pubDate>
+<pubDate>Wed, 15 Jan 2025 06:40:51 GMT</pubDate>
+</item>
+<item>
+<title>Japan Financial Services Agency: Working Group On Improving Internal Audits Of Financial Institutions</title>
+<link>http://www.mondovisione.com/media-and-resources/news/japan-financial-services-agency-working-group-on-improving-internal-audits-of-f/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/japan-financial-services-agency-working-group-on-improving-internal-audits-of-f/</guid>
+<content:encoded><![CDATA[
+
+<h2>Summary</h2>
+<p>The FSA has decided to establish a &ldquo;Working Group on Improving Internal Audits of Financial Institutions&rdquo; to discuss issues involved in internal audits with related organizations and external experts.<br />In September 2024, the FSA published &ldquo;<a href="https://www.fsa.go.jp/en/news/2024/20241218/ia/20241218.html">Monitoring Report for Improving Internal Audits of Financial Institutions (2024)</a>&rdquo; which summarizes the monitoring results of not only large banking groups but also regional financial institutions, large securities companies, and large insurance companies, with the FSA&rsquo;s recognition of issues and expectations.<br /> The report mentions that the FSA will continue to promote the improvement of internal audits by proceeding with in-depth monitoring of financial institutions and that the FSA will consider the necessity of updating the &ldquo;<span class="icon-pdf"><img alt="PDF" src="https://www.fsa.go.jp/images/common/icon_pdf.gif" /></span><a href="https://www.fsa.go.jp/en/news/2024/20240220/01.pdf">Current Situation and Issues for Improving Internal Audits of Financial Institutions</a>&rdquo;&nbsp; (hereinafter referred to as the &ldquo;Current Situation and Issues&rdquo;) based on the results of the monitoring and international trends regarding internal audit, including reconsideration of classification of internal audits levels (phases).<br /> The FSA believes that &ldquo;Current Situation and Issues&rdquo; should be updated to be able to present viewpoints that encourage improvements in the internal audits of entire financial institutions and that secure trust in them from domestic and foreign stakeholders. In addition, &ldquo;Current Situation and Issues&rdquo; should be able to be utilized also by non-financial institutions and overseas financial regulators.<br />Based on discussions in the working group, the FSA will consider updating &ldquo;Current Situation and Issues.&rdquo;</p>
+<h2 class="mt-1half">Participating organizations</h2>
+<ul>
+<li class="indent">Financial industry associations (Representative companies)</li>
+</ul>
+<p class="indent">&nbsp; &nbsp;Japanese Bankers Association<br />&nbsp; &nbsp; &nbsp;&nbsp;Regional Banks Association of Japan<br />&nbsp; &nbsp; &nbsp; The Second Association of Regional Banks<br />&nbsp;　&nbsp; The National Association of Shinkin Banks<br />&nbsp;　&nbsp; Shinkumi Banks Association of Japan<br />&nbsp; 　 National Association of Labour Banks<br />&nbsp;<br />&nbsp; &nbsp; &nbsp; The Life Insurance Association of Japan<br />&nbsp; &nbsp; &nbsp; The General Insurance Association of Japan<br />&nbsp;<br />&nbsp; &nbsp; &nbsp; Japan Securities Dealers Association<br />&nbsp;<br />&nbsp; &nbsp; &nbsp; Japan Financial Services Association<br />&nbsp; &nbsp; &nbsp; Japan Payment Service Association<br />&nbsp; &nbsp; &nbsp; Japan Virtual and Crypto assets Exchange Association<br />&nbsp;<br />&nbsp; &nbsp; &nbsp; The Institute of Internal Auditors Japan<br />&nbsp; &nbsp; &nbsp; External institutions such as consulting firms<br />&nbsp;<br />&nbsp;Participating organizations may be made additions to or changed.</p>
+<dl class="contact_box"><dt>Contact</dt><dd>
+<p class="name">Inspection Administrator Office / the Office of Inspection on Risk Management, Risk Analysis Division, Strategy Development and Management Bureau, Financial Services Agency</p>
+<p>Tel +81-(0)3-3506-6000</p>
+</dd></dl>
+]]></content:encoded>
+<pubDate>Wed, 15 Jan 2025 06:47:32 GMT</pubDate>
+<pubDate>Wed, 15 Jan 2025 06:47:32 GMT</pubDate>
+</item>
+<item>
+<title>The SEC’s Unusual Capacity To Serve The Public, SEC Chair Gary Gensler, Washington D.C., Jan. 14, 2025</title>
+<link>http://www.mondovisione.com/media-and-resources/news/the-secs-unusual-capacity-to-serve-the-public-sec-chair-gary-gensler-washingt/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/the-secs-unusual-capacity-to-serve-the-public-sec-chair-gary-gensler-washingt/</guid>
+<content:encoded><![CDATA[
+
+<p>Good afternoon, welcome to this town hall, my final as Securities and Exchange Commission Chair.</p>
+<p>&ldquo;[Y]ou need administrators who are equipped to meet the best legal brains whom Wall Street always has at its disposal, who have stamina and do not weary of the fight, who are moved neither by blandishments nor fears, who in a word, unite public zeal with unusual capacity.&rdquo;<a href="https://www.sec.gov/newsroom/speeches-statements/gensler-sec-011425?utm_medium=email&amp;utm_source=govdelivery#_ftn1" name="_ftnref1">[1]</a></p>
+<p>So wrote Felix Frankfurter, a friend and advisor to President Franklin Roosevelt, and later Supreme Court Justice, in May of 1934 about the setting up of this great agency, the SEC.</p>
+<p>For most people, when they reflect back on their lives and a life well lived, they generally focus on what counts, their loved ones&mdash;families and friends&mdash;and their broader communities.&nbsp;</p>
+<p>That&rsquo;s how I think about public service. It&rsquo;s about giving back to our community, whether it be our neighborhood, county, or state&mdash;or, as we are so privileged to do as part of this agency, to this great nation of 335 million Americans.</p>
+<p>That&rsquo;s what the nearly 5,000 staff do at this remarkable agency. Your dedication to public service matters to everyday Americans, our economy, and U.S. standing in the world today. Further, your dedication to public service matters to everyday Americans, our economy, and U.S. standing in the world in the future.</p>
+<p>We owe a debt of gratitude to those who set up our nation&rsquo;s great institutions, including the SEC, which serve the public and promote an inclusive society.</p>
+<p>We owe a debt of gratitude to Roosevelt, Frankfurter, Chair Sam Rayburn,<a href="https://www.sec.gov/newsroom/speeches-statements/gensler-sec-011425?utm_medium=email&amp;utm_source=govdelivery#_ftn2" name="_ftnref2">[2]</a>&nbsp;Chair Duncan Fletcher,<a href="https://www.sec.gov/newsroom/speeches-statements/gensler-sec-011425?utm_medium=email&amp;utm_source=govdelivery#_ftn3" name="_ftnref3">[3]</a>&nbsp;and the SEC&rsquo;s first Chair Joe Kennedy. They all had significant roles in enacting the securities laws or setting up this agency.</p>
+<p>They all had lived through the 1920s when hucksters, fraudsters, scam artists, and Ponzi-like schemers took advantage of investors. They learned what happens when unregulated markets were left on their own.</p>
+<p>Roosevelt and Congress understood that capital markets work best when they have both competition and common-sense rules of the road that lower risk and build trust.</p>
+<p>I, too, deeply believe in capital markets, competition, and common-sense rules of the road that benefit investors and issuers alike.</p>
+<p>That&rsquo;s why you and this agency play such a critical role in overseeing the markets and ensuring for compliance with U.S. securities laws&rsquo; common-sense rules of the road.</p>
+<p>I&rsquo;m so impressed by your dedication to public service, helping build better lives for the communities of today and tomorrow. No doubt many of you have made significant tradeoffs, financial and otherwise, to serve at the SEC. Most could get paid more working outside of government.</p>
+<p>You work to ensure that our capital markets are competitive and inclusive, that they work for investors and issuers alike and not the other way around.</p>
+<p>Our great institution has helped support this country&rsquo;s economic success these last 90 years. You have helped make our capital markets the deepest, most liquid, and best in the world. Your work maintaining fair, orderly, and efficient markets has helped raise the stature of the dollar and U.S. geopolitical standing.</p>
+<p>As we all know, Joe Kennedy wasn&rsquo;t the only one in his family who was drawn to the great privilege of public service. His son, President John F. Kennedy, said, &ldquo;Let the public service be a proud and lively career.&rdquo;<a href="https://www.sec.gov/newsroom/speeches-statements/gensler-sec-011425?utm_medium=email&amp;utm_source=govdelivery#_ftn4" name="_ftnref4">[4]</a>&nbsp;So inspired by these words, I also referenced them at the town hall held 11 years ago when leaving the Commodity Futures Trading Commission.</p>
+<p>Serving the public in everchanging markets, technology and, yes, leadership of this agency, you all certainly have signed up for a proud and lively career.</p>
+<p>My mom and dad never went to college. Three of my grandparents never got past 8<span>th</span>&nbsp;grade. They wanted what every Americans wants: a better future for their family.</p>
+<p>William O. Douglas, the third SEC Chair and friend of Frankfurter, Roosevelt, and both Kennedys, said when speaking of the SEC, that we&rsquo;re &ldquo;the investors&rsquo; advocate.&rdquo;<a href="https://www.sec.gov/newsroom/speeches-statements/gensler-sec-011425?utm_medium=email&amp;utm_source=govdelivery#_ftn5" name="_ftnref5">[5]</a>&nbsp;It&rsquo;s so appropriate that protecting investors is the first part of our three-part mission. The other two parts of our mission&mdash;maintaining fair, orderly, and efficient markets and facilitating capital formation&mdash;are deeply reliant on protecting investors. Investors won&rsquo;t come to a market they don&rsquo;t trust.</p>
+<p>I&rsquo;m not going to pick a favorite among the various roles in which I&rsquo;ve had the privilege to serve over the years. I will say, though, that a distinguishing feature of this agency and you the staff is just how clearly you know, understand, and are truly dedicated to the agency&rsquo;s mission.</p>
+<p>I thank you for taking me into your family these last four years and sharing this journey.</p>
+<p>I thank my fellow Commissioners with whom I&rsquo;ve served: Allison Lee, Elad Roisman, Hester Peirce, Caroline Crenshaw, Mark Uyeda, and Jaime Liz&aacute;rraga.</p>
+<p>I thank President Biden for nominating me and the U.S. Senate for confirming me to be Chair of the SEC. I thank my fellow regulators, here in the United States and abroad.</p>
+<p>I want to give a special shoutout and thanks for all of those who have served these last four years in the Chair&rsquo;s office, as division directors, and as office heads. Though there&rsquo;s not enough time to name everyone, a special thank you to our two chiefs of staff over the years, Prashant Yerramalli and Amanda Fischer, for their wise counsel and help guiding the agency.</p>
+<p>We&rsquo;ve gotten a lot done together for the American public. It&rsquo;s not measured in the thousands of cases (though there have been 2,700). It&rsquo;s not measured in the monetary returns to the public (though there have been $2.7 billion). It&rsquo;s not measured in rules we&rsquo;ve finalized (though we completed 46). It&rsquo;s not measured in the votes this Commission has taken together (though there have been more than 4,000). To me, it&rsquo;s best measured by what we gave back to our community, helping Americans in their everyday lives now and into the future.</p>
+<p>You helped lower costs, lower risks, and enhance integrity in our two largest markets, the nearly $60 trillion stock market<a href="https://www.sec.gov/newsroom/speeches-statements/gensler-sec-011425?utm_medium=email&amp;utm_source=govdelivery#_ftn6" name="_ftnref6">[6]</a>&nbsp;and the $28 trillion Treasury market.<a href="https://www.sec.gov/newsroom/speeches-statements/gensler-sec-011425?utm_medium=email&amp;utm_source=govdelivery#_ftn7" name="_ftnref7">[7]</a>&nbsp;You shortened the settlement cycle in half so people who sell their stock on a Monday now get their cash on a Tuesday.<a href="https://www.sec.gov/newsroom/speeches-statements/gensler-sec-011425?utm_medium=email&amp;utm_source=govdelivery#_ftn8" name="_ftnref8">[8]</a></p>
+<p>You helped enhance the transparency and integrity of public company corporate governance, including by imposing new cooling-off periods and other conditions before corporate insiders who may have material nonpublic information can trade in their company&rsquo;s securities.<a href="https://www.sec.gov/newsroom/speeches-statements/gensler-sec-011425?utm_medium=email&amp;utm_source=govdelivery#_ftn9" name="_ftnref9">[9]</a></p>
+<p>You met the demands of investors for greater disclosure around issuers&rsquo; material cyber<a href="https://www.sec.gov/newsroom/speeches-statements/gensler-sec-011425?utm_medium=email&amp;utm_source=govdelivery#_ftn10" name="_ftnref10">[10]</a>&nbsp;and climate<a href="https://www.sec.gov/newsroom/speeches-statements/gensler-sec-011425?utm_medium=email&amp;utm_source=govdelivery#_ftn11" name="_ftnref11">[11]</a>&nbsp;risks and promoted greater integrity in the market for special purpose acquisition companies.<a href="https://www.sec.gov/newsroom/speeches-statements/gensler-sec-011425?utm_medium=email&amp;utm_source=govdelivery#_ftn12" name="_ftnref12">[12]</a></p>
+<p>You helped put in place rules requiring covered broker-dealers and investment advisers to notify customers of data breaches that might put personal information at risk.<a href="https://www.sec.gov/newsroom/speeches-statements/gensler-sec-011425?utm_medium=email&amp;utm_source=govdelivery#_ftn13" name="_ftnref13">[13]</a></p>
+<p>With an eye on financial stability, you updated rules for the $7 trillion money market funds sector<a href="https://www.sec.gov/newsroom/speeches-statements/gensler-sec-011425?utm_medium=email&amp;utm_source=govdelivery#_ftn14" name="_ftnref14">[14]</a>&nbsp;and the information we collect from the $30 trillion private funds sector.<a href="https://www.sec.gov/newsroom/speeches-statements/gensler-sec-011425?utm_medium=email&amp;utm_source=govdelivery#_ftn15" name="_ftnref15">[15]</a></p>
+<p>You helped reinvigorate the Public Company Accounting Oversight Board (PCAOB) and, for the first time, ensure that Chinese authorities would allow the PCAOB to inspect and investigate audit firms in China.<a href="https://www.sec.gov/newsroom/speeches-statements/gensler-sec-011425?utm_medium=email&amp;utm_source=govdelivery#_ftn16" name="_ftnref16">[16]</a>&nbsp;&nbsp;</p>
+<p>You vigorously followed the facts and the law without fear or favor to ensure that market participants comply with the securities laws, whether it be regarding traditional financial products or more recent ones like crypto.</p>
+<p>You set the stage for important debates to come with regard to the growing use of artificial intelligence in the world of finance.</p>
+<p>You&rsquo;ve done all this great work while also maintaining the SEC as one of the best places to work in government.<a href="https://www.sec.gov/newsroom/speeches-statements/gensler-sec-011425?utm_medium=email&amp;utm_source=govdelivery#_ftn17" name="_ftnref17">[17]</a></p>
+<p>In that same 1934 letter, Frankfurter wrote these additional words to Roosevelt: &ldquo;Now the administration of the Stock Exchange Act will, I am sure, be even more difficult and call for greater skill, resourcefulness, firmness as well as fairness of temper, a wil1 not worn down by fatigue, than has been the work of the older regulatory commissions. The problems are more subtle, the abuses less obvious, the public more misleadable and the consequences of non-action more far reaching.&rdquo;<a href="https://www.sec.gov/newsroom/speeches-statements/gensler-sec-011425?utm_medium=email&amp;utm_source=govdelivery#_ftn18" name="_ftnref18">[18]</a></p>
+<p>I want to thank you for your stamina. For not wearying of the fight. For not being moved my blandishment nor fears. For your unusual capacity to serve the public.</p>
+<div>&nbsp; 
+<hr align="left" size="1" width="33%" />
+<div id="ftn1">
+<p><a href="https://www.sec.gov/newsroom/speeches-statements/gensler-sec-011425?utm_medium=email&amp;utm_source=govdelivery#_ftnref1" name="_ftn1">[1]</a>&nbsp;<i>See</i>&nbsp;Securities and Exchange Commission Historical Society, Felix Frankfurter letter to President Roosevelt (May 23, 1934),&nbsp;<i>available at</i>&nbsp;<a class="ext" href="https://www.sechistorical.org/collection/papers/1930/1934_05_23_Frankfurter_to_FD.pdf" title="(opens in a new window)">https://www.sechistorical.org/collection/papers/1930/1934_05_23_Frankfurter_to_FD.pdf</a>.</p>
+</div>
+<div id="ftn2">
+<p><a href="https://www.sec.gov/newsroom/speeches-statements/gensler-sec-011425?utm_medium=email&amp;utm_source=govdelivery#_ftnref2" name="_ftn2">[2]</a>&nbsp;Rayburn was Chair of the House Committee on Interstate and Foreign Commerce when he worked with President Franklin Roosevelt to establish the nation&rsquo;s first federal securities laws. He sponsored the House version of what became the Securities Act of 1933. He later served as Speaker of the House.</p>
+</div>
+<div id="ftn3">
+<p><a href="https://www.sec.gov/newsroom/speeches-statements/gensler-sec-011425?utm_medium=email&amp;utm_source=govdelivery#_ftnref3" name="_ftn3">[3]</a>&nbsp;Fletcher was Chair of the Banking and Currency Committee and was the Senate Sponsor of the Fletcher-Rayburn bill, which is known as the Securities Exchange Act of 1934.</p>
+</div>
+<div id="ftn4">
+<p><a href="https://www.sec.gov/newsroom/speeches-statements/gensler-sec-011425?utm_medium=email&amp;utm_source=govdelivery#_ftnref4" name="_ftn4">[4]</a>&nbsp;<i>See</i>&nbsp;John F. Kennedy Presidential Library and Museum, &ldquo;John F. Kennedy Quotations,&rdquo;&nbsp;<i>available at</i>&nbsp;<a class="ext" href="https://www.jfklibrary.org/learn/about-jfk/life-of-john-f-kennedy/john-f-kennedy-quotations" title="(opens in a new window)">https://www.jfklibrary.org/learn/about-jfk/life-of-john-f-kennedy/john-f-kennedy-quotations</a>.</p>
+</div>
+<div id="ftn5">
+<p><a href="https://www.sec.gov/newsroom/speeches-statements/gensler-sec-011425?utm_medium=email&amp;utm_source=govdelivery#_ftnref5" name="_ftn5">[5]</a>&nbsp;<i>See</i>&nbsp;SEC Historical Society, &ldquo;William O. Douglas and the Growing Power of the SEC&rdquo; (December 2005),&nbsp;<i>available at</i>&nbsp;<a class="ext" href="https://www.sechistorical.org/museum/galleries/douglas/#note1" title="(opens in a new window)">https://www.sechistorical.org/museum/galleries/douglas/#note1</a>.</p>
+</div>
+<div id="ftn6">
+<p><a href="https://www.sec.gov/newsroom/speeches-statements/gensler-sec-011425?utm_medium=email&amp;utm_source=govdelivery#_ftnref6" name="_ftn6">[6]</a>&nbsp;<i>See</i>&nbsp;Securities and Exchange Commission, &ldquo;SEC Adopts Rules to Amend Minimum Pricing Increments and Access Fee Caps and to Enhance the Transparency of Better Priced Orders&rdquo; (Sept. 18, 2024),&nbsp;<i>available at&nbsp;</i><a href="https://www.sec.gov/newsroom/press-releases/2024-137">https://www.sec.gov/newsroom/press-releases/2024-137</a>.&nbsp;<i>See also</i>&nbsp;Securities and Exchange Commission, &ldquo;SEC Adopts Amendments to Enhance Disclosure of Order Execution Information&rdquo; (March 6, 2024),&nbsp;<i>available at</i>&nbsp;<a href="https://www.sec.gov/newsroom/press-releases/2024-32">https://www.sec.gov/newsroom/press-releases/2024-32</a>.</p>
+</div>
+<div id="ftn7">
+<p><a href="https://www.sec.gov/newsroom/speeches-statements/gensler-sec-011425?utm_medium=email&amp;utm_source=govdelivery#_ftnref7" name="_ftn7">[7]</a>&nbsp;<i>See</i>&nbsp;Securities and Exchange Commission, &ldquo;SEC Adopts Rules to Improve Risk Management in Clearance and Settlement and Facilitate Additional Central Clearing for the U.S. Treasury Market&rdquo; (Dec. 13, 2023),&nbsp;<i>available at</i>&nbsp;<a href="https://www.sec.gov/news/press-release/2023-247">https://www.sec.gov/news/press-release/2023-247</a>; See also Securities and Exchange Commission, &ldquo;SEC Adopts Amendments to Exemption From National Securities Association Membership&rdquo; (Aug. 23, 2023),&nbsp;<i>available at</i>&nbsp;<a href="https://www.sec.gov/newsroom/press-releases/2023-154">https://www.sec.gov/newsroom/press-releases/2023-154</a>.</p>
+</div>
+<div id="ftn8">
+<p><a href="https://www.sec.gov/newsroom/speeches-statements/gensler-sec-011425?utm_medium=email&amp;utm_source=govdelivery#_ftnref8" name="_ftn8">[8]</a>&nbsp;<i>See</i>&nbsp;Securities and Exchange Commission, &ldquo;SEC Finalizes Rules to Reduce Risks in Clearance and Settlement&rdquo; (Feb. 15, 2023),&nbsp;<i>available at</i>&nbsp;<a href="https://www.sec.gov/newsroom/press-releases/2023-29">https://www.sec.gov/newsroom/press-releases/2023-29</a>.</p>
+</div>
+<div id="ftn9">
+<p><a href="https://www.sec.gov/newsroom/speeches-statements/gensler-sec-011425?utm_medium=email&amp;utm_source=govdelivery#_ftnref9" name="_ftn9">[9]</a>&nbsp;<i>See</i>&nbsp;Securities and Exchange Commission, &ldquo;SEC Adopts Amendments to Modernize Rule 10b5-1 Insider Trading Plans and Related Disclosures&rdquo; (Dec. 14, 2022),&nbsp;<i>available at</i>&nbsp;<a href="https://www.sec.gov/news/press-release/2022-222">https://www.sec.gov/news/press-release/2022-222</a>.</p>
+<p><i>See also</i>&nbsp;Securities and Exchange Commission, &ldquo;SEC Adopts Compensation Recovery Listing Standards and Disclosure Rules&rdquo; (Oct. 26, 2022),&nbsp;<i>available at</i>&nbsp;<a href="https://www.sec.gov/news/press-release/2022-192">https://www.sec.gov/news/press-release/2022-192</a>.&nbsp;<i>See also</i>&nbsp;Securities and Exchange Commission, &ldquo;SEC Adopts Pay Versus Performance Disclosure Rules&rdquo; (Aug. 25, 2022),&nbsp;<i>available at</i>&nbsp;<a href="https://www.sec.gov/news/press-release/2022-149">https://www.sec.gov/news/press-release/2022-149</a>.&nbsp;<i>See&nbsp;</i>Securities and Exchange Commission, &ldquo;SEC Adopts Amendments to Rules Governing Beneficial Ownership Reporting&rdquo; (Oct. 10, 2023),&nbsp;<i>available at</i>&nbsp;<a href="https://www.sec.gov/news/press-release/2023-219">https://www.sec.gov/news/press-release/2023-219</a>.</p>
+</div>
+<div id="ftn10">
+<p><a href="https://www.sec.gov/newsroom/speeches-statements/gensler-sec-011425?utm_medium=email&amp;utm_source=govdelivery#_ftnref10" name="_ftn10">[10]</a>&nbsp;<i>See</i>&nbsp;Securities and Exchange Commission, &ldquo;SEC Adopts Rules on Cybersecurity Risk Management, Strategy, Governance, and Incident Disclosure by Public Companies&rdquo; (July 26, 2023),&nbsp;<i>available at</i>&nbsp;<a href="https://www.sec.gov/newsroom/press-releases/2023-139">https://www.sec.gov/newsroom/press-releases/2023-139</a>.</p>
+</div>
+<div id="ftn11">
+<p><a href="https://www.sec.gov/newsroom/speeches-statements/gensler-sec-011425?utm_medium=email&amp;utm_source=govdelivery#_ftnref11" name="_ftn11">[11]</a>&nbsp;<i>See</i>&nbsp;Securities and Exchange Commission, &ldquo;SEC Adopts Rules to Enhance and Standardize Climate-Related Disclosures for Investors&rdquo; (March 6, 2024),&nbsp;<i>available at</i>&nbsp;<a href="https://www.sec.gov/newsroom/press-releases/2024-31">https://www.sec.gov/newsroom/press-releases/2024-31</a>.</p>
+</div>
+<div id="ftn12">
+<p><a href="https://www.sec.gov/newsroom/speeches-statements/gensler-sec-011425?utm_medium=email&amp;utm_source=govdelivery#_ftnref12" name="_ftn12">[12]</a>&nbsp;<i>See</i>&nbsp;Securities and Exchange Commission, &ldquo;SEC Adopts Rules to Enhance Investor Protections Relating; to SPACs, Shell Companies, and Projections&rdquo; (Jan. 24, 2024),&nbsp;<i>available at</i>&nbsp;<a href="https://www.sec.gov/newsroom/press-releases/2024-8">https://www.sec.gov/newsroom/press-releases/2024-8</a>.</p>
+</div>
+<div id="ftn13">
+<p><a href="https://www.sec.gov/newsroom/speeches-statements/gensler-sec-011425?utm_medium=email&amp;utm_source=govdelivery#_ftnref13" name="_ftn13">[13]</a>&nbsp;<i>See</i>&nbsp;Securities and Exchange Commission, &ldquo;SEC Adopts Rule Amendments to Regulation S-P to Enhance Protection of Customer Information&rdquo; (May 16, 2024),&nbsp;<i>available at</i>&nbsp;<a href="https://www.sec.gov/newsroom/press-releases/2024-58">https://www.sec.gov/newsroom/press-releases/2024-58</a>.</p>
+</div>
+<div id="ftn14">
+<p><a href="https://www.sec.gov/newsroom/speeches-statements/gensler-sec-011425?utm_medium=email&amp;utm_source=govdelivery#_ftnref14" name="_ftn14">[14]</a>&nbsp;<i>See</i>&nbsp;Securities and Exchange Commission, &ldquo;SEC Adopts Money Market Fund Reforms and Amendments to Form PF Reporting Requirements for Large Liquidity Fund Advisers&rdquo; (July 12, 2023),&nbsp;<i>available at</i>&nbsp;<a href="https://www.sec.gov/newsroom/press-releases/2023-129">https://www.sec.gov/newsroom/press-releases/2023-129</a>.</p>
+</div>
+<div id="ftn15">
+<p><a href="https://www.sec.gov/newsroom/speeches-statements/gensler-sec-011425?utm_medium=email&amp;utm_source=govdelivery#_ftnref15" name="_ftn15">[15]</a>&nbsp;<i>See</i>&nbsp;Securities and Exchange Commission. &ldquo;SEC Adopts Amendments to Enhance Private Fund Reporting&rdquo; (May 3, 2023),&nbsp;<i>available at</i>&nbsp;<a href="https://www.sec.gov/newsroom/press-releases/2023-86">https://www.sec.gov/newsroom/press-releases/2023-86</a>;&nbsp;<i>See also</i>&nbsp;Securities and Exchange Commission, &ldquo;SEC Adopts Amendments to Enhance Private Fund Reporting&rdquo; (Feb. 8, 2024),&nbsp;<i>available at&nbsp;</i><a href="https://www.sec.gov/newsroom/press-releases/2024-17">https://www.sec.gov/newsroom/press-releases/2024-17</a>.</p>
+</div>
+<div id="ftn16">
+<p><a href="https://www.sec.gov/newsroom/speeches-statements/gensler-sec-011425?utm_medium=email&amp;utm_source=govdelivery#_ftnref16" name="_ftn16">[16]</a>&nbsp;<i>See</i>&nbsp;Gary Gensler, &ldquo;Statement on PCAOB Enforcement Actions Regarding China-based Firms&rdquo; (Nov. 30, 2023),&nbsp;<i>available at</i>&nbsp;<a href="https://www.sec.gov/newsroom/speeches-statements/gensler-statement-pcaob-113023">https://www.sec.gov/newsroom/speeches-statements/gensler-statement-pcaob-113023</a>.</p>
+</div>
+<div id="ftn17">
+<p><a href="https://www.sec.gov/newsroom/speeches-statements/gensler-sec-011425?utm_medium=email&amp;utm_source=govdelivery#_ftnref17" name="_ftn17">[17]</a>&nbsp;SEC staff rated the agency among the best places to work in the federal government for 2023; the SEC ranked third among midsized agencies for the second year in a row.&nbsp;<i>See</i>&nbsp;Partnership for Public Service, &ldquo;2023 Best Places to Work in the Federal Government,&rdquo;&nbsp;<i>available at</i>&nbsp;<a class="ext" href="https://bestplacestowork.org/rankings/detail/?c=SE00" title="(opens in a new window)">https://bestplacestowork.org/rankings/detail/?c=SE00</a>.</p>
+</div>
+<div id="ftn18">
+<p><a href="https://www.sec.gov/newsroom/speeches-statements/gensler-sec-011425?utm_medium=email&amp;utm_source=govdelivery#_ftnref18" name="_ftn18">[18]</a>&nbsp;<i>See</i>&nbsp;Securities and Exchange Commission Historical Society, Felix Frankfurter letter to President Roosevelt (May 23, 1934),&nbsp;<i>available at</i>&nbsp;<a class="ext" href="https://www.sechistorical.org/collection/papers/1930/1934_05_23_Frankfurter_to_FD.pdf" title="(opens in a new window)">https://www.sechistorical.org/collection/papers/1930/1934_05_23_Frankfurter_to_FD.pdf</a>.</p>
+</div>
+</div>
+]]></content:encoded>
+<pubDate>Wed, 15 Jan 2025 07:07:58 GMT</pubDate>
+<pubDate>Wed, 15 Jan 2025 07:07:58 GMT</pubDate>
+</item>
+<item>
+<title>SEC Charges Elon Musk For Violating The Beneficial Ownership Reporting Requirements Of The Federal Securities Laws</title>
+<link>http://www.mondovisione.com/media-and-resources/news/sec-charges-elon-musk-for-violating-the-beneficial-ownership-reporting-requireme/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/sec-charges-elon-musk-for-violating-the-beneficial-ownership-reporting-requireme/</guid>
+<content:encoded><![CDATA[
+
+<p>The Securities and Exchange Commission announced today that it has filed an action against Elon Musk alleging that he failed to timely file a beneficial ownership report with the Commission after acquiring beneficial ownership of more than five percent of the outstanding shares of Twitter, Inc. common stock, in violation of the beneficial ownership reporting requirements under the Securities Exchange Act of 1934 (&ldquo;Exchange Act&rdquo;). According to the SEC&rsquo;s complaint, Musk saved at least $150 million at the expense of Twitter shareholders by failing to timely file the beneficial ownership report.</p>
+<p>Congress enacted the beneficial ownership reporting requirements to, among other things, help investors make informed investment decisions by providing information about accumulations of certain classes of equity securities by persons who have the potential to change or influence control of the issuer companies.</p>
+<p>According to the SEC&rsquo;s complaint, after Musk failed to timely file a beneficial ownership report by March 24, 2022, he purchased more than $500 million worth of Twitter common stock between March 25, 2022 and April 1, 2022. As alleged, because Musk failed to timely file a beneficial ownership report with the SEC, he was able to make these purchases of Twitter common stock at artificially low prices from the unsuspecting public, who had not yet priced in the undisclosed material information of Musk&rsquo;s beneficial ownership of more than five percent of Twitter common stock and investment purpose. According to the SEC&rsquo;s complaint, Musk underpaid by at least $150 million for his purchases of Twitter common stock in this period. The complaint further alleges that, due to Musk&rsquo;s failure to timely file a beneficial ownership report with the SEC, investors that sold Twitter common stock between March 25, 2022 and April 1, 2022 did so at artificially low prices, thereby suffering substantial economic harm.</p>
+<p>The SEC&rsquo;s complaint, filed in the U.S. District Court for the District of Columbia, charges Musk with violating Section 13(d) of the Exchange Act and Rule 13d-1 thereunder. Section 13(d) imposes a strict liability standard. The complaint seeks permanent injunctive relief, disgorgement of ill-gotten gains plus prejudgment interest, and civil penalties.</p>
+<h2>Resources</h2>
+<ul class="field field--name-field-see-also field--type-entity-reference field--label-hidden field__items">
+<li class="field__item"><span class="media media--type-link media--view-mode-release-see-also-files"><a href="https://www.sec.gov/files/litigation/complaints/2025/comp26219.pdf">SEC Complaint</a></span></li>
+</ul>
+]]></content:encoded>
+<pubDate>Wed, 15 Jan 2025 06:37:16 GMT</pubDate>
+<pubDate>Wed, 15 Jan 2025 06:37:16 GMT</pubDate>
+</item>
+<item>
+<title>US Office Of The Comptroller Of The Currency Imposes Civil Money Penalties Against Three Former Executives Of Wells Fargo</title>
+<link>http://www.mondovisione.com/media-and-resources/news/us-office-of-the-comptroller-of-the-currency-imposes-civil-money-penalties-again/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/us-office-of-the-comptroller-of-the-currency-imposes-civil-money-penalties-again/</guid>
+<content:encoded><![CDATA[
+
+<p>The Office of the Comptroller of the Currency (OCC) today announced enforcement actions against three former senior executives of Wells Fargo Bank, N.A., Sioux Falls, South Dakota (bank). These actions were taken in response to the former executives&rsquo; unsafe or unsound banking practices related to the bank&rsquo;s systemic and widespread sales practices misconduct.</p>
+<p>The enforcement actions are described in two written decisions issued by Acting Comptroller of the Currency Michael J. Hsu, covering Claudia Russ Anderson and jointly covering David Julian and Paul McLinko, as follows:</p>
+<table class="row-border stripe dataTable no-footer dtr-inline" id="example_limited_1">
+<thead> 
+<tr>
+<th>Name</th><th>Former Position</th><th>Relief Ordered</th>
+</tr>
+</thead> 
+<tbody>
+<tr>
+<td>Claudia Russ Anderson</td>
+<td>Community Bank Group Risk Officer</td>
+<td>Prohibition Order and $10,000,000 Civil Money Penalty (CMP)</td>
+</tr>
+<tr>
+<td>David Julian</td>
+<td>Chief Auditor</td>
+<td>Personal Cease &amp; Desist Order and $7,000,000 CMP</td>
+</tr>
+<tr>
+<td>Paul McLinko</td>
+<td>Executive Audit Director</td>
+<td>Personal Cease &amp; Desist Order and $1,500,000 CMP</td>
+</tr>
+</tbody>
+</table>
+<p>The decision covering Ms. Anderson found that from 2013 to 2016, she failed to credibly challenge the bank&rsquo;s incentive compensation program, failed to institute effective controls to manage risks posed by sales practices misconduct, failed to escalate known or obvious risks, and repeatedly and consistently downplayed the sales practices misconduct. The decision also noted that Ms. Anderson committed violations of law by failing to provide information or providing false, incomplete, or misleading information to the OCC during its 2015 examinations.&nbsp;</p>
+<p>A separate decision concluded that during the same period, Mr. Julian and Mr. McLinko failed to plan and manage audit activity that would detect and document sales practices misconduct and failed to adequately escalate the sales practices misconduct. Mr. McLinko also failed to maintain professional independence from the Community Bank, the Bank&rsquo;s largest business line that housed the retail branches.</p>
+<p>The decisions issued today explained that under pressure to meet unreasonable sales goals, thousands of employees at the bank engaged in widespread sales practices misconduct.</p>
+<p>Today&rsquo;s written decisions and orders stem from the Notice of Charges the OCC filed in January 2020, which began the administrative litigation. An Administrative Law Judge issued three recommended decisions in December 2022 following a 38-day administrative hearing. These are the remaining outstanding enforcement actions among those that the OCC pursued against 11 individuals related to the bank&rsquo;s systemic and widespread sales practices misconduct. The OCC previously reached resolution with eight other former Wells Fargo senior bank executives, resulting in their payment of civil money penalties totaling $43,175,000.</p>
+<h2>Related Links</h2>
+<ul>
+<li><a href="https://www.occ.gov/static/enforcement-actions/eaAA-EC-2019-81.pdf" rel="noopener noreferrer" target="_blank">Comptroller Decision for Ms. Anderson</a>&nbsp;(PDF)</li>
+<li>Comptroller Decision for&nbsp;<a href="https://www.occ.gov/static/enforcement-actions/eaAA-EC-2019-71.pdf" rel="noopener noreferrer" target="_blank">Mr. Julian</a>&nbsp;and&nbsp;<a href="https://www.occ.gov/static/enforcement-actions/eaAA-EC-2019-72.pdf" rel="noopener noreferrer" target="_blank">Mr. McLinko</a>&nbsp;(PDF)</li>
+<li><a href="https://www.occ.gov/static/enforcement-actions/eaN20-001.pdf" rel="noopener noreferrer" target="_blank">Notice of Charges</a>&nbsp;(PDF)</li>
+<li><a href="https://occ.treas.gov/topics/laws-and-regulations/enforcement-actions/recent-selected-litigated-enforcement-actions.html" title="Recent Selected Litigated Enforcement Actions">Recent Selected Litigated Enforcement Actions</a></li>
+</ul>
+]]></content:encoded>
+<pubDate>Wed, 15 Jan 2025 06:43:45 GMT</pubDate>
+<pubDate>Wed, 15 Jan 2025 06:43:45 GMT</pubDate>
+</item>
+<item>
+<title>CFTC’s Review Of Nadex Sports Contract Submissions</title>
+<link>http://www.mondovisione.com/media-and-resources/news/cftcs-review-of-nadex-sports-contract-submissions/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/cftcs-review-of-nadex-sports-contract-submissions/</guid>
+<content:encoded><![CDATA[
+
+<p>The Commodity Futures Trading Commission today notified the North American Derivatives Exchange, Inc. (Nadex) d/b/a Crypto.com it will initiate a review of the two sports contracts that were self-certified and submitted to the CFTC on Dec. 19, 2024. As described in the submissions, the contracts are cash-settled, binary contracts.&nbsp;</p>
+<p>The contracts are based on the following underlying events:&nbsp;</p>
+<p>&bull;<span>&nbsp;</span>The association participant that is a title holder for the association title event for a given calendar year (Title Event). The association participant refers to any of the association participants in a given association, such as the National Football League, the National Hockey League, and/or the National Collegiate Athletic Association. Nadex&rsquo;s publicly-filed title event contract submission is available&nbsp;<a href="https://www.cftc.gov/IndustryOversight/IndustryFilings/TradingOrganizationProducts/54633">here</a>.<span>&nbsp;</span></p>
+<p>&bull;&nbsp;<span>&nbsp;</span>The hometown that hosts a celebration, such as a parade hometown celebration, for the association participant that is the title holder for an association in a given calendar year on a given date in recognition of the outcome of the Title Event. Nadex&rsquo;s publicly-filed hometown celebration contract submission is available&nbsp;<a href="https://www.cftc.gov/IndustryOversight/IndustryFilings/TradingOrganizationProducts/54633">here</a>.</p>
+<p>The CFTC determined the contracts may involve an activity enumerated in CFTC Regulation 40.11(a) and section 5c(c)(5)(C) of the Commodity Exchange Act. As required under CFTC Regulation 40.11(c)(1), the CFTC has requested that Nadex suspend any listing and trading of the two sports contracts during the review period.</p>
+<h2 class="block-title">RELATED LINKS</h2>
+<div class="form-group">
+<div class="view view-related-links-side-bar view-id-related_links_side_bar view-display-id-block_1 js-view-dom-id-b4e35b686afb51e53fec95935d55508a6524b31a71501a76ab2474766f3787e8">
+<div class="view-content">
+<div class="item-list">
+<ul>
+<li>
+<div class="views-field views-field-field-related-links">
+<div class="field-content"><a href="https://www.cftc.gov/filings/documents/2025/orgdcmnadexnotlett250114.pdf">NADEX Notification Letter</a></div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+]]></content:encoded>
+<pubDate>Tue, 14 Jan 2025 21:22:26 GMT</pubDate>
+<pubDate>Tue, 14 Jan 2025 21:22:26 GMT</pubDate>
+</item>
+<item>
+<title>SEC Announces Chief Accountant Paul Munter To Retire From Federal Service This Month</title>
+<link>http://www.mondovisione.com/media-and-resources/news/sec-announces-chief-accountant-paul-munter-to-retire-from-federal-service-this-m/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/sec-announces-chief-accountant-paul-munter-to-retire-from-federal-service-this-m/</guid>
+<content:encoded><![CDATA[
+
+<p>The Securities and Exchange Commission today announced that Chief Accountant Paul Munter plans to retire from federal service effective Jan. 24, 2025. Mr. Munter joined the agency in 2019, was named Acting Chief Accountant in 2021, and was appointed Chief Accountant in January 2023.</p>
+<p>&ldquo;I thank Paul for his leadership of the Office of the Chief Accountant, his counsel, and his clear accounting advice,&rdquo; said SEC Chair Gary Gensler. &ldquo;As Chief Accountant, he led the office in the critical work of ensuring that investors have access to the highest-quality financial disclosures from public companies. I wish him the best in his retirement from federal service.&rdquo;</p>
+<p>As Chief Accountant, Mr. Munter led the Commission&rsquo;s oversight of the Financial Accounting Standards Board, which issued many standards to drive improvements in information for investors including disaggregation of income statement expenses (<a class="ext" href="https://www.fasb.org/Page/Document?pdf=ASU%202024-03.pdf&amp;title=ACCOUNTING%20STANDARDS%20UPDATE%202024-03%E2%80%94Income%20Statement%E2%80%94Reporting%20Comprehensive%20Income%E2%80%94Expense%20Disaggregation%20Disclosures%20(Subtopic%20220-40):%20Disaggregation%20of%20Income%20Statement%20Expenses" title="(opens in a new window)">Accounting Standards Update 2024-03</a>), improvements in income tax disclosures (<a class="ext" href="https://www.fasb.org/page/document?pdf=ASU%202023-09.pdf&amp;title=ACCOUNTING%20STANDARDS%20UPDATE%202023-09%E2%80%94Income%20Taxes%20(Topic%20740):%20Improvements%20to%20Income%20Tax%20Disclosures" title="(opens in a new window)">Accounting Standards Update 2023-09</a>), and accounting for investments in crypto assets (<a class="ext" href="https://www.fasb.org/page/Document?pdf=ASU%202023-08.pdf&amp;title=ACCOUNTING%20STANDARDS%20UPDATE%202023-08%E2%80%94Intangibles%E2%80%94Goodwill%20and%20Other%E2%80%94Crypto%20Assets%20(Subtopic%20350-60):%20Accounting%20for%20and%20Disclosure%20of%20Crypto%20Assets" title="(opens in a new window)">Accounting Standards Update 2023-08</a>). Additionally, the Office of the Chief Accountant led the Commission&rsquo;s oversight of the activities of the Public Company Accounting Oversight Board, which issued a number of new or improved auditing standards related to quality control, use of other auditors, confirmations, and general responsibilities of the audit.</p>
+<p>During Mr. Munter&rsquo;s tenure, he published&nbsp;<a href="https://www.sec.gov/newsroom/speeches-statements?speaker=303891&amp;field_person_target_id=Paul%20Munter">22 statements and speeches</a>&nbsp;addressing matters such as financial reporting issues by special purpose acquisition companies, materiality assessment, risk assessment, auditor independence, and audit firm culture.</p>
+<p>&ldquo;It has been the honor of my career to serve investors and our markets as the Chief Accountant for the past four-plus years and lead the outstandingly talented and dedicated professionals of the Office of the Chief Accountant,&rdquo; said Mr. Munter.</p>
+<p>Prior to arriving at the SEC, Mr. Munter was a senior instructor of accounting at the University of Colorado Boulder. He retired from KPMG, where he served as the lead technical partner for the U.S. firm&rsquo;s international accounting and International Financial Reporting Standards (IFRS) activities and served on the firm&rsquo;s international panel responsible for establishing firm positions on the application of IFRS.</p>
+<p>Mr. Munter earned his Ph.D. in accounting from the University of Colorado. He received his B.S. and M.S. degrees in accounting from Fresno State University. He is a Certified Public Accountant in Colorado, New York, and Florida.</p>
+]]></content:encoded>
+<pubDate>Tue, 14 Jan 2025 19:15:50 GMT</pubDate>
+<pubDate>Tue, 14 Jan 2025 19:15:50 GMT</pubDate>
+</item>
+<item>
+<title>US Federal And State Financial Regulatory Agencies Issue Interagency Statement On Supervisory Practices Regarding Financial Institutions Affected By The California Wildfires And Straight-Line Winds</title>
+<link>http://www.mondovisione.com/media-and-resources/news/us-federal-and-state-financial-regulatory-agencies-issue-interagency-statement-o-12/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/us-federal-and-state-financial-regulatory-agencies-issue-interagency-statement-o-12/</guid>
+<content:encoded><![CDATA[
+
+<p>The California Department of Financial Protection and Innovation, the Federal Deposit Insurance Corporation, the Federal Reserve Board, the National Credit Union Administration, and the Office of the Comptroller of the Currency, collectively the agencies, recognize the serious impact of the California wildfires and straight-line winds on the customers and operations of many financial institutions and will provide appropriate regulatory assistance to affected institutions subject to their supervision. The agencies encourage institutions operating in the affected areas to meet the financial services needs of their communities.</p>
+<p>A complete list of the current disaster areas can be found at&nbsp;<a href="https://www.fema.gov/disaster/declarations" target="_blank">https://www.fema.gov/disaster/declarations</a>.</p>
+<p><strong>Lending:</strong>&nbsp;The agencies encourage financial institutions to work constructively with borrowers in communities affected by the California wildfires and straight-line winds. Prudent efforts to adjust or alter terms on existing loans in affected areas are supported by the agencies and should not be subject to examiner criticism. In accordance with U.S. generally accepted accounting principles, institutions should individually evaluate modifications of existing loans to determine whether modifications made to borrowers experiencing financial difficulty should be accounted for as a new loan or a continuance of an existing loan. In making this evaluation, institutions should consider the facts and circumstances of each borrower and appropriately report the modification in the institution's call report. In supervising institutions affected by the California wildfires and straight-line winds, the agencies will consider the unusual circumstances these institutions face. The agencies recognize that efforts to work with borrowers in communities under stress can be consistent with safe-and-sound practices as well as in the public interest.</p>
+<p><strong>Temporary Facilities:</strong>&nbsp;The agencies understand that many financial institutions face staffing, power, telecommunications, and other challenges in re-opening facilities after the California wildfires and straight-line winds. In cases in which operational challenges persist, the primary federal or state regulator will expedite, as appropriate, any request to operate temporary facilities to provide more convenient availability of services to those affected by the California wildfires and straight-line winds. In most cases, a telephone notice to the primary federal or state regulator will suffice initially to start the approval process, with necessary written notification being submitted shortly thereafter.</p>
+<p><strong>Publishing Requirements:</strong>&nbsp;The agencies understand that the damage caused by the California wildfires and straight-line winds may affect compliance with publishing and other requirements for branch closings, relocations, and temporary facilities under various laws and regulations. Institutions experiencing disaster-related difficulties in complying with any publishing or other requirements should contact their primary federal or state regulator.</p>
+<p><strong>Regulatory Reporting Requirements:</strong>&nbsp;Institutions affected by the California wildfires and straight-line winds that expect to encounter difficulty meeting the agencies' reporting requirements should contact their primary federal or state regulator to discuss their situation. The agencies do not expect to assess penalties or take other supervisory action against institutions that take reasonable and prudent steps to comply with the agencies' regulatory reporting requirements if those institutions are unable to fully satisfy those requirements because of the California wildfires and straight-line winds.</p>
+<p>The agencies' staffs stand ready to work with affected institutions that may be experiencing problems fulfilling their reporting responsibilities, taking into account each institution's particular circumstances, including the status of its reporting and recordkeeping systems and the condition of its underlying financial records.</p>
+<p><strong>Community Reinvestment Act (CRA):</strong>&nbsp;Financial institutions may receive CRA consideration for community development loans, investments, or services that revitalize or stabilize federally designated disaster areas in their assessment areas or in the states or regions that include their assessment areas. For additional information, refer to the Interagency Questions and Answers Regarding Community Reinvestment at&nbsp;<a href="https://www.ffiec.gov/cra/qnadoc.htm" target="_blank">https://www.ffiec.gov/cra/qnadoc.htm</a>.</p>
+<p><strong>Investments:</strong>&nbsp;Institutions are encouraged to monitor municipal securities and loans affected by the California wildfires and straight-line winds. The agencies realize local government projects may be negatively affected by the disaster and encourage institutions to engage in appropriate monitoring and take prudent efforts to stabilize such investments.</p>
+<p>For more information, refer to the&nbsp;<em>Interagency Supervisory Examiner Guidance for Institutions Affected by a Major Disaster</em>, which is available as follows:</p>
+<p>FDIC:&nbsp;<a href="https://www.fdic.gov/news/news/financial/2017/fil17062a.pdf" target="_blank">https://www.fdic.gov/news/news/financial/2017/fil17062a.pdf</a></p>
+<p>FRB:&nbsp;<a href="https://www.federalreserve.gov/supervisionreg/srletters/sr1714a1.pdf" target="_blank">https://www.federalreserve.gov/supervisionreg/srletters/sr1714a1.pdf</a></p>
+<p>NCUA:&nbsp;<a href="https://www.ncua.gov/regulation-supervision/letters-credit-unions-other-guidance/examiner-guidance-institutions-affected-major-disaster" target="_blank">https://www.ncua.gov/regulation-supervision/letters-credit-unions-other-guidance/examiner-guidance-institutions-affected-major-disaster</a></p>
+<p>OCC:&nbsp;<a href="https://www.occ.treas.gov/news-issuances/bulletins/2017/bulletin-2017-61.html" title="Major Disasters">https://www.occ.gov/news-issuances/bulletins/2017/bulletin-2017-61.html</a></p>
+<p>State financial regulators:&nbsp;<a href="https://www.csbs.org/sites/default/files/2018-08/Interagency%20Supervsiory%20Examiner%20Guidance%20for%20Institutions%20Affected%20by%20a%20Major%20Disaster.pdf" target="_blank">https://www.csbs.org/interagency-supervisory-examiner-guidance-institutions-affected-major-disaster</a></p>
+<div class="panel-heading">
+<h5 class="panel-title text-capitalize">Related Content</h5>
+</div>
+<div class="panel-body">
+<p><a href="https://www.federalreserve.gov/supervisionreg/california-wildfires-2025.htm">Disaster Preparedness and Recovery Resources: California Wildfires</a></p>
+</div>
+]]></content:encoded>
+<pubDate>Tue, 14 Jan 2025 19:18:36 GMT</pubDate>
+<pubDate>Tue, 14 Jan 2025 19:18:36 GMT</pubDate>
+</item>
+
+</channel>
+</rss>
