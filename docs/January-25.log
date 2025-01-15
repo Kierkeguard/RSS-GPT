@@ -102,3 +102,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Deutsche Börse Group: Business Indicators For December 2024](http://www.mondovisione.com/media-and-resources/news/deutsche-brse-group-business-indicators-for-december-2024/)
 append_entries: 1
 Finish: 2025-01-15 20:20:54.665633
+------------------------------------------------------
+Started: 2025-01-15 22:18:17.840671
+Existing_entries: 24
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Corporate And Municipal CUSIP Request Volumes Decline In December - Full-Year 2024 Volumes Significantly Higher Than 2023](http://www.mondovisione.com/media-and-resources/news/corporate-and-municipal-cusip-request-volumes-decline-in-december-full-year-20/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Pacer ETFs Launches The Pacer Solactive Whitney Future Of Warfare ETF, Tracking The Solactive Whitney Future Of Warfare Index](http://www.mondovisione.com/media-and-resources/news/pacer-etfs-launches-the-pacer-solactive-whitney-future-of-warfare-etf-tracking/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [RJO Futures Introduces Bold Rebrand, New Website, RJO University](http://www.mondovisione.com/media-and-resources/news/rjo-futures-introduces-bold-rebrand-new-website-rjo-university/)
+append_entries: 3
+Finish: 2025-01-15 22:18:18.863804
