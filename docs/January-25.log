@@ -24,3 +24,21 @@ Append: [SEC Announces Chief Accountant Paul Munter To Retire From Federal Servi
 Append: [US Federal And State Financial Regulatory Agencies Issue Interagency Statement On Supervisory Practices Regarding Financial Institutions Affected By The California Wildfires And Straight-Line Winds](http://www.mondovisione.com/media-and-resources/news/us-federal-and-state-financial-regulatory-agencies-issue-interagency-statement-o-12/)
 append_entries: 10
 Finish: 2025-01-15 08:25:54.712030
+------------------------------------------------------
+Started: 2025-01-15 10:20:42.924703
+Existing_entries: 10
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Hanwha Asset Management Launches Hanwha PLUS Global Nuclear Energy Value Chain ETF Tracking the Solactive Global Nuclear Energy Value Chain Index](http://www.mondovisione.com/media-and-resources/news/hanwha-asset-management-launches-hanwha-plus-global-nuclear-energy-value-chain-e/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Droit Strengthens Leadership With Chief Strategy Officer - Appointment To Accelerate The Firm’s Global Growth Strategy](http://www.mondovisione.com/media-and-resources/news/droit-strengthens-leadership-with-chief-strategy-officer-appointment-to-accele/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Securities Commission Malaysia Announces New Board Member](http://www.mondovisione.com/media-and-resources/news/securities-commission-malaysia-announces-new-board-member/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Keynote Address Dato’ Mohammad Faiz Azmi Chairman, Securities Commission, Malaysia PwC Malaysia’s Corporate Directors Survey 2024 Launch 15 January 2025](http://www.mondovisione.com/media-and-resources/news/keynote-address-dato-mohammad-faiz-azmi-chairman-securities-commission-malays/)
+append_entries: 4
+Finish: 2025-01-15 10:20:44.086719
