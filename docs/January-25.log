@@ -93,3 +93,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Novobanco Expands Technology Partnership With Nasdaq Calypso To Simplify Its Capital Market Operations](http://www.mondovisione.com/media-and-resources/news/novobanco-expands-technology-partnership-with-nasdaq-calypso-to-simplify-its-cap/)
 append_entries: 5
 Finish: 2025-01-15 18:26:39.810133
+------------------------------------------------------
+Started: 2025-01-15 20:20:53.716460
+Existing_entries: 23
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Deutsche Börse Group: Business Indicators For December 2024](http://www.mondovisione.com/media-and-resources/news/deutsche-brse-group-business-indicators-for-december-2024/)
+append_entries: 1
+Finish: 2025-01-15 20:20:54.665633
