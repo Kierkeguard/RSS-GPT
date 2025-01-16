@@ -231,3 +231,25 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Amman Stock Exchange Weekly Summary](http://www.mondovisione.com/media-and-resources/news/amman-stock-exchange-weekly-summary-13/)
 append_entries: 4
 Finish: 2025-01-16 18:26:54.091729
+------------------------------------------------------
+Started: 2025-01-16 20:21:15.806046
+Existing_entries: 45
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ISDA: Marking A Milestone – IQ January 2025](http://www.mondovisione.com/media-and-resources/news/isda-marking-a-milestone-iq-january-2025/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [AMF Updates Its Supervisory Framework For Financial Institutions And Credit Assessment Agents](http://www.mondovisione.com/media-and-resources/news/amf-updates-its-supervisory-framework-for-financial-institutions-and-credit-asse/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Expands Leeds Office, Creating New Jobs And Affirming Its Commitment To Growth In The Region](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-expands-leeds-office-creating-new-jobs-and-affir/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The EBA And ESMA Analyse Recent Developments In Crypto-Assets](http://www.mondovisione.com/media-and-resources/news/the-eba-and-esma-analyse-recent-developments-in-crypto-assets/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Russell US Indexes To Move To A Semi-Annual Reconstitution Frequency From 2026](http://www.mondovisione.com/media-and-resources/news/russell-us-indexes-to-move-to-a-semi-annual-reconstitution-frequency-from-2026/)
+Append: [The EBA Consults On Guidelines On ESG Scenario Analysis](http://www.mondovisione.com/media-and-resources/news/the-eba-consults-on-guidelines-on-esg-scenario-analysis/)
+append_entries: 6
+Finish: 2025-01-16 20:21:16.821312
