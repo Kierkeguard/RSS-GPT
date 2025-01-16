@@ -117,3 +117,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [RJO Futures Introduces Bold Rebrand, New Website, RJO University](http://www.mondovisione.com/media-and-resources/news/rjo-futures-introduces-bold-rebrand-new-website-rjo-university/)
 append_entries: 3
 Finish: 2025-01-15 22:18:18.863804
+------------------------------------------------------
+Started: 2025-01-16 01:36:21.297263
+Existing_entries: 27
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-01-16 01:36:22.340868
