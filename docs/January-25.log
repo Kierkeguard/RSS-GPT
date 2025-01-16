@@ -189,3 +189,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Asia-Pacific Outperforms Other Regions Despite 1.4% Drop In Deal Activity In 2024, Reveals GlobalData](http://www.mondovisione.com/media-and-resources/news/asia-pacific-outperforms-other-regions-despite-14-drop-in-deal-activity-in-202/)
 append_entries: 5
 Finish: 2025-01-16 12:38:57.692530
+------------------------------------------------------
+Started: 2025-01-16 14:18:12.455857
+Existing_entries: 37
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-01-16 14:18:13.376287
