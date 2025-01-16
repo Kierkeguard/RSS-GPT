@@ -168,3 +168,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Broadridge Enhances Multi-Asset Post Trade Processing With GenAI-Powered Analytics](http://www.mondovisione.com/media-and-resources/news/broadridge-enhances-multi-asset-post-trade-processing-with-genai-powered-analyti/)
 append_entries: 1
 Finish: 2025-01-16 10:21:06.545356
+------------------------------------------------------
+Started: 2025-01-16 12:38:56.288094
+Existing_entries: 32
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BlockFills Achieves Highest Level Of Data Security, Service Controls In Digital Assets With Successful Completion Of SOC 2 Type II Examination](http://www.mondovisione.com/media-and-resources/news/blockfills-achieves-highest-level-of-data-security-service-controls-in-digital/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Mercuryo Launches Seamless On-ramps On Cardano Prediction Market Bodega](http://www.mondovisione.com/media-and-resources/news/mercuryo-launches-seamless-on-ramps-on-cardano-prediction-market-bodega/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Canton Network And QCP Announce Crypto Derivatives Margining Collaboration](http://www.mondovisione.com/media-and-resources/news/the-canton-network-and-qcp-announce-crypto-derivatives-margining-collaboration/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [AMINA Bank Supercharges Stablecoin Offering With Free USDC Custody - Clients Depositing Digital Dollars With This Leading Crypto Bank Can Grow Their Holdings Through Rewards Unencumbered By Custody Fees, Whilst Benefiting From Flexible Access, Industry-Leading Security, And Regulated Protection From Counterparty Risk](http://www.mondovisione.com/media-and-resources/news/amina-bank-supercharges-stablecoin-offering-with-free-usdc-custody-clients-dep/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Asia-Pacific Outperforms Other Regions Despite 1.4% Drop In Deal Activity In 2024, Reveals GlobalData](http://www.mondovisione.com/media-and-resources/news/asia-pacific-outperforms-other-regions-despite-14-drop-in-deal-activity-in-202/)
+append_entries: 5
+Finish: 2025-01-16 12:38:57.692530
