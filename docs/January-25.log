@@ -141,3 +141,21 @@ Existing_entries: 27
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-01-16 06:27:40.644835
+------------------------------------------------------
+Started: 2025-01-16 08:24:56.396836
+Existing_entries: 27
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SET And Partners Launch SET Carbon To Advance Thailand’s Carbon Data Management](http://www.mondovisione.com/media-and-resources/news/set-and-partners-launch-set-carbon-to-advance-thailands-carbon-data-management/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Appoints Scott Gregson As CEO](http://www.mondovisione.com/media-and-resources/news/asic-appoints-scott-gregson-as-ceo/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Charges Four Individuals For Long-Running Scheme To Unlawfully Trade In Advance Of Numerous Follow-On Offerings](http://www.mondovisione.com/media-and-resources/news/sec-charges-four-individuals-for-long-running-scheme-to-unlawfully-trade-in-adva/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nadex Product Schedule For The US Martin Luther King, Jr. Holiday On Monday, January 20, 2025](http://www.mondovisione.com/media-and-resources/news/nadex-product-schedule-for-the-us-martin-luther-king-jr-holiday-on-monday-jan-2/)
+append_entries: 4
+Finish: 2025-01-16 08:24:57.363258
