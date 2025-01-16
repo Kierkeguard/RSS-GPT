@@ -195,3 +195,21 @@ Existing_entries: 37
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-01-16 14:18:13.376287
+------------------------------------------------------
+Started: 2025-01-16 16:25:05.382091
+Existing_entries: 37
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Pacer ETFs Launches The Pacer US Cash Cows Bond ETF, Tracking The Solactive Pacer US Cash Cows Bond Index](http://www.mondovisione.com/media-and-resources/news/pacer-etfs-launches-the-pacer-us-cash-cows-bond-etf-tracking-the-solactive-pace/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [U.S. Department Of The Treasury Releases Guidance On Domestic Content Bonus For Clean Energy Credits - Bonus Will Help Boost American Manufacturing Of Solar Wafers And Other Components Critical For U.S. Energy Security](http://www.mondovisione.com/media-and-resources/news/us-department-of-the-treasury-releases-guidance-on-domestic-content-bonus-for/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FSB Develops Analytical Framework And Toolkit To Assess Climate-Related Vulnerabilities](http://www.mondovisione.com/media-and-resources/news/fsb-develops-analytical-framework-and-toolkit-to-assess-climate-related-vulnerab/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Fiserv To Release Fourth Quarter And Full Year Earnings Results On February 5, 2025](http://www.mondovisione.com/media-and-resources/news/fiserv-to-release-fourth-quarter-and-full-year-earnings-results-on-february-5-2/)
+append_entries: 4
+Finish: 2025-01-16 16:25:07.033145
