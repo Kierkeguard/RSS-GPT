@@ -213,3 +213,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Fiserv To Release Fourth Quarter And Full Year Earnings Results On February 5, 2025](http://www.mondovisione.com/media-and-resources/news/fiserv-to-release-fourth-quarter-and-full-year-earnings-results-on-february-5-2/)
 append_entries: 4
 Finish: 2025-01-16 16:25:07.033145
+------------------------------------------------------
+Started: 2025-01-16 18:26:53.009571
+Existing_entries: 41
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Commissioner Goldsmith Romero To Speak At Commodity Market Council’s 2025 State Of The Industry Conference](http://www.mondovisione.com/media-and-resources/news/cftc-commissioner-goldsmith-romero-to-speak-at-commodity-market-councils-2025-s/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Commissioner Goldsmith Romero To Provide Remarks At Global Blockchain Business Council’s 8th Annual Blockchain Central 2025](http://www.mondovisione.com/media-and-resources/news/cftc-commissioner-goldsmith-romero-to-provide-remarks-at-global-blockchain-busin/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Saudi Exchange Launches Its Fixed Income Market Making Framework](http://www.mondovisione.com/media-and-resources/news/saudi-exchange-launches-its-fixed-income-market-making-framework/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Amman Stock Exchange Weekly Summary](http://www.mondovisione.com/media-and-resources/news/amman-stock-exchange-weekly-summary-13/)
+append_entries: 4
+Finish: 2025-01-16 18:26:54.091729
