@@ -159,3 +159,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Nadex Product Schedule For The US Martin Luther King, Jr. Holiday On Monday, January 20, 2025](http://www.mondovisione.com/media-and-resources/news/nadex-product-schedule-for-the-us-martin-luther-king-jr-holiday-on-monday-jan-2/)
 append_entries: 4
 Finish: 2025-01-16 08:24:57.363258
+------------------------------------------------------
+Started: 2025-01-16 10:21:05.711798
+Existing_entries: 31
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Broadridge Enhances Multi-Asset Post Trade Processing With GenAI-Powered Analytics](http://www.mondovisione.com/media-and-resources/news/broadridge-enhances-multi-asset-post-trade-processing-with-genai-powered-analyti/)
+append_entries: 1
+Finish: 2025-01-16 10:21:06.545356
