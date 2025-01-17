@@ -271,3 +271,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [EBA Publishes Its Peer Review On The Application Of Proportionality Under The Supervisory Review And Evaluation Process](http://www.mondovisione.com/media-and-resources/news/eba-publishes-its-peer-review-on-the-application-of-proportionality-under-the-su/)
 append_entries: 4
 Finish: 2025-01-16 22:18:18.066179
+------------------------------------------------------
+Started: 2025-01-17 01:35:54.994759
+Existing_entries: 55
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Charges Two Sigma For Failing To Address Known Vulnerabilities In Its Investment Models - Firm Ignored Material Vulnerabilities For Years; Voluntarily Repaid Impacted Funds And Accounts $165 Million](http://www.mondovisione.com/media-and-resources/news/sec-charges-two-sigma-for-failing-to-address-known-vulnerabilities-in-its-invest/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Office Hours With Gary Gensler: The U.S. Capital Markets And The Securities and Exchange Commission, SEC Chair Gary Gensler, Washington D.C., Jan. 16, 2025](http://www.mondovisione.com/media-and-resources/news/office-hours-with-gary-gensler-the-us-capital-markets-and-the-securities-and/)
+append_entries: 2
+Finish: 2025-01-17 01:36:00.080684
