@@ -340,3 +340,18 @@ Existing_entries: 64
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-01-17 12:38:35.076353
+------------------------------------------------------
+Started: 2025-01-17 14:17:52.817207
+Existing_entries: 64
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Malawi Stock Exchange Weekly Summary Report, 17 January 2025](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-17-january-2025/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Response To Government Call For Regulators To Support Growth](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-response-to-government-call-for-regulators-to-sup/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESAs Publish Study On Feasibility Of Further Centralisation Of Major ICT-Related Incident Reporting By Financial Entities](http://www.mondovisione.com/media-and-resources/news/esas-publish-study-on-feasibility-of-further-centralisation-of-major-ict-related/)
+append_entries: 3
+Finish: 2025-01-17 14:17:53.719710
