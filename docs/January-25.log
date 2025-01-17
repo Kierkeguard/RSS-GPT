@@ -322,3 +322,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Japan Financial Services Agency: A Speech On “Remarks On Green Transition” At The Eurofi Financial Forum 2024](http://www.mondovisione.com/media-and-resources/news/japan-financial-services-agency-a-speech-on-remarks-on-green-transition-at-th/)
 append_entries: 5
 Finish: 2025-01-17 08:24:54.180477
+------------------------------------------------------
+Started: 2025-01-17 10:20:36.802191
+Existing_entries: 62
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The UK Prudential Regulation Authority Announces A Delay To The Implementation Of Basel 3.1](http://www.mondovisione.com/media-and-resources/news/the-uk-prudential-regulation-authority-announces-a-delay-to-the-implementation-o/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euronext Brussels Awards 2025 Honor Excellence And Innovation In Belgian Capital Markets](http://www.mondovisione.com/media-and-resources/news/euronext-brussels-awards-2025-honor-excellence-and-innovation-in-belgian-capital/)
+append_entries: 2
+Finish: 2025-01-17 10:20:37.915868
