@@ -355,3 +355,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ESAs Publish Study On Feasibility Of Further Centralisation Of Major ICT-Related Incident Reporting By Financial Entities](http://www.mondovisione.com/media-and-resources/news/esas-publish-study-on-feasibility-of-further-centralisation-of-major-ict-related/)
 append_entries: 3
 Finish: 2025-01-17 14:17:53.719710
+------------------------------------------------------
+Started: 2025-01-17 16:24:22.755213
+Existing_entries: 67
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Exchange Group - Option Markets - Electronic Filing Of Annual Reports](http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-option-markets-electronic-filing-of-annual-reports/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Charges GrubMarket With Overstating Revenue To Investors By More Than $500 Million](http://www.mondovisione.com/media-and-resources/news/sec-charges-grubmarket-with-overstating-revenue-to-investors-by-more-than-500-m/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [DMIST Publishes Consultation Paper On Position Transfers](http://www.mondovisione.com/media-and-resources/news/dmist-publishes-consultation-paper-on-position-transfers/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Charges LPL Financial With Anti-Money Laundering Violations](http://www.mondovisione.com/media-and-resources/news/sec-charges-lpl-financial-with-anti-money-laundering-violations/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Charges Pair Of Wells Fargo Advisory Firms And Merrill Lynch With Compliance Failures Relating To Cash Sweep Programs - Firms Agree To Pay Civil Penalties Of $60 Million Combined To Settle SEC Charges](http://www.mondovisione.com/media-and-resources/news/sec-charges-pair-of-wells-fargo-advisory-firms-and-merrill-lynch-with-compliance/)
+append_entries: 5
+Finish: 2025-01-17 16:24:24.195678
