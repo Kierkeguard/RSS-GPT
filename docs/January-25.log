@@ -301,3 +301,24 @@ Existing_entries: 57
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-01-17 06:27:46.397306
+------------------------------------------------------
+Started: 2025-01-17 08:24:52.833660
+Existing_entries: 57
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIX Fully Acquires Swiss Fund Data AG](http://www.mondovisione.com/media-and-resources/news/six-fully-acquires-swiss-fund-data-ag/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Invest Malaysia London 2025: Malaysia’s Economic Resurgence, Driving ASEAN’s Growth](http://www.mondovisione.com/media-and-resources/news/invest-malaysia-london-2025-malaysias-economic-resurgence-driving-aseans-gro/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Japan Securities And Exchange Surveillance Commission: Recommendation For Administrative Monetary Penalty Payment Order For Insider Trading In Shares Of Demae-Can Co., Ltd. By An Individual Residing Abroad](http://www.mondovisione.com/media-and-resources/news/japan-securities-and-exchange-surveillance-commission-recommendation-for-admini-7/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Enhancing Sponsors’ Value Proposition To Drive GEM Advancement - Keynote Address At The Association Of Hong Kong Capital Market Practitioners’ Seminar - Dr Kelvin Wong Chairman, Hong Kong Securities And Futures Commission, 17 January 2025](http://www.mondovisione.com/media-and-resources/news/enhancing-sponsors-value-proposition-to-drive-gem-advancement-keynote-address/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Japan Financial Services Agency: A Speech On “Remarks On Green Transition” At The Eurofi Financial Forum 2024](http://www.mondovisione.com/media-and-resources/news/japan-financial-services-agency-a-speech-on-remarks-on-green-transition-at-th/)
+append_entries: 5
+Finish: 2025-01-17 08:24:54.180477
