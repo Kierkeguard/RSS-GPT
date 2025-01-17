@@ -422,3 +422,24 @@ Append: [Federal Reserve Board Announces It Has Withdrawn From The Network Of Ce
 Append: [SEC Policy Director Corey Klemmer To Step Down](http://www.mondovisione.com/media-and-resources/news/sec-policy-director-corey-klemmer-to-step-down/)
 append_entries: 6
 Finish: 2025-01-17 20:20:43.880845
+------------------------------------------------------
+Started: 2025-01-17 22:18:02.867767
+Existing_entries: 86
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Announces Record Enforcement Actions Brought In First Quarter Of Fiscal Year 2025 - Commission Continued To Emphasize Benefits Of Cooperation And Remediation](http://www.mondovisione.com/media-and-resources/news/sec-announces-record-enforcement-actions-brought-in-first-quarter-of-fiscal-year/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Treasury International Capital Data For November](http://www.mondovisione.com/media-and-resources/news/treasury-international-capital-data-for-november-7/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Farewell Statement, SEC Commissioner Jaime Lizárraga](http://www.mondovisione.com/media-and-resources/news/farewell-statement-sec-commissioner-jaime-lizrraga/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Commitments Of Traders Reports Update](http://www.mondovisione.com/media-and-resources/news/cftc-commitments-of-traders-reports-update-49/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Announces Departure Of Public Affairs Head Scott Schneider](http://www.mondovisione.com/media-and-resources/news/sec-announces-departure-of-public-affairs-head-scott-schneider/)
+append_entries: 5
+Finish: 2025-01-17 22:18:04.601731
