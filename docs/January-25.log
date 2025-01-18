@@ -443,3 +443,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SEC Announces Departure Of Public Affairs Head Scott Schneider](http://www.mondovisione.com/media-and-resources/news/sec-announces-departure-of-public-affairs-head-scott-schneider/)
 append_entries: 5
 Finish: 2025-01-17 22:18:04.601731
+------------------------------------------------------
+Started: 2025-01-18 01:26:50.451872
+Existing_entries: 91
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-01-18 01:26:51.879754
