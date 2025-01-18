@@ -467,3 +467,26 @@ Existing_entries: 91
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-01-18 06:25:43.682447
+------------------------------------------------------
+Started: 2025-01-18 08:22:42.278161
+Existing_entries: 91
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Announces Departure Of Acting Enforcement Director Sanjay Wadhwa](http://www.mondovisione.com/media-and-resources/news/sec-announces-departure-of-acting-enforcement-director-sanjay-wadhwa/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [One Last Note To SEC Staff, SEC Chair Gary Gensler, Jan. 17, 2025](http://www.mondovisione.com/media-and-resources/news/one-last-note-to-sec-staff-sec-chair-gary-gensler-jan-17-2025/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Charges Arete Wealth Broker-Dealer And Advisory Firms, Their Chief Compliance Officer, And Several Representatives In Connection With Illegal Securities Offering - One Additional Individual Agreed To Resolve The SEC’s Charges For Unregistered Broker Activity](http://www.mondovisione.com/media-and-resources/news/sec-charges-arete-wealth-broker-dealer-and-advisory-firms-their-chief-complianc/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Justice Department Recovers An Additional $20M In Misappropriated 1MDB Funds](http://www.mondovisione.com/media-and-resources/news/us-justice-department-recovers-an-additional-20m-in-misappropriated-1mdb-funds/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BC Securities Commission Provides Evidence For Extending Temporary Order](http://www.mondovisione.com/media-and-resources/news/bc-securities-commission-provides-evidence-for-extending-temporary-order/)
+Append: [MarketAxess To Host Conference Call Announcing Fourth Quarter And Full-Year 2024 Financial Results On Thursday, February 6, 2025](http://www.mondovisione.com/media-and-resources/news/marketaxess-to-host-conference-call-announcing-fourth-quarter-and-full-year-2024/)
+Append: [US Secretary Of The Treasury Janet L. Yellen Sends Letter To Congressional Leadership On The Debt Limit](http://www.mondovisione.com/media-and-resources/news/us-secretary-of-the-treasury-janet-l-yellen-sends-letter-to-congressional-leade-16/)
+append_entries: 7
+Finish: 2025-01-18 08:22:43.932907
