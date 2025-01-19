@@ -538,3 +538,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SEC Chair Gary Gensler’s End Of Term Video](http://www.mondovisione.com/media-and-resources/news/sec-chair-gary-genslers-end-of-term-video/)
 append_entries: 1
 Finish: 2025-01-18 22:17:14.140843
+------------------------------------------------------
+Started: 2025-01-19 01:42:33.130193
+Existing_entries: 100
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-01-19 01:42:35.332041
