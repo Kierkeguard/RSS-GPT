@@ -705,3 +705,15 @@ Append: [ETFGI Reports The Global ETFs Industry Reached A New Milestone With 1,9
 Append: [GlobalData Announces Top M&A Financial And Legal Advisers In Metals & Mining Sector In 2024](http://www.mondovisione.com/media-and-resources/news/globaldata-announces-top-manda-financial-and-legal-advisers-in-metals-and-mining-sec-2/)
 append_entries: 6
 Finish: 2025-01-20 16:24:55.742765
+------------------------------------------------------
+Started: 2025-01-20 18:26:34.598577
+Existing_entries: 114
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nearly Three-In-Five CEOs Optimistic About Global Economic Outlook As They Plan Headcount Increases And Continued AI Rollout: PwC 2025 Global CEO Survey](http://www.mondovisione.com/media-and-resources/news/nearly-three-in-five-ceos-optimistic-about-global-economic-outlook-as-they-plan/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Statement On The Departure Of SEC Chair Gary Gensler: SEC Commissioner Hester M. Peirce, SEC Commissioner Caroline A. Crenshaw, SEC Commissioner Mark T. Uyeda](http://www.mondovisione.com/media-and-resources/news/statement-on-the-departure-of-sec-chair-gary-gensler-sec-commissioner-hester-m/)
+append_entries: 2
+Finish: 2025-01-20 18:26:36.165924
