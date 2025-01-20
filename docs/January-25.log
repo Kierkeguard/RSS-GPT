@@ -653,3 +653,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ASIC And APRA Host Superannuation CEO Roundtables To Discuss Climate Risk](http://www.mondovisione.com/media-and-resources/news/asic-and-apra-host-superannuation-ceo-roundtables-to-discuss-climate-risk/)
 append_entries: 4
 Finish: 2025-01-20 08:27:31.528446
+------------------------------------------------------
+Started: 2025-01-20 10:21:46.799686
+Existing_entries: 104
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FTSE Mondo Visione Exchanges Index Ends 2024 On A Cautious Note Amid Market Volatility](http://www.mondovisione.com/media-and-resources/news/ftse-mondo-visione-exchanges-index-ends-2024-on-a-cautious-note-amid-market-vola/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LME Approves Hong Kong As Warehouse Location](http://www.mondovisione.com/media-and-resources/news/lme-approves-hong-kong-as-warehouse-location/)
+append_entries: 2
+Finish: 2025-01-20 10:21:48.251284
