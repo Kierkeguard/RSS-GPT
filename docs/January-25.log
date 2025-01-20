@@ -717,3 +717,10 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Statement On The Departure Of SEC Chair Gary Gensler: SEC Commissioner Hester M. Peirce, SEC Commissioner Caroline A. Crenshaw, SEC Commissioner Mark T. Uyeda](http://www.mondovisione.com/media-and-resources/news/statement-on-the-departure-of-sec-chair-gary-gensler-sec-commissioner-hester-m/)
 append_entries: 2
 Finish: 2025-01-20 18:26:36.165924
+------------------------------------------------------
+Started: 2025-01-20 20:20:17.195538
+Existing_entries: 116
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Feed error: 503
+append_entries: 0
+error when rendering xml, skip docs/January-25
