@@ -635,3 +635,21 @@ Fetching from https://mondovisione.com/media-and-resources/news/rss/
 Feed error: 503
 append_entries: 0
 error when rendering xml, skip docs/January-25
+------------------------------------------------------
+Started: 2025-01-20 08:26:54.245985
+Existing_entries: 100
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Helsinki Launches A New Segment For ETN Products](http://www.mondovisione.com/media-and-resources/news/nasdaq-helsinki-launches-a-new-segment-for-etn-products/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Invites Feedback On Proposed Remake Of Employee Incentive Scheme Instruments](http://www.mondovisione.com/media-and-resources/news/asic-invites-feedback-on-proposed-remake-of-employee-incentive-scheme-instrument/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Securities Commission Malaysia Release National Sustainability Reporting Framework Guidance To Help Companies’ Board Of Directors Drive Sustainability Reporting](http://www.mondovisione.com/media-and-resources/news/securities-commission-malaysia-release-national-sustainability-reporting-framewo/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC And APRA Host Superannuation CEO Roundtables To Discuss Climate Risk](http://www.mondovisione.com/media-and-resources/news/asic-and-apra-host-superannuation-ceo-roundtables-to-discuss-climate-risk/)
+append_entries: 4
+Finish: 2025-01-20 08:27:31.528446
