@@ -665,3 +665,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [LME Approves Hong Kong As Warehouse Location](http://www.mondovisione.com/media-and-resources/news/lme-approves-hong-kong-as-warehouse-location/)
 append_entries: 2
 Finish: 2025-01-20 10:21:48.251284
+------------------------------------------------------
+Started: 2025-01-20 12:39:55.273217
+Existing_entries: 106
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-01-20 12:39:57.224295
