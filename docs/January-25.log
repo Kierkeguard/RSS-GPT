@@ -683,3 +683,25 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Archax Achieves s21 Financial Promotion Approval Status](http://www.mondovisione.com/media-and-resources/news/archax-achieves-s21-financial-promotion-approval-status/)
 append_entries: 2
 Finish: 2025-01-20 14:19:47.512572
+------------------------------------------------------
+Started: 2025-01-20 16:24:54.132128
+Existing_entries: 108
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Moscow Exchange Changes The Tick Size From The 3rd Of February 2025](http://www.mondovisione.com/media-and-resources/news/moscow-exchange-changes-the-tick-size-from-the-3rd-of-february-2025/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Open Call For Experts To Join ACER’s New Expert Group On EU-Wide Flexibility Needs Assessment](http://www.mondovisione.com/media-and-resources/news/open-call-for-experts-to-join-acers-new-expert-group-on-eu-wide-flexibility-nee/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Chancellor Ramps Up Engagement With Financial Services Leaders To Bolster Plans To Grow The Economy - Financial Services Sector Set For Key Role In Designing First-Ever Financial Services Growth And Competitiveness Strategy](http://www.mondovisione.com/media-and-resources/news/uk-chancellor-ramps-up-engagement-with-financial-services-leaders-to-bolster-pla/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ETFGI Reports The ETFs Industry In Europe Gathered A Record 270.42 Billion US Dollars In Net Inflows During 2024](http://www.mondovisione.com/media-and-resources/news/etfgi-reports-the-etfs-industry-in-europe-gathered-a-record-27042-billion-us-do/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ETFGI Reports The Global ETFs Industry Reached A New Milestone With 1,988 New Products Launched In 2024](http://www.mondovisione.com/media-and-resources/news/etfgi-reports-the-global-etfs-industry-reached-a-new-milestone-with-1988-new-pr/)
+Append: [GlobalData Announces Top M&A Financial And Legal Advisers In Metals & Mining Sector In 2024](http://www.mondovisione.com/media-and-resources/news/globaldata-announces-top-manda-financial-and-legal-advisers-in-metals-and-mining-sec-2/)
+append_entries: 6
+Finish: 2025-01-20 16:24:55.742765
