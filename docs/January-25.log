@@ -724,3 +724,15 @@ Fetching from https://mondovisione.com/media-and-resources/news/rss/
 Feed error: 503
 append_entries: 0
 error when rendering xml, skip docs/January-25
+------------------------------------------------------
+Started: 2025-01-20 22:18:13.514166
+Existing_entries: 116
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Names Caroline D. Pham Acting Chairman](http://www.mondovisione.com/media-and-resources/news/cftc-names-caroline-d-pham-acting-chairman/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The EBA Launches Its 2025 EU-Wide Stress Test](http://www.mondovisione.com/media-and-resources/news/the-eba-launches-its-2025-eu-wide-stress-test/)
+append_entries: 2
+Finish: 2025-01-20 22:18:14.822973
