@@ -671,3 +671,15 @@ Existing_entries: 106
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-01-20 12:39:57.224295
+------------------------------------------------------
+Started: 2025-01-20 14:18:41.845280
+Existing_entries: 106
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Moscow Exchange: Concentration Limits Per Issuer On Securities Market](http://www.mondovisione.com/media-and-resources/news/moscow-exchange-concentration-limits-per-issuer-on-securities-market-9/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Archax Achieves s21 Financial Promotion Approval Status](http://www.mondovisione.com/media-and-resources/news/archax-achieves-s21-financial-promotion-approval-status/)
+append_entries: 2
+Finish: 2025-01-20 14:19:47.512572
