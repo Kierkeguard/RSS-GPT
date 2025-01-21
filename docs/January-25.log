@@ -781,3 +781,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [New Zealand Financial Markets Authority Issues Warning To Former FMC Auditor](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-issues-warning-to-former-fmc-auditor/)
 append_entries: 3
 Finish: 2025-01-21 08:25:32.724557
+------------------------------------------------------
+Started: 2025-01-21 10:21:25.923732
+Existing_entries: 123
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ETFGI Reports The ETFs Industry In Canada Gathered A Record US$64.03 Billion In Net Inflows During 2024](http://www.mondovisione.com/media-and-resources/news/etfgi-reports-the-etfs-industry-in-canada-gathered-a-record-us6403-billion-in/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Susi de Verdelon Appointed CEO Of LCH Limited](http://www.mondovisione.com/media-and-resources/news/susi-de-verdelon-appointed-ceo-of-lch-limited/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [GlobalData Announces Top M&A Financial And Legal Advisers In Financial Services Sector In 2024](http://www.mondovisione.com/media-and-resources/news/globaldata-announces-top-manda-financial-and-legal-advisers-in-financial-services-1/)
+append_entries: 3
+Finish: 2025-01-21 10:21:27.542266
