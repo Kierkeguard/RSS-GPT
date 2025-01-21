@@ -869,3 +869,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Mark T. Uyeda Named Acting Chairman Of The SEC](http://www.mondovisione.com/media-and-resources/news/mark-t-uyeda-named-acting-chairman-of-the-sec/)
 append_entries: 4
 Finish: 2025-01-21 18:28:14.187253
+------------------------------------------------------
+Started: 2025-01-21 20:21:44.027785
+Existing_entries: 143
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [EBA Publishes An Opinion On The Interaction Between The Output Floor And Pillar 2 Requirements](http://www.mondovisione.com/media-and-resources/news/eba-publishes-an-opinion-on-the-interaction-between-the-output-floor-and-pillar/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Redegal To Start Trading In BME Scaleup This Thursday, January 23](http://www.mondovisione.com/media-and-resources/news/redegal-to-start-trading-in-bme-scaleup-this-thursday-january-23/)
+append_entries: 2
+Finish: 2025-01-21 20:21:45.060831
