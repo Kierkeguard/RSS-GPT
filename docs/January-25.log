@@ -754,3 +754,15 @@ Existing_entries: 118
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-01-21 04:24:01.068967
+------------------------------------------------------
+Started: 2025-01-21 06:28:11.234306
+Existing_entries: 118
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [President Trump Designates Chairmen And Acting Chairmen -  Mark Uyeda, Acting Chair Of The Securities And Exchange Commission](http://www.mondovisione.com/media-and-resources/news/president-trump-designates-chairmen-and-acting-chairmen-mark-uyeda-acting-ch/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIFMA Statement On Trump-Vance Inauguration](http://www.mondovisione.com/media-and-resources/news/sifma-statement-on-trump-vance-inauguration/)
+append_entries: 2
+Finish: 2025-01-21 06:28:12.479256
