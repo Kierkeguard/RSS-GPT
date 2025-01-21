@@ -830,3 +830,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [EACH’s Women In Clearing Series – Inspiration With Laura Bayley, SIX x-clear AG, SIX Group’s Swiss CCP](http://www.mondovisione.com/media-and-resources/news/eachs-women-in-clearing-series-inspiration-with-laura-bayley-six-x-clear-ag/)
 append_entries: 2
 Finish: 2025-01-21 14:19:02.367332
+------------------------------------------------------
+Started: 2025-01-21 16:26:16.891902
+Existing_entries: 134
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MNI Indicators - Chicago Business Barometer™- December Unrevised - Annual Seasonal Adjustment: Weaker Activity In H2-2024](http://www.mondovisione.com/media-and-resources/news/mni-indicators-chicago-business-barometer-december-unrevised-annual-season/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FIA December 2024 SEF Tracker](http://www.mondovisione.com/media-and-resources/news/fia-december-2024-sef-tracker/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Miami International Holdings Promotes Joseph Bracco To Executive Vice President, Global Head Of Sales](http://www.mondovisione.com/media-and-resources/news/miami-international-holdings-promotes-joseph-bracco-to-executive-vice-president/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Aquiline Makes Credit Investment In S3 Partners](http://www.mondovisione.com/media-and-resources/news/aquiline-makes-credit-investment-in-s3-partners/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ICE Launches Index To Track Performance Of New Listings On The New York Stock Exchange](http://www.mondovisione.com/media-and-resources/news/ice-launches-index-to-track-performance-of-new-listings-on-the-new-york-stock-ex/)
+append_entries: 5
+Finish: 2025-01-21 16:26:18.490447
