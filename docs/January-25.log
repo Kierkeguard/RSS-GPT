@@ -851,3 +851,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ICE Launches Index To Track Performance Of New Listings On The New York Stock Exchange](http://www.mondovisione.com/media-and-resources/news/ice-launches-index-to-track-performance-of-new-listings-on-the-new-york-stock-ex/)
 append_entries: 5
 Finish: 2025-01-21 16:26:18.490447
+------------------------------------------------------
+Started: 2025-01-21 18:28:13.323760
+Existing_entries: 139
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Crypto 2.0: Acting Chairman Uyeda Announces Formation Of New Crypto Task Force - Commissioner Hester Peirce Will Lead Agency-Wide Effort](http://www.mondovisione.com/media-and-resources/news/sec-crypto-20-acting-chairman-uyeda-announces-formation-of-new-crypto-task-for/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [EDI Partners With Code Willing To Revolutionize Data Workflows For Hedge Funds And Asset Managers](http://www.mondovisione.com/media-and-resources/news/edi-partners-with-code-willing-to-revolutionize-data-workflows-for-hedge-funds-a/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cboe Launches Index Datasets On Snowflake Marketplace, Further Expanding Access Via The Cloud](http://www.mondovisione.com/media-and-resources/news/cboe-launches-index-datasets-on-snowflake-marketplace-further-expanding-access/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Mark T. Uyeda Named Acting Chairman Of The SEC](http://www.mondovisione.com/media-and-resources/news/mark-t-uyeda-named-acting-chairman-of-the-sec/)
+append_entries: 4
+Finish: 2025-01-21 18:28:14.187253
