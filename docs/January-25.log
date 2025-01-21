@@ -766,3 +766,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SIFMA Statement On Trump-Vance Inauguration](http://www.mondovisione.com/media-and-resources/news/sifma-statement-on-trump-vance-inauguration/)
 append_entries: 2
 Finish: 2025-01-21 06:28:12.479256
+------------------------------------------------------
+Started: 2025-01-21 08:25:31.565806
+Existing_entries: 120
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Event Report - Japan-Southeast Asia Market Forum 2024](http://www.mondovisione.com/media-and-resources/news/event-report-japan-southeast-asia-market-forum-2024/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Publication Of "Japan Financial Services Agency Analytical Notes (2025.1) Vol.2"](http://www.mondovisione.com/media-and-resources/news/publication-of-japan-financial-services-agency-analytical-notes-20251-vol2/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Zealand Financial Markets Authority Issues Warning To Former FMC Auditor](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-issues-warning-to-former-fmc-auditor/)
+append_entries: 3
+Finish: 2025-01-21 08:25:32.724557
