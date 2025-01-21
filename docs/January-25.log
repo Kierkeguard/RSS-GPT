@@ -818,3 +818,15 @@ Append: [LeveX Launch Powered By Mercuryo’s State-Of-The-Art On-Ramps](http://
 Append: [GlobalData Announces Top M&A Financial And Legal Advisers In Consumer Sector In 2024](http://www.mondovisione.com/media-and-resources/news/globaldata-announces-top-manda-financial-and-legal-advisers-in-consumer-sector-in/)
 append_entries: 6
 Finish: 2025-01-21 12:39:50.834256
+------------------------------------------------------
+Started: 2025-01-21 14:19:00.911564
+Existing_entries: 132
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Fasanara Launches Tokenized Money Market Fund On Polygon](http://www.mondovisione.com/media-and-resources/news/fasanara-launches-tokenized-money-market-fund-on-polygon/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [EACH’s Women In Clearing Series – Inspiration With Laura Bayley, SIX x-clear AG, SIX Group’s Swiss CCP](http://www.mondovisione.com/media-and-resources/news/eachs-women-in-clearing-series-inspiration-with-laura-bayley-six-x-clear-ag/)
+append_entries: 2
+Finish: 2025-01-21 14:19:02.367332
