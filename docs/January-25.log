@@ -881,3 +881,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Redegal To Start Trading In BME Scaleup This Thursday, January 23](http://www.mondovisione.com/media-and-resources/news/redegal-to-start-trading-in-bme-scaleup-this-thursday-january-23/)
 append_entries: 2
 Finish: 2025-01-21 20:21:45.060831
+------------------------------------------------------
+Started: 2025-01-21 22:18:32.477725
+Existing_entries: 145
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Swaps Report Update](http://www.mondovisione.com/media-and-resources/news/cftc-swaps-report-update-49/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Circle Announces Acquisition Of Hashnote And USYC Tokenized Money Market Fund Alongside Strategic Partnership With Global Trading Firm DRW](http://www.mondovisione.com/media-and-resources/news/circle-announces-acquisition-of-hashnote-and-usyc-tokenized-money-market-fund-al/)
+append_entries: 2
+Finish: 2025-01-21 22:18:33.845995
