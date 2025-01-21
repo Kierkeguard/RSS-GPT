@@ -796,3 +796,25 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [GlobalData Announces Top M&A Financial And Legal Advisers In Financial Services Sector In 2024](http://www.mondovisione.com/media-and-resources/news/globaldata-announces-top-manda-financial-and-legal-advisers-in-financial-services-1/)
 append_entries: 3
 Finish: 2025-01-21 10:21:27.542266
+------------------------------------------------------
+Started: 2025-01-21 12:39:48.178371
+Existing_entries: 126
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [IPC Appoints Tito Singh As Chief Revenue Officer](http://www.mondovisione.com/media-and-resources/news/ipc-appoints-tito-singh-as-chief-revenue-officer/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Wilshire Indexes Names Former CalSTRS CEO As Chairman Of The Board](http://www.mondovisione.com/media-and-resources/news/wilshire-indexes-names-former-calstrs-ceo-as-chairman-of-the-board/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ETFGI: Korean Retail Investors Were Active Purchasers Of Overseas Listed ETFs In December](http://www.mondovisione.com/media-and-resources/news/etfgi-korean-retail-investors-were-active-purchasers-of-overseas-listed-etfs-in-1/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ETFGI Reports The ETFs Industry In The United States Gathered A Record US$1.17 Trillion During 2024](http://www.mondovisione.com/media-and-resources/news/etfgi-reports-the-etfs-industry-in-the-united-states-gathered-a-record-us117-t/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LeveX Launch Powered By Mercuryo’s State-Of-The-Art On-Ramps](http://www.mondovisione.com/media-and-resources/news/levex-launch-powered-by-mercuryos-state-of-the-art-on-ramps/)
+Append: [GlobalData Announces Top M&A Financial And Legal Advisers In Consumer Sector In 2024](http://www.mondovisione.com/media-and-resources/news/globaldata-announces-top-manda-financial-and-legal-advisers-in-consumer-sector-in/)
+append_entries: 6
+Finish: 2025-01-21 12:39:50.834256
