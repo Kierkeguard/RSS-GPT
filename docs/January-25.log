@@ -1001,3 +1001,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [UAE Securities And Commodities Authority  Invites Feedback On Draft Regulations For Security Tokens And Commodity Tokens](http://www.mondovisione.com/media-and-resources/news/uae-securities-and-commodities-authority-invites-feedback-on-draft-regulations/)
 append_entries: 3
 Finish: 2025-01-22 18:28:47.051840
+------------------------------------------------------
+Started: 2025-01-22 20:21:49.833168
+Existing_entries: 165
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Remarks Of CFTC Commissioner Kristin Johnson At The Global Blockchain Business Council’s 8th Annual Blockchain Central Davos: Collaboration For The Intelligent Age](http://www.mondovisione.com/media-and-resources/news/remarks-of-cftc-commissioner-kristin-johnson-at-the-global-blockchain-business-c/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ISDA derivatiViews: Deadline Pressure On Treasury Clearing](http://www.mondovisione.com/media-and-resources/news/isda-derivativiews-deadline-pressure-on-treasury-clearing/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Chancellor Calls On Watchdog Bosses To Tear Down Regulatory Barriers That Hold Back Growth](http://www.mondovisione.com/media-and-resources/news/uk-chancellor-calls-on-watchdog-bosses-to-tear-down-regulatory-barriers-that-hol/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CUSIP Global Services Launches New CUSIP Identifiers To Improve Transparency In $2 Trillion U.S. Private Credit Markets - Unique CUSIP IDs Now Available For Private Credit (Direct Lending) Transactions, With Plans To Expand Across Alternative Credit Marketplace](http://www.mondovisione.com/media-and-resources/news/cusip-global-services-launches-new-cusip-identifiers-to-improve-transparency-in/)
+append_entries: 4
+Finish: 2025-01-22 20:21:50.785896
