@@ -986,3 +986,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Iberclear Renews Its Mandate As Manager Of RENADE](http://www.mondovisione.com/media-and-resources/news/iberclear-renews-its-mandate-as-manager-of-renade/)
 append_entries: 1
 Finish: 2025-01-22 16:26:13.212401
+------------------------------------------------------
+Started: 2025-01-22 18:28:46.050327
+Existing_entries: 162
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [B.C. Securities Commission Reaches Agreement With Overseas Companies To Return Money And Cryptocurrency To British Columbians](http://www.mondovisione.com/media-and-resources/news/bc-securities-commission-reaches-agreement-with-overseas-companies-to-return-m/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESMA: New Governance Structure For Transition To T+1 Settlement Cycle Kicks Off](http://www.mondovisione.com/media-and-resources/news/esma-new-governance-structure-for-transition-to-t1-settlement-cycle-kicks-off/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UAE Securities And Commodities Authority  Invites Feedback On Draft Regulations For Security Tokens And Commodity Tokens](http://www.mondovisione.com/media-and-resources/news/uae-securities-and-commodities-authority-invites-feedback-on-draft-regulations/)
+append_entries: 3
+Finish: 2025-01-22 18:28:47.051840
