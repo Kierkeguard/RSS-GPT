@@ -917,3 +917,27 @@ Existing_entries: 147
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-01-22 06:28:53.086185
+------------------------------------------------------
+Started: 2025-01-22 08:26:40.383547
+Existing_entries: 147
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MNI Indicators: MNI China Money Market Index™ – January Conditions Ease](http://www.mondovisione.com/media-and-resources/news/mni-indicators-mni-china-money-market-index-january-conditions-ease/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [DIFC And Lloyd’s Collaborate To Develop Future Talent In The Insurance Sector - DIFC Academy And Lloyd’s Academy Will Work Together To Foster Development Of Future Talent Into Insurance Industry](http://www.mondovisione.com/media-and-resources/news/difc-and-lloyds-collaborate-to-develop-future-talent-in-the-insurance-sector/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Report Identifies Between $25 Billion And $50 Billion In Potential Efficiency Gains In Banks' Risk And Compliance Functions - The Savings, Which Would Come At Greater Or Equal Effectiveness, Could Generate Up To $1 Trillion In Additional Lending Capacity](http://www.mondovisione.com/media-and-resources/news/nasdaq-report-identifies-between-25-billion-and-50-billion-in-potential-effici/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tokyo Stock Exchange: Results Of The English Disclosure Implementation Status Survey As Of The End Of December 2024](http://www.mondovisione.com/media-and-resources/news/tokyo-stock-exchange-results-of-the-english-disclosure-implementation-status-su-1/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Zhengzhou Commodity Exchange: Notice On Night Trading Session During 2025 Spring Festival Holiday](http://www.mondovisione.com/media-and-resources/news/zhengzhou-commodity-exchange-notice-on-night-trading-session-during-2025-spring/)
+Append: [Japan Financial Services Agency: Stewardship Code : 333 Institutional Investors Have Signed Up To The Principles For Responsible Institutional Investors As Of December 31, 2024](http://www.mondovisione.com/media-and-resources/news/japan-financial-services-agency-stewardship-code-333-institutional-investors/)
+Append: [Acting CFTC Chairman Pham: Time For CFTC To Get Back To Basics](http://www.mondovisione.com/media-and-resources/news/acting-cftc-chairman-pham-time-for-cftc-to-get-back-to-basics/)
+Append: [Stanbic IBTC's N148.7bn Rights Issue Launches On NGX Invest](http://www.mondovisione.com/media-and-resources/news/stanbic-ibtcs-n1487bn-rights-issue-launches-on-ngx-invest/)
+append_entries: 8
+Finish: 2025-01-22 08:26:42.058163
