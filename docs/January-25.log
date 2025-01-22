@@ -1019,3 +1019,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CUSIP Global Services Launches New CUSIP Identifiers To Improve Transparency In $2 Trillion U.S. Private Credit Markets - Unique CUSIP IDs Now Available For Private Credit (Direct Lending) Transactions, With Plans To Expand Across Alternative Credit Marketplace](http://www.mondovisione.com/media-and-resources/news/cusip-global-services-launches-new-cusip-identifiers-to-improve-transparency-in/)
 append_entries: 4
 Finish: 2025-01-22 20:21:50.785896
+------------------------------------------------------
+Started: 2025-01-22 22:18:41.254622
+Existing_entries: 169
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Which Markets And Investors?: Statement On The Notice Of Proposed Plan Of Distribution And Opportunity For Comment With Respect To Barclays PLC And Barclays Bank PLC, SEC Commissioner Hester M. Peirce, Jan. 22, 2025](http://www.mondovisione.com/media-and-resources/news/which-markets-and-investors-statement-on-the-notice-of-proposed-plan-of-distri/)
+append_entries: 1
+Finish: 2025-01-22 22:19:14.487204
