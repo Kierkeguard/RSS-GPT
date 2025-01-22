@@ -947,3 +947,21 @@ Existing_entries: 155
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-01-22 10:19:12.999282
+------------------------------------------------------
+Started: 2025-01-22 12:39:48.320101
+Existing_entries: 155
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FSB Finds That The G20 Financial Regulatory Reforms Have Enhanced The Resilience Of Securitisation Market](http://www.mondovisione.com/media-and-resources/news/fsb-finds-that-the-g20-financial-regulatory-reforms-have-enhanced-the-resilience/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [GCEX Launches Open API For Seamless Back Office Access](http://www.mondovisione.com/media-and-resources/news/gcex-launches-open-api-for-seamless-back-office-access/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Hana Asset Management Launches 1Q U.S. Dividend 30 ETF, Tracking The Solactive U.S. Dividend 30 Index](http://www.mondovisione.com/media-and-resources/news/hana-asset-management-launches-1q-us-dividend-30-etf-tracking-the-solactive-u/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cheung Kong Graduate School Of Business Professor Wang Neng Receives 2024 CBER-Circle Insight Award For Groundbreaking Research In Blockchain Economics](http://www.mondovisione.com/media-and-resources/news/cheung-kong-graduate-school-of-business-professor-wang-neng-receives-2024-cber-c/)
+append_entries: 4
+Finish: 2025-01-22 12:39:50.427782
