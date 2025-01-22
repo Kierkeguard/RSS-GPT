@@ -977,3 +977,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [TMX Group Launches New US Equity ATS Venue - AlphaX™ US Marks First International Expansion For TMX Markets](http://www.mondovisione.com/media-and-resources/news/tmx-group-launches-new-us-equity-ats-venue-alphax-us-marks-first-internationa/)
 append_entries: 2
 Finish: 2025-01-22 14:19:05.990239
+------------------------------------------------------
+Started: 2025-01-22 16:26:12.378860
+Existing_entries: 161
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Iberclear Renews Its Mandate As Manager Of RENADE](http://www.mondovisione.com/media-and-resources/news/iberclear-renews-its-mandate-as-manager-of-renade/)
+append_entries: 1
+Finish: 2025-01-22 16:26:13.212401
