@@ -965,3 +965,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Cheung Kong Graduate School Of Business Professor Wang Neng Receives 2024 CBER-Circle Insight Award For Groundbreaking Research In Blockchain Economics](http://www.mondovisione.com/media-and-resources/news/cheung-kong-graduate-school-of-business-professor-wang-neng-receives-2024-cber-c/)
 append_entries: 4
 Finish: 2025-01-22 12:39:50.427782
+------------------------------------------------------
+Started: 2025-01-22 14:19:05.178579
+Existing_entries: 159
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ICE Announces That A Record 2 Billion Contracts Traded In 2024 - Includes Record 1.2 Billion Commodity Contracts And Record 753 Million Interest Rates Contracts](http://www.mondovisione.com/media-and-resources/news/ice-announces-that-a-record-2-billion-contracts-traded-in-2024-includes-record/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TMX Group Launches New US Equity ATS Venue - AlphaX™ US Marks First International Expansion For TMX Markets](http://www.mondovisione.com/media-and-resources/news/tmx-group-launches-new-us-equity-ats-venue-alphax-us-marks-first-internationa/)
+append_entries: 2
+Finish: 2025-01-22 14:19:05.990239
