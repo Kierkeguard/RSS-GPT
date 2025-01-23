@@ -1157,3 +1157,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Geopolitics And Financial Stability: A Plan Beats No Plan − Speech By Carolyn Wilkins, Bank Of England  External Member Of The Financial Policy Committee, Given At Fitch Ratings, Canary Wharf](http://www.mondovisione.com/media-and-resources/news/geopolitics-and-financial-stability-a-plan-beats-no-plan-speech-by-carolyn-wi/)
 append_entries: 2
 Finish: 2025-01-23 20:21:37.193118
+------------------------------------------------------
+Started: 2025-01-23 22:18:17.198824
+Existing_entries: 193
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Commissioner Goldsmith Romero To Participate In The American Bar Association’s Derivatives And Futures Law Committee Winter Meeting](http://www.mondovisione.com/media-and-resources/news/cftc-commissioner-goldsmith-romero-to-participate-in-the-american-bar-associatio/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Exchange Group - Options Markets - Market For Underlying Security Used For Openings On MIAX Options, MIAX Pearl Options, MIAX Emerald Options And MIAX Sapphire Options For Newly Listed Symbols Effective Friday, January 24, 2025](http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-options-markets-market-for-underlying-security-used-for-23/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Canadian Securities Administrators Publishes Notice And Request For Comment On Proposed Amendments To Trading Fee Caps Charged By Marketplaces](http://www.mondovisione.com/media-and-resources/news/canadian-securities-administrators-publishes-notice-and-request-for-comment-on-p/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Exchange Group - Options Markets - New Listings Effective For January 24, 2025](http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-options-markets-new-listings-effective-for-january-24-2-1/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Miami International Holdings Announces Timeline For Migration Of Minneapolis Hard Red Spring Wheat Trading To New MIAX Futures Onyx Platform](http://www.mondovisione.com/media-and-resources/news/miami-international-holdings-announces-timeline-for-migration-of-minneapolis-har/)
+append_entries: 5
+Finish: 2025-01-23 22:18:18.236705
