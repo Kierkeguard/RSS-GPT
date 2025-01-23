@@ -1070,3 +1070,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Acting Chairman Pham Announces CFTC Leadership Changes](http://www.mondovisione.com/media-and-resources/news/acting-chairman-pham-announces-cftc-leadership-changes/)
 append_entries: 4
 Finish: 2025-01-23 08:25:59.624454
+------------------------------------------------------
+Started: 2025-01-23 10:22:58.223855
+Existing_entries: 174
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Review Finds Gaps Remain In Brokers’ Money Laundering Defences](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-review-finds-gaps-remain-in-brokers-money-launde/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Statement From The Securities Commission Malaysia](http://www.mondovisione.com/media-and-resources/news/statement-from-the-securities-commission-malaysia/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Eurex Clearing Paving The Way For Digital Collateral Mobilization](http://www.mondovisione.com/media-and-resources/news/eurex-clearing-paving-the-way-for-digital-collateral-mobilization/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX Welcomes The Hong Kong Securities And Futures Commission’s Announcement On Single Stock L&I Products](http://www.mondovisione.com/media-and-resources/news/hkex-welcomes-the-hong-kong-securities-and-futures-commissions-announcement-on/)
+append_entries: 4
+Finish: 2025-01-23 10:22:59.418764
