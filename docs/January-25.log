@@ -1052,3 +1052,21 @@ Existing_entries: 170
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-01-23 06:28:12.478169
+------------------------------------------------------
+Started: 2025-01-23 08:25:58.576546
+Existing_entries: 170
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASX Releases CHESS Settlement Incident Review](http://www.mondovisione.com/media-and-resources/news/asx-releases-chess-settlement-incident-review/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Closing Remarks By Tan Boon Gin, CEO Of SGX RegCo, At The Audit And Risk Seminar 2025](http://www.mondovisione.com/media-and-resources/news/closing-remarks-by-tan-boon-gin-ceo-of-sgx-regco-at-the-audit-and-risk-seminar/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Securities Commission Malaysia: High Court Allows Forfeiture Of Luxury Condo And Cash](http://www.mondovisione.com/media-and-resources/news/securities-commission-malaysia-high-court-allows-forfeiture-of-luxury-condo-and/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Acting Chairman Pham Announces CFTC Leadership Changes](http://www.mondovisione.com/media-and-resources/news/acting-chairman-pham-announces-cftc-leadership-changes/)
+append_entries: 4
+Finish: 2025-01-23 08:25:59.624454
