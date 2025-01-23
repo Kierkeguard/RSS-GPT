@@ -1088,3 +1088,25 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [HKEX Welcomes The Hong Kong Securities And Futures Commission’s Announcement On Single Stock L&I Products](http://www.mondovisione.com/media-and-resources/news/hkex-welcomes-the-hong-kong-securities-and-futures-commissions-announcement-on/)
 append_entries: 4
 Finish: 2025-01-23 10:22:59.418764
+------------------------------------------------------
+Started: 2025-01-23 12:39:54.268519
+Existing_entries: 178
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Muinmos Announces Advisory Board Of World-Class Industry Leaders To Drive Significant Growth](http://www.mondovisione.com/media-and-resources/news/muinmos-announces-advisory-board-of-world-class-industry-leaders-to-drive-signif/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Apex Group Appoints Industry Veteran As Global Head Of Product And Operations](http://www.mondovisione.com/media-and-resources/news/apex-group-appoints-industry-veteran-as-global-head-of-product-and-operations/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The World Federation Of Exchanges Announces The Industry’s Priorities For 2025](http://www.mondovisione.com/media-and-resources/news/the-world-federation-of-exchanges-announces-the-industrys-priorities-for-2025/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Dun & Bradstreet Global Business Optimism Insights Report Reveals Cautious Economic Outlook For Q1 2025 - Slow Economic Growth, Rising Geopolitical Tensions, And Increasing Trade Uncertainties Drive Down Overall Optimism Levels](http://www.mondovisione.com/media-and-resources/news/dun-and-bradstreet-global-business-optimism-insights-report-reveals-cautious-econo/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Rostro Group Appoints Saul Knapp As MD, Futures And Options - Rostro Launches DMA Futures & Options Offering](http://www.mondovisione.com/media-and-resources/news/rostro-group-appoints-saul-knapp-as-md-futures-and-options-rostro-launches-dm/)
+Append: [Only 22% Of Organisations Have Implemented Measures To Prevent AI-Driven Identity Fraud - Financial Institutions Must Close The Gap And Invest In AI-Driven Identity Fraud Prevention By 2025.](http://www.mondovisione.com/media-and-resources/news/only-22-of-organisations-have-implemented-measures-to-prevent-ai-driven-identit/)
+append_entries: 6
+Finish: 2025-01-23 12:39:55.579287
