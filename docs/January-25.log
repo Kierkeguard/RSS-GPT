@@ -1122,3 +1122,26 @@ Existing_entries: 184
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-01-23 16:26:03.097884
+------------------------------------------------------
+Started: 2025-01-23 18:27:41.649444
+Existing_entries: 184
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euronext Launches IPOready 2025: Empowering 160 Companies Across Europe’s Fastest-Growing Sectors](http://www.mondovisione.com/media-and-resources/news/euronext-launches-ipoready-2025-empowering-160-companies-across-europes-fastes/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ICE First Look At Mortgage Performance: Delinquencies Ended 2024 On A Strong Note Despite Remaining Near A Three-Year High](http://www.mondovisione.com/media-and-resources/news/ice-first-look-at-mortgage-performance-delinquencies-ended-2024-on-a-strong-not/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TMX Group CEO John McKenzie To Present At The 2025 UBS Financial Services Conference And The Bank Of America Financial Services Conference](http://www.mondovisione.com/media-and-resources/news/tmx-group-ceo-john-mckenzie-to-present-at-the-2025-ubs-financial-services-confer/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Fiserv Appoints Michael P. Lyons As President And CEO-Elect](http://www.mondovisione.com/media-and-resources/news/fiserv-appoints-michael-p-lyons-as-president-and-ceo-elect/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FSB Work Programme For 2025](http://www.mondovisione.com/media-and-resources/news/fsb-work-programme-for-2025/)
+Append: [UK Financial Conduct Authority And UK Payment Systems Regulator Set Out Next Steps For Open Banking](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-and-uk-payment-systems-regulator-set-out-next-ste/)
+Append: [BME Scaleup Welcomes Redegal](http://www.mondovisione.com/media-and-resources/news/bme-scaleup-welcomes-redegal/)
+append_entries: 7
+Finish: 2025-01-23 18:27:42.590466
