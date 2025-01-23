@@ -1145,3 +1145,15 @@ Append: [UK Financial Conduct Authority And UK Payment Systems Regulator Set Out
 Append: [BME Scaleup Welcomes Redegal](http://www.mondovisione.com/media-and-resources/news/bme-scaleup-welcomes-redegal/)
 append_entries: 7
 Finish: 2025-01-23 18:27:42.590466
+------------------------------------------------------
+Started: 2025-01-23 20:21:35.742674
+Existing_entries: 191
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New York State Department Of Financial Services Superintendent Adrienne A. Harris Secures $2 Million Cybersecurity Settlement With PayPal, Inc. - PayPal’s Cybersecurity Failures Led To The Exposure Of Customers’ Social Security Numbers](http://www.mondovisione.com/media-and-resources/news/new-york-state-department-of-financial-services-superintendent-adrienne-a-harri-11/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Geopolitics And Financial Stability: A Plan Beats No Plan − Speech By Carolyn Wilkins, Bank Of England  External Member Of The Financial Policy Committee, Given At Fitch Ratings, Canary Wharf](http://www.mondovisione.com/media-and-resources/news/geopolitics-and-financial-stability-a-plan-beats-no-plan-speech-by-carolyn-wi/)
+append_entries: 2
+Finish: 2025-01-23 20:21:37.193118
