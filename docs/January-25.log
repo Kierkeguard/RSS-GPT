@@ -1223,3 +1223,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Alberta Securities Commission Signs Onto Multi-Jurisdiction Settlement With GSB Gold Standard, GS Partners Allowing Albertans To File A Claim For A Refund](http://www.mondovisione.com/media-and-resources/news/alberta-securities-commission-signs-onto-multi-jurisdiction-settlement-with-gsb/)
 append_entries: 5
 Finish: 2025-01-24 08:25:51.245343
+------------------------------------------------------
+Started: 2025-01-24 10:21:32.340154
+Existing_entries: 203
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SPX And PNGX Group Sign MOU To Explore Technology Sharing Opportunities And Strengthen Strategic Collaboration](http://www.mondovisione.com/media-and-resources/news/spx-and-pngx-group-sign-mou-to-explore-technology-sharing-opportunities-and-stre/)
+append_entries: 1
+Finish: 2025-01-24 10:21:33.826824
