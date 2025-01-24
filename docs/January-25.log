@@ -1289,3 +1289,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Dubai Financial Services Authority Decision To Fine Al Ramz Capital LLC For Failure To Report Suspicious Transactions Referred To The Financial Markets Tribunal](http://www.mondovisione.com/media-and-resources/news/dubai-financial-services-authority-decision-to-fine-al-ramz-capital-llc-for-fail/)
 append_entries: 4
 Finish: 2025-01-24 18:27:19.010984
+------------------------------------------------------
+Started: 2025-01-24 20:20:48.146698
+Existing_entries: 215
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIFMA Statement On Rescission Of SEC Staff Accounting Bulletin 121](http://www.mondovisione.com/media-and-resources/news/sifma-statement-on-rescission-of-sec-staff-accounting-bulletin-121/)
+append_entries: 1
+Finish: 2025-01-24 20:20:49.152669
