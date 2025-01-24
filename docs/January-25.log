@@ -1232,3 +1232,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SPX And PNGX Group Sign MOU To Explore Technology Sharing Opportunities And Strengthen Strategic Collaboration](http://www.mondovisione.com/media-and-resources/news/spx-and-pngx-group-sign-mou-to-explore-technology-sharing-opportunities-and-stre/)
 append_entries: 1
 Finish: 2025-01-24 10:21:33.826824
+------------------------------------------------------
+Started: 2025-01-24 12:38:47.096650
+Existing_entries: 204
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX: Trading And Clearing Arrangements Of Haitong Securities Structured Products, Futures And Options](http://www.mondovisione.com/media-and-resources/news/hkex-trading-and-clearing-arrangements-of-haitong-securities-structured-product/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX: Exchange Publishes Conclusions On Further Paperless Listing Reforms](http://www.mondovisione.com/media-and-resources/news/hkex-exchange-publishes-conclusions-on-further-paperless-listing-reforms/)
+append_entries: 2
+Finish: 2025-01-24 12:38:48.545162
