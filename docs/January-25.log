@@ -1244,3 +1244,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [HKEX: Exchange Publishes Conclusions On Further Paperless Listing Reforms](http://www.mondovisione.com/media-and-resources/news/hkex-exchange-publishes-conclusions-on-further-paperless-listing-reforms/)
 append_entries: 2
 Finish: 2025-01-24 12:38:48.545162
+------------------------------------------------------
+Started: 2025-01-24 14:18:22.208474
+Existing_entries: 206
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ICE Announces Record Environmental Market Trading In 2024 - Equivalent To Over $1 Trillion In Notional Value For The Fourth Consecutive Year](http://www.mondovisione.com/media-and-resources/news/ice-announces-record-environmental-market-trading-in-2024-equivalent-to-over/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Dechert Advises Fasanara Capital Ltd On Launch Of First Tokenised Money Market Fund](http://www.mondovisione.com/media-and-resources/news/dechert-advises-fasanara-capital-ltd-on-launch-of-first-tokenised-money-market-f/)
+append_entries: 2
+Finish: 2025-01-24 14:18:23.097760
