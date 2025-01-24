@@ -1256,3 +1256,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Dechert Advises Fasanara Capital Ltd On Launch Of First Tokenised Money Market Fund](http://www.mondovisione.com/media-and-resources/news/dechert-advises-fasanara-capital-ltd-on-launch-of-first-tokenised-money-market-f/)
 append_entries: 2
 Finish: 2025-01-24 14:18:23.097760
+------------------------------------------------------
+Started: 2025-01-24 16:25:15.128453
+Existing_entries: 208
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Acting SEC Chairman Mark T. Uyeda Names Acting Senior Staff](http://www.mondovisione.com/media-and-resources/news/acting-sec-chairman-mark-t-uyeda-names-acting-senior-staff/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nigerian Exchange Weekly Market Report For The Week Ended 24 January 2025](http://www.mondovisione.com/media-and-resources/news/nigerian-exchange-weekly-market-report-for-the-week-ended-24-january-2025/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Malawi Stock Exchange Weekly Summary Report 24 January 2025](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-24-january-2025/)
+append_entries: 3
+Finish: 2025-01-24 16:25:16.095291
