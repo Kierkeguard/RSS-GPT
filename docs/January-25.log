@@ -1271,3 +1271,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Malawi Stock Exchange Weekly Summary Report 24 January 2025](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-24-january-2025/)
 append_entries: 3
 Finish: 2025-01-24 16:25:16.095291
+------------------------------------------------------
+Started: 2025-01-24 18:27:18.045239
+Existing_entries: 211
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Chancellor Appoints David Soanes And Niamh Moloney As Members Of The UK Prudential Regulation Committee](http://www.mondovisione.com/media-and-resources/news/uk-chancellor-appoints-david-soanes-and-niamh-moloney-as-members-of-the-uk-prude/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Announces Semi-annual Changes To The OMX Helsinki 25 Index](http://www.mondovisione.com/media-and-resources/news/nasdaq-announces-semi-annual-changes-to-the-omx-helsinki-25-index-8/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Borsa Istanbul: Periodic Review For The BIST Sustainability Themed Debt Securities Indices For The Period February 1, 2025 – April 30, 2025 Has Been Finalized](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-periodic-review-for-the-bist-sustainability-themed-debt-securiti-2/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Dubai Financial Services Authority Decision To Fine Al Ramz Capital LLC For Failure To Report Suspicious Transactions Referred To The Financial Markets Tribunal](http://www.mondovisione.com/media-and-resources/news/dubai-financial-services-authority-decision-to-fine-al-ramz-capital-llc-for-fail/)
+append_entries: 4
+Finish: 2025-01-24 18:27:19.010984
