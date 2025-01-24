@@ -1178,3 +1178,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Miami International Holdings Announces Timeline For Migration Of Minneapolis Hard Red Spring Wheat Trading To New MIAX Futures Onyx Platform](http://www.mondovisione.com/media-and-resources/news/miami-international-holdings-announces-timeline-for-migration-of-minneapolis-har/)
 append_entries: 5
 Finish: 2025-01-23 22:18:18.236705
+------------------------------------------------------
+Started: 2025-01-24 01:37:08.107694
+Existing_entries: 198
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-01-24 01:37:09.122428
