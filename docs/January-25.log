@@ -1298,3 +1298,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SIFMA Statement On Rescission Of SEC Staff Accounting Bulletin 121](http://www.mondovisione.com/media-and-resources/news/sifma-statement-on-rescission-of-sec-staff-accounting-bulletin-121/)
 append_entries: 1
 Finish: 2025-01-24 20:20:49.152669
+------------------------------------------------------
+Started: 2025-01-24 22:18:26.465549
+Existing_entries: 216
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-01-24 22:18:27.213823
