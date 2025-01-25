@@ -4,6 +4,239 @@
 <title>News Articles</title>
 <link>http://www.mondovisione.com/media-and-resources/news/</link>
 
+<item>
+<title>CFTC Commissioner Kristin Johnson’s Keynote Address At The University Of Chicago Law School: Charting The Future Of Financial Regulation</title>
+<link>http://www.mondovisione.com/media-and-resources/news/cftc-commissioner-kristin-johnsons-keynote-address-at-the-university-of-chicago/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/cftc-commissioner-kristin-johnsons-keynote-address-at-the-university-of-chicago/</guid>
+<content:encoded><![CDATA[
+
+<p><span>Good afternoon. Thank you to Dean Miles, Professor Birdthistle and the broader University of Chicago Law School for the kind invitation to join you for today&rsquo;s event. We can often learn a great deal about the future by looking at the past. About 4,000 years ago (c. 2000 B.C.E.), Phoenician sailors developed charts and observations of the Sun and stars. Early mariners&rsquo; compasses were inaccurate or inconsistent because they lacked an understanding of magnetic variation. Later, the astrolabe, sextant, chip log, gyroscopic compass, radar, and GPS replaced earlier, primitive tools.</span></p>
+<p><span>In remarks earlier this week at a blockchain event at the World Economic Forum in Davos, I explored rapidly advancing technologies&mdash;an area that has long been a central focus of my contributions as a lawyer in private practice, in-house counsel, an academic, and most recently, a financial market regulator at the CFTC.</span><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson15#_ftn1" name="_ftnref1"><span>[1]</span></a><span>&nbsp;Today, on the eve of the Commodity Futures Trading Commission&rsquo;s (CFTC) 50<span>th</span>&nbsp;Anniversary, we stand, once again on the frontier&mdash;a frontier of technological development in markets&mdash;including increasingly advanced computing, predictive analytical models, and algorithmic trading, and digital trading, clearing and settlement.</span></p>
+<p><span>During the most recent past administration, the Securities Exchange Commission Divisions of Trading and Markets and of Investment Management announced rule amendments to shorten the standard settlement cycle for most broker-dealer transactions from two business days after the trade date (&ldquo;T+2&rdquo;) to one business day after the trade date (&ldquo;T+1&rdquo;)</span><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson15#_ftn2" name="_ftnref2"><span>[2]</span></a><span>&nbsp;marking faster, more efficient, less costly trading ushered in, in part, by digitization of trading market infrastructure. Many of our largest market participants have partnered with technology firms to migrate exceptional volumes of data including orders, quotes, trades, cancellations and settlement data to cloud-based storage.</span></p>
+<p><span>Executive Orders this week on AI and digital assets or cryptocurrency indicate the new administration&rsquo;s intent to focus on these new technologies. As we prepare to hear from the new administration regarding solutions to address the intricacies of balancing responsible innovation with the critical goals of ensuring market integrity, market stability, and protection of vulnerable market participants, let&rsquo;s keep top-of-mind the lessons of the past and the benefits of well-honed regulatory tools which aid us in navigating the sea of technological innovation set forth before us.</span></p>
+<p><span>Today, we will consider the two specific technologies at the center of the new administration&rsquo;s Executive Orders issued yesterday&mdash;AI and crypto.</span></p>
+<p><span><strong>Artificial Intelligence in Financial Markets</strong></span></p>
+<p><span>Financial markets regulation is often defined by two salient questions&mdash;what should we regulate and, if we regulate, what should be the scope of regulation. Knowing that crypto technologies are a focus of my remarks, some of you might demand that we tailor these questions and simply focus on the legal standard for distinguishing among regulated products, namely securities and commodities, citing the debate surrounding the legal standard articulated by the Supreme Court of the United States in SCOTUS&rsquo;s now (in)famous 1946 decision S.E.C. vs Howey,</span><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson15#_ftn3" name="_ftnref3"><span>[3]</span></a><span>&nbsp;explaining that investment contracts that involve an investment of money in a common enterprise with an expectation of profits to be derived from the efforts of others.</span></p>
+<p><span>Leaving this question aside for a moment and focusing on the macro issue, I would note an underlying premise of these two fundamental questions. It is presumed that regulators understand both the products and the markets that are the subject of regulation&mdash;that we are clear on the benefits as well as the risks and limitations posed by products, processes, and market structures introduced in our markets. In other words, we are well-informed and deeply engaged in discussions regarding the attributes of what we regulate. I would also share that, for me, this understanding informs &ldquo;how&rdquo; I think about regulation.</span></p>
+<p><em><span>The Ever-Expanding Universe of AI Use Cases</span></em></p>
+<p><span>AI has long served financial services firms. For decades, firms have integrated standard algorithms and earlier forms of machine learning in both external client-facing applications as well as internal operations.</span><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson15#_ftn4" name="_ftnref4"><span>[4]</span></a><span>&nbsp;Developers tout the potential for more nascent uses of AI to enhance critical risk management tools, &ldquo;inform[ing] trading strategies by identifying patterns, optimizing execution, managing portfolio workflows, and assessing risk-return tradeoffs.&rdquo;</span><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson15#_ftn5" name="_ftnref5"><span>[5]</span></a><span>&nbsp;According to proponents, deep learning through neural networks holds promise to simulate the multi-layered, complex decision-making capabilities of the human brain.</span></p>
+<p><span>Several years ago, the CFTC identified a number of AI use cases in our regulated markets:</span></p>
+<ul type="disc">
+<li><span>Trading (including market intelligence, robo-advisory, sentiment analysis, algorithmic trading, smart routing, and transactions)</span></li>
+<li><span>Risk Management (including margin and capital requirements, trade monitoring, fraud detection)</span></li>
+<li><span>Risk Assessments and Hedging</span></li>
+<li><span>Resource Optimization (including energy and computer power)</span></li>
+<li><span>RegTech &ndash; Applications that enhance or improve compliance and oversight activities (including surveillance, reporting)</span></li>
+<li><span>Compliance (including identity and customer validation, anti-money laundering, regulatory reporting)</span></li>
+<li><span>Books and Records (including automated trade histories from voice or text)</span></li>
+<li><span>Data Processing and Analytics</span></li>
+<li><span>Cybersecurity and Resilience</span></li>
+<li><span>Customer Service.</span><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson15#_ftn6" name="_ftnref6"><span>[6]</span></a><span></span></li>
+</ul>
+<p><span>The ever-expanding universe of AI use cases impacts investment, trading, surveillance and compliance, fraud detection, cyber security and supervision and enforcement across the derivatives and broader financial markets. In discussing AI&rsquo;s application across financial markets, a Treasury report released last month stated &ldquo;some financial firms have been experimenting with Generative AI tools&mdash;to explore the capabilities of AI in enhancing existing processes.&rdquo;</span><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson15#_ftn7" name="_ftnref7"><span>[7]</span></a><span></span></p>
+<p><span>&ldquo;Robo-advisors offer personalized investment advisory services, while AI-driven insights improve forecasting and trading process automation.&rdquo;</span><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson15#_ftn8" name="_ftnref8"><span>[8]</span></a><span>&nbsp;The Treasury Department&rsquo;s recent report on Artificial Intelligence in Financial Services also notes that &ldquo;financial firms are increasingly using AI&mdash;and particularly experimenting with Generative AI&mdash;internal business operations, including but not limited to risk management, regulatory compliance, treasury management, fraud detection, and back-office functions.&rdquo;</span><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson15#_ftn9" name="_ftnref9"><span>[9]</span></a><span></span></p>
+<p><em><span>Risks and Challenges Remain</span></em></p>
+<p><span>Attendant risks associated with the increase in use of AI, however, deserves equal attention, particularly for regulators tasked with safeguarding the integrity and stability of financial markets and the global economy. In testimony before Congress and academic work prior to my service at the Commission, I have encouraged regulators and market participants to also consider the following risks fraud and market manipulation, bias and discrimination, and privacy and data protection risks.</span><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson15#_ftn10" name="_ftnref10"><span>[10]</span></a><span></span></p>
+<p><span>As the Financial Stability Board recently explained, &ldquo;many of the potential risks of AI may seem new, but when you look beneath the surface, they are strikingly similar to traditional financial risks. Risks that we are familiar with. We already have frameworks to assess concentration risk, third party dependence and interconnectedness. This is good news. But potential new forms of interconnectedness in the financial system may emerge.&rdquo;</span><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson15#_ftn11" name="_ftnref11"><span>[11]</span></a><span></span></p>
+<p><span>To that end, it will be imperative for regulators to understand, track, and be poised to address emerging cybersecurity, third-party, concentration, and human capital risks.</span></p>
+<ol>
+<li value="1"><em>Cybersecurity</em></li>
+</ol>
+<p><span>Few would disagree that cybersecurity attacks and related disruptions pose one of the most pernicious and persistent threats to global financial markets.&nbsp; In a timely and critical report on cybersecurity and AI, Treasury notes that &ldquo;complex and persistent cyber threats continue to grow, and some experts from financial institutions believe the availability of advanced AI tools such as Generative AI will, at least initially, give threat actors an upper hand.&rdquo;</span><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson15#_ftn12" name="_ftnref12"><span>[12]</span></a><span>&nbsp;Following a recent attack that disrupted clearing and settlement in derivatives markets in January of 2023, the Commission adopted a proposed rule enhancing operational resilience for swap dealers. In parallel to this rule, the Market Risk Advisory Committee that I sponsor, encouraged the Commission to consider comprehensive reform and consider the need for parallel reforms for our derivatives clearing organizations. While our principles-based approach to regulation enables dynamic application of existing rules, we must be ever vigilant to ensure that regulation is keeping pace and fit-for-purpose. I am looking forward to advancing these initiatives.</span></p>
+<ol>
+<li value="2"><em>Third-Party Risk Management</em></li>
+</ol>
+<p><span>Financial market regulators have, for several years, noted the challenges of relying on third parties for critical services. While regulated entities may have robust tools to monitor their own activities, our market participants increasingly partner with and rely upon third parties for critical services. Third party critical service providers may not have the comprehensive compliance processes and procedures the regulated entities have. The cascading impact of disruption may impact the many financial institutions that rely on the same critical third-party service providers, potentially engendering systemic risk concerns.</span><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson15#_ftn13" name="_ftnref13"><span>[13]</span></a><span></span></p>
+<ol>
+<li value="3"><em>Concentration Risk</em></li>
+</ol>
+<p><span>The increasing reliance on third party service providers and the limited number of critical third-party service providers creates concentration risk. While the largest financial services firms in the world may have less exposure to these threats, smaller and medium sized firms without the technical expertise to develop high-cost technologies may need to rely on third parties and may also adapt these technologies in ways not anticipated by original developers, creating additional frictions.</span></p>
+<p><span>At the CFTC, we have been engaged in a longstanding dialogue with our market participants and our colleagues at other federal regulatory agencies to analyze and work to address these concerns&mdash;and we plan to continue the conversation.</span></p>
+<p><span>Last year, our staff released a request for comment, soliciting data regarding our market participants&rsquo; increasing use of AI.</span><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson15#_ftn14" name="_ftnref14"><span>[14]</span></a><span>&nbsp;We have not been alone in this work. The U.S. Department of Treasury similarly issued a request for information.</span><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson15#_ftn15" name="_ftnref15"><span>[15]</span></a><span>&nbsp;I worked with staff at the CFTC and staff at Treasury prior to and following these RFIs. The important results of these forms of engagement have only scratched the surface, given that &ldquo;[o]ne of the most significant learnings from the comment responses is the reported ubiquity of AI usage&mdash;in particular traditional AI such as algorithms or machine learning&mdash;in virtually every function of financial firms, ranging from compliance management, internal operations, underwriting, customer service, treasury management, and product development and marketing.&rdquo;</span><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson15#_ftn16" name="_ftnref16"><span>[16]</span></a><span></span></p>
+<p><span><strong>A Roadmap for the Future</strong></span></p>
+<p><span>I have advanced, and will continue to advance, several policy initiatives over the course of my time at the Commission.</span></p>
+<p><em><span>Collaboration is Key</span></em></p>
+<ol>
+<li value="1"><em>Continued Dialogue</em></li>
+</ol>
+<p><span>There is still much work to be done. Continuing conversations with interested stakeholders across the board is the only way to ensure that we are learning in real time and incorporating that knowledge into sensible actions, both within the regulatory sphere and in the private sector.</span></p>
+<p><span>This dialogue &ldquo;create[s] a framework that simultaneously serves two goals. The first is protecting the integrity of the trading markets so that they fairly serve the interests of participants and the larger public. The second is welcoming and encouraging the development and application of the newest technologies with responsible guardrails. In this way, we can ensure that these technologies help assure that the United States financial markets remain leaders in financial innovation in the years ahead.&rdquo;</span><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson15#_ftn17" name="_ftnref17"><span>[17]</span></a><span></span></p>
+<ol>
+<li value="2"><em>Interagency coordination</em></li>
+</ol>
+<p><span>In the December Treasury report, a brief discussion of the existing and proposed frameworks related to the use of AI in financial services is more than two pages long.</span><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson15#_ftn18" name="_ftnref18"><span>[18]</span></a><span>&nbsp;And that is just the first layer before adding state laws on AI, which can differ from each other and from federal frameworks, and finally, international standards.</span></p>
+<p><span>Of course, each regulator has its own specific mission and mandate. However, regulators must work together to harmonize regulation.</span><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson15#_ftn19" name="_ftnref19"><span>[19]</span></a><span></span></p>
+<p><span>The Financial Stability Oversight Council echoes this recommendation in its annual report: &ldquo;The Council supports interagency development of expertise to analyze and monitor potential systemic risks associated with the use of AI in the financial services sector, as well as further inter-agency discussions on developments in AI and associated financial stability risks.&rdquo;</span><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson15#_ftn20" name="_ftnref20"><span>[20]</span></a><span></span></p>
+<p><span>FSOC also recognizes the need for collaboration on a global scale. &ldquo;The U.S. financial system is part of a global network and could potentially be vulnerable to shocks that originate abroad. The Council supports continued engagement with international counterparts on the risks and benefits of AI in financial services.&rdquo;</span><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson15#_ftn21" name="_ftnref21"><span>[21]</span></a><span></span></p>
+<p><em><span>Enhanced Resources for An Enhanced Mission</span></em></p>
+<ol>
+<li value="1"><em>Resources Must Keep Pace with Demand</em></li>
+</ol>
+<p><span>The CFTC is small but mighty, and continues to punch above its weight on all matters that come before it. In 2015 amidst the Dodd-Frank regulatory mandates, the CFTC had completed a greater percentage of its Dodd-Frank rules than other domestic financial regulatory agencies despite its smaller staff.</span><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson15#_ftn22" name="_ftnref22"><span>[22]</span></a><span>&nbsp;The same has been true in the past few years, as the Commission has taken on an increased role in addressing digital assets, while continuing its existing work, without any increase in budget.</span></p>
+<p><span>As the CFTC oversees increasingly complex markets, and must identify threats from increasingly sophisticated bad actors, it must have the resources to continue to do so effectively. I feel it important to reiterate that &ldquo;the Commission would benefit from increased resources dedicated to enabling several of the Divisions within the Commission to prepare for and meet the challenges of regulating innovative trading, clearing, and settlement technologies, among other changes to operational infrastructure that merits consideration.&rdquo;</span><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson15#_ftn23" name="_ftnref23"><span>[23]</span></a><span></span></p>
+<ol>
+<li value="2"><em>An AI Fraud Task Force to Tackle Fraud Full Force</em></li>
+</ol>
+<p><span>I have expressly called for the CFTC Division of Enforcement to create an AI Fraud Task Force. While there may be divergent opinions on the benefits and risks engendered by AI, preventing bad actors from using AI to commit fraud against consumers and potentially market participants should be common ground. &ldquo;Policing derivatives markets is one of the cornerstones of the CFTC&rsquo;s mission. We must adapt our surveillance technologies and enforcement penalties to keep pace with the rapidly evolving innovation that characterizes global financial markets.&rdquo;</span><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson15#_ftn24" name="_ftnref24"><span>[24]</span></a><span></span></p>
+<p><span><strong>A Future Framework for Digital Asset Markets&nbsp;</strong></span></p>
+<p><span>A second Executive Order released yesterday established a Presidential Working Group on Digital Asset Markets within the National Economic Council and appointed a Special Advisor for AI and Crypto to serve as Chairman of the PWG.</span></p>
+<p><span>Meaningful regulation in any market begins with identifying and developing standards to address certain risk management concerns. Many of the risks in the digital asset markets are well known.Learning from the lessons of the past few years, I am hopeful that any action to establish digital asset regulation include needed clarity regarding the application of rules and protections that safeguard the integrity of our markets. These regulations often also serve the organizations that implement them well.</span></p>
+<p><span>Digital asset market regulation should incorporate the same governance principles that have long governed our markets. Evidence of recent crises in digital asset markets underscore the benefits of strong corporate governance, rules governing conflicts of interest, and separation of customer property to preserve customer assets as part of a broader default management, recovery, and resilience strategy.</span></p>
+<ol>
+<li value="1"><em>Segregation of Customer Assets</em></li>
+</ol>
+<p><span>Our markets are built on trust. Any market that we supervise should have measures in place to protect the trust and confidence of customers and counterparties. Such recovery, resilience, and default risk management approaches should be applicable across markets that engender similar risks.&nbsp;</span></p>
+<p><span>At the core these default-focused efforts create protections that preserve customer assets in the event of a liquidity or solvency crisis. The measures also guard against the commingling of customer funds witnessed in the 2022 crypto crises.</span><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson15#_ftn25" name="_ftnref25"><span>[25]</span></a><span>&nbsp;</span></p>
+<p><span>The Commodity Exchange Act (CEA) expressly requires separation of customer funds in certain contexts. Section 4d(a)(2) of the CEA requires each FCM to segregate from its own assets all money, securities, and other property deposited by futures customers to margin, secure, or guarantee futures contracts and options on futures contracts traded on designated contract markets.</span><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson15#_ftn26" name="_ftnref26"><span>[26]</span></a><span>&nbsp;As the PGW takes up the mantle, preservation of customer capital must be a central and key issue.&nbsp;</span></p>
+<ol>
+<li value="2"><em>Governance</em></li>
+</ol>
+<p><span>Basic corporate governance and internal controls should form part of the health and welfare of any market participant subject to the Commission&rsquo;s supervision. Among other obligations, our regulations uniformly call for registered entities to have boards of directors, including independent directors, risk management committees, and executive officers that include chief compliance and risk officers who possess the requisite skills and expertise.</span><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson15#_ftn27" name="_ftnref27"><span>[27]</span></a><span></span></p>
+<p><span>We continuously refine and update our governance standards as our markets evolve. In 2023, the Commission unanimously (please confirm) approved a final rule requiring derivatives clearing organizations (DCOs) to establish and consult with one or more risk management committees (RMCs) comprised of clearing members and customers of clearing members on matters that could materially affect the risk profile of the DCO. Section 5b(c)(2) of the CEA establishes core principles with which a DCO must comply in order to be registered and to maintain registration as a DCO (DCO Core Principles),1 and part 39 of the Commission&rsquo;s regulations implement the DCO Core Principles. DCO Core Principle O requires a DCO to establish governance arrangements that are transparent, fulfill public interest requirements, and permit the consideration of the views of owners and participants.2 Regulation &sect; 39.24 implements this aspect of Core Principle O by providing minimum requirements regarding the substance and form of a DCO&rsquo;s governance arrangements.</span></p>
+<p><span>In the earlier referenced 2023 final risk governance rule, the Commission adopted minimum requirements for RMC composition and rotation, and required DCOs to establish and enforce fitness standards for RMC members. The Commission adopted requirements for DCOs to maintain written policies and procedures governing the RMC consultation process and the role of RMC members. Finally, the Commission adopted requirements for DCOs to establish one or more market participant risk advisory working groups (RWGs) that must convene at least twice per year, and adopt written policies and procedures related to the formation and role of the RWG.</span></p>
+<ol>
+<li value="3"><em>Compliance with AML/KYC laws and regulations</em></li>
+</ol>
+<p><span>Our experience regulating financial markets has demonstrated that strong AML/KYC regulations protects not only market integrity and stability, but also national security interests. These regulations are foundational and define the scope of who is permitted to actively engage our markets and, in many instances, the broader financial services and banking sector of our economy.</span></p>
+<p><span><strong>Concluding with A Word Collaboration</strong></span></p>
+<p><span>One of the greatest strengths of our government and, more specifically, the federal agencies that supervise many of the largest global financial market participants in the world is the intellectual leadership that our market regulators demonstrate. Our financial market regulations enhance efficiency, reduce the costs of raising capital, attract global investments, and serve as a model for regulation around the world. Our successful regulation is due, in large part, to our engagement with markets and the global regulatory community.</span></p>
+<p><span>As I noted in keynote remarks last year at NYU&rsquo;s AI Convening, it is imperative for government and regulators to demonstrate a deep and abiding commitment to developing well-informed, research-based, data-driven regulatory solutions that are well-tailored, fit-for-purpose interventions. This requires a multi-stakeholder, public-private partnership that may include for advancing technologies developers, market participants, academics, government and industry researchers, diverse regulators across the financial markets, and public interest organizations.</span><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson15#_ftn28" name="_ftnref28"><span>[28]</span></a><span></span></p>
+<p><span>Last year, in response to a staff advisory on the use of AI in CFTC-regulated markets,</span><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson15#_ftn29" name="_ftnref29"><span>[29]</span></a><span>&nbsp;I noted that &ldquo;[w]orking in partnership with market participants, we are able to enhance our ability to accomplish our mission of ensuring market stability and market integrity. .&rdquo;</span><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson15#_ftn30" name="_ftnref30"><span>[30]</span></a><span></span></p>
+<p><span>I started this week in Davos, Switzerland, where I shared remarks at a conference about blockchain and AI, and about how the World Economic Forum Annual Meeting theme of &ldquo;Collaboration for the Intelligent Age&rdquo; is relevant to my work at the CFTC on these topics. World leaders in government, business, and civil society are still there, discussing the most pressing issues facing our global markets and broader societies, and trying to solve problems on a global scale. Nowhere is that more salient than in the United States, as we are close out the first week of a new executive administration.</span></p>
+<p><span>When we reflect on the future of finance, we must think back to the lessons learned as markets navigated sustained periods of extreme distress. Collaboration has served as one of the most important tools in our toolkit.</span></p>
+<p><span>The creation of the Financial Stability Oversight Council has proved a valuable source for convening the heads of financial market regulators across our government can carefully identifying and addressing anticipated systemic risk concerns. In addition to collaboration across market and prudential regulators, efforts by the SEC and CFTC to navigate implementation of the Dodd-Frank Act rules offers a second example of successful collaboration among market regulators. The discussions regarding regulation of AI, crypto, and other novel and emerging technologies should benefit from similar collaboration across regulators authority and across the aisle.</span></p>
+<p><span>Navigating difficult conditions requires focus, discipline, leadership and a steady hand at the helm. In recent years, our markets have navigated the onset of a global pandemic, geopolitical conflicts, sustained inflation.</span></p>
+<p><span>I am committed to working together to achieve this goal. As we enter this new year and new administration, collaboration will be as important as ever to achieve the benefits of scale and take advantage of all that innovation has to offer financial markets.</span></p>
+<p><span>Simply stated, and echoing this year&rsquo;s World Economic Forum theme at Davos, we must find a path to collaboration in an intelligent age.</span></p>
+<div>
+<hr />
+<div id="ftn1">
+<p><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson15#_ftnref1" name="_ftn1"><span>[1]</span></a><span>&nbsp;Remarks of Commissioner Kristin Johnson at the Global Blockchain Business Council&rsquo;s 8th Annual Blockchain Central Davos: Collaboration for the Intelligent Age (Jan. 20, 2025),&nbsp;</span><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson14"><span>https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson14</span></a><span>.</span></p>
+</div>
+<div id="ftn2">
+<p><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson15#_ftnref2" name="_ftn2"><span>[2]</span></a><span>&nbsp;Securities and Exchange Commission, Shortening the Securities Transaction Settlement Cycle (Feb. 15, 2023),&nbsp;</span><a href="https://www.sec.gov/files/rules/final/2023/34-96930.pdf"><span>https://www.sec.gov/files/rules/final/2023/34-96930.pdf</span></a><span>.</span></p>
+</div>
+<div id="ftn3">
+<p><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson15#_ftnref3" name="_ftn3"><span>[3]</span></a><span>&nbsp;328 U.S. 293 (1946).</span></p>
+</div>
+<div id="ftn4">
+<p><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson15#_ftnref4" name="_ftn4"><span>[4]</span></a><span>&nbsp;</span><em><span>See&nbsp;</span></em><span>U.S. Department of the Treasury, Artificial Intelligence in Financial Services (Dec. 2024),&nbsp;</span><a href="https://home.treasury.gov/system/files/136/Artificial-Intelligence-in-Financial-Services.pdf"><span>https://home.treasury.gov/system/files/136/Artificial-Intelligence-in-Financial-Services.pdf</span></a><span>&nbsp;(Treasury December Report).</span></p>
+</div>
+<div id="ftn5">
+<p><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson15#_ftnref5" name="_ftn5"><span>[5]</span></a><span>&nbsp;Treasury December Report at 15.</span></p>
+</div>
+<div id="ftn6">
+<p><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson15#_ftnref6" name="_ftn6"><span>[6]</span></a><span>&nbsp;LabCFTC, A Primer on Artificial Intelligence in Financial Markets (Oct. 24, 2019),&nbsp;</span><a href="http://www.cftc.gov/exit/index.htm?https://www.cftc.gov/media/2846/LabCFTC_PrimerArtificialIntelligence102119/download" target="_blank"><span>https://www.cftc.gov/media/2846/LabCFTC_PrimerArtificialIntelligence102119/download</span></a><span>.</span></p>
+</div>
+<div id="ftn7">
+<p><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson15#_ftnref7" name="_ftn7"><span>[7]</span></a><span>&nbsp;Treasury December Report at 14.</span></p>
+</div>
+<div id="ftn8">
+<p><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson15#_ftnref8" name="_ftn8"><span>[8]</span></a><span>&nbsp;Treasury December Report at 15.</span></p>
+</div>
+<div id="ftn9">
+<p><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson15#_ftnref9" name="_ftn9"><span>[9]</span></a><span>&nbsp;Treasury December Report at 16.</span></p>
+</div>
+<div id="ftn10">
+<p><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson15#_ftnref10" name="_ftn10"><span>[10]</span></a><span>&nbsp;Kristin N. Johnson, Commissioner, CFTC, Speech of Commissioner Kristin Johnson: Building A Regulatory Framework for AI in Financial Markets, (Feb. 23, 2024),&nbsp;</span><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson10#_ftn6"><span>https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson10</span></a><span>.</span></p>
+</div>
+<div id="ftn11">
+<p><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson15#_ftnref11" name="_ftn11"><span>[11]</span></a><span>&nbsp;Financial Stability Board, The AI adventure: how artificial intelligence may shape the economy and the financial system - Financial Stability Board (July 2024),&nbsp;</span><a href="https://www.fsb.org/2024/07/the-ai-adventure-how-artificial-intelligence-may-shape-the-economy-and-the-financial-system/"><span>https://www.fsb.org/2024/07/the-ai-adventure-how-artificial-intelligence-may-shape-the-economy-and-the-financial-system/</span></a><span>.</span></p>
+</div>
+<div id="ftn12">
+<p><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson15#_ftnref12" name="_ftn12"><span>[12]</span></a><span>&nbsp;U.S. Department of the Treasury, Managing Artificial Intelligence-Specific Cybersecurity Risks in the Financial Services Sector at 16 (Mar. 2024),&nbsp;</span><a href="https://home.treasury.gov/system/files/136/Managing-Artificial-Intelligence-Specific-Cybersecurity-Risks-In-The-Financial-Services-Sector.pdf"><span>https://home.treasury.gov/system/files/136/Managing-Artificial-Intelligence-Specific-Cybersecurity-Risks-In-The-Financial-Services-Sector.pdf</span></a><span>&nbsp;(Treasury March Report).</span></p>
+</div>
+<div id="ftn13">
+<p><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson15#_ftnref13" name="_ftn13"><span>[13]</span></a><span>&nbsp;Treasury December Report at 25.</span></p>
+</div>
+<div id="ftn14">
+<p><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson15#_ftnref14" name="_ftn14"><span>[14]</span></a><span>&nbsp;U.S. Commodity Futures Trading Commission, Request for Comment on the Use of Artificial Intelligence in CFTC-Regulated Markets (Jan. 25, 2024),&nbsp;</span><a href="https://www.cftc.gov/PressRoom/PressReleases/8853-24"><span>https://www.cftc.gov/PressRoom/PressReleases/8853-24</span></a><span>.</span></p>
+</div>
+<div id="ftn15">
+<p><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson15#_ftnref15" name="_ftn15"><span>[15]</span></a><span>&nbsp;U.S. Department of the Treasury, Request for Information on Uses, Opportunities, and Risks of Artificial Intelligences in the Financial Services Sector (June 6, 2024),&nbsp;</span><a href="https://home.treasury.gov/system/files/136/Treasury-AI-RFI-financial-sector-2024.pdf"><span>https://home.treasury.gov/system/files/136/Treasury-AI-RFI-financial-sector-2024.pdf</span></a><span>.</span></p>
+</div>
+<div id="ftn16">
+<p><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson15#_ftnref16" name="_ftn16"><span>[16]</span></a><span>&nbsp;See Treasury December Report.</span></p>
+</div>
+<div id="ftn17">
+<p><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson15#_ftnref17" name="_ftn17"><span>[17]</span></a><span>&nbsp;Kristin N. Johnson, Commissioner, CFTC, Speech of Commissioner Kristin Johnson: Building A Regulatory Framework for AI in Financial Markets, (Feb. 23, 2024),&nbsp;</span><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson10#_ftn6"><span>https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson10</span></a><span>.</span></p>
+</div>
+<div id="ftn18">
+<p><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson15#_ftnref18" name="_ftn18"><span>[18]</span></a><span>&nbsp;Treasury December Report at 30.</span></p>
+</div>
+<div id="ftn19">
+<p><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson15#_ftnref19" name="_ftn19"><span>[19]</span></a><span>&nbsp;&ldquo;While many financial firms operating in the financial services sector are subject to laws and regulations that are technology-agnostic and can apply to AI technologies, respondents noted different regulatory standards among financial firms for the same activities.&rdquo; Treasury December Report at 28.</span></p>
+</div>
+<div id="ftn20">
+<p><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson15#_ftnref20" name="_ftn20"><span>[20]</span></a><span>&nbsp;</span><a href="https://home.treasury.gov/system/files/261/FSOC2024AnnualReport.pdf"><span>FSOC 2024 Annual Report</span></a><span>&nbsp;at 86.</span></p>
+</div>
+<div id="ftn21">
+<p><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson15#_ftnref21" name="_ftn21"><span>[21]</span></a><span>&nbsp;</span><a href="https://home.treasury.gov/system/files/261/FSOC2024AnnualReport.pdf"><span>FSOC 2024 Annual Report</span></a><span>&nbsp;at 86.</span></p>
+</div>
+<div id="ftn22">
+<p><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson15#_ftnref22" name="_ftn22"><span>[22]</span></a><span>&nbsp;Sharon Y. Bowen, Commissioner, CFTC, Testimony of Commissioner Sharon Y. Bowen before the U.S. House Committee on Agriculture Subcommittee on Commodity Exchanges, Energy, and Credit (April 2015),&nbsp;</span><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opabowen-3"><span>https://www.cftc.gov/PressRoom/SpeechesTestimony/opabowen-3</span></a><span>.</span></p>
+</div>
+<div id="ftn23">
+<p><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson15#_ftnref23" name="_ftn23"><span>[23]</span></a><span>&nbsp;Kristin N. Johnson, Commissioner, CFTC, Statement of Commissioner Kristin N. Johnson on Future-Proofing Financial Markets: Assessing the Integration of Artificial Intelligence in Global Derivatives Markets (Dec. 5, 2024),&nbsp;</span><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/johnsonstatement120524"><span>https://www.cftc.gov/PressRoom/SpeechesTestimony/johnsonstatement120524</span></a><span>.</span></p>
+</div>
+<div id="ftn24">
+<p><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson15#_ftnref24" name="_ftn24"><span>[24]</span></a><span>&nbsp;Kristin N. Johnson, Commissioner, CFTC, Opening Remarks of Commissioner Kristin N. Johnson at FIA L&amp;C Panel: Futureproofing Financial Markets: AI and Derivatives Markets (Apr. 25, 2024),&nbsp;</span><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson13#_ftnref2"><span>https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson13#_ftnref2</span></a><span>.</span></p>
+</div>
+<div id="ftn25">
+<p><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson15#_ftnref25" name="_ftn25"><span>[25]</span></a><span>&nbsp;</span><em><span>See</span></em><span>&nbsp;1, 17 C.F.R. Pt. 1 (segregation of futures customer funds); 17 C.F.R. Pt. 22&nbsp;(segregation of swaps customer funds); 17 C.F.R. Pt. 30 (segregation of foreign futures customer funds).</span></p>
+</div>
+<div id="ftn26">
+<p><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson15#_ftnref26" name="_ftn26"><span>[26]</span></a><span>&nbsp;7 U.S.C. &sect; 6d(a)(2).</span></p>
+</div>
+<div id="ftn27">
+<p><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson15#_ftnref27" name="_ftn27"><span>[27]</span></a><span>&nbsp;Kristin N. Johnson, Commissioner, CFTC, Statement of Commissioner Kristin N. Johnson: Prioritizing Customer Protection and Combatting Fraud by FTX and Alameda (Aug. 8, 2024),&nbsp;</span><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/johnsonstatment080824"><span>https://www.cftc.gov/PressRoom/SpeechesTestimony/johnsonstatment080824</span></a><span>.</span></p>
+</div>
+<div id="ftn28">
+<p><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson15#_ftnref28" name="_ftn28"><span>[28]</span></a><span>&nbsp;Kristin N. Johnson, Commissioner, CFTC, Keynote Remarks by Commissioner Kristin N. Johnson at NYU AI Convening: The Potential, Promise, and Limitations of Integrating AI in Financial Markets (Apr. 10, 2024),&nbsp;</span><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson12"><span>https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson12</span></a><span>.</span></p>
+</div>
+<div id="ftn29">
+<p><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson15#_ftnref29" name="_ftn29"><span>[29]</span></a><span>&nbsp;CFTC, Letter No. 24-17: Use of Artificial Intelligence in CFTC-Regulated Markets (Dec. 5, 2024),&nbsp;</span><a href="https://www.cftc.gov/PressRoom/PressReleases/9013-24"><span>https://www.cftc.gov/PressRoom/PressReleases/9013-24</span></a><span>.&nbsp;</span></p>
+</div>
+<div id="ftn30">
+<p><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson15#_ftnref30" name="_ftn30"><span>[30]</span></a><span>&nbsp;Kristin N. Johnson, Commissioner, CFTC, Statement of Commissioner Kristin N. Johnson on Future-Proofing Financial Markets: Assessing the Integration of Artificial Intelligence in Global Derivatives Markets (Dec. 5, 2024),&nbsp;</span><a href="https://www.cftc.gov/PressRoom/SpeechesTestimony/johnsonstatement120524"><span>https://www.cftc.gov/PressRoom/SpeechesTestimony/johnsonstatement120524</span></a><span>.</span></p>
+</div>
+</div>
+<h2 class="block-title">RELATED LINKS</h2>
+<div class="form-group">
+<div class="view view-related-links-side-bar view-id-related_links_side_bar view-display-id-block_1 js-view-dom-id-7653408daf6bf5bda2f1e46fede8d80a64d43fe2639a4b715a4863c72fd43781">
+<div class="view-content">
+<div class="item-list">
+<ul>
+<li>
+<div class="views-field views-field-field-related-links">
+<div class="field-content"><a href="https://www.cftc.gov/PressRoom/Events/opaeventjohnson012425">Event: Commissioner Johnson to Deliver Keynote Address at University of Chicago Law School</a></div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+]]></content:encoded>
+<pubDate>Sat, 25 Jan 2025 06:12:56 GMT</pubDate>
+<pubDate>Sat, 25 Jan 2025 06:12:56 GMT</pubDate>
+</item>
+<item>
+<title>FIA Statement On EU Equivalence For UK Clearinghouses</title>
+<link>http://www.mondovisione.com/media-and-resources/news/fia-statement-on-eu-equivalence-for-uk-clearinghouses/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/fia-statement-on-eu-equivalence-for-uk-clearinghouses/</guid>
+<content:encoded><![CDATA[
+
+<div>
+<p>Jackie Mesa, FIA's Chief Operating Officer &amp; Senior Vice President of Global Policy, made the following statement on the equivalence decision announced by the European Commission.&nbsp;</p>
+</div>
+<div>
+<p>"FIA welcomes the Commission&rsquo;s proposed extension of the equivalence decision. While our members prefer a non-time limited equivalence determination, once finalised, the three-year extension will provide much needed certainty to EU market participants for the moment."&nbsp;</p>
+</div>
+]]></content:encoded>
+<pubDate>Sat, 25 Jan 2025 06:21:42 GMT</pubDate>
+<pubDate>Sat, 25 Jan 2025 06:21:42 GMT</pubDate>
+</item>
 
 <item>
 <title>SIFMA Statement On Rescission Of SEC Staff Accounting Bulletin 121</title>
