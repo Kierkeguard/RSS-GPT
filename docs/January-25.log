@@ -1512,3 +1512,18 @@ Existing_entries: 226
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-01-27 10:22:06.723200
+------------------------------------------------------
+Started: 2025-01-27 12:39:51.896314
+Existing_entries: 226
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ICE To Launch MSCI® Equity Index Futures On ICE Futures Abu Dhabi - Launch Extends Equities Access To Gulf And Indian Markets](http://www.mondovisione.com/media-and-resources/news/ice-to-launch-msci-equity-index-futures-on-ice-futures-abu-dhabi-launch-exten/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Central Bank Independence In An Era Of Volatility - Lamfalussy Lecture By Christine Lagarde, President Of The ECB, At The Lamfalussy Lectures Conference Organised By The Magyar Nemzeti Bank, Pre-Recorded In Frankfurt Am Main On 15 January 2025](http://www.mondovisione.com/media-and-resources/news/central-bank-independence-in-an-era-of-volatility-lamfalussy-lecture-by-christ/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX Stock Exchange Participants' Market Share Report](http://www.mondovisione.com/media-and-resources/news/hkex-stock-exchange-participants-market-share-report-49/)
+append_entries: 3
+Finish: 2025-01-27 12:39:52.864946
