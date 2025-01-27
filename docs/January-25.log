@@ -1576,3 +1576,15 @@ Append: [Executive Director Åsa Larson To Leave Finansinspektionen](http://www.
 Append: [The 35 Companies Included On Tel Aviv Stock Exchange “100 Club” That Achieved A Share-Yield Increase Of More Than 100% In 2024 - The 35 Companies Management Opened Today Trading On TASE](http://www.mondovisione.com/media-and-resources/news/the-35-companies-included-on-tel-aviv-stock-exchange-100-club-that-achieved-a/)
 append_entries: 9
 Finish: 2025-01-27 18:27:35.179570
+------------------------------------------------------
+Started: 2025-01-27 20:21:37.965482
+Existing_entries: 242
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC: Federal Court Orders Lions Of Forex And Owner To Pay $685,000 For Foreign Currency Fraud](http://www.mondovisione.com/media-and-resources/news/cftc-federal-court-orders-lions-of-forex-and-owner-to-pay-685000-for-foreign/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Sheep In The Steep: Remarks Before The Northwestern Securities Regulation Institute - SEC Commissioner Hester M. Peirce, Washington D.C., Jan. 27, 2025](http://www.mondovisione.com/media-and-resources/news/sheep-in-the-steep-remarks-before-the-northwestern-securities-regulation-instit/)
+append_entries: 2
+Finish: 2025-01-27 20:21:38.867111
