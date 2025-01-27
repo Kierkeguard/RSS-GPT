@@ -1542,3 +1542,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Carpet Manufacturer IPO On Tehran Securities Exchange](http://www.mondovisione.com/media-and-resources/news/carpet-manufacturer-ipo-on-tehran-securities-exchange/)
 append_entries: 3
 Finish: 2025-01-27 14:18:56.644426
+------------------------------------------------------
+Started: 2025-01-27 16:25:11.291219
+Existing_entries: 232
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Options And MIAX Emerald Options - Effective For Trade Date January 27, 2025, 2X OPENING And INTRADAY Valid And Priority Quote Spread Relief In All Symbols](http://www.mondovisione.com/media-and-resources/news/miax-options-and-miax-emerald-options-effective-for-trade-date-january-27-202/)
+append_entries: 1
+Finish: 2025-01-27 16:25:12.138366
