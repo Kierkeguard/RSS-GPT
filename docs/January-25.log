@@ -1483,3 +1483,26 @@ Existing_entries: 219
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-01-27 06:28:59.795561
+------------------------------------------------------
+Started: 2025-01-27 08:26:57.658801
+Existing_entries: 219
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bursa Malaysia Records RM310.1 Million Profit After Tax, Zakat And Minority Interest For The Financial Year Ended 31 December 2024](http://www.mondovisione.com/media-and-resources/news/bursa-malaysia-records-rm3101-million-profit-after-tax-zakat-and-minority-inte/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [INE Has Released Its Circular On Releasing The Revised Clearing Rules Of The Shanghai International Energy Exchange And Other Implementing Rules](http://www.mondovisione.com/media-and-resources/news/ine-has-released-its-circular-on-releasing-the-revised-clearing-rules-of-the-sha/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Dato’ Fad’l Mohamed Named New Chief Executive Officer Of Bursa Malaysia](http://www.mondovisione.com/media-and-resources/news/dato-fadl-mohamed-named-new-chief-executive-officer-of-bursa-malaysia/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Shenzhen Stock Exchange Market Bulletin, January 24, 2025, Issue 4](http://www.mondovisione.com/media-and-resources/news/shenzhen-stock-exchange-market-bulletin-january-24-2025-issue-4/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Securities Commission Malaysia Launches SARANA To Widen Financing Options For MSMEs And Small Contractors - Showcases Nine P2P Operators](http://www.mondovisione.com/media-and-resources/news/securities-commission-malaysia-launches-sarana-to-widen-financing-options-for-ms/)
+Append: [Fixed Income And Thematic Investing Drives AUM For ETFs Benchmarked To ICE Indices To Record Level In Asia-Pacific In 2024](http://www.mondovisione.com/media-and-resources/news/fixed-income-and-thematic-investing-drives-aum-for-etfs-benchmarked-to-ice-indic/)
+Append: [Qatar Stock Exchange Announces Changes To Index Review Schedule Effective March 2025](http://www.mondovisione.com/media-and-resources/news/qatar-stock-exchange-announces-changes-to-index-review-schedule-effective-march/)
+append_entries: 7
+Finish: 2025-01-27 08:26:59.084941
