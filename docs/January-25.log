@@ -1527,3 +1527,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [HKEX Stock Exchange Participants' Market Share Report](http://www.mondovisione.com/media-and-resources/news/hkex-stock-exchange-participants-market-share-report-49/)
 append_entries: 3
 Finish: 2025-01-27 12:39:52.864946
+------------------------------------------------------
+Started: 2025-01-27 14:18:55.641231
+Existing_entries: 229
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MarketAxess Announces Updated Time For Conference Call Announcing Fourth Quarter And Full-Year 2024 Financial Results On Thursday, February 6, 2025](http://www.mondovisione.com/media-and-resources/news/marketaxess-announces-updated-time-for-conference-call-announcing-fourth-quarter/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Moscow Exchange: Risk Parameters For New Futures On The Derivatives Market](http://www.mondovisione.com/media-and-resources/news/moscow-exchange-risk-parameters-for-new-futures-on-the-derivatives-market/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Carpet Manufacturer IPO On Tehran Securities Exchange](http://www.mondovisione.com/media-and-resources/news/carpet-manufacturer-ipo-on-tehran-securities-exchange/)
+append_entries: 3
+Finish: 2025-01-27 14:18:56.644426
