@@ -1588,3 +1588,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Sheep In The Steep: Remarks Before The Northwestern Securities Regulation Institute - SEC Commissioner Hester M. Peirce, Washington D.C., Jan. 27, 2025](http://www.mondovisione.com/media-and-resources/news/sheep-in-the-steep-remarks-before-the-northwestern-securities-regulation-instit/)
 append_entries: 2
 Finish: 2025-01-27 20:21:38.867111
+------------------------------------------------------
+Started: 2025-01-27 22:18:44.617847
+Existing_entries: 244
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MarketAxess Elects Roberto Hoornweg To Its Board Of Directors](http://www.mondovisione.com/media-and-resources/news/marketaxess-elects-roberto-hoornweg-to-its-board-of-directors/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Announces Mid-Month Open Short Interest Positions In Nasdaq Stocks As Of Settlement Date January 15, 2025](http://www.mondovisione.com/media-and-resources/news/nasdaq-announces-mid-month-open-short-interest-positions-in-nasdaq-stocks-as-of-49/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NYSE Group Consolidated Short Interest Report](http://www.mondovisione.com/media-and-resources/news/nyse-group-consolidated-short-interest-report-49/)
+append_entries: 3
+Finish: 2025-01-27 22:18:45.392447
