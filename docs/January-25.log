@@ -1690,3 +1690,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Announcing The Dates For The 6th Annual ETFGI Global ETFs Insights Summit - Asia Pacific!](http://www.mondovisione.com/media-and-resources/news/announcing-the-dates-for-the-6th-annual-etfgi-global-etfs-insights-summit-asia/)
 append_entries: 2
 Finish: 2025-01-28 16:25:21.436454
+------------------------------------------------------
+Started: 2025-01-28 18:27:23.183151
+Existing_entries: 258
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Commissioner Johnson To Speak At ABA Derivatives And Futures Law Winter Committee Meeting](http://www.mondovisione.com/media-and-resources/news/cftc-commissioner-johnson-to-speak-at-aba-derivatives-and-futures-law-winter-com/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Middle East Families To Experience USD 1trn Transfer Of Generational Wealth By 2030](http://www.mondovisione.com/media-and-resources/news/middle-east-families-to-experience-usd-1trn-transfer-of-generational-wealth-by-2/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Dubai Financial Services Authority Co-Leads Report On Consumer-Facing AI’s Transformative Impact In Financial Services, Offering Key Insights For Global Regulators](http://www.mondovisione.com/media-and-resources/news/dubai-financial-services-authority-co-leads-report-on-consumer-facing-ais-trans/)
+append_entries: 3
+Finish: 2025-01-28 18:27:24.051653
