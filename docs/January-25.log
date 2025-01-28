@@ -1705,3 +1705,26 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Dubai Financial Services Authority Co-Leads Report On Consumer-Facing AI’s Transformative Impact In Financial Services, Offering Key Insights For Global Regulators](http://www.mondovisione.com/media-and-resources/news/dubai-financial-services-authority-co-leads-report-on-consumer-facing-ais-trans/)
 append_entries: 3
 Finish: 2025-01-28 18:27:24.051653
+------------------------------------------------------
+Started: 2025-01-28 20:21:37.139879
+Existing_entries: 261
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Commissioner Johnson To Address Commodity Market Council’s Board Of Directors And Executives At 2025 State Of The Industry Conference](http://www.mondovisione.com/media-and-resources/news/cftc-commissioner-johnson-to-address-commodity-market-councils-board-of-directo-1/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Commissioner Mersinger To Participate In A Fireside Chat And To Speak On A Panel At The American Bar Association’s Derivatives And Futures Law Winter Committee Meeting](http://www.mondovisione.com/media-and-resources/news/cftc-commissioner-mersinger-to-participate-in-a-fireside-chat-and-to-speak-on-a/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Alberta Securities Commission: Top Concepts From ScamShield: Investor Protection Challenge Selected To Move Forward](http://www.mondovisione.com/media-and-resources/news/alberta-securities-commission-top-concepts-from-scamshield-investor-protection/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FINRA Publishes 2025 Regulatory Oversight Report - Report Highlights Third-Party Risk Landscape And Other New Topics; Includes Observations About Cybersecurity, Artificial Intelligence, Investment Fraud And Others](http://www.mondovisione.com/media-and-resources/news/finra-publishes-2025-regulatory-oversight-report-report-highlights-third-party/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bank Of England Opens New Contingent Non-Bank Lending Facility For Applications](http://www.mondovisione.com/media-and-resources/news/bank-of-england-opens-new-contingent-non-bank-lending-facility-for-applications/)
+Append: [Euribor Panel To Include Finland’s OP Corporate Bank And The National Bank Of Greece](http://www.mondovisione.com/media-and-resources/news/euribor-panel-to-include-finlands-op-corporate-bank-and-the-national-bank-of-gr/)
+Append: [Bank Of England: Contingent NBFI Repo Facility (CNRF) – Market Notice 28 January 2025](http://www.mondovisione.com/media-and-resources/news/bank-of-england-contingent-nbfi-repo-facility-cnrf-market-notice-28-january/)
+append_entries: 7
+Finish: 2025-01-28 20:21:38.450060
