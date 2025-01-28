@@ -1678,3 +1678,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Broadridge Appoints Quentin Limouzi As Global Head Of Post-Trade](http://www.mondovisione.com/media-and-resources/news/broadridge-appoints-quentin-limouzi-as-global-head-of-post-trade/)
 append_entries: 4
 Finish: 2025-01-28 14:18:49.344622
+------------------------------------------------------
+Started: 2025-01-28 16:25:20.152356
+Existing_entries: 256
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Interactive Brokers Chooses Pirum’s CoacsConnect To Automate Corporate Actions](http://www.mondovisione.com/media-and-resources/news/interactive-brokers-chooses-pirums-coacsconnect-to-automate-corporate-actions/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Announcing The Dates For The 6th Annual ETFGI Global ETFs Insights Summit - Asia Pacific!](http://www.mondovisione.com/media-and-resources/news/announcing-the-dates-for-the-6th-annual-etfgi-global-etfs-insights-summit-asia/)
+append_entries: 2
+Finish: 2025-01-28 16:25:21.436454
