@@ -1660,3 +1660,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [HKEX Report On Initial Public Offering Applications, Delisting And Suspensions (January 2025)](http://www.mondovisione.com/media-and-resources/news/hkex-report-on-initial-public-offering-applications-delisting-and-suspensions-49/)
 append_entries: 2
 Finish: 2025-01-28 12:39:04.191180
+------------------------------------------------------
+Started: 2025-01-28 14:18:47.854639
+Existing_entries: 252
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Hamilton ETFs Introduces U.S. & Canadian Dividend ETFs Tracking The Solactive Dividend Elite Index Series](http://www.mondovisione.com/media-and-resources/news/hamilton-etfs-introduces-us-and-canadian-dividend-etfs-tracking-the-solactive-di/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ICE Announces Plans To Launch Environmental Registry Technology Services To Bring State-Of-The-Art Infrastructure To Support The Growth Of Carbon Markets - Launch Partners ACR And ART Will Transition To The Next-Generation Registry Platform In 2025](http://www.mondovisione.com/media-and-resources/news/ice-announces-plans-to-launch-environmental-registry-technology-services-to-brin/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Correspondence: Remit And Recommendations For The UK Financial Policy Committee: November 2024](http://www.mondovisione.com/media-and-resources/news/correspondence-uk-remit-and-recommendations-for-the-financial-policy-committee/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Broadridge Appoints Quentin Limouzi As Global Head Of Post-Trade](http://www.mondovisione.com/media-and-resources/news/broadridge-appoints-quentin-limouzi-as-global-head-of-post-trade/)
+append_entries: 4
+Finish: 2025-01-28 14:18:49.344622
