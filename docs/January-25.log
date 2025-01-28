@@ -1627,3 +1627,18 @@ Existing_entries: 247
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-01-28 06:27:55.701972
+------------------------------------------------------
+Started: 2025-01-28 08:25:57.772766
+Existing_entries: 247
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euronext To Acquire Nasdaq’s Nordic Power Futures Business](http://www.mondovisione.com/media-and-resources/news/euronext-to-acquire-nasdaqs-nordic-power-futures-business/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Japan Weeks 2025](http://www.mondovisione.com/media-and-resources/news/japan-weeks-2025/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIFMA Statement On Confirmation Of Treasury Secretary Bessent](http://www.mondovisione.com/media-and-resources/news/sifma-statement-on-confirmation-of-treasury-secretary-bessent/)
+append_entries: 3
+Finish: 2025-01-28 08:25:58.840433
