@@ -1642,3 +1642,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SIFMA Statement On Confirmation Of Treasury Secretary Bessent](http://www.mondovisione.com/media-and-resources/news/sifma-statement-on-confirmation-of-treasury-secretary-bessent/)
 append_entries: 3
 Finish: 2025-01-28 08:25:58.840433
+------------------------------------------------------
+Started: 2025-01-28 10:20:47.499378
+Existing_entries: 250
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-01-28 10:20:48.187926
