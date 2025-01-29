@@ -1821,3 +1821,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Rostro Group Bolsters Senior Team With Two New Hires - Adds New Group Finance Director And Managing Director, Systematic Market Making](http://www.mondovisione.com/media-and-resources/news/rostro-group-bolsters-senior-team-with-two-new-hires-adds-new-group-finance-di/)
 append_entries: 5
 Finish: 2025-01-29 14:18:34.449617
+------------------------------------------------------
+Started: 2025-01-29 16:25:55.939041
+Existing_entries: 281
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group Futures To Launch On Robinhood, Bringing New Trading Opportunities To Retail Investors](http://www.mondovisione.com/media-and-resources/news/cme-group-futures-to-launch-on-robinhood-bringing-new-trading-opportunities-to/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Miami International Holdings To List Bloomberg 500 Index Futures And Options On MIAX Exchanges](http://www.mondovisione.com/media-and-resources/news/miami-international-holdings-to-list-bloomberg-500-index-futures-and-options-on/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Texture Capital Joins Canton Network In Preparation For Deployment Of Its Alternative Trading System And Transfer Agent To Facilitate Institutional Digital Securities Transactions](http://www.mondovisione.com/media-and-resources/news/texture-capital-joins-canton-network-in-preparation-for-deployment-of-its-altern/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tim Whittaker Succeeds Frederic Blanc-Brude As Director Of The EDHEC Infrastructure & Private Assets Research Institute (EIPA)](http://www.mondovisione.com/media-and-resources/news/tim-whittaker-succeeds-frederic-blanc-brude-as-director-of-the-edhec-infrastruct/)
+append_entries: 4
+Finish: 2025-01-29 16:25:57.402480
