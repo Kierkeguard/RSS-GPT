@@ -1869,3 +1869,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ISDA & The Centre For Financial Technology: Challenges And Opportunities Of Digital Transformation, January 29, 2025, Opening Remarks, Scott O’ Malia, ISDA Chief Executive](http://www.mondovisione.com/media-and-resources/news/isda-and-the-centre-for-financial-technology-challenges-and-opportunities-of-digi/)
 append_entries: 4
 Finish: 2025-01-29 20:21:27.905523
+------------------------------------------------------
+Started: 2025-01-29 22:19:01.891726
+Existing_entries: 291
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC, SEC Extend Form PF Amendments Compliance Date](http://www.mondovisione.com/media-and-resources/news/cftc-sec-extend-form-pf-amendments-compliance-date/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Fiserv Named A World’s Most Admired Company For 2025 - For 10 Of The Last 11 Years, Fiserv Has Been Recognized As A World’s Most Admired Company](http://www.mondovisione.com/media-and-resources/news/fiserv-named-a-worlds-most-admired-company-for-2025-for-10-of-the-last-11-yea/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC: Federal Court Orders International Enterprise To Pay Over $451 Million For Global Binary Options Fraud](http://www.mondovisione.com/media-and-resources/news/cftc-federal-court-orders-international-enterprise-to-pay-over-451-million-for/)
+append_entries: 3
+Finish: 2025-01-29 22:19:02.693049
