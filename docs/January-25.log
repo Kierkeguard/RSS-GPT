@@ -1851,3 +1851,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [EGX To Offer New Course For Investor Relations Officers](http://www.mondovisione.com/media-and-resources/news/egx-to-offer-new-course-for-investor-relations-officers/)
 append_entries: 2
 Finish: 2025-01-29 18:27:43.060220
+------------------------------------------------------
+Started: 2025-01-29 20:21:26.960289
+Existing_entries: 287
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC: Extension Of Form PF Amendments Compliance Date](http://www.mondovisione.com/media-and-resources/news/sec-extension-of-form-pf-amendments-compliance-date/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Federal Reserve Issues FOMC Statement](http://www.mondovisione.com/media-and-resources/news/federal-reserve-issues-fomc-statement-49/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group To Launch Options On Bitcoin Friday Futures](http://www.mondovisione.com/media-and-resources/news/cme-group-to-launch-options-on-bitcoin-friday-futures/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ISDA & The Centre For Financial Technology: Challenges And Opportunities Of Digital Transformation, January 29, 2025, Opening Remarks, Scott O’ Malia, ISDA Chief Executive](http://www.mondovisione.com/media-and-resources/news/isda-and-the-centre-for-financial-technology-challenges-and-opportunities-of-digi/)
+append_entries: 4
+Finish: 2025-01-29 20:21:27.905523
