@@ -1800,3 +1800,24 @@ Existing_entries: 276
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-01-29 12:38:37.166312
+------------------------------------------------------
+Started: 2025-01-29 14:18:32.604544
+Existing_entries: 276
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Enterprise And ONEOK Extend Terminal Transfer Fee Waiver For ICE Midland WTI (HOU) Crude Deliveries To The End Of 2028](http://www.mondovisione.com/media-and-resources/news/enterprise-and-oneok-extend-terminal-transfer-fee-waiver-for-ice-midland-wti-ho-1/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Announces Quarterly Dividend Of $0.24 Per Share](http://www.mondovisione.com/media-and-resources/news/nasdaq-announces-quarterly-dividend-of-024-per-share-2/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Reports Fourth Quarter And Full Year 2024 Results - A Year Of Strong Financial Performance And Strategic Execution](http://www.mondovisione.com/media-and-resources/news/nasdaq-reports-fourth-quarter-and-full-year-2024-results-a-year-of-strong-fina/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Issues First Fine For Transaction Reporting Failures Under MiFIR](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-issues-first-fine-for-transaction-reporting-failu/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Rostro Group Bolsters Senior Team With Two New Hires - Adds New Group Finance Director And Managing Director, Systematic Market Making](http://www.mondovisione.com/media-and-resources/news/rostro-group-bolsters-senior-team-with-two-new-hires-adds-new-group-finance-di/)
+append_entries: 5
+Finish: 2025-01-29 14:18:34.449617
