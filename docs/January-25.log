@@ -1767,3 +1767,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Scott Bessent Sworn In As 79th Secretary Of The US Department Of The Treasury](http://www.mondovisione.com/media-and-resources/news/scott-bessent-sworn-in-as-79th-secretary-of-the-us-department-of-the-treasury/)
 append_entries: 3
 Finish: 2025-01-29 06:27:58.103154
+------------------------------------------------------
+Started: 2025-01-29 08:26:02.757784
+Existing_entries: 271
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Economic And Financial Crimes Commission, NGX RegCo To Strengthen Partnership On Market Integrity](http://www.mondovisione.com/media-and-resources/news/economic-and-financial-crimes-commission-ngx-regco-to-strengthen-partnership-o/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Changes In The SIX Executive Board](http://www.mondovisione.com/media-and-resources/news/changes-in-the-six-executive-board/)
+append_entries: 2
+Finish: 2025-01-29 08:26:03.480814
