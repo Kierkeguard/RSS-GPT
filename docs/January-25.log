@@ -1752,3 +1752,18 @@ Existing_entries: 268
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-01-29 04:23:42.341454
+------------------------------------------------------
+Started: 2025-01-29 06:27:57.107143
+Existing_entries: 268
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Japan Financial Services Agency: Administrative Action Against AEON Bank, Ltd.](http://www.mondovisione.com/media-and-resources/news/japan-financial-services-agency-administrative-action-against-aeon-bank-ltd/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Publishes Annual Staff Report On Nationally Recognized Statistical Rating Organizations](http://www.mondovisione.com/media-and-resources/news/sec-publishes-annual-staff-report-on-nationally-recognized-statistical-rating-or-3/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Scott Bessent Sworn In As 79th Secretary Of The US Department Of The Treasury](http://www.mondovisione.com/media-and-resources/news/scott-bessent-sworn-in-as-79th-secretary-of-the-us-department-of-the-treasury/)
+append_entries: 3
+Finish: 2025-01-29 06:27:58.103154
