@@ -1839,3 +1839,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Tim Whittaker Succeeds Frederic Blanc-Brude As Director Of The EDHEC Infrastructure & Private Assets Research Institute (EIPA)](http://www.mondovisione.com/media-and-resources/news/tim-whittaker-succeeds-frederic-blanc-brude-as-director-of-the-edhec-infrastruct/)
 append_entries: 4
 Finish: 2025-01-29 16:25:57.402480
+------------------------------------------------------
+Started: 2025-01-29 18:27:41.540716
+Existing_entries: 285
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Commissioner Johnson To Moderate A Fireside Chat With The Honorable Sharon Bowen At FSP’s 10-Year Anniversary Celebration](http://www.mondovisione.com/media-and-resources/news/cftc-commissioner-johnson-to-moderate-a-fireside-chat-with-the-honorable-sharon/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [EGX To Offer New Course For Investor Relations Officers](http://www.mondovisione.com/media-and-resources/news/egx-to-offer-new-course-for-investor-relations-officers/)
+append_entries: 2
+Finish: 2025-01-29 18:27:43.060220
