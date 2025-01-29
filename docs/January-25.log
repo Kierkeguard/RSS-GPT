@@ -1779,3 +1779,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Changes In The SIX Executive Board](http://www.mondovisione.com/media-and-resources/news/changes-in-the-six-executive-board/)
 append_entries: 2
 Finish: 2025-01-29 08:26:03.480814
+------------------------------------------------------
+Started: 2025-01-29 10:20:43.495547
+Existing_entries: 273
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Exchange Data International Launches Comprehensive Data Suite On Snowflake Marketplace](http://www.mondovisione.com/media-and-resources/news/exchange-data-international-launches-comprehensive-data-suite-on-snowflake-marke/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [GCEX Scales With Fireblocks](http://www.mondovisione.com/media-and-resources/news/gcex-scales-with-fireblocks/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Call For papers - FESE De la Vega Prize 2025](http://www.mondovisione.com/media-and-resources/news/call-for-papers-fese-de-la-vega-prize-2025/)
+append_entries: 3
+Finish: 2025-01-29 10:20:44.282056
