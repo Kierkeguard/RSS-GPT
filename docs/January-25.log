@@ -1986,3 +1986,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Deutsche Börse: Xetra ETF & ETP Statistics 2024: Assets Under Management And Product Diversity Continue To Grow](http://www.mondovisione.com/media-and-resources/news/xetra-etf-and-etp-statistics-2024-assets-under-management-and-product-diversity-c/)
 append_entries: 1
 Finish: 2025-01-30 14:18:45.701908
+------------------------------------------------------
+Started: 2025-01-30 16:25:46.544965
+Existing_entries: 314
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NGX Group Hosts Katsina State Governor, Strengthens Collaboration On Capital Market Opportunities](http://www.mondovisione.com/media-and-resources/news/ngx-group-hosts-katsina-state-governor-strengthens-collaboration-on-capital-mar/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group To Launch Micro-Sized Grains And Oilseed Futures On February 24](http://www.mondovisione.com/media-and-resources/news/cme-group-to-launch-micro-sized-grains-and-oilseed-futures-on-february-24/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Accountancy And Fintech Thrive, Banking Falters: UK Finance Jobs Report 2025 - Morgan McKinley And Vacancysoft Report Highlights Key UK Finance Sector Trends For 2025](http://www.mondovisione.com/media-and-resources/news/accountancy-and-fintech-thrive-banking-falters-uk-finance-jobs-report-2025-m/)
+append_entries: 3
+Finish: 2025-01-30 16:25:47.517837
