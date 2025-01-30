@@ -2022,3 +2022,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [European Central Bank: Monetary Policy Decisions](http://www.mondovisione.com/media-and-resources/news/european-central-bank-monetary-policy-decisions-17/)
 append_entries: 5
 Finish: 2025-01-30 18:27:19.119099
+------------------------------------------------------
+Started: 2025-01-30 20:21:23.894831
+Existing_entries: 322
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Small Business Advisory Committee To Continue Discussing Challenges Facing Emerging Fund Managers, And Explore Hurdles For Small Public Companies Not Listed On A National Securities Exchange](http://www.mondovisione.com/media-and-resources/news/sec-small-business-advisory-committee-to-continue-discussing-challenges-facing-e/)
+append_entries: 1
+Finish: 2025-01-30 20:21:25.504493
