@@ -1902,3 +1902,24 @@ Existing_entries: 294
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-01-30 04:23:39.970984
+------------------------------------------------------
+Started: 2025-01-30 06:27:49.209949
+Existing_entries: 294
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Acts To Protect Small Business - Q2 FY25 Update](http://www.mondovisione.com/media-and-resources/news/asic-acts-to-protect-small-business-q2-fy25-update/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nadex Self-Certifies MELANIA Cryptocurrency Event Contracts](http://www.mondovisione.com/media-and-resources/news/nadex-self-certifies-melania-cryptocurrency-event-contracts/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nadex Self-Certifies TRUMP Cryptocurrency Event Contracts](http://www.mondovisione.com/media-and-resources/news/nadex-self-certifies-trump-cryptocurrency-event-contracts/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nadex Self-Certifies MELANIA Cryptocurrency Touch Bracket Contracts](http://www.mondovisione.com/media-and-resources/news/nadex-self-certifies-melania-cryptocurrency-touch-bracket-contracts/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nadex Self-Certifies TRUMP Cryptocurrency Touch Bracket Contracts](http://www.mondovisione.com/media-and-resources/news/nadex-self-certifies-trump-cryptocurrency-touch-bracket-contracts/)
+append_entries: 5
+Finish: 2025-01-30 06:27:49.970244
