@@ -1944,3 +1944,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Japan Exchange Group: Submission Of Report In Response To Reporting Order From Japan Financial Services Agency And Clarification Of Locus Of Responsibility](http://www.mondovisione.com/media-and-resources/news/japan-exchange-group-submission-of-report-in-response-to-reporting-order-from-j/)
 append_entries: 5
 Finish: 2025-01-30 08:24:54.122237
+------------------------------------------------------
+Started: 2025-01-30 10:20:33.977700
+Existing_entries: 304
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Sterling Trading Tech Builds Its Business Development - Industry Expert Chris Contrino Hired](http://www.mondovisione.com/media-and-resources/news/sterling-trading-tech-builds-its-business-development-industry-expert-chris-co/)
+append_entries: 1
+Finish: 2025-01-30 10:20:35.050460
