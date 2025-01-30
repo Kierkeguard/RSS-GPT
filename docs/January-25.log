@@ -2031,3 +2031,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SEC Small Business Advisory Committee To Continue Discussing Challenges Facing Emerging Fund Managers, And Explore Hurdles For Small Public Companies Not Listed On A National Securities Exchange](http://www.mondovisione.com/media-and-resources/news/sec-small-business-advisory-committee-to-continue-discussing-challenges-facing-e/)
 append_entries: 1
 Finish: 2025-01-30 20:21:25.504493
+------------------------------------------------------
+Started: 2025-01-30 22:18:14.674232
+Existing_entries: 323
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FSB MENA Group Discusses Cross-Border Payments, Non-Bank Financial Intermediation And Crypto-Asset Recommendations](http://www.mondovisione.com/media-and-resources/news/fsb-mena-group-discusses-cross-border-payments-non-bank-financial-intermediatio/)
+append_entries: 1
+Finish: 2025-01-30 22:18:15.744914
