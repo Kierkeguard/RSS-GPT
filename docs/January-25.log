@@ -1884,3 +1884,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CFTC: Federal Court Orders International Enterprise To Pay Over $451 Million For Global Binary Options Fraud](http://www.mondovisione.com/media-and-resources/news/cftc-federal-court-orders-international-enterprise-to-pay-over-451-million-for/)
 append_entries: 3
 Finish: 2025-01-29 22:19:02.693049
+------------------------------------------------------
+Started: 2025-01-30 01:35:33.524664
+Existing_entries: 294
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-01-30 01:35:34.555102
