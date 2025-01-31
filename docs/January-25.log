@@ -2064,3 +2064,18 @@ Existing_entries: 324
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-01-31 06:28:52.039050
+------------------------------------------------------
+Started: 2025-01-31 08:25:25.141353
+Existing_entries: 324
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Announcement Of Tokyo Metropolitan Government Joining As An Additional Partner For TSE Asia Startup Hub](http://www.mondovisione.com/media-and-resources/news/announcement-of-tokyo-metropolitan-government-joining-as-an-additional-partner-f/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Acting Chairman Pham To Speak At Commodity Market Council’s 2025 State Of The Industry Conference](http://www.mondovisione.com/media-and-resources/news/cftc-acting-chairman-pham-to-speak-at-commodity-market-councils-2025-state-of-t/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [U.S. Department Of The Treasury Withdraws From The Network Of Central Banks And Supervisors For Greening The Financial System (NGFS)](http://www.mondovisione.com/media-and-resources/news/us-department-of-the-treasury-withdraws-from-the-network-of-central-banks-and/)
+append_entries: 3
+Finish: 2025-01-31 08:25:26.546879
