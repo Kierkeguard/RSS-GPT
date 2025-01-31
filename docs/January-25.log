@@ -2091,3 +2091,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ACER’s Data Dashboard Provides Insights Into EU Household Energy Price Trends](http://www.mondovisione.com/media-and-resources/news/acers-data-dashboard-provides-insights-into-eu-household-energy-price-trends/)
 append_entries: 2
 Finish: 2025-01-31 10:20:35.129987
+------------------------------------------------------
+Started: 2025-01-31 12:38:50.962944
+Existing_entries: 329
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Changes To The Executive Board Of Eurex Frankfurt AG](http://www.mondovisione.com/media-and-resources/news/changes-to-the-executive-board-of-eurex-frankfurt-ag/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Emirates NBD Group's Deniz Ventures And Qatar's Rasmal Ventures Invest 7.6 Million USD In TeamSec To Advance Securitization Innovation](http://www.mondovisione.com/media-and-resources/news/emirates-nbd-groups-deniz-ventures-and-qatars-rasmal-ventures-invest-76-milli/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Policy Paper: UK-Japan Financial Regulatory Forum Joint Statement 2025](http://www.mondovisione.com/media-and-resources/news/policy-paper-uk-japan-financial-regulatory-forum-joint-statement-2025/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Secures Confiscation Order Against Convicted Fraudster](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-secures-confiscation-order-against-convicted-frau/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Sets Out Further Proposals To Support Growing Business And Investment Opportunities](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-sets-out-further-proposals-to-support-growing-bus/)
+append_entries: 5
+Finish: 2025-01-31 12:38:51.883583
