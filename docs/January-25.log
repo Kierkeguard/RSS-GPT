@@ -2079,3 +2079,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [U.S. Department Of The Treasury Withdraws From The Network Of Central Banks And Supervisors For Greening The Financial System (NGFS)](http://www.mondovisione.com/media-and-resources/news/us-department-of-the-treasury-withdraws-from-the-network-of-central-banks-and/)
 append_entries: 3
 Finish: 2025-01-31 08:25:26.546879
+------------------------------------------------------
+Started: 2025-01-31 10:20:33.954138
+Existing_entries: 327
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cboe Clear Europe Celebrates 2024 Milestones And Unveils 2025 Strategic Plans](http://www.mondovisione.com/media-and-resources/news/cboe-clear-europe-celebrates-2024-milestones-and-unveils-2025-strategic-plans/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER’s Data Dashboard Provides Insights Into EU Household Energy Price Trends](http://www.mondovisione.com/media-and-resources/news/acers-data-dashboard-provides-insights-into-eu-household-energy-price-trends/)
+append_entries: 2
+Finish: 2025-01-31 10:20:35.129987
