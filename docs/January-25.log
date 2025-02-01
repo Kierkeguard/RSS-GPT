@@ -2158,3 +2158,24 @@ Append: [Listing On Euronext Of The First EU Green Bond From A Public Sector Iss
 Append: [Celebrating 40 Years Of The Nasdaq-100 Index® (NDX®)](http://www.mondovisione.com/media-and-resources/news/celebrating-40-years-of-the-nasdaq-100-index-ndx/)
 append_entries: 9
 Finish: 2025-01-31 18:26:56.644818
+------------------------------------------------------
+Started: 2025-02-01 20:21:10.796054
+Existing_entries: 346
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tehran Securities Exchange Weekly Market Snapshot 29  Jan  2025](http://www.mondovisione.com/media-and-resources/news/tehran-securities-exchange-weekly-market-snapshot-29-jan-2025/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Staff Issues Supplemental Letter Regarding No-Action Position On Reporting, Recordkeeping Requirements](http://www.mondovisione.com/media-and-resources/news/cftc-staff-issues-supplemental-letter-regarding-no-action-position-on-reporting/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ISDA - The Swap Episode 48: ISDA At 40](http://www.mondovisione.com/media-and-resources/news/isda-the-swap-episode-48-isda-at-40/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Canadian Investment Regulatory Organization Annual Compliance Report 2025: Integration, Self-Regulation And Technology - Helping Dealers Meet Regulatory Requirements And Advance Investor Protection](http://www.mondovisione.com/media-and-resources/news/canadian-investment-regulatory-organization-annual-compliance-report-2025-integ/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Federal Bank Regulatory Agencies Announce Second Public Outreach Meeting As Part Of Their Review Of Regulations](http://www.mondovisione.com/media-and-resources/news/us-federal-bank-regulatory-agencies-announce-second-public-outreach-meeting-as-p/)
+append_entries: 5
+Finish: 2025-02-01 20:21:12.082821
