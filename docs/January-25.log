@@ -2179,3 +2179,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [US Federal Bank Regulatory Agencies Announce Second Public Outreach Meeting As Part Of Their Review Of Regulations](http://www.mondovisione.com/media-and-resources/news/us-federal-bank-regulatory-agencies-announce-second-public-outreach-meeting-as-p/)
 append_entries: 5
 Finish: 2025-02-01 20:21:12.082821
+------------------------------------------------------
+Started: 2025-02-01 22:19:16.250108
+Existing_entries: 351
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-02-01 22:19:17.415740
