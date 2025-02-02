@@ -2218,3 +2218,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Statement By IMF Managing Director Kristalina Georgieva On The Passing Of Former IMF Managing Director Mr. Horst Köhler](http://www.mondovisione.com/media-and-resources/news/statement-by-imf-managing-director-kristalina-georgieva-on-the-passing-of-former/)
 append_entries: 1
 Finish: 2025-02-02 08:23:46.223423
+------------------------------------------------------
+Started: 2025-02-02 10:18:56.045563
+Existing_entries: 352
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-02-02 10:18:57.073344
