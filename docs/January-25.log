@@ -2407,3 +2407,26 @@ Append: [ESMA Publishes The Results Of The Survey On Legal Entities Identifiers]
 Append: [Statistics From Nasdaq Nordic Exchange January 2025](http://www.mondovisione.com/media-and-resources/news/statistics-from-nasdaq-nordic-exchange-january-2025-202523/)
 append_entries: 6
 Finish: 2025-02-03 18:27:33.473283
+------------------------------------------------------
+Started: 2025-02-03 20:21:18.156582
+Existing_entries: 385
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Federal Reserve: Senior Loan Officer Opinion Survey On Bank Lending Practices](http://www.mondovisione.com/media-and-resources/news/federal-reserve-senior-loan-officer-opinion-survey-on-bank-lending-practices-202523/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Office Of The Comptroller Of The Currency Releases CRA Performance Evaluations For 20 National Banks And Federal Savings Associations](http://www.mondovisione.com/media-and-resources/news/us-office-of-the-comptroller-of-the-currency-releases-cra-performance-evaluation-202523/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Low Intensity Competition For Prosperity Of Overall Markets: By Kelvin To, Founder And President Of Data Boiler Technologies](http://www.mondovisione.com/media-and-resources/news/low-intensity-competition-for-prosperity-of-overall-markets-by-kelvin-to-found-202523/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Department Of Justice: Canadian Man Charged In $65M Cryptocurrency Hacking Schemes](http://www.mondovisione.com/media-and-resources/news/us-department-of-justice-canadian-man-charged-in-65m-cryptocurrency-hacking-sc-202523/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ICE Swap Trade Offers Single-Name Credit Default Swap (CDS) Trading Following SEC Approval For SBSEF Registration](http://www.mondovisione.com/media-and-resources/news/ice-swap-trade-offers-single-name-credit-default-swap-cds-trading-following-se-202523/)
+Append: [SIFMA Fixed Income Market Close Recommendation In The U.S., The U.K. And Japan For Presidents Day](http://www.mondovisione.com/media-and-resources/news/sifma-fixed-income-market-close-recommendation-in-the-us-the-uk-and-japan-f-202523/)
+Append: [SIFMA’s 2025 Priorities](http://www.mondovisione.com/media-and-resources/news/sifmas-2025-priorities-202523/)
+append_entries: 7
+Finish: 2025-02-03 20:21:19.955786
