@@ -2331,3 +2331,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Ryu Hirayama Joins LSEG As Country Representative, Japan](http://www.mondovisione.com/media-and-resources/news/ryu-hirayama-joins-lseg-as-country-representative-japan-202523/)
 append_entries: 1
 Finish: 2025-02-03 10:21:20.852713
+------------------------------------------------------
+Started: 2025-02-03 12:39:24.076417
+Existing_entries: 367
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER’s Latest REMIT Quarterly Is Out](http://www.mondovisione.com/media-and-resources/news/acers-latest-remit-quarterly-is-out-202523/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Confiscates Over £500,000 From Convicted Insider Dealer](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-confiscates-over-500000-from-convicted-insider-202523/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Europex General Assembly Elects New Leadership For Financial And Environmental Markets Working Groups](http://www.mondovisione.com/media-and-resources/news/europex-general-assembly-elects-new-leadership-for-financial-and-environmental-m-202523/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Integrated Wind Solutions Transfers To Euronext Oslo Børs](http://www.mondovisione.com/media-and-resources/news/integrated-wind-solutions-transfers-to-euronext-oslo-brs-202523/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Broadridge Appoints Stephen Wilkes As Senior Vice President, Head Of International Buy-Side Sales - Strategic Hire Underscores Broadridge’s Commitment To Growth And Innovation In International Asset Management](http://www.mondovisione.com/media-and-resources/news/broadridge-appoints-stephen-wilkes-as-senior-vice-president-head-of-internation-202523/)
+append_entries: 5
+Finish: 2025-02-03 12:39:24.857994
