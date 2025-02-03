@@ -2352,3 +2352,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Broadridge Appoints Stephen Wilkes As Senior Vice President, Head Of International Buy-Side Sales - Strategic Hire Underscores Broadridge’s Commitment To Growth And Innovation In International Asset Management](http://www.mondovisione.com/media-and-resources/news/broadridge-appoints-stephen-wilkes-as-senior-vice-president-head-of-internation-202523/)
 append_entries: 5
 Finish: 2025-02-03 12:39:24.857994
+------------------------------------------------------
+Started: 2025-02-03 14:18:59.788502
+Existing_entries: 372
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Deutsche Börse Cash Market Trading Volumes In January 2025](http://www.mondovisione.com/media-and-resources/news/deutsche-brse-cash-market-trading-volumes-in-january-2025-202523/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NSE Indices Fixed Income Index Dashboard For The Month Ended January 2025](http://www.mondovisione.com/media-and-resources/news/nse-indices-fixed-income-index-dashboard-for-the-month-ended-january-2025-202523/)
+append_entries: 2
+Finish: 2025-02-03 14:19:01.091882
