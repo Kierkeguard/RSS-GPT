@@ -2430,3 +2430,15 @@ Append: [SIFMA Fixed Income Market Close Recommendation In The U.S., The U.K. An
 Append: [SIFMA’s 2025 Priorities](http://www.mondovisione.com/media-and-resources/news/sifmas-2025-priorities-202523/)
 append_entries: 7
 Finish: 2025-02-03 20:21:19.955786
+------------------------------------------------------
+Started: 2025-02-03 22:18:25.745094
+Existing_entries: 392
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Economy Statement For The US Treasury Borrowing Advisory Committee](http://www.mondovisione.com/media-and-resources/news/economy-statement-for-the-us-treasury-borrowing-advisory-committee-202523/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Treasury Announces Marketable Borrowing Estimates](http://www.mondovisione.com/media-and-resources/news/us-treasury-announces-marketable-borrowing-estimates-202523/)
+append_entries: 2
+Finish: 2025-02-03 22:18:27.061795
