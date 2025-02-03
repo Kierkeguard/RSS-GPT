@@ -2364,3 +2364,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [NSE Indices Fixed Income Index Dashboard For The Month Ended January 2025](http://www.mondovisione.com/media-and-resources/news/nse-indices-fixed-income-index-dashboard-for-the-month-ended-january-2025-202523/)
 append_entries: 2
 Finish: 2025-02-03 14:19:01.091882
+------------------------------------------------------
+Started: 2025-02-03 16:25:30.389420
+Existing_entries: 374
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Nordic And Baltic Markets Trading Statistics January 2025](http://www.mondovisione.com/media-and-resources/news/nasdaq-nordic-and-baltic-markets-trading-statistics-january-2025-202523/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Options And MIAX Emerald Options - Effective For Trade Date February 3, 2025, 2X OPENING And INTRADAY Valid And Priority Quote Spread Relief In All Symbols](http://www.mondovisione.com/media-and-resources/news/miax-options-and-miax-emerald-options-effective-for-trade-date-february-3-202-202523/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Fiserv Small Business Index® For January 2025: Small Business Sales Continue To Rise In The New Year](http://www.mondovisione.com/media-and-resources/news/fiserv-small-business-index-for-january-2025-small-business-sales-continue-to-202523/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cboe Announces Plans To Launch 24x5 U.S. Equities Trading](http://www.mondovisione.com/media-and-resources/news/cboe-announces-plans-to-launch-24x5-us-equities-trading-202523/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIX Exchanges Figures January 2025](http://www.mondovisione.com/media-and-resources/news/six-exchanges-figures-january-2025-202523/)
+append_entries: 5
+Finish: 2025-02-03 16:25:31.615009
