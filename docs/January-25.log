@@ -2304,3 +2304,21 @@ Existing_entries: 362
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-02-03 06:28:35.964236
+------------------------------------------------------
+Started: 2025-02-03 08:26:38.894083
+Existing_entries: 362
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Japan Exchange Group Trading Overview In January 2025](http://www.mondovisione.com/media-and-resources/news/japan-exchange-group-trading-overview-in-january-2025-202523/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [JPXI And Snowflake Enter Partnership To Expand Japan Market Data Access](http://www.mondovisione.com/media-and-resources/news/jpxi-and-snowflake-enter-partnership-to-expand-japan-market-data-access-202523/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tokyo Financial Exchange Trading Volume In Jan 2025](http://www.mondovisione.com/media-and-resources/news/tokyo-financial-exchange-trading-volume-in-jan-2025-202523/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASX: Chess Batch Settlement Incident – ASIC Investigation](http://www.mondovisione.com/media-and-resources/news/asx-chess-batch-settlement-incident-asic-investigation-202523/)
+append_entries: 4
+Finish: 2025-02-03 08:26:39.771983
