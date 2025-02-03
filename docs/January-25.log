@@ -2385,3 +2385,25 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SIX Exchanges Figures January 2025](http://www.mondovisione.com/media-and-resources/news/six-exchanges-figures-january-2025-202523/)
 append_entries: 5
 Finish: 2025-02-03 16:25:31.615009
+------------------------------------------------------
+Started: 2025-02-03 18:27:32.243042
+Existing_entries: 379
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ICE Mortgage Monitor: 2024 Saw Softest Home Price Growth Of Any Year Since 2011 - Mortgage Delinquencies Gradually Trending Higher](http://www.mondovisione.com/media-and-resources/news/ice-mortgage-monitor-2024-saw-softest-home-price-growth-of-any-year-since-2011-202523/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER Will Consult On Inter-Temporal Cost Allocation Mechanisms For Financing Hydrogen Infrastructure](http://www.mondovisione.com/media-and-resources/news/acer-will-consult-on-inter-temporal-cost-allocation-mechanisms-for-financing-hyd-202523/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [EACH Welcomes The European Commission Equivalence To The UK In Clearing Services And Calls For Open And Safe Markets](http://www.mondovisione.com/media-and-resources/news/each-welcomes-the-european-commission-equivalence-to-the-uk-in-clearing-services-202523/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Wematch.live LLC Receives SEC Approval For SBSEF Registration, Advancing Market Transparency And Efficiency](http://www.mondovisione.com/media-and-resources/news/wematchlive-llc-receives-sec-approval-for-sbsef-registration-advancing-market-202523/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESMA Publishes The Results Of The Survey On Legal Entities Identifiers](http://www.mondovisione.com/media-and-resources/news/esma-publishes-the-results-of-the-survey-on-legal-entities-identifiers-202523/)
+Append: [Statistics From Nasdaq Nordic Exchange January 2025](http://www.mondovisione.com/media-and-resources/news/statistics-from-nasdaq-nordic-exchange-january-2025-202523/)
+append_entries: 6
+Finish: 2025-02-03 18:27:33.473283
