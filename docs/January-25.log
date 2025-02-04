@@ -2519,3 +2519,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [United Fintech Acquires Commercial Banking Applications (CBA) With Backing From Leading Global Banks](http://www.mondovisione.com/media-and-resources/news/united-fintech-acquires-commercial-banking-applications-cba-with-backing-from-202524/)
 append_entries: 3
 Finish: 2025-02-04 12:39:49.833227
+------------------------------------------------------
+Started: 2025-02-04 14:19:15.062215
+Existing_entries: 409
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [DTCC Announces ComposerX - ComposerX, Formerly The Securrency Product Suite, Is Designed To Facilitate Digital Assets Adoption By Streamlining Token Creation And Settlement](http://www.mondovisione.com/media-and-resources/news/dtcc-announces-composerx-composerx-formerly-the-securrency-product-suite-is-202524/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group Reports Record January ADV Of 25.7 Million Contracts](http://www.mondovisione.com/media-and-resources/news/cme-group-reports-record-january-adv-of-257-million-contracts-202524/)
+append_entries: 2
+Finish: 2025-02-04 14:19:15.935473
