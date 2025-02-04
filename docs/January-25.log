@@ -2492,3 +2492,15 @@ Append: [TMX Group Limited Increases Dividend By 5% To $0.20 Per Common Share](h
 Append: [TMX Group Limited Reports Results For Fourth Quarter of 2024](http://www.mondovisione.com/media-and-resources/news/tmx-group-limited-reports-results-for-fourth-quarter-of-2024-202524/)
 append_entries: 10
 Finish: 2025-02-04 08:26:03.002016
+------------------------------------------------------
+Started: 2025-02-04 10:21:37.082897
+Existing_entries: 404
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Broadridge Enhances NYFIX Matching Solution With Symphony Messaging - NYFIX Matching Is The First Post-Trade Matching Tool With Messaging Functionality, Enabling Compliance, Greater Transparency And Streamlined Resolution Of Post-Trade Discrepancies](http://www.mondovisione.com/media-and-resources/news/broadridge-enhances-nyfix-matching-solution-with-symphony-messaging-nyfix-matc-202524/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Path To Sustainability: Tehran Securities Exchange Moves Towards Integrity, Transparency - TSE Published The First Sustainability Report Among Iranian Exchanges And Capital Market’s Entities.](http://www.mondovisione.com/media-and-resources/news/path-to-sustainability-tehran-securities-exchange-moves-towards-integrity-tran-202524/)
+append_entries: 2
+Finish: 2025-02-04 10:21:38.037965
