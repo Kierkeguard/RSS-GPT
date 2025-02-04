@@ -2531,3 +2531,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CME Group Reports Record January ADV Of 25.7 Million Contracts](http://www.mondovisione.com/media-and-resources/news/cme-group-reports-record-january-adv-of-257-million-contracts-202524/)
 append_entries: 2
 Finish: 2025-02-04 14:19:15.935473
+------------------------------------------------------
+Started: 2025-02-04 16:26:01.199377
+Existing_entries: 411
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [OCC January 2025 Monthly Volume Data](http://www.mondovisione.com/media-and-resources/news/occ-january-2025-monthly-volume-data-202524/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Purdue University/CME Group Ag Economy Barometer: U.S. Farmers Retain Optimistic Outlook For 2025 Despite Ag Trade Uncertainty](http://www.mondovisione.com/media-and-resources/news/purdue-universitycme-group-ag-economy-barometer-us-farmers-retain-optimistic-202524/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Rapid Addition And Adaptive Partner To Deliver Best-In-Class FIX Capabilities To Capital Markets Firms](http://www.mondovisione.com/media-and-resources/news/rapid-addition-and-adaptive-partner-to-deliver-best-in-class-fix-capabilities-to-202524/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BIS Latest Update February 2025: Policy Frameworks, Soft Landing And The Future Of Innovation](http://www.mondovisione.com/media-and-resources/news/bis-latest-update-february-2025-policy-frameworks-soft-landing-and-the-future-202524/)
+append_entries: 4
+Finish: 2025-02-04 16:26:02.701440
