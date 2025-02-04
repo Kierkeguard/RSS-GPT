@@ -2591,3 +2591,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Culture Is Contagious - Speech By Emily Shepperd, Chief Operating Officer, UK Financial Conduct Authority, At The 10th Annual Culture And Conduct In Financial Services Summit](http://www.mondovisione.com/media-and-resources/news/culture-is-contagious-speech-by-emily-shepperd-chief-operating-officer-uk-fi-202524/)
 append_entries: 5
 Finish: 2025-02-04 20:21:25.873482
+------------------------------------------------------
+Started: 2025-02-04 22:18:37.874344
+Existing_entries: 425
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Reports January 2025 Volumes](http://www.mondovisione.com/media-and-resources/news/nasdaq-reports-january-2025-volumes-202524/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq CEO Adena Friedman To Present At The 2025 UBS Financial Services Conference](http://www.mondovisione.com/media-and-resources/news/nasdaq-ceo-adena-friedman-to-present-at-the-2025-ubs-financial-services-conferen-202524/)
+append_entries: 2
+Finish: 2025-02-04 22:18:38.797858
