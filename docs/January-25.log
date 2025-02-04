@@ -2442,3 +2442,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [US Treasury Announces Marketable Borrowing Estimates](http://www.mondovisione.com/media-and-resources/news/us-treasury-announces-marketable-borrowing-estimates-202523/)
 append_entries: 2
 Finish: 2025-02-03 22:18:27.061795
+------------------------------------------------------
+Started: 2025-02-04 01:37:22.756578
+Existing_entries: 394
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-02-04 01:37:24.086824
