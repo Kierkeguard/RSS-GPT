@@ -2504,3 +2504,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Path To Sustainability: Tehran Securities Exchange Moves Towards Integrity, Transparency - TSE Published The First Sustainability Report Among Iranian Exchanges And Capital Market’s Entities.](http://www.mondovisione.com/media-and-resources/news/path-to-sustainability-tehran-securities-exchange-moves-towards-integrity-tran-202524/)
 append_entries: 2
 Finish: 2025-02-04 10:21:38.037965
+------------------------------------------------------
+Started: 2025-02-04 12:39:48.597470
+Existing_entries: 406
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Survey Finds Disconnect Between Executives And Risk Teams, Leaving EMEA Organisations Vulnerable To Unforeseen Threats - New Study Spotlights Ongoing Strategic And Operational Challenges To Compliance With DORA, NIS2, And The EU AI Act](http://www.mondovisione.com/media-and-resources/news/survey-finds-disconnect-between-executives-and-risk-teams-leaving-emea-organisa-202524/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Boerse Stuttgart Records January Turnover Of Around EUR 10,5 Billion - Strong Increases In Structured Securities, Equities And Exchange-Traded Products Compared To The Same Month Of The Previous Year](http://www.mondovisione.com/media-and-resources/news/boerse-stuttgart-records-january-turnover-of-around-eur-105-billion-strong-in-202524/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [United Fintech Acquires Commercial Banking Applications (CBA) With Backing From Leading Global Banks](http://www.mondovisione.com/media-and-resources/news/united-fintech-acquires-commercial-banking-applications-cba-with-backing-from-202524/)
+append_entries: 3
+Finish: 2025-02-04 12:39:49.833227
