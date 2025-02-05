@@ -2621,3 +2621,24 @@ Existing_entries: 427
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-02-05 04:24:29.619154
+------------------------------------------------------
+Started: 2025-02-05 06:28:20.607347
+Existing_entries: 427
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [DTCC Opens Second India Office Location In Hyderabad, Expanding Global Support Across The Financial Services Industry](http://www.mondovisione.com/media-and-resources/news/dtcc-opens-second-india-office-location-in-hyderabad-expanding-global-support-a-202525/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [U.S. Economic Outlook And Monetary Policy, Federal Reserve Vice Chair Philip N. Jefferson, At The Economics Department Special Lecture, Lafayette College, Easton, Pennsylvania](http://www.mondovisione.com/media-and-resources/news/us-economic-outlook-and-monetary-policy-federal-reserve-vice-chair-philip-n-202525/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [2025 AFA Panel Remarks - Doing Research With An Impact - Jessica Wachter, SEC Chief Economist And Director, Division Of Economic And Risk Analysis, American Finance Association Panel, San Francisco, CA, Jan. 4, 2025](http://www.mondovisione.com/media-and-resources/news/2025-afa-panel-remarks-doing-research-with-an-impact-jessica-wachter-sec-ch-202525/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC: Florida Court Orders Brazilian Nationals To Pay Over $128 Million For Fraudulent Commodity Pool Scheme](http://www.mondovisione.com/media-and-resources/news/cftc-florida-court-orders-brazilian-nationals-to-pay-over-128-million-for-frau-202525/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Readout: US Secretary Of The Treasury Scott Bessent's Call With European Central Bank President Christine Lagarde](http://www.mondovisione.com/media-and-resources/news/readout-us-secretary-of-the-treasury-scott-bessents-call-with-european-central-202525/)
+append_entries: 5
+Finish: 2025-02-05 06:28:22.088363
