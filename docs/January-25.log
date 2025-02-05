@@ -2654,3 +2654,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Rapidly Expanding Islamic Home Finance Fintech Offa Hires New Staff](http://www.mondovisione.com/media-and-resources/news/rapidly-expanding-islamic-home-finance-fintech-offa-hires-new-staff-202525/)
 append_entries: 2
 Finish: 2025-02-05 08:24:21.917241
+------------------------------------------------------
+Started: 2025-02-05 10:21:03.060841
+Existing_entries: 434
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIX Bolsters Asian Market Data Access With ThaiQuest Partnership](http://www.mondovisione.com/media-and-resources/news/six-bolsters-asian-market-data-access-with-thaiquest-partnership-202525/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euroclear Continues To Deliver Strong Results In 2024](http://www.mondovisione.com/media-and-resources/news/euroclear-continues-to-deliver-strong-results-in-2024-202525/)
+append_entries: 2
+Finish: 2025-02-05 10:21:04.224446
