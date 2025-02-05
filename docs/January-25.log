@@ -2729,3 +2729,25 @@ Existing_entries: 447
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-02-05 20:22:50.385676
+------------------------------------------------------
+Started: 2025-02-05 22:20:46.071827
+Existing_entries: 447
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cboe Global Markets Reports Trading Volume For January 2025](http://www.mondovisione.com/media-and-resources/news/cboe-global-markets-reports-trading-volume-for-january-2025-202525/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MarketAxess To Participate In The UBS Financial Services Conference](http://www.mondovisione.com/media-and-resources/news/marketaxess-to-participate-in-the-ubs-financial-services-conference-202525/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FirstRand Group Selects Fiserv To Accelerate Growth And Innovation - One Of The Largest Financial Services Groups In Africa Commits To Next-Generation Finxact Cloud-Based Banking Platform, Enhancing Speed To Market And Customer Experience](http://www.mondovisione.com/media-and-resources/news/firstrand-group-selects-fiserv-to-accelerate-growth-and-innovation-one-of-the-202525/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Announces Prediction Markets Roundtable](http://www.mondovisione.com/media-and-resources/news/cftc-announces-prediction-markets-roundtable-202525/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [United States Department Of The Treasury Announces New Appointments](http://www.mondovisione.com/media-and-resources/news/united-states-department-of-the-treasury-announces-new-appointments-202525/)
+Append: [Bank Regulation In 2025 And Beyond, Federal Reserve Governor Michelle W. Bowman, At The Kansas Bankers Association Government Relations Conference, Topeka, Kansas](http://www.mondovisione.com/media-and-resources/news/bank-regulation-in-2025-and-beyond-federal-reserve-governor-michelle-w-bowman-202525/)
+append_entries: 6
+Finish: 2025-02-05 22:20:47.178273
