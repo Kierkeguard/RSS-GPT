@@ -2642,3 +2642,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Readout: US Secretary Of The Treasury Scott Bessent's Call With European Central Bank President Christine Lagarde](http://www.mondovisione.com/media-and-resources/news/readout-us-secretary-of-the-treasury-scott-bessents-call-with-european-central-202525/)
 append_entries: 5
 Finish: 2025-02-05 06:28:22.088363
+------------------------------------------------------
+Started: 2025-02-05 08:24:21.052027
+Existing_entries: 432
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Clarity AI Launches Solution To Support Sustainable Funds Growth In Europe - The New Tool Helps Fund Managers Market Products That Align With Naming Rules, Labels And Standards Across Europe](http://www.mondovisione.com/media-and-resources/news/clarity-ai-launches-solution-to-support-sustainable-funds-growth-in-europe-the-202525/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Rapidly Expanding Islamic Home Finance Fintech Offa Hires New Staff](http://www.mondovisione.com/media-and-resources/news/rapidly-expanding-islamic-home-finance-fintech-offa-hires-new-staff-202525/)
+append_entries: 2
+Finish: 2025-02-05 08:24:21.917241
