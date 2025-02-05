@@ -2666,3 +2666,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Euroclear Continues To Deliver Strong Results In 2024](http://www.mondovisione.com/media-and-resources/news/euroclear-continues-to-deliver-strong-results-in-2024-202525/)
 append_entries: 2
 Finish: 2025-02-05 10:21:04.224446
+------------------------------------------------------
+Started: 2025-02-05 12:40:02.104057
+Existing_entries: 436
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-02-05 12:40:03.100924
