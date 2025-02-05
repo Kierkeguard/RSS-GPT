@@ -2603,3 +2603,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Nasdaq CEO Adena Friedman To Present At The 2025 UBS Financial Services Conference](http://www.mondovisione.com/media-and-resources/news/nasdaq-ceo-adena-friedman-to-present-at-the-2025-ubs-financial-services-conferen-202524/)
 append_entries: 2
 Finish: 2025-02-04 22:18:38.797858
+------------------------------------------------------
+Started: 2025-02-05 01:38:39.038741
+Existing_entries: 427
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-02-05 01:38:39.974390
