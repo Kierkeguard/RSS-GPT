@@ -2672,3 +2672,15 @@ Existing_entries: 436
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-02-05 12:40:03.100924
+------------------------------------------------------
+Started: 2025-02-05 14:18:43.923329
+Existing_entries: 436
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Fiserv Reports Fourth Quarter And Full Year 2024 Results](http://www.mondovisione.com/media-and-resources/news/fiserv-reports-fourth-quarter-and-full-year-2024-results-202525/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MarketAxess Announces Trading Volume Statistics for January 2025](http://www.mondovisione.com/media-and-resources/news/marketaxess-announces-trading-volume-statistics-for-january-2025-202525/)
+append_entries: 2
+Finish: 2025-02-05 14:18:46.307112
