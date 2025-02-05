@@ -2723,3 +2723,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Bank Of England: Results Of The Semi-Annual FX Turnover Surveys In October 2024](http://www.mondovisione.com/media-and-resources/news/bank-of-england-results-of-the-semi-annual-fx-turnover-surveys-in-october-2024-202525/)
 append_entries: 4
 Finish: 2025-02-05 18:28:01.309669
+------------------------------------------------------
+Started: 2025-02-05 20:22:48.936094
+Existing_entries: 447
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-02-05 20:22:50.385676
