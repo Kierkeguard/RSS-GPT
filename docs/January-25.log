@@ -2705,3 +2705,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Sharegain Goes Live On Pirum TradeConnect](http://www.mondovisione.com/media-and-resources/news/sharegain-goes-live-on-pirum-tradeconnect-202525/)
 append_entries: 5
 Finish: 2025-02-05 16:25:58.923919
+------------------------------------------------------
+Started: 2025-02-05 18:27:59.711244
+Existing_entries: 443
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nadex Self-Certifies Solana (SOL) Cryptocurrency Event Contracts](http://www.mondovisione.com/media-and-resources/news/nadex-self-certifies-solana-sol-cryptocurrency-event-contracts-202525/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The EBA Issues An Opinion In Response To The European Commission’s Proposed Amendments To The EBA Draft Technical Standards On Conflicts Of Interests For Issuers Of Asset-Referenced Tokens](http://www.mondovisione.com/media-and-resources/news/the-eba-issues-an-opinion-in-response-to-the-european-commissions-proposed-amen-202525/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nadex Self-Certifies Solana (SOL) Cryptocurrency Touch Bracket Contracts](http://www.mondovisione.com/media-and-resources/news/nadex-self-certifies-solana-sol-cryptocurrency-touch-bracket-contracts-202525/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bank Of England: Results Of The Semi-Annual FX Turnover Surveys In October 2024](http://www.mondovisione.com/media-and-resources/news/bank-of-england-results-of-the-semi-annual-fx-turnover-surveys-in-october-2024-202525/)
+append_entries: 4
+Finish: 2025-02-05 18:28:01.309669
