@@ -2684,3 +2684,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [MarketAxess Announces Trading Volume Statistics for January 2025](http://www.mondovisione.com/media-and-resources/news/marketaxess-announces-trading-volume-statistics-for-january-2025-202525/)
 append_entries: 2
 Finish: 2025-02-05 14:18:46.307112
+------------------------------------------------------
+Started: 2025-02-05 16:25:57.274155
+Existing_entries: 438
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Scientific Infra & Private Assets (SIPA) Announces Registration Of Flagship Private Equity Index Under European Benchmark Regulation](http://www.mondovisione.com/media-and-resources/news/scientific-infra-and-private-assets-sipa-announces-registration-of-flagship-priv-202525/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [U.S. Department Of The Treasury: Quarterly Refunding Statement Of Acting Assistant Secretary For Financial Markets Brian Smith](http://www.mondovisione.com/media-and-resources/news/us-department-of-the-treasury-quarterly-refunding-statement-of-acting-assista-202525/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cboe Hires Meaghan Dugan As Head Of U.S. Options, Marking Latest Expansion Of Its Global Derivatives Team](http://www.mondovisione.com/media-and-resources/news/cboe-hires-meaghan-dugan-as-head-of-us-options-marking-latest-expansion-of-it-202525/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Intercontinental Exchange Reports January 2025 Statistics - Record Futures & Options ADV, Including Record Global Commodities](http://www.mondovisione.com/media-and-resources/news/intercontinental-exchange-reports-january-2025-statistics-record-futures-and-opt-202525/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Sharegain Goes Live On Pirum TradeConnect](http://www.mondovisione.com/media-and-resources/news/sharegain-goes-live-on-pirum-tradeconnect-202525/)
+append_entries: 5
+Finish: 2025-02-05 16:25:58.923919
