@@ -2799,3 +2799,15 @@ Existing_entries: 461
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-02-06 08:26:19.163610
+------------------------------------------------------
+Started: 2025-02-06 10:21:51.044306
+Existing_entries: 461
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Broadridge Appoints Larry Conover, VP, Special Advisor For Proxy & Corporate Actions](http://www.mondovisione.com/media-and-resources/news/broadridge-appoints-larry-conover-vp-special-advisor-for-proxy-and-corporate-act-202526/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Exchange Data International Expands Investment Fund Coverage And Enhances North American Mutual Fund Data](http://www.mondovisione.com/media-and-resources/news/exchange-data-international-expands-investment-fund-coverage-and-enhances-north-202526/)
+append_entries: 2
+Finish: 2025-02-06 10:21:52.134534
