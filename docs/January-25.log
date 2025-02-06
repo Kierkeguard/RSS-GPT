@@ -2866,3 +2866,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ICE Fourth Quarter 2024 Earnings Conference Call & Webcast](http://www.mondovisione.com/media-and-resources/news/ice-fourth-quarter-2024-earnings-conference-call-and-webcast-202526/)
 append_entries: 4
 Finish: 2025-02-06 16:24:50.764783
+------------------------------------------------------
+Started: 2025-02-06 18:27:55.268920
+Existing_entries: 476
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [EEX Group Monthly Volumes – January 2025](http://www.mondovisione.com/media-and-resources/news/eex-group-monthly-volumes-january-2025-202526/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Intercontinental Exchange Announces 7% Increase To Its Quarterly Dividend](http://www.mondovisione.com/media-and-resources/news/intercontinental-exchange-announces-7-increase-to-its-quarterly-dividend-202526/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LME Annual Rent Payments March 2025](http://www.mondovisione.com/media-and-resources/news/lme-annual-rent-payments-march-2025-202526/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tel Aviv Stock Exchange: Developing A Repo Market In Israel](http://www.mondovisione.com/media-and-resources/news/tel-aviv-stock-exchange-developing-a-repo-market-in-israel-202526/)
+append_entries: 4
+Finish: 2025-02-06 18:27:56.650929
