@@ -2833,3 +2833,18 @@ Append: [HKEX Monthly Market Highlights](http://www.mondovisione.com/media-and-r
 Append: [Y-Intercept Selects TS Imagine’s RiskSmart+ To Scale Operations And Support Growth](http://www.mondovisione.com/media-and-resources/news/y-intercept-selects-ts-imagines-risksmart-to-scale-operations-and-support-grow-202526/)
 append_entries: 6
 Finish: 2025-02-06 12:40:26.539367
+------------------------------------------------------
+Started: 2025-02-06 14:18:12.934269
+Existing_entries: 469
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group Declares Quarterly Dividend](http://www.mondovisione.com/media-and-resources/news/cme-group-declares-quarterly-dividend-202526/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Government - HM Treasury Policy Paper: Accelerated Settlement (T+1)](http://www.mondovisione.com/media-and-resources/news/uk-government-hm-treasury-policy-paper-accelerated-settlement-t1-202526/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MarketAxess Reports Fourth Quarter And Full Year 2024 Financial Results](http://www.mondovisione.com/media-and-resources/news/marketaxess-reports-fourth-quarter-and-full-year-2024-financial-results-202526/)
+append_entries: 3
+Finish: 2025-02-06 14:18:15.612862
