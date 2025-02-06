@@ -2769,3 +2769,27 @@ Existing_entries: 453
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-02-06 04:25:19.651492
+------------------------------------------------------
+Started: 2025-02-06 06:29:36.585187
+Existing_entries: 453
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SGX Group Reports 1H FY2025 Net Profit Of S$320 Million](http://www.mondovisione.com/media-and-resources/news/sgx-group-reports-1h-fy2025-net-profit-of-s320-million-202526/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASX Group Monthly Activity Report – January 2025](http://www.mondovisione.com/media-and-resources/news/asx-group-monthly-activity-report-january-2025-202526/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Readout: US Secretary Of The Treasury Scott Bessent’s Call With Bank Of Japan Governor Kazuo Ueda](http://www.mondovisione.com/media-and-resources/news/readout-us-secretary-of-the-treasury-scott-bessents-call-with-bank-of-japan-go-202526/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Do Non-Inflationary Economic Expansions Promote Shared Prosperity? Evidence From The U.S. Labor Market, Federal Reserve Vice Chair Philip N. Jefferson, At Swarthmore College, Swarthmore, Pennsylvania](http://www.mondovisione.com/media-and-resources/news/do-non-inflationary-economic-expansions-promote-shared-prosperity-evidence-from-202526/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nadex Self-Certifies Cardano (ADA) Cryptocurrency Touch Bracket Contracts](http://www.mondovisione.com/media-and-resources/news/nadex-self-certifies-cardano-ada-cryptocurrency-touch-bracket-contracts-202526/)
+Append: [Federal Reserve Board Releases The Hypothetical Scenarios For Its Annual Stress Test](http://www.mondovisione.com/media-and-resources/news/federal-reserve-board-releases-the-hypothetical-scenarios-for-its-annual-stress-202526/)
+Append: [Nadex Self-Certifies Cardano (ADA) Cryptocurrency Event Contracts](http://www.mondovisione.com/media-and-resources/news/nadex-self-certifies-cardano-ada-cryptocurrency-event-contracts-202526/)
+Append: [Trading Book Capital, Basel III Implementation And Latest Industry Trends, February 5, 2025, Welcoming Remarks, Scott O’Malia, ISDA Chief Executive Officer](http://www.mondovisione.com/media-and-resources/news/trading-book-capital-basel-iii-implementation-and-latest-industry-trends-febru-202526/)
+append_entries: 8
+Finish: 2025-02-06 06:29:38.237664
