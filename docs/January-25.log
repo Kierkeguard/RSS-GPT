@@ -2811,3 +2811,25 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Exchange Data International Expands Investment Fund Coverage And Enhances North American Mutual Fund Data](http://www.mondovisione.com/media-and-resources/news/exchange-data-international-expands-investment-fund-coverage-and-enhances-north-202526/)
 append_entries: 2
 Finish: 2025-02-06 10:21:52.134534
+------------------------------------------------------
+Started: 2025-02-06 12:40:24.444723
+Existing_entries: 463
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Intercontinental Exchange Reports Strong Full Year 2024 Results - 19th Consecutive Year Of Record Revenues](http://www.mondovisione.com/media-and-resources/news/intercontinental-exchange-reports-strong-full-year-2024-results-19th-consecuti-202526/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bank Of England: Bank Rate Reduced To 4.5% - February 2025](http://www.mondovisione.com/media-and-resources/news/bank-of-england-bank-rate-reduced-to-45-february-2025-202526/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Statement On Blackmore Bonds Complaints](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-statement-on-blackmore-bonds-complaints-202526/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Join ETFGI In Celebrating 25 Years Of ETFs In Europe At The ETFGI Global ETFs Insights Summit In London On May 1st](http://www.mondovisione.com/media-and-resources/news/join-etfgi-in-celebrating-25-years-of-etfs-in-europe-at-the-etfgi-global-etfs-in-202526/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX Monthly Market Highlights](http://www.mondovisione.com/media-and-resources/news/hkex-monthly-market-highlights-202526/)
+Append: [Y-Intercept Selects TS Imagine’s RiskSmart+ To Scale Operations And Support Growth](http://www.mondovisione.com/media-and-resources/news/y-intercept-selects-ts-imagines-risksmart-to-scale-operations-and-support-grow-202526/)
+append_entries: 6
+Finish: 2025-02-06 12:40:26.539367
