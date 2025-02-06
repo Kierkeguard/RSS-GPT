@@ -2884,3 +2884,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Tel Aviv Stock Exchange: Developing A Repo Market In Israel](http://www.mondovisione.com/media-and-resources/news/tel-aviv-stock-exchange-developing-a-repo-market-in-israel-202526/)
 append_entries: 4
 Finish: 2025-02-06 18:27:56.650929
+------------------------------------------------------
+Started: 2025-02-06 20:21:23.575514
+Existing_entries: 480
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nodal Exchange Achieves January Trading Records In Power And Environmental Markets](http://www.mondovisione.com/media-and-resources/news/nodal-exchange-achieves-january-trading-records-in-power-and-environmental-marke-202526/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESMA’s Conference “Shaping The Future Of EU Capital Markets” Results](http://www.mondovisione.com/media-and-resources/news/esmas-conference-shaping-the-future-of-eu-capital-markets-results-202526/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Reviewed Supervisors Overall Applied The EBA’s Recommendations On Tax Integrity And Dividend Arbitrage Trading Schemes, The EBA Report Finds.](http://www.mondovisione.com/media-and-resources/news/reviewed-supervisors-overall-applied-the-ebas-recommendations-on-tax-integrity-202526/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [January 2025 Figures At Eurex](http://www.mondovisione.com/media-and-resources/news/january-2025-figures-at-eurex-202526/)
+append_entries: 4
+Finish: 2025-02-06 20:21:24.567964
