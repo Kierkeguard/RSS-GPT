@@ -2848,3 +2848,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [MarketAxess Reports Fourth Quarter And Full Year 2024 Financial Results](http://www.mondovisione.com/media-and-resources/news/marketaxess-reports-fourth-quarter-and-full-year-2024-financial-results-202526/)
 append_entries: 3
 Finish: 2025-02-06 14:18:15.612862
+------------------------------------------------------
+Started: 2025-02-06 16:24:48.407585
+Existing_entries: 472
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group Inc. Names Slate Of Director Nominees](http://www.mondovisione.com/media-and-resources/news/cme-group-inc-names-slate-of-director-nominees-202526/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [DTCC Comments On UK Accelerated Settlement Taskforce Blueprint For T+1 Transition](http://www.mondovisione.com/media-and-resources/news/dtcc-comments-om-uk-accelerated-settlement-taskforce-blueprint-for-t1-transitio-202526/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tradeweb Reports January 2025 Total Trading Volume Of $54.6 Trillion And Average Daily Volume Of $2.44 Trillion - January 2025 ADV Up 20.3% YoY](http://www.mondovisione.com/media-and-resources/news/tradeweb-reports-january-2025-total-trading-volume-of-546-trillion-and-average-202526/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ICE Fourth Quarter 2024 Earnings Conference Call & Webcast](http://www.mondovisione.com/media-and-resources/news/ice-fourth-quarter-2024-earnings-conference-call-and-webcast-202526/)
+append_entries: 4
+Finish: 2025-02-06 16:24:50.764783
