@@ -3024,3 +3024,25 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Miami International Holdings Reports Trading Results For January 2025 - MIAX Exchange Group Options Volume Jumps 26.2% To Record Level With MIAX Futures Volume Surging 48.7%](http://www.mondovisione.com/media-and-resources/news/miami-international-holdings-reports-trading-results-for-january-2025-miax-exc-202527/)
 append_entries: 1
 Finish: 2025-02-07 16:25:13.544789
+------------------------------------------------------
+Started: 2025-02-07 18:27:38.814923
+Existing_entries: 506
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Entrepreneurship And Aggregate Productivity, Federal Reserve Governor Adriana D. Kugler, At 2025 Miami Economic Forum, Economic Club Of Miami, Miami, Florida](http://www.mondovisione.com/media-and-resources/news/entrepreneurship-and-aggregate-productivity-federal-reserve-governor-adriana-d-202527/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Announces Crypto CEO Forum To Launch Digital Asset Markets Pilot](http://www.mondovisione.com/media-and-resources/news/cftc-announces-crypto-ceo-forum-to-launch-digital-asset-markets-pilot-202527/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nigerian Exchange Weekly Report For 7 February 2025](http://www.mondovisione.com/media-and-resources/news/nigerian-exchange-weekly-report-for-7-february-2025-202527/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Finansinspektionen: Direct Contributions To Reserves From Shareholders As CET1 Capital](http://www.mondovisione.com/media-and-resources/news/finansinspektionen-direct-contributions-to-reserves-from-shareholders-as-cet1-c-202527/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Federal Reserve Monetary Policy Report](http://www.mondovisione.com/media-and-resources/news/federal-reserve-monetary-policy-report-202527/)
+Append: [ESMA Consults On CCP Authorisations, Extensions And Validations](http://www.mondovisione.com/media-and-resources/news/esma-consults-on-ccp-authorisations-extensions-and-validations-202527/)
+append_entries: 6
+Finish: 2025-02-07 18:27:40.189127
