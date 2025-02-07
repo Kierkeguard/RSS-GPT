@@ -3052,3 +3052,21 @@ Existing_entries: 512
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-02-07 20:21:27.373866
+------------------------------------------------------
+Started: 2025-02-07 22:18:36.952861
+Existing_entries: 512
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Treasury Secretary Bessent Announces Intention To Appoint First Deputy Comptroller Of The Office Of The Comptroller Of The Currency](http://www.mondovisione.com/media-and-resources/news/us-treasury-secretary-bessent-announces-intention-to-appoint-first-deputy-comptr-202527/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cboe Global Markets To Present At The BofA Securities 2025 Financial Services Conference On February 12](http://www.mondovisione.com/media-and-resources/news/cboe-global-markets-to-present-at-the-bofa-securities-2025-financial-services-co-202527/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Commitments Of Traders Reports Update](http://www.mondovisione.com/media-and-resources/news/cftc-commitments-of-traders-reports-update-202527/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Financial Data For Futures Commission Merchants Update](http://www.mondovisione.com/media-and-resources/news/cftc-financial-data-for-futures-commission-merchants-update-202527/)
+append_entries: 4
+Finish: 2025-02-07 22:18:37.903224
