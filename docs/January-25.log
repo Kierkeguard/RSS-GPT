@@ -2988,3 +2988,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Nasdaq Stockholm Welcomes Asmodee To The Main Market](http://www.mondovisione.com/media-and-resources/news/nasdaq-stockholm-welcomes-asmodee-to-the-main-market-202527/)
 append_entries: 4
 Finish: 2025-02-07 10:21:42.813138
+------------------------------------------------------
+Started: 2025-02-07 12:39:13.358841
+Existing_entries: 500
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESMA Contributes To Simplification And Burden Reduction](http://www.mondovisione.com/media-and-resources/news/esma-contributes-to-simplification-and-burden-reduction-202527/)
+append_entries: 1
+Finish: 2025-02-07 12:39:14.766436
