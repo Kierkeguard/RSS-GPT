@@ -3015,3 +3015,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Malawi Stock Exchange Monthly Market Performance Report - January 2025](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-monthly-market-performance-report-january-2025-202527/)
 append_entries: 4
 Finish: 2025-02-07 14:18:41.049974
+------------------------------------------------------
+Started: 2025-02-07 16:25:12.478497
+Existing_entries: 505
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Miami International Holdings Reports Trading Results For January 2025 - MIAX Exchange Group Options Volume Jumps 26.2% To Record Level With MIAX Futures Volume Surging 48.7%](http://www.mondovisione.com/media-and-resources/news/miami-international-holdings-reports-trading-results-for-january-2025-miax-exc-202527/)
+append_entries: 1
+Finish: 2025-02-07 16:25:13.544789
