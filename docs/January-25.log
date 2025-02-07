@@ -2970,3 +2970,21 @@ Append: [CFTC Statement On False Allegations Targeting Acting Chairman](http://w
 Append: [David Gillers To Step Down As CFTC Chief Of Staff](http://www.mondovisione.com/media-and-resources/news/david-gillers-to-step-down-as-cftc-chief-of-staff-202527/)
 append_entries: 7
 Finish: 2025-02-07 08:25:42.391070
+------------------------------------------------------
+Started: 2025-02-07 10:21:41.429899
+Existing_entries: 496
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Steps Up Action Against Misleading Financial Adverts](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-steps-up-action-against-misleading-financial-adve-202527/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER Recommends Aligning The Romanian Gas Transmission Tariffs With The Network Code’s Requirements](http://www.mondovisione.com/media-and-resources/news/acer-recommends-aligning-the-romanian-gas-transmission-tariffs-with-the-network-202527/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Pioneering Biotech Company BioVersys Opens IPO Season At SIX Swiss Exchange](http://www.mondovisione.com/media-and-resources/news/pioneering-biotech-company-bioversys-opens-ipo-season-at-six-swiss-exchange-202527/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Stockholm Welcomes Asmodee To The Main Market](http://www.mondovisione.com/media-and-resources/news/nasdaq-stockholm-welcomes-asmodee-to-the-main-market-202527/)
+append_entries: 4
+Finish: 2025-02-07 10:21:42.813138
