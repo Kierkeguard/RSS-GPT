@@ -2997,3 +2997,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ESMA Contributes To Simplification And Burden Reduction](http://www.mondovisione.com/media-and-resources/news/esma-contributes-to-simplification-and-burden-reduction-202527/)
 append_entries: 1
 Finish: 2025-02-07 12:39:14.766436
+------------------------------------------------------
+Started: 2025-02-07 14:18:40.200470
+Existing_entries: 501
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Malawi Stock Exchange Weekly Summary Report 7 February 2025](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-7-february-2025-202527/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cboe Global Markets, Inc. - Fourth Quarter 2024 Earnings Call](http://www.mondovisione.com/media-and-resources/news/cboe-global-markets-inc-fourth-quarter-2024-earnings-call-202527/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cboe Global Markets Reports Results For Fourth Quarter 2024 And Full Year](http://www.mondovisione.com/media-and-resources/news/cboe-global-markets-reports-results-for-fourth-quarter-2024-and-full-year-202527/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Malawi Stock Exchange Monthly Market Performance Report - January 2025](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-monthly-market-performance-report-january-2025-202527/)
+append_entries: 4
+Finish: 2025-02-07 14:18:41.049974
