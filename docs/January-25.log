@@ -2938,3 +2938,12 @@ Existing_entries: 488
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-02-07 04:24:54.111993
+------------------------------------------------------
+Started: 2025-02-07 06:29:01.559198
+Existing_entries: 488
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Successfully Appeals Federal Court Decision On Voluntary Disclosure Regime](http://www.mondovisione.com/media-and-resources/news/asic-successfully-appeals-federal-court-decision-on-voluntary-disclosure-regime-202527/)
+append_entries: 1
+Finish: 2025-02-07 06:29:02.342738
