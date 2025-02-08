@@ -3088,3 +3088,15 @@ Existing_entries: 516
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-02-08 04:23:12.437064
+------------------------------------------------------
+Started: 2025-02-08 06:26:15.544592
+Existing_entries: 516
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC: Exemption From Exchange Act Rule 13f-2 And Related Form SHO](http://www.mondovisione.com/media-and-resources/news/sec-exemption-from-exchange-act-rule-13f-2-and-related-form-sho-202528/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Rodney E. Hood Announced As Acting Comptroller Of The US Office Of The Comptroller Of The Currency](http://www.mondovisione.com/media-and-resources/news/rodney-e-hood-announced-as-acting-comptroller-of-the-us-office-of-the-comptroll-202528/)
+append_entries: 2
+Finish: 2025-02-08 06:26:16.826997
