@@ -3196,3 +3196,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Tehran Securities Exchange Weekly Market Snapshot 6  February 2025](http://www.mondovisione.com/media-and-resources/news/tehran-securities-exchange-weekly-market-snapshot-6-february-2025-202529/)
 append_entries: 1
 Finish: 2025-02-09 12:35:39.366746
+------------------------------------------------------
+Started: 2025-02-09 14:16:22.805174
+Existing_entries: 520
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-02-09 14:16:23.982136
