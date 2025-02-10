@@ -75,3 +75,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [LME Appoints Independent Non-Executive Director](http://www.mondovisione.com/media-and-resources/news/lme-appoints-independent-non-executive-director-2025210/)
 append_entries: 1
 Finish: 2025-02-10 12:40:32.393921
+------------------------------------------------------
+Started: 2025-02-10 14:19:34.664319
+Existing_entries: 19
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq, Inc. Announces Cash Tender Offers For Up To $200 Million Outstanding Debt Securities](http://www.mondovisione.com/media-and-resources/news/nasdaq-inc-announces-cash-tender-offers-for-up-to-200-million-outstanding-deb-2025210/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Financial Market Infrastructure (FMI) Regulation In A Changing World: Our Priorities For 2025 − Speech By Sasha Mills, Bank Of England, Executive Director, Financial Market Infrastructure](http://www.mondovisione.com/media-and-resources/news/financial-market-infrastructure-fmi-regulation-in-a-changing-world-our-priori-2025210/)
+append_entries: 2
+Finish: 2025-02-10 14:19:36.150089
