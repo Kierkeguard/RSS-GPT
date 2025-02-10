@@ -30,3 +30,18 @@ Existing_entries: 10
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-02-10 06:29:40.784761
+------------------------------------------------------
+Started: 2025-02-10 08:27:15.046427
+Existing_entries: 10
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [360T And Quantitative Brokers Announce Partnership For FX Algos](http://www.mondovisione.com/media-and-resources/news/360t-and-quantitative-brokers-announce-partnership-for-fx-algos-2025210/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Taiwan Futures Exchange Newsletter - February 2025](http://www.mondovisione.com/media-and-resources/news/taiwan-futures-exchange-newsletter-february-2025-2025210/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Complex Challenge Of Advice - Speech By ASIC Commissioner Alan Kirkland At The Conexus Financial Professional Planner 2025 Advice Policy Summit, 10 February 2025.](http://www.mondovisione.com/media-and-resources/news/the-complex-challenge-of-advice-speech-by-asic-commissioner-alan-kirkland-at-t-2025210/)
+append_entries: 3
+Finish: 2025-02-10 08:27:15.943688
