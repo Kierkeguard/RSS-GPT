@@ -144,3 +144,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CFTC: ‘Dating Or Defrauding?’ A Joint Effort To Alert Online Daters, Social Media Users Of Relationship Investment Scams](http://www.mondovisione.com/media-and-resources/news/cftcl-dating-or-defrauding-a-joint-effort-to-alert-online-daters-social-medi-2025210/)
 append_entries: 3
 Finish: 2025-02-10 20:21:35.807325
+------------------------------------------------------
+Started: 2025-02-10 22:18:34.148273
+Existing_entries: 34
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Swaps Report Update](http://www.mondovisione.com/media-and-resources/news/cftc-swaps-report-update-2025210/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Statement On The Departure Of CFTC Chairman Rostin Behnam](http://www.mondovisione.com/media-and-resources/news/statement-on-the-departure-of-cftc-chairman-rostin-behnam-2025210/)
+append_entries: 2
+Finish: 2025-02-10 22:18:35.285221
