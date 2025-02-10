@@ -45,3 +45,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [The Complex Challenge Of Advice - Speech By ASIC Commissioner Alan Kirkland At The Conexus Financial Professional Planner 2025 Advice Policy Summit, 10 February 2025.](http://www.mondovisione.com/media-and-resources/news/the-complex-challenge-of-advice-speech-by-asic-commissioner-alan-kirkland-at-t-2025210/)
 append_entries: 3
 Finish: 2025-02-10 08:27:15.943688
+------------------------------------------------------
+Started: 2025-02-10 10:22:56.690177
+Existing_entries: 13
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Global Markets Start 2025 On A High Note: FTSE Mondo Visione Index Reaches Record Levels](http://www.mondovisione.com/media-and-resources/news/global-markets-start-2025-on-a-high-note-ftse-mondo-visione-index-reaches-recor-2025210/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SET Market Report For January 2025](http://www.mondovisione.com/media-and-resources/news/set-market-report-for-january-2025-2025210/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [First Day Of Trading For Steyr Motors On The Vienna Stock Exchange](http://www.mondovisione.com/media-and-resources/news/first-day-of-trading-for-steyr-motors-on-the-vienna-stock-exchange-2025210/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [WFE FY24 Market Data: Americas Region Leading Global Markets Despite Lowest Level Of IPOs Worldwide In The Last 5 Years](http://www.mondovisione.com/media-and-resources/news/wfe-fy24-market-data-americas-region-leading-global-markets-despite-lowest-leve-2025210/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Trustly And Kivra Set A New Standard For Seamless Digital Payments In Sweden](http://www.mondovisione.com/media-and-resources/news/trustly-and-kivra-set-a-new-standard-for-seamless-digital-payments-in-sweden-2025210/)
+append_entries: 5
+Finish: 2025-02-10 10:22:58.584294
