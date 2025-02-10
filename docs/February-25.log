@@ -66,3 +66,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Trustly And Kivra Set A New Standard For Seamless Digital Payments In Sweden](http://www.mondovisione.com/media-and-resources/news/trustly-and-kivra-set-a-new-standard-for-seamless-digital-payments-in-sweden-2025210/)
 append_entries: 5
 Finish: 2025-02-10 10:22:58.584294
+------------------------------------------------------
+Started: 2025-02-10 12:40:31.087454
+Existing_entries: 18
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LME Appoints Independent Non-Executive Director](http://www.mondovisione.com/media-and-resources/news/lme-appoints-independent-non-executive-director-2025210/)
+append_entries: 1
+Finish: 2025-02-10 12:40:32.393921
