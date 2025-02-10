@@ -87,3 +87,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Financial Market Infrastructure (FMI) Regulation In A Changing World: Our Priorities For 2025 − Speech By Sasha Mills, Bank Of England, Executive Director, Financial Market Infrastructure](http://www.mondovisione.com/media-and-resources/news/financial-market-infrastructure-fmi-regulation-in-a-changing-world-our-priori-2025210/)
 append_entries: 2
 Finish: 2025-02-10 14:19:36.150089
+------------------------------------------------------
+Started: 2025-02-10 16:26:23.779357
+Existing_entries: 21
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group Announces First Trades Of Physically-Delivered Ethanol Futures & Options](http://www.mondovisione.com/media-and-resources/news/cme-group-announces-first-trades-of-physically-delivered-ethanol-futures-and-optio-2025210/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Kroll Expands Private Capital Markets Platform, Enhances Private Credit Analysis - Integrates Morningstar Leveraged Loan Index data and PitchBook LCD Analytics To Strengthen Private Credit Analysis](http://www.mondovisione.com/media-and-resources/news/kroll-expands-private-capital-markets-platform-enhances-private-credit-analysis-2025210/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group's Expanded Suite Of Short-Term Agricultural Options Now Available For Trading](http://www.mondovisione.com/media-and-resources/news/cme-groups-expanded-suite-of-short-term-agricultural-options-now-available-for-2025210/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ICE Expands Intraday Pricing And Analytics Offering For Canadian Fixed Income Markets With CanDeal DNA](http://www.mondovisione.com/media-and-resources/news/ice-expands-intraday-pricing-and-analytics-offering-for-canadian-fixed-income-ma-2025210/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Validus Secures $45 Million Growth Equity Investment From FTV Capital - Investment Will Support New Product Development, Go-To-Market Acceleration And Geographic Expansion, Strengthening Validus’ Position As A Leading Software And Tech-Enabled Platform For Private Markets Treasury Risk Management.](http://www.mondovisione.com/media-and-resources/news/validus-secures-45-million-growth-equity-investment-from-ftv-capital-investme-2025210/)
+append_entries: 5
+Finish: 2025-02-10 16:26:24.998670
