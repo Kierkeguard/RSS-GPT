@@ -129,3 +129,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CFTC: Federal Court Orders New York Resident To Pay Over $1.5 Million In Digital Assets Trading Scheme](http://www.mondovisione.com/media-and-resources/news/cftc-federal-court-orders-new-york-resident-to-pay-over-15-million-in-digital-2025210/)
 append_entries: 5
 Finish: 2025-02-10 18:28:34.388580
+------------------------------------------------------
+Started: 2025-02-10 20:21:34.813563
+Existing_entries: 31
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Commissioner Mersinger And SEC Commissioner Peirce To Participate In A Fireside Chat During The Cryptocurrency After The Election Event](http://www.mondovisione.com/media-and-resources/news/cftc-commissioner-mersinger-and-sec-commissioner-peirce-to-participate-in-a-fire-2025210/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TMX Group Equity Financing Statistics - January 2025](http://www.mondovisione.com/media-and-resources/news/tmx-group-equity-financing-statistics-january-2025-2025210/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC: ‘Dating Or Defrauding?’ A Joint Effort To Alert Online Daters, Social Media Users Of Relationship Investment Scams](http://www.mondovisione.com/media-and-resources/news/cftcl-dating-or-defrauding-a-joint-effort-to-alert-online-daters-social-medi-2025210/)
+append_entries: 3
+Finish: 2025-02-10 20:21:35.807325
