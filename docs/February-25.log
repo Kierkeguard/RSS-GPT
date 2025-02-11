@@ -174,3 +174,21 @@ Existing_entries: 36
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-02-11 04:23:56.536424
+------------------------------------------------------
+Started: 2025-02-11 06:28:50.356208
+Existing_entries: 36
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC: Exemption From The Requirement To Report Certain Personally Identifiable Information To The Consolidated Audit Trail](http://www.mondovisione.com/media-and-resources/news/sec-exemption-from-the-requirement-to-report-certain-personally-identifiable-in-2025211/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIFMA Statement On SEC’s Exemption From The Requirement To Report Certain Personally Identifiable Information To The Consolidated Audit Trail](http://www.mondovisione.com/media-and-resources/news/sifma-statement-on-secs-exemption-from-the-requirement-to-report-certain-person-2025211/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Declawing The CAT: Statement On Consolidated Audit Trail Exemptive Relief, SEC Commissioner Caroline A. Crenshaw](http://www.mondovisione.com/media-and-resources/news/declawing-the-cat-statement-on-consolidated-audit-trail-exemptive-relief-sec-c-2025211/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Department Of Justice: Alabama Man Pleads Guilty In Connection With Securities And Exchange Commission X Account Hack](http://www.mondovisione.com/media-and-resources/news/us-department-of-justice-alabama-man-pleads-guilty-in-connection-with-securitie-2025211/)
+append_entries: 4
+Finish: 2025-02-11 06:28:52.193325
