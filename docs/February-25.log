@@ -213,3 +213,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CTBC Launches CTBC U.S. Innovation Technology ETF, Tracking The Solactive U.S. Innovation Technology Index](http://www.mondovisione.com/media-and-resources/news/ctbc-launches-ctbc-us-innovation-technology-etf-tracking-the-solactive-us-i-2025211/)
 append_entries: 1
 Finish: 2025-02-11 10:22:27.082465
+------------------------------------------------------
+Started: 2025-02-11 12:40:29.277819
+Existing_entries: 43
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Zema Global Unveils Curve Viewer: Simplifying Data Access For Energy And Commodity Markets](http://www.mondovisione.com/media-and-resources/news/zema-global-unveils-curve-viewer-simplifying-data-access-for-energy-and-commodi-2025211/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Rimes: Greg Nuckowski Appointed Global Head Of Professional Services](http://www.mondovisione.com/media-and-resources/news/rimes-greg-nuckowski-appointed-global-head-of-professional-services-2025211/)
+append_entries: 2
+Finish: 2025-02-11 12:40:30.173285
