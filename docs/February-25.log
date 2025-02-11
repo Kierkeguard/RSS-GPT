@@ -204,3 +204,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Euronext Announces Collaboration With Euroclear To Enhance Euronext Clearing’s Collateral Management Offering](http://www.mondovisione.com/media-and-resources/news/euronext-announces-collaboration-with-euroclear-to-enhance-euronext-clearings-c-2025211/)
 append_entries: 2
 Finish: 2025-02-11 08:26:10.103564
+------------------------------------------------------
+Started: 2025-02-11 10:22:25.782689
+Existing_entries: 42
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CTBC Launches CTBC U.S. Innovation Technology ETF, Tracking The Solactive U.S. Innovation Technology Index](http://www.mondovisione.com/media-and-resources/news/ctbc-launches-ctbc-us-innovation-technology-etf-tracking-the-solactive-us-i-2025211/)
+append_entries: 1
+Finish: 2025-02-11 10:22:27.082465
