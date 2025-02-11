@@ -240,3 +240,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [R.J. O'brien, Phlo Systems Announce Strategic Partnership, Equity Investment](http://www.mondovisione.com/media-and-resources/news/rj-obrien-phlo-systems-announce-strategic-partnership-equity-investment-2025211/)
 append_entries: 3
 Finish: 2025-02-11 14:19:32.420077
+------------------------------------------------------
+Started: 2025-02-11 16:27:35.943028
+Existing_entries: 48
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Statement On Pause In Litigation Concerning The Climate-Related Disclosure Rule, SEC Commissioner Caroline A. Crenshaw](http://www.mondovisione.com/media-and-resources/news/statement-on-pause-in-litigation-concerning-the-climate-related-disclosure-rule-2025211/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Semiannual Monetary Policy Report To The Congress, Federal Reserve Chair Jerome H. Powell, Before The Committee On Banking, Housing, And Urban Affairs, U.S. Senate, Washington, D.C.](http://www.mondovisione.com/media-and-resources/news/semiannual-monetary-policy-report-to-the-congress-federal-reserve-chair-jerome-2025211/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Toronto Stock Exchange, TSX Venture Exchange, TSX Alpha Exchange And Montréal Exchange Closed For Family Day](http://www.mondovisione.com/media-and-resources/news/toronto-stock-exchange-tsx-venture-exchange-tsx-alpha-exchange-and-montral-ex-2025211/)
+append_entries: 3
+Finish: 2025-02-11 16:27:36.953384
