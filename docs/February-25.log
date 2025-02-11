@@ -156,3 +156,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Statement On The Departure Of CFTC Chairman Rostin Behnam](http://www.mondovisione.com/media-and-resources/news/statement-on-the-departure-of-cftc-chairman-rostin-behnam-2025210/)
 append_entries: 2
 Finish: 2025-02-10 22:18:35.285221
+------------------------------------------------------
+Started: 2025-02-11 01:38:39.148425
+Existing_entries: 36
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-02-11 01:38:40.825839
