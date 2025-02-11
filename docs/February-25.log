@@ -225,3 +225,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Rimes: Greg Nuckowski Appointed Global Head Of Professional Services](http://www.mondovisione.com/media-and-resources/news/rimes-greg-nuckowski-appointed-global-head-of-professional-services-2025211/)
 append_entries: 2
 Finish: 2025-02-11 12:40:30.173285
+------------------------------------------------------
+Started: 2025-02-11 14:19:31.533740
+Existing_entries: 45
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Acting SEC Chairman, Mark T. Uyeda,  Statement On Climate-Related Disclosure Rules](http://www.mondovisione.com/media-and-resources/news/acting-sec-chairman-mark-t-uyeda-statement-on-climate-related-disclosure-rul-2025211/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [U.S. Department Of The Treasury: United States, Australia, And The United Kingdom Jointly Sanction Key Infrastructure That Enables Ransomware Attacks](http://www.mondovisione.com/media-and-resources/news/us-department-of-the-treasury-united-states-australia-and-the-united-kingdo-2025211/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [R.J. O'brien, Phlo Systems Announce Strategic Partnership, Equity Investment](http://www.mondovisione.com/media-and-resources/news/rj-obrien-phlo-systems-announce-strategic-partnership-equity-investment-2025211/)
+append_entries: 3
+Finish: 2025-02-11 14:19:32.420077
