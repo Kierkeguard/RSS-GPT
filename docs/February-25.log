@@ -287,3 +287,21 @@ Append: [US Acting Comptroller Of The Currency Issues Statement On OCC’s Withd
 Append: [Are We Underestimating Changes In Financial Markets? - Speech By Andrew Bailey, Governor, Bank Of England, Given At The University Of Chicago Booth School Of Business, London](http://www.mondovisione.com/media-and-resources/news/are-we-underestimating-changes-in-financial-markets-speech-by-andrew-bailey-2025211/)
 append_entries: 7
 Finish: 2025-02-11 20:21:42.866236
+------------------------------------------------------
+Started: 2025-02-11 22:19:05.063010
+Existing_entries: 59
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Intercontinental Exchange And Reddit Collaborate To Create And Distribute Data Products For Capital Markets](http://www.mondovisione.com/media-and-resources/news/intercontinental-exchange-and-reddit-collaborate-to-create-and-distribute-data-p-2025211/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Announces End-Of-Month Open Short Interest Positions In Nasdaq Stocks As Of Settlement Date January 31, 2025](http://www.mondovisione.com/media-and-resources/news/nasdaq-announces-end-of-month-open-short-interest-positions-in-nasdaq-stocks-as-2025211/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NYSE Group Consolidated Short Interest Report](http://www.mondovisione.com/media-and-resources/news/nyse-group-consolidated-short-interest-report-2025211/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Coinbase To Host X Spaces With Co-Founder And CEO Brian Armstrong And CFO Alesia Haas](http://www.mondovisione.com/media-and-resources/news/coinbase-to-host-x-spaces-with-co-founder-and-ceo-brian-armstrong-and-cfo-alesia-2025211/)
+append_entries: 4
+Finish: 2025-02-11 22:19:06.297467
