@@ -192,3 +192,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [US Department Of Justice: Alabama Man Pleads Guilty In Connection With Securities And Exchange Commission X Account Hack](http://www.mondovisione.com/media-and-resources/news/us-department-of-justice-alabama-man-pleads-guilty-in-connection-with-securitie-2025211/)
 append_entries: 4
 Finish: 2025-02-11 06:28:52.193325
+------------------------------------------------------
+Started: 2025-02-11 08:26:08.693341
+Existing_entries: 40
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Worldline Partners With DNB Bank ASA To Enable Swift Connectivity To TARGET Instant Payment Settlement](http://www.mondovisione.com/media-and-resources/news/worldline-partners-with-dnb-bank-asa-to-enable-swift-connectivity-to-target-inst-2025211/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euronext Announces Collaboration With Euroclear To Enhance Euronext Clearing’s Collateral Management Offering](http://www.mondovisione.com/media-and-resources/news/euronext-announces-collaboration-with-euroclear-to-enhance-euronext-clearings-c-2025211/)
+append_entries: 2
+Finish: 2025-02-11 08:26:10.103564
