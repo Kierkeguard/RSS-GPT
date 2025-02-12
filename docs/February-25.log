@@ -341,3 +341,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Nadex Product Schedule For The US President's Day Holiday On Monday, February 17, 2025](http://www.mondovisione.com/media-and-resources/news/nadex-product-schedule-for-the-us-presidents-day-holiday-on-monday-february-17-2025212/)
 append_entries: 4
 Finish: 2025-02-12 06:29:01.879335
+------------------------------------------------------
+Started: 2025-02-12 08:26:46.316287
+Existing_entries: 67
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [S&P Global, UBS, Bank Of America And Fidelity's Former Executive Joins Fintech PremiaLab](http://www.mondovisione.com/media-and-resources/news/sandp-global-ubs-bank-of-america-and-fidelitys-former-executive-joins-fintech-p-2025212/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIX Launches New Service To Transform Crypto Collateral Management](http://www.mondovisione.com/media-and-resources/news/six-launches-new-service-to-transform-crypto-collateral-management-2025212/)
+append_entries: 2
+Finish: 2025-02-12 08:26:47.780420
