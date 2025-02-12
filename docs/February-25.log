@@ -386,3 +386,18 @@ Existing_entries: 74
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-02-12 14:19:16.239198
+------------------------------------------------------
+Started: 2025-02-12 16:26:41.821941
+Existing_entries: 74
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESMA Appoints Birgit Puck As New Chair Of The Markets Standing Committee](http://www.mondovisione.com/media-and-resources/news/esma-appoints-birgit-puck-as-new-chair-of-the-markets-standing-committee-2025212/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The New York Stock Exchange To Launch NYSE Texas](http://www.mondovisione.com/media-and-resources/news/the-new-york-stock-exchange-to-launch-nyse-texas-2025212/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group Inc. Reports All-Time Record Annual Revenue, Adjusted Operating Income, Adjusted Net Income And Adjusted Earnings Per Share For 2024](http://www.mondovisione.com/media-and-resources/news/cme-group-inc-reports-all-time-record-annual-revenue-adjusted-operating-income-2025212/)
+append_entries: 3
+Finish: 2025-02-12 16:26:43.452191
