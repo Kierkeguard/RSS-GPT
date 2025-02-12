@@ -323,3 +323,21 @@ Existing_entries: 63
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-02-12 04:24:18.597159
+------------------------------------------------------
+Started: 2025-02-12 06:29:00.395152
+Existing_entries: 63
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC: Financial Advice Update - February 2025](http://www.mondovisione.com/media-and-resources/news/asic-financial-advice-update-february-2025-2025212/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Zealand Financial Markets Authority Provides Clarity To e-money/payment Services Providers On Licensing Requirements](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-provides-clarity-to-e-moneypayment-serv-2025212/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cboe Global Markets Declares First-Quarter 2025 Dividend](http://www.mondovisione.com/media-and-resources/news/cboe-global-markets-declares-first-quarter-2025-dividend-2025212/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nadex Product Schedule For The US President's Day Holiday On Monday, February 17, 2025](http://www.mondovisione.com/media-and-resources/news/nadex-product-schedule-for-the-us-presidents-day-holiday-on-monday-february-17-2025212/)
+append_entries: 4
+Finish: 2025-02-12 06:29:01.879335
