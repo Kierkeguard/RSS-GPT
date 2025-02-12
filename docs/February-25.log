@@ -401,3 +401,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CME Group Inc. Reports All-Time Record Annual Revenue, Adjusted Operating Income, Adjusted Net Income And Adjusted Earnings Per Share For 2024](http://www.mondovisione.com/media-and-resources/news/cme-group-inc-reports-all-time-record-annual-revenue-adjusted-operating-income-2025212/)
 append_entries: 3
 Finish: 2025-02-12 16:26:43.452191
+------------------------------------------------------
+Started: 2025-02-12 18:28:52.812135
+Existing_entries: 77
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-02-12 18:28:54.457375
