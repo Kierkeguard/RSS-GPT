@@ -407,3 +407,26 @@ Existing_entries: 77
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-02-12 18:28:54.457375
+------------------------------------------------------
+Started: 2025-02-12 20:22:12.453522
+Existing_entries: 77
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Statement On Staff Legal Bulletin 14M, SEC Commissioner Caroline A. Crenshaw, Feb. 12, 2025](http://www.mondovisione.com/media-and-resources/news/statement-on-staff-legal-bulletin-14m-sec-commissioner-caroline-a-crenshaw-fe-2025212/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ISDA Annual Legal Forum, February 12, 2025, Opening Remarks, Katherine Tew Darras, ISDA General Counsel](http://www.mondovisione.com/media-and-resources/news/isda-annual-legal-forum-february-12-2025-opening-remarks-katherine-tew-darra-2025212/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The EBA Publishes Its Final Draft Technical Standards To Implement A Centralised EBA Pillar 3 Data Hub](http://www.mondovisione.com/media-and-resources/news/the-eba-publishes-its-final-draft-technical-standards-to-implement-a-centralised-2025212/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Not Such An Island After All − Speech By Megan Greene, Member Of The Monetary Policy Committee, Bank Of England, Given At The Institute Of Directors](http://www.mondovisione.com/media-and-resources/news/not-such-an-island-after-all-speech-by-megan-greene-member-of-the-monetary-po-2025212/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [KDPW: New Website And LEI Issuance Application](http://www.mondovisione.com/media-and-resources/news/kdpw-new-website-and-lei-issuance-application-2025212/)
+Append: [Borsa İstanbul’s Opening Bell Rang For Enda Enerji Holding A.Ş.](http://www.mondovisione.com/media-and-resources/news/borsa-istanbuls-opening-bell-rang-for-enda-enerji-holding-a-2025212/)
+Append: [The Central Bank Of The UAE Signs An Agreement With ADX To Enhance Settlement Processes](http://www.mondovisione.com/media-and-resources/news/the-central-bank-of-the-uae-signs-an-agreement-with-adx-to-enhance-settlement-pr-2025212/)
+append_entries: 7
+Finish: 2025-02-12 20:22:14.128778
