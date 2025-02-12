@@ -353,3 +353,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SIX Launches New Service To Transform Crypto Collateral Management](http://www.mondovisione.com/media-and-resources/news/six-launches-new-service-to-transform-crypto-collateral-management-2025212/)
 append_entries: 2
 Finish: 2025-02-12 08:26:47.780420
+------------------------------------------------------
+Started: 2025-02-12 10:21:25.733592
+Existing_entries: 69
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Worldline And FreedomPay Announce Strategic Travel & Hospitality Partnership - Omni-Channel Payment Services Solution To Boost European Market](http://www.mondovisione.com/media-and-resources/news/worldline-and-freedompay-announce-strategic-travel-and-hospitality-partnership-o-2025212/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LSEG Completes Major Coverage Expansion Of Tick History – PCAP And Real-Time- Direct Products](http://www.mondovisione.com/media-and-resources/news/lseg-completes-major-coverage-expansion-of-tick-history-pcap-and-real-time-di-2025212/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Broadridge And Upvest To Deliver End-To-End Proxy Voting And Shareholder Disclosure Solutions - Broadridge Enables Upvest To Streamline Shareholder Interactions With Enhanced Transparency, Further Enabling The Democratization And Digitization Of Corporate Governance](http://www.mondovisione.com/media-and-resources/news/broadridge-and-upvest-to-deliver-end-to-end-proxy-voting-and-shareholder-disclos-2025212/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Information Publishing Limited Acquires Econoday, Inc., Expanding Its U.S. Footprint In Economic Data](http://www.mondovisione.com/media-and-resources/news/information-publishing-limited-acquires-econoday-inc-expanding-its-us-footp-2025212/)
+append_entries: 4
+Finish: 2025-02-12 10:21:27.086567
