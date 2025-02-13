@@ -565,3 +565,24 @@ Existing_entries: 109
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-02-13 18:28:39.855779
+------------------------------------------------------
+Started: 2025-02-13 20:21:52.538922
+Existing_entries: 109
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Office Of The Comptroller Of The Currency Releases Dodd-Frank Act Stress Test Scenarios For 2025](http://www.mondovisione.com/media-and-resources/news/us-office-of-the-comptroller-of-the-currency-releases-dodd-frank-act-stress-test-2025213/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euronext Publishes Q4 And Full Year 2024 Results](http://www.mondovisione.com/media-and-resources/news/euronext-publishes-q4-and-full-year-2024-results-2025213/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESMA Consults On Amendments To Settlement Discipline](http://www.mondovisione.com/media-and-resources/news/esma-consults-on-amendments-to-settlement-discipline-2025213/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Memorandum Of Understanding Between HM Treasury And The Bank Of England 2025](http://www.mondovisione.com/media-and-resources/news/memorandum-of-understanding-between-hm-treasury-and-the-bank-of-england-2025-2025213/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Borsa İstanbul’s Opening Bell Rang For Kalyon Güneş Teknolojileri Üretim A.Ş.](http://www.mondovisione.com/media-and-resources/news/borsa-istanbuls-opening-bell-rang-for-kalyon-gne-teknolojileri-retim-a-2025213/)
+append_entries: 5
+Finish: 2025-02-13 20:21:53.878417
