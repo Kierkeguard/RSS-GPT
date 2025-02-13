@@ -586,3 +586,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Borsa İstanbul’s Opening Bell Rang For Kalyon Güneş Teknolojileri Üretim A.Ş.](http://www.mondovisione.com/media-and-resources/news/borsa-istanbuls-opening-bell-rang-for-kalyon-gne-teknolojileri-retim-a-2025213/)
 append_entries: 5
 Finish: 2025-02-13 20:21:53.878417
+------------------------------------------------------
+Started: 2025-02-13 22:18:56.569544
+Existing_entries: 114
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ETFGI Reports That Assets Invested In The ETFs Industry In The United States Reached A New Record Of US$10.73 Trillion At The End Of January](http://www.mondovisione.com/media-and-resources/news/etfgi-reports-that-assets-invested-in-the-etfs-industry-in-the-united-states-rea-2025213/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Europe’s First CLO ETF Now Listed On LuxSE](http://www.mondovisione.com/media-and-resources/news/europes-first-clo-etf-now-listed-on-luxse-2025213/)
+append_entries: 2
+Finish: 2025-02-13 22:18:57.668056
