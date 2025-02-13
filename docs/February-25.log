@@ -559,3 +559,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [The Federation Of Euro-Asian Capital Markets Held 40th General Assembly Meeting In Almaty, Kazakhstan](http://www.mondovisione.com/media-and-resources/news/the-federation-of-euro-asian-capital-markets-held-40th-general-assembly-meeting-2025213/)
 append_entries: 4
 Finish: 2025-02-13 16:26:57.886842
+------------------------------------------------------
+Started: 2025-02-13 18:28:39.027019
+Existing_entries: 109
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-02-13 18:28:39.855779
