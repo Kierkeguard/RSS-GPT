@@ -541,3 +541,21 @@ Existing_entries: 105
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-02-13 14:19:18.977921
+------------------------------------------------------
+Started: 2025-02-13 16:26:56.476302
+Existing_entries: 105
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Saudi Ministry Of Finance And IMF Prepare To Launch AlUla Conference For Emerging Market Economies](http://www.mondovisione.com/media-and-resources/news/saudi-ministry-of-finance-and-imf-prepare-to-launch-alula-conference-for-emergin-2025213/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [REMIT Breach: French Regulator Fines Danske Commodities A/S €8 Million And Equinor ASA €4 Million For Manipulating The Gas Market](http://www.mondovisione.com/media-and-resources/news/remit-breach-french-regulator-fines-danske-commodities-as-8-million-and-equin-2025213/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Named Best Trading Platform, Receives Technology Innovation Award At Fund Intelligence Operations And Services Awards 2025](http://www.mondovisione.com/media-and-resources/news/miax-named-best-trading-platform-receives-technology-innovation-award-at-fund-i-2025213/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Federation Of Euro-Asian Capital Markets Held 40th General Assembly Meeting In Almaty, Kazakhstan](http://www.mondovisione.com/media-and-resources/news/the-federation-of-euro-asian-capital-markets-held-40th-general-assembly-meeting-2025213/)
+append_entries: 4
+Finish: 2025-02-13 16:26:57.886842
