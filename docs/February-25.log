@@ -454,3 +454,24 @@ Existing_entries: 84
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-02-13 04:24:56.352052
+------------------------------------------------------
+Started: 2025-02-13 06:28:36.179581
+Existing_entries: 84
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nadex Self-Certifies XRP (XRP) Cryptocurrency Event Contracts](http://www.mondovisione.com/media-and-resources/news/nadex-self-certifies-xrp-xrp-cryptocurrency-event-contracts-2025213/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nadex Self-Certifies Pepe (PEPE) Cryptocurrency Event Contracts](http://www.mondovisione.com/media-and-resources/news/nadex-self-certifies-pepe-pepe-cryptocurrency-event-contracts-2025213/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nadex Self-Certifies Dogelon (ELON) Cryptocurrency Event Contracts](http://www.mondovisione.com/media-and-resources/news/nadex-self-certifies-dogelon-elon-cryptocurrency-event-contracts-2025213/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nadex Self-Certifies Cronos (CRO) Cryptocurrency Event Contracts](http://www.mondovisione.com/media-and-resources/news/nadex-self-certifies-cronos-cro-cryptocurrency-event-contracts-2025213/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nadex Self-Certifies Bonk (BONK) Cryptocurrency Event Contracts](http://www.mondovisione.com/media-and-resources/news/nadex-self-certifies-bonk-bonk-cryptocurrency-event-contracts-2025213/)
+append_entries: 5
+Finish: 2025-02-13 06:28:37.199828
