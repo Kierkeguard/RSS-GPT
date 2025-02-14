@@ -661,3 +661,24 @@ Existing_entries: 121
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-02-14 14:18:33.120027
+------------------------------------------------------
+Started: 2025-02-14 16:23:58.715740
+Existing_entries: 121
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [DNA From Fiserv Selected By Third Federal As Part Of Its Digital Transformation - Fiserv Core Solution Recognized With Advanced Technology Award, Designated Luminary By Celent For Best-In-Class Technology And Technical Capability](http://www.mondovisione.com/media-and-resources/news/dna-from-fiserv-selected-by-third-federal-as-part-of-its-digital-transformation-2025214/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Moscow Exchange: Updated Constituents List For OFZ Zero Coupon Yield Curve To Come Into Force On 17 February 2025](http://www.mondovisione.com/media-and-resources/news/moscow-exchange-updated-constituents-list-for-ofz-zero-coupon-yield-curve-to-co-2025214/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Malawi Stock Exchange Weekly Summary Report, 14 February 2025](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-14-february-2025-2025214/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cyprus Stock Exchange Bulletin For January 2025](http://www.mondovisione.com/media-and-resources/news/cyprus-stock-exchange-bulletin-for-january-2025-2025214/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Decision By The Nasdaq Stockholm Disciplinary Committee Regarding DORO AB](http://www.mondovisione.com/media-and-resources/news/decision-by-the-nasdaq-stockholm-disciplinary-committee-regarding-doro-ab-2025214/)
+append_entries: 5
+Finish: 2025-02-14 16:23:59.835145
