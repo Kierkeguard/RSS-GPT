@@ -598,3 +598,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Europe’s First CLO ETF Now Listed On LuxSE](http://www.mondovisione.com/media-and-resources/news/europes-first-clo-etf-now-listed-on-luxse-2025213/)
 append_entries: 2
 Finish: 2025-02-13 22:18:57.668056
+------------------------------------------------------
+Started: 2025-02-14 01:38:42.563734
+Existing_entries: 116
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-02-14 01:38:43.859750
