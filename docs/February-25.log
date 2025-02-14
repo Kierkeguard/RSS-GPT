@@ -616,3 +616,15 @@ Existing_entries: 116
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-02-14 04:24:33.439206
+------------------------------------------------------
+Started: 2025-02-14 06:28:16.695847
+Existing_entries: 116
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Montréal Exchange Interest Rate Derivative Trading Ceases At 13:30 Today, February 16, 2024 - Exchange's Markets Closed On February 19, 2024](http://www.mondovisione.com/media-and-resources/news/montral-exchange-interest-rate-derivative-trading-ceases-at-1330-today-februa-2025214/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Department Of Justice: Two Estonian Nationals Plead Guilty In $577M Cryptocurrency Fraud Scheme - Scheme Victimized Hundreds Of Thousands Of People In United States And Abroad](http://www.mondovisione.com/media-and-resources/news/us-department-of-justice-two-estonian-nationals-plead-guilty-in-577m-cryptocur-2025214/)
+append_entries: 2
+Finish: 2025-02-14 06:28:17.823635
