@@ -700,3 +700,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [TT® Platform Named Derivatives Trading System Of The Year At FOW International Awards - Third Consecutive Win In Category For Trading Technologies](http://www.mondovisione.com/media-and-resources/news/tt-platform-named-derivatives-trading-system-of-the-year-at-fow-international-a-2025214/)
 append_entries: 4
 Finish: 2025-02-14 18:27:40.198600
+------------------------------------------------------
+Started: 2025-02-14 20:21:29.166120
+Existing_entries: 130
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Charges One Oak Capital Management And Michael DeRosa With Breaching Fiduciary Duties To Clients](http://www.mondovisione.com/media-and-resources/news/sec-charges-one-oak-capital-management-and-michael-derosa-with-breaching-fiducia-2025214/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Seeks Candidates For Membership On The Investor Advisory Committee](http://www.mondovisione.com/media-and-resources/news/sec-seeks-candidates-for-membership-on-the-investor-advisory-committee-2025214/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Announces 44th Annual Small Business Forum To Impact Capital-Raising Policy](http://www.mondovisione.com/media-and-resources/news/sec-announces-44th-annual-small-business-forum-to-impact-capital-raising-policy-2025214/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESMA Launches A Common Supervisory Action With NCAs On Compliance And Internal Audit Functions](http://www.mondovisione.com/media-and-resources/news/esma-launches-a-common-supervisory-action-with-ncas-on-compliance-and-internal-a-2025214/)
+append_entries: 4
+Finish: 2025-02-14 20:21:30.090979
