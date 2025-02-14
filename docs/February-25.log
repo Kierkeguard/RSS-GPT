@@ -682,3 +682,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Decision By The Nasdaq Stockholm Disciplinary Committee Regarding DORO AB](http://www.mondovisione.com/media-and-resources/news/decision-by-the-nasdaq-stockholm-disciplinary-committee-regarding-doro-ab-2025214/)
 append_entries: 5
 Finish: 2025-02-14 16:23:59.835145
+------------------------------------------------------
+Started: 2025-02-14 18:27:39.273666
+Existing_entries: 126
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Acting CFTC Chairman Pham Announces Brian Young As Director Of Enforcement](http://www.mondovisione.com/media-and-resources/news/acting-cftc-chairman-pham-announces-brian-young-as-director-of-enforcement-2025214/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nigerian Exchange Weekly Market Report For The Week Ended 14 February 2025](http://www.mondovisione.com/media-and-resources/news/nigerian-exchange-weekly-market-report-for-the-week-ended-14-february-2025-2025214/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Deutsche Börse Group: Business Indicators For January 2025](http://www.mondovisione.com/media-and-resources/news/deutsche-brse-group-business-indicators-for-january-2025-2025214/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TT® Platform Named Derivatives Trading System Of The Year At FOW International Awards - Third Consecutive Win In Category For Trading Technologies](http://www.mondovisione.com/media-and-resources/news/tt-platform-named-derivatives-trading-system-of-the-year-at-fow-international-a-2025214/)
+append_entries: 4
+Finish: 2025-02-14 18:27:40.198600
