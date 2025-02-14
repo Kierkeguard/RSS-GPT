@@ -640,3 +640,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [The Malaysia Co-Investment Fund Roadshow Eyes MSMEs In Northern Malaysia](http://www.mondovisione.com/media-and-resources/news/the-malaysia-co-investment-fund-roadshow-eyes-msmes-in-northern-malaysia-2025214/)
 append_entries: 2
 Finish: 2025-02-14 08:26:06.775338
+------------------------------------------------------
+Started: 2025-02-14 10:21:11.432496
+Existing_entries: 120
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CloudMargin Wins Collateral Management Solution Of The Year At FOW International Awards 2025](http://www.mondovisione.com/media-and-resources/news/cloudmargin-wins-collateral-management-solution-of-the-year-at-fow-international-2025214/)
+append_entries: 1
+Finish: 2025-02-14 10:21:12.743196
