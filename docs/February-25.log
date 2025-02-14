@@ -628,3 +628,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [US Department Of Justice: Two Estonian Nationals Plead Guilty In $577M Cryptocurrency Fraud Scheme - Scheme Victimized Hundreds Of Thousands Of People In United States And Abroad](http://www.mondovisione.com/media-and-resources/news/us-department-of-justice-two-estonian-nationals-plead-guilty-in-577m-cryptocur-2025214/)
 append_entries: 2
 Finish: 2025-02-14 06:28:17.823635
+------------------------------------------------------
+Started: 2025-02-14 08:26:05.765647
+Existing_entries: 118
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASEAN Capital Markets Forum: Continuing To Facilitate Regional Growth Through Sustainable, Resilient And Inter-Connected Capital Markets](http://www.mondovisione.com/media-and-resources/news/asean-capital-markets-forum-continuing-to-facilitate-regional-growth-through-su-2025214/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Malaysia Co-Investment Fund Roadshow Eyes MSMEs In Northern Malaysia](http://www.mondovisione.com/media-and-resources/news/the-malaysia-co-investment-fund-roadshow-eyes-msmes-in-northern-malaysia-2025214/)
+append_entries: 2
+Finish: 2025-02-14 08:26:06.775338
