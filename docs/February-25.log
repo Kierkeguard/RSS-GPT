@@ -871,3 +871,12 @@ Existing_entries: 137
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-02-16 20:20:42.114065
+------------------------------------------------------
+Started: 2025-02-16 22:18:07.853807
+Existing_entries: 137
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Zealand Financial Markets Authority: Individual Ordered To Pay Compensation And Pecuniary Penalty For Making False Or Misleading Representations](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-individual-ordered-to-pay-compensation-2025216/)
+append_entries: 1
+Finish: 2025-02-16 22:18:09.029584
