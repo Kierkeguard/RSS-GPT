@@ -946,3 +946,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SET Index Rebounds In Afternoon Trading, Bolstered By Multi-Industry Gains](http://www.mondovisione.com/media-and-resources/news/set-index-rebounds-in-afternoon-trading-bolstered-by-multi-industry-gains-2025217/)
 append_entries: 3
 Finish: 2025-02-17 14:19:52.934767
+------------------------------------------------------
+Started: 2025-02-17 16:26:03.219056
+Existing_entries: 144
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER Suggests Better Reflecting The Benefits Of Europe’s Internal Electricity Market In Poland’s National Resource Adequacy Assessment](http://www.mondovisione.com/media-and-resources/news/acer-suggests-better-reflecting-the-benefits-of-europes-internal-electricity-ma-2025217/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ETFGI Reports Assets Invested In The Global ETFs Industry Surpassed The Hedge Fund Industry By US$10.33 Trillion At The End Of 2024](http://www.mondovisione.com/media-and-resources/news/etfgi-reports-assets-invested-in-the-global-etfs-industry-surpassed-the-hedge-fu-2025217/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Brief Remarks On The Economy And Accountability In Supervision, Applications, And Regulation, Federal Reserve Governor Michelle W. Bowman, At The American Bankers Association 2025 Conference For Community Bankers, Phoenix, Arizona](http://www.mondovisione.com/media-and-resources/news/brief-remarks-on-the-economy-and-accountability-in-supervision-applications-an-2025217/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [John Flint To Step Down As UK National Wealth Fund CEO In The Summer](http://www.mondovisione.com/media-and-resources/news/john-flint-to-step-down-as-uk-national-wealth-fund-ceo-in-the-summer-2025217/)
+append_entries: 4
+Finish: 2025-02-17 16:26:04.524465
