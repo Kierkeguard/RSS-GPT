@@ -904,3 +904,15 @@ Existing_entries: 138
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-02-17 06:29:58.960453
+------------------------------------------------------
+Started: 2025-02-17 08:28:07.248802
+Existing_entries: 138
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Securities Commission Malaysia Introduces Regulatory Sandbox To Facilitate Innovation  - Guidelines And Eligibility Criteria Released; Application Forms Now Available](http://www.mondovisione.com/media-and-resources/news/securities-commission-malaysia-introduces-regulatory-sandbox-to-facilitate-innov-2025217/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Joint Statement By Saudi Finance Minister And IMF Managing Director On Supporting Recovery In The Middle East's Conflict-Affected Economies](http://www.mondovisione.com/media-and-resources/news/joint-statement-by-saudi-finance-minister-and-imf-managing-director-on-supportin-2025217/)
+append_entries: 2
+Finish: 2025-02-17 08:28:08.467892
