@@ -976,3 +976,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Kazakhstan Stock Exchange JSC (KASE) Goes Live On Tabadul Platform](http://www.mondovisione.com/media-and-resources/news/kazakhstan-stock-exchange-jsc-kase-goes-live-on-tabadul-platform-2025217/)
 append_entries: 2
 Finish: 2025-02-17 18:27:37.396634
+------------------------------------------------------
+Started: 2025-02-17 20:21:38.751515
+Existing_entries: 150
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Montréal Exchange's Markets Closed Today, February 17, 2025 - Family Day](http://www.mondovisione.com/media-and-resources/news/montral-exchanges-markets-closed-today-february-17-2025-family-day-2025217/)
+append_entries: 1
+Finish: 2025-02-17 20:21:39.736817
