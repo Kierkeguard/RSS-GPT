@@ -964,3 +964,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [John Flint To Step Down As UK National Wealth Fund CEO In The Summer](http://www.mondovisione.com/media-and-resources/news/john-flint-to-step-down-as-uk-national-wealth-fund-ceo-in-the-summer-2025217/)
 append_entries: 4
 Finish: 2025-02-17 16:26:04.524465
+------------------------------------------------------
+Started: 2025-02-17 18:27:36.316130
+Existing_entries: 148
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ETFGI Reports That Assets Invested In The ETFs Industry In Europe Reached A New Record Of US$2.37 Trillion At The End Of January](http://www.mondovisione.com/media-and-resources/news/etfgi-reports-that-assets-invested-in-the-etfs-industry-in-europe-reached-a-new-2025217/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Kazakhstan Stock Exchange JSC (KASE) Goes Live On Tabadul Platform](http://www.mondovisione.com/media-and-resources/news/kazakhstan-stock-exchange-jsc-kase-goes-live-on-tabadul-platform-2025217/)
+append_entries: 2
+Finish: 2025-02-17 18:27:37.396634
