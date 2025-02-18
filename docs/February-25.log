@@ -1072,3 +1072,18 @@ Existing_entries: 162
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-02-18 14:19:23.177244
+------------------------------------------------------
+Started: 2025-02-18 16:27:05.820094
+Existing_entries: 162
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Kroll's Opinions Practice Named 2024 Global Leader In Fairness Opinions - Maintains Top Position In LSEG's Fairness Opinion Rankings For Over 20 Years, Recognized Globally.](http://www.mondovisione.com/media-and-resources/news/krolls-opinions-practice-named-2024-global-leader-in-fairness-opinions-mainta-2025218/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [OCC Appoints Matt Rathbun As Chief Security Officer-Elect - Former Two Sigma Executive Rathbun Will Succeed Current CSO Mark Morrison, Who Is Set To Retire In 2025](http://www.mondovisione.com/media-and-resources/news/occ-appoints-matt-rathbun-as-chief-security-officer-elect-former-two-sigma-exe-2025218/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CEO Of Exegy Named Chief Executive Of The Year For Leadership In Derivatives Technology](http://www.mondovisione.com/media-and-resources/news/ceo-of-exegy-named-chief-executive-of-the-year-for-leadership-in-derivatives-tec-2025218/)
+append_entries: 3
+Finish: 2025-02-18 16:27:06.802997
