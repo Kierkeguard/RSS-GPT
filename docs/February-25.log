@@ -1087,3 +1087,26 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CEO Of Exegy Named Chief Executive Of The Year For Leadership In Derivatives Technology](http://www.mondovisione.com/media-and-resources/news/ceo-of-exegy-named-chief-executive-of-the-year-for-leadership-in-derivatives-tec-2025218/)
 append_entries: 3
 Finish: 2025-02-18 16:27:06.802997
+------------------------------------------------------
+Started: 2025-02-18 18:29:15.655957
+Existing_entries: 165
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESMA Proposes Guidelines On Product Supplements](http://www.mondovisione.com/media-and-resources/news/esma-proposes-guidelines-on-product-supplements-2025218/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ICE Bonds Sees Record Trading For Corporate, Municipal And Agency Bonds In 2024 - Demand For Enhanced Sweeps Session-Based Protocol For Corporate Bonds Increases In Fourth Quarter](http://www.mondovisione.com/media-and-resources/news/ice-bonds-sees-record-trading-for-corporate-municipal-and-agency-bonds-in-2024-2025218/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The ESAs Provide A Roadmap Towards The Designation Of CTPPs Under DORA](http://www.mondovisione.com/media-and-resources/news/the-esas-provide-a-roadmap-towards-the-designation-of-ctpps-under-dora-2025218/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Grupo Bolsa Mexicana De Valores Partners With IPC To Deploy Beeks Technology To Simplify The Process Of Onboarding New Participants Into The Market](http://www.mondovisione.com/media-and-resources/news/grupo-bolsa-mexicana-de-valores-partners-with-ipc-to-deploy-beeks-technology-to-2025218/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [PREATONI Group Lists On Euronext Access+](http://www.mondovisione.com/media-and-resources/news/preatoni-group-lists-on-euronext-access-2025218/)
+Append: [Bank Of England: Foreign Currency Reserves 2025 - Market Notice 18 February 2025](http://www.mondovisione.com/media-and-resources/news/bank-of-england-foreign-currency-reserves-2025-market-notice-18-february-2025-2025218/)
+Append: [Euronext Expands Into Fixed Income Derivatives With An Innovative Offering On European Government Bonds](http://www.mondovisione.com/media-and-resources/news/euronext-expands-into-fixed-income-derivatives-with-an-innovative-offering-on-eu-2025218/)
+append_entries: 7
+Finish: 2025-02-18 18:29:17.014493
