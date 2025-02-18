@@ -1042,3 +1042,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Opensee Delivers Real-Time Risk Analytics For Taula Capital](http://www.mondovisione.com/media-and-resources/news/opensee-delivers-real-time-risk-analytics-for-taula-capital-2025218/)
 append_entries: 3
 Finish: 2025-02-18 08:26:34.053786
+------------------------------------------------------
+Started: 2025-02-18 10:22:10.281127
+Existing_entries: 158
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [DiffusionData Offers Free Trial Of Diffusion Cloud](http://www.mondovisione.com/media-and-resources/news/diffusiondata-offers-free-trial-of-diffusion-cloud-2025218/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Trustfull Launches AI-Powered Domain Intelligence To Strengthen Business Verification](http://www.mondovisione.com/media-and-resources/news/trustfull-launches-ai-powered-domain-intelligence-to-strengthen-business-verific-2025218/)
+append_entries: 2
+Finish: 2025-02-18 10:22:11.798218

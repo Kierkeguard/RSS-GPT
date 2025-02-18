@@ -5,17 +5,70 @@
 <link>http://www.mondovisione.com/media-and-resources/news/</link>
 
 <item>
+<title>DiffusionData Offers Free Trial Of Diffusion Cloud</title>
+<link>http://www.mondovisione.com/media-and-resources/news/diffusiondata-offers-free-trial-of-diffusion-cloud-2025218/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/diffusiondata-offers-free-trial-of-diffusion-cloud-2025218/</guid>
+<content:encoded><![CDATA[
+
+<p><span><span style="text-decoration: underline;"><a class="safe---anchor---wc OWAAutoLink" href="https://www.diffusiondata.com/" id="OWAcecf7a8c-a592-2bb2-f858-1158cd422060" rel="noopener noreferrer nofollow" target="_blank">DiffusionData</a></span></span>, the pioneer and leader in real-time data streaming, today announced that Diffusion Cloud is now available free on a no obligation trial basis for one month, with no deployment costs.</p>
+<p>To support new sign-ups, DiffusionData will make service engineers available if a participant requires advice during the set-up process. To sign up for the free trial and to start using Diffusion Cloud today, click&nbsp;<span><span style="text-decoration: underline;"><a class="safe---anchor---wc OWAAutoLink" href="https://dashboard.diffusion.cloud/signup?utm_source=website&amp;utm_medium=organic&amp;_ga=2.40982315.865471734.1660975173-293570080.1655911748" id="OWAda39fb39-3173-76b3-b62a-a076c8c7d498" rel="noopener noreferrer nofollow" target="_blank">here.</a></span></span></p>
+<h4 class="elementToProof"><b><i>Diffusion Cloud for Financial Services<br /></i></b></h4>
+<p>DiffusionData empowers financial institutions via the industry&rsquo;s most secure data streaming framework. Diffusion Cloud powers personalised real-time streaming at low latency enabling our clients to deliver time-critical information such as live pricing data, trading information and customer notification at Internet scale. During the trial,&nbsp;users will be able to connect to their existing data sources, such as a Kafka instance or Redis database, and stream in minutes. The framework enables efficient, cost-effective cloud deployments, saving egress costs, and is suitable for Mobile and Web applications where performance and scalability are essential.</p>
+<p>With the power of no-code data transformation, request response messaging, in-memory data caching and real-time data distribution at scale, Diffusion Cloud helps clients accelerate platform modernisation. A key benefit for financial organisations is more cost-effective development, deployment and maintenance vs an in-house build. Development teams will save weeks of effort and drastically reduce bandwidth consumption.</p>
+<h4><b><i>Diffusion Cloud for iGaming<br /></i></b></h4>
+<p>iGaming is highly event-driven and demands applications that instantly react to fast-changing market prices before a game&nbsp;(Pre Match), and during the game (In Play). Industry leaders and well-known high-street&nbsp;brands use Diffusion Cloud to eradicate missed bets and provide real-time market lines that keeps them ahead of competitors&nbsp;(In Play, Cash Out, Live Scores, Personalised Offers etc.). Diffusion Cloud handles the large increased spike in users that comes with a major sporting event and delivers data to all the users in real-time &ndash; providing superior customer experiences across&nbsp;all your iGaming offerings be it Sportsbook, Casino, Bingo, and eSports.</p>
+<p>iGaming companies use the Diffusion Cloud framework to seed development and shorten go-to-market time for new offerings; control and secure gaming event-data flowing to and from millions of online customers; reduce development and ongoing operational costs; simplify deployment; assure regulatory compliance for geographic expansion; and deliver personalised and enriched individual experiences. All of this is achieved by our clients through Diffusion Cloud today.</p>
+<h4><i>Industry Challenges</i></h4>
+<h4></h4>
+<h4><i>Scalability and Reducing CapEx and OpEx Costs</i></h4>
+<p>Competition and speed of innovation requires organisations to reduce their development cycles and deploy new technologies, in particular around data transformation. It is critical to keep operational costs under control. To reduce costs there is a need for a proven and performant framework which can reduce operational complexity and cost, manage increased scale of real-time data delivery to meet market demands, and assure data access control and security. The key to success is deploying a framework, i.e. Diffusion Cloud, that can easily and reliably scale up and down as required and deliver data with optimal efficiency using patented data optimisation and compression algorithms to reduce bandwidth costs by up to 90%.</p>
+<h4><b><i>Connecting, Transforming and Delivering Real-Time Data<br /></i></b></h4>
+<p>Technology providers are looking to introduce solutions which reduce bandwidth and infrastructure requirements for customers to enable lower day-to-day operational costs, less system stress during peak events, and reduced support costs. The reality is that legacy technologies are not smart and send too much data to too many people unnecessarily, which is inefficient and expensive. Peak events will frequently cause massive loads on infrastructure, increase bandwidth needs and result in bottlenecks that affect the business&rsquo;s bottom line.</p>
+<p>Streaming technologies need to be aware of how data is being used to minimise bandwidth requirements. In order to manage and transmit only the data that has changed, the framework must have the capability to know what has been sent, when it was sent, and to whom it was sent. Such features allow companies to enhance their applications and expand revenue opportunities. Diffusion Cloud addresses the demanding needs of vendors when handling scale, performance, regulatory requirements, disparate geographies, and infrastructure efficiency, are vital to business success.</p>
+<h4><b><i>Personalisation<br /></i></b></h4>
+<p>One of the key differentiators for many companies is to offer a personalised user experience. There is a business need to anticipate customer desire based on their actions. Responding to customers in a personalised manner can move the goal posts away from churn and towards customer retention and increased engagement and revenue per customer. When a customer engages through online applications, it is critical that they can easily choose options which address their specific requirements. To achieve this goal, one needs to be able to connect to a variety of data sources. In the past, this has meant engaging in an expensive and time-consuming data integration proje</p>
+<p>Diffusion Cloud allows our customers to meet these goals without the integration burden. Diffusion is purpose-built to oversee the unique, real-time data ingestion, processing, and delivery challenges among data sources, applications, users, and devices for companies.</p>
+<p>Grethe Brown, CEO&nbsp;at DiffusionData, said: &ldquo;Diffusion Cloud removes many of the obstacles developers face when using open source or in-house built solutions, most notably in terms of scalability and latency. By providing developers and architects with a free month&rsquo;s t</p>
+<h4><b><i>In summary &ndash; Diffusion Cloud<br /></i></b></h4>
+<p>Diffusion Cloud is a pub/sub cache server based on web socket technologies, letting clients keep a connection open and get notified of state changes instead of polling for updates. Diffusion Cloud minimises traffic flow with minimal latency and enables end-to-end data flow, securely, and at scale.</p>
+<h4>Diffusion Cloud enables:</h4>
+<ul>
+<li><b>Efficient, real-time messaging</b>: Optimised to stream a high rate of messages to many connected clients;</li>
+<li><b>Optimised distribution</b>: Understands your data and can automatically remove out-of-date or redundant data; and</li>
+<li><b>Optimised performance</b>: Understands how clients and connections are performing and can gracefully manage clients that need to resume sessions after a loss of connectivity.</li>
+</ul>
+]]></content:encoded>
+<pubDate>Tue, 18 Feb 2025 09:46:21 GMT</pubDate>
+<pubDate>Tue, 18 Feb 2025 09:46:21 GMT</pubDate>
+</item>
+<item>
+<title>Trustfull Launches AI-Powered Domain Intelligence To Strengthen Business Verification</title>
+<link>http://www.mondovisione.com/media-and-resources/news/trustfull-launches-ai-powered-domain-intelligence-to-strengthen-business-verific-2025218/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/trustfull-launches-ai-powered-domain-intelligence-to-strengthen-business-verific-2025218/</guid>
+<content:encoded><![CDATA[
+
+<p><span>Trustfull, a leader in identity intelligence for fraud prevention, today launches<span>&nbsp;</span><a class="safe---anchor---wc" href="https://trustfull.com/products/domain-intelligence" rel="noopener noreferrer nofollow" target="_blank" title="https://trustfull.com/products/domain-intelligence"><span>Domain Intelligence</span></a>, a new suite of AI agents designed to automate KYB checks and merchant verification with deep online due diligence.</span></p>
+<p><span>Every year, fake businesses inflict billions of dollars in direct fraud losses and secondary expenses on financial institutions, including chargebacks and Know Your Business verification efforts. SMB lending fraud, which occurs when fraudulent or misrepresented small businesses apply for a loan, rose by<span>&nbsp;</span><a class="safe---anchor---wc" href="https://risk.lexisnexis.com/insights-resources/research/smb-lending-fraud-study" rel="noopener noreferrer nofollow" target="_blank" title="https://risk.lexisnexis.com/insights-resources/research/smb-lending-fraud-study"><span>nearly 14% in 2023-2024</span></a></span><span>.</span><span><span>&nbsp;</span></span><span>In the e-commerce sector, the rise of fake web shops designed to deceive shoppers into purchasing designer items they will never receive is a<span>&nbsp;</span><a class="safe---anchor---wc" href="https://www.srlabs.de/blog-post/bogusbazaar" rel="noopener noreferrer nofollow" target="_blank" title="https://www.theguardian.com/money/article/2024/may/08/chinese-network-behind-one-of-worlds-largest-online-scams">growing concern,</a>&nbsp;with<span>&nbsp;</span><a class="safe---anchor---wc" href="https://www.lloydsbankinggroup.com/media/press-releases/2024/lloyds-bank-2024/fake-website-scam-has-cost-victims-over-six-million-says-lloyds-bank.html#:~:text=Rogue%20retailers%20are%20using%20fake,losing%20" rel="noopener noreferrer nofollow" target="_blank" title="https://www.lloydsbankinggroup.com/media/press-releases/2024/lloyds-bank-2024/fake-website-scam-has-cost-victims-over-six-million-says-lloyds-bank.html#:~:text=Rogue%20retailers%20are%20using%20fake,losing%20"><span>Lloyds Bank</span></a><span>&nbsp;</span>estimating this type of fraud drove a 211% increase in card payment disputes in 2024.<br /><br />Trustfull is launching Domain Intelligence to help payment service providers, merchant acquirers, and financial institutions pre-screen and evaluate the true nature of the businesses they are about to onboard before the Know Your Business (KYB) process begins.</span></p>
+<p><span>In particular, Domain Intelligence&rsquo;s suite of AI agents performs instant deep online due diligence on any web domain globally. Key features include a thorough website analysis, as well as checks on social media, business platforms, and marketplaces to confirm active commercial operations. Additional insights include reviews, digital advertising activity,&nbsp; business photos, and data from online sources to verify the company&rsquo;s legitimacy.&nbsp;</span></p>
+<p><span>As the number of SMEs entering the digital economy continues to grow, Domain Intelligence automates the most time-consuming aspects of business verification during onboarding, reducing fraud-related risks for financial institutions and e-commerce platforms.</span></p>
+<p><b><span>Marko Maras, CEO of Trustfull, commented:</span></b></p>
+<p><span>&ldquo;Traditional KYB solutions are struggling to keep pace with the growing scale and sophistication of modern criminals. Originally designed for thousands of merchants instead of millions, these processes leave financial institutions exposed. We believe the solution lies in open-source intelligence and deep online due diligence, which help verify merchants and small businesses instantly, confidently and at scale.&rdquo;</span></p>
+<p><span>Domain Intelligence is now available to all Trustfull clients.</span></p>
+]]></content:encoded>
+<pubDate>Tue, 18 Feb 2025 09:49:29 GMT</pubDate>
+<pubDate>Tue, 18 Feb 2025 09:49:29 GMT</pubDate>
+</item>
+
+<item>
 <title>Hiroki Tomiyasu Joins LSEG As Head Of Post Trade Japan And Head Of Post Trade Solutions APAC</title>
 <link>http://www.mondovisione.com/media-and-resources/news/hiroki-tomiyasu-joins-lseg-as-head-of-post-trade-japan-and-head-of-post-trade-so-2025218/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/hiroki-tomiyasu-joins-lseg-as-head-of-post-trade-japan-and-head-of-post-trade-so-2025218/</guid>
 <content:encoded><![CDATA[
-
 <p>London Stock Exchange Group (LSEG) today announces that Hiroki Tomiyasu joined the Group on 17 February as Head of Post Trade, Japan, and Head of Post Trade Solutions, APAC. He will report to both Rohit Verma, Head of Post Trade, APAC, LSEG, and Andrew Williams, Global Head of Post Trade Solutions, LSEG. The newly created position further reinforces LSEG&rsquo;s strong commitment to servicing Japan and APAC&rsquo;s dynamic markets, enabling customers to benefit from the risk management solutions and capital, margin and operational efficiencies that our services deliver.&nbsp;</p>
 <p><span>Daniel Maguire, Group Head, LSEG Markets, and CEO of LCH Group said:&nbsp;</span>&ldquo;We are delighted to welcome Hiroki Tomiyasu to LSEG. The experience and knowledge he brings to the role will help us drive further growth across our multi-asset class offering and, in partnership with our customers, deliver new products and services. The creation of this new position and the growth we have seen in the region across our Post Trade services is further testament to our long-term commitment to the Japan and APAC markets.&rdquo;</p>
 <p><span>Hiroki Tomiyasu said:&nbsp;</span>&ldquo;It is a great opportunity to join LSEG at this exciting time, and to work together with teams in Japan and across APAC as we expand our capabilities across the region. I look forward to partnering with our clients and members, and the markets that we serve, as we look to drive new levels of capital, margin and operational efficiency.&rdquo;</p>
 <p>Hiroki joins LSEG from Morgan Stanley MUFG Securities Co., Ltd, where he most recently held the role of Managing Director, Head of FID Risk Asia. During his time at Morgan Stanley, Hiroki was also COO/Front Risk, Japan FID, and Counterparty Risk Management, APAC FID. Prior to Morgan Stanley, Hiroki held positions across Risk, Technology and Sales at the Development Bank of Japan. Hiroki holds MBA&rsquo;s from Hitotsubashi University, Japan, and Anderson School at UCLA, US, and holds a BA in Finance from Hitotsubashi University.</p>
 ]]></content:encoded>
-<pubDate>Tue, 18 Feb 2025 08:15:05 GMT</pubDate>
 <pubDate>Tue, 18 Feb 2025 08:15:05 GMT</pubDate>
 </item>
 <item>
@@ -23,7 +76,6 @@
 <link>http://www.mondovisione.com/media-and-resources/news/tehran-securities-exchange-invites-issuers-publishing-sustainability-reports-2025218/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/tehran-securities-exchange-invites-issuers-publishing-sustainability-reports-2025218/</guid>
 <content:encoded><![CDATA[
-
 <p><i>Tehran Securities Exchange (TSE) published its sustainability report 2024 and invited its listed issuers to proceed with this initiative and the global trends.</i></p>
 <p>&ldquo;Sustainability has become one of the fundamental pillars of the economic activities and investment communities. A sustainability report is a document that organizations and companies prepare to clarify their performance in the areas of their economic, social, environmental and corporate governance. The sustainability report provides a clearer picture regarding companies' commitment to sustainable development to their stakeholders, including investors and shareholders&rdquo;, TSE wrote in a letter to the executives of its listed companies.</p>
 <p>The invitation maintained that publishing the sustainability report demonstrates corporates&rsquo; responsibility towards society and the environment and allows them to gain public trust and create sustainable value in the long term by increasing transparency.</p>
@@ -31,14 +83,12 @@
 <p>The news link on the TSE website&egrave; <a href="https://old.tse.ir/en/news/newsPages/news_N76017.html">https://old.tse.ir/en/news/newsPages/news_N76017.html</a></p>
 ]]></content:encoded>
 <pubDate>Tue, 18 Feb 2025 08:17:57 GMT</pubDate>
-<pubDate>Tue, 18 Feb 2025 08:17:57 GMT</pubDate>
 </item>
 <item>
 <title>Opensee Delivers Real-Time Risk Analytics For Taula Capital</title>
 <link>http://www.mondovisione.com/media-and-resources/news/opensee-delivers-real-time-risk-analytics-for-taula-capital-2025218/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/opensee-delivers-real-time-risk-analytics-for-taula-capital-2025218/</guid>
 <content:encoded><![CDATA[
-
 <p><span><span>Opensee has successfully deployed its real-time data management and risk aggregation and analytics platform at Taula Capital, one of the most significant hedge fund launches of the past decade. This implementation sets a new standard for innovation and efficiency in the hedge fund industry.</span></span></p>
 <p><span>Completing the implementation in just six weeks, Opensee demonstrates its commitment to delivering best-in-class solutions that empower ambitious hedge funds to swiftly achieve superior results with lean, agile teams, while providing a platform that can be handed over for autonomous extensions on any structured data use case.<br /><br /></span><span>The first deployment at Taula Capital focused on providing real-time Value at Risk (VaR) and stress testing, enabling risk and portfolio managers to anticipate capital usage and risk metrics with unmatched speed and precision. The platform seamlessly integrates multiple risk data sources (from internal financial libraries and/or provided by external risk data providers), allowing users to aggregate, disaggregate, slice and dice, compare, analyze, and explain, as well as detect issues on their exposures, thanks to AI-powered data quality and data analysis tools.</span></p>
 <p><span>Risk managers and portfolio managers gain full transparency and understanding of the driving factors of their risk by accessing detailed, granular risk data over a long history. They can also recompute any risk metrics on the fly at any portfolio hierarchy. Furthermore, by simply updating the positions in real time, VaR and capital usage are instantly reaggregated. Similarly, "what-if" and pre-trade scenarios can be run to adjust strategies on the fly. In today&rsquo;s volatile markets, this level of interactivity and control is crucial to minimise risk and maximise returns.</span></p>
@@ -49,9 +99,7 @@
 <p><span>As the first Agentic AI platform of its kind, Opensee delivers unprecedented real-time access to risk and finance data at any scale to any users, all while maintaining full cost control.</span></p>
 ]]></content:encoded>
 <pubDate>Tue, 18 Feb 2025 08:20:55 GMT</pubDate>
-<pubDate>Tue, 18 Feb 2025 08:20:55 GMT</pubDate>
 </item>
-
 <item>
 <title>MTSGF, PI, KGI, YUANTA, KTX And CAF Win TFEX Best Award 2024 For Outstanding Performance</title>
 <link>http://www.mondovisione.com/media-and-resources/news/mtsgf-pi-kgi-yuanta-ktx-and-caf-win-tfex-best-award-2024-for-outstanding-per-2025218/</link>
