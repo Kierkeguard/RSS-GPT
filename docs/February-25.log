@@ -1054,3 +1054,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Trustfull Launches AI-Powered Domain Intelligence To Strengthen Business Verification](http://www.mondovisione.com/media-and-resources/news/trustfull-launches-ai-powered-domain-intelligence-to-strengthen-business-verific-2025218/)
 append_entries: 2
 Finish: 2025-02-18 10:22:11.798218
+------------------------------------------------------
+Started: 2025-02-18 12:38:56.470803
+Existing_entries: 160
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Fines Mako For Failings Relating To cum-ex trading](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-fines-mako-for-failings-relating-to-cum-ex-tradin-2025218/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Worldline And OP Financial Group Strengthen Partnership With A New 12-Year Agreement](http://www.mondovisione.com/media-and-resources/news/worldline-and-op-financial-group-strengthen-partnership-with-a-new-12-year-agree-2025218/)
+append_entries: 2
+Finish: 2025-02-18 12:38:57.709845
