@@ -1128,3 +1128,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Canadian Securities Regulators Invite Industry Participation On Data Portability Study As Part Of New Testing Initiative](http://www.mondovisione.com/media-and-resources/news/canadian-securities-regulators-invite-industry-participation-on-data-portability-2025218/)
 append_entries: 4
 Finish: 2025-02-18 20:21:58.512569
+------------------------------------------------------
+Started: 2025-02-18 22:19:04.565557
+Existing_entries: 176
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Swaps Report Update](http://www.mondovisione.com/media-and-resources/news/cftc-swaps-report-update-2025218/)
+append_entries: 1
+Finish: 2025-02-18 22:19:05.728543
