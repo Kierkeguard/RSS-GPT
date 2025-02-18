@@ -1009,3 +1009,21 @@ Existing_entries: 151
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-02-18 04:24:35.052014
+------------------------------------------------------
+Started: 2025-02-18 06:28:47.231684
+Existing_entries: 151
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MTSGF, PI, KGI, YUANTA, KTX And CAF Win TFEX Best Award 2024 For Outstanding Performance](http://www.mondovisione.com/media-and-resources/news/mtsgf-pi-kgi-yuanta-ktx-and-caf-win-tfex-best-award-2024-for-outstanding-per-2025218/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MyCIF Nationwide Roadshow -  ‘Empowering Finance, Advancing Growth’  - Welcome Remarks By Dr Wong Huei Ching, Executive Director - Digital Strategy And Innovation, Securities Commission Malaysia, Tuesday, 18 February 2025, 9:15am](http://www.mondovisione.com/media-and-resources/news/mycif-nationwide-roadshow-empowering-finance-advancing-growth-welcome-r-2025218/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Proposes Further Relief For Licensees Under The Reportable Situations Regime](http://www.mondovisione.com/media-and-resources/news/asic-proposes-further-relief-for-licensees-under-the-reportable-situations-regim-2025218/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Disinflation Progress Uneven But Still On Track Rates Cuts On Track As Well, Federal Reserve Governor Christopher J. Waller, At The University Of New South Wales Macroeconomic Workshop, Sydney, New South Wales, Australia](http://www.mondovisione.com/media-and-resources/news/disinflation-progress-uneven-but-still-on-track-rates-cuts-on-track-as-well-fed-2025218/)
+append_entries: 4
+Finish: 2025-02-18 06:28:48.213453
