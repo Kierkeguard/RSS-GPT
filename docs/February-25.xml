@@ -5,11 +5,36 @@
 <link>http://www.mondovisione.com/media-and-resources/news/</link>
 
 <item>
+<title>Moscow Exchange: Systems Update On 24th February 2025</title>
+<link>http://www.mondovisione.com/media-and-resources/news/moscow-exchange-systems-update-on-24th-february-2025-2025219/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/moscow-exchange-systems-update-on-24th-february-2025-2025219/</guid>
+<content:encoded><![CDATA[
+
+<p>The next release of trading and clearing systems of FX and Derivatives markets is scheduled for 24th of February 2025. Use the following links for more details:</p>
+<p><a href="https://www.moex.com/n77249" target="_blank">Planned changes in the securities and FX markets system</a><br /> <a href="https://www.moex.com/n76352" target="_blank">https://www.moex.com/n76352</a></p>
+<p>On Saturday, 22nd of February 2025, the final testing will be conducted on the production environments of FX and Derivatives markets.</p>
+<p>Additionaly, on Saturday 22nd and Sunday 23rd of February, testing of the additional weekend session will be conducted on Securities production environment. This testing will be conducted simultaneously with previously announced testing on INET_GATEWAY test environment. List of the changes:<br /> <a href="https://www.moex.com/n77549" target="_blank">Technological changes in the Securities market system as of March 1, 2025</a></p>
+<p>Information about Client Registration service' mode of operation during the testing will be announced tomorrow.</p>
+<p>To participate in the final testing, please send a request to <a href="mailto:help@moex.com" target="_blank">help@moex.com</a> till <strong>20 of February 2025, 17:00 MSK</strong> in which please specify:</p>
+<p>For the Derivatives market:</p>
+<p>1. Contact person, responsible for testing<br /> 2. Broker<br /> 3. Login and clearing register used for testing<br /> 4. IP address used for testing<br /> <strong>&nbsp;</strong></p>
+<p><strong>For all Plaza2 gates and trading terminal logins participating in testing the passwords will be reset to 12345. Please set this password in the client_router.ini file for testing period</strong>.</p>
+<p>For the Securities and FX markets:</p>
+<p>1. Contact person responsible for testing<br /> 2. Firm or user IDs<br /> 3. IP addresses used for testing (if it is different from current production settings)<br /> <strong></strong></p>
+<p><strong>If you don&rsquo;t want to participate in testing we recommend you to disconnect your systems from production environments of all markets for that weekend (22nd and 23rd of February) in order to avoid receiving test market data.</strong></p>
+<table>
+</table>
+<p>Read more on the Moscow Exchange: <a href="https://www.moex.com/n77811" title="https://www.moex.com/n77811">https://www.moex.com/n77811</a></p>
+]]></content:encoded>
+<pubDate>Wed, 19 Feb 2025 06:27:49 GMT</pubDate>
+<pubDate>Wed, 19 Feb 2025 06:27:49 GMT</pubDate>
+</item>
+
+<item>
 <title>ICAEW Partners Securities Commission Malaysia To Strengthen Expertise In Sustainability Disclosures</title>
 <link>http://www.mondovisione.com/media-and-resources/news/icaew-partners-securities-commission-malaysia-to-strengthen-expertise-in-sustain-2025219/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/icaew-partners-securities-commission-malaysia-to-strengthen-expertise-in-sustain-2025219/</guid>
 <content:encoded><![CDATA[
-
 <p>The Securities Commission Malaysia (SC) and Institute of Chartered Accountants in England and Wales (ICAEW) have initiated a collaboration through a Letter of Intent to collaborate in certain areas.</p>
 <p>This collaboration focuses on capacity-building, with ICAEW providing specialised training on climate-related financial disclosures, the provision of a programme to obtain Sustainability Certifications, the use of ICAEW training films and other areas.&nbsp;</p>
 <p>As part of this initiative, ICAEW conducted a workshop on 14 February 2025 at the ASEAN Capital Markets Forum (ACMF) Chairs Meeting in Penang.&nbsp;</p>
@@ -28,18 +53,15 @@
 <p>As ICAEW continues to champion sustainability and professional excellence worldwide, this partnership exemplifies its role in empowering financial professionals, policymakers, and regulators with the tools needed to drive meaningful change. Find out more at<a href="https://www.icaew.com/technical/sustainability"> </a><a href="https://www.icaew.com/technical/sustainability">https://www.icaew.com/technical/sustainability</a><a href="https://www.icaew.com/technical/sustainability"> </a></p>
 ]]></content:encoded>
 <pubDate>Wed, 19 Feb 2025 06:00:22 GMT</pubDate>
-<pubDate>Wed, 19 Feb 2025 06:00:22 GMT</pubDate>
 </item>
 <item>
 <title>SIFMA Statement On Confirmation Of Commerce Secretary Lutnick</title>
 <link>http://www.mondovisione.com/media-and-resources/news/sifma-statement-on-confirmation-of-commerce-secretary-lutnick-2025219/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/sifma-statement-on-confirmation-of-commerce-secretary-lutnick-2025219/</guid>
 <content:encoded><![CDATA[
-
 <p>SIFMA today released the following statement from Kenneth E. Bentsen, Jr., SIFMA president and CEO, on the confirmation of U.S. Commerce Secretary Howard Lutnick:</p>
 <p>&ldquo;We congratulate Mr. Lutnick, who has long led a SIFMA member firm, on his confirmation as Commerce Secretary. SIFMA and our members look forward to working with the Secretary to ensure our nation&rsquo;s capital markets remain robust and resilient and play their part in fueling economic growth and job creation.&rdquo;</p>
 ]]></content:encoded>
-<pubDate>Wed, 19 Feb 2025 05:34:07 GMT</pubDate>
 <pubDate>Wed, 19 Feb 2025 05:34:07 GMT</pubDate>
 </item>
 <item>
@@ -47,7 +69,6 @@
 <link>http://www.mondovisione.com/media-and-resources/news/treasury-international-capital-data-for-december-2025219/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/treasury-international-capital-data-for-december-2025219/</guid>
 <content:encoded><![CDATA[
-
 <p>The U.S. Department of the Treasury today released Treasury International Capital (TIC) data for December 2024.&nbsp; The next release, which will report on data for January 2025, is scheduled for March 19, 2025.&nbsp;</p>
 <p>The sum total in December of all net foreign acquisitions of long-term securities, short-term U.S. securities, and banking flows was a net TIC inflow of $87.1 billion. &nbsp;Of this, net foreign private inflows were $162.5 billion, and net foreign official outflows were $75.3 billion.</p>
 <p>Foreign residents increased their holdings of long-term U.S. securities in December; their net purchases were $79.6 billion.&nbsp; Net purchases by private foreign investors were $130.5 billion, while net sales by foreign official institutions were $50.9 billion.</p>
@@ -560,9 +581,7 @@
 <p><span>/1 Net U.S. sales = Net foreign purchases of U.S. securities (+).</span><br /><br /><span>/2 Includes international and regional organizations.</span><br /><br /><span>/3 The reported division of net U.S. sales of long-term securities between net sales to foreign official institutions and net sales</span><br /><span>to other foreign investors is subject to a "transaction bias" described in Frequently Asked Questions 7 and 10.a.4 on the TIC website.</span><br /><br /><span>/4 Net transactions in foreign securities by U.S. residents. Foreign purchases of foreign securities = U.S. sales of foreign securities to foreigners.</span><br /><span>Thus negative entries indicate net U.S. purchases of foreign securities, or an outflow of capital from the United States; positive entries</span><br /><span>indicate net U.S. sales of foreign securities.</span><br /><br /><span>/5 Minus estimated unrecorded principal repayments to foreigners on domestic corporate and agency asset-backed securities (zero after Jan. 2023) +&nbsp;</span><br /><span>estimated foreign acquisitions of U.S. equity through stock swaps - estimated U.S. acquisitions of foreign equity through stock swaps +</span><br /><span>increase in nonmarketable Treasury Bonds and Notes Issued to Official Institutions and Other Residents of Foreign Countries.&nbsp;</span><br /><br /><span>/6 These are primarily data on monthly changes in banks' and broker/dealers' custody liabilities. Data on custody claims are collected</span><br /><span>quarterly and published in the TIC website.</span><br /><br /><span>/7" Selected Other Liabilities" are primarily the foreign liabilities of U.S. customers that are managed by U.S. banks or broker/dealers.</span><br /><br /><span>/8 TIC data cover most components of international financial flows, but do not include data on direct investment flows, which are collected</span><br /><span>and published by the Department of Commerce's Bureau of Economic Analysis. In addition to the monthly data summarized here, the</span><br /><span>TIC collects quarterly data on some banking and nonbanking assets and liabilities. Frequently Asked Question 1 on the TIC website</span><br /><span>describes the scope of TIC data collection.</span><br /><br /><span>9/ &nbsp;Series break at February 2023 for lines 1-21 and the dependent lines 30-32; see TIC press releases of March 15 and April 15, 2023.</span></p>
 ]]></content:encoded>
 <pubDate>Wed, 19 Feb 2025 05:55:03 GMT</pubDate>
-<pubDate>Wed, 19 Feb 2025 05:55:03 GMT</pubDate>
 </item>
-
 <item>
 <title>CFTC Swaps Report Update</title>
 <link>http://www.mondovisione.com/media-and-resources/news/cftc-swaps-report-update-2025218/</link>

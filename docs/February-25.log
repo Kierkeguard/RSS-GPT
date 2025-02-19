@@ -1170,3 +1170,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Treasury International Capital Data For December](http://www.mondovisione.com/media-and-resources/news/treasury-international-capital-data-for-december-2025219/)
 append_entries: 3
 Finish: 2025-02-19 06:29:20.427252
+------------------------------------------------------
+Started: 2025-02-19 08:27:11.402951
+Existing_entries: 180
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Moscow Exchange: Systems Update On 24th February 2025](http://www.mondovisione.com/media-and-resources/news/moscow-exchange-systems-update-on-24th-february-2025-2025219/)
+append_entries: 1
+Finish: 2025-02-19 08:27:12.589699
