@@ -1200,3 +1200,18 @@ Existing_entries: 184
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-02-19 12:38:34.026847
+------------------------------------------------------
+Started: 2025-02-19 14:19:38.396829
+Existing_entries: 184
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SET Board Of Governors Approves Guidelines For Measure Revision To Strengthen Investor Confidence And Market Stability](http://www.mondovisione.com/media-and-resources/news/set-board-of-governors-approves-guidelines-for-measure-revision-to-strengthen-in-2025219/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [IOSCO Concludes Thematic Review On Technological Challenges To Effective Market Surveillance](http://www.mondovisione.com/media-and-resources/news/iosco-concludes-thematic-review-on-technological-challenges-to-effective-market-2025219/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Liquidnet Bolsters Multi-Asset Services Team](http://www.mondovisione.com/media-and-resources/news/liquidnet-bolsters-multi-asset-services-team-2025219/)
+append_entries: 3
+Finish: 2025-02-19 14:19:39.532770
