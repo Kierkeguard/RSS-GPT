@@ -1179,3 +1179,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Moscow Exchange: Systems Update On 24th February 2025](http://www.mondovisione.com/media-and-resources/news/moscow-exchange-systems-update-on-24th-february-2025-2025219/)
 append_entries: 1
 Finish: 2025-02-19 08:27:12.589699
+------------------------------------------------------
+Started: 2025-02-19 10:22:17.886183
+Existing_entries: 181
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BNP Paribas’ Securities Services Business Adopts Broadridge’s Global Class Action Solution To Maximize Its Clients’ Global Asset Recovery Opportunities - Broadridge’s Solution Provides Comprehensive Global Class Action Coverage, Maximizes Claims And Increases Investor Participation In Settlement Recoveries](http://www.mondovisione.com/media-and-resources/news/bnp-paribas-securities-services-business-adopts-broadridges-global-class-actio-2025219/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Chancellor Goes Further And Faster To Drive Growth By Speeding Up Securities Trades](http://www.mondovisione.com/media-and-resources/news/uk-chancellor-goes-further-and-faster-to-drive-growth-by-speeding-up-securities-2025219/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Government Policy Paper - Accelerated Settlement (T+1)](http://www.mondovisione.com/media-and-resources/news/uk-government-policy-paper-accelerated-settlement-t1-2025219/)
+append_entries: 3
+Finish: 2025-02-19 10:22:19.115679
