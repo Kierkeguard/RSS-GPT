@@ -1221,3 +1221,18 @@ Existing_entries: 187
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-02-19 16:25:52.395207
+------------------------------------------------------
+Started: 2025-02-19 18:27:41.385479
+Existing_entries: 187
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Amman Stock Exchange Receives The Governor Of Astana International Financial Center](http://www.mondovisione.com/media-and-resources/news/amman-stock-exchange-receives-the-governor-of-astana-international-financial-cen-2025219/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Amman Stock Exchange Working And Trading Hours During The Holy Month Of Ramadan](http://www.mondovisione.com/media-and-resources/news/the-amman-stock-exchange-working-and-trading-hours-during-the-holy-month-of-rama-2025219/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Hong Kong Securities And Futures Commission Sets Out New Roadmap To Develop Hong Kong As A Global Virtual Asset Hub](http://www.mondovisione.com/media-and-resources/news/hong-kong-securities-and-futures-commission-sets-out-new-roadmap-to-develop-hong-2025219/)
+append_entries: 3
+Finish: 2025-02-19 18:27:42.175524
