@@ -1215,3 +1215,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Liquidnet Bolsters Multi-Asset Services Team](http://www.mondovisione.com/media-and-resources/news/liquidnet-bolsters-multi-asset-services-team-2025219/)
 append_entries: 3
 Finish: 2025-02-19 14:19:39.532770
+------------------------------------------------------
+Started: 2025-02-19 16:25:51.521669
+Existing_entries: 187
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-02-19 16:25:52.395207
