@@ -1261,3 +1261,15 @@ Append: [Deutsche Bank Selects LSEG For FRTB Compliance Solution](http://www.mon
 Append: [Artificial Intelligence Alone Not The ‘Silver Bullet’ As Compliance Chiefs Wrestle With Rising Costs And Complexity](http://www.mondovisione.com/media-and-resources/news/artificial-intelligence-alone-not-the-silver-bullet-as-compliance-chiefs-wrest-2025219/)
 append_entries: 9
 Finish: 2025-02-19 20:22:53.347067
+------------------------------------------------------
+Started: 2025-02-19 22:18:40.590874
+Existing_entries: 199
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ETFGI Reports That Assets Invested In The ETFs Industry In Canada Reached A New Record Of US$410.69 Billion At The End Of January](http://www.mondovisione.com/media-and-resources/news/etfgi-reports-that-assets-invested-in-the-etfs-industry-in-canada-reached-a-new-2025219/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [STAC’s Lauren Arbid Named To Security Traders Association Board Of Governors](http://www.mondovisione.com/media-and-resources/news/stacs-lauren-arbid-named-to-security-traders-association-board-oo-governors-2025219/)
+append_entries: 2
+Finish: 2025-02-19 22:18:41.752954
