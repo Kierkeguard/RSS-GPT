@@ -1297,3 +1297,15 @@ Existing_entries: 201
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-02-20 06:28:53.280261
+------------------------------------------------------
+Started: 2025-02-20 08:26:56.203542
+Existing_entries: 201
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Monetary Authority Of Singapore-Economic Society Of Singapore Essay Competition 2025](http://www.mondovisione.com/media-and-resources/news/monetary-authority-of-singapore-economic-society-of-singapore-essay-competition-2025220/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [How Healthy Are U.S. Households’ Balance Sheets? Federal Reserve Vice Chair Philip N. Jefferson At The Martin H. Crego Lecture In Economics, Vassar College, Poughkeepsie, New York](http://www.mondovisione.com/media-and-resources/news/how-healthy-are-us-households-balance-sheets-federal-reserve-vice-chair-phil-2025220/)
+append_entries: 2
+Finish: 2025-02-20 08:26:57.363549
