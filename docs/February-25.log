@@ -1337,3 +1337,21 @@ Existing_entries: 209
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-02-20 12:41:01.781206
+------------------------------------------------------
+Started: 2025-02-20 14:20:05.739027
+Existing_entries: 209
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TMX VettaFi Acquires Credit Suisse Bond Indices From UBS - TMX VettaFi Strengthens Its Fixed Income Capabilities](http://www.mondovisione.com/media-and-resources/news/tmx-vettafi-acquires-credit-suisse-bond-indices-from-ubs-tmx-vettafi-strengthe-2025220/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Fiserv Announces Share Repurchase Authorization](http://www.mondovisione.com/media-and-resources/news/fiserv-announces-share-repurchase-authorization-2025220/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CSDR Refit: ESMA Publishes A First Set Of Technical Standards To Recalibrate And Clarify The Framework](http://www.mondovisione.com/media-and-resources/news/csdr-refit-esma-publishes-a-first-set-of-technical-standards-to-recalibrate-a-2025220/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Pioneering Digital Organizational Identity In APAC: GLEIF Confirms China Financial Certification Authority As First China-Based Qualified vLEI Issuer To Advance Transparency In Business And Trade Data](http://www.mondovisione.com/media-and-resources/news/pioneering-digital-organizational-identity-in-apac-gleif-confirms-china-financi-2025220/)
+append_entries: 4
+Finish: 2025-02-20 14:20:06.758639
