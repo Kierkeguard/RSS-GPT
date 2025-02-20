@@ -1355,3 +1355,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Pioneering Digital Organizational Identity In APAC: GLEIF Confirms China Financial Certification Authority As First China-Based Qualified vLEI Issuer To Advance Transparency In Business And Trade Data](http://www.mondovisione.com/media-and-resources/news/pioneering-digital-organizational-identity-in-apac-gleif-confirms-china-financi-2025220/)
 append_entries: 4
 Finish: 2025-02-20 14:20:06.758639
+------------------------------------------------------
+Started: 2025-02-20 16:27:45.954036
+Existing_entries: 213
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Announces Cyber And Emerging Technologies Unit To Protect Retail Investors - Laura D’Allaird Appointed Chief Of The New Unit](http://www.mondovisione.com/media-and-resources/news/sec-announces-cyber-and-emerging-technologies-unit-to-protect-retail-investors-2025220/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Erik Tim Müller To Leave Eurex And Deutsche Börse Group](http://www.mondovisione.com/media-and-resources/news/erik-tim-mller-to-leave-eurex-and-deutsche-brse-group-2025220/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FNZ Appoints Aashish Kamat As Group Chief Financial Officer](http://www.mondovisione.com/media-and-resources/news/fnz-appoints-aashish-kamat-as-group-chief-financial-officer-2025220/)
+append_entries: 3
+Finish: 2025-02-20 16:27:47.180979
