@@ -1273,3 +1273,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [STAC’s Lauren Arbid Named To Security Traders Association Board Of Governors](http://www.mondovisione.com/media-and-resources/news/stacs-lauren-arbid-named-to-security-traders-association-board-oo-governors-2025219/)
 append_entries: 2
 Finish: 2025-02-19 22:18:41.752954
+------------------------------------------------------
+Started: 2025-02-20 01:40:02.149098
+Existing_entries: 201
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-02-20 01:40:03.347810
