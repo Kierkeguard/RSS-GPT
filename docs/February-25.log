@@ -1503,3 +1503,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ICE First Look At Mortgage Performance: Foreclosure Starts Jump As VA Moratorium Ends - Wildfire Delinquencies Emerge](http://www.mondovisione.com/media-and-resources/news/ice-first-look-at-mortgage-performance-foreclosure-starts-jump-as-va-moratorium-2025221/)
 append_entries: 4
 Finish: 2025-02-21 16:26:04.208993
+------------------------------------------------------
+Started: 2025-02-21 18:27:58.483446
+Existing_entries: 239
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Reading Between The Lines? Textual Analysis Of Central Bank Communications, Federal Reserve Vice Chair Philip N. Jefferson, At The Macroeconomics And Monetary Policy Conference, Federal Reserve Bank Of San Francisco, San Francisco, California](http://www.mondovisione.com/media-and-resources/news/reading-between-the-lines-textual-analysis-of-central-bank-communications-fede-2025221/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Our T+1 Journey Starts Now - Speech By Mark Francis, Interim Director Of Wholesale Markets Sell-Side, At UK Accelerated Settlement Taskforce Industry Event](http://www.mondovisione.com/media-and-resources/news/our-t1-journey-starts-now-speech-by-mark-francis-interim-director-of-wholesa-2025221/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Decisions Taken By The Governing Council Of The ECB (In Addition To Decisions Setting Interest Rates) - February 2025](http://www.mondovisione.com/media-and-resources/news/decisions-taken-by-the-governing-council-of-the-ecb-in-addition-to-decisions-se-2025221/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Announces Winners Of Its Economics Research Competition](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-announces-winners-of-its-economics-research-compe-2025221/)
+append_entries: 4
+Finish: 2025-02-21 18:27:59.980208

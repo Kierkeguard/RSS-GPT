@@ -5,15 +5,292 @@
 <link>http://www.mondovisione.com/media-and-resources/news/</link>
 
 <item>
+<title>Reading Between The Lines? Textual Analysis Of Central Bank Communications, Federal Reserve Vice Chair Philip N. Jefferson, At The Macroeconomics And Monetary Policy Conference, Federal Reserve Bank Of San Francisco, San Francisco, California</title>
+<link>http://www.mondovisione.com/media-and-resources/news/reading-between-the-lines-textual-analysis-of-central-bank-communications-fede-2025221/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/reading-between-the-lines-textual-analysis-of-central-bank-communications-fede-2025221/</guid>
+<content:encoded><![CDATA[
+
+<div class="row">
+<div id="article">
+<div class="col-xs-12 col-sm-8 col-md-8">
+<p>Thank you, President Daly, for organizing this conference and for the opportunity to talk to this group.<a href="https://www.federalreserve.gov/newsevents/speech/jefferson20250221a.htm#fn1" title="footnote 1"><span>1</span></a><a name="f1"></a>&nbsp;I have paid close attention to the papers presented at this annual conference in the past, and I look forward to today's presentations and discussion.</p>
+<p>Today, I will talk about central bank communications and the use of textual analysis tools. These tools help process qualitative information that may be hard to capture in numerical forecasts. Also, they can improve our understanding of economic concepts that are otherwise difficult to measure. This topic has been covered at this conference in the past. Last year, for example, there was a paper on the program that highlighted the importance of considering the impact that speeches by the Chair of the Federal Reserve (Fed) have on asset prices when evaluating the transmission of monetary policy to the rest of the economy.<a href="https://www.federalreserve.gov/newsevents/speech/jefferson20250221a.htm#fn2" title="footnote 2"><span>2</span></a><a name="f2"></a>&nbsp;This paper also shows that speeches by the Vice Chair are less important than those by the Chair. So this might be a good time to catch up on your text messages! (Just kidding!)</p>
+<p>My&nbsp;<a href="https://www.federalreserve.gov/images/jefferson-roadmap-20250221.PNG" id="fig2">talk</a>&nbsp;is organized as follows. First, I will briefly discuss central bank communication and its effect on asset prices. Next, I will discuss how recent advances in automated textual analysis may be having an impact on how the information in central bank communication is incorporated into asset prices. Then I will review how researchers and market participants use textual analysis techniques, among other techniques, to gauge who is listening to central bank communication and to understand how monetary policy is transmitted to the economy. Before concluding, I will broaden my coverage and discuss how textual analysis tools can be used to estimate difficult-to-measure concepts in economics such as uncertainty and supply chain disruptions.</p>
+<p>These new textual analysis techniques are important to me as a policymaker because I want to understand how our communications are being heard, interpreted, understood, and acted upon.</p>
+<p><strong>Central Bank Communication and its Effect on Financial Markets</strong><br />Former Fed Chair Ben Bernanke often highlighted the importance of central bank communication, saying that "monetary policy is 98 percent talk and 2 percent action."<a href="https://www.federalreserve.gov/newsevents/speech/jefferson20250221a.htm#fn3" title="footnote 3"><span>3</span></a><a name="f3"></a>&nbsp;Obviously, the "98 percent" is hyperbole; it is not meant to be taken as an exact measure of how much of the transmission of monetary policy is due to central bank communication. Even so, research and my own experience confirm that central bank communication is key for the transmission of monetary policy. In remarks I delivered almost two years ago, I discussed how monetary policy is transmitted to the rest of the economy through financial market prices.<a href="https://www.federalreserve.gov/newsevents/speech/jefferson20250221a.htm#fn4" title="footnote 4"><span>4</span></a><a name="f4"></a>&nbsp;Changes in the federal funds target range are transmitted to overnight money market rates and other short-term interest rates through arbitrage relationships. The configuration of short-term interest rates, central bank communication about the likely future path of short-term interest rates, and the associated economic outlook, in turn, affect long-term interest rates through investors' expectations.<a href="https://www.federalreserve.gov/newsevents/speech/jefferson20250221a.htm#fn5" title="footnote 5"><span>5</span></a><a name="f5"></a>&nbsp;Higher long-term interest rates increase the cost of borrowing for households and businesses, thereby affecting households' and businesses' spending, savings, and investment decisions.</p>
+<p><strong>Evolution of Fed Communications</strong><br />Policymakers' approach to communication has evolved over time. In the past, policymakers were not focused on clarity and transparency in their communications as they are today. For example, former Fed Chair Alan Greenspan famously quipped in 1987, "If I seem unduly clear to you, you must have misunderstood what I said."<a href="https://www.federalreserve.gov/newsevents/speech/jefferson20250221a.htm#fn6" title="footnote 6"><span>6</span></a><a name="f6"></a>&nbsp;In the 1990s, however, he started to embrace transparency.&nbsp;<a href="https://www.federalreserve.gov/images/jefferson-figure1-20250221.PNG" id="fig3">Figure 1</a>&nbsp;shows a timeline of the steps taken toward increasing transparency at the Fed since the 1990s. In 1993, the Fed started to publish Federal Open Market Committee (FOMC) meeting minutes in their current form, and, soon after, it began releasing FOMC meeting transcripts with a five-year lag. In February 1994, the FOMC started to issue post-FOMC meeting statements following meetings at which there was a change in the intended policy stance. Later, it regularly incorporated the target federal funds rate into these statements. In May 1999, the FOMC started to publish statements after every meeting, even on occasions when there was no change in policy. In 2004, the FOMC accelerated the release of the minutes to three weeks after the meeting as opposed to after the subsequent FOMC meeting. During the tenure of former Fed Chair Ben Bernanke, the Fed's transparency increased significantly. In November 2007, the FOMC began releasing the Summary of Economic Projections (SEP). In 2011, Chair Bernanke started holding press conferences after every other FOMC meeting. In 2012, under his leadership, the FOMC adopted an explicit inflation target of 2 percent in its new Statement on Longer-Run Goals and Monetary Policy Strategy. Also, it started publishing anonymized individual FOMC participants' views on the appropriate future path of the federal funds rate, now famously known as the "dot plot." In 2019, Chair Powell continued this march toward transparency and started holding press conferences after every FOMC meeting.</p>
+<p>Of course, Chair Powell and other policymakers testify regularly before Congress, as required by law. Also, FOMC participants give public speeches and transparently discuss their views on monetary policy and associated issues, as evidenced by my speech here today.</p>
+<p>Previously, I have spoken about two primary reasons for the increase in transparency.<a href="https://www.federalreserve.gov/newsevents/speech/jefferson20250221a.htm#fn7" title="footnote 7"><span>7</span></a><a name="f7"></a>&nbsp;First, transparency allows for greater accountability to the public. Second, there is a growing appreciation in the economics profession that clarity about policy actions helps the transmission of monetary policy to the rest of the economy by, for example, making asset prices more informationally efficient. Relatedly, by conveying aspects of the Fed's reaction function, communications can help inform investors' views about the likely future path of monetary policy in a way that helps achieve the Fed's monetary policy objectives.</p>
+<p><strong>Using Textual Analysis to Quantify Central Bank Communication</strong><br />Central bank communication is clearly important in shaping the path of interest rates, so it is not surprising that investors and researchers use textual analysis techniques, including artificial intelligence, to quantify in an automated way information conveyed through FOMC statements and other communications, such as speeches by Governors and Fed Bank presidents.<a href="https://www.federalreserve.gov/newsevents/speech/jefferson20250221a.htm#fn8" title="footnote 8"><span>8</span></a><a name="f8"></a>&nbsp;Researchers have tested the hypothesis that clarity about policy actions would help the transmission of monetary policy to the rest of the economy. Using textual analysis, high-frequency asset price data, and high-frequency central bank communication data, this research shows that investors' reactions to specific sentences communicated by the central bank are quickly incorporated into asset prices.<a href="https://www.federalreserve.gov/newsevents/speech/jefferson20250221a.htm#fn9" title="footnote 9"><span>9</span></a><a name="f9"></a>&nbsp;In addition, economists have used textual analysis to understand how media reporting of central bank communication affects short-term interest rates.<a href="https://www.federalreserve.gov/newsevents/speech/jefferson20250221a.htm#fn10" title="footnote 10"><span>10</span></a><a name="f10"></a>&nbsp;For example, some have used a bag-of-words technique to estimate media sentiment during FOMC announcement days.<a href="https://www.federalreserve.gov/newsevents/speech/jefferson20250221a.htm#fn11" title="footnote 11"><span>11</span></a><a name="f11"></a>&nbsp;By design, a high media sentiment is meant to capture times when journalists report that the FOMC is more likely to tighten monetary policy in the near future.&nbsp;<a href="https://www.federalreserve.gov/images/jefferson-figure2-20250221.PNG" id="fig4">Figure 2</a>&nbsp;shows that the correlation between media sentiment and six-month U.S. Treasury yield changes is positive and relatively high (40 percent), which suggests that media reporting of central bank communication plays an important role in the transmission of monetary policy.</p>
+<p>Policymakers know that their communications are likely to affect the course of short-term interest rates, other asset prices, and the associated economic outlook, resulting in an easing or tightening of financial conditions. Therefore, policymakers have always paid close attention to what they say, well before market participants started applying artificial intelligence tools to central bank communications.</p>
+<p>In general, researchers argue that automated textual analysis and automated trading have increased the speed with which information is incorporated into asset prices. That suggests that asset prices have become more informationally efficient, sometimes in a matter of seconds or even milliseconds instead of minutes after information is released.<a href="https://www.federalreserve.gov/newsevents/speech/jefferson20250221a.htm#fn12" title="footnote 12"><span>12</span></a><a name="f12"></a>&nbsp;Thus, increased transparency and advances in technology have potentially made asset prices more informationally efficient, which, in turn, helps with the transmission of monetary policy. Yet others argue that automated algorithms may be more prone to mistakes than humans, may provide an incentive for investors to value speed over accuracy, and may reduce the long-run informativeness of asset prices, which could hurt the transmission of monetary policy.<a href="https://www.federalreserve.gov/newsevents/speech/jefferson20250221a.htm#fn13" title="footnote 13"><span>13</span></a><a name="f13"></a></p>
+<p>I look forward to the findings of future research as we develop a deeper understanding of this issue. For now, I do not think artificial intelligence is changing the way policymakers communicate, but research shows that it has affected how quickly information about policy is incorporated into asset prices.</p>
+<p><strong>Central Bank Communication: Is Anyone Listening?</strong><br />Next, I will discuss whether research using textual analysis is helping policymakers to understand better who is listening to central bank communication. In 2018, former Fed Vice Chair Alan Blinder predicted that "central banks will keep trying to communicate with the general public, as they should. But for the most part, they will fail."<a href="https://www.federalreserve.gov/newsevents/speech/jefferson20250221a.htm#fn14" title="footnote 14"><span>14</span></a><a name="f14"></a>&nbsp;He explained further that "many economic models presume that central bank communication is aimed at wage-setters, price-setters, consumers, or investors&mdash;maybe all of them. But are they listening?" His answer was&nbsp;<em>no</em>, they are not listening to central bank communications, and he cited economic research using survey data to support his answer.<a href="https://www.federalreserve.gov/newsevents/speech/jefferson20250221a.htm#fn15" title="footnote 15"><span>15</span></a><a name="f15"></a></p>
+<p>More recently, however, research shows that nonexperts and households&nbsp;<em>are</em>&nbsp;listening to central bank communications. Some of this research uses textual analysis, and some uses randomized control trials. Researchers have used textual analysis to process automatically and quantify more than 3.2 million posts on social media by experts and nonexperts. This research shows that journalists and professional forecasters who comment often on central bank policies, as well as nonexperts who do not comment regularly on central bank policies do listen to central bank communications.<a href="https://www.federalreserve.gov/newsevents/speech/jefferson20250221a.htm#fn16" title="footnote 16"><span>16</span></a><a name="f16"></a></p>
+<p><strong>Central Bank Communication and Monetary Policy Transmission</strong><br />Further, research shows that direct central bank communication and the media's reporting of central bank communication are highly correlated. Yet when they do not align, the media's reporting tends to have a larger effect on asset prices and professional forecasters' views about the future than the central bank's direct communication.<a href="https://www.federalreserve.gov/newsevents/speech/jefferson20250221a.htm#fn17" title="footnote 17"><span>17</span></a><a name="f17"></a>&nbsp;In addition, a randomized control trial with nearly 20,000 U.S. individuals shows that central bank communication affects households' inflation expectations, which, in turn, affects their behavior as measured by scanner-collected data.<a href="https://www.federalreserve.gov/newsevents/speech/jefferson20250221a.htm#fn18" title="footnote 18"><span>18</span></a><a name="f18"></a>&nbsp;This research shows that while central bank communication tends to affect household expectations and spending behavior, the way households receive information matters. In particular, households appear to react more to information conveyed by social media, friends, and family than to information conveyed by traditional media. All told, this research suggests that central bank efforts to communicate with the general public are having some success, but there is still room for improvement.</p>
+<p><strong>Measuring Economic Concepts Using Textual Analysis</strong><br />Textual analysis is not only helping researchers understand who is listening to central bank communication. Generally, it is helping them to measure qualitative information that is hard to capture with numerical forecasts and estimate difficult-to-measure economic concepts such as uncertainty, supply chain disruptions, and financial conditions.<a href="https://www.federalreserve.gov/newsevents/speech/jefferson20250221a.htm#fn19" title="footnote 19"><span>19</span></a><a name="f19"></a>&nbsp;As I mentioned in a previous speech, uncertainty is not directly observable in the same way that inflation and economic output are.<a href="https://www.federalreserve.gov/newsevents/speech/jefferson20250221a.htm#fn20" title="footnote 20"><span>20</span></a><a name="f20"></a>&nbsp;Notwithstanding the difficulty in measuring uncertainty, researchers have developed tools to assess it. In fact, in the past two decades, there has been tremendous growth in research devoted to the subject, especially on text-based measures of uncertainty. For example, researchers created an economic policy uncertainty index, shown in&nbsp;<a href="https://www.federalreserve.gov/images/jefferson-figure3-20250221.PNG" id="fig5">figure 3</a>, based on the number of leading newspaper articles that contain a combination of words related to economic policy uncertainty.<a href="https://www.federalreserve.gov/newsevents/speech/jefferson20250221a.htm#fn21" title="footnote 21"><span>21</span></a><a name="f21"></a>&nbsp;As shown in the figure, economic uncertainty in the U.S. reached an all-time high at the onset of the pandemic, came down slightly after the pandemic, and has recently increased as the potential economic implications of new government policies are discussed in newspaper articles. Research also shows that newspaper text-based measures are highly correlated with stock price volatility, and that higher values of these measures are associated with lower investment and employment. A corollary to that insight is that policymakers should communicate as clearly as possible to avoid increasing uncertainty.</p>
+<p>Recent research has also discovered that narrative sentiment conveys information that may be hard to capture in numerical forecasts. For example, it was shown that the tone of text accompanying a set of economic forecasts produced by the Fed's staff, predicts forecast errors of the Fed's staff as well as Blue Chip participants.<a href="https://www.federalreserve.gov/newsevents/speech/jefferson20250221a.htm#fn22" title="footnote 22"><span>22</span></a><a name="f22"></a>&nbsp;The predictive power of sentiment seems to be arising from signaling the downside risks to economic performance for output, employment, and stock returns. These findings suggest that the tone of the narrative captures information that is not necessarily provided by corresponding forecasts. Not surprisingly, given this information, the tonality has predictive power for stock prices as well as monetary policy surprises.</p>
+<p>Another example of how textual analysis is helping researchers estimate difficult-to-measure concepts is new measures of firms' demand and supply shocks. Traditionally, academic researchers use sign restrictions in price and quantity measures to identify and differentiate demand shocks from supply shocks. An increase in price and quantity is considered a demand shock; an increase in price accompanied by a decline in quantity is considered a supply shock. These so-called sign restrictions are useful tools; however, it is possible that an increase in price and quantity can be due to a surge in demand in the face of supply chain disruptions. Other popular measures of supply chain disruptions are supplier delivery times and order backlogs provided by the Institute for Supply Management (ISM). These measures, however, only estimate firm activity relative to the previous month and can lack important context for understanding short-term dynamics that can otherwise be captured in qualitative, text-based measures. Thus, it can be useful to complement sign restriction methods, supplier delivery times, and order backlogs with textual analysis techniques that quantify firms' narratives in earnings calls and the Beige Book to identify better demand and supply shocks.<a href="https://www.federalreserve.gov/newsevents/speech/jefferson20250221a.htm#fn23" title="footnote 23"><span>23</span></a><a name="f23"></a>&nbsp;For example,&nbsp;<a href="https://www.federalreserve.gov/images/jefferson-figure4-20250221.PNG" id="fig6">figure 4</a>&nbsp;shows the Supply Chain Bottleneck Sentiment Index, the solid black line, estimated by a Board economist using textual analysis techniques to quantify the information conveyed in the Fed's Beige Book publications, along with the ISM Supplier Delivery Index, the dashed red line.<a href="https://www.federalreserve.gov/newsevents/speech/jefferson20250221a.htm#fn24" title="footnote 24"><span>24</span></a><a name="f24"></a>&nbsp;For illustration purposes, both indexes are normalized to have a zero mean and a standard deviation equal to one, with large positive numbers indicating that supply chains are stressed. Both indexes surged in the 1970s after the oil price increase and ensuing energy crisis. Supply chain disruptions reappeared in the 2000s with chip shortages, and, most recently, bottlenecks arose during the COVID-19 pandemic. The figure illustrates how the text-based measure signals a more prolonged period of supply chain disruptions during the pandemic. Comparing both measures, we see that the monthly changes in delivery times improved at a fast pace, as shown in the ISM index, but narratives of the post-pandemic recovery, as captured in the Beige Book, were signaling elevated levels of supply chain disruptions that eased more slowly.</p>
+<p><strong>Conclusion</strong><br />The idea of using qualitative information on media, government records, central bank, or management communication in economic research to understand better the transmission of monetary policy is not new.<a href="https://www.federalreserve.gov/newsevents/speech/jefferson20250221a.htm#fn25" title="footnote 25"><span>25</span></a><a name="f25"></a>&nbsp;What is novel is that, in the past two decades, there have been advances in textual analysis techniques and incredible growth of data that are easily available to researchers and investors, in terms of both volume and variety. The advances in textual analysis techniques and the growth in alternative data have, in turn, helped researchers to better estimate difficult-to-measure economic concepts, to more easily identify who listens to central bank communications, and to investigate how quickly central bank communication is incorporated into asset prices, among other things. Also, we have greater access to high-frequency data, such as millisecond timestamp financial transactions, and "alternative data," which includes textual information from social media posts. As I mentioned earlier, these new textual analysis techniques are important to policymakers because we seek to understand how our communications are being heard, interpreted, understood, and acted upon.</p>
+<p>While I am grateful that textual analysis techniques and data access have improved over the years, I will end on a cautionary note. Automatic textual analysis should not be regarded as superseding other analysis of the historical record on monetary policy. A wealth of data and techniques to analyze text does not necessarily translate into greater insight. Therefore, it is important that policymakers, researchers, and investors continue to be diligent in using the right tools and the right data to make the best possible inferences.<a href="https://www.federalreserve.gov/newsevents/speech/jefferson20250221a.htm#fn26" title="footnote 26"><span>26</span></a><a name="f26"></a></p>
+<p>Thank you!</p>
+<p><strong>References</strong><br />Adams, Travis, Andrea Ajello, Diego Silva, and Francisco Vazquez-Grande (2023). "<a href="https://doi.org/10.17016/FEDS.2023.034">More than Words: Twitter Chatter and Financial Market Sentiment</a>," Finance and Economics Discussion Series 2023-034. Washington: Board of Governors of the Federal Reserve System, May.</p>
+<p>Appelbaum, Binyamin (2012). "A Fed Focused on the Value of Clarity,"&nbsp;<em>New York Times,</em>&nbsp;December 13.</p>
+<p>Baker, Scott R., Nicholas Bloom, and Steven J. Davis (2016). "Measuring Economic Policy Uncertainty,"<em>&nbsp;Quarterly Journal of Economics,</em>&nbsp;vol. 131 (November), pp. 1593&ndash;636.</p>
+<p>Bernanke, Ben S. (2015). "<a href="https://www.brookings.edu/articles/inaugurating-a-new-blog">Inaugurating a New Blog</a>,"&nbsp;<em>Ben Bernanke's Blog,</em>&nbsp;March 30.</p>
+<p>&mdash;&mdash;&mdash; (2022). "<a href="https://www.brookings.edu/wp-content/uploads/2022/04/gs_20220523_bernanke_transcript.pdf">Ben Bernanke: The Fed from the Great Inflation to COVID-19 (PDF)</a>," webinar, Brookings Institution, Washington, May 23.</p>
+<p>Bernanke, Ben S., and Kenneth N. Kuttner (2005). "What Explains the Stock Market's Reaction to Federal Reserve Policy?"&nbsp;<em>Journal of Finance,&nbsp;</em>vol. 60 (June), pp. 1221&ndash;57.</p>
+<p>Blinder, Alan S. (2018). "Through a Crystal Ball Darkly: The Future of Monetary Policy Communication,"&nbsp;<em>AEA Papers and Proceedings,</em>&nbsp;vol. 108 (May), pp. 567&ndash;71.</p>
+<p>Chaboud, Alain P., Benjamin Chiquoine, Erik Hjalmarsson, and Clara Vega (2014). "Rise of the Machines: Algorithmic Trading in the Foreign Exchange Market,"&nbsp;<em>Journal of Finance,</em>&nbsp;vol. 69 (October), pp. 2045&ndash;84.</p>
+<p>Cieslak, Anna, and Michael McMahon (2023). "Tough Talk: The Fed and Risk Premium," working paper, April (revised June 2024).</p>
+<p>Coibion, Olivier, Yuriy Gorodnichenko, and Michael Weber (2022). "Monetary Policy Communications and Their Effects on Household Inflation Expectations,"&nbsp;<em>Journal of Political Economy,</em>&nbsp;vol. 130 (June), pp. 1537&ndash;84.</p>
+<p>Dessaint, Olivier, Thierry Foucault, and Laurent Fresard (2024). "Does Alternative Data Improve Financial Forecasting? The Horizon Effect,"&nbsp;<em>Journal of Finance,</em>&nbsp;vol. 79 (June), pp. 2237&ndash;87.</p>
+<p>Dugast, Jerome, and Thierry Foucault (2017). "Data Abundance and Asset Price Informativeness,"&nbsp;<em>Journal of Financial Economics,</em>&nbsp;vol. 130 (November), pp. 367&ndash;91.</p>
+<p>Gertler, Mark, and Peter Karadi (2015). "Monetary Policy Surprises, Credit Costs, and Economic Activity,"&nbsp;<em>American Economic Journal: Macroeconomics,</em>&nbsp;vol. 7 (January), pp. 44&ndash;76.</p>
+<p>Ehrmann, Michael, and Alena Wabitsch (2022). "Central Bank Communication with Non-experts &ndash; A Road to Nowhere?"&nbsp;<em>Journal of Monetary Economics,</em>&nbsp;vol. 127 (April), pp. 69&ndash;85.</p>
+<p>Gardner, Ben, Chiara Scotti, and Clara Vega (2022). "Words Speak as Loudly as Actions: Central Bank Communication and the Response of Equity Prices to Macroeconomic Announcements,"&nbsp;<em>Journal of Econometrics,</em>&nbsp;vol. 231 (December), pp. 387&ndash;409.</p>
+<p>G&oacute;mez-Cram, Roberto, and Marco Grotteria (2022). "Real-Time Price Discovery via Verbal Communication: Method and Application to Fedspeak,"&nbsp;<em>Journal of Financial Economics,</em>&nbsp;vol. 143 (March), pp. 993&ndash;1025.</p>
+<p>Hanson, Samuel G., and Jeremy C. Stein (2015). "Monetary Policy and Long-Term Real Rates,"&nbsp;<em>Journal of Financial Economics,&nbsp;</em>vol. 115 (March), pp. 429&ndash;48.</p>
+<p>Jefferson, Philip N. (2023a). "<a href="https://www.federalreserve.gov/newsevents/speech/jefferson20230327a.htm">Implementation and Transmission of Monetary Policy</a>," speech delivered at the H. Parker Willis Lecture, Washington and Lee University, Lexington, Va., March 27.</p>
+<p>&mdash;&mdash;&mdash; (2023b). "<a href="https://www.federalreserve.gov/newsevents/speech/jefferson20240513a.htm">Communicating about Monetary Policy</a>," speech delivered at "Central Bank Communications: Theory and Practice," a conference hosted by the Federal Reserve Bank of Cleveland, Cleveland, Ohio, May 13.</p>
+<p>&mdash;&mdash;&mdash; (2023c). "<a href="https://www.federalreserve.gov/newsevents/speech/jefferson20231114a.htm">Elevated Economic Uncertainty: Causes and Consequences</a>," speech delivered at "Global Risk, Uncertainty, and Volatility," a research conference sponsored by the Federal Reserve Board of Governors, Swiss National Bank, and the Bank for International Settlements, Zurich, Switzerland, November 14.</p>
+<p>Kumar, Saten, Hassan Afrouzi, Olivier Coibion, and Yuriy Gorodnichenko (2015). "<a href="https://www.brookings.edu/wp-content/uploads/2016/07/PDFKumarTextFallBPEA.pdf">Inflation Targeting Does Not Anchor Inflation Expectations: Evidence from Firms in New Zealand (PDF)</a>," Brookings Papers on Economic Activity, Fall, pp. 151&ndash;208.</p>
+<p>O'Hara, Maureen (2015). "High Frequency Market Microstructure,"&nbsp;<em>Journal of Financial Economics,</em>&nbsp;vol. 116 (May), pp. 257&ndash;70.</p>
+<p>Piazzesi, Monika, and Martin Schneider (2006). "<a href="https://www.nber.org/papers/w12609">Equilibrium Yield Curves</a>," NBER Working Paper Series 12609. Cambridge, Mass.: National Bureau of Economic Research, October (revised January 2007).</p>
+<p>Romer, Christina D., and David H. Romer (1989). "Does Monetary Policy Matter? A New Test in the Spirit of Friedman and Schwartz,"&nbsp;<em>NBER Macroeconomics Annual,&nbsp;</em>vol. 4, pp.121&ndash;70.</p>
+<p>&mdash;&mdash;&mdash; (2023). "Presidential Address: Does Monetary Policy Matter? The Narrative Approach after 35 Years."&nbsp;<em>American Economic Review</em>, vol. 113 (June), pp. 1395-423.</p>
+<p>&mdash;&mdash;&mdash; (2024). "Lessons from History for Successful Disinflation,"&nbsp;<em>Journal of Monetary Economics</em>, vol.148, Supplement (November), 103654.</p>
+<p>Schmanski, Bennett, Chiara Scotti, Clara Vega, and Hedi Benamar (2023). "<a href="https://doi.org/10.17016/FEDS.2023.036">Fed Communication, News, Twitter, and Echo Chambers</a>," Finance and Economics Discussion Series 2023-36. Washington: Board of Governors of the Federal Reserve System, May.</p>
+<p>Sharpe, Steven A., Nitish R. Sinha, and Christopher A. Hollrah (2023). "The Power of Narrative Sentiment in Economic Forecasts,"&nbsp;<em>International Journal of Forecasting,</em>&nbsp;vol. 39 (July&ndash;September), pp. 1097&ndash;121.</p>
+<p>Soto, Paul (2023). "<a href="https://www.federalreserve.gov/econres/notes/feds-notes/measurement-and-effects-of-supply-chain-bottlenecks-using-natural-language-processing-20230206.html">Measurement and Effects of Supply Chain Bottlenecks Using Natural Language Processing</a>," FEDS Notes. Washington: Board of Governors of the Federal Reserve System, February 6 (revised January 16, 2025).</p>
+<p>Swanson, Eric T., and Vishuddhi Jayawickrema (2024). "Speeches by the Fed Chair Are More Important Than FOMC Announcements: An Improved High-Frequency Measure of U.S. Monetary Policy Shocks," working paper, University of California, Irvine.</p>
+<p>von Beschwitz, Bastian, Donald B. Keim, and Massimo Massa (2020). "First to 'Read' the News: News Analytics and Algorithmic Trading,"&nbsp;<em>Review of Asset Pricing Studies,</em>&nbsp;vol. 10 (February), pp. 122&ndash;78.</p>
+<p>Young, Henry L., Anderson Monken, Flora Haberkorn, and Eva Van Leemput (2021). "<a href="https://www.federalreserve.gov/econres/notes/feds-notes/effects-of-supply-chain-bottlenecks-on-prices-using-textual-analysis-20211203.html">Effects of Supply Chain Bottlenecks on Prices using Textual Analysis</a>," FEDS Notes. Washington: Board of Governors of the Federal Reserve System, December 3.</p>
+<hr align="left" size="1" width="33%" />
+<p><a name="fn1"></a>1. The views expressed here are my own and are not necessarily those of my colleagues on the Federal Reserve Board or the Federal Open Market Committee.&nbsp;<a href="https://www.federalreserve.gov/newsevents/speech/jefferson20250221a.htm#f1"></a></p>
+<p><a name="fn2"></a>2. See Swanson and Jayawickrema (2024).&nbsp;<a href="https://www.federalreserve.gov/newsevents/speech/jefferson20250221a.htm#f2"></a></p>
+<p><a name="fn3"></a>3. See Bernanke (2015, 2022).&nbsp;<a href="https://www.federalreserve.gov/newsevents/speech/jefferson20250221a.htm#f3"></a></p>
+<p><a name="fn4"></a>4. See Jefferson (2023a). Arbitrage is the economic force that keeps prices of financial instruments with similar payoffs, such as the federal funds rate and repo rates, close to each other.&nbsp;<a href="https://www.federalreserve.gov/newsevents/speech/jefferson20250221a.htm#f4"></a></p>
+<p><a name="fn5"></a>5. More specifically, according to the expectations theory of the term structure of interest rates, intermediate- and long-term interest rates are importantly affected by the weighted average of expected future short-term interest rates. In addition, monetary policy affects risk premiums (see, for example, Bernanke and Kuttner, 2005; Hanson and Stein, 2015; and Gertler and Karadi, 2015) and term premiums (if monetary policy tightens in response to inflationary shocks, term premiums also tend to rise as longer-maturity bonds become riskier; see, for example, Piazzesi and Schneider, 2006).&nbsp;<a href="https://www.federalreserve.gov/newsevents/speech/jefferson20250221a.htm#f5"></a></p>
+<p><a name="fn6"></a>6. See Appelbaum (2012).&nbsp;<a href="https://www.federalreserve.gov/newsevents/speech/jefferson20250221a.htm#f6"></a></p>
+<p><a name="fn7"></a>7. See Jefferson (2023b).&nbsp;<a href="https://www.federalreserve.gov/newsevents/speech/jefferson20250221a.htm#f7"></a></p>
+<p><a name="fn8"></a>8. See, for example, Cieslak and McMahon (2023); Gardner, Scotti, and Vega (2022); G&oacute;mez-Cram and Grotteria (2022); and Sharpe, Sinha and Hollrah (2023).&nbsp;<a href="https://www.federalreserve.gov/newsevents/speech/jefferson20250221a.htm#f8"></a></p>
+<p><a name="fn9"></a>9. See, for example, G&oacute;mez-Cram and Grotteria (2022), who use textual analysis, high-frequency asset price data, and high-frequency central bank communication data to understand investors' reactions to specific sentences communicated by the FOMC.&nbsp;<a href="https://www.federalreserve.gov/newsevents/speech/jefferson20250221a.htm#f9"></a></p>
+<p><a name="fn10"></a>10. See Schmanski and others (2023).&nbsp;<a href="https://www.federalreserve.gov/newsevents/speech/jefferson20250221a.htm#f10"></a></p>
+<p><a name="fn11"></a>11. A bag-of-words technique is a natural language processing technique that uses a collection (or "bag") of words and a scoring system to quantify qualitative textual information. Schmanski and others (2023) use this technique to pair a set of topic keywords with modifiers and determine whether the combination of topic-modifier communicates tightening, neutral, or easing news. By construction, the sentiment is high when the media thinks the FOMC is more likely to tighten monetary policy in the near future.&nbsp;<a href="https://www.federalreserve.gov/newsevents/speech/jefferson20250221a.htm#f11"></a></p>
+<p><a name="fn12"></a>12. See Chaboud and others (2014) for evidence that automated trading has increased the informational efficiency of foreign exchange markets by reducing the frequency of triangular arbitrage opportunities and the autocorrelation of high-frequency returns. See von Beschwitz and others (2020) for evidence that automated textual analysis speeds up the stock price response to news.&nbsp;<a href="https://www.federalreserve.gov/newsevents/speech/jefferson20250221a.htm#f12"></a></p>
+<p><a name="fn13"></a>13. See, for example, von Beschwitz, Keim, and Massa (2020); Dugast and Foucault (2017); and O'Hara (2015).&nbsp;<a href="https://www.federalreserve.gov/newsevents/speech/jefferson20250221a.htm#f13"></a></p>
+<p><a name="fn14"></a>14. See Blinder (2018, p. 569).&nbsp;<a href="https://www.federalreserve.gov/newsevents/speech/jefferson20250221a.htm#f14"></a></p>
+<p><a name="fn15"></a>15. See Kumar and others (2015).&nbsp;<a href="https://www.federalreserve.gov/newsevents/speech/jefferson20250221a.htm#f15"></a></p>
+<p><a name="fn16"></a>16. Ehrmann and Wabitsch (2022) document that the number of expert and nonexpert comments posted on the X platform (formerly known as Twitter) that discuss central bank communication increases after European Central Bank (ECB) press conferences and other ECB communications, such as speeches by the ECB president. The authors also document that the content of the discussion tends to be objective (factual) rather than subjective, according to the authors' dictionary base subjectivity measure.&nbsp;<a href="https://www.federalreserve.gov/newsevents/speech/jefferson20250221a.htm#f16"></a></p>
+<p><a name="fn17"></a>17. See Schmanski and others (2023).&nbsp;<a href="https://www.federalreserve.gov/newsevents/speech/jefferson20250221a.htm#f17"></a></p>
+<p><a name="fn18"></a>18. See Coibion, Gorodnichenko, and Weber (2022).&nbsp;<a href="https://www.federalreserve.gov/newsevents/speech/jefferson20250221a.htm#f18"></a></p>
+<p><a name="fn19"></a>19. See, for example, Baker, Bloom, and Davis (2016) for textual analysis measures of economic policy, Soto (2023) and Young and others (2021) for textual analysis measures of supply chain disruptions, and Adams and others (2023) for a textual analysis measure of financial conditions.&nbsp;<a href="https://www.federalreserve.gov/newsevents/speech/jefferson20250221a.htm#f19"></a></p>
+<p><a name="fn20"></a>20. See Jefferson (2023c).&nbsp;<a href="https://www.federalreserve.gov/newsevents/speech/jefferson20250221a.htm#f20"></a></p>
+<p><a name="fn21"></a>21. See Baker, Bloom, and Davis (2016).&nbsp;<a href="https://www.federalreserve.gov/newsevents/speech/jefferson20250221a.htm#f21"></a></p>
+<p><a name="fn22"></a>22. See Sharpe, Sinha, and Hollrah (2023).&nbsp;<a href="https://www.federalreserve.gov/newsevents/speech/jefferson20250221a.htm#f22"></a></p>
+<p><a name="fn23"></a>23. See Young and others (2021) and Soto (2023).&nbsp;<a href="https://www.federalreserve.gov/newsevents/speech/jefferson20250221a.htm#f23"></a></p>
+<p><a name="fn24"></a>24. See Soto (2023).&nbsp;<a href="https://www.federalreserve.gov/newsevents/speech/jefferson20250221a.htm#f24"></a></p>
+<p><a name="fn25"></a>25. See, for example, Romer and Romer (1989, 2023, 2024) for a description of the "narrative" approach.&nbsp;<a href="https://www.federalreserve.gov/newsevents/speech/jefferson20250221a.htm#f25"></a></p>
+<p><a name="fn26"></a>26. For example, Dessaint, Foucault, and Fresard (2024) suggest that alternative data mainly help forecast short-term outcomes, and not so much long-term outcomes.&nbsp;<a href="https://www.federalreserve.gov/newsevents/speech/jefferson20250221a.htm#f26"></a></p>
+<div class="panel panel-attachments col-xs-12 col-sm-8 col-md-8">
+<div class="panel-body">
+<ul class="list-unstyled">
+<li class="list__icon"><a href="https://www.federalreserve.gov/newsevents/speech/jefferson20250221a.htm"><span class="icon-figures icon icon__sm">&nbsp;</span>View speech charts and figures</a></li>
+<p>&nbsp;</p>
+<p><a href="https://www.federalreserve.gov/newsevents/speech/jefferson20250221a1.htm">Accessible Version</a></p>
+</ul>
+</div>
+</div>
+</div>
+<div class="col-xs-12 col-sm-4 col-md-4"></div>
+</div>
+</div>
+<div class="row">
+<div class="lastUpdate" id="lastUpdate"></div>
+</div>
+]]></content:encoded>
+<pubDate>Fri, 21 Feb 2025 17:38:26 GMT</pubDate>
+<pubDate>Fri, 21 Feb 2025 17:38:26 GMT</pubDate>
+</item>
+<item>
+<title>Our T+1 Journey Starts Now - Speech By Mark Francis, Interim Director Of Wholesale Markets Sell-Side, At UK Accelerated Settlement Taskforce Industry Event</title>
+<link>http://www.mondovisione.com/media-and-resources/news/our-t1-journey-starts-now-speech-by-mark-francis-interim-director-of-wholesa-2025221/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/our-t1-journey-starts-now-speech-by-mark-francis-interim-director-of-wholesa-2025221/</guid>
+<content:encoded><![CDATA[
+
+<p><section class="copy-block copy-block-image copy-block-image--image component copy-block-image--image--top">
+<div class="container"><img alt="Mark Francis is a white man with short brown hair. He is wearing frameless glasses, a dark suit and a dark red tie. " class="img-responsive" height="146" src="https://www.fca.org.uk/sites/default/files/styles/medium/public/media/images/mark-francis-speech.jpg?itok=lQayySgP" title="Mark Francis" width="220" />
+<p>Speaker: Mark Francis, interim director of wholesale markets sell-side<br />Event: UK Accelerated Settlement Taskforce industry event hosted by KPMG<br />Delivered: 20 February 2025<br /><br /></p>
+<h2>Highlights &nbsp;</h2>
+<ul>
+<li>We have welcomed the recommendations of the Accelerated Settlement Taskforce final report alongside the government and the Bank of England.</li>
+<li>Firms should engage with the recommendations and begin their preparations for the transition.</li>
+<li>T+1 will make our markets more efficient, improve liquidity, and support the growth and competitiveness of the UK.</li>
+<li>We have published a &lsquo;one-stop shop&rsquo;&nbsp;<a href="https://www.fca.org.uk/markets/about-t1-settlement" title="About T+1 settlement">web page for industry</a>, in order to support T+1, and we will continue to support firms with the transition.</li>
+</ul>
+<hr />
+</div>
+</section><section class="copy-block default" id="section-t-1-settlement-improving-market-efficiency">
+<div class="container">
+<h2>T+1 settlement: improving market efficiency</h2>
+<p>We are fully supportive of the UK moving to a T+1 settlement cycle for securities trades. Our letter to the Prime Minister on supporting growth highlighted that 'accelerating adoption of securities settlement in 1 day (T+1) ... will make markets more efficient'. We also see other benefits arising from T+1, including improved liquidity, better use of capital and the reduction of risks for market participants.</p>
+<p>The move to T+1 is aligned with our strategic objective to ensure markets function well. It also supports our strategy and wider commitment to strengthen the UK&rsquo;s position in global wholesale markets while supporting growth and innovation. &nbsp;</p>
+<p>Throughout the event today, we have also heard the strong case set out by others for T+1.</p>
+</div>
+</section><section class="copy-block default" id="section-welcoming-the-taskforce-s-final-report">
+<div class="container">
+<h2>Welcoming the Accelerated Settlements Taskforce&rsquo;s final report</h2>
+<p>We welcome publication of the Accelerated Settlements Taskforce&rsquo;s (AST) final report.</p>
+<p>I want to commend members of the group for the strong progress they have made in setting out a detailed implementation plan for the UK to move to a T+1 settlement cycle by 11 October 2027. We are grateful to all of you for your work, for the opportunity to act as observers on the group and to Andrew for his strong leadership. &nbsp;</p>
+<p>I have noticed that the cover of the report is a fetching colour of go-faster green, which is most appropriate for looking forward to the next stage of the work!</p>
+</div>
+</section><section class="copy-block default" id="section-what-should-firms-do-next-">
+<div class="container">
+<h2>Looking forward &ndash; what should firms do next?&nbsp;</h2>
+<p>Looking forward, firms must now turn their attention to implementing the new T+1 requirement. &nbsp;</p>
+<p>Our role will be to support firms as they transition. All firms that participate in wholesale markets are likely to be impacted in some way, from banks, to asset managers, to platforms and corporates. However, the operational changes and challenges faced will likely differ from firm to firm depending on, among other factors, their business models, the settlement systems they currently utilise and the capacity for those systems to be upgraded. &nbsp;</p>
+<p>If there is only one message I would like you all to take away today is that you should start thinking now and put a plan in place as soon as possible to move to T+1 by the deadline.</p>
+<p>You may think October 2027 is a long way from now, but for some firms there is much to be done and no firm should delay. I want to be clear today on our expectations for firms and what they should be doing to meet the new T+1 requirement in time for October 2027. &nbsp;</p>
+<p>Consider 4 key areas in this context.</p>
+<h3>1. Read the AST report</h3>
+<p>The move to T+1 is a market-led initiative. The AST report sets out a roadmap of technical and operational recommendations that firms should implement, along with specified timings. It also sets out expected behaviours for firms. Firms should read carefully the contents of the AST&rsquo;s report now and identify how best they can be implemented for their firm. &nbsp;</p>
+<h3>2. Plan early</h3>
+<p>Firms must plan and prepare early for the move to T+1. This notion is aligned with the Code of Conduct&rsquo;s expected behaviour to 'action this day'.&nbsp;</p>
+<p>Firms should not wait until 2027 to put in place relevant changes. Firms must start planning and putting plans into action from now. &nbsp;</p>
+<p>Firms should determine what changes are required and how they will need to implement them, while seeking to avoid any unnecessary costs or complexity. Consideration should also be given to any changes to areas related to securities settlement, such as securities financing and foreign exchange markets. &nbsp;</p>
+<p>One of the key recommendations in the report centres on the operational processes that need to take place to ensure faster settlement, including trade allocations and confirmations as well as the submission of settlement instructions to the Central Securities Depository. We encourage firms to consider their own processes and what may need to change to facilitate accelerated settlement.</p>
+<p>We also encourage firms to consider taking advantage of appropriate innovations in automation which may bring greater efficiency through increased settlement speed and accuracy. Automation may increase a firm's processing capability, thereby increasing their resilience for dealing with extra volumes and increased risks at times of market stress. &nbsp;</p>
+<h3>3. Budget to execute the plan</h3>
+<p>Firms should consider any budgeting or resourcing needs for executing the plans they make. For example, plans to make changes to processes or operational systems may need special budgets or additional resources. The AST report contemplates that budgeting activity would happen this year, 2025. &nbsp;</p>
+<h3>4. Act to implement and test the changes</h3>
+<p>We expect firms to take timely action to put their plans into effect and to maintain momentum for the changes needed throughout the transition period. In considering the timeliness for action, regard must be given to testing. The changes required for T+1, such as the adoption of new or updated operating systems, need to be made in time to allow for testing both internally and with external parties.</p>
+<p>Firms will need to engage early and regularly with all parties that are involved with their settlement processes. This includes all relevant internal stakeholders such as the front, middle and back office, legal and compliance, as well as their counterparties and any third-party service providers. Regular engagement and a clear understanding of roles and responsibilities will help to ensure a smoother ride to implementation.</p>
+<p>In addition, we encourage firms to engage with the AST to raise any questions, to flag any difficulties and to make suggestions on what the group may do to make implementation happen more smoothly. Also, they could consider, as appropriate, whether to engage with trade associations or other market groups.</p>
+<p>The AST report observes that the sooner firms implement the steps they need to take to move to T+1, the sooner they can capitalise on the benefits.&nbsp;</p>
+</div>
+</section><section class="copy-block default" id="section-our-approach-to-support-t-1">
+<div class="container">
+<h2>Our approach to support T+1</h2>
+<p>And I want to turn your attention now to what our approach will be as we support the industry move to T+1. Alongside the Treasury and the Bank of England we will continue our role as observers on the group. This will give us the opportunity to understand how firms are progressing through the transition. &nbsp;</p>
+<p>Even though the move to T+1 by October 2027 is industry-led, we will use aspects of our existing supervisory approach to support industry. We consider this in 3 core areas: engagement with firms, comms and market monitoring. &nbsp;</p>
+<h3>Engaging with firms</h3>
+<p>We will engage with firms on their T+1 plans as a part of our ongoing supervision. We may engage bilaterally or, where appropriate, in a wider forum, such as with trade associations. In discussing their plans, we would expect firms to cover how they are meeting our expectations on preparedness and how their activities are aligned, or not, with the recommendations as set out in the UK T+1 Code of Conduct. We expect firms to be open with us about their plans and any barriers they may face.</p>
+<p>We also plan to have engagement beyond our supervised firms with other market participants also impacted by the transition, including corporates and other non-financial counterparties.</p>
+<h3>Our communication strategy</h3>
+<p>We will use an active communications strategy throughout the transition period. Alongside the press statement released earlier this week, we launched a new T+1 webpage on our FCA website. This page will be updated regularly and used as a &lsquo;one-stop shop&rsquo;, to promote T+1 awareness and to send other messages, for example, on our expectations for firms. We will also consider the use of other existing communication tools &ndash; including speeches &ndash; where appropriate to promote the transition. So, keep an eye out for all of those! &nbsp;</p>
+<h3>Monitoring the market</h3>
+<p>Furthermore, with the data and other evidence available to us, we will monitor the market during and after the transition period to help us gauge firm progress on the move to T+1 and identify any issues that need to be addressed. &nbsp;</p>
+<p>We look forward to an orderly, timely transition to the new market standard of T+1 led by the market itself. However, where we see actions or inaction that would harm market integrity through this process, we will consider whether we need to intervene further.</p>
+</div>
+</section><section class="copy-block default" id="section-international-coordination">
+<div class="container">
+<h2>International coordination</h2>
+<p>Securities markets are inherently global and cross-border. We therefore recognise the importance of ongoing international coordination. We believe such coordination should maximise the probability of an orderly transition, while minimising the frictions and costs of misalignment.</p>
+<p>With this in mind, we recognise the government&rsquo;s engagement with other European jurisdictions to support an aligned move to T+1 across Europe and the growing convergence around 11 October 2027 as the date for the move. We agree with the government that alignment would be highly desirable, and comparable views have been expressed to us by market participants.</p>
+<p>Further, the benefits of international coordination extend to engagement between international regulators, and between industry groups in different countries, on experiences and plans with regards to the T+1 transition. For example, we support the feedback that we should learn lessons from the US transition and are grateful to the many firms involved that have already shared their experiences.&nbsp;</p>
+</div>
+</section><section class="copy-block default" id="section-key-takeaways">
+<div class="container">
+<h2>Key takeaways</h2>
+<p>Our aim is for all market participants to move to a T+1 settlement cycle efficiently and successfully by 11 October 2027 with limited market disruption.</p>
+<p>The clear message to take away today, as we embark on this next phase of the UK&rsquo;s move to T+1, is that we expect firms to be prepared for the move to T+1. Remember the 4 key areas I have just highlighted:</p>
+<ol>
+<li>Read carefully the AST report. &nbsp;</li>
+<li>Plan early. &nbsp;</li>
+<li>Budget to execute the plan. &nbsp;</li>
+<li>Act to implement and test the changes, on a timely basis.</li>
+</ol>
+<p>We look forward to engaging with firms through the transition to T+1 and realising the benefits and efficiencies this initiative will bring to the UK market, including its role in supporting growth and innovation.&nbsp;</p>
+</div>
+</section></p>
+]]></content:encoded>
+<pubDate>Fri, 21 Feb 2025 18:11:51 GMT</pubDate>
+<pubDate>Fri, 21 Feb 2025 18:11:51 GMT</pubDate>
+</item>
+<item>
+<title>Decisions Taken By The Governing Council Of The ECB (In Addition To Decisions Setting Interest Rates) - February 2025</title>
+<link>http://www.mondovisione.com/media-and-resources/news/decisions-taken-by-the-governing-council-of-the-ecb-in-addition-to-decisions-se-2025221/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/decisions-taken-by-the-governing-council-of-the-ecb-in-addition-to-decisions-se-2025221/</guid>
+<content:encoded><![CDATA[
+
+<h2>Market operations</h2>
+<p><a class="link-inline" id="_Hlk187752027"></a><em>Extension of liquidity lines until January 2027</em></p>
+<p>On 23 January 2025 the Governing Council approved the extension of the ECB repo lines with eight non-euro area central banks (Magyar Nemzeti Bank, Banca Națională a Rom&acirc;niei<em>,</em>&nbsp;Bank of Albania, Andorran Financial Authority, National Bank of the Republic of North Macedonia, Central Bank of the Republic of San Marino, Central Bank of Montenegro and Central Bank of the Republic of Kosovo) until 31 January 2027. The decision was taken pursuant to the&nbsp;<a class="link-inline arrow" href="https://www.ecb.europa.eu/mopo/international-market-operations/liquidity_lines/html/index.en.html">new framework for euro liquidity lines</a>, which was adopted in 2023.</p>
+<p><em>Eurosystem climate stress test report</em></p>
+<p>On 13 February 2025 the Governing Council took note of the main findings of the 2024 climate stress test on the Eurosystem&rsquo;s balance sheet, which will feed into the Eurosystem&rsquo;s climate-related financial disclosures.</p>
+<h2><a id="_Hlk188522270"></a>Market infrastructure and payments</h2>
+<p><em>Inclusion of provisions on the TARGET Analytical Environment in the T2 Currency Participation Agreement</em></p>
+<p>On 13 February 2025 the Governing Council approved the amendments to the agreement on the use of T2 services (T2 Currency Participation Agreement) to include the TARGET Analytical Environment as a standard feature offered to both current and future signatories of the T2 Currency Participation Agreement.</p>
+<h2>Advice on legislation</h2>
+<p><em>ECB Opinion on flood insurance</em></p>
+<p>On 4 February 2025 the Governing Council adopted Opinion&nbsp;<a class="link-inline external" href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52025AB0003&amp;qid=1739285722241">CON/2025/3</a>&nbsp;at the request of the Chair of the Oireachtas (Irish National Parliament) Joint Committee on Finance, Public Expenditure and Reform and Taoiseach (Irish Prime Minister).</p>
+<p><em>ECB Opinion on indirect participants in, and access to, payment systems, and a new exemption from the cash rule</em></p>
+<p>On 5 February 2025 the Governing Council adopted Opinion&nbsp;<a class="link-inline external" href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52025AB0004&amp;qid=1739286011668">CON/2025/</a>4&nbsp;at the request of the Danish Financial Supervisory Authority.</p>
+<h2>Corporate governance</h2>
+<p><em>ECB&rsquo;s Annual Accounts for 2024</em></p>
+<p>On 19 February 2025 the Governing Council approved the audited financial statements of the ECB for the financial year 2024. The annual accounts, together with a press release, are available on the ECB&rsquo;s website.</p>
+<p><a class="link-inline" id="_Hlk190439036"></a><em>ECB Recommendation on the external auditors of the European Central Bank for the financial years 2025 to 2029</em></p>
+<p>On 12 February 2025 the Governing Council adopted Recommendation ECB/2025/6 to the Council of the European Union on the external auditors of the European Central Bank.</p>
+<h2>Statistics</h2>
+<p><a class="link-inline" id="_Hlk190263888"></a><em>Extension of the Integrated Reporting Framework and the Common Data Management investigation phases</em></p>
+<p><a class="link-inline" id="_Hlk190263707"></a>On 17 February 2025 the Governing Council&nbsp;<a class="link-inline" id="_Hlk189232589"></a>approved the revised Quality Review Gate 1 documentation (including the Financial Envelopes and Project Charters), extending until the end of September 2025 the investigation phases of the ESCB and SSM Common Data Management and the ESCB Integrated Reporting Framework projects.</p>
+<h2>Banknotes and coins</h2>
+<p><em>Composition of the design contest jury for the new euro banknotes</em></p>
+<p>On 6 February 2025 the Governing Council took note of the composition of the design contest jury for the new euro banknotes. The jury will prepare a shortlist of designs to support the selection of the final design of the future euro banknotes by the Governing Council and is scheduled to start work in early 2025.</p>
+<h2>ECB Banking Supervision</h2>
+<p><em>Update of the 2025 Supervisory Examination Programme (SEP) for on-site inspections and internal model investigations at significant institutions</em></p>
+<p>On 30 January 2025 the Governing Council did not object to a proposal by the Supervisory Board for an update of the 2025 SEP for on-site inspections and internal model investigations at significant institutions and outsourcing service providers. The on-site SEP is based on SSM&nbsp;<a class="link-inline arrow" href="https://www.bankingsupervision.europa.eu/framework/priorities/html/ssm.supervisory_priorities202412~6f69ad032f.en.html">supervisory priorities</a>&nbsp;for 2025-2027 published on the ECB&rsquo;s banking supervision website.</p>
+]]></content:encoded>
+<pubDate>Fri, 21 Feb 2025 18:15:58 GMT</pubDate>
+<pubDate>Fri, 21 Feb 2025 18:15:58 GMT</pubDate>
+</item>
+<item>
+<title>UK Financial Conduct Authority Announces Winners Of Its Economics Research Competition</title>
+<link>http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-announces-winners-of-its-economics-research-compe-2025221/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-announces-winners-of-its-economics-research-compe-2025221/</guid>
+<content:encoded><![CDATA[
+
+<p><section class="copy-highlighted copy-block component fca-colour--6c1d45 default">
+<div class="container">
+<p>The FCA has announced the winners of its research competition, which aims to increase understanding of how regulation can support economic growth. &nbsp;</p>
+</div>
+</section><section class="copy-block default">
+<div class="container">
+<p>Six projects have been selected and awarded funding of up to &pound;30,000 each.</p>
+<p>The competition, launched in November 2024, attracted 43 entries from 41 organisations, including academics, think tanks and consultancies.</p>
+<p>Kate Collyer, the FCA&rsquo;s chief economist said: &lsquo;We&rsquo;re delighted to receive such innovative research proposals which will help us better understand how regulation can enable growth. We look forward to working with participants to drive meaningful change.&rsquo;</p>
+<p>The 6 successful projects are:</p>
+<ul>
+<li><span>LSE Growth Lab</span>&nbsp;&ndash; improving measurement of productivity in UK financial services</li>
+<li><span>Edinburgh Innovations Ltd</span>&nbsp;&ndash; enhancing competitiveness through increasing export volumes via foreign direct investments</li>
+<li><span>Beauhurst (Business Funding Research Ltd)</span>&nbsp;&ndash; risk appetite for innovation and productivity in private financial services companies</li>
+<li><span>University College London</span>&nbsp;&ndash; risks in the UK fintech sector: implications for consumer credit and economic growth</li>
+<li><span>University of Birmingham</span>&nbsp;&ndash; access and demand for new listed firms&rsquo; subsequent financing rounds</li>
+<li><span>Fathom Financial Consulting</span>&nbsp;&ndash; how regulatory changes may have reshaped financial stability and growth risks since the global financial crisis</li>
+</ul>
+<p>The winners have until 31 March 2025 to complete their research.&nbsp;</p>
+<h2>Background</h2>
+<ol>
+<li>The competition was launched on 25 November 2024.</li>
+<li>The deadline for proposals was 15 December 2024.</li>
+<li>Awards were made on 22 December 2024.</li>
+<li>Find more information on our&nbsp;<a href="https://www.fca.org.uk/firms/economic-research-competition" title="Economic research competition">economic research competition</a>&nbsp;page.&nbsp;</li>
+</ol></div>
+</section></p>
+]]></content:encoded>
+<pubDate>Fri, 21 Feb 2025 18:07:28 GMT</pubDate>
+<pubDate>Fri, 21 Feb 2025 18:07:28 GMT</pubDate>
+</item>
+
+<item>
 <title>Nigerian Exchange Market Report For February 21st, 2025</title>
 <link>http://www.mondovisione.com/media-and-resources/news/nigerian-exchange-market-report-for-february-21st-2025-2025221/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/nigerian-exchange-market-report-for-february-21st-2025-2025221/</guid>
 <content:encoded><![CDATA[
-
 <p>A total turnover of 2.001 billion shares worth N49.486 billion in 70,853 deals was traded this  week by investors on the floor of the Exchange, in contrast to a total of 2.414 billion shares  valued at N55.512 billion that exchanged hands last week in 80,988 deals.</p>
 <p>Click <a href="https://mondovisione.com/_assets/files/NSE_Weekly-Report-20250221.pdf" title="NSE_Weekly Report 20250221.pdf">here</a> for full details.</p>
 ]]></content:encoded>
-<pubDate>Fri, 21 Feb 2025 15:58:12 GMT</pubDate>
 <pubDate>Fri, 21 Feb 2025 15:58:12 GMT</pubDate>
 </item>
 <item>
@@ -21,7 +298,6 @@
 <link>http://www.mondovisione.com/media-and-resources/news/acer-highlights-the-need-for-greater-clarity-in-the-proposed-swedish-gas-transmi-2025221/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/acer-highlights-the-need-for-greater-clarity-in-the-proposed-swedish-gas-transmi-2025221/</guid>
 <content:encoded><![CDATA[
-
 <p>Today, ACER releases its&nbsp;<a class="safe---anchor---wc" href="https://mailservice.acer.europa.eu/lists/lt.php?tid=fUtVVwAGA1RUW0xbBwQHHVZfVgQdCwkIABoGBgJWUgUGBwQEUgIdB1daAg5SDQIdUQtQDx0GCQFVGgxTCwcZUVMEBFNXAABRVVdYRQYEUglbDwdSHQEPAVMaAQYGARlRBVMHHFMHUQVRUFkND1VTUw" rel="noopener noreferrer nofollow" target="_blank">report on the Swedish gas transmission tariff</a>&nbsp;directed at the Swedish National Regulatory Authority (NRA), Energimarknadsinspektionen (Ei), and Transmission System Operator, Swedegas.</p>
 <p>The report assesses whether the proposed Reference Price Methodology (RPM) complies with the requirements of the Network Code on Harmonised Transmission Tariff structures (<a class="safe---anchor---wc" href="https://mailservice.acer.europa.eu/lists/lt.php?tid=fUtSUgVTV1BUVkwPAlcGHVZYDQ4dUFsAXhpWAAoCVlJRAgcJUgYdB1daAg5SDQIdUQtQDx0GCQFVGgxTCwcZUVMEBFNXAABRVVdYRQYEUglbDwdSHQEPAVMaAQYGARlRBVMHHFMHUQVRUFkND1VTUw" rel="noopener noreferrer nofollow" target="_blank">NC TAR</a>).&nbsp;</p>
 <p><span style="text-decoration: underline;">What are the key findings?</span><strong><span style="text-decoration: underline;">&nbsp;</span></strong></p>
@@ -42,14 +318,12 @@
 <p><a class="safe---anchor---wc" href="https://mailservice.acer.europa.eu/lists/lt.php?tid=fUtUBQ5XAwABAkwMAQVXHVYKAQcdU1sGBBoGUlIPBwcDU1ACAVUdB1daAg5SDQIdUQtQDx0GCQFVGgxTCwcZUVMEBFNXAABRVVdYRQYEUglbDwdSHQEPAVMaAQYGARlRBVMHHFMHUQVRUFkND1VTUw" rel="noopener noreferrer nofollow" target="_blank">Read more.</a></p>
 ]]></content:encoded>
 <pubDate>Fri, 21 Feb 2025 15:00:04 GMT</pubDate>
-<pubDate>Fri, 21 Feb 2025 15:00:04 GMT</pubDate>
 </item>
 <item>
 <title>ESMA: New Q&amp;As Available</title>
 <link>http://www.mondovisione.com/media-and-resources/news/esma-new-qandas-available-2025221/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/esma-new-qandas-available-2025221/</guid>
 <content:encoded><![CDATA[
-
 <div class="clearfix text-formatted field field--name-field-news-introduction field--type-text-long field--label-hidden field__item">
 <div>
 <div>
@@ -82,14 +356,12 @@
 </div>
 ]]></content:encoded>
 <pubDate>Fri, 21 Feb 2025 15:52:31 GMT</pubDate>
-<pubDate>Fri, 21 Feb 2025 15:52:31 GMT</pubDate>
 </item>
 <item>
 <title>ICE First Look At Mortgage Performance: Foreclosure Starts Jump As VA Moratorium Ends - Wildfire Delinquencies Emerge</title>
 <link>http://www.mondovisione.com/media-and-resources/news/ice-first-look-at-mortgage-performance-foreclosure-starts-jump-as-va-moratorium-2025221/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/ice-first-look-at-mortgage-performance-foreclosure-starts-jump-as-va-moratorium-2025221/</guid>
 <content:encoded><![CDATA[
-
 <div class="bw-subheadline-wrapper">
 <ul class="bwlistdisc">
 <li>Delinquencies fell 24 basis points (bps) to 3.47% in January; that&rsquo;s 10 bps higher than last year, but 33 bps below pre-pandemic levels</li>
@@ -371,9 +643,7 @@
 <p>For more information about gaining access to ICE&rsquo;s loan-level database, please send an email to&nbsp;<a href="mailto:ICE-MortgageMonitor@ice.com" rel="nofollow" shape="rect">ICE-MortgageMonitor@ice.com.</a></p>
 ]]></content:encoded>
 <pubDate>Fri, 21 Feb 2025 14:20:58 GMT</pubDate>
-<pubDate>Fri, 21 Feb 2025 14:20:58 GMT</pubDate>
 </item>
-
 <item>
 <title>Corporate And Municipal CUSIP Request Volumes Decline In January</title>
 <link>http://www.mondovisione.com/media-and-resources/news/corporate-and-municipal-cusip-request-volumes-decline-in-january-2025221/</link>
