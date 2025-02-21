@@ -1521,3 +1521,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [UK Financial Conduct Authority Announces Winners Of Its Economics Research Competition](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-announces-winners-of-its-economics-research-compe-2025221/)
 append_entries: 4
 Finish: 2025-02-21 18:27:59.980208
+------------------------------------------------------
+Started: 2025-02-21 20:21:36.008917
+Existing_entries: 243
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-02-21 20:21:36.934154
