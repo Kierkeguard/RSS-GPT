@@ -1428,3 +1428,24 @@ Existing_entries: 224
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-02-21 06:29:05.203478
+------------------------------------------------------
+Started: 2025-02-21 08:26:10.191052
+Existing_entries: 224
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Living With Complexities: An Asian Perspective On Enhancing Capital Market Resilience - Keynote Speech At The Vietnam State Securities Commission Symposium -  Ms Julia Leung,  Hong Kong Securities And Futures Commission. Chief Executive Officer, 21 February 2025](http://www.mondovisione.com/media-and-resources/news/living-with-complexities-an-asian-perspective-on-enhancing-capital-market-resil-2025221/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NZX Delivers Strong All-Round Performance To Enable Growth](http://www.mondovisione.com/media-and-resources/news/nzx-delivers-strong-all-round-performance-to-enable-growth-2025221/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MKS PAMP Visits The Shanghai Gold Exchange](http://www.mondovisione.com/media-and-resources/news/mks-pamp-visits-the-shanghai-gold-exchange-2025221/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Financial Institutions Support Administration’s Effort To Maintain U.S. Leadership In Digital Assets](http://www.mondovisione.com/media-and-resources/news/financial-institutions-support-administrations-effort-to-maintain-us-leadersh-2025221/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Navigating Inflation Waves: A Phillips Curve Perspective, Federal Reserve Governor Adriana D. Kugler, At The Whittington Lecture, McCourt School Of Public Policy, Georgetown University, Washington, D.C.](http://www.mondovisione.com/media-and-resources/news/navigating-inflation-waves-a-phillips-curve-perspective-federal-reserve-govern-2025221/)
+append_entries: 5
+Finish: 2025-02-21 08:26:11.315770
