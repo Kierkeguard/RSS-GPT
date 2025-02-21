@@ -1449,3 +1449,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Navigating Inflation Waves: A Phillips Curve Perspective, Federal Reserve Governor Adriana D. Kugler, At The Whittington Lecture, McCourt School Of Public Policy, Georgetown University, Washington, D.C.](http://www.mondovisione.com/media-and-resources/news/navigating-inflation-waves-a-phillips-curve-perspective-federal-reserve-govern-2025221/)
 append_entries: 5
 Finish: 2025-02-21 08:26:11.315770
+------------------------------------------------------
+Started: 2025-02-21 10:21:57.996281
+Existing_entries: 229
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX Enhances Stock Settlement Fee Structure For Securities Market](http://www.mondovisione.com/media-and-resources/news/hkex-enhances-stock-settlement-fee-structure-for-securities-market-2025221/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Aiman El-Ramly To Lead Zema Global’s Special Committee On Mergers & Acquisitions](http://www.mondovisione.com/media-and-resources/news/aiman-el-ramly-to-lead-zema-globals-special-committee-on-mergers-and-acquisitions-2025221/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Thematic Peer Review On FSB Global Regulatory Framework For Crypto-Asset Activities](http://www.mondovisione.com/media-and-resources/news/thematic-peer-review-on-fsb-global-regulatory-framework-for-crypto-asset-activit-2025221/)
+append_entries: 3
+Finish: 2025-02-21 10:21:59.011026
