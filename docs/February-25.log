@@ -1485,3 +1485,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Malawi Stock Exchange Weekly Summary Report 21 February 2025](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-21-february-2025-2025221/)
 append_entries: 2
 Finish: 2025-02-21 14:18:08.349609
+------------------------------------------------------
+Started: 2025-02-21 16:26:03.345872
+Existing_entries: 235
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nigerian Exchange Market Report For February 21st, 2025](http://www.mondovisione.com/media-and-resources/news/nigerian-exchange-market-report-for-february-21st-2025-2025221/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER Highlights The Need For Greater Clarity In The Proposed Swedish Gas Transmission Tariff](http://www.mondovisione.com/media-and-resources/news/acer-highlights-the-need-for-greater-clarity-in-the-proposed-swedish-gas-transmi-2025221/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESMA: New Q&As Available](http://www.mondovisione.com/media-and-resources/news/esma-new-qandas-available-2025221/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ICE First Look At Mortgage Performance: Foreclosure Starts Jump As VA Moratorium Ends - Wildfire Delinquencies Emerge](http://www.mondovisione.com/media-and-resources/news/ice-first-look-at-mortgage-performance-foreclosure-starts-jump-as-va-moratorium-2025221/)
+append_entries: 4
+Finish: 2025-02-21 16:26:04.208993
