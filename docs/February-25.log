@@ -1464,3 +1464,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Thematic Peer Review On FSB Global Regulatory Framework For Crypto-Asset Activities](http://www.mondovisione.com/media-and-resources/news/thematic-peer-review-on-fsb-global-regulatory-framework-for-crypto-asset-activit-2025221/)
 append_entries: 3
 Finish: 2025-02-21 10:21:59.011026
+------------------------------------------------------
+Started: 2025-02-21 12:40:22.131694
+Existing_entries: 232
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euronext Lisbon Awards 2025 - Celebrating Excellence In The Portuguese Capital Markets](http://www.mondovisione.com/media-and-resources/news/euronext-lisbon-awards-2025-celebrating-excellence-in-the-portuguese-capital-m-2025221/)
+append_entries: 1
+Finish: 2025-02-21 12:40:23.192535
