@@ -1566,3 +1566,12 @@ Existing_entries: 246
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-02-22 06:28:38.860062
+------------------------------------------------------
+Started: 2025-02-22 08:23:28.191976
+Existing_entries: 246
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [There Must Be Some Way Out Of Here, SEC Commissioner Hester M. Peirce, Feb. 21, 2025](http://www.mondovisione.com/media-and-resources/news/there-must-be-some-way-out-of-here-sec-commissioner-hester-m-peirce-feb-21-2025222/)
+append_entries: 1
+Finish: 2025-02-22 08:23:29.843318
