@@ -1689,3 +1689,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Bybit Incident Update: Unauthorized Activity Involving ETH Cold Wallet](http://www.mondovisione.com/media-and-resources/news/bybit-incident-update-unauthorized-activity-involving-eth-cold-wallet-2025223/)
 append_entries: 2
 Finish: 2025-02-23 18:25:48.366019
+------------------------------------------------------
+Started: 2025-02-23 20:20:44.441075
+Existing_entries: 251
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-02-23 20:20:45.910757
