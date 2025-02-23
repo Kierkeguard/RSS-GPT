@@ -1677,3 +1677,15 @@ Existing_entries: 249
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-02-23 16:22:46.042346
+------------------------------------------------------
+Started: 2025-02-23 18:25:47.305847
+Existing_entries: 249
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bybit’s Update To Security Breach - Full Restoration Of Services & Recovery Progress](http://www.mondovisione.com/media-and-resources/news/bybits-update-to-security-breach-full-restoration-of-services-and-recovery-prog-2025223/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bybit Incident Update: Unauthorized Activity Involving ETH Cold Wallet](http://www.mondovisione.com/media-and-resources/news/bybit-incident-update-unauthorized-activity-involving-eth-cold-wallet-2025223/)
+append_entries: 2
+Finish: 2025-02-23 18:25:48.366019

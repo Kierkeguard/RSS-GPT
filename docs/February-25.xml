@@ -4,6 +4,79 @@
 <title>News Articles</title>
 <link>http://www.mondovisione.com/media-and-resources/news/</link>
 
+<item>
+<title>Bybit’s Update To Security Breach - Full Restoration Of Services &amp; Recovery Progress</title>
+<link>http://www.mondovisione.com/media-and-resources/news/bybits-update-to-security-breach-full-restoration-of-services-and-recovery-prog-2025223/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/bybits-update-to-security-breach-full-restoration-of-services-and-recovery-prog-2025223/</guid>
+<content:encoded><![CDATA[
+
+<p><span>Following yesterday's security incident involving unauthorized activities in our ETH cold wallet, Bybit is pleased to announce the full restoration of services and significant progress in our recovery efforts. Our platform has demonstrated remarkable resilience, processing record-breaking withdrawal volumes while maintaining full operational capacity.</span></p>
+<h2><span>What You Need to Know</span></h2>
+<p><span>Withdrawals Fully Restored</span></p>
+<p><span>Bybit has successfully processed the highest number of withdrawal requests in our history. Within the first 10 hours of the incident, we processed over 350,000 withdrawal requests, completing 99.9% of them by 1:45 AM UTC. As of now, all withdrawals across all tokens are fully operational, with our systems running smoothly and processing without delays. In total, over 580,000 withdrawal requests have been successfully completed.</span><span>&nbsp;</span></p>
+<h4><span>All Bybit Services Fully Operational</span></h4>
+<p><span>Despite facing one of the most significant security incidents in financial history, all Bybit functions and products remain fully operational. Trading, deposits, and other platform services continue to work as usual.</span></p>
+<h4><span>Deposit and Withdrawal Data Back to Normal</span></h4>
+<p><span><img alt="Bybit_22Feb25" src="https://mondovisione.com/_assets/images/Bybit_22Feb25.jpg" title="Bybit_22Feb25" /><br /></span></p>
+<p><span>Deposit and Withdrawal Activity has returned to pre-incident levels. As of February 22, 13:00 UTC, total deposits slightly exceeded total withdrawals, signaling strong market confidence.</span></p>
+<ul>
+<li><span>Custodial funds have fully stabilized:</span>&nbsp;Over the past 12 hours, withdrawal requests have been minimal, reflecting trust in Bybit's custody and exchange operations.</li>
+<li><span>Client confidence remains strong:</span>&nbsp;An aggregated deposit of crypto assets valued at approximately $1.5 billion has been observed, further reinforcing our platform's reliability.</li>
+</ul>
+<h4><span>Trading Activities Resumed Normalcy</span></h4>
+<p><span>Following the incident at 15:00 UTC+8 on February 21, trading volumes initially spiked as users closed positions and reallocated assets. However, trading volumes have since stabilized, and there is no longer any abnormal liquidation or asset sell-off activity. Bybit&rsquo;s trading environment has returned to pre-incident levels.</span></p>
+<h4><span>Recovery Progress</span></h4>
+<p><span>Bybit has been working closely with the mETH Protocol to recover assets. Through administrative collaboration, the Mantle-powered mETH Protocol successfully retrieved 15,000 cmETH, valued at approximately $42.76 million. Earlier today, mETH Protocol confirmed that cmETH withdrawals have been fully restored.</span></p>
+<h4><span>Our Commitment to Users</span></h4>
+<p><span>Our team has worked tirelessly, ensuring withdrawals are processed efficiently, reinforcing security measures, and providing immediate support to our users. Bybit remains fully committed to transparency, security, and operational excellence. Your trust is our top priority, and we will continue to enhance our security infrastructure to prevent future incidents.</span><span>If you have any concerns or need assistance, please reach out to our Customer Support team via official channels.</span></p>
+<h4><span>A Heartfelt Thank You to Our Community</span></h4>
+<p><span>Bybit is deeply grateful for the overwhelming support from our partners, industry friends, and users during this critical time.</span><span>To everyone who offered help&mdash;thank you. Your solidarity has demonstrated the strength of the crypto industry in times of adversity. Together, we will emerge stronger.</span></p>
+<p><span>Thank you for standing with us.</span></p>
+<p>&nbsp;</p>
+]]></content:encoded>
+<pubDate>Sun, 23 Feb 2025 17:16:37 GMT</pubDate>
+<pubDate>Sun, 23 Feb 2025 17:16:37 GMT</pubDate>
+</item>
+<item>
+<title>Bybit Incident Update: Unauthorized Activity Involving ETH Cold Wallet</title>
+<link>http://www.mondovisione.com/media-and-resources/news/bybit-incident-update-unauthorized-activity-involving-eth-cold-wallet-2025223/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/bybit-incident-update-unauthorized-activity-involving-eth-cold-wallet-2025223/</guid>
+<content:encoded><![CDATA[
+
+<h3><span>What happened:</span></h3>
+<p>On February 21, 2025, at approximately 12:30 PM UTC , Bybit detected unauthorized activity within one of our Ethereum (ETH) Cold Wallets during a routine transfer process. The transfer was part of a scheduled move of ETH from our ETH Multisig Cold Wallet to our Hot Wallet. Unfortunately, the transaction was manipulated by a sophisticated attack that altered the smart contract logic and masked the signing interface, enabling the attacker to gain control of the ETH Cold Wallet. As a result, over 400,000 ETH and stETH worth more than $1.5 billion were transferred to an unidentified address.</p>
+<p>&nbsp;</p>
+<h3><span>What was the impact:</span></h3>
+<p><span>
+<p>&nbsp;</p>
+</span></p>
+<ul>
+<li><span>Stolen funds:</span>&nbsp;Over $1.5 billion worth of ETH and stETH have been compromised.</li>
+<li><span>Cause:</span>&nbsp;A manipulation of the transfer process in our ETH Multisig Cold Wallet during a planned routine transfer.</li>
+</ul>
+<h3><span>What You Need to Know:</span></h3>
+<ul>
+<li><span>All Other Cold Wallets Are Secure:</span>&nbsp;We want to reassure you that all other Bybit Cold Wallets are safe, and client funds are unaffected and remain secure.</li>
+<li><span>Withdrawals Are Not Halted:</span>&nbsp;We understand that the current situation has led to a surge in withdrawal requests. Although this high volume may result in delays, please be assured that all withdrawals are being processed as normal.</li>
+<li><span>1:1 Asset Backing:</span>&nbsp;We want to emphasize that Bybit&rsquo;s reserves are strong and 1:1 backed. All client assets are fully secured, and we are committed to maintaining the integrity of our platform. You can review our Proof of Reserves (PoR) on our&nbsp;<a href="https://www.bybit.com/app/user/reserve-ratio" rel="noreferrer" target="_blank">PoR webpage.</a></li>
+</ul>
+<p>We want to reassure our users that this was an isolated incident involving only the ETH Cold Wallet. All other cold wallets and assets, including BTC, remain secure, and client funds are unaffected.</p>
+<h3><span>What Bybit is doing about it:</span></h3>
+<p><span>We are working alongside leading blockchain forensic experts to trace the stolen funds and resolve the situation. Our security team is investigating the root cause, with particular attention being given to a potential vulnerability in the user interface of the Safe.global platform, which may have been exploited during the transaction process.</span></p>
+<ul>
+<li>Withdrawals are functioning normally, with 70% of pending requests already processed. Some delays may occur due to high volume, but this does not impact your ability to access funds.</li>
+<li>Bybit has more than enough assets to cover the loss, with AUM exceeding $20 billion, and will use a bridge loan if necessary to ensure the availability of user funds.</li>
+<li>Our platform and all other services, including trading products, cards, and P2P, are fully operational.</li>
+</ul>
+<p>&nbsp;</p>
+<p><span>We are taking all necessary steps to prevent any further unauthorized activity, and will continue to update our users regularly through our official channels.</span><span>&nbsp;</span></p>
+<h3><span>How Bybit can help you:</span></h3>
+<p>We remain fully committed to the security of your funds and the integrity of our platform. If you have any concerns or questions, please reach out to our Customer Support team via Live Chat or through our official support channels. We sincerely appreciate your continued trust and understanding. We will provide further updates as our investigation progresses.</p>
+<p><span>Thank you for being part of the Bybit community.</span></p>
+]]></content:encoded>
+<pubDate>Sun, 23 Feb 2025 17:07:50 GMT</pubDate>
+<pubDate>Sun, 23 Feb 2025 17:07:50 GMT</pubDate>
+</item>
 
 <item>
 <title>Qatar Stock Exchange - FTSE Global Equity Index Series March 2025 Semiannual Review Changes</title>
