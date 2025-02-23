@@ -1653,3 +1653,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Amman Stock Exchange - Rescheduling Trading Hours For The Upcoming Three Days: Sunday, Monday, And Tuesday Due To The Expected Weather Conditions](http://www.mondovisione.com/media-and-resources/news/amman-stock-exchange-rescheduling-trading-hours-for-the-upcoming-three-days-s-2025223/)
 append_entries: 2
 Finish: 2025-02-23 08:24:56.610373
+------------------------------------------------------
+Started: 2025-02-23 10:20:57.126364
+Existing_entries: 249
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-02-23 10:20:58.164285
