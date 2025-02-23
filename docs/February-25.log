@@ -1641,3 +1641,15 @@ Existing_entries: 247
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-02-23 06:27:07.761442
+------------------------------------------------------
+Started: 2025-02-23 08:24:55.286863
+Existing_entries: 247
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Qatar Stock Exchange - FTSE Global Equity Index Series March 2025 Semiannual Review Changes](http://www.mondovisione.com/media-and-resources/news/qatar-stock-exchange-ftse-global-equity-index-series-march-2025-semiannual-rev-2025223/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Amman Stock Exchange - Rescheduling Trading Hours For The Upcoming Three Days: Sunday, Monday, And Tuesday Due To The Expected Weather Conditions](http://www.mondovisione.com/media-and-resources/news/amman-stock-exchange-rescheduling-trading-hours-for-the-upcoming-three-days-s-2025223/)
+append_entries: 2
+Finish: 2025-02-23 08:24:56.610373
