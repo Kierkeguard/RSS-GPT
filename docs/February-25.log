@@ -1768,3 +1768,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Mastercard Move And ACE Money Transfer Make Sending Money Across Borders Easier And Faster - The Collaboration Will Enable Users In The UK, Australia, Canada And Europe To Send Funds In Near Real-Time To Beneficiaries In India, Norway, Denmark, Sweden, And SEPA Countries.](http://www.mondovisione.com/media-and-resources/news/mastercard-move-and-ace-money-transfer-make-sending-money-across-borders-easier-2025224/)
 append_entries: 2
 Finish: 2025-02-24 12:41:52.609102
+------------------------------------------------------
+Started: 2025-02-24 14:20:31.274144
+Existing_entries: 260
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group And DTCC To Enhance Existing Cross-Margining Arrangement, Extending Benefits To End Users In December 2025](http://www.mondovisione.com/media-and-resources/news/cme-group-and-dtcc-to-enhance-existing-cross-margining-arrangement-extending-be-2025224/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bank Of England: Dr. Swati Dhingra Reappointed To The Monetary Policy Committee](http://www.mondovisione.com/media-and-resources/news/bank-of-england-dr-swati-dhingra-reappointed-to-the-monetary-policy-committee-2025224/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Amman Stock Exchange: The First In The Middle East To Launch A Climate-Related Disclosure Regulatory Framework And Guidance](http://www.mondovisione.com/media-and-resources/news/amman-stock-exchange-the-first-in-the-middle-east-to-launch-a-climate-related-d-2025224/)
+append_entries: 3
+Finish: 2025-02-24 14:20:32.106924
