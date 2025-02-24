@@ -1734,3 +1734,25 @@ Existing_entries: 252
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-02-24 08:27:45.718706
+------------------------------------------------------
+Started: 2025-02-24 10:23:12.869613
+Existing_entries: 252
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nordnet AB Selects Shareholder Disclosure Solution From Broadridge](http://www.mondovisione.com/media-and-resources/news/nordnet-ab-selects-shareholder-disclosure-solution-from-broadridge-2025224/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Saxo Sees Boom In UK Client Numbers Following New Pricing](http://www.mondovisione.com/media-and-resources/news/saxo-sees-boom-in-uk-client-numbers-following-new-pricing-2025224/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FSB Chair Calls For Renewed Focus On Implementation](http://www.mondovisione.com/media-and-resources/news/fsb-chair-calls-for-renewed-focus-on-implementation-2025224/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Finds Vast Majority Of Ongoing Suitability Reviews Delivered](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-finds-vast-majority-of-ongoing-suitability-review-2025224/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Stockholm Welcomes Montrose By Carnegie As New ETF Provider](http://www.mondovisione.com/media-and-resources/news/nasdaq-stockholm-welcomes-montrose-by-carnegie-as-new-etf-provider-2025224/)
+Append: [UK VC Funding Up By 43.5% YoY To $1.2 Billion In January 2025 Despite Fewer Deals, Finds GlobalData](http://www.mondovisione.com/media-and-resources/news/uk-vc-funding-up-by-435-yoy-to-12-billion-in-january-2025-despite-fewer-deal-2025224/)
+append_entries: 6
+Finish: 2025-02-24 10:23:14.438641
