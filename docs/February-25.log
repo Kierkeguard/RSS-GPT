@@ -1783,3 +1783,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Amman Stock Exchange: The First In The Middle East To Launch A Climate-Related Disclosure Regulatory Framework And Guidance](http://www.mondovisione.com/media-and-resources/news/amman-stock-exchange-the-first-in-the-middle-east-to-launch-a-climate-related-d-2025224/)
 append_entries: 3
 Finish: 2025-02-24 14:20:32.106924
+------------------------------------------------------
+Started: 2025-02-24 16:27:46.260910
+Existing_entries: 263
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Remarks At The Florida Bar’s 41st Annual Federal Securities Institute And M&A Conference, Mark T. Uyeda, SEC Acting Chairman](http://www.mondovisione.com/media-and-resources/news/remarks-at-the-florida-bars-41st-annual-federal-securities-institute-and-manda-co-2025224/)
+append_entries: 1
+Finish: 2025-02-24 16:27:47.473225
