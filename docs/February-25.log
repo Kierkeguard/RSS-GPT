@@ -1792,3 +1792,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Remarks At The Florida Bar’s 41st Annual Federal Securities Institute And M&A Conference, Mark T. Uyeda, SEC Acting Chairman](http://www.mondovisione.com/media-and-resources/news/remarks-at-the-florida-bars-41st-annual-federal-securities-institute-and-manda-co-2025224/)
 append_entries: 1
 Finish: 2025-02-24 16:27:47.473225
+------------------------------------------------------
+Started: 2025-02-24 18:29:19.638053
+Existing_entries: 264
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Borsa Istanbul: Uptick Rule Will Be Applied In The Session Dated 24 February 2025 in the Equity Market](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-uptick-rule-will-be-applied-in-the-session-dated-24-february-202-2025224/)
+append_entries: 1
+Finish: 2025-02-24 18:29:20.695450
