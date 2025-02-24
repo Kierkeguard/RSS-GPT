@@ -1756,3 +1756,15 @@ Append: [Nasdaq Stockholm Welcomes Montrose By Carnegie As New ETF Provider](htt
 Append: [UK VC Funding Up By 43.5% YoY To $1.2 Billion In January 2025 Despite Fewer Deals, Finds GlobalData](http://www.mondovisione.com/media-and-resources/news/uk-vc-funding-up-by-435-yoy-to-12-billion-in-january-2025-despite-fewer-deal-2025224/)
 append_entries: 6
 Finish: 2025-02-24 10:23:14.438641
+------------------------------------------------------
+Started: 2025-02-24 12:41:51.755914
+Existing_entries: 258
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Chartered Status Is The Key To A Long, Successful Career In Financial Services, Building Confidence And Trust For Consumers, Says CISI](http://www.mondovisione.com/media-and-resources/news/chartered-status-is-the-key-to-a-long-successful-career-in-financial-services-2025224/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Mastercard Move And ACE Money Transfer Make Sending Money Across Borders Easier And Faster - The Collaboration Will Enable Users In The UK, Australia, Canada And Europe To Send Funds In Near Real-Time To Beneficiaries In India, Norway, Denmark, Sweden, And SEPA Countries.](http://www.mondovisione.com/media-and-resources/news/mastercard-move-and-ace-money-transfer-make-sending-money-across-borders-easier-2025224/)
+append_entries: 2
+Finish: 2025-02-24 12:41:52.609102
