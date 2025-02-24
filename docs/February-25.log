@@ -1801,3 +1801,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Borsa Istanbul: Uptick Rule Will Be Applied In The Session Dated 24 February 2025 in the Equity Market](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-uptick-rule-will-be-applied-in-the-session-dated-24-february-202-2025224/)
 append_entries: 1
 Finish: 2025-02-24 18:29:20.695450
+------------------------------------------------------
+Started: 2025-02-24 20:23:24.776978
+Existing_entries: 265
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The EBA Finds Progress In Availability And Accessibility Of Data Used To Identify And Qualify Environmental, Social And Governance Risks But Data Landscape Remains Incomplete](http://www.mondovisione.com/media-and-resources/news/the-eba-finds-progress-in-availability-and-accessibility-of-data-used-to-identif-2025224/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Dr. Swati Dhingra Reappointed To The Bank Of England Monetary Policy Committee](http://www.mondovisione.com/media-and-resources/news/dr-swati-dhingra-reappointed-to-the-bank-of-england-monetary-policy-committee-2025224/)
+append_entries: 2
+Finish: 2025-02-24 20:23:26.214887
