@@ -1813,3 +1813,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Dr. Swati Dhingra Reappointed To The Bank Of England Monetary Policy Committee](http://www.mondovisione.com/media-and-resources/news/dr-swati-dhingra-reappointed-to-the-bank-of-england-monetary-policy-committee-2025224/)
 append_entries: 2
 Finish: 2025-02-24 20:23:26.214887
+------------------------------------------------------
+Started: 2025-02-24 22:19:49.050175
+Existing_entries: 267
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq CFO Sarah Youngwood To Present At The Morgan Stanley Technology, Media & Telecom Conference](http://www.mondovisione.com/media-and-resources/news/nasdaq-cfo-sarah-youngwood-to-present-at-the-morgan-stanley-technology-media-and-2025224/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Swaps Report Update](http://www.mondovisione.com/media-and-resources/news/cftc-swaps-report-update-2025224/)
+append_entries: 2
+Finish: 2025-02-24 22:19:50.099908
