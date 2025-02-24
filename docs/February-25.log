@@ -1728,3 +1728,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Dubai And DIFC Selected To Host 2026 Global Privacy Assembly](http://www.mondovisione.com/media-and-resources/news/dubai-and-difc-selected-to-host-2026-global-privacy-assembly-2025224/)
 append_entries: 1
 Finish: 2025-02-24 06:30:52.706701
+------------------------------------------------------
+Started: 2025-02-24 08:27:44.667504
+Existing_entries: 252
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-02-24 08:27:45.718706
