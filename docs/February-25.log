@@ -1934,3 +1934,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Borsa Istanbul: Uptick Rule Will Be Applied In The Session Dated 25 February 2025 In The Equity Market](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-uptick-rule-will-be-applied-in-the-session-dated-25-february-202-2025225/)
 append_entries: 3
 Finish: 2025-02-25 18:29:34.473997
+------------------------------------------------------
+Started: 2025-02-25 20:22:49.104774
+Existing_entries: 286
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq, Inc. Announces Pricing Of Cash Tender Offers And Acceptance Of $218 Million Outstanding Debt Securities](http://www.mondovisione.com/media-and-resources/news/nasdaq-inc-announces-pricing-of-cash-tender-offers-and-acceptance-of-218-mill-2025225/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Remarks To The Small Business Capital Formation Advisory Committee, Mark T. Uyeda, SEC Acting Chairman, Washington D.C., Feb. 25, 2025](http://www.mondovisione.com/media-and-resources/news/remarks-to-the-small-business-capital-formation-advisory-committee-mark-t-uyed-2025225/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Hurdles: Remarks Before The Small Business Capital Formation Advisory Committee, SEC Commissioner Hester M. Peirce, Washington D.C., Feb. 25, 2025](http://www.mondovisione.com/media-and-resources/news/hurdles-remarks-before-the-small-business-capital-formation-advisory-committee-2025225/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Managing Financial Crises, Federal Reserve Vice Chair for Supervision Michael S. Barr, At Yale School of Management, Program on Financial Stability, New Haven, Connecticut](http://www.mondovisione.com/media-and-resources/news/managing-financial-crises-federal-reserve-vice-chair-for-supervision-michael-s-2025225/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ISDA Treasury Clearing Panel Frankfurt, February 25, 2025, Welcoming Remarks, Scott O’Malia, ISDA Chief Executive Officer](http://www.mondovisione.com/media-and-resources/news/isda-treasury-clearing-panel-frankfurt-february-25-2025-welcoming-remarks-sc-2025225/)
+append_entries: 5
+Finish: 2025-02-25 20:22:50.593767
