@@ -1910,3 +1910,12 @@ Append: [Welcoming Remarks: Dato’ Mohammad Faiz Azmi Chairman, Securities Comm
 Append: [Digital Transformation Policies At TSE Cut Bureaucracy - Tehran Securities Exchange (TSE) Holds A Training Session On New Integrated Trading System (CEBA)](http://www.mondovisione.com/media-and-resources/news/digital-transformation-policies-at-tse-cut-bureaucracy-tehran-securities-excha-2025225/)
 append_entries: 6
 Finish: 2025-02-25 14:20:24.632820
+------------------------------------------------------
+Started: 2025-02-25 16:27:20.371155
+Existing_entries: 282
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group Announces First Trades Of Options On Bitcoin Friday Futures](http://www.mondovisione.com/media-and-resources/news/cme-group-announces-first-trades-of-options-on-bitcoin-friday-futures-2025225/)
+append_entries: 1
+Finish: 2025-02-25 16:27:21.257436
