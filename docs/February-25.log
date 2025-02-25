@@ -1855,3 +1855,21 @@ Existing_entries: 271
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-02-25 06:29:44.066676
+------------------------------------------------------
+Started: 2025-02-25 08:27:22.952454
+Existing_entries: 271
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tehran Securities Exchange Weekly Market Snapshot 19 Feb  2025](http://www.mondovisione.com/media-and-resources/news/tehran-securities-exchange-weekly-market-snapshot-19-feb-2025-2025225/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ADX Unveils "The ADX Group” To Further Advance Abu Dhabi’s Investment Landscape With Innovation & Global Connectivity](http://www.mondovisione.com/media-and-resources/news/adx-unveils-the-adx-group-to-further-advance-abu-dhabis-investment-landscape-2025225/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Makes New Clearing And Settlement Rules To Promote Competition](http://www.mondovisione.com/media-and-resources/news/asic-makes-new-clearing-and-settlement-rules-to-promote-competition-2025225/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Launch Of Using CONNEQTOR In “Tokai Tokyo Discretionary Investment Management Service” Provided By Tokai Tokyo Securities Co., Ltd.](http://www.mondovisione.com/media-and-resources/news/launch-of-using-conneqtor-in-tokai-tokyo-discretionary-investment-management-se-2025225/)
+append_entries: 4
+Finish: 2025-02-25 08:27:23.879133
