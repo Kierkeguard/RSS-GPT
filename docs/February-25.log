@@ -1955,3 +1955,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ISDA Treasury Clearing Panel Frankfurt, February 25, 2025, Welcoming Remarks, Scott O’Malia, ISDA Chief Executive Officer](http://www.mondovisione.com/media-and-resources/news/isda-treasury-clearing-panel-frankfurt-february-25-2025-welcoming-remarks-sc-2025225/)
 append_entries: 5
 Finish: 2025-02-25 20:22:50.593767
+------------------------------------------------------
+Started: 2025-02-25 22:19:38.995517
+Existing_entries: 291
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Commissioner Goldsmith Romero To Speak On Regulator Panel At The International Futures Industry Conference 2025](http://www.mondovisione.com/media-and-resources/news/cftc-commissioner-goldsmith-romero-to-speak-on-regulator-panel-at-the-internatio-2025225/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Treasury Department Announces New Appointments](http://www.mondovisione.com/media-and-resources/news/us-treasury-department-announces-new-appointments-2025225/)
+append_entries: 2
+Finish: 2025-02-25 22:19:39.892373
