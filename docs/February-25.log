@@ -1879,3 +1879,12 @@ Existing_entries: 275
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-02-25 10:22:54.297642
+------------------------------------------------------
+Started: 2025-02-25 12:41:32.589581
+Existing_entries: 275
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SET Seeks Market Consultation On Revised Free Float Requirements For New Listings Of Large Companies On SET and mai Until March 18, 2025](http://www.mondovisione.com/media-and-resources/news/set-seeks-market-consultation-on-revised-free-float-requirements-for-new-listing-2025225/)
+append_entries: 1
+Finish: 2025-02-25 12:41:33.414781
