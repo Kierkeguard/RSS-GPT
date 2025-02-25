@@ -1837,3 +1837,15 @@ Existing_entries: 269
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-02-25 02:54:29.697153
+------------------------------------------------------
+Started: 2025-02-25 04:25:12.699539
+Existing_entries: 269
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq, Inc. Announces Early Results Of Cash Tender Offers For Up To $218 Million Outstanding Debt Securities](http://www.mondovisione.com/media-and-resources/news/nasdaq-inc-announces-early-results-of-cash-tender-offers-for-up-to-218-millio-2025225/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MarketAxess To Participate In The Raymond James 2025 Institutional Investors Conference](http://www.mondovisione.com/media-and-resources/news/marketaxess-to-participate-in-the-raymond-james-2025-institutional-investors-con-2025225/)
+append_entries: 2
+Finish: 2025-02-25 04:25:13.559386
