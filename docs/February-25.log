@@ -1991,3 +1991,29 @@ Existing_entries: 293
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-02-26 06:29:53.246842
+------------------------------------------------------
+Started: 2025-02-26 08:27:42.168389
+Existing_entries: 293
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MNI Indicators: MNI China Money Market Index™ – February Conditions Ease](http://www.mondovisione.com/media-and-resources/news/mni-indicators-mni-china-money-market-index-february-conditions-ease-2025226/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Thailand Securities Depository Unveils Modernized Counter Services For Enhanced Efficiency And Convenience](http://www.mondovisione.com/media-and-resources/news/thailand-securities-depository-unveils-modernized-counter-services-for-enhanced-2025226/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX Welcomes HKSAR Government’s Budget Measures](http://www.mondovisione.com/media-and-resources/news/hkex-welcomes-hksar-governments-budget-measures-2025226/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASX Welcomes ASIC Discussion Paper](http://www.mondovisione.com/media-and-resources/news/asx-welcomes-asic-discussion-paper-2025226/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Monetary Authority Of Singapore: Civil Penalty Actions Taken Against Five Individuals For False And Unauthorised Trading](http://www.mondovisione.com/media-and-resources/news/monetary-authority-of-singapore-civil-penalty-actions-taken-against-five-indivi-2025226/)
+Append: [ASIC: Advancing Australia’s Regulatory Roadmap For Public And Private Capital Markets](http://www.mondovisione.com/media-and-resources/news/asic-advancing-australias-regulatory-roadmap-for-public-and-private-capital-ma-2025226/)
+Append: [HKEX Welcomes Listing Of New Flagship ETF](http://www.mondovisione.com/media-and-resources/news/hkex-welcomes-listing-of-new-flagship-etf-2025226/)
+Append: [Japan Exchange Group: Candidates For Directors And Executive Officers, Etc.](http://www.mondovisione.com/media-and-resources/news/japan-exchange-group-candidates-for-directors-and-executive-officers-etc-2025226/)
+Append: [SIFMA Statement On SEC Extension Of Compliance Dates For Treasury Clearing](http://www.mondovisione.com/media-and-resources/news/sifma-statement-on-sec-extension-of-compliance-dates-for-treasury-clearing-2025226/)
+Append: [SEC Extends Compliance Dates And Provides Temporary Exemption For Rule Related To Clearing Of U.S. Treasury Securities](http://www.mondovisione.com/media-and-resources/news/sec-extends-compliance-dates-and-provides-temporary-exemption-for-rule-related-t-2025226/)
+append_entries: 10
+Finish: 2025-02-26 08:27:43.136176
