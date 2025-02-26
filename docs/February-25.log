@@ -2088,3 +2088,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [A Clean Industrial Deal For Competitiveness And Decarbonisation In The EU](http://www.mondovisione.com/media-and-resources/news/a-clean-industrial-deal-for-competitiveness-and-decarbonisation-in-the-eu-2025226/)
 append_entries: 5
 Finish: 2025-02-26 20:23:09.354139
+------------------------------------------------------
+Started: 2025-02-26 22:19:53.621406
+Existing_entries: 320
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NYSE Group Consolidated Short Interest Report](http://www.mondovisione.com/media-and-resources/news/nyse-group-consolidated-short-interest-report-2025226/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Announces Mid-Month Open Short Interest Positions In Nasdaq Stocks As Of Settlement Date February 14, 2025](http://www.mondovisione.com/media-and-resources/news/nasdaq-announces-mid-month-open-short-interest-positions-in-nasdaq-stocks-as-of-2025226/)
+append_entries: 2
+Finish: 2025-02-26 22:19:54.617166
