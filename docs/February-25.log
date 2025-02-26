@@ -2067,3 +2067,24 @@ Existing_entries: 315
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-02-26 18:29:24.954792
+------------------------------------------------------
+Started: 2025-02-26 20:23:08.458118
+Existing_entries: 315
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Charges Alan Burak, Founder Of Never Alone Capital, With Fraud](http://www.mondovisione.com/media-and-resources/news/sec-charges-alan-burak-founder-of-never-alone-capital-with-fraud-2025226/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIFMA Releases Compendium On Fixed Income Market Structure](http://www.mondovisione.com/media-and-resources/news/sifma-releases-compendium-on-fixed-income-market-structure-2025226/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ISDA derivatiViews: A Welcome Extension On US Treasury Clearing](http://www.mondovisione.com/media-and-resources/news/isda-derivativiews-a-welcome-extension-on-us-treasury-clearing-2025226/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Between A Shock And A Hard Place: Trade Fragmentation And Monetary Policy – Speech By Swati Dhingra, Bank Of England, Member Of The Monetary Policy Committee, Given At The 2025 Dow Lecture, National Institute Of Economic And Social Research](http://www.mondovisione.com/media-and-resources/news/between-a-shock-and-a-hard-place-trade-fragmentation-and-monetary-policy-spee-2025226/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [A Clean Industrial Deal For Competitiveness And Decarbonisation In The EU](http://www.mondovisione.com/media-and-resources/news/a-clean-industrial-deal-for-competitiveness-and-decarbonisation-in-the-eu-2025226/)
+append_entries: 5
+Finish: 2025-02-26 20:23:09.354139
