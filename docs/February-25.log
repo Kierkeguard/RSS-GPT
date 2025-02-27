@@ -2175,3 +2175,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Zelig Advises Mosaic Smart Data On Its Sale To Behavox](http://www.mondovisione.com/media-and-resources/news/zelig-advises-mosaic-smart-data-on-its-sale-to-behavox-2025227/)
 append_entries: 4
 Finish: 2025-02-27 12:41:35.189439
+------------------------------------------------------
+Started: 2025-02-27 14:20:01.743983
+Existing_entries: 333
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [First Community Credit Union Selects The Fiserv Award-Winning DNA Platform To Stay On Cutting Edge Of Banking Technology - Market-Leading Core Account Processing Platform, DNA, Recognized With xCelent Advanced Technology Award For Best-In-Class Technology Architecture](http://www.mondovisione.com/media-and-resources/news/first-community-credit-union-selects-the-fiserv-award-winning-dna-platform-to-st-2025227/)
+append_entries: 1
+Finish: 2025-02-27 14:20:02.647524
