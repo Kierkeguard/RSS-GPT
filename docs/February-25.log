@@ -2184,3 +2184,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [First Community Credit Union Selects The Fiserv Award-Winning DNA Platform To Stay On Cutting Edge Of Banking Technology - Market-Leading Core Account Processing Platform, DNA, Recognized With xCelent Advanced Technology Award For Best-In-Class Technology Architecture](http://www.mondovisione.com/media-and-resources/news/first-community-credit-union-selects-the-fiserv-award-winning-dna-platform-to-st-2025227/)
 append_entries: 1
 Finish: 2025-02-27 14:20:02.647524
+------------------------------------------------------
+Started: 2025-02-27 16:28:00.081278
+Existing_entries: 334
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Promoting Responsible Innovation Through The Novel Activities Program, Federal Reserve Vice Chair For Supervision Michael S. Barr, At Alliance For Innovative Regulation, Washington, D.C.](http://www.mondovisione.com/media-and-resources/news/promoting-responsible-innovation-through-the-novel-activities-program-federal-r-2025227/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TMX Group Welcomes International Mining Community To PDAC 2025 - Toronto Stock Exchange (TSX) And TSX Venture Exchange (TSXV) Are Proud Sponsors](http://www.mondovisione.com/media-and-resources/news/tmx-group-welcomes-international-mining-community-to-pdac-2025-toronto-stock-e-2025227/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Fiserv To Present At Upcoming Investor Conferences](http://www.mondovisione.com/media-and-resources/news/fiserv-to-present-at-upcoming-investor-conferences-2025227/)
+append_entries: 3
+Finish: 2025-02-27 16:28:01.038771
