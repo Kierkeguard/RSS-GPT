@@ -2157,3 +2157,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [London Stock Exchange Group Plc Preliminary Results For The Year Ended 31 December 2024 - Strong Growth, Accelerating Product Innovation, Significant Margin Improvement, Equity Free Cash Flow £2.2 Billion; Positive Outlook For 2025](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-preliminary-results-for-the-year-ended-31-decemb-2025227/)
 append_entries: 3
 Finish: 2025-02-27 10:22:36.296897
+------------------------------------------------------
+Started: 2025-02-27 12:41:34.244355
+Existing_entries: 329
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER Will Decide On The Electricity Market Coupling Integration Plan For The Energy Community](http://www.mondovisione.com/media-and-resources/news/acer-will-decide-on-the-electricity-market-coupling-integration-plan-for-the-ene-2025227/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX Consolidated Financial Statements For The Year Ended 31 December 2024](http://www.mondovisione.com/media-and-resources/news/hkex-consolidated-financial-statements-for-the-year-ended-31-december-2024-2025227/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Markus Röhrig Joins Management Team Of Boerse Stuttgart Group As Chief Growth Officer - Appointment Underlines Growth Ambitions - Experienced Mckinsey Manager With Extensive Expertise To Manage The Group's Sales Activities](http://www.mondovisione.com/media-and-resources/news/markus-rhrig-joins-management-team-of-boerse-stuttgart-group-as-chief-growth-of-2025227/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Zelig Advises Mosaic Smart Data On Its Sale To Behavox](http://www.mondovisione.com/media-and-resources/news/zelig-advises-mosaic-smart-data-on-its-sale-to-behavox-2025227/)
+append_entries: 4
+Finish: 2025-02-27 12:41:35.189439
