@@ -2142,3 +2142,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [HKEX 2024 Full Year Results](http://www.mondovisione.com/media-and-resources/news/hkex-2024-full-year-results-2025227/)
 append_entries: 1
 Finish: 2025-02-27 08:27:03.370365
+------------------------------------------------------
+Started: 2025-02-27 10:22:35.362110
+Existing_entries: 326
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Gordian Knot Of Growth, Speech By Nikhil Rathi, Chief Executive, UK Financial Conduct Authority, At The Association Of British Insurers Roundtable](http://www.mondovisione.com/media-and-resources/news/the-gordian-knot-of-growth-speech-by-nikhil-rathi-chief-executive-uk-financia-2025227/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Market Data Pricing Inflation ‘Unsustainable’ As Cost Hikes Outpace Budgets, New Research Finds](http://www.mondovisione.com/media-and-resources/news/market-data-pricing-inflation-unsustainable-as-cost-hikes-outpace-budgets-new-2025227/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group Plc Preliminary Results For The Year Ended 31 December 2024 - Strong Growth, Accelerating Product Innovation, Significant Margin Improvement, Equity Free Cash Flow £2.2 Billion; Positive Outlook For 2025](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-preliminary-results-for-the-year-ended-31-decemb-2025227/)
+append_entries: 3
+Finish: 2025-02-27 10:22:36.296897
