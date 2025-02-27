@@ -2199,3 +2199,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Fiserv To Present At Upcoming Investor Conferences](http://www.mondovisione.com/media-and-resources/news/fiserv-to-present-at-upcoming-investor-conferences-2025227/)
 append_entries: 3
 Finish: 2025-02-27 16:28:01.038771
+------------------------------------------------------
+Started: 2025-02-27 18:29:40.726024
+Existing_entries: 337
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Community Banking, Federal Reserve Governor Michelle W. Bowman, At The Robbins Banking Institute Lecture Series, Hays, Kansas](http://www.mondovisione.com/media-and-resources/news/community-banking-federal-reserve-governor-michelle-w-bowman-at-the-robbins-b-2025227/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Comment On PISCES Presenting As A Solution Looking For A Problem](http://www.mondovisione.com/media-and-resources/news/comment-on-pisces-presenting-as-a-solution-looking-for-a-problem-2025227/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Finansinspektionen Analysis No. 48: Share Of Consumer Credit Debt Registered With Swedish Enforcement Authority Increases During Economic Downturns](http://www.mondovisione.com/media-and-resources/news/finansinspektionen-analysis-no-48-share-of-consumer-credit-debt-registered-wit-2025227/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [IMF Managing Director Kristalina Georgieva’s Statement At The Conclusion Of The First Meeting Of The G20 Finance Ministers And Central Bank Governors](http://www.mondovisione.com/media-and-resources/news/imf-managing-director-kristalina-georgievas-statement-at-the-conclusion-of-the-2025227/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Dubai Financial Services Authority Continues To Strengthen Market Engagement With Significant 31% Growth In Authorisations In 2024](http://www.mondovisione.com/media-and-resources/news/dubai-financial-services-authority-continues-to-strengthen-market-engagement-wit-2025227/)
+append_entries: 5
+Finish: 2025-02-27 18:29:42.068833
