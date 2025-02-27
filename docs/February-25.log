@@ -2118,3 +2118,18 @@ Existing_entries: 322
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-02-27 04:25:03.777244
+------------------------------------------------------
+Started: 2025-02-27 06:29:47.922402
+Existing_entries: 322
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Senate Economics Legislation Committee, 2024-2025 Additional Budget Estimates - Opening Statement By ASIC Chair Joe Longo At The Senate Economics Legislation Committee, 2024-2025 Additional Budget Estimates, 27 February 2025](http://www.mondovisione.com/media-and-resources/news/senate-economics-legislation-committee-2024-2025-additional-budget-estimates-2025227/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Office Of The Comptroller Of The Currency Reports Security Incident Involving Email System](http://www.mondovisione.com/media-and-resources/news/us-office-of-the-comptroller-of-the-currency-reports-security-incident-involving-2025227/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIFMA Statement On House Passage Of Budget Resolution](http://www.mondovisione.com/media-and-resources/news/sifma-statement-on-house-passage-of-budget-resolution-2025227/)
+append_entries: 3
+Finish: 2025-02-27 06:29:49.192472
