@@ -2238,3 +2238,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Bjørn Sibbern Is Appointed As New Chairman Of BME](http://www.mondovisione.com/media-and-resources/news/bjrn-sibbern-is-appointed-as-new-chairman-of-bme-2025227/)
 append_entries: 4
 Finish: 2025-02-27 20:23:11.492811
+------------------------------------------------------
+Started: 2025-02-27 22:21:13.670160
+Existing_entries: 346
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Staff Statement On Meme Coins, SEC Division Of Corporation Finance](http://www.mondovisione.com/media-and-resources/news/staff-statement-on-meme-coins-sec-division-of-corporation-finance-2025227/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Announces Dismissal Of Civil Enforcement Action Against Coinbase](http://www.mondovisione.com/media-and-resources/news/sec-announces-dismissal-of-civil-enforcement-action-against-coinbase-2025227/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Charges Justinas Butkus With Orchestrating $4 Million Fraud - Butkus Used Fraudulent Investment Firms TBO Capital And Gray Capital To Scam Investors](http://www.mondovisione.com/media-and-resources/news/sec-charges-justinas-butkus-with-orchestrating-4-million-fraud-butkus-used-fr-2025227/)
+append_entries: 3
+Finish: 2025-02-27 22:21:14.598510
