@@ -2133,3 +2133,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SIFMA Statement On House Passage Of Budget Resolution](http://www.mondovisione.com/media-and-resources/news/sifma-statement-on-house-passage-of-budget-resolution-2025227/)
 append_entries: 3
 Finish: 2025-02-27 06:29:49.192472
+------------------------------------------------------
+Started: 2025-02-27 08:27:02.319489
+Existing_entries: 325
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX 2024 Full Year Results](http://www.mondovisione.com/media-and-resources/news/hkex-2024-full-year-results-2025227/)
+append_entries: 1
+Finish: 2025-02-27 08:27:03.370365
