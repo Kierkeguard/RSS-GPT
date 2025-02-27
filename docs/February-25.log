@@ -2220,3 +2220,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Dubai Financial Services Authority Continues To Strengthen Market Engagement With Significant 31% Growth In Authorisations In 2024](http://www.mondovisione.com/media-and-resources/news/dubai-financial-services-authority-continues-to-strengthen-market-engagement-wit-2025227/)
 append_entries: 5
 Finish: 2025-02-27 18:29:42.068833
+------------------------------------------------------
+Started: 2025-02-27 20:23:10.596773
+Existing_entries: 342
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Investor Advisory Committee To Examine The Disclosure Of AI’s Impact On Company Operations - And Retail Investor Fraud In America At March 6 Meeting](http://www.mondovisione.com/media-and-resources/news/sec-investor-advisory-committee-to-examine-the-disclosure-of-ais-impact-on-comp-2025227/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Treasury Department Announces New Appointments](http://www.mondovisione.com/media-and-resources/news/us-treasury-department-announces-new-appointments-2025227/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Office Of The Comptroller Of The Currency Issues Second And Third Quarter 2025 CRA Evaluation Schedule](http://www.mondovisione.com/media-and-resources/news/us-office-of-the-comptroller-of-the-currency-issues-second-and-third-quarter-202-2025227/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bjørn Sibbern Is Appointed As New Chairman Of BME](http://www.mondovisione.com/media-and-resources/news/bjrn-sibbern-is-appointed-as-new-chairman-of-bme-2025227/)
+append_entries: 4
+Finish: 2025-02-27 20:23:11.492811
