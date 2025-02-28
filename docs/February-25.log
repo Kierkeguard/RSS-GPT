@@ -2342,3 +2342,18 @@ Existing_entries: 364
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-02-28 14:19:41.115638
+------------------------------------------------------
+Started: 2025-02-28 16:26:49.106732
+Existing_entries: 364
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group To Launch Solana (SOL) Futures On March 17](http://www.mondovisione.com/media-and-resources/news/cme-group-to-launch-solana-sol-futures-on-march-17-2025228/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Statement By SEC Commissioner Caroline A. Crenshaw: Crypto 2.0: Regulatory Whiplash](http://www.mondovisione.com/media-and-resources/news/statement-by-sec-commissioner-caroline-a-crenshaw-crypto-20-regulatory-whip-2025228/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [McKay Brothers Launches Fastest Connectivity Between Tokyo And Europe](http://www.mondovisione.com/media-and-resources/news/mckay-brothers-launches-fastest-connectivity-between-tokyo-and-europe-2025228/)
+append_entries: 3
+Finish: 2025-02-28 16:26:49.981059
