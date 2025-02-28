@@ -2363,3 +2363,15 @@ Existing_entries: 367
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-02-28 18:29:12.284876
+------------------------------------------------------
+Started: 2025-02-28 20:22:45.457160
+Existing_entries: 367
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Finansinspektionen Is Publishing Banks’ Effective Capital Headroom](http://www.mondovisione.com/media-and-resources/news/finansinspektionen-is-publishing-banks-effective-capital-headroom-2025228/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Finansinspektionen: Capital Requirements For Swedish Banks As Of Q4 2024](http://www.mondovisione.com/media-and-resources/news/finansinspektionen-capital-requirements-for-swedish-banks-as-of-q4-2024-2025228/)
+append_entries: 2
+Finish: 2025-02-28 20:22:46.294706
