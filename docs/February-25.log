@@ -2289,3 +2289,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Getting Back On Base: Statement Of SEC Commissioner Hester M. Peirce On The Dismissal Of The Civil Enforcement Action Against Coinbase](http://www.mondovisione.com/media-and-resources/news/getting-back-on-base-statement-of-sec-commissioner-hester-m-peirce-on-the-dism-2025228/)
 append_entries: 4
 Finish: 2025-02-28 06:29:35.653278
+------------------------------------------------------
+Started: 2025-02-28 08:26:37.541437
+Existing_entries: 353
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Securities Commission Malaysia Calls For Applications On Visiting Fellowship Programme At UK’s Oxford Centre For Islamic Studies](http://www.mondovisione.com/media-and-resources/news/securities-commission-malaysia-calls-for-applications-on-visiting-fellowship-pro-2025228/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Indonesia's President Prabowo Inaugurates Pegadaian Gold Bank Service, BRI Group Optimistic In Strengthening The National Economy](http://www.mondovisione.com/media-and-resources/news/indonesias-president-prabowo-inaugurates-pegadaian-gold-bank-service-bri-group-2025228/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NZX And NZX Clearing: Third-Party Clearing And Direct Margining: Rule Amendments](http://www.mondovisione.com/media-and-resources/news/nzx-and-nzx-clearing-third-party-clearing-and-direct-margining-rule-amendments-2025228/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NZX: Extension Of 'Adjust' Session](http://www.mondovisione.com/media-and-resources/news/nzx-extension-of-adjust-session-2025228/)
+append_entries: 4
+Finish: 2025-02-28 08:26:38.310766
