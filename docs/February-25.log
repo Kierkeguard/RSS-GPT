@@ -2357,3 +2357,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [McKay Brothers Launches Fastest Connectivity Between Tokyo And Europe](http://www.mondovisione.com/media-and-resources/news/mckay-brothers-launches-fastest-connectivity-between-tokyo-and-europe-2025228/)
 append_entries: 3
 Finish: 2025-02-28 16:26:49.981059
+------------------------------------------------------
+Started: 2025-02-28 18:29:10.954200
+Existing_entries: 367
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-02-28 18:29:12.284876
