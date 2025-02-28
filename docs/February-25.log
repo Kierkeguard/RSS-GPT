@@ -2271,3 +2271,21 @@ Existing_entries: 349
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-02-28 04:25:31.650846
+------------------------------------------------------
+Started: 2025-02-28 06:29:34.796070
+Existing_entries: 349
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Revised Lists Of The Moscow Exchange Indices Announced](http://www.mondovisione.com/media-and-resources/news/revised-lists-of-the-moscow-exchange-indices-announced-2025228/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX To Introduce New Stock Option Classes](http://www.mondovisione.com/media-and-resources/news/hkex-to-introduce-new-stock-option-classes-2025228/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Zealand Financial Markets Authority Succeeds In Continuous Disclosure Claims Against CBL Chief Financial Officer](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-succeeds-in-continuous-disclosure-claims-2025228/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Getting Back On Base: Statement Of SEC Commissioner Hester M. Peirce On The Dismissal Of The Civil Enforcement Action Against Coinbase](http://www.mondovisione.com/media-and-resources/news/getting-back-on-base-statement-of-sec-commissioner-hester-m-peirce-on-the-dism-2025228/)
+append_entries: 4
+Finish: 2025-02-28 06:29:35.653278
