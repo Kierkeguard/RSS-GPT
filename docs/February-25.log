@@ -2415,3 +2415,15 @@ Existing_entries: 379
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-03-01 02:58:36.468589
+------------------------------------------------------
+Started: 2025-03-01 04:24:25.721050
+Existing_entries: 379
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Statement In Support Of Enforcement Staff, SEC Commissioner Caroline A. Crenshaw](http://www.mondovisione.com/media-and-resources/news/statement-in-support-of-enforcement-staff-sec-commissioner-caroline-a-crenshaw-202531/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NGX Group Reports 157.3% Surge In Profit Before Tax To N13.6bn In 2024  - Board Approves Record N4.4bn Dividend For Shareholders](http://www.mondovisione.com/media-and-resources/news/ngx-group-reports-1573-surge-in-profit-before-tax-to-n136bn-in-2024-board-202531/)
+append_entries: 2
+Finish: 2025-03-01 04:24:26.544069
