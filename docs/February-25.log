@@ -2400,3 +2400,12 @@ Append: [UK Financial Conduct Authority: Olumide Osunkoya Sentenced To 4 Years F
 Append: [Federal Reserve Board Begins 2025 Survey Of Consumer Finances](http://www.mondovisione.com/media-and-resources/news/federal-reserve-board-begins-2025-survey-of-consumer-finances-2025228/)
 append_entries: 9
 Finish: 2025-02-28 22:19:35.316711
+------------------------------------------------------
+Started: 2025-03-01 01:47:53.184145
+Existing_entries: 378
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [U.S. Chamber Of Commerce Applauds Momentum Toward A U.S.-UK Trade Agreement](http://www.mondovisione.com/media-and-resources/news/us-chamber-of-commerce-applauds-momentum-toward-a-us-uk-trade-agreement-2025228/)
+append_entries: 1
+Finish: 2025-03-01 01:47:54.029618
