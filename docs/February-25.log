@@ -2442,3 +2442,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Canadian Investment Regulatory Organization Spotlights Account Intrusion Scams - CIRO Gives Investors The Tools To Protect Themselves From A Recent Pattern Of Scams](http://www.mondovisione.com/media-and-resources/news/canadian-investment-regulatory-organization-spotlights-account-intrusion-scams-202531/)
 append_entries: 1
 Finish: 2025-03-01 08:24:58.294696
+------------------------------------------------------
+Started: 2025-03-01 10:20:02.360589
+Existing_entries: 382
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-03-01 10:20:03.423613
