@@ -2640,3 +2640,25 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Nasdaq Nordic And Baltic Markets Trading Statistics February 2025](http://www.mondovisione.com/media-and-resources/news/nasdaq-nordic-and-baltic-markets-trading-statistics-february-2025-202533/)
 append_entries: 3
 Finish: 2025-03-03 14:20:35.856916
+------------------------------------------------------
+Started: 2025-03-03 16:26:45.024173
+Existing_entries: 394
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Deutsche Börse Cash Market Trading Volumes In February 2025](http://www.mondovisione.com/media-and-resources/news/deutsche-brse-cash-market-trading-volumes-in-february-2025-202533/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Boerse Stuttgart Records February Turnover Of Around EUR 10,9 Billion - Strong Increases In Structured Securities, Equities And Exchange-Traded Products Compared To The Same Month Of The Previous Year](http://www.mondovisione.com/media-and-resources/news/boerse-stuttgart-records-february-turnover-of-around-eur-109-billion-strong-i-202533/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Retail And Restaurant Sales Accelerate In February, Fiserv Small Business Index Reports](http://www.mondovisione.com/media-and-resources/news/retail-and-restaurant-sales-accelerate-in-february-fiserv-small-business-index-202533/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Puro.earth Strengthens Organization Through New Leadership Appointments](http://www.mondovisione.com/media-and-resources/news/puroearth-strengthens-organization-through-new-leadership-appointments-202533/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Montréal Exchange Announces Options On 10 CIBC Canadian Depositary Receipts - Innovative Instruments Provide Advisors And Retail Investors With Access To Options On US Equities In Canadian Dollars](http://www.mondovisione.com/media-and-resources/news/montral-exchange-announces-options-on-10-cibc-canadian-depositary-receipts-in-202533/)
+Append: [SIX Exchanges Figures February 2025](http://www.mondovisione.com/media-and-resources/news/six-exchanges-figures-february-2025-202533/)
+append_entries: 6
+Finish: 2025-03-03 16:26:46.113849
