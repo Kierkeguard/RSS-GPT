@@ -2625,3 +2625,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Saxo Bank Announces Record 2024 Results Of More Than One Billion DKK In Net Profit](http://www.mondovisione.com/media-and-resources/news/saxo-bank-announces-record-2024-results-of-more-than-one-billion-dkk-in-net-prof-202533/)
 append_entries: 4
 Finish: 2025-03-03 12:41:50.388947
+------------------------------------------------------
+Started: 2025-03-03 14:20:34.975512
+Existing_entries: 391
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ICE Mortgage Monitor: Property Insurance Costs Rose At A Record Rate In 2024 Prompting Homeowners To Shop For Better Rates, Accept Higher Deductibles](http://www.mondovisione.com/media-and-resources/news/ice-mortgage-monitor-property-insurance-costs-rose-at-a-record-rate-in-2024-pro-202533/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX: Adjustment Of WH Group Structured Products And Options](http://www.mondovisione.com/media-and-resources/news/hkex-adjustment-of-wh-group-structured-products-and-options-202533/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Nordic And Baltic Markets Trading Statistics February 2025](http://www.mondovisione.com/media-and-resources/news/nasdaq-nordic-and-baltic-markets-trading-statistics-february-2025-202533/)
+append_entries: 3
+Finish: 2025-03-03 14:20:35.856916
