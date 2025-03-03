@@ -2577,3 +2577,12 @@ Existing_entries: 383
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-03-03 04:26:41.896776
+------------------------------------------------------
+Started: 2025-03-03 06:31:01.199230
+Existing_entries: 383
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tokyo Financial Exchange Trading Volume In February 2025](http://www.mondovisione.com/media-and-resources/news/tokyo-financial-exchange-trading-volume-in-february-2025-202533/)
+append_entries: 1
+Finish: 2025-03-03 06:31:02.129580
