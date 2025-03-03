@@ -2671,3 +2671,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [FTSE Russell Announces Changes To FTSE UK Index Series Methodology](http://www.mondovisione.com/media-and-resources/news/ftse-russell-announces-changes-to-ftse-uk-index-series-methodology-202533/)
 append_entries: 1
 Finish: 2025-03-03 18:28:05.272704
+------------------------------------------------------
+Started: 2025-03-03 20:23:19.590012
+Existing_entries: 401
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Treasury Department Announces Suspension Of Enforcement Of Corporate Transparency Act Against U.S. Citizens And Domestic Reporting Companies](http://www.mondovisione.com/media-and-resources/news/us-treasury-department-announces-suspension-of-enforcement-of-corporate-transpar-202533/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Office Of The Comptroller Of The Currency Releases CRA Performance Evaluations For 26 National Banks And Federal Savings Associations](http://www.mondovisione.com/media-and-resources/news/us-office-of-the-comptroller-of-the-currency-releases-cra-performance-evaluation-202533/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIFMA Releases Compendium On U.S. Equity Market Structure](http://www.mondovisione.com/media-and-resources/news/sifma-releases-compendium-on-us-equity-market-structure-202533/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Appoints Brandis DeSimone as New Head of East Coast Listings](http://www.mondovisione.com/media-and-resources/news/nasdaq-appoints-brandis-desimone-as-new-head-of-east-coast-listings-202533/)
+append_entries: 4
+Finish: 2025-03-03 20:23:20.626724
