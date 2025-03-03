@@ -2662,3 +2662,12 @@ Append: [Montréal Exchange Announces Options On 10 CIBC Canadian Depositary Rec
 Append: [SIX Exchanges Figures February 2025](http://www.mondovisione.com/media-and-resources/news/six-exchanges-figures-february-2025-202533/)
 append_entries: 6
 Finish: 2025-03-03 16:26:46.113849
+------------------------------------------------------
+Started: 2025-03-03 18:28:04.333771
+Existing_entries: 400
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FTSE Russell Announces Changes To FTSE UK Index Series Methodology](http://www.mondovisione.com/media-and-resources/news/ftse-russell-announces-changes-to-ftse-uk-index-series-methodology-202533/)
+append_entries: 1
+Finish: 2025-03-03 18:28:05.272704
