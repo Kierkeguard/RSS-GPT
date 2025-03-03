@@ -2607,3 +2607,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [London Stock Exchange Group Plc - Commencement of Share Buyback Programme](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-commencement-of-share-buyback-programme-202533/)
 append_entries: 2
 Finish: 2025-03-03 10:23:42.295778
+------------------------------------------------------
+Started: 2025-03-03 12:41:49.485925
+Existing_entries: 387
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Fiserv Enhances Its Embedded Finance Solutions By Closing The Acquisition Of Payfare](http://www.mondovisione.com/media-and-resources/news/fiserv-enhances-its-embedded-finance-solutions-by-closing-the-acquisition-of-pay-202533/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Coinhako Joins TP ICAP’s Wholesale Cryptoasset Exchange Fusion Digital Assets](http://www.mondovisione.com/media-and-resources/news/coinhako-joins-tp-icaps-wholesale-cryptoasset-exchange-fusion-digital-assets-202533/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Accountants Can Influence Growth, Competitiveness And Innovation In The UK To Boost The Economy − Speech By Afua Kyei, Bank Of England, Executive Director, Finance, Given At The 2025 Annual Ball Chartered Accountants Students Society London, Moorgate Place](http://www.mondovisione.com/media-and-resources/news/accountants-can-influence-growth-competitiveness-and-innovation-in-the-uk-to-bo-202533/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Saxo Bank Announces Record 2024 Results Of More Than One Billion DKK In Net Profit](http://www.mondovisione.com/media-and-resources/news/saxo-bank-announces-record-2024-results-of-more-than-one-billion-dkk-in-net-prof-202533/)
+append_entries: 4
+Finish: 2025-03-03 12:41:50.388947
