@@ -2586,3 +2586,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Tokyo Financial Exchange Trading Volume In February 2025](http://www.mondovisione.com/media-and-resources/news/tokyo-financial-exchange-trading-volume-in-february-2025-202533/)
 append_entries: 1
 Finish: 2025-03-03 06:31:02.129580
+------------------------------------------------------
+Started: 2025-03-03 08:29:20.143024
+Existing_entries: 384
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Japan Exchange Group Trading Overview In February 2025](http://www.mondovisione.com/media-and-resources/news/japan-exchange-group-trading-overview-in-february-2025-202533/)
+append_entries: 1
+Finish: 2025-03-03 08:29:21.149478
