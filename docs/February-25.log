@@ -2731,3 +2731,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SEC Staff Facilitates Capital Formation For Companies Planning Public Offering](http://www.mondovisione.com/media-and-resources/news/sec-staff-facilitates-capital-formation-for-companies-planning-public-offering-202534/)
 append_entries: 2
 Finish: 2025-03-04 06:29:55.754807
+------------------------------------------------------
+Started: 2025-03-04 08:26:01.441372
+Existing_entries: 409
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Japan Financial Services Agency: Publication Of AI Discussion Paper](http://www.mondovisione.com/media-and-resources/news/japan-financial-services-agency-publication-of-ai-discussion-paper-202534/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [JPX Monthly Headlines - February 2025](http://www.mondovisione.com/media-and-resources/news/jpx-monthly-headlines-february-2025-202534/)
+append_entries: 2
+Finish: 2025-03-04 08:26:02.263302
