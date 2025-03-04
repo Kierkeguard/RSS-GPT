@@ -2805,3 +2805,21 @@ Append: [FSB Appoints New Chairs Of Key Committees](http://www.mondovisione.com/
 Append: [Borsa Istanbul: Uptick Rule Will Be Applied In The Session Dated 4 March 2025 In The Equity Market](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-uptick-rule-will-be-applied-in-the-session-dated-4-march-2025-in-202534/)
 append_entries: 7
 Finish: 2025-03-04 20:23:03.759381
+------------------------------------------------------
+Started: 2025-03-04 22:18:44.803798
+Existing_entries: 427
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Reports February 2025 Volumes](http://www.mondovisione.com/media-and-resources/news/nasdaq-reports-february-2025-volumes-202534/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NZX Shareholder Metrics - February 2025](http://www.mondovisione.com/media-and-resources/news/nzx-shareholder-metrics-february-2025-202534/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TMX Group Announces Revised Trends On Morningstar DBRS Credit Ratings - Morningstar DBRS Has Revised All Credit Rating Trends On TMX Group To Stable From Negative, Confirms Rating Of AA (Low) And R-1 (Middle)](http://www.mondovisione.com/media-and-resources/news/tmx-group-announces-revised-trends-on-morningstar-dbrs-credit-ratings-mornings-202534/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [OCC Reports February 2025 Monthly Volume Data](http://www.mondovisione.com/media-and-resources/news/occ-reports-february-2025-monthly-volume-data-202534/)
+append_entries: 4
+Finish: 2025-03-04 22:18:46.106055
