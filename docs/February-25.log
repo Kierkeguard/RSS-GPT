@@ -2701,3 +2701,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SEC Commissioner Hester Peirce Announces Crypto Task Force Staff](http://www.mondovisione.com/media-and-resources/news/sec-commissioner-hester-peirce-announces-crypto-task-force-staff-202533/)
 append_entries: 2
 Finish: 2025-03-03 22:19:57.815781
+------------------------------------------------------
+Started: 2025-03-04 01:43:26.056255
+Existing_entries: 407
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-03-04 01:43:26.935809
