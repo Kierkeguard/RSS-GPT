@@ -2719,3 +2719,15 @@ Existing_entries: 407
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-03-04 04:25:27.459711
+------------------------------------------------------
+Started: 2025-03-04 06:29:54.599292
+Existing_entries: 407
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Crypto Task Force To Host Roundtable On Security Status - Initial Session Will Be Open To The Public, Streamed Live](http://www.mondovisione.com/media-and-resources/news/sec-crypto-task-force-to-host-roundtable-on-security-status-initial-session-wi-202534/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Staff Facilitates Capital Formation For Companies Planning Public Offering](http://www.mondovisione.com/media-and-resources/news/sec-staff-facilitates-capital-formation-for-companies-planning-public-offering-202534/)
+append_entries: 2
+Finish: 2025-03-04 06:29:55.754807
