@@ -2743,3 +2743,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [JPX Monthly Headlines - February 2025](http://www.mondovisione.com/media-and-resources/news/jpx-monthly-headlines-february-2025-202534/)
 append_entries: 2
 Finish: 2025-03-04 08:26:02.263302
+------------------------------------------------------
+Started: 2025-03-04 10:23:19.401822
+Existing_entries: 411
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [EEX To Introduce Order Book Trading On The Japanese Power Market In April](http://www.mondovisione.com/media-and-resources/news/eex-to-introduce-order-book-trading-on-the-japanese-power-market-in-april-202534/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NSE Indices Fixed Income Index Dashboard For The Month Ended February 2025](http://www.mondovisione.com/media-and-resources/news/nse-indices-fixed-income-index-dashboard-for-the-month-ended-february-2025-202534/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [EDI Bot Launches On Symphony Messaging, Empowering Financial Professionals With Real-Time Corporate Action Data](http://www.mondovisione.com/media-and-resources/news/edi-bot-launches-on-symphony-messaging-empowering-financial-professionals-with-202534/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX Signs MOU With CMU OmniClear To Enhance The Post-Trade Securities Infrastructure Of Hong Kong’s Capital Markets](http://www.mondovisione.com/media-and-resources/news/hkex-signs-mou-with-cmu-omniclear-to-enhance-the-post-trade-securities-infrastru-202534/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Swiss Life Private Bank Entrusts Fund Channel With The Management Of Its Collection Services For Asset Managers](http://www.mondovisione.com/media-and-resources/news/swiss-life-private-bank-entrusts-fund-channel-with-the-management-of-its-collect-202534/)
+append_entries: 5
+Finish: 2025-03-04 10:23:20.211062
