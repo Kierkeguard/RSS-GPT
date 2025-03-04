@@ -2782,3 +2782,26 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [London Stock Exchange Group PLC Transaction In Own Securities](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-transaction-in-own-securities-202534/)
 append_entries: 4
 Finish: 2025-03-04 12:41:52.814382
+------------------------------------------------------
+Started: 2025-03-04 20:23:02.950627
+Existing_entries: 420
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [February Statistics Report From The Nasdaq Nordic And Baltic Markets](http://www.mondovisione.com/media-and-resources/news/february-statistics-report-from-the-nasdaq-nordic-and-baltic-markets-202534/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Purdue University/CME Group Ag Economy Barometer Farmer Sentiment Rises As Current Conditions Improve On U.S. Farms](http://www.mondovisione.com/media-and-resources/news/cme-farmer-sentiment-rises-as-current-conditions-improve-on-us-farms-202534/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Exchange Group - Options And Equities Markets - Daylight Saving Time - March 2025](http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-options-and-equities-markets-daylight-saving-time-marc-202534/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tel Aviv Stock Exchange Reports The Results Of The Financial Statements For The Fourth Quarter And Full Year 2024](http://www.mondovisione.com/media-and-resources/news/tel-aviv-stock-exchange-reports-the-results-of-the-financial-statements-for-the-202534/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group Reports Record Monthly ADV Of 33.1 Million Contracts In February, With Growth Across All Asset Classes](http://www.mondovisione.com/media-and-resources/news/cme-group-reports-record-monthly-adv-of-331-million-contracts-in-february-with-202534/)
+Append: [FSB Appoints New Chairs Of Key Committees](http://www.mondovisione.com/media-and-resources/news/fsb-appoints-new-chairs-of-key-committees-202534/)
+Append: [Borsa Istanbul: Uptick Rule Will Be Applied In The Session Dated 4 March 2025 In The Equity Market](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-uptick-rule-will-be-applied-in-the-session-dated-4-march-2025-in-202534/)
+append_entries: 7
+Finish: 2025-03-04 20:23:03.759381
