@@ -2764,3 +2764,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Swiss Life Private Bank Entrusts Fund Channel With The Management Of Its Collection Services For Asset Managers](http://www.mondovisione.com/media-and-resources/news/swiss-life-private-bank-entrusts-fund-channel-with-the-management-of-its-collect-202534/)
 append_entries: 5
 Finish: 2025-03-04 10:23:20.211062
+------------------------------------------------------
+Started: 2025-03-04 12:41:52.012804
+Existing_entries: 416
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Bans Former Credit Suisse Executives Following US Criminal Convictions](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-bans-former-credit-suisse-executives-following-us-202534/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Currenxie Secures Electronic Money Institution Authorisation From The Central Bank Of Ireland](http://www.mondovisione.com/media-and-resources/news/currenxie-secures-electronic-money-institution-authorisation-from-the-central-ba-202534/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Zelluna Lists On Euronext](http://www.mondovisione.com/media-and-resources/news/zelluna-lists-on-euronext-202534/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group PLC Transaction In Own Securities](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-transaction-in-own-securities-202534/)
+append_entries: 4
+Finish: 2025-03-04 12:41:52.814382
