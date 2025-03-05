@@ -2850,3 +2850,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Ontario Securities Commission Announces Allegations Of Fraud Against Jason Cloth And Creative Wealth Media Finance Corp.](http://www.mondovisione.com/media-and-resources/news/ontario-securities-commission-announces-allegations-of-fraud-against-jason-cloth-202535/)
 append_entries: 1
 Finish: 2025-03-05 06:30:32.428819
+------------------------------------------------------
+Started: 2025-03-05 08:28:13.111929
+Existing_entries: 432
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Global Terrorism Index 2025: Terrorism Spreads As Lone Wolf Attacks Dominate The West](http://www.mondovisione.com/media-and-resources/news/global-terrorism-index-2025-terrorism-spreads-as-lone-wolf-attacks-dominate-th-202535/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Oral Reply To Singapore Parliamentary Question On The Tightening Of Regulations For Digital Payment Token Service Providers](http://www.mondovisione.com/media-and-resources/news/oral-reply-to-singapore-parliamentary-question-on-the-tightening-of-regulations-202535/)
+append_entries: 2
+Finish: 2025-03-05 08:28:14.246054
