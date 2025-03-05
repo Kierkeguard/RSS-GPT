@@ -2902,3 +2902,15 @@ Append: [LSEG Data & Analytics Expands Its Partnership With SimCorp](http://www.
 Append: [FTSE China Index Series Quarterly Review – Q1 2025](http://www.mondovisione.com/media-and-resources/news/ftse-china-index-series-quarterly-review-q1-2025-202535/)
 append_entries: 6
 Finish: 2025-03-05 14:20:32.633866
+------------------------------------------------------
+Started: 2025-03-05 16:33:25.013724
+Existing_entries: 442
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Revised Lists Of The Moscow Exchange Indices Announced](http://www.mondovisione.com/media-and-resources/news/revised-lists-of-the-moscow-exchange-indices-announced-202535/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Lithos Selects Puro.earth To Certify Its Enhanced Rock Weathering Carbon Removal Credits](http://www.mondovisione.com/media-and-resources/news/lithos-selects-puroearth-to-certify-its-enhanced-rock-weathering-carbon-removal-202535/)
+append_entries: 2
+Finish: 2025-03-05 16:33:25.958248
