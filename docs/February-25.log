@@ -2841,3 +2841,12 @@ Existing_entries: 431
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-03-05 04:25:30.935972
+------------------------------------------------------
+Started: 2025-03-05 06:30:31.224151
+Existing_entries: 431
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Ontario Securities Commission Announces Allegations Of Fraud Against Jason Cloth And Creative Wealth Media Finance Corp.](http://www.mondovisione.com/media-and-resources/news/ontario-securities-commission-announces-allegations-of-fraud-against-jason-cloth-202535/)
+append_entries: 1
+Finish: 2025-03-05 06:30:32.428819
