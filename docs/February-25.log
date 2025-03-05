@@ -2871,3 +2871,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [UK Financial Conduct Authority: Growth Of Private Markets Requires Continued Focus On Valuations](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-growth-of-private-markets-requires-continued-foc-202535/)
 append_entries: 1
 Finish: 2025-03-05 10:22:58.983173
+------------------------------------------------------
+Started: 2025-03-05 12:41:59.046706
+Existing_entries: 435
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Voluntary Carbon Markets Found To Be Over 10 Times Less Efficient Than Mainstream Markets, WFE Research Reveals](http://www.mondovisione.com/media-and-resources/news/voluntary-carbon-markets-found-to-be-over-10-times-less-efficient-than-mainstrea-202535/)
+append_entries: 1
+Finish: 2025-03-05 12:41:59.861504
