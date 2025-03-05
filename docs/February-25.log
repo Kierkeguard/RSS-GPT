@@ -2952,3 +2952,18 @@ Append: [Tel Aviv Stock Exchange Conference Call Recording March 04, 2025- Finan
 Append: [EEX Group Monthly Volumes – February 2025](http://www.mondovisione.com/media-and-resources/news/eex-group-monthly-volumes-february-2025-202535/)
 append_entries: 7
 Finish: 2025-03-05 20:23:45.997901
+------------------------------------------------------
+Started: 2025-03-05 22:20:07.579406
+Existing_entries: 454
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cboe Global Markets Reports Trading Volume For February 2025](http://www.mondovisione.com/media-and-resources/news/cboe-global-markets-reports-trading-volume-for-february-2025-202535/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Derivatives Market Institute For Standards Annual Report Outlines Successes Of 2024](http://www.mondovisione.com/media-and-resources/news/derivatives-market-institute-for-standards-annual-report-outlines-successes-of-2-202535/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Options Exchange - Reminder: Network Refresh For The 10G ULL Extranet](http://www.mondovisione.com/media-and-resources/news/miax-options-exchange-reminder-network-refresh-for-the-10g-ull-extranet-202535/)
+append_entries: 3
+Finish: 2025-03-05 22:20:08.483011
