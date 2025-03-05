@@ -2914,3 +2914,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Lithos Selects Puro.earth To Certify Its Enhanced Rock Weathering Carbon Removal Credits](http://www.mondovisione.com/media-and-resources/news/lithos-selects-puroearth-to-certify-its-enhanced-rock-weathering-carbon-removal-202535/)
 append_entries: 2
 Finish: 2025-03-05 16:33:25.958248
+------------------------------------------------------
+Started: 2025-03-05 18:30:33.986145
+Existing_entries: 444
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Borsa İstanbul: Uptick Rule Will Be Applied In The Session Dated 5 March 2025 In The Equity Market](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-uptick-rule-will-be-applied-in-the-session-dated-5-march-2025-in-202535/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Borsa İstanbul: Announcement About Changes Made Within The 12th Revision Of Precious Metals And Precious Stones Market Procedure](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-announcement-about-changes-made-within-the-12th-revision-of-prec-202535/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Borsa İstanbul Announces The Constituent Changes To The BIST Buyback Index For March, 2025](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-announces-the-constituent-changes-to-the-bist-buyback-index-for-m-202535/)
+append_entries: 3
+Finish: 2025-03-05 18:30:35.133918
