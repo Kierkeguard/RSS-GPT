@@ -2929,3 +2929,26 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Borsa İstanbul Announces The Constituent Changes To The BIST Buyback Index For March, 2025](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-announces-the-constituent-changes-to-the-bist-buyback-index-for-m-202535/)
 append_entries: 3
 Finish: 2025-03-05 18:30:35.133918
+------------------------------------------------------
+Started: 2025-03-05 20:23:45.219900
+Existing_entries: 447
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Summary Of Commentary On Current Economic Conditions By Federal Reserve District](http://www.mondovisione.com/media-and-resources/news/summary-of-commentary-on-current-economic-conditions-by-federal-reserve-district-202535/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Report From FINRA Board Of Governors Meeting – February 2025 - Board Elects New Chair And Discusses Outside Business Activities, TRACE Reporting Timeframes, Technology Initiatives And 2024 Fine Monies](http://www.mondovisione.com/media-and-resources/news/report-from-finra-board-of-governors-meeting-february-2025-board-elects-new-202535/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIFMA AMG Statement On The FDIC Withdrawal Of Bank “Control” Rule Proposal](http://www.mondovisione.com/media-and-resources/news/sifma-amg-statement-on-the-fdic-withdrawal-of-bank-control-rule-proposal-202535/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The EBA Consults On Fees To Validate Pro Forma Models Under The European Market Infrastructure Regulation](http://www.mondovisione.com/media-and-resources/news/the-eba-consults-on-fees-to-validate-pro-forma-models-under-the-european-market-202535/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Prudential Regulation Authority Consults On Raising Leverage Ratio Threshold To £70 Billion Retail Deposits](http://www.mondovisione.com/media-and-resources/news/uk-prudential-regulation-authority-consults-on-raising-leverage-ratio-threshold-202535/)
+Append: [Tel Aviv Stock Exchange Conference Call Recording March 04, 2025- Financial Report 4Q And Full Year 2024](http://www.mondovisione.com/media-and-resources/news/tel-aviv-stock-exchange-conference-call-recording-march-04-2025-financial-repo-202535/)
+Append: [EEX Group Monthly Volumes – February 2025](http://www.mondovisione.com/media-and-resources/news/eex-group-monthly-volumes-february-2025-202535/)
+append_entries: 7
+Finish: 2025-03-05 20:23:45.997901
