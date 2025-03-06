@@ -3075,3 +3075,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Miami International Holdings Participates In Ring The Bell For Gender Equality Campaign For International Women's Day](http://www.mondovisione.com/media-and-resources/news/miami-international-holdings-participates-in-ring-the-bell-for-gender-equality-c-202536/)
 append_entries: 3
 Finish: 2025-03-06 16:27:06.542080
+------------------------------------------------------
+Started: 2025-03-06 18:29:18.791069
+Existing_entries: 475
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Constellation Oil Services Holding S.A. Lists On Euronext Growth](http://www.mondovisione.com/media-and-resources/news/constellation-oil-services-holding-sa-lists-on-euronext-growth-202536/)
+append_entries: 1
+Finish: 2025-03-06 18:29:20.003867
