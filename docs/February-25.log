@@ -3012,3 +3012,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Update - Dividend/Distribution - ASX](http://www.mondovisione.com/media-and-resources/news/update-dividenddistribution-asx-202536/)
 append_entries: 3
 Finish: 2025-03-06 08:27:21.142322
+------------------------------------------------------
+Started: 2025-03-06 10:23:44.925501
+Existing_entries: 462
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Moscow Exchange Announces Results For The Full Year 2024](http://www.mondovisione.com/media-and-resources/news/moscow-exchange-announces-results-for-the-full-year-2024-202536/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euronext Expands Clearing Services To Cover Cryptocurrency Exchange-Traded Products (ETPs)](http://www.mondovisione.com/media-and-resources/news/euronext-expands-clearing-services-to-cover-cryptocurrency-exchange-traded-produ-202536/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Sterling Expands Risk & Margin Service With Fixed Income Support - Continues Asset Class Expansion To Meet Client Demand](http://www.mondovisione.com/media-and-resources/news/sterling-expands-risk-and-margin-service-with-fixed-income-support-continues-ass-202536/)
+append_entries: 3
+Finish: 2025-03-06 10:23:46.186790
