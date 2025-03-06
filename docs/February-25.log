@@ -3039,3 +3039,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ACER Will Consult On The Impact Of Peak-Shaving Products On The EU Electricity Market Under Normal Market Conditions](http://www.mondovisione.com/media-and-resources/news/acer-will-consult-on-the-impact-of-peak-shaving-products-on-the-eu-electricity-m-202536/)
 append_entries: 2
 Finish: 2025-03-06 12:42:19.930540
+------------------------------------------------------
+Started: 2025-03-06 14:20:40.629213
+Existing_entries: 467
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Toronto Stock Exchange Celebrates 35 Years Of ETF Innovation - World's First ETF Launched On TSX In 1990; Industry Marks Milestone With A Special Market Close Ceremony](http://www.mondovisione.com/media-and-resources/news/toronto-stock-exchange-celebrates-35-years-of-etf-innovation-worlds-first-etf-202536/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cboe Canada Completes Technology Migration](http://www.mondovisione.com/media-and-resources/news/cboe-canada-completes-technology-migration-202536/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The New York Stock Exchange Awarded Highest Honor By The Medal Of Honor Foundation](http://www.mondovisione.com/media-and-resources/news/the-new-york-stock-exchange-awarded-highest-honor-by-the-medal-of-honor-foundati-202536/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BrokerTec Sets New Single-Day Volume Record With Over $1 Trillion Notional Traded](http://www.mondovisione.com/media-and-resources/news/brokertec-sets-new-single-day-volume-record-with-over-1-trillion-notional-trade-202536/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [GLEIF And Open Ownership Launch The Global Open Data Integration Network (GODIN) - A New Initiative To Strengthen Open Data Interoperability And Transparency Across Sectors](http://www.mondovisione.com/media-and-resources/news/gleif-and-open-ownership-launch-the-global-open-data-integration-network-godin-202536/)
+append_entries: 5
+Finish: 2025-03-06 14:20:42.227968
