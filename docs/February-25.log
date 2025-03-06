@@ -3105,3 +3105,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [The EBA Consults On New Rules Related To The Anti- Money Laundering And Countering The Financing Of Terrorism Package](http://www.mondovisione.com/media-and-resources/news/the-eba-consults-on-new-rules-related-to-the-anti-money-laundering-and-counteri-202536/)
 append_entries: 5
 Finish: 2025-03-06 20:23:14.900386
+------------------------------------------------------
+Started: 2025-03-06 22:20:08.304195
+Existing_entries: 481
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NZX: Change Of External Auditor](http://www.mondovisione.com/media-and-resources/news/nzx-change-of-external-auditor-202536/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Remarks At The Meeting Of The Investor Advisory Committee, Mark T. Uyeda, SEC Acting Chairman, Washington D.C., March 6, 2025](http://www.mondovisione.com/media-and-resources/news/remarks-at-the-meeting-of-the-investor-advisory-committee-mark-t-uyeda-sec-ac-202536/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Financial Data For Futures Commission Merchants Update](http://www.mondovisione.com/media-and-resources/news/cftc-financial-data-for-futures-commission-merchants-update-202536/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [STAC Opens Application Process For 2025 - 2026 STAC Fund College Scholarship - Annual Program Benefits Local Chicagoland College Students As They Prepare For Careers In The Financial Services Industry](http://www.mondovisione.com/media-and-resources/news/stac-opens-application-process-for-2025-2026-stac-fund-college-scholarship-a-202536/)
+append_entries: 4
+Finish: 2025-03-06 22:20:09.067506
