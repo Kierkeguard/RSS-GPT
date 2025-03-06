@@ -2985,3 +2985,15 @@ Existing_entries: 457
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-03-06 04:26:22.073764
+------------------------------------------------------
+Started: 2025-03-06 06:30:06.035973
+Existing_entries: 457
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Press Conference By KATO Katsunobu, Japan Minister Of Finance And Minister Of State For Financial Services -  Warren Buffett, And Buying Stocks Of Japanese Trading Companies](http://www.mondovisione.com/media-and-resources/news/press-conference-by-kato-katsunobu-japan-minister-of-finance-and-minister-of-st-202536/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Hong Kong Capital Markets Wrap Up 2024 On A High Note: Hong Kong Securities And Futures Commission Quarterly Report](http://www.mondovisione.com/media-and-resources/news/hong-kong-capital-markets-wrap-up-2024-on-a-high-note-hong-kong-securities-and-202536/)
+append_entries: 2
+Finish: 2025-03-06 06:30:07.133603
