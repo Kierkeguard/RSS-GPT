@@ -3084,3 +3084,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Constellation Oil Services Holding S.A. Lists On Euronext Growth](http://www.mondovisione.com/media-and-resources/news/constellation-oil-services-holding-sa-lists-on-euronext-growth-202536/)
 append_entries: 1
 Finish: 2025-03-06 18:29:20.003867
+------------------------------------------------------
+Started: 2025-03-06 20:23:13.889650
+Existing_entries: 476
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC: Filer Transition To New And Improved EDGAR Begins March 24, Comprehensive “EDGAR Next” Guidance Available For EDGAR Filers](http://www.mondovisione.com/media-and-resources/news/sec-filer-transition-to-new-and-improved-edgar-begins-march-24-comprehensive-202536/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Should We Pick Up The Slack?: Remarks Before The Investor Advisory Committee - SEC Commissioner Hester M. Peirce, March 6, 2025](http://www.mondovisione.com/media-and-resources/news/should-we-pick-up-the-slack-remarks-before-the-investor-advisory-committee-s-202536/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Annual Revision Of GPW Benchmark Indices](http://www.mondovisione.com/media-and-resources/news/annual-revision-of-gpw-benchmark-indices-202536/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Commissioner Mersinger And SEC Commissioner Peirce To Participate In A Fireside Chat At The Alternative Investment Management Association’s Global Policy & Regulatory Forum](http://www.mondovisione.com/media-and-resources/news/commissioner-mersinger-and-sec-commissioner-peirce-to-participate-in-a-fireside-202536/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The EBA Consults On New Rules Related To The Anti- Money Laundering And Countering The Financing Of Terrorism Package](http://www.mondovisione.com/media-and-resources/news/the-eba-consults-on-new-rules-related-to-the-anti-money-laundering-and-counteri-202536/)
+append_entries: 5
+Finish: 2025-03-06 20:23:14.900386
