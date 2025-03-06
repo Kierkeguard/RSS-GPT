@@ -3060,3 +3060,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [GLEIF And Open Ownership Launch The Global Open Data Integration Network (GODIN) - A New Initiative To Strengthen Open Data Interoperability And Transparency Across Sectors](http://www.mondovisione.com/media-and-resources/news/gleif-and-open-ownership-launch-the-global-open-data-integration-network-godin-202536/)
 append_entries: 5
 Finish: 2025-03-06 14:20:42.227968
+------------------------------------------------------
+Started: 2025-03-06 16:27:05.387734
+Existing_entries: 472
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Scila Strengthens Team With Head Of Marketing & Communications - Industry Veteran Joins Scila To Fuel Continued Growth And Global Expansion](http://www.mondovisione.com/media-and-resources/news/scila-strengthens-team-with-head-of-marketing-and-communications-industry-vetera-202536/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [REMIT Breach: Energi Danmark Fined For Manipulating The Nordic Wholesale Electricity Market](http://www.mondovisione.com/media-and-resources/news/remit-breach-energi-danmark-fined-for-manipulating-the-nordic-wholesale-electri-202536/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Miami International Holdings Participates In Ring The Bell For Gender Equality Campaign For International Women's Day](http://www.mondovisione.com/media-and-resources/news/miami-international-holdings-participates-in-ring-the-bell-for-gender-equality-c-202536/)
+append_entries: 3
+Finish: 2025-03-06 16:27:06.542080
