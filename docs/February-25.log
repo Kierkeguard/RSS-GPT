@@ -2967,3 +2967,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [MIAX Options Exchange - Reminder: Network Refresh For The 10G ULL Extranet](http://www.mondovisione.com/media-and-resources/news/miax-options-exchange-reminder-network-refresh-for-the-10g-ull-extranet-202535/)
 append_entries: 3
 Finish: 2025-03-05 22:20:08.483011
+------------------------------------------------------
+Started: 2025-03-06 01:43:43.151812
+Existing_entries: 457
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-03-06 01:43:44.503389
