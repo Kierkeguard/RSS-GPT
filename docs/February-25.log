@@ -3027,3 +3027,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Sterling Expands Risk & Margin Service With Fixed Income Support - Continues Asset Class Expansion To Meet Client Demand](http://www.mondovisione.com/media-and-resources/news/sterling-expands-risk-and-margin-service-with-fixed-income-support-continues-ass-202536/)
 append_entries: 3
 Finish: 2025-03-06 10:23:46.186790
+------------------------------------------------------
+Started: 2025-03-06 12:42:18.632124
+Existing_entries: 465
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MarketAxess Announces Trading Volume Statistics For February 2025](http://www.mondovisione.com/media-and-resources/news/marketaxess-announces-trading-volume-statistics-for-february-2025-202536/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER Will Consult On The Impact Of Peak-Shaving Products On The EU Electricity Market Under Normal Market Conditions](http://www.mondovisione.com/media-and-resources/news/acer-will-consult-on-the-impact-of-peak-shaving-products-on-the-eu-electricity-m-202536/)
+append_entries: 2
+Finish: 2025-03-06 12:42:19.930540
