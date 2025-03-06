@@ -2997,3 +2997,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Hong Kong Capital Markets Wrap Up 2024 On A High Note: Hong Kong Securities And Futures Commission Quarterly Report](http://www.mondovisione.com/media-and-resources/news/hong-kong-capital-markets-wrap-up-2024-on-a-high-note-hong-kong-securities-and-202536/)
 append_entries: 2
 Finish: 2025-03-06 06:30:07.133603
+------------------------------------------------------
+Started: 2025-03-06 08:27:19.866185
+Existing_entries: 459
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASX Group Monthly Activity Report - February 2025](http://www.mondovisione.com/media-and-resources/news/asx-group-monthly-activity-report-february-2025-202536/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SGX Group Announces Management Changes In FX And Technology](http://www.mondovisione.com/media-and-resources/news/sgx-group-announces-management-changes-in-fx-and-technology-202536/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Update - Dividend/Distribution - ASX](http://www.mondovisione.com/media-and-resources/news/update-dividenddistribution-asx-202536/)
+append_entries: 3
+Finish: 2025-03-06 08:27:21.142322
