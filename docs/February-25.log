@@ -3156,3 +3156,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Taiwan Futures Exchange Newsletter - March 2025](http://www.mondovisione.com/media-and-resources/news/taiwan-futures-exchange-newsletter-march-2025-202537/)
 append_entries: 3
 Finish: 2025-03-07 06:29:50.510302
+------------------------------------------------------
+Started: 2025-03-07 08:27:13.160583
+Existing_entries: 488
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-03-07 08:27:14.055667
