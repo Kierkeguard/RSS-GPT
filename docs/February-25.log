@@ -3222,3 +3222,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Cboe Announces Promotion Of Chief Technology Officer Tim Lipscomb To Executive Vice President](http://www.mondovisione.com/media-and-resources/news/cboe-announces-promotion-of-chief-technology-officer-tim-lipscomb-to-executive-v-202537/)
 append_entries: 5
 Finish: 2025-03-07 16:26:39.499909
+------------------------------------------------------
+Started: 2025-03-07 18:33:08.615517
+Existing_entries: 500
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Malawi Stock Exchange Weekly Summary Report, 7 March 2025](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-7-march-2025-202537/)
+append_entries: 1
+Finish: 2025-03-07 18:33:09.493471
