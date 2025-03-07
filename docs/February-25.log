@@ -3162,3 +3162,18 @@ Existing_entries: 488
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-03-07 08:27:14.055667
+------------------------------------------------------
+Started: 2025-03-07 10:22:40.255464
+Existing_entries: 488
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority: Vulnerable Customers Encouraged To Open Up To Firms To Get The Right Support](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-vulnerable-customers-encouraged-to-open-up-to-fi-202537/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Government - Chancellor Meeting With Gilt-Edged Market Makers: Minutes](http://www.mondovisione.com/media-and-resources/news/uk-government-chancellor-meeting-with-gilt-edged-market-makers-minutes-202537/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Vienna Stock Exchange: Austria's Leading Index Surpasses 10,000 Points For The First Time](http://www.mondovisione.com/media-and-resources/news/vienna-stock-exchange-austrias-leading-index-surpasses-10000-points-for-the-f-202537/)
+append_entries: 3
+Finish: 2025-03-07 10:22:41.303323
