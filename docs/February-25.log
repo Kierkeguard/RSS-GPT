@@ -3201,3 +3201,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Better Consultants To Start Trading In BME Scaleup On March 11](http://www.mondovisione.com/media-and-resources/news/better-consultants-to-start-trading-in-bme-scaleup-on-march-11-202537/)
 append_entries: 3
 Finish: 2025-03-07 14:19:49.638614
+------------------------------------------------------
+Started: 2025-03-07 16:26:38.385897
+Existing_entries: 495
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Charges Investment Adviser And Two Officers For Misuse Of Fund And Portfolio Company Assets](http://www.mondovisione.com/media-and-resources/news/sec-charges-investment-adviser-and-two-officers-for-misuse-of-fund-and-portfolio-202537/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Federal Reserve Governor Michelle W. Bowman Remarks On "Monetary Policy Transmission To Real Activity" And The Recent Experience At The 2025 U.S. Monetary Policy Forum, New York, New York](http://www.mondovisione.com/media-and-resources/news/federal-reserve-governor-michelle-w-bowman-remarks-on-monetary-policy-transmis-202537/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The ESAs Acknowledge The European Commission's Amendments To The Technical Standard On Subcontracting Under The Digital Operational Resilience Act](http://www.mondovisione.com/media-and-resources/news/the-esas-acknowledge-the-european-commissions-amendments-to-the-technical-stand-202537/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Miami International Holdings Announces Launch Of Hourly Bitcoin Range Binary Options On MIAXdx](http://www.mondovisione.com/media-and-resources/news/miami-international-holdings-announces-launch-of-hourly-bitcoin-range-binary-opt-202537/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cboe Announces Promotion Of Chief Technology Officer Tim Lipscomb To Executive Vice President](http://www.mondovisione.com/media-and-resources/news/cboe-announces-promotion-of-chief-technology-officer-tim-lipscomb-to-executive-v-202537/)
+append_entries: 5
+Finish: 2025-03-07 16:26:39.499909
