@@ -3231,3 +3231,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Malawi Stock Exchange Weekly Summary Report, 7 March 2025](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-7-march-2025-202537/)
 append_entries: 1
 Finish: 2025-03-07 18:33:09.493471
+------------------------------------------------------
+Started: 2025-03-07 20:22:52.491468
+Existing_entries: 501
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TMX Group Consolidated Trading Statistics - February 2025](http://www.mondovisione.com/media-and-resources/news/tmx-group-consolidated-trading-statistics-february-2025-202537/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euronext Announces Volumes For February 2025](http://www.mondovisione.com/media-and-resources/news/euronext-announces-volumes-for-february-2025-202537/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Investor Alert: Alberta Securities Commission Warns Public About Suspected Crypto Investment Scam Called CanCap](http://www.mondovisione.com/media-and-resources/news/investor-alert-alberta-securities-commission-warns-public-about-suspected-crypt-202537/)
+append_entries: 3
+Finish: 2025-03-07 20:22:53.304329
