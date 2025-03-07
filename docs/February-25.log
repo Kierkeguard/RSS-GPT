@@ -3141,3 +3141,18 @@ Existing_entries: 485
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-03-07 04:26:03.720411
+------------------------------------------------------
+Started: 2025-03-07 06:29:49.685514
+Existing_entries: 485
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SET Launches Public Consultation On Amendments To Regulatory Measures For Short-Selling And HFT Until March 31, 2025](http://www.mondovisione.com/media-and-resources/news/set-launches-public-consultation-on-amendments-to-regulatory-measures-for-short-202537/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [JPX Data Services To Be Offered On Snowflake](http://www.mondovisione.com/media-and-resources/news/jpx-data-services-to-be-offered-on-snowflake-202537/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Taiwan Futures Exchange Newsletter - March 2025](http://www.mondovisione.com/media-and-resources/news/taiwan-futures-exchange-newsletter-march-2025-202537/)
+append_entries: 3
+Finish: 2025-03-07 06:29:50.510302

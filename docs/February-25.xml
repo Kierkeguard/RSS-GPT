@@ -4,6 +4,128 @@
 <title>News Articles</title>
 <link>http://www.mondovisione.com/media-and-resources/news/</link>
 
+<item>
+<title>SET Launches Public Consultation On Amendments To Regulatory Measures For Short-Selling And HFT Until March 31, 2025</title>
+<link>http://www.mondovisione.com/media-and-resources/news/set-launches-public-consultation-on-amendments-to-regulatory-measures-for-short-202537/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/set-launches-public-consultation-on-amendments-to-regulatory-measures-for-short-202537/</guid>
+<content:encoded><![CDATA[
+
+<p>The Stock Exchange of Thailand (SET) announces a market consultation on proposed amendments to regulatory measures governing short-selling and high-frequency trading (HFT). These measures were implemented in 2024 as part of SET's initiative to strengthen investor confidence through enhanced regulatory frameworks. However, following a post-implementation assessment, SET would like to refine these measures for better alignment with current market conditions, while maintaining the importance of volatility controls.</p>
+<p>SET invites all stakeholders to share their feedback on the following "<b>Regulatory Review of</b> <b>Short Selling and HFT</b>" intended to recalibrate existing rules while maintaining a strong focus on mitigating stock price volatility.</p>
+<p>Key proposals in the consultation paper are set out below:</p>
+<p><b>1)&nbsp;&nbsp;&nbsp; Measures for Securities with Significant Price Declines:</b></p>
+<p><b>Revised Uptick Rule for Short-selling</b></p>
+<p><span style="text-decoration: underline;">The uptick rule will be applied only to short-selling of stocks whose closing price declines by 10 percent or more from the previous day&rsquo;s closing price, instead of universally to all short-selling.</span> (The zero-plus tick rule will be the default standard for short-selling orders.) This revision aims to reduce the restrictive impacts of the short-selling measures while aligning with practices of international stock exchanges.</p>
+<p><b>2)&nbsp;&nbsp;&nbsp; Volatility Control Measures for Mid-cap and Small-cap Stocks</b></p>
+<p><b>2.1 </b><b>Revised Criteria for Stocks Eligible for Short-selling and HFT</b><b></b></p>
+<p>Short-selling and HFT will be permitted for SET100 stocks with large capitalization and high liquidity. Stocks satisfying <span style="text-decoration: underline;">the market capitalization threshold of </span><span style="text-decoration: underline;">&sup3;</span><span style="text-decoration: underline;">TH</span><span style="text-decoration: underline;">B </span><span style="text-decoration: underline;">7.5 billion will no longer be eligible</span>.</p>
+<p><b>2.2</b> <b>Revocation of Minimum Resting Time (MRT) </b><b></b></p>
+<p>Following the restriction of HFT to stocks with large capitalization and high liquidity, the MRT measure will no longer be necessary as high-frequency order submission and cancellation are unlikely to disrupt trading in such stocks.</p>
+<p>The public consultation aims to obtain valuable opinions from stakeholders on the proposed amendments to the criteria as mentioned above. The consultation document and details are available on the SET website at&nbsp;<a href="https://www.set.or.th/en/rules-regulations/market-consultation">https://www.set.or.th/en/rules-regulations/market-consultation</a> &nbsp;under <b>"Regulatory Review of Short Selling and HFT."</b> Please share your feedback via <a href="https://forms.gle/jmocr6Fz68zKcJVW9">https://forms.gle/jmocr6Fz68zKcJVW9</a> by March 31, 2025.</p>
+]]></content:encoded>
+<pubDate>Fri, 07 Mar 2025 05:40:58 GMT</pubDate>
+<pubDate>Fri, 07 Mar 2025 05:40:58 GMT</pubDate>
+</item>
+<item>
+<title>JPX Data Services To Be Offered On Snowflake</title>
+<link>http://www.mondovisione.com/media-and-resources/news/jpx-data-services-to-be-offered-on-snowflake-202537/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/jpx-data-services-to-be-offered-on-snowflake-202537/</guid>
+<content:encoded><![CDATA[
+
+<div>
+<p class="component-text">JPX Market Innovation &amp; Research, Inc. (&ldquo;JPXI&rdquo;), a leading global provider of Japan&rsquo;s financial market data, announced that J-Quants Pro datasets will be offered on Snowflake&rsquo;s market-leading data cloud platform later in March 2025. This is the first of JPX&rsquo;s rich and varied data services that will be disseminated via Snowflake as part of the two companies&rsquo; priority partnership.</p>
+</div>
+<div>
+<h2 class="heading-title" id="heading_1"><span>J-Quants Pro Data Service</span></h2>
+</div>
+<div>
+<p class="component-text">J-Quants Pro is a service that offers corporate users extensive historical data and wide coverage of the Japanese market. The lineup includes the below datasets, with more being gradually added. J-Quants Pro&rsquo;s high quality data enables subscribers to conduct highly granular and in-depth market analysis.</p>
+</div>
+<div>
+<div class="component-normal-table">
+<table>
+<tbody>
+<tr class="bg-even">
+<th>J-Quants Datasets</th>
+</tr>
+<tr>
+<td>Detail Breakdown Trading Data</td>
+</tr>
+<tr class="bg-even">
+<td>Trading by Type of Investors</td>
+</tr>
+<tr>
+<td>Margin Trading Outstanding (Issues Subject to Daily Publication)</td>
+</tr>
+<tr class="bg-even">
+<td>Margin Trading Outstanding (Weekly)</td>
+</tr>
+<tr>
+<td>Listed Issue Information</td>
+</tr>
+<tr class="bg-even">
+<td>Financial Summary / Statements (BS/PL)</td>
+</tr>
+<tr>
+<td>Derivatives Trading Volume and Open Interest by Trading Participant / Open Interest by Issue</td>
+</tr>
+<tr class="bg-even">
+<td>ToSTNeT Super Large Lot</td>
+</tr>
+<tr>
+<td>Stock Prices (OHLC)</td>
+</tr>
+<tr class="bg-even">
+<td>Outstanding Short Selling Positions Reported</td>
+</tr>
+<tr>
+<td>Off-Auction Distribution</td>
+</tr>
+<tr class="bg-even">
+<td>Off-Auction Share Buyback (ToSTNeT-3)</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div>
+<p class="component-text">With this new integration, current J-Quants Pro subscribers will be able to access their datasets via Snowflake at no additional cost, supplementing the existing API and SFTP access options. Data trials on Snowflake will be available from the middle of March.</p>
+</div>
+<div><a class="link-window" href="https://pro.jpx-jquants.com/" rel="external">J-Quants Pro Website<img alt="icon-block" height="12" src="https://www.jpx.co.jp/english/common/images/icon/tvdivq000000016t-img/icon-block.png" title="icon-block" width="19" /></a></div>
+<div>
+<p class="component-text">Please access the website above for dataset specifications, sample data, or to apply for a J-Quants Pro subscription.</p>
+</div>
+<div>
+<h2 class="heading-title" id="heading_7"><span>Future of JPX Data on Snowflake</span></h2>
+</div>
+<div>
+<p class="component-text">JPXI is dedicated to facilitating broader access to Japanese financial market data while enhancing convenience for market participants. In addition to J-Quants Pro datasets, users can look forward to an expanding array of JPX data services becoming available on Snowflake&rsquo;s platform in the upcoming months.</p>
+</div>
+<div>
+<div class="component-margin12">&nbsp;</div>
+</div>
+]]></content:encoded>
+<pubDate>Fri, 07 Mar 2025 05:34:31 GMT</pubDate>
+<pubDate>Fri, 07 Mar 2025 05:34:31 GMT</pubDate>
+</item>
+<item>
+<title>Taiwan Futures Exchange Newsletter - March 2025</title>
+<link>http://www.mondovisione.com/media-and-resources/news/taiwan-futures-exchange-newsletter-march-2025-202537/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/taiwan-futures-exchange-newsletter-march-2025-202537/</guid>
+<content:encoded><![CDATA[
+
+<p>Taiwan Futures Exchange (TAIFEX) reported a total trading volume of 46,627,798 contracts in the first two months of 2025, with an average daily volume (ADV) of 1,371,406 contracts. Core TAIEX products continued to drive market activity:</p>
+<ul>
+<li>TAIEX Options (TXO): 644,220 contracts ADV&nbsp;</li>
+<li>Mini TAIEX Futures (MTX): 225,134 contracts ADV&nbsp;</li>
+<li>Micro TAIEX Futures (TMF): 133,749 contracts ADV&nbsp;</li>
+<li>TAIEX Futures (TX): 112,514 contracts ADV</li>
+</ul>
+<p>Click <a href="https://mondovisione.com/_assets/files/TAIFEX-Newsletter-March-2025.pdf" title="TAIFEX Newsletter March 2025.pdf">here</a> for full details.</p>
+]]></content:encoded>
+<pubDate>Fri, 07 Mar 2025 05:51:19 GMT</pubDate>
+<pubDate>Fri, 07 Mar 2025 05:51:19 GMT</pubDate>
+</item>
 
 <item>
 <title>NZX: Change Of External Auditor</title>
