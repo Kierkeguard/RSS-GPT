@@ -3186,3 +3186,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [UK Financial Conduct Authority Sets Out Steps To Support Home Ownership](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-sets-out-steps-to-support-home-ownership-202537/)
 append_entries: 1
 Finish: 2025-03-07 12:40:54.573494
+------------------------------------------------------
+Started: 2025-03-07 14:19:48.766683
+Existing_entries: 492
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BME Opens The Stock Market Session With A Ringing Of The Bell For Gender Equality](http://www.mondovisione.com/media-and-resources/news/bme-opens-the-stock-market-session-with-a-ringing-of-the-bell-for-gender-equalit-202537/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SGX Group Reports Market Statistics For February 2025](http://www.mondovisione.com/media-and-resources/news/sgx-group-reports-market-statistics-for-february-2025-202537/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Better Consultants To Start Trading In BME Scaleup On March 11](http://www.mondovisione.com/media-and-resources/news/better-consultants-to-start-trading-in-bme-scaleup-on-march-11-202537/)
+append_entries: 3
+Finish: 2025-03-07 14:19:49.638614
