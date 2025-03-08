@@ -3357,3 +3357,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [EACH Celebrates Two Years Of The ‘Women In Clearing Network’](http://www.mondovisione.com/media-and-resources/news/each-celebrates-two-years-of-the-women-in-clearing-network-202538/)
 append_entries: 3
 Finish: 2025-03-08 20:17:18.828893
+------------------------------------------------------
+Started: 2025-03-08 22:15:57.031326
+Existing_entries: 519
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-03-08 22:15:58.116948
