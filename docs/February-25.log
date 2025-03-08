@@ -3306,3 +3306,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [US Treasury Department Announces New Appointments](http://www.mondovisione.com/media-and-resources/news/us-treasury-department-announces-new-appointments-202538/)
 append_entries: 4
 Finish: 2025-03-08 06:23:23.650013
+------------------------------------------------------
+Started: 2025-03-08 08:21:12.847565
+Existing_entries: 516
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-03-08 08:21:14.103675
