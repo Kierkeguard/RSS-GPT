@@ -3342,3 +3342,18 @@ Existing_entries: 516
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-03-08 18:22:16.884860
+------------------------------------------------------
+Started: 2025-03-08 20:17:18.039065
+Existing_entries: 516
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tehran Securities Exchange Bulletin - February 2025](http://www.mondovisione.com/media-and-resources/news/tehran-securities-exchange-bulletin-february-2025-202538/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tehran Securities Exchange Weekly Market Snapshot 05 March  2025](http://www.mondovisione.com/media-and-resources/news/tehran-securities-exchange-weekly-market-snapshot-05-march-2025-202538/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [EACH Celebrates Two Years Of The ‘Women In Clearing Network’](http://www.mondovisione.com/media-and-resources/news/each-celebrates-two-years-of-the-women-in-clearing-network-202538/)
+append_entries: 3
+Finish: 2025-03-08 20:17:18.828893
