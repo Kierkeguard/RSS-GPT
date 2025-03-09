@@ -3423,3 +3423,12 @@ Existing_entries: 519
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-03-09 18:21:55.784909
+------------------------------------------------------
+Started: 2025-03-09 20:20:07.289953
+Existing_entries: 519
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NGX Group, Nigeria Central Securities Clearing System, Nigeria Securities And Exchange Commission, And FMACTCE Rally Stakeholders to Accelerate Gender Equality in Nigeria](http://www.mondovisione.com/media-and-resources/news/ngx-group-nigeria-central-securities-clearing-system-nigeria-securities-and-ex-202539/)
+append_entries: 1
+Finish: 2025-03-09 20:20:08.425289
