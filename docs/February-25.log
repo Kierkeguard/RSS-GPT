@@ -3552,3 +3552,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Tel Aviv Stock Exchange Kicks-Off An Initiative For The Upgrading Of The Clearing & Settlement Systems](http://www.mondovisione.com/media-and-resources/news/tel-aviv-stock-exchange-kicks-off-an-initiative-for-the-upgrading-of-the-clearin-2025310/)
 append_entries: 4
 Finish: 2025-03-10 20:23:30.910393
+------------------------------------------------------
+Started: 2025-03-10 22:19:59.086026
+Existing_entries: 538
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Let The Magic Happen! Opening Remarks Of Walt Lukken, President And CEO Of FIA, At The International Futures Industry Conference In Boca Raton, Fla., On 10 March 2025](http://www.mondovisione.com/media-and-resources/news/let-the-magic-happen-opening-remarks-of-walt-lukken-president-and-ceo-of-fia-2025310/)
+append_entries: 1
+Finish: 2025-03-10 22:20:00.516410
