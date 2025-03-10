@@ -3486,3 +3486,21 @@ Existing_entries: 522
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-03-10 12:43:26.724890
+------------------------------------------------------
+Started: 2025-03-10 14:21:38.645065
+Existing_entries: 522
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BlockFills, CQG Partner To Offer Streaming Crypto Liquidity On CQG Platform Clients Of Both Parties To Benefit From New Trading Vehicles And Tools](http://www.mondovisione.com/media-and-resources/news/blockfills-cqg-partner-to-offer-streaming-crypto-liquidity-on-cqg-platform-clie-2025310/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The IFRS Foundation Monitoring Board Reaffirmed The Importance Of Oversight Of The Standard-Setting Activities And Governance By The IFRS Foundation Trustees](http://www.mondovisione.com/media-and-resources/news/the-ifrs-foundation-monitoring-board-reaffirmed-the-importance-of-oversight-of-t-2025310/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [J. Safra Sarasin Group, A Global Leader In Private Banking And Wealth Management, To Acquire A Majority Stake In Saxo Bank, A Leading International Fintech Bank For Investors, Traders, And Institutional (BaaS) Partners - Transaction Aimed At Enhancing The Global Long-Term Potential Of Both J. Safra Sarasin Group, With Client Assets Of Usd 247 Billion, And Saxo Bank, With USD 118 Billion In Client Assets](http://www.mondovisione.com/media-and-resources/news/j-safra-sarasin-group-a-global-leader-in-private-banking-and-wealth-management-2025310/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Hong Kong FinTech Week StartmeupHK Festival 2025 Converge To Celebrate 10 Years Of Scaling Innovation For Evolving World](http://www.mondovisione.com/media-and-resources/news/hong-kong-fintech-week-startmeuphk-festival-2025-converge-to-celebrate-10-years-2025310/)
+append_entries: 4
+Finish: 2025-03-10 14:21:39.874851
