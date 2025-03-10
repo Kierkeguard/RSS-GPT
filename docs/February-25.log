@@ -3510,3 +3510,27 @@ Existing_entries: 526
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-03-10 16:25:42.309542
+------------------------------------------------------
+Started: 2025-03-10 18:28:17.039983
+Existing_entries: 526
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Remarks To The 2025 Annual Washington Conference Of The Institute Of International Bankers, Mark T. Uyeda, SEC Acting Chairman, Washington D.C., March 10, 2025](http://www.mondovisione.com/media-and-resources/news/remarks-to-the-2025-annual-washington-conference-of-the-institute-of-internation-2025310/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Federal Agencies Issue 2024 Shared National Credit Program Report](http://www.mondovisione.com/media-and-resources/news/us-federal-agencies-issue-2024-shared-national-credit-program-report-2025310/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Miami International Holdings Reports Trading Results For February 2025 - Sets Multiple Options Volume And Market Share Records With MIAX Futures Volumes At Record Level](http://www.mondovisione.com/media-and-resources/news/miami-international-holdings-reports-trading-results-for-february-2025-sets-mu-2025310/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cboe Global Markets Plans To Launch S&P 500® Equal Weight Index Options On April 14, 2025](http://www.mondovisione.com/media-and-resources/news/cboe-global-markets-plans-to-launch-sandp-500-equal-weight-index-options-on-april-2025310/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Financial Group Floats Equity On Tehran Securities Exchange](http://www.mondovisione.com/media-and-resources/news/financial-group-floats-equity-on-tehran-securities-exchange-2025310/)
+Append: [ACER Concludes That The Proposed Gas Transmission Tariffs For Hungary Are Largely Compliant With EU Rules](http://www.mondovisione.com/media-and-resources/news/acer-concludes-that-the-proposed-gas-transmission-tariffs-for-hungary-are-largel-2025310/)
+Append: [HKEX Adds Stock Exchange Of Thailand As Recognised Stock Exchange](http://www.mondovisione.com/media-and-resources/news/hkex-adds-stock-exchange-of-thailand-as-recognised-stock-exchange-2025310/)
+Append: [HKEX: Reminder Of Deadline For Applications To The Listing Committee And Listing Review Committee](http://www.mondovisione.com/media-and-resources/news/hkex-reminder-of-deadline-for-applications-to-the-listing-committee-and-listing-2025310/)
+append_entries: 8
+Finish: 2025-03-10 18:28:18.078766
