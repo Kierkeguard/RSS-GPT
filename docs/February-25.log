@@ -3534,3 +3534,21 @@ Append: [HKEX Adds Stock Exchange Of Thailand As Recognised Stock Exchange](http
 Append: [HKEX: Reminder Of Deadline For Applications To The Listing Committee And Listing Review Committee](http://www.mondovisione.com/media-and-resources/news/hkex-reminder-of-deadline-for-applications-to-the-listing-committee-and-listing-2025310/)
 append_entries: 8
 Finish: 2025-03-10 18:28:18.078766
+------------------------------------------------------
+Started: 2025-03-10 20:23:29.531455
+Existing_entries: 534
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Swaps Report Update](http://www.mondovisione.com/media-and-resources/news/cftc-swaps-report-update-2025310/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [How Finansinspektionen Reviews Money Laundering Risks In The Financial Sector In 2025](http://www.mondovisione.com/media-and-resources/news/how-finansinspektionen-reviews-money-laundering-risks-in-the-financial-sector-in-2025310/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Borsa Istanbul  Uptick Rule Will Be Applied In The Session Dated 10 March 2025 In The Equity Market](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-uptick-rule-will-be-applied-in-the-session-dated-10-march-2025-i-2025310/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tel Aviv Stock Exchange Kicks-Off An Initiative For The Upgrading Of The Clearing & Settlement Systems](http://www.mondovisione.com/media-and-resources/news/tel-aviv-stock-exchange-kicks-off-an-initiative-for-the-upgrading-of-the-clearin-2025310/)
+append_entries: 4
+Finish: 2025-03-10 20:23:30.910393
