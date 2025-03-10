@@ -3462,3 +3462,15 @@ Existing_entries: 520
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-03-10 06:25:37.481137
+------------------------------------------------------
+Started: 2025-03-10 08:23:38.790987
+Existing_entries: 520
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Expands The Offering Of Standardized Finnish Equity Derivatives On Nasdaq Derivatives Markets](http://www.mondovisione.com/media-and-resources/news/nasdaq-expands-the-offering-of-standardized-finnish-equity-derivatives-on-nasdaq-2025310/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Zhengzhou Commodity Exchange: Notice On Market Risk](http://www.mondovisione.com/media-and-resources/news/zhengzhou-commodity-exchange-notice-on-market-risk-2025310/)
+append_entries: 2
+Finish: 2025-03-10 08:23:39.903109
