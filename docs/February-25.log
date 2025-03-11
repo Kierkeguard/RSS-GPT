@@ -3618,3 +3618,18 @@ Existing_entries: 546
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-03-11 12:43:08.238850
+------------------------------------------------------
+Started: 2025-03-11 14:21:36.555797
+Existing_entries: 546
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group To Launch Bloomberg Commodity (BCOM) Subindex Futures On March 31](http://www.mondovisione.com/media-and-resources/news/cme-group-to-launch-bloomberg-commodity-bcom-subindex-futures-on-march-31-2025311/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TMX Group Equity Financing Statistics - February 2025](http://www.mondovisione.com/media-and-resources/news/tmx-group-equity-financing-statistics-february-2025-2025311/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Broadridge Investor Pulse Now An Interactive Tool Enabling Public Access To Analyze Investment Behavior Of Nearly 50 Million U.S. Retail Investors](http://www.mondovisione.com/media-and-resources/news/broadridge-investor-pulse-now-an-interactive-tool-enabling-public-access-to-anal-2025311/)
+append_entries: 3
+Finish: 2025-03-11 14:21:37.511780
