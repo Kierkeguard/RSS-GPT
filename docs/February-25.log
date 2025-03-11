@@ -3633,3 +3633,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Broadridge Investor Pulse Now An Interactive Tool Enabling Public Access To Analyze Investment Behavior Of Nearly 50 Million U.S. Retail Investors](http://www.mondovisione.com/media-and-resources/news/broadridge-investor-pulse-now-an-interactive-tool-enabling-public-access-to-anal-2025311/)
 append_entries: 3
 Finish: 2025-03-11 14:21:37.511780
+------------------------------------------------------
+Started: 2025-03-11 16:28:48.082197
+Existing_entries: 549
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BME Scaleup Welcomes Better Consultants](http://www.mondovisione.com/media-and-resources/news/bme-scaleup-welcomes-better-consultants-2025311/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Responds To Final Report Into Safe Hands Complaints](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-responds-to-final-report-into-safe-hands-complain-2025311/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group PLC Transactions In Own Securities](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-transactions-in-own-securities-2025311/)
+append_entries: 3
+Finish: 2025-03-11 16:28:50.557589
