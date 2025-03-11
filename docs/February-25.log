@@ -3612,3 +3612,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Deutsche Börse Group Provides Institutional Clients Access To Crypto Assets Via Clearstream](http://www.mondovisione.com/media-and-resources/news/deutsche-brse-group-provides-institutional-clients-access-to-crypto-assets-via-2025311/)
 append_entries: 2
 Finish: 2025-03-11 10:24:00.985660
+------------------------------------------------------
+Started: 2025-03-11 12:43:06.889481
+Existing_entries: 546
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-03-11 12:43:08.238850
