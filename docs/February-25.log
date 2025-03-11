@@ -3657,3 +3657,25 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Borsa Istanbul: Uptick Rule Will Be Applied In The Session Dated 11 March 2025 In The Equity Market](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-uptick-rule-will-be-applied-in-the-session-dated-11-march-2025-i-2025311/)
 append_entries: 1
 Finish: 2025-03-11 18:30:27.668537
+------------------------------------------------------
+Started: 2025-03-11 20:23:30.732571
+Existing_entries: 553
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIFMA Compliance & Legal Society Announces Mary Schapiro As The Recipient Of The 2025 Alfred J. Rauschman Award](http://www.mondovisione.com/media-and-resources/news/sifma-compliance-and-legal-society-announces-mary-schapiro-as-the-recipient-of-the-2025311/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ISDA India Derivatives Markets Forum, March 11, 2025, Opening Remarks, Scott O’Malia, ISDA Chief Executive](http://www.mondovisione.com/media-and-resources/news/isda-india-derivatives-markets-forum-march-11-2025-opening-remarks-scott-om-2025311/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIFMA Compliance & Legal Society Announces Yoon-Young Lee The Recipient Of The 2025 Diversity, Equity, & Inclusion Advocate Award](http://www.mondovisione.com/media-and-resources/news/sifma-compliance-and-legal-society-announces-yoon-young-lee-the-recipient-of-the-2-2025311/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [EBA Issues Revised List Of ITS Validation Rules](http://www.mondovisione.com/media-and-resources/news/eba-issues-revised-list-of-its-validation-rules-2025311/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euronext Announces March 2025 Annual Review Results Of The AEX® Family](http://www.mondovisione.com/media-and-resources/news/euronext-announces-march-2025-annual-review-results-of-the-aex-family-2025311/)
+Append: [BIS Quarterly Review - March 2025](http://www.mondovisione.com/media-and-resources/news/bis-quarterly-review-march-2025-2025311/)
+append_entries: 6
+Finish: 2025-03-11 20:23:31.690419
