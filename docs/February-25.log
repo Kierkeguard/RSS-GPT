@@ -3600,3 +3600,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Clover & Sony Pictures Television Announce First-Of-Its-Kind Partnership To Champion Small Businesses With The Inaugural Clover x Shark Tank Summit - Solving The Small Business Failure Rate At The Heart Of New Venture; Three Day Conference To Debut This September In Las Vegas](http://www.mondovisione.com/media-and-resources/news/clover-and-sony-pictures-television-announce-first-of-its-kind-partnership-to-cham-2025311/)
 append_entries: 4
 Finish: 2025-03-11 08:27:51.617294
+------------------------------------------------------
+Started: 2025-03-11 10:23:59.736564
+Existing_entries: 544
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER: New Network Code On Demand Response Will Further Advance The Energy Transition](http://www.mondovisione.com/media-and-resources/news/acer-new-network-code-on-demand-response-will-further-advance-the-energy-transi-2025311/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Deutsche Börse Group Provides Institutional Clients Access To Crypto Assets Via Clearstream](http://www.mondovisione.com/media-and-resources/news/deutsche-brse-group-provides-institutional-clients-access-to-crypto-assets-via-2025311/)
+append_entries: 2
+Finish: 2025-03-11 10:24:00.985660
