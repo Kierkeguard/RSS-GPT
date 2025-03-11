@@ -3679,3 +3679,15 @@ Append: [Euronext Announces March 2025 Annual Review Results Of The AEX® Family
 Append: [BIS Quarterly Review - March 2025](http://www.mondovisione.com/media-and-resources/news/bis-quarterly-review-march-2025-2025311/)
 append_entries: 6
 Finish: 2025-03-11 20:23:31.690419
+------------------------------------------------------
+Started: 2025-03-11 22:19:43.121516
+Existing_entries: 559
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Announces End-Of-Month Open Short Interest Positions In Nasdaq Stocks As Of Settlement Date February 28, 2025](http://www.mondovisione.com/media-and-resources/news/nasdaq-announces-end-of-month-open-short-interest-positions-in-nasdaq-stocks-as-2025311/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NYSE Group Consolidated Short Interest Report](http://www.mondovisione.com/media-and-resources/news/nyse-group-consolidated-short-interest-report-2025311/)
+append_entries: 2
+Finish: 2025-03-11 22:19:44.060138
