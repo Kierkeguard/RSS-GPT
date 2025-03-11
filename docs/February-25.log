@@ -3648,3 +3648,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [London Stock Exchange Group PLC Transactions In Own Securities](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-transactions-in-own-securities-2025311/)
 append_entries: 3
 Finish: 2025-03-11 16:28:50.557589
+------------------------------------------------------
+Started: 2025-03-11 18:30:26.835262
+Existing_entries: 552
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Borsa Istanbul: Uptick Rule Will Be Applied In The Session Dated 11 March 2025 In The Equity Market](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-uptick-rule-will-be-applied-in-the-session-dated-11-march-2025-i-2025311/)
+append_entries: 1
+Finish: 2025-03-11 18:30:27.668537
