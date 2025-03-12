@@ -3778,3 +3778,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Miami International Holdings And The Bermuda Stock Exchange Launch New Trading And Settlement Technology Platform](http://www.mondovisione.com/media-and-resources/news/miami-international-holdings-and-the-bermuda-stock-exchange-launch-new-trading-a-2025312/)
 append_entries: 1
 Finish: 2025-03-12 14:21:02.155349
+------------------------------------------------------
+Started: 2025-03-12 16:28:06.927208
+Existing_entries: 574
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euronext Consolidates Settlement On Its Markets To Improve European Capital Markets’ Competitiveness](http://www.mondovisione.com/media-and-resources/news/euronext-consolidates-settlement-on-its-markets-to-improve-european-capital-mark-2025312/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cyprus Stock Exchange Monthly Bulletin - February 2025](http://www.mondovisione.com/media-and-resources/news/cyprus-stock-exchange-monthly-bulletin-february-2025-2025312/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [DTCC’s GTR To Add MiFID/R Reporting Capabilities To Further Support Market Participants With Transaction And Trade Reporting Obligations](http://www.mondovisione.com/media-and-resources/news/dtccs-gtr-to-add-mifidr-reporting-capabilities-to-further-support-market-parti-2025312/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Statement From Nikhil Rathi, Chief Executive Of The UK Financial Conduct Authority, In Response To The UK Government’s Announcement On The Future Of The Payment Systems Regulator (PSR)](http://www.mondovisione.com/media-and-resources/news/statement-from-nikhil-rathi-chief-executive-of-the-uk-financial-conduct-authori-2025312/)
+append_entries: 4
+Finish: 2025-03-12 16:28:07.992946
