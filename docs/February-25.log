@@ -3805,3 +3805,26 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Borsa Istanbul: Uptick Rule Will Be Applied In The Session Dated 12 March 2025 In The Equity Market](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-uptick-rule-will-be-applied-in-the-session-dated-12-march-2025-i-2025312/)
 append_entries: 1
 Finish: 2025-03-12 18:30:18.591771
+------------------------------------------------------
+Started: 2025-03-12 20:23:40.999805
+Existing_entries: 579
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group Inc. Announces First-Quarter 2025 Earnings Release, Conference Call](http://www.mondovisione.com/media-and-resources/news/cme-group-inc-announces-first-quarter-2025-earnings-release-conference-call-2025312/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euronext Announces March 2025 Annual Review Results Of The BEL® Family Indices](http://www.mondovisione.com/media-and-resources/news/euronext-announces-march-2025-annual-review-results-of-the-bel-family-indices-2025312/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euronext Announces March 2025 Annual Review Results Of The PSI® Family](http://www.mondovisione.com/media-and-resources/news/euronext-announces-march-2025-annual-review-results-of-the-psi-family-2025312/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euronext Announces March 2025 Results Of The OBX® Family](http://www.mondovisione.com/media-and-resources/news/euronext-announces-march-2025-results-of-the-obx-family-2025312/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Statement From The Bank Of England On CP18/23 – Diversity And Inclusion In UK Prudential Regulation Authority-Regulated Firms](http://www.mondovisione.com/media-and-resources/news/statement-from-the-bank-of-england-on-cp1823-diversity-and-inclusion-in-uk-pr-2025312/)
+Append: [Update On The UK Financial Conduct Authority’s Enforcement Transparency Proposals](http://www.mondovisione.com/media-and-resources/news/update-on-the-uk-financial-conduct-authoritys-enforcement-transparency-proposal-2025312/)
+Append: [The Lord Mayor Of The City Of London Joins Guavapay To Celebrate Novruz At Historic Mansion House - Where Fintech Meets Tradition: A Celebration Of Culture, Innovation, And Global Business In The Heart Of London](http://www.mondovisione.com/media-and-resources/news/the-lord-mayor-of-the-city-of-london-joins-guavapay-to-celebrate-novruz-at-histo-2025312/)
+append_entries: 7
+Finish: 2025-03-12 20:23:41.886322
