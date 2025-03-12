@@ -3748,3 +3748,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Dave Chapman, Co-Founder Of OSL, Joins Hex Trust’s Advisory Board](http://www.mondovisione.com/media-and-resources/news/dave-chapman-co-founder-of-osl-joins-hex-trusts-advisory-board-2025312/)
 append_entries: 4
 Finish: 2025-03-12 10:22:47.559163
+------------------------------------------------------
+Started: 2025-03-12 12:42:26.723537
+Existing_entries: 568
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [IOSCO Publishes New Consultation Report On Artificial Intelligence In Capital Markets: Use Cases, Risks, And Challenges - Identifies Five Key Findings Following Engagement With IOSCO Members And Stakeholders And Invites Further Feedback](http://www.mondovisione.com/media-and-resources/news/iosco-publishes-new-consultation-report-on-artificial-intelligence-in-capital-ma-2025312/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SET Market Report For February 2025](http://www.mondovisione.com/media-and-resources/news/set-market-report-for-february-2025-2025312/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Stockholm Welcomes HANetf As New ETP Provider](http://www.mondovisione.com/media-and-resources/news/nasdaq-stockholm-welcomes-hanetf-as-new-etp-provider-2025312/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Expands Auction Model To Nasdaq Copenhagen First North Growth Market](http://www.mondovisione.com/media-and-resources/news/nasdaq-expands-auction-model-to-nasdaq-copenhagen-first-north-growth-market-2025312/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Kyle Jannece Joins 4OTC As Head Of Business Development](http://www.mondovisione.com/media-and-resources/news/kyle-jannece-joins-4otc-as-head-of-business-development-2025312/)
+append_entries: 5
+Finish: 2025-03-12 12:42:27.706736
