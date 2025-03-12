@@ -3715,3 +3715,18 @@ Existing_entries: 561
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-03-12 06:30:19.287342
+------------------------------------------------------
+Started: 2025-03-12 08:29:04.368188
+Existing_entries: 561
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Finansinspektionen: Reciprocation Of Norwegian Systemic Risk Buffer](http://www.mondovisione.com/media-and-resources/news/finansinspektionen-reciprocation-of-norwegian-systemic-risk-buffer-2025312/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Singapore Police Force, Monetary Authority Of Singapore And Cyber Security Agency Of Singapore Joint Advisory On Scams Involving Digital Manipulation](http://www.mondovisione.com/media-and-resources/news/singapore-police-force-monetary-authority-of-singapore-and-cyber-security-agenc-2025312/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Times They Are A-Changin’– But Directors’ Duties Aren’t - Keynote Speech By ASIC Chair Joe Longo At The Australian Institute Of Company Directors (AICD) Australian Governance Summit, 12 March 2025](http://www.mondovisione.com/media-and-resources/news/the-times-they-are-a-changin-but-directors-duties-arent-keynote-speech-by-2025312/)
+append_entries: 3
+Finish: 2025-03-12 08:29:05.724438
