@@ -3769,3 +3769,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Kyle Jannece Joins 4OTC As Head Of Business Development](http://www.mondovisione.com/media-and-resources/news/kyle-jannece-joins-4otc-as-head-of-business-development-2025312/)
 append_entries: 5
 Finish: 2025-03-12 12:42:27.706736
+------------------------------------------------------
+Started: 2025-03-12 14:21:01.303569
+Existing_entries: 573
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Miami International Holdings And The Bermuda Stock Exchange Launch New Trading And Settlement Technology Platform](http://www.mondovisione.com/media-and-resources/news/miami-international-holdings-and-the-bermuda-stock-exchange-launch-new-trading-a-2025312/)
+append_entries: 1
+Finish: 2025-03-12 14:21:02.155349
