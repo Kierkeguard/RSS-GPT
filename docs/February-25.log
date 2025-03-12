@@ -3730,3 +3730,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [The Times They Are A-Changin’– But Directors’ Duties Aren’t - Keynote Speech By ASIC Chair Joe Longo At The Australian Institute Of Company Directors (AICD) Australian Governance Summit, 12 March 2025](http://www.mondovisione.com/media-and-resources/news/the-times-they-are-a-changin-but-directors-duties-arent-keynote-speech-by-2025312/)
 append_entries: 3
 Finish: 2025-03-12 08:29:05.724438
+------------------------------------------------------
+Started: 2025-03-12 10:22:46.665457
+Existing_entries: 564
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Compensation For Grid Operators Covering Cross-Border Power Losses Reached New Peak In 2023](http://www.mondovisione.com/media-and-resources/news/compensation-for-grid-operators-covering-cross-border-power-losses-reached-new-p-2025312/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [IOSCO Unveils Work Program For 2025 - Core Focus On Investor Protection And Financial Stability](http://www.mondovisione.com/media-and-resources/news/iosco-unveils-work-program-for-2025-core-focus-on-investor-protection-and-fina-2025312/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIX Reports 4.6% Income Growth In 2024 And Launches Three-Year Growth And Profitability Program](http://www.mondovisione.com/media-and-resources/news/six-reports-46-income-growth-in-2024-and-launches-three-year-growth-and-profit-2025312/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Dave Chapman, Co-Founder Of OSL, Joins Hex Trust’s Advisory Board](http://www.mondovisione.com/media-and-resources/news/dave-chapman-co-founder-of-osl-joins-hex-trusts-advisory-board-2025312/)
+append_entries: 4
+Finish: 2025-03-12 10:22:47.559163
