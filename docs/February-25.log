@@ -3796,3 +3796,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Statement From Nikhil Rathi, Chief Executive Of The UK Financial Conduct Authority, In Response To The UK Government’s Announcement On The Future Of The Payment Systems Regulator (PSR)](http://www.mondovisione.com/media-and-resources/news/statement-from-nikhil-rathi-chief-executive-of-the-uk-financial-conduct-authori-2025312/)
 append_entries: 4
 Finish: 2025-03-12 16:28:07.992946
+------------------------------------------------------
+Started: 2025-03-12 18:30:17.676107
+Existing_entries: 578
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Borsa Istanbul: Uptick Rule Will Be Applied In The Session Dated 12 March 2025 In The Equity Market](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-uptick-rule-will-be-applied-in-the-session-dated-12-march-2025-i-2025312/)
+append_entries: 1
+Finish: 2025-03-12 18:30:18.591771
