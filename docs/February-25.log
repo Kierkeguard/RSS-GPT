@@ -3896,3 +3896,12 @@ Append: [SET: Listed Companies In Tourism And Consumption Sectors Sustain Growth
 Append: [Speech By Craig Stobo, New Zealand Financial Markets AuthorityChairman, Audit And Risk Committee Member, People, Performance And Renumeration Committee Member To The Institute Of Directors And New Zealand Initiative](http://www.mondovisione.com/media-and-resources/news/speech-by-craig-stobo-new-zealand-financial-markets-authoritychairman-audit-an-2025313/)
 append_entries: 7
 Finish: 2025-03-13 10:23:24.286835
+------------------------------------------------------
+Started: 2025-03-13 12:43:12.700312
+Existing_entries: 596
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Dubai Welcomes USD 1 Billion Sukuk Listing By The Government Of Ras Al Khaimah](http://www.mondovisione.com/media-and-resources/news/nasdaq-dubai-welcomes-usd-1-billion-sukuk-listing-by-the-government-of-ras-al-kh-2025313/)
+append_entries: 1
+Finish: 2025-03-13 12:43:13.981022
