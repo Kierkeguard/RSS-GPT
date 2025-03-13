@@ -3905,3 +3905,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Nasdaq Dubai Welcomes USD 1 Billion Sukuk Listing By The Government Of Ras Al Khaimah](http://www.mondovisione.com/media-and-resources/news/nasdaq-dubai-welcomes-usd-1-billion-sukuk-listing-by-the-government-of-ras-al-kh-2025313/)
 append_entries: 1
 Finish: 2025-03-13 12:43:13.981022
+------------------------------------------------------
+Started: 2025-03-13 14:20:34.052426
+Existing_entries: 597
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-03-13 14:20:35.113154
