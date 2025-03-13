@@ -3864,3 +3864,12 @@ Existing_entries: 588
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-03-13 06:30:15.600943
+------------------------------------------------------
+Started: 2025-03-13 08:28:39.832153
+Existing_entries: 588
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Ripple Secures DFSA Licence To Offer Regulated Crypto Payments From DIFC](http://www.mondovisione.com/media-and-resources/news/ripple-secures-dfsa-licence-to-offer-regulated-crypto-payments-from-difc-2025313/)
+append_entries: 1
+Finish: 2025-03-13 08:28:40.976091
