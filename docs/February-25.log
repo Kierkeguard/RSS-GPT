@@ -3939,3 +3939,24 @@ Append: [Amman Stock Exchange Weekly Summary](http://www.mondovisione.com/media-
 Append: [Borsa Istanbul Uptick Rule Will Be Applied In The Session Dated 13 March 2025 In The Equity Market](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-uptick-rule-will-be-applied-in-the-session-dated-13-march-2025-in-2025313/)
 append_entries: 6
 Finish: 2025-03-13 18:30:01.844973
+------------------------------------------------------
+Started: 2025-03-13 20:23:34.179290
+Existing_entries: 603
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euronext Announces March 2025 Quarterly Review Results Of The CAC 40 ESG®](http://www.mondovisione.com/media-and-resources/news/euronext-announces-march-2025-quarterly-review-results-of-the-cac-40-esg-2025313/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LSEGA Financing Plc Announces Pricing Of Its Tender Offer](http://www.mondovisione.com/media-and-resources/news/lsega-financing-plc-announces-pricing-of-its-tender-offer-2025313/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euronext Announces March 2025 Annual Review Results Of The ISEQ® Family](http://www.mondovisione.com/media-and-resources/news/euronext-announces-march-2025-annual-review-results-of-the-iseq-family-2025313/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LSEGA Financing Plc Announces Early Results Of Its Tender Offer](http://www.mondovisione.com/media-and-resources/news/lsega-financing-plc-announces-early-results-of-its-tender-offer-2025313/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euronext Announces March 2025 Quarterly Review Results Of The CAC® Family](http://www.mondovisione.com/media-and-resources/news/euronext-announces-march-2025-quarterly-review-results-of-the-cac-family-2025313/)
+append_entries: 5
+Finish: 2025-03-13 20:23:35.324900
