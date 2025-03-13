@@ -3917,3 +3917,25 @@ Existing_entries: 597
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-03-13 16:28:36.036219
+------------------------------------------------------
+Started: 2025-03-13 18:30:00.986058
+Existing_entries: 597
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Finansinspektionen: Anoto Group Receives A Caution And An Administrative Fine](http://www.mondovisione.com/media-and-resources/news/finansinspektionen-anoto-group-receives-a-caution-and-an-administrative-fine-2025313/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Finansinspektionen: Swedish Pensions Agency receives a remark](http://www.mondovisione.com/media-and-resources/news/finansinspektionen-swedish-pensions-agency-receives-a-remark-2025313/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Borsa Istanbul Announcement Regarding AOF-2 Publishing Date](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-announcement-regarding-aof-2-publishing-date-2025313/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Amman Stock Exchange Eid Al-Fitr Holiday](http://www.mondovisione.com/media-and-resources/news/amman-stock-exchange-eid-al-fitr-holiday-2025313/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Amman Stock Exchange Weekly Summary](http://www.mondovisione.com/media-and-resources/news/amman-stock-exchange-weekly-summary-2025313/)
+Append: [Borsa Istanbul Uptick Rule Will Be Applied In The Session Dated 13 March 2025 In The Equity Market](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-uptick-rule-will-be-applied-in-the-session-dated-13-march-2025-in-2025313/)
+append_entries: 6
+Finish: 2025-03-13 18:30:01.844973
