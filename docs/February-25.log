@@ -3960,3 +3960,25 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Euronext Announces March 2025 Quarterly Review Results Of The CAC® Family](http://www.mondovisione.com/media-and-resources/news/euronext-announces-march-2025-quarterly-review-results-of-the-cac-family-2025313/)
 append_entries: 5
 Finish: 2025-03-13 20:23:35.324900
+------------------------------------------------------
+Started: 2025-03-13 22:19:47.484701
+Existing_entries: 608
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Financial Stability Oversight Council Meetings](http://www.mondovisione.com/media-and-resources/news/us-financial-stability-oversight-council-meetings-2025313/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Staff Withdraws Advisory On Swap Execution Facility Registration Requirement](http://www.mondovisione.com/media-and-resources/news/cftc-staff-withdraws-advisory-on-swap-execution-facility-registration-requiremen-2025313/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nadex Amends Rules Relating To Liability, And Adds Rules Relating To Technology Service Providers](http://www.mondovisione.com/media-and-resources/news/nadex-amends-rules-relating-to-liability-and-adds-rules-relating-to-technology-2025313/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Canadians Losing Millions To Investment Scams: Canadian Securities Administrators, Canadian Anti-Fraud Centre And Royal Canadian Mounted Police Urge Vigilance And Reporting](http://www.mondovisione.com/media-and-resources/news/canadians-losing-millions-to-investment-scams-canadian-securities-administrator-2025313/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [EquiLend Secures Minority Investment From BNY - Strategic Investment Builds On Long-Standing Collaboration Between The Two Organizations](http://www.mondovisione.com/media-and-resources/news/equilend-secures-minority-investment-from-bny-strategic-investment-builds-on-l-2025313/)
+Append: [BIS: Basel Committee Progresses Work To Strengthen Supervisory Effectiveness, Initiates Analytical Work On Information And Communication Technology Risk Management And Synthetic Risk Transfers](http://www.mondovisione.com/media-and-resources/news/bis-basel-committee-progresses-work-to-strengthen-supervisory-effectiveness-in-2025313/)
+append_entries: 6
+Finish: 2025-03-13 22:19:48.785134
