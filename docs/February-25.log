@@ -4006,3 +4006,24 @@ Existing_entries: 614
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-03-14 06:30:01.150260
+------------------------------------------------------
+Started: 2025-03-14 08:27:00.450433
+Existing_entries: 614
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Dubai Financial Services Authority Appoints Alan Linning As Managing Director, Enforcement](http://www.mondovisione.com/media-and-resources/news/the-dubai-financial-services-authority-appoints-alan-linning-as-managing-directo-2025314/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Circular On The Release Of The “Steel Rebar Futures Rules Of The Shanghai Futures Exchange (Revised)” And Other Rules](http://www.mondovisione.com/media-and-resources/news/circular-on-the-release-of-the-steel-rebar-futures-rules-of-the-shanghai-future-2025314/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Joint Advisory On Scammers Impersonating Officers From Monetary Authority Of Singapore, NTUC Union And Financial Institutions Representatives](http://www.mondovisione.com/media-and-resources/news/joint-advisory-on-scammers-impersonating-officers-from-monetary-authority-of-sin-2025314/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIFMA Statement On The Introduction Of The GROWTH Act](http://www.mondovisione.com/media-and-resources/news/sifma-statement-on-the-introduction-of-the-growth-act-2025314/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ISDA Expands SwapsInfo To Include European CDS Trading Activity](http://www.mondovisione.com/media-and-resources/news/isda-expands-swapsinfo-to-include-european-cds-trading-activity-2025314/)
+append_entries: 5
+Finish: 2025-03-14 08:27:01.259077
