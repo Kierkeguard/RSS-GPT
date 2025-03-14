@@ -4027,3 +4027,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ISDA Expands SwapsInfo To Include European CDS Trading Activity](http://www.mondovisione.com/media-and-resources/news/isda-expands-swapsinfo-to-include-european-cds-trading-activity-2025314/)
 append_entries: 5
 Finish: 2025-03-14 08:27:01.259077
+------------------------------------------------------
+Started: 2025-03-14 10:22:28.514400
+Existing_entries: 619
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Closure Of Bursa Malaysia In Conjunction With Nuzul Al-Quran Public Holiday](http://www.mondovisione.com/media-and-resources/news/closure-of-bursa-malaysia-in-conjunction-with-nuzul-al-quran-public-holiday-2025314/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Osaka Exchange: 3-Month TONA Futures Open Interest Surpasses 100,000 Contracts, Setting A New Record](http://www.mondovisione.com/media-and-resources/news/osaka-exchange-3-month-tona-futures-open-interest-surpasses-100000-contracts-2025314/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nominations Of Directors - NZX Limited](http://www.mondovisione.com/media-and-resources/news/nominations-of-directors-nzx-limited-2025314/)
+append_entries: 3
+Finish: 2025-03-14 10:22:29.605927
