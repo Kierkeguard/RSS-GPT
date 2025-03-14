@@ -4077,3 +4077,15 @@ Existing_entries: 629
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-03-14 16:26:32.685368
+------------------------------------------------------
+Started: 2025-03-14 18:29:01.997480
+Existing_entries: 629
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Borsa Istanbul: Re-Determination Of The New Market Segments Of The Shares In The Equity Market’s BIST Stars, BIST Main And BIST Submarket](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-re-determination-of-the-new-market-segments-of-the-shares-in-the-2025314/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Hong Kong Securities And Futures Commission Seeks Disqualification And Compensation Orders Against Entire Former Board Of 3DG Holdings (International) Limited](http://www.mondovisione.com/media-and-resources/news/hong-kong-securities-and-futures-commission-seeks-disqualification-and-compensat-2025314/)
+append_entries: 2
+Finish: 2025-03-14 18:29:03.257022
