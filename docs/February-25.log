@@ -4124,3 +4124,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [FIA Announces New Board Members At Boca 2025](http://www.mondovisione.com/media-and-resources/news/fia-announces-new-board-members-at-boca-2025-2025314/)
 append_entries: 2
 Finish: 2025-03-14 22:19:39.592969
+------------------------------------------------------
+Started: 2025-03-15 01:42:13.623557
+Existing_entries: 640
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Mosaic Finance vs. Eurex: Allegations of Trading Loopholes and Unfair Advantage](http://www.mondovisione.com/media-and-resources/news/mosaic-finance-vs-eurex-allegations-of-trading-loopholes-and-unfair-advantage-2025314/)
+append_entries: 1
+Finish: 2025-03-15 01:42:14.727593
