@@ -4295,3 +4295,12 @@ Existing_entries: 643
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-03-17 04:26:06.558416
+------------------------------------------------------
+Started: 2025-03-17 06:31:24.299002
+Existing_entries: 643
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Mr. Abdullah Mohammed Al Ansari Appointed As CEO Of Qatar Stock Exchange](http://www.mondovisione.com/media-and-resources/news/mr-abdullah-mohammed-al-ansari-appointed-as-ceo-of-qatar-stock-exchange-2025317/)
+append_entries: 1
+Finish: 2025-03-17 06:31:25.173073
