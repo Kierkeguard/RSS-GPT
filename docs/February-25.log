@@ -4411,3 +4411,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ISDA Launches New Report Setting Out The Uses And Value Of Derivatives](http://www.mondovisione.com/media-and-resources/news/isda-launches-new-report-setting-out-the-uses-and-value-of-derivatives-2025317/)
 append_entries: 5
 Finish: 2025-03-17 20:23:56.843534
+------------------------------------------------------
+Started: 2025-03-17 22:21:09.337615
+Existing_entries: 667
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-03-17 22:21:10.261210
