@@ -4390,3 +4390,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ESMA And Bank Of England Conclude A Revised MoU In Respect Of UK-Based CCPs Under EMIR](http://www.mondovisione.com/media-and-resources/news/esma-and-bank-of-england-conclude-a-revised-mou-in-respect-of-uk-based-ccps-unde-2025317/)
 append_entries: 3
 Finish: 2025-03-17 18:28:47.561151
+------------------------------------------------------
+Started: 2025-03-17 20:23:55.972341
+Existing_entries: 662
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Swaps Report Update](http://www.mondovisione.com/media-and-resources/news/cftc-swaps-report-update-2025317/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Jessica Barker To Join SIFMA Advocacy Team](http://www.mondovisione.com/media-and-resources/news/jessica-barker-to-join-sifma-advocacy-team-2025317/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Remarks To The Investment Company Institute’s 2025 Investment Management Conference, Mark T. Uyeda, SEC Acting Chairman, San Diego, CA, March 17, 2025](http://www.mondovisione.com/media-and-resources/news/remarks-to-the-investment-company-institutes-2025-investment-management-confere-2025317/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Notice Of Election Released For CalPERS Board Election](http://www.mondovisione.com/media-and-resources/news/notice-of-election-released-for-calpers-board-election-2025317/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ISDA Launches New Report Setting Out The Uses And Value Of Derivatives](http://www.mondovisione.com/media-and-resources/news/isda-launches-new-report-setting-out-the-uses-and-value-of-derivatives-2025317/)
+append_entries: 5
+Finish: 2025-03-17 20:23:56.843534
