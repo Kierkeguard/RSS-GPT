@@ -4351,3 +4351,15 @@ Append: [Oliver Bourke Appointed Chair Of CISI Accredited Financial Planning Fir
 Append: [Annual Broadridge Global Distribution Achievement Awards Honour Market-Leading Performance And Fastest-Rising Firms Across The Spectrum Of Fund Distribution - BlackRock, Robeco, And J.P. Morgan Asset Management Are Among The Major Category Winners](http://www.mondovisione.com/media-and-resources/news/annual-broadridge-global-distribution-achievement-awards-honour-market-leading-p-2025317/)
 append_entries: 7
 Finish: 2025-03-17 12:44:43.884402
+------------------------------------------------------
+Started: 2025-03-17 14:21:31.275872
+Existing_entries: 655
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [OCC Reappoints Six Board Members, Names Robert Hocking As Special Advisor To The Chairman](http://www.mondovisione.com/media-and-resources/news/occ-reappoints-six-board-members-names-robert-hocking-as-special-advisor-to-the-2025317/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Kraken Introduces Colocation Service For Institutional And Individual Clients, Enabling Ultra-Low Latency Trading - Kraken Engages Beeks Exchange Cloud® To Launch A Colocation Service Designed For Fairness, Accessibility And High Speed Execution, Set To Go Live Later This Year](http://www.mondovisione.com/media-and-resources/news/kraken-introduces-colocation-service-for-institutional-and-individual-clients-e-2025317/)
+append_entries: 2
+Finish: 2025-03-17 14:21:32.556372
