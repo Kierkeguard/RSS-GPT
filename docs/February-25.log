@@ -4375,3 +4375,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [LME Provides Daily Insight Into Off-Warrant Stocks](http://www.mondovisione.com/media-and-resources/news/lme-provides-daily-insight-into-off-warrant-stocks-2025317/)
 append_entries: 2
 Finish: 2025-03-17 16:28:24.491787
+------------------------------------------------------
+Started: 2025-03-17 18:28:46.677927
+Existing_entries: 659
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bank Of England Statement On The European Securities And Markets Authority’s Decision Regarding EU Recognition Of UK Central Counterparties](http://www.mondovisione.com/media-and-resources/news/bank-of-england-statement-on-the-european-securities-and-markets-authoritys-dec-2025317/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESMA Extends The Tiering And Recognition Of The Three UK-Based CCPs](http://www.mondovisione.com/media-and-resources/news/esma-extends-the-tiering-and-recognition-of-the-three-uk-based-ccps-2025317/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESMA And Bank Of England Conclude A Revised MoU In Respect Of UK-Based CCPs Under EMIR](http://www.mondovisione.com/media-and-resources/news/esma-and-bank-of-england-conclude-a-revised-mou-in-respect-of-uk-based-ccps-unde-2025317/)
+append_entries: 3
+Finish: 2025-03-17 18:28:47.561151
