@@ -4363,3 +4363,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Kraken Introduces Colocation Service For Institutional And Individual Clients, Enabling Ultra-Low Latency Trading - Kraken Engages Beeks Exchange Cloud® To Launch A Colocation Service Designed For Fairness, Accessibility And High Speed Execution, Set To Go Live Later This Year](http://www.mondovisione.com/media-and-resources/news/kraken-introduces-colocation-service-for-institutional-and-individual-clients-e-2025317/)
 append_entries: 2
 Finish: 2025-03-17 14:21:32.556372
+------------------------------------------------------
+Started: 2025-03-17 16:28:23.735711
+Existing_entries: 657
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Deutsche Börse Group: Business Indicators For February 2025](http://www.mondovisione.com/media-and-resources/news/deutsche-brse-group-business-indicators-for-february-2025-2025317/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LME Provides Daily Insight Into Off-Warrant Stocks](http://www.mondovisione.com/media-and-resources/news/lme-provides-daily-insight-into-off-warrant-stocks-2025317/)
+append_entries: 2
+Finish: 2025-03-17 16:28:24.491787
