@@ -50,3 +50,18 @@ Append: [TransFICC Supports National Australia Bank In Yieldbroker Migration To 
 Append: [Tehran Securities Exchange New Year Market Holiday](http://www.mondovisione.com/media-and-resources/news/tehran-securities-exchange-new-year-market-holiday-2025318/)
 append_entries: 10
 Finish: 2025-03-18 10:23:29.832314
+------------------------------------------------------
+Started: 2025-03-18 12:44:03.093828
+Existing_entries: 20
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [DTCC’s NSCC To Increase Clearing Hours To Support Extended Trading - Move Builds Upon NSCC’s Continued Efforts To Meet Evolving Client And Industry Needs While Delivering Increased Value To Member Firms](http://www.mondovisione.com/media-and-resources/news/dtccs-nscc-to-increase-clearing-hours-to-support-extended-trading-move-builds-2025318/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [EEX Open To Bite Sized Deals After Nasdaq Power Merger Pulled - Huw Jones, Mondo Visione CEO Insights](http://www.mondovisione.com/media-and-resources/news/eex-open-to-bite-sized-deals-after-nasdaq-power-merger-pulled-huw-jones-mondo-2025318/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Vision Bank Becomes Operational With Finastra’s Cloud-Native, Islamic Banking Treasury Solution - With Finastra Kondor And Managed Services Provided By DXC, The Bank Has Enhanced Its Treasury Trading And Risk Management Capabilities, While Offering Modern, Sharia-Compliant Services](http://www.mondovisione.com/media-and-resources/news/vision-bank-becomes-operational-with-finastras-cloud-native-islamic-banking-tr-2025318/)
+append_entries: 3
+Finish: 2025-03-18 12:44:04.735001
