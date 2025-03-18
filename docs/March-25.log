@@ -65,3 +65,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Vision Bank Becomes Operational With Finastra’s Cloud-Native, Islamic Banking Treasury Solution - With Finastra Kondor And Managed Services Provided By DXC, The Bank Has Enhanced Its Treasury Trading And Risk Management Capabilities, While Offering Modern, Sharia-Compliant Services](http://www.mondovisione.com/media-and-resources/news/vision-bank-becomes-operational-with-finastras-cloud-native-islamic-banking-tr-2025318/)
 append_entries: 3
 Finish: 2025-03-18 12:44:04.735001
+------------------------------------------------------
+Started: 2025-03-18 14:21:11.611264
+Existing_entries: 23
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq To Convene Texas Business Leaders To Honor The Legacy Of Ross Perot Jr. - Texas Governor Greg Abbott To Deliver Speech On The Importance Of Innovation And Public-Private Partnerships In Sustaining Texas’ Economic Leadership](http://www.mondovisione.com/media-and-resources/news/nasdaq-to-convene-texas-business-leaders-to-honor-the-legacy-of-ross-perot-jr-2025318/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Deepens Commitment To Texas With Additional Client Investment Across The Region - Nasdaq To Open New Regional Headquarters In Dallas To Serve Texas And The Southeast U.S. Region](http://www.mondovisione.com/media-and-resources/news/nasdaq-deepens-commitment-to-texas-with-additional-client-investment-across-the-2025318/)
+append_entries: 2
+Finish: 2025-03-18 14:21:12.880889
