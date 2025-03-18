@@ -120,3 +120,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CME Group Announces First Trades Of Solana (SOL) Futures](http://www.mondovisione.com/media-and-resources/news/cme-group-announces-first-trades-of-solana-sol-futures-2025318/)
 append_entries: 1
 Finish: 2025-03-18 20:22:31.058491
+------------------------------------------------------
+Started: 2025-03-18 22:20:08.893752
+Existing_entries: 34
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cboe Global Markets Announces Date Of First-Quarter 2025 Earnings Release And Conference Call](http://www.mondovisione.com/media-and-resources/news/cboe-global-markets-announces-date-of-first-quarter-2025-earnings-release-and-co-2025318/)
+append_entries: 1
+Finish: 2025-03-18 22:20:10.324057
