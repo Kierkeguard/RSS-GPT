@@ -77,3 +77,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Nasdaq Deepens Commitment To Texas With Additional Client Investment Across The Region - Nasdaq To Open New Regional Headquarters In Dallas To Serve Texas And The Southeast U.S. Region](http://www.mondovisione.com/media-and-resources/news/nasdaq-deepens-commitment-to-texas-with-additional-client-investment-across-the-2025318/)
 append_entries: 2
 Finish: 2025-03-18 14:21:12.880889
+------------------------------------------------------
+Started: 2025-03-18 16:28:27.551560
+Existing_entries: 25
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [IETA Calls For Clarity On Role Of Carbon Credits In EU Environmental Claims Rules](http://www.mondovisione.com/media-and-resources/news/ieta-calls-for-clarity-on-role-of-carbon-credits-in-eu-environmental-claims-rule-2025318/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Almost Three Quarters Of Senior Global Financial Services Professionals Expect Financial Crime Risk To Rise In 2025 – Kroll](http://www.mondovisione.com/media-and-resources/news/almost-three-quarters-of-senior-global-financial-services-professionals-expect-f-2025318/)
+append_entries: 2
+Finish: 2025-03-18 16:28:28.551752
