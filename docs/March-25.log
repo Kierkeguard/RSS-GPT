@@ -111,3 +111,12 @@ Append: [ETFGI Reports That Assets Invested In The Global ETFs Industry Reached 
 Append: [Tel Aviv Stock Exchange Launches 3 New Bullet Indices - Tel-Bond Bullet 2029 ILS, Tel-Bond Bullet 10/2028 CPI And Tel-Bond Bullet 2029 Israel Meitav Mutual Funds Will Be The First To Launch Tracking Funds On The 3 Indices](http://www.mondovisione.com/media-and-resources/news/tel-aviv-stock-exchange-launches-3-new-bullet-indices-tel-bond-bullet-2029-ils-2025318/)
 append_entries: 6
 Finish: 2025-03-18 18:30:51.271802
+------------------------------------------------------
+Started: 2025-03-18 20:22:29.877121
+Existing_entries: 33
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group Announces First Trades Of Solana (SOL) Futures](http://www.mondovisione.com/media-and-resources/news/cme-group-announces-first-trades-of-solana-sol-futures-2025318/)
+append_entries: 1
+Finish: 2025-03-18 20:22:31.058491
