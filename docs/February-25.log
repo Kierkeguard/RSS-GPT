@@ -4435,3 +4435,12 @@ Existing_entries: 667
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-03-18 04:26:15.365708
+------------------------------------------------------
+Started: 2025-03-18 06:31:06.598226
+Existing_entries: 667
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Charges New Jersey Investment Adviser And His Firm With Fraud And Other Violations - Defendants Disregarded Their 2021 Settlement And Continued Their Fraud Unabated, Causing $1.6 Million In Harm To Their Fund And The Fund’s Retail Investors](http://www.mondovisione.com/media-and-resources/news/sec-charges-new-jersey-investment-adviser-and-his-firm-with-fraud-and-other-viol-2025318/)
+append_entries: 1
+Finish: 2025-03-18 06:31:07.573634
