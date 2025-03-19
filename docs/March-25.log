@@ -240,3 +240,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ISDA Athens Derivatives Forum, March 19, 2025, Opening Remarks, Scott O’Malia, ISDA Chief Executive Officer](http://www.mondovisione.com/media-and-resources/news/isda-athens-derivatives-forum-march-19-2025-opening-remarks-scott-omalia-i-2025319/)
 append_entries: 1
 Finish: 2025-03-19 20:24:13.627097
+------------------------------------------------------
+Started: 2025-03-19 22:20:28.803300
+Existing_entries: 50
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Commissioner Mersinger To Participate On A Panel At The Digital Chamber’s DC Blockchain Summit](http://www.mondovisione.com/media-and-resources/news/cftc-commissioner-mersinger-to-participate-on-a-panel-at-the-digital-chambers-d-2025319/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Intercontinental Exchange Sets Date For 2025 Virtual Annual Meeting Of Stockholders](http://www.mondovisione.com/media-and-resources/news/intercontinental-exchange-sets-date-for-2025-virtual-annual-meeting-of-stockhold-2025319/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Treasury International Capital Data For January](http://www.mondovisione.com/media-and-resources/news/treasury-international-capital-data-for-january-2025319/)
+append_entries: 3
+Finish: 2025-03-19 22:20:34.035120
