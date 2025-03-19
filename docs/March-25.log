@@ -168,3 +168,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ASIC Puts Car Finance Under The Microscope Including Outcomes For Regional And First Nations Consumers](http://www.mondovisione.com/media-and-resources/news/asic-puts-car-finance-under-the-microscope-including-outcomes-for-regional-and-f-2025319/)
 append_entries: 3
 Finish: 2025-03-19 08:29:26.384198
+------------------------------------------------------
+Started: 2025-03-19 10:23:56.362013
+Existing_entries: 38
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX: OTC Clear To Accept China Government Bonds, Policy Bank Bonds As Collateral For All Derivatives From 21 March 2025](http://www.mondovisione.com/media-and-resources/news/hkex-otc-clear-to-accept-china-government-bonds-policy-bank-bonds-as-collatera-2025319/)
+append_entries: 1
+Finish: 2025-03-19 10:24:01.817287
