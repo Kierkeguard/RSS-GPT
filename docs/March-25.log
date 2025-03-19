@@ -153,3 +153,18 @@ Existing_entries: 35
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-03-19 06:30:34.292053
+------------------------------------------------------
+Started: 2025-03-19 08:29:25.399647
+Existing_entries: 35
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Fiserv Acquires CCV - Acquisition Enhances Fiserv’s Payment Solutions Capabilities And Innovation Across European Market](http://www.mondovisione.com/media-and-resources/news/fiserv-acquires-ccv-acquisition-enhances-fiservs-payment-solutions-capabiliti-2025319/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NZX: Issue Of Ordinary Shares And Performance Rights](http://www.mondovisione.com/media-and-resources/news/nzx-issue-of-ordinary-shares-and-performance-rights-2025319/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Puts Car Finance Under The Microscope Including Outcomes For Regional And First Nations Consumers](http://www.mondovisione.com/media-and-resources/news/asic-puts-car-finance-under-the-microscope-including-outcomes-for-regional-and-f-2025319/)
+append_entries: 3
+Finish: 2025-03-19 08:29:26.384198
