@@ -213,3 +213,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Three Of The World’s Largest Financial Institutions Join The Canton Network’s Global Synchronizer Foundation - The Additions Of Goldman Sachs, HKFMI, And Moody’s Ratings To The Foundation Further Strengthen Canton’s Decentralized Financial Ecosystem](http://www.mondovisione.com/media-and-resources/news/three-of-the-worlds-largest-financial-institutions-join-the-canton-networks-gl-2025319/)
 append_entries: 2
 Finish: 2025-03-19 16:28:13.815749
+------------------------------------------------------
+Started: 2025-03-19 18:30:55.355146
+Existing_entries: 45
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Federal Reserve Board And Federal Open Market Committee Release Economic Projections From The March 18-19 FOMC Meeting](http://www.mondovisione.com/media-and-resources/news/federal-reserve-board-and-federal-open-market-committee-release-economic-project-2025319/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Federal Reserve Issues FOMC Statement](http://www.mondovisione.com/media-and-resources/news/federal-reserve-issues-fomc-statement-2025319/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Commissioner Goldsmith Romero To Participate In ISDA Roundtable](http://www.mondovisione.com/media-and-resources/news/cftc-commissioner-goldsmith-romero-to-participate-in-isda-roundtable-2025319/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Borsa İstanbul Group’s Training Programs Continue](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-groups-training-programs-continue-2025319/)
+append_entries: 4
+Finish: 2025-03-19 18:30:56.375362
