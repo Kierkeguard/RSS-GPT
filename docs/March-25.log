@@ -231,3 +231,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Borsa İstanbul Group’s Training Programs Continue](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-groups-training-programs-continue-2025319/)
 append_entries: 4
 Finish: 2025-03-19 18:30:56.375362
+------------------------------------------------------
+Started: 2025-03-19 20:24:09.092018
+Existing_entries: 49
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ISDA Athens Derivatives Forum, March 19, 2025, Opening Remarks, Scott O’Malia, ISDA Chief Executive Officer](http://www.mondovisione.com/media-and-resources/news/isda-athens-derivatives-forum-march-19-2025-opening-remarks-scott-omalia-i-2025319/)
+append_entries: 1
+Finish: 2025-03-19 20:24:13.627097
