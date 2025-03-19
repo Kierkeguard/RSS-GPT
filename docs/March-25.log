@@ -177,3 +177,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [HKEX: OTC Clear To Accept China Government Bonds, Policy Bank Bonds As Collateral For All Derivatives From 21 March 2025](http://www.mondovisione.com/media-and-resources/news/hkex-otc-clear-to-accept-china-government-bonds-policy-bank-bonds-as-collatera-2025319/)
 append_entries: 1
 Finish: 2025-03-19 10:24:01.817287
+------------------------------------------------------
+Started: 2025-03-19 12:43:19.622906
+Existing_entries: 39
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Taiwan Financial Supervisory Commission Announces Mandatory Clearing Order For New Taiwan Dollar Interest Rate Swap, Effective July 1](http://www.mondovisione.com/media-and-resources/news/taiwan-financial-supervisory-commission-announces-mandatory-clearing-order-for-n-2025319/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Miami International Holdings Announces Offer To Acquire The International Stock Exchange](http://www.mondovisione.com/media-and-resources/news/miami-international-holdings-announces-offer-to-acquire-the-international-stock-2025319/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The EBA Launches Call For Papers For Its 2025 Policy Research Workshop](http://www.mondovisione.com/media-and-resources/news/the-eba-launches-call-for-papers-for-its-2025-policy-research-workshop-2025319/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group PLC Transactions In Own Securities](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-transactions-in-own-securities-2025319/)
+append_entries: 4
+Finish: 2025-03-19 12:43:25.893753
