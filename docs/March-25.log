@@ -201,3 +201,15 @@ Existing_entries: 43
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-03-19 14:21:09.847275
+------------------------------------------------------
+Started: 2025-03-19 16:28:08.789666
+Existing_entries: 43
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC: Generative AI Is Making It Easier For Fraudsters To Fool The Public](http://www.mondovisione.com/media-and-resources/news/cftc-generative-ai-is-making-it-easier-for-fraudsters-to-fool-the-public-2025319/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Three Of The World’s Largest Financial Institutions Join The Canton Network’s Global Synchronizer Foundation - The Additions Of Goldman Sachs, HKFMI, And Moody’s Ratings To The Foundation Further Strengthen Canton’s Decentralized Financial Ecosystem](http://www.mondovisione.com/media-and-resources/news/three-of-the-worlds-largest-financial-institutions-join-the-canton-networks-gl-2025319/)
+append_entries: 2
+Finish: 2025-03-19 16:28:13.815749
