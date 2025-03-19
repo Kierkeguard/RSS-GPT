@@ -129,3 +129,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Cboe Global Markets Announces Date Of First-Quarter 2025 Earnings Release And Conference Call](http://www.mondovisione.com/media-and-resources/news/cboe-global-markets-announces-date-of-first-quarter-2025-earnings-release-and-co-2025318/)
 append_entries: 1
 Finish: 2025-03-18 22:20:10.324057
+------------------------------------------------------
+Started: 2025-03-19 01:45:37.217816
+Existing_entries: 35
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-03-19 01:45:41.960101
