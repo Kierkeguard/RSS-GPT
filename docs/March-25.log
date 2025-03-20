@@ -303,3 +303,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SET, FETCO And EEF Launch Computer Donation Initiative For Underserved Schools On SET's 50th Anniversary](http://www.mondovisione.com/media-and-resources/news/set-fetco-and-eef-launch-computer-donation-initiative-for-underserved-schools-o-2025320/)
 append_entries: 1
 Finish: 2025-03-20 08:28:07.603529
+------------------------------------------------------
+Started: 2025-03-20 10:23:53.091143
+Existing_entries: 59
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CISI Educational Trust Global Awards 2025 Total £21,500](http://www.mondovisione.com/media-and-resources/news/cisi-educational-trust-global-awards-2025-total-21500-2025320/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Puro.earth Reaches Major Milestone Of 1 Million Tonnes Of CO2 Removed - Puro.Earth Confirms 1,000,000 Issuances Of CO2 Removal Certificates (CORCs), Representing Equivalent Tonnes Of CO2 Removed From the Atmosphere](http://www.mondovisione.com/media-and-resources/news/puroearth-reaches-major-milestone-of-1-million-tonnes-of-co2-removed-puroear-2025320/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BNP Paribas‘ Securities Services Business Selected By ProCapital To Provide A Wide Range Of Services In Europe](http://www.mondovisione.com/media-and-resources/news/bnp-paribas-securities-services-business-selected-by-procapital-to-provide-a-wi-2025320/)
+append_entries: 3
+Finish: 2025-03-20 10:23:57.403594
