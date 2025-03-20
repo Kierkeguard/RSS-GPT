@@ -369,3 +369,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Global Financial Centres Index 37 - Confidence Returns While Leading Centres Are Stable](http://www.mondovisione.com/media-and-resources/news/global-financial-centres-index-37-confidence-returns-while-leading-centres-are-2025320/)
 append_entries: 3
 Finish: 2025-03-20 16:28:28.949751
+------------------------------------------------------
+Started: 2025-03-20 18:30:29.680156
+Existing_entries: 73
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Statement On Certain Proof-Of-Work Mining Activities, SEC Division Of Corporation Finance, March 20, 2025](http://www.mondovisione.com/media-and-resources/news/statement-on-certain-proof-of-work-mining-activities-sec-division-of-corporatio-2025320/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Vienna Stock Exchange: Austrian "Aktienbarometer" 2025: Security Ownership In Austria Continues To Rise - Private Pension Provision Is Gaining In Importance: 30% Of Austrians Already Hold Securities](http://www.mondovisione.com/media-and-resources/news/vienna-stock-exchange-austrian-aktienbarometer-2025-security-ownership-in-au-2025320/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Initial Access Document On BME Scaleup From Simply Solar](http://www.mondovisione.com/media-and-resources/news/new-initial-access-document-on-bme-scaleup-from-simply-solar-2025320/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The BME Ombudswoman Office Handled More Than 2,100 Queries In 2024, Up 6%](http://www.mondovisione.com/media-and-resources/news/the-bme-ombudswoman-office-handled-more-than-2100-queries-in-2024-up-6-2025320/)
+append_entries: 4
+Finish: 2025-03-20 18:30:35.073253

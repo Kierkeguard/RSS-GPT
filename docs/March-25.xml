@@ -5,11 +5,167 @@
 <link>http://www.mondovisione.com/media-and-resources/news/</link>
 
 <item>
+<title>Statement On Certain Proof-Of-Work Mining Activities, SEC Division Of Corporation Finance, March 20, 2025</title>
+<link>http://www.mondovisione.com/media-and-resources/news/statement-on-certain-proof-of-work-mining-activities-sec-division-of-corporatio-2025320/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/statement-on-certain-proof-of-work-mining-activities-sec-division-of-corporatio-2025320/</guid>
+<content:encoded><![CDATA[
+
+<h2>Introduction</h2>
+<p>As part of an effort to provide greater clarity on the application of the federal securities laws to crypto assets,<a href="https://www.sec.gov/newsroom/speeches-statements/statement-certain-proof-work-mining-activities-032025?utm_medium=email&amp;utm_source=govdelivery#_ftn1" name="_ftnref1">[1]</a>&nbsp;the Division of Corporation Finance is providing its views<a href="https://www.sec.gov/newsroom/speeches-statements/statement-certain-proof-work-mining-activities-032025?utm_medium=email&amp;utm_source=govdelivery#_ftn2" name="_ftnref2">[2]</a>&nbsp;on certain activities on proof-of-work networks known as &ldquo;mining.&rdquo; Specifically, this statement addresses the mining of crypto assets that are intrinsically linked to the programmatic functioning of a public, permissionless network, and are used to participate in and/or earned for participating in such network&rsquo;s consensus mechanism or otherwise used to maintain and/or earned for maintaining the technological operation and security of such network. We refer in this statement to these crypto assets as &ldquo;Covered Crypto Assets&rdquo;<a href="https://www.sec.gov/newsroom/speeches-statements/statement-certain-proof-work-mining-activities-032025?utm_medium=email&amp;utm_source=govdelivery#_ftn3" name="_ftnref3">[3]</a>&nbsp;and their mining on proof-of-work networks as &ldquo;Protocol Mining.&rdquo;<a href="https://www.sec.gov/newsroom/speeches-statements/statement-certain-proof-work-mining-activities-032025?utm_medium=email&amp;utm_source=govdelivery#_ftn4" name="_ftnref4">[4]</a></p>
+<h2>Protocol Mining</h2>
+<p>Networks rely upon cryptography and economic mechanism design to eliminate the need for designated trusted intermediaries to verify network transactions and provide settlement assurances to users. The operation of each network is governed by an underlying software protocol, consisting of computer code, that programmatically enforces certain network rules, technical requirements, and rewards distributions. Each protocol incorporates a &ldquo;consensus mechanism,&rdquo; or method for enabling the distributed network of unrelated computers (known as &ldquo;nodes&rdquo;) that maintain the peer-to-peer network to agree on the &ldquo;state,&rdquo; or authoritative record of network address ownership balances, transactions, smart contract code, and other data, of the network. Public, permissionless networks allow anyone to participate in the network&rsquo;s operation, including the validation of new transactions to the network in accordance with the network&rsquo;s consensus mechanism.</p>
+<p>Proof-of-work (&ldquo;PoW&rdquo;) is a consensus mechanism that incentivizes network transaction validation by rewarding network participants, called &ldquo;miners,&rdquo; who operate nodes adding computational resources to the network.<a href="https://www.sec.gov/newsroom/speeches-statements/statement-certain-proof-work-mining-activities-032025?utm_medium=email&amp;utm_source=govdelivery#_ftn5" name="_ftnref5">[5]</a>&nbsp;PoW involves validating transactions on a network and adding them in blocks to the distributed ledger. The &ldquo;work&rdquo; in PoW is the computational resources that miners contribute to validate transactions and add new blocks to the network. Miners do not have to own the network&rsquo;s Covered Crypto Asset to validate transactions.</p>
+<p>Miners use computers to solve complex mathematical equations in the form of cryptographic puzzles. Miners compete with their peers to solve these puzzles, and the first miner to solve a puzzle is tasked with accepting batches of transactions from other nodes and validating (or proposing) new blocks of transactions to the network. In exchange for providing validation services, miners earn &ldquo;Rewards&rdquo; in the form of newly &ldquo;minted&rdquo; or created Covered Crypto Assets that are delivered under the terms of the protocol.<a href="https://www.sec.gov/newsroom/speeches-statements/statement-certain-proof-work-mining-activities-032025?utm_medium=email&amp;utm_source=govdelivery#_ftn6" name="_ftnref6">[6]</a>&nbsp;In this way, PoW creates an incentive for miners to invest the resources necessary to add valid blocks to the network.</p>
+<p>A miner providing validation services receives the Reward only after the other nodes in the network verify, through the protocol, that the solution is correct and valid. To this end, once a miner finds the correct solution, it broadcasts this information to other miners who can verify whether the miner properly solved the puzzle to receive the Reward. Once verified, all miners then add the new block to their own copies of the network. PoW is designed to secure the network by requiring miners to spend considerable time and computational resources to authenticate transactions. When the validation process functions in this way, it not only makes it less likely that someone would seek to undermine a network but also makes it less likely that miners could include altered transactions, such as those enabling the &ldquo;double spending&rdquo; of Covered Crypto Assets.<a href="https://www.sec.gov/newsroom/speeches-statements/statement-certain-proof-work-mining-activities-032025?utm_medium=email&amp;utm_source=govdelivery#_ftn7" name="_ftnref7">[7]</a></p>
+<p>In addition to self (or solo) mining, miners can join &ldquo;mining pools,&rdquo; which allow miners to combine their computational resources to increase their chances of successfully validating transactions and mining new blocks on the network. Mining pools have developed into various types, each with differing methods of operation and Reward distribution.<a href="https://www.sec.gov/newsroom/speeches-statements/statement-certain-proof-work-mining-activities-032025?utm_medium=email&amp;utm_source=govdelivery#_ftn8" name="_ftnref8">[8]</a>&nbsp;A pool operator typically is responsible for coordinating the miners&rsquo; computational resources, maintaining the pool&rsquo;s mining hardware and software, overseeing the pool&rsquo;s security measures to protect against theft and cyberattacks, and ensuring that the miners are paid their Rewards. In return, the pool operator charges a fee that is deducted from the miners&rsquo; share of the Rewards earned by the mining pool. Reward payouts vary among pools, although Rewards often are distributed across the mining pool in proportion to the amount of computational resources that each miner contributes to the pool. Miners have no obligation to stay in a pool and can choose to leave a pool at any time.</p>
+<h2>Division&rsquo;s View on Protocol Mining Activities</h2>
+<p>It is the Division&rsquo;s view that &ldquo;Mining Activities&rdquo; (defined in this statement) in connection with Protocol Mining, under the circumstances described in this statement, do not involve the offer and sale of securities within the meaning of Section 2(a)(1) of the Securities Act of 1933 (the &ldquo;Securities Act&rdquo;) and Section 3(a)(10) of the Securities Exchange Act of 1934 (the &ldquo;Exchange Act&rdquo;).<a href="https://www.sec.gov/newsroom/speeches-statements/statement-certain-proof-work-mining-activities-032025?utm_medium=email&amp;utm_source=govdelivery#_ftn9" name="_ftnref9">[9]</a>&nbsp;Accordingly, it is the Division&rsquo;s view that participants in Mining Activities do not need to register transactions with the Commission under the Securities Act or fall within one of the Securities Act&rsquo;s exemptions from registration in connection with these Mining Activities.</p>
+<h2>Protocol Mining Activities Covered by this Statement</h2>
+<p>The Division&rsquo;s view pertains to the following Protocol Mining activities and transactions (&ldquo;Mining Activities&rdquo; and each a &ldquo;Mining Activity&rdquo;): (1) mining Covered Crypto Assets on a PoW network; and (2) the roles of mining pools and pool operators involved in the Protocol Mining process, including their roles in connection with the earning and distribution of Rewards. Only Mining Activities undertaken in connection with the following types of Protocol Mining are addressed in this statement.</p>
+<ul>
+<li>Self (or Solo) Mining, which involves a miner mining Covered Crypto Assets using its own computational resources. The miner may work alone or together with others to operate a node and mine Covered Crypto Assets.</li>
+<li>Mining Pool, which involves miners combining their computational resources with other miners to increase their chances of successfully validating transactions and mining new blocks on the network. Reward payments may flow from the network directly to the miners or indirectly to them through the pool operator.</li>
+</ul>
+<h2>Discussion</h2>
+<p>Section 2(a)(1) of the Securities Act and Section 3(a)(10) of the Exchange Act each defines the term &ldquo;security&rdquo; by providing a list of various financial instruments, including &ldquo;stock,&rdquo; &ldquo;note,&rdquo; and &ldquo;bond.&rdquo; Because a Covered Crypto Asset does not constitute any of the financial instruments that are specifically enumerated in the definition of &ldquo;security,&rdquo; we conduct our analysis of certain transactions involving Covered Crypto Assets in the context of Protocol Mining under the &ldquo;investment contract&rdquo; test set forth in&nbsp;<em>SEC v. W.J. Howey Co.</em><a href="https://www.sec.gov/newsroom/speeches-statements/statement-certain-proof-work-mining-activities-032025?utm_medium=email&amp;utm_source=govdelivery#_ftn10" name="_ftnref10">[10]</a>&nbsp;The &ldquo;<em>Howey test</em>&rdquo; is used to analyze arrangements or instruments not listed in those statutory sections based on their &ldquo;economic realities.&rdquo;<a href="https://www.sec.gov/newsroom/speeches-statements/statement-certain-proof-work-mining-activities-032025?utm_medium=email&amp;utm_source=govdelivery#_ftn11" name="_ftnref11">[11]</a><a name="_Hlk190334973"></a></p>
+<p>In evaluating the economic realities of a transaction, the test is whether there is an investment of money in an enterprise premised on a reasonable expectation of profits to be derived from the entrepreneurial or managerial efforts of others.<a href="https://www.sec.gov/newsroom/speeches-statements/statement-certain-proof-work-mining-activities-032025?utm_medium=email&amp;utm_source=govdelivery#_ftn12" name="_ftnref12">[12]</a>&nbsp;Federal courts since&nbsp;<em>Howey</em>&nbsp;have explained that&nbsp;<em>Howey&rsquo;s</em>&nbsp;&ldquo;efforts of others&rdquo; requirement is satisfied when &ldquo;the efforts made by those other than the investor are the undeniably significant ones, those essential managerial efforts which affect the failure or success of the enterprise.&rdquo;<a href="https://www.sec.gov/newsroom/speeches-statements/statement-certain-proof-work-mining-activities-032025?utm_medium=email&amp;utm_source=govdelivery#_ftn13" name="_ftnref13">[13]</a></p>
+<h3>Self (or Solo) Mining</h3>
+<p>A miner&rsquo;s Self (or Solo) Mining is not undertaken with a reasonable expectation of profits to be derived from the entrepreneurial or managerial efforts of others. Rather, a miner contributes its own computational resources, which secure the network and enable the miner to earn Rewards issued by the network in accordance with its software protocol. To earn Rewards, the miner&rsquo;s activities must comply with the rules of the protocol. By adding its computational resources to the network, the miner merely is engaging in an administrative or ministerial activity to secure the network, validate transactions and add new blocks, and receive Rewards. A miner&rsquo;s expectation to receive Rewards is not derived from any third party&rsquo;s managerial or entrepreneurial efforts upon which the network&rsquo;s success depends. Instead, the expected financial incentive from the protocol is derived from the administrative or ministerial act of Protocol Mining performed by the miner. As such, Rewards are payments to the miner in exchange for services it provides to the network rather than profits derived from the entrepreneurial or managerial efforts of others.</p>
+<h3>Mining Pool</h3>
+<p>Likewise, when a miner combines its computational resources with other miners to increase their chances of successfully mining new blocks on the network, the miner has no expectation of profit derived from the entrepreneurial or managerial efforts of others. By adding its own computational resources to a mining pool, the miner merely is engaging in an administrative or ministerial activity to secure the network, validate transactions and add new blocks, and receive Rewards. In addition, any expectation of profits that the miners have is not derived from the efforts of a third party, such as a pool operator. Even when participating in a mining pool, individual miners still perform the actual mining activity by contributing their computational power to solve the cryptographic puzzles for validation of new blocks. Moreover, whether a miner self (or solo) mines or mines as a member of a mining pool does not alter the nature of Protocol Mining for purposes of the&nbsp;<em>Howey</em>&nbsp;analysis. In either case, Protocol Mining, as described in this statement, remains an administrative or ministerial activity. Further, a pool operator&rsquo;s activities in operating the mining pool using the combined computational resources of participating miners primarily are administrative or ministerial in nature. While some of the pool operator&rsquo;s activities may benefit the group of miners, any such efforts are not sufficient to satisfy&nbsp;<em>Howey&rsquo;s</em>&nbsp;&ldquo;efforts of others&rdquo; requirement because miners primarily are relying on the computational resources that they provide in conjunction with other members to the mining pool to earn profits. To this end, a miner does not join a mining pool based on the ability to earn profits passively from the activities of the pool operator.</p>
+<p><br />For further information, please contact the Division&rsquo;s Office of Chief Counsel by submitting a web-based request form at&nbsp;<a href="https://www.sec.gov/forms/corp_fin_interpretive">https://www.sec.gov/forms/corp_fin_interpretive</a>.</p>
+<div>&nbsp; 
+<hr align="left" size="1" width="33%" />
+<div id="ftn1">
+<p><a href="https://www.sec.gov/newsroom/speeches-statements/statement-certain-proof-work-mining-activities-032025?utm_medium=email&amp;utm_source=govdelivery#_ftnref1" name="_ftn1">[1]</a>&nbsp;For purposes of this statement, a &ldquo;crypto asset&rdquo; is an asset that is generated, issued, and/or transferred using a blockchain or similar distributed ledger technology network (&ldquo;crypto network&rdquo;), including, but not limited to, assets known as &ldquo;tokens,&rdquo; &ldquo;digital assets,&rdquo; &ldquo;virtual currencies,&rdquo; and &ldquo;coins,&rdquo; and that relies on cryptographic protocols. In addition, for purposes of this statement, a &ldquo;network&rdquo; refers to a crypto network.</p>
+</div>
+<div id="ftn2">
+<p><a href="https://www.sec.gov/newsroom/speeches-statements/statement-certain-proof-work-mining-activities-032025?utm_medium=email&amp;utm_source=govdelivery#_ftnref2" name="_ftn2">[2]</a>&nbsp;This statement represents the views of the staff of the Division of Corporation Finance (the &ldquo;Division&rdquo;). It is not a rule, regulation, guidance, or statement of the U.S. Securities and Exchange Commission (&ldquo;Commission&rdquo;), and the Commission has neither approved nor disapproved its content. This statement, like all staff statements, has no legal force or effect: it does not alter or amend applicable law, and it creates no new or additional obligations for any person.</p>
+</div>
+<div id="ftn3">
+<p><a href="https://www.sec.gov/newsroom/speeches-statements/statement-certain-proof-work-mining-activities-032025?utm_medium=email&amp;utm_source=govdelivery#_ftnref3" name="_ftn3">[3]</a>&nbsp;This statement only addresses certain activities involving Covered Crypto Assets that do not have intrinsic economic properties or rights, such as generating a passive yield or conveying rights to future income, profits, or assets of a business enterprise.</p>
+</div>
+<div id="ftn4">
+<p><a href="https://www.sec.gov/newsroom/speeches-statements/statement-certain-proof-work-mining-activities-032025?utm_medium=email&amp;utm_source=govdelivery#_ftnref4" name="_ftn4">[4]</a>&nbsp;This statement only addresses transactions involving Covered Crypto Assets in connection with Protocol Mining and not other transactions involving Covered Crypto Assets.</p>
+</div>
+<div id="ftn5">
+<p><a href="https://www.sec.gov/newsroom/speeches-statements/statement-certain-proof-work-mining-activities-032025?utm_medium=email&amp;utm_source=govdelivery#_ftnref5" name="_ftn5">[5]</a>&nbsp;This statement addresses PoW generally rather than all of PoW&rsquo;s variations or any specific PoW protocol.</p>
+</div>
+<div id="ftn6">
+<p><a href="https://www.sec.gov/newsroom/speeches-statements/statement-certain-proof-work-mining-activities-032025?utm_medium=email&amp;utm_source=govdelivery#_ftnref6" name="_ftn6">[6]</a>&nbsp;The protocol establishes rules on Rewards. Miners cannot change the Rewards they receive as the Reward structure is predetermined by the protocol.</p>
+</div>
+<div id="ftn7">
+<p><a href="https://www.sec.gov/newsroom/speeches-statements/statement-certain-proof-work-mining-activities-032025?utm_medium=email&amp;utm_source=govdelivery#_ftnref7" name="_ftn7">[7]</a>&nbsp;Double spending involves the same crypto assets being sent to two recipients and can occur when ledger entries are altered.</p>
+</div>
+<div id="ftn8">
+<p><a href="https://www.sec.gov/newsroom/speeches-statements/statement-certain-proof-work-mining-activities-032025?utm_medium=email&amp;utm_source=govdelivery#_ftnref8" name="_ftn8">[8]</a>&nbsp;For example, in a &ldquo;pay-per-share&rdquo; model, miners receive a payment for each valid share or block they contribute to the mining pool; regardless of whether the pool successfully mines a block; in a &ldquo;peer-to-peer&rdquo; model, the pool operator&rsquo;s role is decentralized among pool members; and in a &ldquo;proportional&rdquo; model, miners receive Rewards proportional to the amount of work they contribute to successfully mine a block. There also may be hybrid pools that offer a combination of different operational and payout methods.</p>
+</div>
+<div id="ftn9">
+<p><a href="https://www.sec.gov/newsroom/speeches-statements/statement-certain-proof-work-mining-activities-032025?utm_medium=email&amp;utm_source=govdelivery#_ftnref9" name="_ftn9">[9]</a>&nbsp;The Division&rsquo;s view is not dispositive as to whether any specific Mining Activity (defined in this statement) involves the offer and sale of a security.&nbsp;A definitive determination requires analyzing the facts relating to the specific Mining Activity. Where facts vary from those presented in this statement &ndash; such as the way in which pool members may be compensated, how miners or other persons may participate in mining pools, or the activities conducted by pool operators &ndash; the Division&rsquo;s view as to whether the specific Mining Activity involves the offer and sale of a security may be different.</p>
+</div>
+<div id="ftn10">
+<p><a href="https://www.sec.gov/newsroom/speeches-statements/statement-certain-proof-work-mining-activities-032025?utm_medium=email&amp;utm_source=govdelivery#_ftnref10" name="_ftn10">[10]</a>&nbsp;328 U.S. 293 (1946).</p>
+</div>
+<div id="ftn11">
+<p><a href="https://www.sec.gov/newsroom/speeches-statements/statement-certain-proof-work-mining-activities-032025?utm_medium=email&amp;utm_source=govdelivery#_ftnref11" name="_ftn11">[11]</a>&nbsp;&nbsp;<em>See Landreth Timber Co. v. Landreth</em>, 471 U.S. 681, 689 (1985), in which the U.S. Supreme Court suggested that the proper test for determining whether a particular instrument that is not clearly within the definition of &ldquo;stock&rdquo; as set forth in Section 2(a)(1) of the Securities Act, or that otherwise is of an unusual nature, is the economic realities test set forth in&nbsp;<em>Howey</em>. In analyzing whether an instrument is a security, &ldquo;form should be disregarded for substance,&rdquo;&nbsp;<em>Tcherepnin v. Knight</em>, 389 U.S. 332, 336 (1967), &ldquo;and the emphasis should be on economic realities underlying a transaction, and not on the name appended thereto.&rdquo;&nbsp;<em>United Housing Found., Inc. v. Forman</em>, 421 U.S. 837, 849 (1975).</p>
+</div>
+<div id="ftn12">
+<p><a href="https://www.sec.gov/newsroom/speeches-statements/statement-certain-proof-work-mining-activities-032025?utm_medium=email&amp;utm_source=govdelivery#_ftnref12" name="_ftn12">[12]</a>&nbsp;<em>Forman,</em>&nbsp;421 U.S. at 852.</p>
+</div>
+<div id="ftn13">
+<p><a href="https://www.sec.gov/newsroom/speeches-statements/statement-certain-proof-work-mining-activities-032025?utm_medium=email&amp;utm_source=govdelivery#_ftnref13" name="_ftn13">[13]</a>&nbsp;<em>See, e.g., SEC v. v. Glenn W. Turner Enterprises, Inc.</em>, 474 F.2d 476, 482 (9th Cir. 1973).</p>
+</div>
+</div>
+]]></content:encoded>
+<pubDate>Thu, 20 Mar 2025 18:19:27 GMT</pubDate>
+<pubDate>Thu, 20 Mar 2025 18:19:27 GMT</pubDate>
+</item>
+<item>
+<title>Vienna Stock Exchange: Austrian "Aktienbarometer" 2025: Security Ownership In Austria Continues To Rise - Private Pension Provision Is Gaining In Importance: 30% Of Austrians Already Hold Securities</title>
+<link>http://www.mondovisione.com/media-and-resources/news/vienna-stock-exchange-austrian-aktienbarometer-2025-security-ownership-in-au-2025320/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/vienna-stock-exchange-austrian-aktienbarometer-2025-security-ownership-in-au-2025320/</guid>
+<content:encoded><![CDATA[
+
+<p>The latest survey of the "Aktienbarometer" &ndash; an annual survey carried out by the Federation of Austrian Industries, Aktienforum and Vienna Stock Exchange &ndash; shows a continuing upward trend in securities ownership among the Austrian population. Almost one in three Austrians now invests in shares, bonds or investment funds and ETFs. The growing importance of the capital market is reflected in the current figures and shows that long-term wealth accumulation has reached the centre of society.</p>
+<p>According to the study conducted by Peter Hajek, a clear picture emerges: the Austrian population is increasingly focusing on securities as part of their private pension provision. In view of this, IV President Georg Knill emphasises: "Our business location is facing major challenges &ndash; our social security system is becoming ever more expensive and our national budget is under massive pressure. A strong capital market is essential &ndash; not only for the competitiveness of our location, but also for the security of our social system and thus for our prosperity", and continues: "The government programme is still somewhat vague with regard to the capital market &ndash; there is still room for development here in order to strengthen the domestic capital market and strengthen the framework conditions for those people who would like to make provisions.&rdquo;</p>
+<p>The importance of private pension provision is increasing significantly. Austria's pension system stands in stark contrast to capital market-orientated countries such as Denmark or the Netherlands. There are successful models there that show how it could work. "They ensure that long-term investments flow into the economy, innovations are financed and prosperity remains secure. Over 200 per cent of GDP is invested in funded pension plans there. Austria's figure is negligible at not even 7 per cent. This means that Austria has to spend a much higher proportion of its economic output on public pensions," says Angelika Sommer-Hemetsberger, President of the Aktienforum. " The capital market has the potential to complement and significantly reduce the financial burden on social security systems&rdquo;, adds CEO Christoph Boschan of the Vienna Stock Exchange. "Shares are the safest and most profitable asset class in the long term, as more and more people are realising. To forego these returns in the pension system would lead to a loss of income on the one hand and higher costs than in international comparison on the other.&rdquo;</p>
+<h3>Key findings of the study</h3>
+<ul class="list-normal">
+<li>Significant increase in securities ownership: 30% of the domestic population in Austria now own securities (2.3 million).</li>
+<li>In addition to long-term asset accumulation and value preservation, pension provision (57%) is increasingly coming to the fore.&nbsp;</li>
+<li>1.4 million people who do not currently own securities are interested in acquiring them.</li>
+</ul>
+<h3>More information</h3>
+<p><a href="https://www.wienerborse.at/en/listing/shares/investors/aktienbarometer/">Survey &amp; archive</a><br /><a href="https://www.wienerborse.at/en/press/press-photos/info-graphics/">Info graphics</a></p>
+]]></content:encoded>
+<pubDate>Thu, 20 Mar 2025 17:49:00 GMT</pubDate>
+<pubDate>Thu, 20 Mar 2025 17:49:00 GMT</pubDate>
+</item>
+<item>
+<title>New Initial Access Document On BME Scaleup From Simply Solar</title>
+<link>http://www.mondovisione.com/media-and-resources/news/new-initial-access-document-on-bme-scaleup-from-simply-solar-2025320/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/new-initial-access-document-on-bme-scaleup-from-simply-solar-2025320/</guid>
+<content:encoded><![CDATA[
+
+<p><img alt="BME" id="Contenido_Logo" src="https://www.bolsasymercados.es/images/Logos/bme/NotasPrensa/BME_ing.gif" /><span>&nbsp;</span></p>
+<div class="Texto">
+<ul>
+<li><span>It is the sixth company to register an Initial Access Document on the growth markets of BME market so yar this year</span></li>
+</ul>
+<p>The Market Coordination and Listing Committee considers that&nbsp;<span>Simply Solar</span>&nbsp;will meet the requirements for listing on BME Scaleup. It is the sixth company to register an Initial Market Access Document (DIAM) on this BME market.</p>
+<p>The company's Board of Directors has taken a reference price of 4.30 euros per share as a reference for the start of trading, which represents a total value of the company of 4.758.853 million euros.</p>
+<p>The company's Registered Advisor is&nbsp;<span>Orbyn Capital Markets</span>.</p>
+<p><span>Simply Solar</span>, as a subsidiary of Praxia Energy, is specifically dedicated to the engineering and manufacturing of photovoltaic canopies for parking areas, communication antennas, and energy communities. It is focused on innovation and simplicity, with the goal of making solar energy more affordable.</p>
+<p>The&nbsp;<span>Simply Solar</span>&nbsp;Information Document is available on the&nbsp;<a href="https://www.bolsasymercados.es/MTF_Equity/bme-scaleup/ing/Home.aspx">BME Scaleup website</a>, where you can find all the information about the company and its business.</p>
+<p>The growth markets of BME (BME Growth and BME Scaleup) are aimed at small and medium-sized enterprises. In 2024, these markets welcomed 23 new companies and now have more than 150 companies listed for trading.&nbsp;<a href="https://www.bmegrowth.es/ing/Home.aspx" target="_blank">BME Growth</a>&nbsp;allows small-cap companies from all sectors, with a significant presence of technology companies, to finance their growth, with recurring access to capital increases and a broad base of national and international investors. For its part,&nbsp;<a href="https://www.bolsasymercados.es/MTF_Equity/bme-scaleup/ing/Home.aspx" target="_blank">BME Scaleup</a>&nbsp;is especially oriented towards scaleups, although it is also open to other types of companies such as SMEs, REITs, or family businesses. This market adapts to the needs of these companies by relaxing the incorporation requirements while offering the necessary transparency to investors. Among the advantages of accessing capital markets for small and medium-sized enterprises are financing, reputation, visibility, a boost to inorganic growth, and greater ease in attracting and retaining talent.&nbsp;</p>
+<p>With these growth markets, BME completes its service offering. BME has a market for every type of company, from the first approaches to capital markets with the formation of the&nbsp;<a href="https://www.entornopremercado.es/ing/Home">Pre-Market Environment</a>, to large companies listed on the Stock Exchange.&nbsp;</p>
+</div>
+]]></content:encoded>
+<pubDate>Thu, 20 Mar 2025 17:56:45 GMT</pubDate>
+<pubDate>Thu, 20 Mar 2025 17:56:45 GMT</pubDate>
+</item>
+<item>
+<title>The BME Ombudswoman Office Handled More Than 2,100 Queries In 2024, Up 6%</title>
+<link>http://www.mondovisione.com/media-and-resources/news/the-bme-ombudswoman-office-handled-more-than-2100-queries-in-2024-up-6-2025320/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/the-bme-ombudswoman-office-handled-more-than-2100-queries-in-2024-up-6-2025320/</guid>
+<content:encoded><![CDATA[
+
+<p><img alt="BME" id="Contenido_Logo" src="https://www.bolsasymercados.es/images/Logos/bme/NotasPrensa/BME_ing.gif" /><span>&nbsp;</span></p>
+<div class="Texto">
+<ul>
+<li><span>95% of enquiries come from retail investors, with a slight increase in enquiries from issuers, market members and financial institutions.</span></li>
+</ul>
+<ul>
+<li><span>The 6 closed takeover bids and several in process registered in 2024 generated an increase in enquiries about this type of transaction.</span></li>
+</ul>
+<ul>
+<li><span>Once again, this year we received many requests for historical prices from individuals and institutions.</span></li>
+</ul>
+<p>BME's Investor Protection Office has published its&nbsp;<span>2024 Annual Report</span>, which highlights an increase in investor advice and guidance activity. During the year, the Office handled 2,110 queries, 6% more than the previous year. The telephone channel continues to be the most used, followed by e-mail.</p>
+<p>The growth in the Office's activity reflects the increased participation of retail investors in the market, driven by a greater interest in equities in a positive year in terms of returns, which saw a 25% increase in shareholder remuneration for Spanish listed companies.</p>
+<p>The increase in takeover bids in 2024 also explains the rise in the number of enquiries from investors, who want to know the consequences of these operations and the rights of shareholders. BBVA's takeover bid for Banco Sabadell and Brookfield's takeover bid for Grifols have generated doubts among investors as they are still under study or have not yet been authorised.</p>
+<p>Once again, this year, the voluntary deregistration of shares in the Book-Entry Register, possible options for avoiding the costs of holding delisted or suspended securities and warrants were also the subject of questions from investors, with a highlight this year being the voluntary deregistration for holders of shares in Seda de Barcelona (in liquidation).</p>
+<p>Again, in 2024, there were many requests for historical prices of listed securities from entities and individuals who need such data for various uses and purposes, mainly taxation.</p>
+<p>The report also focuses on the detection of fraud and phishing attempts, with cases of fake financial advisors contacting investors on behalf of BME. The Office recalls in its report that BME does not offer investment services or make commercial calls and therefore recommends that investors always verify the authenticity of the communications they receive.</p>
+<p>In addition, the Office of the Investor Ombudsman has issued several recommendations to protect investors and improve market transparency:</p>
+<ul>
+<li>Caution against fraud: do not answer calls or e-mails from supposed financial advisors without verifying where they are coming from.&nbsp;</li>
+<li>Greater clarity in takeover bids: companies involved in takeover bids are urged to provide clear and accessible information to shareholders.&nbsp;</li>
+<li>Ease of renouncing excluded securities: streamlining procedures so that investors can avoid custody fees on illiquid securities and transparency in the execution of stock market orders, intermediaries are recommended to improve information on order execution, avoiding misunderstandings.</li>
+</ul>
+<p>&lsquo;The Office is a safe and efficient channel for anyone interested to access information and clarify their doubts about the execution of transactions in the stock market, especially in the current context of growing investor interest,&rsquo; says Gloria Mart&iacute;nez-Picazo, BME's Investor Protection Officer.</p>
+<p>&nbsp;The full Annual Report is available&nbsp;<a href="https://www.bolsasymercados.es/bme-exchange/docs/docsSubidos/Para-inversores/Protector-Inversor/Informe-Protectora-Inversor-2024.pdf" target="_blank">here</a>&nbsp;(only in spanish)</p>
+</div>
+]]></content:encoded>
+<pubDate>Thu, 20 Mar 2025 17:59:00 GMT</pubDate>
+<pubDate>Thu, 20 Mar 2025 17:59:00 GMT</pubDate>
+</item>
+
+<item>
 <title>Opening Remarks Of Acting CFTC Chairman Caroline D. Pham, CFTC Leadership Speaker Series Featuring Wharton Cypher Accelerator CEO Sarah Hammer</title>
 <link>http://www.mondovisione.com/media-and-resources/news/opening-remarks-of-acting-cftc-chairman-caroline-d-pham-cftc-leadership-speake-2025320/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/opening-remarks-of-acting-cftc-chairman-caroline-d-pham-cftc-leadership-speake-2025320/</guid>
 <content:encoded><![CDATA[
-
 <p>Thank you all for participating in the first installment of the CFTC&rsquo;s 2025 Leadership Speaker Series. I&rsquo;ve always believed one of the keys to continued success as an individual or as an organization is a commitment to life-long learning.</p>
 <p>As a former intern and staffer at the CFTC, I was fortunate to participate in valuable professional development opportunities that enhanced both leadership skills and technical expertise that contribute to not only our shared CFTC mission, but also our professional acumen as individuals. I&rsquo;ve been working on this project for the past couple years and I&rsquo;m excited to launch this initiative to expand access to similar opportunities for staff now.&nbsp;</p>
 <p>I also want to thank the Division of Administration and Shivon Kershaw for coordinating with my office over the last several months to make today&rsquo;s speaker series possible.</p>
@@ -21,14 +177,12 @@
 <p>Thank you, Prof. Hammer, for sharing your time and expertise with the CFTC. And once again, thank you to all our staff for attending.</p>
 ]]></content:encoded>
 <pubDate>Thu, 20 Mar 2025 15:13:24 GMT</pubDate>
-<pubDate>Thu, 20 Mar 2025 15:13:24 GMT</pubDate>
 </item>
 <item>
 <title>Managing Peak Demand In The EU - ACER Peak-Shaving Consultation Is Open</title>
 <link>http://www.mondovisione.com/media-and-resources/news/managing-peak-demand-in-the-eu-acer-peak-shaving-consultation-is-open-2025320/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/managing-peak-demand-in-the-eu-acer-peak-shaving-consultation-is-open-2025320/</guid>
 <content:encoded><![CDATA[
-
 <p>Today, ACER launches a&nbsp;<a class="safe---anchor---wc" href="https://mailservice.acer.europa.eu/lists/lt.php?tid=fUtTUFIIVQABVkwLAVVUHVZcBVcdUAoAVRoBVFcGVQNUBgQGUAUdBQEHWF1TB1sdUF0FUB0GX1VUGg1QVgQZUQwADwgABVVWBlpVRQYEUglbDwdSHQEPAVMaAQYGARlRBVMHHFMHUQVRUFkND1VTUw" rel="noopener noreferrer nofollow" target="_blank">public consultation</a>&nbsp;to assess the impact of developing peak-shaving products on the EU electricity market under normal conditions.</p>
 <p><span style="text-decoration: underline;">What is it about?</span></p>
 <p>Peak-shaving products are market-based tools that enable market participants to reduce their electricity consumption during peak demand periods in exchange for compensation.</p>
@@ -40,14 +194,12 @@
 <p><a class="safe---anchor---wc" href="https://mailservice.acer.europa.eu/lists/lt.php?tid=fUtTUFIIVQABVkwLAVVUHVZcBVcdUAoAVRoBVFcGVQNUBgQGUAUdBQEHWF1TB1sdUF0FUB0GX1VUGg1QVgQZUQwADwgABVVWBlpVRQYEUglbDwdSHQEPAVMaAQYGARlRBVMHHFMHUQVRUFkND1VTUw" rel="noopener noreferrer nofollow" target="_blank">Read more and share your views</a>.</p>
 ]]></content:encoded>
 <pubDate>Thu, 20 Mar 2025 14:25:32 GMT</pubDate>
-<pubDate>Thu, 20 Mar 2025 14:25:32 GMT</pubDate>
 </item>
 <item>
 <title>Global Financial Centres Index 37 - Confidence Returns While Leading Centres Are Stable</title>
 <link>http://www.mondovisione.com/media-and-resources/news/global-financial-centres-index-37-confidence-returns-while-leading-centres-are-2025320/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/global-financial-centres-index-37-confidence-returns-while-leading-centres-are-2025320/</guid>
 <content:encoded><![CDATA[
-
 <h4><strong>GFCI 37 Headlines</strong></h4>
 <p>The 37th edition of the Global Financial Centres Index (GFCI 37) was published today by&nbsp;<a class="safe---anchor---wc" href="https://www.zyen.com/" rel="noopener noreferrer nofollow" target="_blank">Z/Yen Group</a>&nbsp;in partnership with the&nbsp;<a class="safe---anchor---wc" href="https://en.cdi.org.cn/" rel="noopener noreferrer nofollow" target="_blank">China Development Institute</a>&nbsp;(CDI).</p>
 <ul>
@@ -65,9 +217,7 @@
 <p><strong><i>Professor Michael Mainelli, Chairman of Z/Yen, said:<br />&ldquo;Confidence in leading international financial centres remains strong, with a high degree of stability in the rankings. That said, the index period of GFCI 37 falls outside the new US administration. A slow down in US centres may indicate some projected decoupling from global markets.&rdquo;</i></strong></p>
 ]]></content:encoded>
 <pubDate>Thu, 20 Mar 2025 14:53:42 GMT</pubDate>
-<pubDate>Thu, 20 Mar 2025 14:53:42 GMT</pubDate>
 </item>
-
 <item>
 <title>Deutsche Börse Group: Annual Report 2024</title>
 <link>http://www.mondovisione.com/media-and-resources/news/deutsche-brse-group-annual-report-2024-2025320/</link>
