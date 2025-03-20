@@ -318,3 +318,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [BNP Paribas‘ Securities Services Business Selected By ProCapital To Provide A Wide Range Of Services In Europe](http://www.mondovisione.com/media-and-resources/news/bnp-paribas-securities-services-business-selected-by-procapital-to-provide-a-wi-2025320/)
 append_entries: 3
 Finish: 2025-03-20 10:23:57.403594
+------------------------------------------------------
+Started: 2025-03-20 12:41:37.153535
+Existing_entries: 62
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bank Of England: Bank Rate Maintained At 4.5% - March 2025](http://www.mondovisione.com/media-and-resources/news/bank-of-england-bank-rate-maintained-at-45-march-2025-2025320/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group To Launch BrokerTec U.S. Treasury Central Limit Order Book In Chicago To Streamline Trading Between Cash And Futures Markets](http://www.mondovisione.com/media-and-resources/news/cme-group-to-launch-brokertec-us-treasury-central-limit-order-book-in-chicago-2025320/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LME Response To UK Financial Conduct Authority Final Notice](http://www.mondovisione.com/media-and-resources/news/lme-response-to-uk-financial-conduct-authority-final-notice-2025320/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [First UK Financial Conduct Authority Enforcement Action And Fine Against A Recognised Investment Exchange](http://www.mondovisione.com/media-and-resources/news/first-uk-financial-conduct-authority-enforcement-action-and-fine-against-a-recog-2025320/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Malaysian Capital Market Hits Record RM4.2 Trillion In 2024, Stays Resilient Amid Earnings Growth  - Securities Commission Malaysia Releases Annual Report 2024, AOB Annual Report 2024 And Capital Market Stability Review 2024](http://www.mondovisione.com/media-and-resources/news/malaysian-capital-market-hits-record-rm42-trillion-in-2024-stays-resilient-ami-2025320/)
+append_entries: 5
+Finish: 2025-03-20 12:41:38.150257
