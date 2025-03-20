@@ -273,3 +273,24 @@ Existing_entries: 53
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-03-20 04:26:01.989234
+------------------------------------------------------
+Started: 2025-03-20 06:30:26.642202
+Existing_entries: 53
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC: Amendment To Regulation](http://www.mondovisione.com/media-and-resources/news/asic-amendment-to-regulation-2025320/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SGX RegCo Reprimands Directors Of Blackgold Natural Resources Limited, Andreas Rinaldi, Lim Chee San And Bangun Madong Parulian Samosir, And Chief Financial Officer, Suherman Budiono](http://www.mondovisione.com/media-and-resources/news/sgx-regco-reprimands-directors-of-blackgold-natural-resources-limited-andreas-r-2025320/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Updates Markets Disciplinary Panel Regulatory Guidance](http://www.mondovisione.com/media-and-resources/news/asic-updates-markets-disciplinary-panel-regulatory-guidance-2025320/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Zealand Financial Markets Authority Releases Update On Outcomes-Focused Regulation](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-releases-update-on-outcomes-focused-regu-2025320/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Chair Joe Longo Spoke With AICD Managing Director And CEO Mark Rigotti At The Recent Australian Governance Summit](http://www.mondovisione.com/media-and-resources/news/asic-chair-joe-longo-spoke-with-aicd-managing-director-and-ceo-mark-rigotti-at-t-2025320/)
+append_entries: 5
+Finish: 2025-03-20 06:30:31.920209
