@@ -354,3 +354,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Trustly Becomes First Payment Provider To Support Sweden’s Central Bank Instant Settlement System](http://www.mondovisione.com/media-and-resources/news/trustly-becomes-first-payment-provider-to-support-swedens-central-bank-instant-2025320/)
 append_entries: 3
 Finish: 2025-03-20 14:21:42.120234
+------------------------------------------------------
+Started: 2025-03-20 16:28:23.959427
+Existing_entries: 70
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Opening Remarks Of Acting CFTC Chairman Caroline D. Pham, CFTC Leadership Speaker Series Featuring Wharton Cypher Accelerator CEO Sarah Hammer](http://www.mondovisione.com/media-and-resources/news/opening-remarks-of-acting-cftc-chairman-caroline-d-pham-cftc-leadership-speake-2025320/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Managing Peak Demand In The EU - ACER Peak-Shaving Consultation Is Open](http://www.mondovisione.com/media-and-resources/news/managing-peak-demand-in-the-eu-acer-peak-shaving-consultation-is-open-2025320/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Global Financial Centres Index 37 - Confidence Returns While Leading Centres Are Stable](http://www.mondovisione.com/media-and-resources/news/global-financial-centres-index-37-confidence-returns-while-leading-centres-are-2025320/)
+append_entries: 3
+Finish: 2025-03-20 16:28:28.949751
