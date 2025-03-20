@@ -339,3 +339,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Malaysian Capital Market Hits Record RM4.2 Trillion In 2024, Stays Resilient Amid Earnings Growth  - Securities Commission Malaysia Releases Annual Report 2024, AOB Annual Report 2024 And Capital Market Stability Review 2024](http://www.mondovisione.com/media-and-resources/news/malaysian-capital-market-hits-record-rm42-trillion-in-2024-stays-resilient-ami-2025320/)
 append_entries: 5
 Finish: 2025-03-20 12:41:38.150257
+------------------------------------------------------
+Started: 2025-03-20 14:21:36.721055
+Existing_entries: 67
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Deutsche Börse Group: Annual Report 2024](http://www.mondovisione.com/media-and-resources/news/deutsche-brse-group-annual-report-2024-2025320/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [DTCC Joins ERC3643 Association](http://www.mondovisione.com/media-and-resources/news/dtcc-joins-erc3643-association-2025320/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Trustly Becomes First Payment Provider To Support Sweden’s Central Bank Instant Settlement System](http://www.mondovisione.com/media-and-resources/news/trustly-becomes-first-payment-provider-to-support-swedens-central-bank-instant-2025320/)
+append_entries: 3
+Finish: 2025-03-20 14:21:42.120234
