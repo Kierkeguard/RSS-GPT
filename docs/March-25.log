@@ -294,3 +294,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ASIC Chair Joe Longo Spoke With AICD Managing Director And CEO Mark Rigotti At The Recent Australian Governance Summit](http://www.mondovisione.com/media-and-resources/news/asic-chair-joe-longo-spoke-with-aicd-managing-director-and-ceo-mark-rigotti-at-t-2025320/)
 append_entries: 5
 Finish: 2025-03-20 06:30:31.920209
+------------------------------------------------------
+Started: 2025-03-20 08:28:02.254190
+Existing_entries: 58
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SET, FETCO And EEF Launch Computer Donation Initiative For Underserved Schools On SET's 50th Anniversary](http://www.mondovisione.com/media-and-resources/news/set-fetco-and-eef-launch-computer-donation-initiative-for-underserved-schools-o-2025320/)
+append_entries: 1
+Finish: 2025-03-20 08:28:07.603529
