@@ -387,3 +387,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [The BME Ombudswoman Office Handled More Than 2,100 Queries In 2024, Up 6%](http://www.mondovisione.com/media-and-resources/news/the-bme-ombudswoman-office-handled-more-than-2100-queries-in-2024-up-6-2025320/)
 append_entries: 4
 Finish: 2025-03-20 18:30:35.073253
+------------------------------------------------------
+Started: 2025-03-20 20:23:44.375249
+Existing_entries: 77
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Announces Agenda, Panelists For Roundtable On Artificial Intelligence](http://www.mondovisione.com/media-and-resources/news/sec-announces-agenda-panelists-for-roundtable-on-artificial-intelligence-2025320/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ISDA IQ - International Banker: Appropriate Capital Rules Are Critical For Financial Markets](http://www.mondovisione.com/media-and-resources/news/isda-iq-international-banker-appropriate-capital-rules-are-critical-for-finan-2025320/)
+append_entries: 2
+Finish: 2025-03-20 20:23:49.352325
