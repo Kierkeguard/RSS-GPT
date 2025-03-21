@@ -486,3 +486,21 @@ Existing_entries: 90
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-03-21 14:20:20.567540
+------------------------------------------------------
+Started: 2025-03-21 16:27:31.881312
+Existing_entries: 90
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Market Data Reforms – Complicated, Cumbersome, Or Comprehensive: By Kelvin To, Founder And President Of Data Boiler Technologies](http://www.mondovisione.com/media-and-resources/news/us-market-data-reforms-complicated-cumbersome-or-comprehensive-by-kelvin-to-2025321/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Statement By Federal Reserve Governor Christopher J. Waller](http://www.mondovisione.com/media-and-resources/news/statement-by-federal-reserve-governor-christopher-j-waller-2025321/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Malawi Stock Exchange Weekly Summary Report 21 March 2025](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-21-march-2025-2025321/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ICE First Look At Mortgage Performance: Mortgage Delinquencies Continue To Slowly Rise With FHA Performance In The Spotlight](http://www.mondovisione.com/media-and-resources/news/ice-first-look-at-mortgage-performance-mortgage-delinquencies-continue-to-slowl-2025321/)
+append_entries: 4
+Finish: 2025-03-21 16:27:37.279693
