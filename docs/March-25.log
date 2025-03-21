@@ -510,3 +510,25 @@ Existing_entries: 94
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-03-21 18:30:08.049565
+------------------------------------------------------
+Started: 2025-03-21 20:22:48.539084
+Existing_entries: 94
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Remarks To Crypto Task Force Roundtable 1 - “Defining Security Status”, SEC Commissioner Caroline A. Crenshaw, Washington D.C., March 21, 2025](http://www.mondovisione.com/media-and-resources/news/remarks-to-crypto-task-force-roundtable-1-defining-security-status-sec-comm-2025321/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Remarks At The Crypto Task Force’s Inaugural Roundtable, Mark T. Uyeda, SEC Acting Chairman, Washington D.C., March 21, 2025](http://www.mondovisione.com/media-and-resources/news/remarks-at-the-crypto-task-forces-inaugural-roundtable-mark-t-uyeda-sec-acti-2025321/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [At The SEC: It Is Finally Spring, SEC Commissioner Hester M. Peirce, Washington D.C., March 21, 2025](http://www.mondovisione.com/media-and-resources/news/at-the-sec-it-is-finally-spring-sec-commissioner-hester-m-peirce-washington-2025321/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority To Scrutinise Whether Pure Protection Market Provides Fair Value To Consumers](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-to-scrutinise-whether-pure-protection-market-prov-2025321/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bank Of England - Asset Purchase Facility: Gilt Sales – Market Notice 21 March 2025](http://www.mondovisione.com/media-and-resources/news/bank-of-england-asset-purchase-facility-gilt-sales-market-notice-21-march-2-2025321/)
+Append: [Athens Exchange Group Response To Media Reports Regarding The Closing Prices Of The Alternative Market](http://www.mondovisione.com/media-and-resources/news/athens-exchange-group-response-to-media-reports-regarding-the-closing-prices-of-2025321/)
+append_entries: 6
+Finish: 2025-03-21 20:22:49.727221
