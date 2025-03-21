@@ -532,3 +532,26 @@ Append: [Bank Of England - Asset Purchase Facility: Gilt Sales – Market Notice
 Append: [Athens Exchange Group Response To Media Reports Regarding The Closing Prices Of The Alternative Market](http://www.mondovisione.com/media-and-resources/news/athens-exchange-group-response-to-media-reports-regarding-the-closing-prices-of-2025321/)
 append_entries: 6
 Finish: 2025-03-21 20:22:49.727221
+------------------------------------------------------
+Started: 2025-03-21 22:20:32.992077
+Existing_entries: 100
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Federal Court Orders Recovery Of Nearly $2.3M For Victims Of An Online Romance Scam - Ruling Stems From A CFTC Complaint Against Debiex](http://www.mondovisione.com/media-and-resources/news/federal-court-orders-recovery-of-nearly-23m-for-victims-of-an-online-romance-s-2025321/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX: Order Instituting Proceedings - New FINRA Rules 12808 And 13808 (Accelerated Processing) For Qualified Parties](http://www.mondovisione.com/media-and-resources/news/cftc-order-instituting-proceedings-new-finra-rules-12808-and-13808-accelerat-2025321/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Commitments Of Traders Reports Update](http://www.mondovisione.com/media-and-resources/news/cftc-commitments-of-traders-reports-update-2025321/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Office Of The Comptroller Of The Currency Reports Fourth Quarter 2024 Bank Trading Revenue](http://www.mondovisione.com/media-and-resources/news/uk-office-of-the-comptroller-of-the-currency-reports-fourth-quarter-2024-bank-tr-2025321/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [America’s Critical Infrastructure Sectors Urge Congress To Reauthorize Cybersecurity Information-Sharing Law](http://www.mondovisione.com/media-and-resources/news/americas-critical-infrastructure-sectors-urge-congress-to-reauthorize-cybersecu-2025321/)
+Append: [Federal Reserve Board Releases Annual Audited Financial Statements](http://www.mondovisione.com/media-and-resources/news/federal-reserve-board-releases-annual-audited-financial-statements-2025321/)
+Append: [Nigerian Exchange Weekly Market Report For The Week Ended 21 March 2025](http://www.mondovisione.com/media-and-resources/news/nigerian-exchange-weekly-market-report-for-the-week-ended-21-march-2025-2025321/)
+append_entries: 7
+Finish: 2025-03-21 22:20:37.456212
