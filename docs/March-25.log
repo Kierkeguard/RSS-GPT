@@ -450,3 +450,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [US Office Of The Comptroller Of The Currency Ceases Examinations For Reputation Risk](http://www.mondovisione.com/media-and-resources/news/us-office-of-the-comptroller-of-the-currency-ceases-examinations-for-reputation-2025321/)
 append_entries: 2
 Finish: 2025-03-21 06:32:12.646122
+------------------------------------------------------
+Started: 2025-03-21 08:27:30.427967
+Existing_entries: 86
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Solactive On A Winning Streak: Industry Recognition Across Europe And APAC](http://www.mondovisione.com/media-and-resources/news/solactive-on-a-winning-streak-industry-recognition-across-europe-and-apac-2025321/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group PLC Transactions In Own Securities](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-transactions-in-own-securities-2025321/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Notice Of NZX Participant Rule And Clearing And Settlement Procedure Amendments – Closure Of The Fonterra Shareholders’ Market](http://www.mondovisione.com/media-and-resources/news/notice-of-nzx-participant-rule-and-clearing-and-settlement-procedure-amendments-2025321/)
+append_entries: 3
+Finish: 2025-03-21 08:27:37.252657
