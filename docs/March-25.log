@@ -438,3 +438,15 @@ Existing_entries: 84
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-03-21 04:25:44.479814
+------------------------------------------------------
+Started: 2025-03-21 06:32:07.741749
+Existing_entries: 84
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Staff Issues Interpretation Regarding Financial Reporting Requirements For Japanese Nonbank Swap Dealers](http://www.mondovisione.com/media-and-resources/news/cftc-staff-issues-interpretation-regarding-financial-reporting-requirements-for-2025321/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Office Of The Comptroller Of The Currency Ceases Examinations For Reputation Risk](http://www.mondovisione.com/media-and-resources/news/us-office-of-the-comptroller-of-the-currency-ceases-examinations-for-reputation-2025321/)
+append_entries: 2
+Finish: 2025-03-21 06:32:12.646122
