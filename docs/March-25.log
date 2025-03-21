@@ -480,3 +480,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Business Confidence Soars As Market Looks Ahead To Volatility Under Trump 2.0](http://www.mondovisione.com/media-and-resources/news/business-confidence-soars-as-market-looks-ahead-to-volatility-under-trump-20-2025321/)
 append_entries: 1
 Finish: 2025-03-21 12:42:05.896873
+------------------------------------------------------
+Started: 2025-03-21 14:20:15.003561
+Existing_entries: 90
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-03-21 14:20:20.567540
