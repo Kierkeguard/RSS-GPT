@@ -825,3 +825,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Growth: What Does It Take In Today’s World? - Lecture By Andrew Bailey, Governor, Bank Of England, Given At The Chancellor’s Distinguished Lecture Series, The University Of Leicester](http://www.mondovisione.com/media-and-resources/news/growth-what-does-it-take-in-todays-world-lecture-by-andrew-bailey-governor-2025324/)
 append_entries: 4
 Finish: 2025-03-24 20:21:48.694095
+------------------------------------------------------
+Started: 2025-03-24 22:21:43.651379
+Existing_entries: 129
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq To Hold First Quarter 2025 Investor Conference Call](http://www.mondovisione.com/media-and-resources/news/nasdaq-to-hold-first-quarter-2025-investor-conference-call-2025324/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Montréal Exchange President And CEO Luc Fortin To Present At The 23rd Annual National Bank Financial Services Conference](http://www.mondovisione.com/media-and-resources/news/montral-exchange-president-and-ceo-luc-fortin-to-present-at-the-23rd-annual-nat-2025324/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Swaps Report Update](http://www.mondovisione.com/media-and-resources/news/cftc-swaps-report-update-2025324/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Helping Small Businesses Reach Their Potential, Federal Reserve Governor Michael S. Barr, At The Aspen Institute, Washington, D.C.](http://www.mondovisione.com/media-and-resources/news/helping-small-businesses-reach-their-potential-federal-reserve-governor-michael-2025324/)
+append_entries: 4
+Finish: 2025-03-24 22:21:44.474196
