@@ -759,3 +759,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [London Stock Exchange Group PLC Transactions In Own Securities](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-transactions-in-own-securities-2025324/)
 append_entries: 3
 Finish: 2025-03-24 12:45:09.834059
+------------------------------------------------------
+Started: 2025-03-24 14:21:40.036856
+Existing_entries: 115
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [9fin Acquires Bond Radar To Expand Into Global Debt Market Coverage](http://www.mondovisione.com/media-and-resources/news/9fin-acquires-bond-radar-to-expand-into-global-debt-market-coverage-2025324/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [María Santos, New Head REGIS-TR, SIX As Of 1st April 2025](http://www.mondovisione.com/media-and-resources/news/mara-santos-new-head-regis-tr-six-as-of-1st-april-2025-2025324/)
+append_entries: 2
+Finish: 2025-03-24 14:21:44.536289
