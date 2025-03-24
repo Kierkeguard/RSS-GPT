@@ -807,3 +807,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [The Amman Stock Exchange Requests Listed Companies To File The Annual Financial Statements Of 2024 Before The End Of The Specified Date](http://www.mondovisione.com/media-and-resources/news/the-amman-stock-exchange-requests-listed-companies-to-file-the-annual-financial-2025324/)
 append_entries: 4
 Finish: 2025-03-24 18:31:11.818042
+------------------------------------------------------
+Started: 2025-03-24 20:21:43.135870
+Existing_entries: 125
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Changes To The Expanded Opening And Intra-Day Quote Width Requirements And Order Monitor Settings For Certain Symbols Trading On MIAX Options And MIAX Emerald Options Beginning Tuesday, April 1, 2025, Through Monday, June 30, 2025](http://www.mondovisione.com/media-and-resources/news/changes-to-the-expanded-opening-and-intra-day-quote-width-requirements-and-order-2025324/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Office Of The Comptroller Of The Currency Reports Mortgage Performance For Fourth Quarter Of 2024](http://www.mondovisione.com/media-and-resources/news/us-office-of-the-comptroller-of-the-currency-reports-mortgage-performance-for-fo-2025324/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ISDA derivatiViews: Setting Out The Value Proposition Of Derivatives](http://www.mondovisione.com/media-and-resources/news/isda-derivativiews-setting-out-the-value-proposition-of-derivatives-2025324/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Growth: What Does It Take In Today’s World? - Lecture By Andrew Bailey, Governor, Bank Of England, Given At The Chancellor’s Distinguished Lecture Series, The University Of Leicester](http://www.mondovisione.com/media-and-resources/news/growth-what-does-it-take-in-todays-world-lecture-by-andrew-bailey-governor-2025324/)
+append_entries: 4
+Finish: 2025-03-24 20:21:48.694095
