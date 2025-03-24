@@ -789,3 +789,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Euronext STAR Conference: The 2025 Edition Kicks Off](http://www.mondovisione.com/media-and-resources/news/euronext-star-conference-the-2025-edition-kicks-off-2025324/)
 append_entries: 4
 Finish: 2025-03-24 16:29:23.069140
+------------------------------------------------------
+Started: 2025-03-24 18:31:06.098324
+Existing_entries: 121
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Finansinspektionen - Legal Position: Rule Interpretation For Deposits Via Digital Platforms](http://www.mondovisione.com/media-and-resources/news/finansinspektionen-legal-position-rule-interpretation-for-deposits-via-digita-2025324/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Household Savings In Sweden](http://www.mondovisione.com/media-and-resources/news/household-savings-in-sweden-2025324/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Simply Solar Joins BME Scaleup On March 26](http://www.mondovisione.com/media-and-resources/news/simply-solar-joins-bme-scaleup-on-march-26-2025324/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Amman Stock Exchange Requests Listed Companies To File The Annual Financial Statements Of 2024 Before The End Of The Specified Date](http://www.mondovisione.com/media-and-resources/news/the-amman-stock-exchange-requests-listed-companies-to-file-the-annual-financial-2025324/)
+append_entries: 4
+Finish: 2025-03-24 18:31:11.818042
