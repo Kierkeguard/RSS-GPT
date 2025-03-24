@@ -744,3 +744,18 @@ Existing_entries: 112
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-03-24 10:24:37.664962
+------------------------------------------------------
+Started: 2025-03-24 12:45:08.940964
+Existing_entries: 112
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [iBTC To Enable Bitcoin-Based Margin Flows For Institutional Counterparties On The Canton Network - The Partnership Marks The First Time Bitcoin Can Serve As Collateral For OTC Derivatives Margin Flows While Maintaining Transactional Privacy And Efficiency](http://www.mondovisione.com/media-and-resources/news/ibtc-to-enable-bitcoin-based-margin-flows-for-institutional-counterparties-on-th-2025324/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [A USD$25 Billion Public-Private Ghana Climate Futures And Socio-Economic Initiative Is Agreed](http://www.mondovisione.com/media-and-resources/news/a-usd25-billion-public-private-ghana-climate-futures-and-socio-economic-initiat-2025324/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group PLC Transactions In Own Securities](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-transactions-in-own-securities-2025324/)
+append_entries: 3
+Finish: 2025-03-24 12:45:09.834059
