@@ -717,3 +717,24 @@ Existing_entries: 107
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-03-24 06:31:57.445584
+------------------------------------------------------
+Started: 2025-03-24 08:29:31.996803
+Existing_entries: 107
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Regulated Blockchain: Foundation For An Effective And Efficient Financial Sector](http://www.mondovisione.com/media-and-resources/news/regulated-blockchain-foundation-for-an-effective-and-efficient-financial-sector-2025324/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [nxtAssets GmbH Becomes New Crypto ETP Issuer At SIX Swiss Exchange](http://www.mondovisione.com/media-and-resources/news/nxtassets-gmbh-becomes-new-crypto-etp-issuer-at-six-swiss-exchange-2025324/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SET Achieves SBTi Approval For Its Net-Zero 2050 Target, Accelerating Its Plan To Tackle Global Warming](http://www.mondovisione.com/media-and-resources/news/set-achieves-sbti-approval-for-its-net-zero-2050-target-accelerating-its-plan-t-2025324/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX Welcomes Asia’s First Single Stock L&I Products](http://www.mondovisione.com/media-and-resources/news/hkex-welcomes-asias-first-single-stock-landi-products-2025324/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Saudi Arabia Capital Market Authority Starts Accepting Applications For The 15th Batch Of The Graduate Development Program](http://www.mondovisione.com/media-and-resources/news/the-saudi-arabia-capital-market-authority-starts-accepting-applications-for-the-2025324/)
+append_entries: 5
+Finish: 2025-03-24 08:29:37.663588
