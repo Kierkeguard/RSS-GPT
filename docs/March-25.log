@@ -771,3 +771,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [María Santos, New Head REGIS-TR, SIX As Of 1st April 2025](http://www.mondovisione.com/media-and-resources/news/mara-santos-new-head-regis-tr-six-as-of-1st-april-2025-2025324/)
 append_entries: 2
 Finish: 2025-03-24 14:21:44.536289
+------------------------------------------------------
+Started: 2025-03-24 16:29:18.800095
+Existing_entries: 117
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The EBA Updates Methodology On The Regulatory And Supervisory Equivalence Of Non-EU Countries](http://www.mondovisione.com/media-and-resources/news/the-eba-updates-methodology-on-the-regulatory-and-supervisory-equivalence-of-non-2025324/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Joint Statement Calling For The Urgent Need To Recognise Third Country Exports Of Gaseous Fuels Under The Union Database](http://www.mondovisione.com/media-and-resources/news/joint-statement-calling-for-the-urgent-need-to-recognise-third-country-exports-o-2025324/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bank Of England Launches The 2025 Bank Capital Stress Test](http://www.mondovisione.com/media-and-resources/news/bank-of-england-launches-the-2025-bank-capital-stress-test-2025324/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euronext STAR Conference: The 2025 Edition Kicks Off](http://www.mondovisione.com/media-and-resources/news/euronext-star-conference-the-2025-edition-kicks-off-2025324/)
+append_entries: 4
+Finish: 2025-03-24 16:29:23.069140
