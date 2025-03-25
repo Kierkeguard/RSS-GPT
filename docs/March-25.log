@@ -861,3 +861,18 @@ Existing_entries: 133
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-03-25 04:27:07.973007
+------------------------------------------------------
+Started: 2025-03-25 06:31:19.340572
+Existing_entries: 133
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Japan Exchange Group: Notice Of Revisions To Earnings Forecast And Dividend Forecast](http://www.mondovisione.com/media-and-resources/news/japan-exchange-group-notice-of-revisions-to-earnings-forecast-and-dividend-fore-2025325/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Exchange Group - Options Markets - Delisting Of 23andMe Holding Co. (ME)](http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-options-markets-delisting-of-23andme-holding-co-me-2025325/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Acting US Comptroller Of The Currency Discusses Financial Inclusion](http://www.mondovisione.com/media-and-resources/news/acting-us-comptroller-of-the-currency-discusses-financial-inclusion-2025325/)
+append_entries: 3
+Finish: 2025-03-25 06:31:23.692500
