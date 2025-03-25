@@ -876,3 +876,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Acting US Comptroller Of The Currency Discusses Financial Inclusion](http://www.mondovisione.com/media-and-resources/news/acting-us-comptroller-of-the-currency-discusses-financial-inclusion-2025325/)
 append_entries: 3
 Finish: 2025-03-25 06:31:23.692500
+------------------------------------------------------
+Started: 2025-03-25 08:28:36.860136
+Existing_entries: 136
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TNS Expands European Presence With Equinix ZH4 Colocation In Zurich](http://www.mondovisione.com/media-and-resources/news/tns-expands-european-presence-with-equinix-zh4-colocation-in-zurich-2025325/)
+append_entries: 1
+Finish: 2025-03-25 08:28:41.666733
