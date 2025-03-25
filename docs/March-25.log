@@ -885,3 +885,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [TNS Expands European Presence With Equinix ZH4 Colocation In Zurich](http://www.mondovisione.com/media-and-resources/news/tns-expands-european-presence-with-equinix-zh4-colocation-in-zurich-2025325/)
 append_entries: 1
 Finish: 2025-03-25 08:28:41.666733
+------------------------------------------------------
+Started: 2025-03-25 10:24:20.534880
+Existing_entries: 137
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The World Federation Of Exchanges Calls For Greater Role For Derivatives Market](http://www.mondovisione.com/media-and-resources/news/the-world-federation-of-exchanges-calls-for-greater-role-for-derivatives-market-2025325/)
+append_entries: 1
+Finish: 2025-03-25 10:24:21.412644
