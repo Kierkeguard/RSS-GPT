@@ -5,11 +5,45 @@
 <link>http://www.mondovisione.com/media-and-resources/news/</link>
 
 <item>
+<title>MIAX Options Exchange - Reminder Of Mandatory Testing Related To 10G ULL Network Refresh On Saturday, March 26, 2025</title>
+<link>http://www.mondovisione.com/media-and-resources/news/miax-options-exchange-reminder-of-mandatory-testing-related-to-10g-ull-network-2025325/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/miax-options-exchange-reminder-of-mandatory-testing-related-to-10g-ull-network-2025325/</guid>
+<content:encoded><![CDATA[
+
+<div>As previously announced in the&nbsp;<a class="safe---anchor---wc" href="https://www.miaxglobal.com/alert/2025/03/05/miax-options-exchange-reminder-network-refresh-10g-ull-extranet?nav=all" rel="noopener noreferrer nofollow" target="_blank">March 5, 2025 Alert</a>, MIAX Options will upgrade the 10G ULL Extranet switches and related network analytics infrastructure.&nbsp;<strong>Firms targeting migration to the upgraded MIAX Options Extranet&nbsp;upon its launch</strong>&nbsp;<strong>on Monday, March 31, 2025 must participate in mandatory testing on&nbsp;Saturday, March 29,&nbsp;2025 from 9:00 a.m. to 12:00 p.m. ET.</strong><br /><br />The upgraded MIAX Options 10G ULL Extranet will be available in parallel with the existing MIAX Options&nbsp;10G ULL Extranet&nbsp;<strong>from March 31, 2025 through April 11, 2025</strong>. All firms with 10G ULL Cross Connects (CCs) must establish and migrate their&nbsp;10G ULL CC usage to the upgraded MIAX Options&nbsp;10G ULL Extranet by&nbsp;<strong>April 11, 2025.</strong><br /><br />The&nbsp;MIAX Options 10G ULL Extranet upgrade is intended to improve the network&rsquo;s latency performance and precision of the analytics infrastructure&rsquo;s timestamp measurements.<br /><br />The transition plan for migration to the upgraded MIAX Options 10G ULL Extranet includes the following:<ol>
+<li>MIAX Options will coordinate with firms to establish new CCs on the upgraded MIAX Options Extranet.</li>
+<li>LOAs for new CCs are currently available.<ol>
+<li>Firms are required to request LOAs at least four&nbsp;weeks prior to their planned cutover date, which falls within the March 31, 2025 to April 11, 2025&nbsp;parallel period.</li>
+<li>Firms are required to complete&nbsp;all LOA requests no later than March 14, 2025 to ensure new CCs are established prior to&nbsp;April 11, 2025.</li>
+</ol></li>
+<li>Requests for new CCs on the upgraded MIAX Options Extranet will be limited to one-for-one replacements of existing CCs.</li>
+<li>Firms may migrate existing transit and source IP subnets to the new CCs or can request new subnets.</li>
+<li>New CCs will meet the MIAX Options optical length specifications.</li>
+<li><strong>New 10G ULL Extranet mandatory testing:</strong><ol>
+<li>Firms targeting migration to the upgraded MIAX Options Extranet upon its launch on March 31, 2025 must participate in mandatory testing on&nbsp;<strong>Saturday March 29,&nbsp;2025 from 9:00 a.m. to 12:00 p.m. ET.</strong></li>
+<li>Firms targeting migration to the upgraded MIAX Options Extranet after March 31, 2025&nbsp;are required to contact&nbsp;<a class="safe---anchor---wc" rel="noopener noreferrer nofollow">TradingOperations@MiaxGlobal.com</a>&nbsp;to coordinate the transition.</li>
+<li>Firms are required to perform the following when transitioning to the upgraded MIAX Options Extranet:<ol>
+<li>Verify all 10G ULL CC by logging into each subscribed application for each CC (i.e. establish application level socket connections to MEO, MEI, FOI, CTD, etc., for all ports, across all intended CCs) and verify the login.</li>
+<li>Confirm heartbeat receipt for both the A &amp; B market data feeds for all subscribed multicast feeds across each intended firm CC.</li>
+<li>After verifying connectivity, firms must send an email to&nbsp;<a class="safe---anchor---wc" rel="noopener noreferrer nofollow">TradingOperations@miaxglobal.com</a>&nbsp;and receive confirmation that testing was completed.</li>
+</ol></li>
+</ol></li>
+<li><strong>Existing 1G LL Extranet and&nbsp;legacy remaining 10G ULL Extranet CCs optional testing:</strong><ol>
+<li>There are no changes to the 1G LL switches on the firm side.&nbsp;<strong>However, MIAX&nbsp;Options will need to make internal configuration updates and&nbsp;<strong>firms with 1G&nbsp;LL connectivity are&nbsp;strongly recommended to participate in the above described testing on Saturday, March 29, 2025.</strong></strong></li>
+<li>There are no changes to the legacy&nbsp;10G CCs on existing 10G ULL Extranet switches.&nbsp;<strong>However, MIAX&nbsp;Options will need to make internal configuration updates and firms with 10G&nbsp;ULL connectivity on the existing 10G ULL Extranet are&nbsp;strongly recommended to participate in the above described testing on Saturday, March 29, 2025.</strong></li>
+</ol></li>
+</ol></div>
+<p><span>Please contact MIAX Trading Operations at&nbsp;</span><a class="safe---anchor---wc" rel="noopener noreferrer nofollow">TradingOperations@miaxglobal.com</a><span>&nbsp;or (609) 897-7302&nbsp;to arrange testing or to receive additional information on the&nbsp;planned network refresh.</span></p>
+]]></content:encoded>
+<pubDate>Tue, 25 Mar 2025 14:31:21 GMT</pubDate>
+<pubDate>Tue, 25 Mar 2025 14:31:21 GMT</pubDate>
+</item>
+
+<item>
 <title>10x Latency Reduction In Trade Data Distribution With LDA’s VeloCT Ecosystem</title>
 <link>http://www.mondovisione.com/media-and-resources/news/10x-latency-reduction-in-trade-data-distribution-with-ldas-veloct-ecosystem-2025325/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/10x-latency-reduction-in-trade-data-distribution-with-ldas-veloct-ecosystem-2025325/</guid>
 <content:encoded><![CDATA[
-
 <p><span><a class="safe---anchor---wc" href="https://click-783105.icptrack.com/icp/relay.php?r=59597334&amp;msgid=639651&amp;act=FNP7&amp;c=783105&amp;pid=4510888&amp;destination=https%3A%2F%2Fldatech.com%2F&amp;cf=3638&amp;v=5fa7cddad9d5ae967befe4e32a4eab7499a4bce414086a2d96ffc4b3845827df" rel="noopener noreferrer nofollow" target="_blank"><span>LDA Technologies (LDA)</span></a>, the leader in developing advanced ultra-low latency FPGA and network solutions for capital markets, announces today a 10x latency reduction in trade data distribution with its plug-and-play cabling ecosystem,&nbsp;<a class="safe---anchor---wc" href="https://click-783105.icptrack.com/icp/relay.php?r=59597334&amp;msgid=639651&amp;act=FNP7&amp;c=783105&amp;pid=4510888&amp;destination=https%3A%2F%2Fwww.ldatech.com%2FInfrastructure%2FVeloCT&amp;cf=3638&amp;v=2811511c151af69754e88412f98c21498a14afc5b8c134aa02a2616d0573dbfe" rel="noopener noreferrer nofollow" target="_blank"><span>VeloCT</span></a>*. This will enable companies to distribute data within a 0.5 nanosecond (ns) one-way latency compared to the 4-5ns with commonly used Layer 1 devices.</span></p>
 <p><span>Currently, firms have to take fiber from the exchange, use a modular interface which supports connections (SFP module), and then plug it into a Layer 1 switch to distribute data to other devices. A typical Layer 1 switch adds 4-5ns of one-way latency. With VeloCT, Layer 1 switches can be replaced in extremely latency-sensitive environments, enabling companies to create multiple copies of the data with latency comparable to a single SFP module of 0.5ns one-way. Its highly specialized copper-based twinax cables also reduce latency compared to conventional copper by 0.6ns per meter of cable one-way, more if converting from fiber.</span></p>
 <p><span>LDA&rsquo;s new ecosystem includes a variety of fan-out modules that can be interchangeably connected to a rackable device, special ultra-low latency cables and accompanying accessories. It provides a flexible and easy-to-manage connection for network devices, reducing hardware costs while slashing latency.</span></p>
@@ -19,14 +53,12 @@
 <p><em><span>* Patent pending.</span></em></p>
 ]]></content:encoded>
 <pubDate>Tue, 25 Mar 2025 14:15:54 GMT</pubDate>
-<pubDate>Tue, 25 Mar 2025 14:15:54 GMT</pubDate>
 </item>
 <item>
 <title>CME Group Will Introduce Tokenization Technology To Enhance Capital Market Efficiency Using Google Cloud's New Universal Ledger</title>
 <link>http://www.mondovisione.com/media-and-resources/news/cme-group-will-introduce-tokenization-technology-to-enhance-capital-market-effic-2025325/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/cme-group-will-introduce-tokenization-technology-to-enhance-capital-market-effic-2025325/</guid>
 <content:encoded><![CDATA[
-
 <p>Further expanding their transformational partnership, CME Group and Google Cloud today announced that they are piloting solutions for seamless and secure wholesale payments and tokenization of assets. CME Group has successfully completed the first phase of integration and testing of Google Cloud Universal Ledger (GCUL), a novel distributed ledger from Google Cloud.</p>
 <p>"As the President and new Administration have encouraged Congress to create landmark legislation for common-sense market structure, we are pleased to partner with Google Cloud to enable innovative solutions for low-cost, digital transfer of value," said&nbsp;<span class="xn-person">Terry Duffy</span>, CME Group Chairman and Chief Executive Officer. "Google Cloud Universal Ledger has the potential to deliver significant efficiencies for collateral, margin, settlement and fee payments as the world moves toward 24/7 trading."</p>
 <p>"Our core mission is to provide our partners with the most advanced infrastructure, empowering them to accelerate innovation, drive efficiencies, and overcome the complexities inherent in today's financial systems," said&nbsp;<span class="xn-person">Rohit Bhat</span>, General Manager, Financial Services, Google Cloud. "Partnering with CME Group to innovate with GCUL exemplifies this commitment, demonstrating how Google Cloud helps partners transform their businesses through strategic collaborations and modern infrastructure, unlocking significant opportunities for the global financial market."</p>
@@ -34,14 +66,12 @@
 <p>Later this year, CME Group and Google Cloud will initiate direct testing with market participants with the intent to launch new services in 2026.</p>
 ]]></content:encoded>
 <pubDate>Tue, 25 Mar 2025 13:58:01 GMT</pubDate>
-<pubDate>Tue, 25 Mar 2025 13:58:01 GMT</pubDate>
 </item>
 <item>
 <title>Latinos, Entrepreneurs, And The U.S. Economy, Federal Reserve Governor Adriana D. Kugler, At The 2025 U.S. Hispanic Chamber Of Commerce Legislative Summit, Washington, D.C.</title>
 <link>http://www.mondovisione.com/media-and-resources/news/latinos-entrepreneurs-and-the-us-economy-federal-reserve-governor-adriana-d-2025325/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/latinos-entrepreneurs-and-the-us-economy-federal-reserve-governor-adriana-d-2025325/</guid>
 <content:encoded><![CDATA[
-
 <p>Thank you, Ramiro, and thank you for the opportunity to speak with all of you today.<a href="https://www.federalreserve.gov/newsevents/speech/kugler20250325a.htm#fn1" title="footnote 1"><span>1</span></a><a name="f1"></a>&nbsp;Welcome to Washington, D.C.! Bienvenidos a la capital! I hope you have a productive conference and an enjoyable visit. I am honored to speak with you today because I have long appreciated the efforts of the U.S. Hispanic Chamber of Commerce in supporting Hispanic-owned businesses, especially small businesses and entrepreneurs. It is also gratifying to speak to you today as the first Latin policymaker in the Federal Reserve's history.</p>
 <p>The support and mentorship from my family and my communities, including many in the Hispanic community, have been foundational to my career. I am proud that I can bring my own perspective and background to how I view the economy and economic data&mdash;just as I value learning and hearing from others&mdash;because I know the decisions I make can affect the lives of all Americans. As a Fed Governor, I serve all Americans, and I strive to recognize the economic contributions that come from all corners of this country.</p>
 <p>Today, I will talk about the entrepreneurial spirit that many Latinos embody and share with you the importance of Latinos to the whole of the U.S. economy. I will then provide my outlook for the U.S. economy.</p>
@@ -67,14 +97,12 @@
 <p><a name="fn6"></a>6. See Bureau of Labor Statistics (2025), "<a href="https://www.bls.gov/news.release/laus.nr0.htm">State Employment and Unemployment Summary</a>," news release, March 17.&nbsp;</p>
 ]]></content:encoded>
 <pubDate>Tue, 25 Mar 2025 12:52:09 GMT</pubDate>
-<pubDate>Tue, 25 Mar 2025 12:52:09 GMT</pubDate>
 </item>
 <item>
 <title>DTCC’s FICC Now Live With New Treasury Clearing Capabilities As Volumes And Membership Continue To Grow - FICC’s Enhanced Access Models And Customer Margin Segregation Capabilities Are Live And Available For Industry Adoption, Following Successful Implementation Of Significant Provisions Of The SEC’s U.S. Treasury Clearing Rule</title>
 <link>http://www.mondovisione.com/media-and-resources/news/dtccs-ficc-now-live-with-new-treasury-clearing-capabilities-as-volumes-and-memb-2025325/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/dtccs-ficc-now-live-with-new-treasury-clearing-capabilities-as-volumes-and-memb-2025325/</guid>
 <content:encoded><![CDATA[
-
 <p>The Depository Trust &amp; Clearing Corporation (DTCC), the premier post-trade market infrastructure for the global financial services industry, today announced its Fixed Income Clearing Corporation (FICC) subsidiary has successfully launched its enhanced Agent Clearing Service, as well as new capabilities to separate house and customer activity and margin segregation for those customers who elect to post margin to FICC, ahead of the March 31, 2025, deadline from the U.S. Securities and Exchange Commission (SEC).</p>
 <p>While the SEC extended the deadlines for mandatory clearing of covered U.S. Treasury cash activity and repo activity, FICC continues to see solid growth, both in the onboarding of buyside and sell side institutions and in increased volumes in its Government Securities Division (GSD) as firms seek the capital efficiency and liquidity benefits that central clearing provides. Prior to the SEC&rsquo;s proposed rule to expand central clearing of U.S. Treasury activity, FICC&rsquo;s volumes were approximately $4.5T daily. When the SEC&rsquo;s rule was finalized in December 2023, FICC&rsquo;s volumes were approximately $7.2T daily. Now, FICC is clearing over $9T as a daily average and has experienced multiple daily peaks above $10T, including at the end of February when volumes topped $10.4T.</p>
 <p>Cleared buyside activity through FICC experienced an 85% year-over-year growth in FICC&rsquo;s Sponsored Service in February, and a peak Sponsored volume over $2T at year end 2024. Use of FICC&rsquo;s Sponsored Service provides the industry more than $700B each day in balance sheet capacity, and at the end of 2024, balance sheet savings across the industry through use of the Sponsored Service topped $900B.</p>
@@ -85,14 +113,12 @@
 <p>&ldquo;Robust risk management is a top priority for DTCC. With this launch, FICC also enhanced its intraday monitoring processes to measure exposure changes in 15-minute increments,&rdquo; stated Robert Crain, Managing Director, FICC Market Risk, &ldquo;These capabilities will further reduce risk for participants as well as improve the safety and soundness of the U.S. Treasury market.&rdquo;</p>
 ]]></content:encoded>
 <pubDate>Tue, 25 Mar 2025 14:11:56 GMT</pubDate>
-<pubDate>Tue, 25 Mar 2025 14:11:56 GMT</pubDate>
 </item>
 <item>
 <title>SET Announces 2025 SET Awards Criteria And Roster Of Eligible Companies</title>
 <link>http://www.mondovisione.com/media-and-resources/news/set-announces-2025-set-awards-criteria-and-roster-of-eligible-companies-2025325/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/set-announces-2025-set-awards-criteria-and-roster-of-eligible-companies-2025325/</guid>
 <content:encoded><![CDATA[
-
 <h4>Key points</h4>
 <ul>
 <li>A roster of 747 SET-listed and mai-listed companies preliminarily qualifying for the SET Awards 2025 and detailed evaluation criteria for all awards categories are now accessible at <a href="http://www.set.or.th/setawards">www.set.or.th/setawards</a>.<b>&nbsp;</b></li>
@@ -108,9 +134,7 @@
 <p>Details about the SET Awards criteria and the lists of companies preliminarily qualifying for the SET Awards 2025 are accessible at <a href="http://www.set.or.th/setawards">www.set.or.th/setawards</a>. For additional inquiries, please contact the Issuer Department at tel: +66 (0) 2009 9768 for the Business Excellence Awards category, and the Sustainable Investment Development Department at tel: +66 (0) 2009 9886 for the Sustainability Excellence Awards category.<i></i></p>
 ]]></content:encoded>
 <pubDate>Tue, 25 Mar 2025 12:49:04 GMT</pubDate>
-<pubDate>Tue, 25 Mar 2025 12:49:04 GMT</pubDate>
 </item>
-
 <item>
 <title>AuditBoard And EY Expand Alliance To Transform Risk Management In UK And Ireland - Centre Of Excellence To Deliver Bespoke Support For AuditBoard Customers</title>
 <link>http://www.mondovisione.com/media-and-resources/news/auditboard-and-ey-expand-alliance-to-transform-risk-management-in-uk-and-ireland-2025325/</link>

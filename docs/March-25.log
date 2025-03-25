@@ -937,3 +937,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SET Announces 2025 SET Awards Criteria And Roster Of Eligible Companies](http://www.mondovisione.com/media-and-resources/news/set-announces-2025-set-awards-criteria-and-roster-of-eligible-companies-2025325/)
 append_entries: 5
 Finish: 2025-03-25 14:22:11.883114
+------------------------------------------------------
+Started: 2025-03-25 16:26:46.166293
+Existing_entries: 149
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Options Exchange - Reminder Of Mandatory Testing Related To 10G ULL Network Refresh On Saturday, March 26, 2025](http://www.mondovisione.com/media-and-resources/news/miax-options-exchange-reminder-of-mandatory-testing-related-to-10g-ull-network-2025325/)
+append_entries: 1
+Finish: 2025-03-25 16:26:47.068137
