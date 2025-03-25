@@ -976,3 +976,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Innovating Wholesale Payments: Building A Resilient And Innovative Future − Speech By Victoria Cleland, Bank Of England, Executive Director, Payments, Given At Pay 360](http://www.mondovisione.com/media-and-resources/news/innovating-wholesale-payments-building-a-resilient-and-innovative-future-spee-2025325/)
 append_entries: 1
 Finish: 2025-03-25 20:24:27.627296
+------------------------------------------------------
+Started: 2025-03-25 22:21:23.606082
+Existing_entries: 156
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Announces Mid-Month Open Short Interest Positions In Nasdaq Stocks As Of Settlement Date March 14, 2025](http://www.mondovisione.com/media-and-resources/news/nasdaq-announces-mid-month-open-short-interest-positions-in-nasdaq-stocks-as-of-2025325/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NYSE Group Consolidated Short Interest Report](http://www.mondovisione.com/media-and-resources/news/nyse-group-consolidated-short-interest-report-2025325/)
+append_entries: 2
+Finish: 2025-03-25 22:21:24.522956
