@@ -967,3 +967,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Borsa Istanbul: Periodic Review For The BIST-KYD Corporate Eurobond Indices For The Second Quarter Of 2025 Has Been Finalized](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-periodic-review-for-the-bist-kyd-corporate-eurobond-indices-for-2025325/)
 append_entries: 5
 Finish: 2025-03-25 18:30:32.763492
+------------------------------------------------------
+Started: 2025-03-25 20:24:26.188934
+Existing_entries: 155
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Innovating Wholesale Payments: Building A Resilient And Innovative Future − Speech By Victoria Cleland, Bank Of England, Executive Director, Payments, Given At Pay 360](http://www.mondovisione.com/media-and-resources/news/innovating-wholesale-payments-building-a-resilient-and-innovative-future-spee-2025325/)
+append_entries: 1
+Finish: 2025-03-25 20:24:27.627296
