@@ -1039,3 +1039,25 @@ Existing_entries: 163
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-03-26 10:23:37.630133
+------------------------------------------------------
+Started: 2025-03-26 12:44:05.876055
+Existing_entries: 163
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Sucden Financial Now Eurex Liquidity Provider](http://www.mondovisione.com/media-and-resources/news/sucden-financial-now-eurex-liquidity-provider-2025326/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [2024 Bank Fines Report: How Much Banks Paid For Their Mistakes Globally](http://www.mondovisione.com/media-and-resources/news/2024-bank-fines-report-how-much-banks-paid-for-their-mistakes-globally-2025326/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ING’s Climate Targets Validated By The Science Based Targets Initiative (SBTi)](http://www.mondovisione.com/media-and-resources/news/ings-climate-targets-validated-by-the-science-based-targets-initiative-sbti-2025326/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX Collaborates With World Economic Forum To Host First Financial Symposium In Hong Kong](http://www.mondovisione.com/media-and-resources/news/hkex-collaborates-with-world-economic-forum-to-host-first-financial-symposium-in-2025326/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Offa Appoints New Managing Director Of Bridging & Development Finance](http://www.mondovisione.com/media-and-resources/news/offa-appoints-new-managing-director-of-bridging-and-development-finance-2025326/)
+Append: [Getting The Price Signals Right: ACER’s Principles For Fair And Cost-Reflective Electricity Network Tariffs](http://www.mondovisione.com/media-and-resources/news/getting-the-price-signals-right-acers-principles-for-fair-and-cost-reflective-2025326/)
+append_entries: 6
+Finish: 2025-03-26 12:44:06.635227
