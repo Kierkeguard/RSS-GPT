@@ -1006,3 +1006,18 @@ Existing_entries: 158
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-03-26 04:26:02.912845
+------------------------------------------------------
+Started: 2025-03-26 06:30:58.441692
+Existing_entries: 158
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Meeting Expectations: Address By ASIC Commissioner Kate O’Rourke At The Australasian Investor Relations Association’s (AIRA) ‘Trends In AGM Practice And Shareholder Engagement’ Conference In Sydney On 26 March 2025](http://www.mondovisione.com/media-and-resources/news/meeting-expectations-address-by-asic-commissioner-kate-orourke-at-the-australa-2025326/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Canadian Investment Regulatory Organization Announces Departure Of Timothy Hodgson, Chair Of The Board](http://www.mondovisione.com/media-and-resources/news/canadian-investment-regulatory-organization-announces-departure-of-timothy-hodgs-2025326/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Crypto Task Force To Host Four More Roundtables](http://www.mondovisione.com/media-and-resources/news/sec-crypto-task-force-to-host-four-more-roundtables-2025326/)
+append_entries: 3
+Finish: 2025-03-26 06:30:59.620711
