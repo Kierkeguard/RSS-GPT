@@ -1021,3 +1021,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SEC Crypto Task Force To Host Four More Roundtables](http://www.mondovisione.com/media-and-resources/news/sec-crypto-task-force-to-host-four-more-roundtables-2025326/)
 append_entries: 3
 Finish: 2025-03-26 06:30:59.620711
+------------------------------------------------------
+Started: 2025-03-26 08:29:12.106883
+Existing_entries: 161
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MNI Indicators: MNI China Money Market Index™ – February Conditions Ease](http://www.mondovisione.com/media-and-resources/news/mni-indicators-mni-china-money-market-index-february-conditions-ease-2025326/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Japan Exchange Group: Notice Regarding Formulation Of "Medium-Term Management Plan 2027"](http://www.mondovisione.com/media-and-resources/news/japan-exchange-group-notice-regarding-formulation-of-medium-term-management-pl-2025326/)
+append_entries: 2
+Finish: 2025-03-26 08:29:13.514335
