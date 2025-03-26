@@ -1117,3 +1117,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [EBA Identifies Payment Fraud, Indebtedness And Unwarranted De-Risking As Key Issues Affecting Consumers In The EU](http://www.mondovisione.com/media-and-resources/news/eba-identifies-payment-fraud-indebtedness-and-unwarranted-de-risking-as-key-iss-2025326/)
 append_entries: 3
 Finish: 2025-03-26 20:24:29.467325
+------------------------------------------------------
+Started: 2025-03-26 22:20:40.171059
+Existing_entries: 181
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bipartisan SEC Whistleblower Reform Act Introduced To Strengthen Whistleblower Program](http://www.mondovisione.com/media-and-resources/news/bipartisan-sec-whistleblower-reform-act-introduced-to-strengthen-whistleblower-p-2025326/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NZX: Dividend Reinvestment Plan Strike Price And AUD FX Rate For dividend](http://www.mondovisione.com/media-and-resources/news/nzx-dividend-reinvestment-plan-strike-price-and-aud-fx-rate-for-dividend-2025326/)
+append_entries: 2
+Finish: 2025-03-26 22:20:40.971779
