@@ -1067,3 +1067,26 @@ Existing_entries: 169
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-03-26 14:21:26.112762
+------------------------------------------------------
+Started: 2025-03-26 16:29:19.278779
+Existing_entries: 169
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Commissioner Johnson To Deliver Keynote Address At The Governing Data Symposium At Yale Law School](http://www.mondovisione.com/media-and-resources/news/cftc-commissioner-johnson-to-deliver-keynote-address-at-the-governing-data-sympo-2025326/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Interactive Brokers Expands Crypto Trading With New Tokens - Trade Solana, Cardano, Ripple, And Dogecoin Alongside Stocks, Options, Futures, And More - All On One Platform](http://www.mondovisione.com/media-and-resources/news/interactive-brokers-expands-crypto-trading-with-new-tokens-trade-solana-carda-2025326/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [U.S. Department Of The Treasury Announces Publication Of Interim Final Rule Removing Reporting Requirements For U.S. Companies And U.S. Persons](http://www.mondovisione.com/media-and-resources/news/us-department-of-the-treasury-announces-publication-of-interim-final-rule-remo-2025326/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Acting CFTC Chairman Pham To Speak At ISDA Roundtable In Tokyo](http://www.mondovisione.com/media-and-resources/news/acting-cftc-chairman-pham-to-speak-at-isda-roundtable-in-tokyo-2025326/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Acting CFTC Chairman Pham To Speak At FIA Japan Roundtable](http://www.mondovisione.com/media-and-resources/news/acting-cftc-chairman-pham-to-speak-at-fia-japan-roundtable-2025326/)
+Append: [Warsaw Stock Exchange Reports Record Revenue In 2024](http://www.mondovisione.com/media-and-resources/news/warsaw-stock-exchange-reports-record-revenue-in-2024-2025326/)
+Append: [Fivecast Revolutionises Financial Crime Investigations With AI-Driven Online Insights - Speed And Accuracy Of Fivecast’s Digital Intelligence Platform Transform Compliance And Risk Exposure Amid Increased Regulatory Pressure And A Renewed Global Clampdown On All Types Of Money Laundering](http://www.mondovisione.com/media-and-resources/news/fivecast-revolutionises-financial-crime-investigations-with-ai-driven-online-ins-2025326/)
+append_entries: 7
+Finish: 2025-03-26 16:29:20.047107
