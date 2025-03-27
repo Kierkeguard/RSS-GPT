@@ -1162,3 +1162,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Miles To Go: Remarks Before The Digital Chamber's 8th Annual DC Blockchain Summit, Commissioner Hester M. Peirce, Washington D.C., March 26, 2025](http://www.mondovisione.com/media-and-resources/news/miles-to-go-remarks-before-the-digital-chambers-8th-annual-dc-blockchain-summi-2025327/)
 append_entries: 3
 Finish: 2025-03-27 06:30:53.025467
+------------------------------------------------------
+Started: 2025-03-27 08:28:31.411507
+Existing_entries: 186
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-03-27 08:28:32.441200
