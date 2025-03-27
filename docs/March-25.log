@@ -1232,3 +1232,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Deputy Secretary For The U.S. Department Of The Treasury Michael Faulkender Confirmed By The United States Senate](http://www.mondovisione.com/media-and-resources/news/deputy-secretary-for-the-us-department-of-the-treasury-michael-faulkender-conf-2025327/)
 append_entries: 3
 Finish: 2025-03-27 16:28:49.596201
+------------------------------------------------------
+Started: 2025-03-27 18:30:23.724975
+Existing_entries: 200
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Qatar Stock Exchange Listed Companies Reported QR 51.18 Billion Net Profits For The Year 2024](http://www.mondovisione.com/media-and-resources/news/qatar-stock-exchange-listed-companies-reported-qr-5118-billion-net-profits-for-2025327/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Amman Stock Exchange Indices Quarterly Review](http://www.mondovisione.com/media-and-resources/news/the-amman-stock-exchange-indices-quarterly-review-2025327/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Under The Theme "Women's Rights, Equality, Empowerment" The Amman Stock Exchange (ASE) Joined A Number Of Other Global Stock Exchanges In The Ring The Bell For Gender Equality Initiative](http://www.mondovisione.com/media-and-resources/news/under-the-theme-womens-rights-equality-empowerment-the-amman-stock-exchange-2025327/)
+append_entries: 3
+Finish: 2025-03-27 18:30:24.664792
