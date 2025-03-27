@@ -1265,3 +1265,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ESMA Makes Recommendations For The Supervision Of STS Securitisations](http://www.mondovisione.com/media-and-resources/news/esma-makes-recommendations-for-the-supervision-of-sts-securitisations-2025327/)
 append_entries: 4
 Finish: 2025-03-27 20:23:37.522068
+------------------------------------------------------
+Started: 2025-03-27 22:20:46.331471
+Existing_entries: 207
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Votes To End Defense Of Climate Disclosure Rules](http://www.mondovisione.com/media-and-resources/news/sec-votes-to-end-defense-of-climate-disclosure-rules-2025327/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Acting Comptroller Of The Currency Encourages Innovation To Foster Financial Inclusion](http://www.mondovisione.com/media-and-resources/news/us-acting-comptroller-of-the-currency-encourages-innovation-to-foster-financial-2025327/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Federal Reserve Senior Credit Officer Opinion Survey On Dealer Financing Terms](http://www.mondovisione.com/media-and-resources/news/federal-reserve-senior-credit-officer-opinion-survey-on-dealer-financing-terms-2025327/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BC Securities Commission Alleges Wash Trading By Toronto Securities Lawyer](http://www.mondovisione.com/media-and-resources/news/bc-securities-commission-alleges-wash-trading-by-toronto-securities-lawyer-2025327/)
+append_entries: 4
+Finish: 2025-03-27 22:20:47.227384
