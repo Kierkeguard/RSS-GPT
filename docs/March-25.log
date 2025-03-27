@@ -1147,3 +1147,18 @@ Existing_entries: 183
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-03-27 04:25:51.356314
+------------------------------------------------------
+Started: 2025-03-27 06:30:51.986168
+Existing_entries: 183
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Standard Chartered Visits Shanghai Gold Exchange](http://www.mondovisione.com/media-and-resources/news/standard-chartered-visits-shanghai-gold-exchange-2025327/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Scam Alert: Consumers Warned About Scammers Impersonating ASIC Requesting Funds Transfers](http://www.mondovisione.com/media-and-resources/news/scam-alert-consumers-warned-about-scammers-impersonating-asic-requesting-funds-2025327/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Miles To Go: Remarks Before The Digital Chamber's 8th Annual DC Blockchain Summit, Commissioner Hester M. Peirce, Washington D.C., March 26, 2025](http://www.mondovisione.com/media-and-resources/news/miles-to-go-remarks-before-the-digital-chambers-8th-annual-dc-blockchain-summi-2025327/)
+append_entries: 3
+Finish: 2025-03-27 06:30:53.025467
