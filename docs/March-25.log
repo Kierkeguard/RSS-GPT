@@ -1217,3 +1217,18 @@ Existing_entries: 197
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-03-27 14:21:14.350771
+------------------------------------------------------
+Started: 2025-03-27 16:28:48.752700
+Existing_entries: 197
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Remarks At The SEC Roundtable On Artificial Intelligence In The Financial Industry, Mark T. Uyeda, SEC Acting Chairman, SEC Roundtable On Artificial Intelligence In The Financial Industry, Washington D.C., March 27, 2025](http://www.mondovisione.com/media-and-resources/news/remarks-at-the-sec-roundtable-on-artificial-intelligence-in-the-financial-indust-2025327/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Evolve ETFs Launches Evolve Canadian Energy Enhanced Yield Index Fund Tracking The Solactive Canada Energy Top 10 Index](http://www.mondovisione.com/media-and-resources/news/evolve-etfs-launches-evolve-canadian-energy-enhanced-yield-index-fund-tracking-t-2025327/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Deputy Secretary For The U.S. Department Of The Treasury Michael Faulkender Confirmed By The United States Senate](http://www.mondovisione.com/media-and-resources/news/deputy-secretary-for-the-us-department-of-the-treasury-michael-faulkender-conf-2025327/)
+append_entries: 3
+Finish: 2025-03-27 16:28:49.596201
