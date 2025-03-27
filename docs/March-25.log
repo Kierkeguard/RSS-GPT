@@ -1247,3 +1247,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Under The Theme "Women's Rights, Equality, Empowerment" The Amman Stock Exchange (ASE) Joined A Number Of Other Global Stock Exchanges In The Ring The Bell For Gender Equality Initiative](http://www.mondovisione.com/media-and-resources/news/under-the-theme-womens-rights-equality-empowerment-the-amman-stock-exchange-2025327/)
 append_entries: 3
 Finish: 2025-03-27 18:30:24.664792
+------------------------------------------------------
+Started: 2025-03-27 20:23:36.397835
+Existing_entries: 203
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Artificial Fears And Human Intelligence: Remarks At The SEC Roundtable On Artificial Intelligence In The Financial Industry, SEC Commissioner Hester M. Peirce, Washington D.C., March 27, 2025](http://www.mondovisione.com/media-and-resources/news/artificial-fears-and-human-intelligence-remarks-at-the-sec-roundtable-on-artifi-2025327/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The EBA Releases The Draft Of The Technical Package For Its 4.1 Reporting Framework](http://www.mondovisione.com/media-and-resources/news/the-eba-releases-the-draft-of-the-technical-package-for-its-41-reporting-framew-2025327/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group Plc: Annual Report And Accounts, Notice Of Annual General Meeting, Sustainability Report And Related Documents](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-annual-report-and-accounts-notice-of-annual-ge-2025327/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESMA Makes Recommendations For The Supervision Of STS Securitisations](http://www.mondovisione.com/media-and-resources/news/esma-makes-recommendations-for-the-supervision-of-sts-securitisations-2025327/)
+append_entries: 4
+Finish: 2025-03-27 20:23:37.522068
