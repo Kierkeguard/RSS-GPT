@@ -1129,3 +1129,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [NZX: Dividend Reinvestment Plan Strike Price And AUD FX Rate For dividend](http://www.mondovisione.com/media-and-resources/news/nzx-dividend-reinvestment-plan-strike-price-and-aud-fx-rate-for-dividend-2025326/)
 append_entries: 2
 Finish: 2025-03-26 22:20:40.971779
+------------------------------------------------------
+Started: 2025-03-27 01:45:55.438216
+Existing_entries: 183
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-03-27 01:45:56.547545
