@@ -1168,3 +1168,24 @@ Existing_entries: 186
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-03-27 08:28:32.441200
+------------------------------------------------------
+Started: 2025-03-27 10:23:28.136858
+Existing_entries: 186
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FSB Announces Establishment Of The Forum On Cross-Border Payments Data](http://www.mondovisione.com/media-and-resources/news/fsb-announces-establishment-of-the-forum-on-cross-border-payments-data-2025327/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Exchange Data International (EDI) Expands Data Offerings To Athena, Part Of United Fintech](http://www.mondovisione.com/media-and-resources/news/exchange-data-international-edi-expands-data-offerings-to-athena-part-of-unit-2025327/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Derivatives Service Bureau Invites Industry To Share Feedback On OTC Derivative Identifier Services - Annual Consultation On OTC ISIN, UPI And CFI Services Includes Review Of The Cost Allocation Model](http://www.mondovisione.com/media-and-resources/news/derivatives-service-bureau-invites-industry-to-share-feedback-on-otc-derivative-2025327/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Exegy Supports BMLL’s Recent Addition Of Historical US OPRA Options Data](http://www.mondovisione.com/media-and-resources/news/exegy-supports-bmlls-recent-addition-of-historical-us-opra-options-data-2025327/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Securities Commission Malaysia Issues Revised Guidelines On Advertising For Capital Market Products And Related Services](http://www.mondovisione.com/media-and-resources/news/securities-commission-malaysia-issues-revised-guidelines-on-advertising-for-capi-2025327/)
+append_entries: 5
+Finish: 2025-03-27 10:23:29.216841
