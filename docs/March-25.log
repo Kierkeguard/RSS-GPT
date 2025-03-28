@@ -1369,3 +1369,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Malawi Stock Exchange Weekly Summary Report 28 March 2025](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-28-march-2025-2025328/)
 append_entries: 1
 Finish: 2025-03-28 14:20:39.368167
+------------------------------------------------------
+Started: 2025-03-28 16:27:15.006973
+Existing_entries: 225
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Commissioner Goldsmith Romero To Participate In A Fireside Chat At WFEClear 2025](http://www.mondovisione.com/media-and-resources/news/cftc-commissioner-goldsmith-romero-to-participate-in-a-fireside-chat-at-wfeclear-2025328/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NSE Indices Index Dashboard For The Month Ended March 2025](http://www.mondovisione.com/media-and-resources/news/nse-indices-index-dashboard-for-the-month-ended-march-2025-2025328/)
+append_entries: 2
+Finish: 2025-03-28 16:27:17.248742
