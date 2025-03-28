@@ -1351,3 +1351,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [London Stock Exchange Group PLC Transactions In Own Securities](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-transactions-in-own-securities-2025328/)
 append_entries: 2
 Finish: 2025-03-28 10:23:17.158458
+------------------------------------------------------
+Started: 2025-03-28 12:42:47.244549
+Existing_entries: 223
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER Amends The EU Electricity Single Intraday Coupling Products Methodology To Enhance Market Flexibility](http://www.mondovisione.com/media-and-resources/news/acer-amends-the-eu-electricity-single-intraday-coupling-products-methodology-to-2025328/)
+append_entries: 1
+Finish: 2025-03-28 12:42:48.650541
