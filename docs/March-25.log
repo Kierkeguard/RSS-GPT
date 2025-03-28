@@ -1301,3 +1301,18 @@ Existing_entries: 211
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-03-28 04:26:55.198648
+------------------------------------------------------
+Started: 2025-03-28 06:31:15.105793
+Existing_entries: 211
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Shanghai Gold Exchange: Notice On Market Risk Control During The Qingming Festival In 2025](http://www.mondovisione.com/media-and-resources/news/shanghai-gold-exchange-notice-on-market-risk-control-during-the-qingming-festiv-2025328/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Statement Regarding Climate-Related Disclosures Rule Litigation: The Commission Has Left The Building, SEC Commissioner Caroline A. Crenshaw, March 27, 2025](http://www.mondovisione.com/media-and-resources/news/statement-regarding-climate-related-disclosures-rule-litigation-the-commission-2025328/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Remarks At The SEC Roundtable On Artificial Intelligence In The Financial Industry, Commissioner Caroline A. Crenshaw, Washington D.C., March 27, 2025](http://www.mondovisione.com/media-and-resources/news/remarks-at-the-sec-roundtable-on-artificial-intelligence-in-the-financial-indust-2025328/)
+append_entries: 3
+Finish: 2025-03-28 06:31:15.993787
