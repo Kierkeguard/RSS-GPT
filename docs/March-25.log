@@ -1403,3 +1403,21 @@ Append: [On The Right Track: Connecting Consumers, Products And Growth - Speech 
 Append: [Updates To LME Group Fees And Charges](http://www.mondovisione.com/media-and-resources/news/updates-to-lme-group-fees-and-charges-2025328/)
 append_entries: 6
 Finish: 2025-03-28 18:31:23.055973
+------------------------------------------------------
+Started: 2025-03-28 20:24:07.074157
+Existing_entries: 233
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Commitments Of Traders Reports Update](http://www.mondovisione.com/media-and-resources/news/cftc-commitments-of-traders-reports-update-2025328/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Staff Withdraws Advisory On Review Of Risks Related To Clearing Digital Assets](http://www.mondovisione.com/media-and-resources/news/cftc-staff-withdraws-advisory-on-review-of-risks-related-to-clearing-digital-ass-2025328/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Federal Agencies Announce Intent To Rescind 2023 Community Reinvestment Act Final Rule](http://www.mondovisione.com/media-and-resources/news/us-federal-agencies-announce-intent-to-rescind-2023-community-reinvestment-act-f-2025328/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Staff Withdraws Advisory On Virtual Currency Derivative Product Listings](http://www.mondovisione.com/media-and-resources/news/cftc-staff-withdraws-advisory-on-virtual-currency-derivative-product-listings-2025328/)
+append_entries: 4
+Finish: 2025-03-28 20:24:07.997483
