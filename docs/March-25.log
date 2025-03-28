@@ -1421,3 +1421,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CFTC Staff Withdraws Advisory On Virtual Currency Derivative Product Listings](http://www.mondovisione.com/media-and-resources/news/cftc-staff-withdraws-advisory-on-virtual-currency-derivative-product-listings-2025328/)
 append_entries: 4
 Finish: 2025-03-28 20:24:07.997483
+------------------------------------------------------
+Started: 2025-03-28 22:20:20.074410
+Existing_entries: 237
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-03-28 22:20:20.692116
