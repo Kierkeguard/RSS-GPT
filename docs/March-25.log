@@ -1283,3 +1283,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [BC Securities Commission Alleges Wash Trading By Toronto Securities Lawyer](http://www.mondovisione.com/media-and-resources/news/bc-securities-commission-alleges-wash-trading-by-toronto-securities-lawyer-2025327/)
 append_entries: 4
 Finish: 2025-03-27 22:20:47.227384
+------------------------------------------------------
+Started: 2025-03-28 01:46:22.280910
+Existing_entries: 211
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-03-28 01:46:23.595663
