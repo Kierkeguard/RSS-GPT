@@ -1316,3 +1316,26 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Remarks At The SEC Roundtable On Artificial Intelligence In The Financial Industry, Commissioner Caroline A. Crenshaw, Washington D.C., March 27, 2025](http://www.mondovisione.com/media-and-resources/news/remarks-at-the-sec-roundtable-on-artificial-intelligence-in-the-financial-indust-2025328/)
 append_entries: 3
 Finish: 2025-03-28 06:31:15.993787
+------------------------------------------------------
+Started: 2025-03-28 08:28:41.863527
+Existing_entries: 214
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SET Announces Temporary Closure Of Securities Trading And SET Building](http://www.mondovisione.com/media-and-resources/news/set-announces-temporary-closure-of-securities-trading-and-set-building-2025328/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Stockholm Welcomes Vimian Group To The Main Market](http://www.mondovisione.com/media-and-resources/news/nasdaq-stockholm-welcomes-vimian-group-to-the-main-market-2025328/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Thai Bourse Temporarily Halts Trading In The Afternoon Session Due To Earthquake (On March 28)](http://www.mondovisione.com/media-and-resources/news/thai-bourse-temporarily-halts-trading-in-the-afternoon-session-due-to-earthquake-2025328/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SGX Securities Welcomes The Listing Of Lion-China Merchants CSI Dividend Index ETF Under SSE-SGX ETF Link](http://www.mondovisione.com/media-and-resources/news/sgx-securities-welcomes-the-listing-of-lion-china-merchants-csi-dividend-index-e-2025328/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Japan Financial Services Agency: International Forum Of Independent Audit Regulators Published The Report On 2024 Survey Of Inspection Findings](http://www.mondovisione.com/media-and-resources/news/japan-financial-services-agency-international-forum-of-independent-audit-regula-2025328/)
+Append: [Comments By Monetary Authority Of Singapore  On Allegations Of Improper Conduct By United Overseas Bank](http://www.mondovisione.com/media-and-resources/news/comments-by-monetary-authority-of-singapore-on-allegations-of-improper-conduct-2025328/)
+Append: [ASIC Remakes Relief Instrument For 31-Day Notice Term Deposits](http://www.mondovisione.com/media-and-resources/news/asic-remakes-relief-instrument-for-31-day-notice-term-deposits-2025328/)
+append_entries: 7
+Finish: 2025-03-28 08:28:42.619588
