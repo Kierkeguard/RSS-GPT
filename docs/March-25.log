@@ -1381,3 +1381,25 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [NSE Indices Index Dashboard For The Month Ended March 2025](http://www.mondovisione.com/media-and-resources/news/nse-indices-index-dashboard-for-the-month-ended-march-2025-2025328/)
 append_entries: 2
 Finish: 2025-03-28 16:27:17.248742
+------------------------------------------------------
+Started: 2025-03-28 18:31:22.271784
+Existing_entries: 227
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euronext Publishes Its 2024 Universal Registration Document](http://www.mondovisione.com/media-and-resources/news/euronext-publishes-its-2024-universal-registration-document-2025328/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nigerian Exchange Weekly Market Statistics And Report For The Week Ended 28 March 2025](http://www.mondovisione.com/media-and-resources/news/nigerian-exchange-weekly-market-statistics-and-report-for-the-week-ended-28-marc-2025328/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group PLC: Publication Of Offering Circular](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-publication-of-offering-circular-2025328/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Decisions Taken By The Governing Council Of The ECB (In Addition To Decisions Setting Interest Rates)](http://www.mondovisione.com/media-and-resources/news/decisions-taken-by-the-governing-council-of-the-ecb-in-addition-to-decisions-se-2025328/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [On The Right Track: Connecting Consumers, Products And Growth - Speech By Nikhil Rathi,  UK Financial Conduct Authority Chief Executive, At The JP Morgan Pensions And Savings Symposium 2025](http://www.mondovisione.com/media-and-resources/news/on-the-right-track-connecting-consumers-products-and-growth-speech-by-nikhil-2025328/)
+Append: [Updates To LME Group Fees And Charges](http://www.mondovisione.com/media-and-resources/news/updates-to-lme-group-fees-and-charges-2025328/)
+append_entries: 6
+Finish: 2025-03-28 18:31:23.055973
