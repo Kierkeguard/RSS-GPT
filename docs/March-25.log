@@ -1339,3 +1339,15 @@ Append: [Comments By Monetary Authority Of Singapore  On Allegations Of Improper
 Append: [ASIC Remakes Relief Instrument For 31-Day Notice Term Deposits](http://www.mondovisione.com/media-and-resources/news/asic-remakes-relief-instrument-for-31-day-notice-term-deposits-2025328/)
 append_entries: 7
 Finish: 2025-03-28 08:28:42.619588
+------------------------------------------------------
+Started: 2025-03-28 10:23:15.007234
+Existing_entries: 221
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SET Announces Today’s Night Trading Session Closure For DRx And TFEX Also Closes Its Night Session ( March 28, 2025)](http://www.mondovisione.com/media-and-resources/news/set-announces-todays-night-trading-session-closure-for-drx-and-tfex-also-closes-2025328/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group PLC Transactions In Own Securities](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-transactions-in-own-securities-2025328/)
+append_entries: 2
+Finish: 2025-03-28 10:23:17.158458
