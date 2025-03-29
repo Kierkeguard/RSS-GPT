@@ -1451,3 +1451,15 @@ Existing_entries: 237
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-03-29 06:28:43.346896
+------------------------------------------------------
+Started: 2025-03-29 08:25:56.427351
+Existing_entries: 237
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nigeria Securities And Exchange Commission Announces Presidential Assent To Investments And Securities Act 2024](http://www.mondovisione.com/media-and-resources/news/nigeria-securities-and-exchange-commission-announces-presidential-assent-to-inve-2025329/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIFMA Welcomes Introduction Of The E-delivery Legislation](http://www.mondovisione.com/media-and-resources/news/sifma-welcomes-introduction-of-the-e-delivery-legislation-2025329/)
+append_entries: 2
+Finish: 2025-03-29 08:25:57.330128
