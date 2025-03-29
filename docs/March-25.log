@@ -1463,3 +1463,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SIFMA Welcomes Introduction Of The E-delivery Legislation](http://www.mondovisione.com/media-and-resources/news/sifma-welcomes-introduction-of-the-e-delivery-legislation-2025329/)
 append_entries: 2
 Finish: 2025-03-29 08:25:57.330128
+------------------------------------------------------
+Started: 2025-03-29 10:22:41.288777
+Existing_entries: 239
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-03-29 10:22:42.292478
