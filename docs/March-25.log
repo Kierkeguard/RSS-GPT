@@ -1703,3 +1703,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Nasdaq Champions Smart Regulatory Reform To Strengthen The World’s Leading Capital Markets And Drive American Economic Growth - New Paper Presents Policy Recommendations To Improve The Public Company Experience, With The Ultimate Goal To Increase Investor Access To The Growth And Success Of The US Economy](http://www.mondovisione.com/media-and-resources/news/nasdaq-champions-smart-regulatory-reform-to-strengthen-the-worlds-leading-capit-2025331/)
 append_entries: 4
 Finish: 2025-03-31 18:31:08.177674
+------------------------------------------------------
+Started: 2025-03-31 20:24:50.259683
+Existing_entries: 263
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Swaps Report Update](http://www.mondovisione.com/media-and-resources/news/cftc-swaps-report-update-2025331/)
+append_entries: 1
+Finish: 2025-03-31 20:24:51.188960
