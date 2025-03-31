@@ -1621,3 +1621,12 @@ Append: [New Zealand Financial Markets Authority: CoFI Regime Now In Effect](htt
 Append: [NZX Limited Annual Meeting 2025](http://www.mondovisione.com/media-and-resources/news/nzx-limited-annual-meeting-2025-2025331/)
 append_entries: 7
 Finish: 2025-03-31 06:32:21.584650
+------------------------------------------------------
+Started: 2025-03-31 08:30:35.548255
+Existing_entries: 247
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cboe Clear Europe Clears First Securities Financing Transactions](http://www.mondovisione.com/media-and-resources/news/cboe-clear-europe-clears-first-securities-financing-transactions-2025331/)
+append_entries: 1
+Finish: 2025-03-31 08:30:36.823273
