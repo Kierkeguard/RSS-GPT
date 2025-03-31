@@ -1598,3 +1598,26 @@ Existing_entries: 240
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-03-31 04:26:47.650067
+------------------------------------------------------
+Started: 2025-03-31 06:32:20.396917
+Existing_entries: 240
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Fiserv Launches Clover, The World’s Smartest Point-Of-Sale System, In Australia - With Clover, Small Businesses Can Streamline Operations And Create Memorable Customer Experiences](http://www.mondovisione.com/media-and-resources/news/fiserv-launches-clover-the-worlds-smartest-point-of-sale-system-in-australia-2025331/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASX Responds To Actions From Reserve Bank Of Australia And ASIC Following Chess Settlement Incident](http://www.mondovisione.com/media-and-resources/news/asx-responds-to-actions-from-reserve-bank-of-australia-and-asic-following-chess-2025331/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Reserve Bank Of Australia And ASIC Act On Deep Concerns With ASX](http://www.mondovisione.com/media-and-resources/news/reserve-bank-of-australia-and-asic-act-on-deep-concerns-with-asx-2025331/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Joint Statement By Thailand Real Sector And Financial Sector On The Earthquake Incident (March 28, 2025)](http://www.mondovisione.com/media-and-resources/news/joint-statement-by-thailand-real-sector-and-financial-sector-on-the-earthquake-i-2025331/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Japan Financial Services Agency: Publication Of The Finalized Discussion Paper On "Issues And Practices For Dialogue On Validation Of Effectiveness Of AML/CFT Frameworks"](http://www.mondovisione.com/media-and-resources/news/japan-financial-services-agency-publication-of-the-finalized-discussion-paper-o-2025331/)
+Append: [New Zealand Financial Markets Authority: CoFI Regime Now In Effect](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-cofi-regime-now-in-effect-2025331/)
+Append: [NZX Limited Annual Meeting 2025](http://www.mondovisione.com/media-and-resources/news/nzx-limited-annual-meeting-2025-2025331/)
+append_entries: 7
+Finish: 2025-03-31 06:32:21.584650
