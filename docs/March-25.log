@@ -1676,3 +1676,12 @@ Append: [NYSE Texas Opens For Business](http://www.mondovisione.com/media-and-re
 Append: [DTCC Welcomes Two Senior Leaders In Financial Services To Its Board Of Directors - New Members Bring Extensive Global Expertise And Strategic Insight To DTCC Board](http://www.mondovisione.com/media-and-resources/news/dtcc-welcomes-two-senior-leaders-in-financial-services-to-its-board-of-directors-2025331/)
 append_entries: 6
 Finish: 2025-03-31 14:21:49.656950
+------------------------------------------------------
+Started: 2025-03-31 16:28:19.415014
+Existing_entries: 258
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER Updates Its Q&As On REMIT To Align Them With The Revised Regulation](http://www.mondovisione.com/media-and-resources/news/acer-updates-its-qandas-on-remit-to-align-them-with-the-revised-regulation-2025331/)
+append_entries: 1
+Finish: 2025-03-31 16:28:20.650700
