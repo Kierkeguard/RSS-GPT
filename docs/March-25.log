@@ -1685,3 +1685,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ACER Updates Its Q&As On REMIT To Align Them With The Revised Regulation](http://www.mondovisione.com/media-and-resources/news/acer-updates-its-qandas-on-remit-to-align-them-with-the-revised-regulation-2025331/)
 append_entries: 1
 Finish: 2025-03-31 16:28:20.650700
+------------------------------------------------------
+Started: 2025-03-31 18:31:06.919238
+Existing_entries: 259
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Ontario Securities Commission Releases Its 2025 Annual Service Commitment Review](http://www.mondovisione.com/media-and-resources/news/ontario-securities-commission-releases-its-2025-annual-service-commitment-review-2025331/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TMX Group Announces Organizational Changes To Support Strategic Growth](http://www.mondovisione.com/media-and-resources/news/tmx-group-announces-organizational-changes-to-support-strategic-growth-2025331/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The ESAs Call For Vigilance Amid Rising Geopolitical And Cyber Risks](http://www.mondovisione.com/media-and-resources/news/the-esas-call-for-vigilance-amid-rising-geopolitical-and-cyber-risks-2025331/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Champions Smart Regulatory Reform To Strengthen The World’s Leading Capital Markets And Drive American Economic Growth - New Paper Presents Policy Recommendations To Improve The Public Company Experience, With The Ultimate Goal To Increase Investor Access To The Growth And Success Of The US Economy](http://www.mondovisione.com/media-and-resources/news/nasdaq-champions-smart-regulatory-reform-to-strengthen-the-worlds-leading-capit-2025331/)
+append_entries: 4
+Finish: 2025-03-31 18:31:08.177674
