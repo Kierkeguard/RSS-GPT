@@ -1630,3 +1630,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Cboe Clear Europe Clears First Securities Financing Transactions](http://www.mondovisione.com/media-and-resources/news/cboe-clear-europe-clears-first-securities-financing-transactions-2025331/)
 append_entries: 1
 Finish: 2025-03-31 08:30:36.823273
+------------------------------------------------------
+Started: 2025-03-31 10:24:27.183042
+Existing_entries: 248
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The European Supervisory Authorities Publish Evaluation Report On The Securitisation Regulation](http://www.mondovisione.com/media-and-resources/news/the-european-supervisory-authorities-publish-evaluation-report-on-the-securitisa-2025331/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The UK Prudential Regulation Authority Proposes Raising FSCS Deposit Protection Limit To £110,000](http://www.mondovisione.com/media-and-resources/news/the-uk-prudential-regulation-authority-proposes-raising-fscs-deposit-protection-2025331/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Eurex Implements Organizational Changes To Drive Future Growth](http://www.mondovisione.com/media-and-resources/news/eurex-implements-organizational-changes-to-drive-future-growth-2025331/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Capital.com Joins TheCityUK And UK Finance To Drive UK FinTech Growth - Memberships Signify Commitment To Actively Participate In The Development And Transformation Of The UK’s Financial And Technology Sectors](http://www.mondovisione.com/media-and-resources/news/capitalcom-joins-thecityuk-and-uk-finance-to-drive-uk-fintech-growth-membersh-2025331/)
+append_entries: 4
+Finish: 2025-03-31 10:24:28.645009
