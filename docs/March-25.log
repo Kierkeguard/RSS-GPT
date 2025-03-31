@@ -1654,3 +1654,25 @@ Existing_entries: 252
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-03-31 12:45:55.533535
+------------------------------------------------------
+Started: 2025-03-31 14:21:48.524728
+Existing_entries: 252
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [For The First Time, EUROMONEY Rewards A Swiss Independent Wealth Manager: NOVUM CAPITAL PARTNERS](http://www.mondovisione.com/media-and-resources/news/for-the-first-time-euromoney-rewards-a-swiss-independent-wealth-manager-novum-2025331/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MNI Indicators: Chicago Business Barometer™ - Advances To 47.6 In March](http://www.mondovisione.com/media-and-resources/news/mni-indicators-chicago-business-barometer-advances-to-476-in-march-2025331/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX: Report On Initial Public Offering Applications, Delisting And Suspensions (March 2025)](http://www.mondovisione.com/media-and-resources/news/hkex-report-on-initial-public-offering-applications-delisting-and-suspensions-2025331/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Archax Establishes US Base With Broker-Dealer Acquisition - Expands Its Global Regulatory Reach Beyond UK And EU Markets](http://www.mondovisione.com/media-and-resources/news/archax-establishes-us-base-with-broker-dealer-acquisition-expands-its-global-r-2025331/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NYSE Texas Opens For Business](http://www.mondovisione.com/media-and-resources/news/nyse-texas-opens-for-business-2025331/)
+Append: [DTCC Welcomes Two Senior Leaders In Financial Services To Its Board Of Directors - New Members Bring Extensive Global Expertise And Strategic Insight To DTCC Board](http://www.mondovisione.com/media-and-resources/news/dtcc-welcomes-two-senior-leaders-in-financial-services-to-its-board-of-directors-2025331/)
+append_entries: 6
+Finish: 2025-03-31 14:21:49.656950
