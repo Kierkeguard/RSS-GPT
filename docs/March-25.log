@@ -1736,3 +1736,18 @@ Existing_entries: 264
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-04-01 04:27:12.079201
+------------------------------------------------------
+Started: 2025-04-01 06:32:52.055154
+Existing_entries: 264
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Key Regulatory And Enforcement Actions Taken By Monetary Authority Of Singapore In Q1 2025](http://www.mondovisione.com/media-and-resources/news/key-regulatory-and-enforcement-actions-taken-by-monetary-authority-of-singapore-202541/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tokyo Financial Exchange: Trading Volume In March 2025 And Fiscal Year 2024](http://www.mondovisione.com/media-and-resources/news/tokyo-financial-exchange-trading-volume-in-march-2025-and-fiscal-year-2024-202541/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Office Of The Comptroller Of The Currency Withdraws Principles For Climate-Related Financial Risk Management For Large Financial Institutions](http://www.mondovisione.com/media-and-resources/news/us-office-of-the-comptroller-of-the-currency-withdraws-principles-for-climate-re-202541/)
+append_entries: 3
+Finish: 2025-04-01 06:32:53.056930
