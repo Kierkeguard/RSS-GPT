@@ -1808,3 +1808,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Purdue University/CME Group Ag Economy Barometer: Producer Sentiment Slips Due To Rising Policy Uncertainty](http://www.mondovisione.com/media-and-resources/news/purdue-universitycme-group-ag-economy-barometer-producer-sentiment-slips-due-t-202541/)
 append_entries: 4
 Finish: 2025-04-01 14:22:07.768870
+------------------------------------------------------
+Started: 2025-04-01 16:27:07.172510
+Existing_entries: 278
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-04-01 16:27:08.256672
