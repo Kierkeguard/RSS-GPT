@@ -1790,3 +1790,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Boerse Stuttgart Records March Turnover Of Around EUR 12.3 Billion - Strong Increases In Structured Securities, Equities And Exchange-Traded Products Compared To The Same Month Of The Previous Year](http://www.mondovisione.com/media-and-resources/news/boerse-stuttgart-records-march-turnover-of-around-eur-123-billion-strong-incr-202541/)
 append_entries: 2
 Finish: 2025-04-01 12:46:43.276887
+------------------------------------------------------
+Started: 2025-04-01 14:22:06.856156
+Existing_entries: 274
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Statistics From Nasdaq Nordic Exchange March 2025](http://www.mondovisione.com/media-and-resources/news/statistics-from-nasdaq-nordic-exchange-march-2025-202541/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Nordic And Baltic Markets: Trading Statistics March 2025](http://www.mondovisione.com/media-and-resources/news/nasdaq-nordic-and-baltic-markets-trading-statistics-march-2025-202541/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Deutsche Börse: Cash Market Trading Volumes In March 2025](http://www.mondovisione.com/media-and-resources/news/deutsche-brse-cash-market-trading-volumes-in-march-2025-202541/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Purdue University/CME Group Ag Economy Barometer: Producer Sentiment Slips Due To Rising Policy Uncertainty](http://www.mondovisione.com/media-and-resources/news/purdue-universitycme-group-ag-economy-barometer-producer-sentiment-slips-due-t-202541/)
+append_entries: 4
+Finish: 2025-04-01 14:22:07.768870
