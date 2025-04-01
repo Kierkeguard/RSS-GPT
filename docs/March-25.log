@@ -1814,3 +1814,28 @@ Existing_entries: 278
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-04-01 16:27:08.256672
+------------------------------------------------------
+Started: 2025-04-01 18:30:16.646534
+Existing_entries: 278
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Acting CFTC Chairman Pham To Speak At New York City Bar Association](http://www.mondovisione.com/media-and-resources/news/acting-cftc-chairman-pham-to-speak-at-new-york-city-bar-association-202541/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Acting CFTC Chairman Pham To Speak At Women In Housing & Finance April Public Policy Luncheon](http://www.mondovisione.com/media-and-resources/news/acting-cftc-chairman-pham-to-speak-at-women-in-housing-and-finance-april-public-po-202541/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FINRA Securities Helpline For Seniors Marks 10th Anniversary With More Than $9.3 Million Recovered For Investors - New Podcast Episode Shares The Helpline’s Stories  Of Protecting Seniors And Vulnerable Investors](http://www.mondovisione.com/media-and-resources/news/finra-securities-helpline-for-seniors-marks-10th-anniversary-with-more-than-93-202541/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Office Of The Comptroller Of The Currency  Releases CRA Performance Evaluations For 18 National Banks And Federal Savings Associations](http://www.mondovisione.com/media-and-resources/news/us-office-of-the-comptroller-of-the-currency-releases-cra-performance-evaluatio-202541/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Ontario Securities Commission Announces Canadian Investment Regulatory Organization’s Expanded Registration Functions Take Effect](http://www.mondovisione.com/media-and-resources/news/ontario-securities-commission-announces-canadian-investment-regulatory-organizat-202541/)
+Append: [London Stock Exchange Group plc - Total Voting Rights](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-total-voting-rights-202541/)
+Append: [Canadian Securities Regulators And Canadian Investment Regulatory Organization Announce Effective Date For Delegation Of Registration Authority](http://www.mondovisione.com/media-and-resources/news/canadian-securities-regulators-and-canadian-investment-regulatory-organization-202541/)
+Append: [ESMA Facilitates Access And Use Of Data From Its Public Registers](http://www.mondovisione.com/media-and-resources/news/esma-facilitates-access-and-use-of-data-from-its-public-registers-202541/)
+Append: [EBA's Platform Contributes To Successful Execution Of The NBSG Crisis Simulation Exercise](http://www.mondovisione.com/media-and-resources/news/ebas-platform-contributes-to-successful-execution-of-the-nbsg-crisis-simulation-202541/)
+append_entries: 9
+Finish: 2025-04-01 18:30:17.927787
