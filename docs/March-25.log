@@ -1769,3 +1769,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [JPX Monthly Headlines - March 2025](http://www.mondovisione.com/media-and-resources/news/jpx-monthly-headlines-march-2025-202541/)
 append_entries: 4
 Finish: 2025-04-01 08:30:03.173235
+------------------------------------------------------
+Started: 2025-04-01 10:24:53.859826
+Existing_entries: 271
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group PLC Transactions In Own Securities](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-transactions-in-own-securities-202541/)
+append_entries: 1
+Finish: 2025-04-01 10:24:54.857861
