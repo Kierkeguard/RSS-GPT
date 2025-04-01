@@ -1751,3 +1751,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [US Office Of The Comptroller Of The Currency Withdraws Principles For Climate-Related Financial Risk Management For Large Financial Institutions](http://www.mondovisione.com/media-and-resources/news/us-office-of-the-comptroller-of-the-currency-withdraws-principles-for-climate-re-202541/)
 append_entries: 3
 Finish: 2025-04-01 06:32:53.056930
+------------------------------------------------------
+Started: 2025-04-01 08:30:02.272879
+Existing_entries: 267
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Darryl Hooker Joins DIGITEC As Head Of Buisness Development And Partnerships](http://www.mondovisione.com/media-and-resources/news/darryl-hooker-joins-digitec-as-head-of-buisness-development-and-partnerships-202541/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIX Unveils Digital Assets Regulatory & Tax Service Amid Soaring Institutional Demand](http://www.mondovisione.com/media-and-resources/news/six-unveils-digital-assets-regulatory-and-tax-service-amid-soaring-institutional-d-202541/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Japan Exchange Group Trading Overview In FY2024 & March 2025](http://www.mondovisione.com/media-and-resources/news/japan-exchange-group-trading-overview-in-fy2024-and-march-2025-202541/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [JPX Monthly Headlines - March 2025](http://www.mondovisione.com/media-and-resources/news/jpx-monthly-headlines-march-2025-202541/)
+append_entries: 4
+Finish: 2025-04-01 08:30:03.173235
