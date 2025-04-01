@@ -1778,3 +1778,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [London Stock Exchange Group PLC Transactions In Own Securities](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-transactions-in-own-securities-202541/)
 append_entries: 1
 Finish: 2025-04-01 10:24:54.857861
+------------------------------------------------------
+Started: 2025-04-01 12:46:41.960378
+Existing_entries: 272
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIX Exchanges Figures March 2025](http://www.mondovisione.com/media-and-resources/news/six-exchanges-figures-march-2025-202541/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Boerse Stuttgart Records March Turnover Of Around EUR 12.3 Billion - Strong Increases In Structured Securities, Equities And Exchange-Traded Products Compared To The Same Month Of The Previous Year](http://www.mondovisione.com/media-and-resources/news/boerse-stuttgart-records-march-turnover-of-around-eur-123-billion-strong-incr-202541/)
+append_entries: 2
+Finish: 2025-04-01 12:46:43.276887
