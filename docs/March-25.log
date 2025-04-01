@@ -1839,3 +1839,15 @@ Append: [ESMA Facilitates Access And Use Of Data From Its Public Registers](http
 Append: [EBA's Platform Contributes To Successful Execution Of The NBSG Crisis Simulation Exercise](http://www.mondovisione.com/media-and-resources/news/ebas-platform-contributes-to-successful-execution-of-the-nbsg-crisis-simulation-202541/)
 append_entries: 9
 Finish: 2025-04-01 18:30:17.927787
+------------------------------------------------------
+Started: 2025-04-01 20:24:52.471685
+Existing_entries: 287
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Charges Three Arizona Individuals With Defrauding Investors In $284 Million Municipal Bond Offering That Financed Sports Complex](http://www.mondovisione.com/media-and-resources/news/sec-charges-three-arizona-individuals-with-defrauding-investors-in-284-million-202541/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Office Of The Comptroller Of The Currency Promotes National Financial Literacy Month](http://www.mondovisione.com/media-and-resources/news/us-office-of-the-comptroller-of-the-currency-promotes-national-financial-literac-202541/)
+append_entries: 2
+Finish: 2025-04-01 20:24:53.617570
