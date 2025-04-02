@@ -1994,3 +1994,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ESMA Publishes The Annual Peer Review Of EU CCP Supervision](http://www.mondovisione.com/media-and-resources/news/esma-publishes-the-annual-peer-review-of-eu-ccp-supervision-202542/)
 append_entries: 1
 Finish: 2025-04-02 18:30:59.237596
+------------------------------------------------------
+Started: 2025-04-02 20:24:21.327392
+Existing_entries: 316
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Order Instituting Proceedings - FINRA Proposed Rule Change To Amend The Codes Of Arbitration Procedure To Make Changes To The Arbitrator List Selection Process](http://www.mondovisione.com/media-and-resources/news/order-instituting-proceedings-finra-proposed-rule-change-to-amend-the-codes-of-202542/)
+append_entries: 1
+Finish: 2025-04-02 20:24:22.320470
