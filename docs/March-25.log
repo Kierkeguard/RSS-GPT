@@ -2003,3 +2003,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Order Instituting Proceedings - FINRA Proposed Rule Change To Amend The Codes Of Arbitration Procedure To Make Changes To The Arbitrator List Selection Process](http://www.mondovisione.com/media-and-resources/news/order-instituting-proceedings-finra-proposed-rule-change-to-amend-the-codes-of-202542/)
 append_entries: 1
 Finish: 2025-04-02 20:24:22.320470
+------------------------------------------------------
+Started: 2025-04-02 22:20:54.610355
+Existing_entries: 317
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Inflation Expectations And Monetary Policymaking, Federal Reserve Governor Adriana D. Kugler, At “Public Talk: Reflections On Recent Economic Developments,” Cosponsored By The Griswold Center For Economic Policy Studies And The Julis-Rabinowitz Center For Public Policy And Finance, Princeton University, Princeton, New Jersey](http://www.mondovisione.com/media-and-resources/news/inflation-expectations-and-monetary-policymaking-federal-reserve-governor-adria-202542/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NZX Shareholder Metrics - March 2025](http://www.mondovisione.com/media-and-resources/news/nzx-shareholder-metrics-march-2025-202542/)
+append_entries: 2
+Finish: 2025-04-02 22:20:55.585897
