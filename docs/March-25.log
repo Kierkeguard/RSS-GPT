@@ -1875,3 +1875,21 @@ Existing_entries: 289
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-04-02 04:26:19.485764
+------------------------------------------------------
+Started: 2025-04-02 06:31:09.883784
+Existing_entries: 289
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Speech By Samantha Barrass, New Zealand  Financial Markets Authority CEO, To The Financial Advice New Zealand Conference](http://www.mondovisione.com/media-and-resources/news/speech-by-samantha-barrass-new-zealand-financial-markets-authority-ceo-to-the-202542/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SGX Securities Welcomes The Listing Of Amova MSCI AC Asia ex Japan ex China Index ETF](http://www.mondovisione.com/media-and-resources/news/sgx-securities-welcomes-the-listing-of-amova-msci-ac-asia-ex-japan-ex-china-inde-202542/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Commissioner Mersinger To Participate On A Panel At WFEClear 2025](http://www.mondovisione.com/media-and-resources/news/cftc-commissioner-mersinger-to-participate-on-a-panel-at-wfeclear-2025-202542/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Zealand Financial Markets Authority Unveils Review Into Financial Advice Accessibility To Drive Better Outcomes For The Financial Advice Sector](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-unveils-review-into-financial-advice-acc-202542/)
+append_entries: 4
+Finish: 2025-04-02 06:31:10.832957
