@@ -1905,3 +1905,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Nasdaq Helsinki Welcomes GRK To Main Market](http://www.mondovisione.com/media-and-resources/news/nasdaq-helsinki-welcomes-grk-to-main-market-202542/)
 append_entries: 2
 Finish: 2025-04-02 08:30:15.284450
+------------------------------------------------------
+Started: 2025-04-02 10:24:00.503333
+Existing_entries: 295
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Decision By The Nasdaq Stockholm Disciplinary Committee Regarding Bio Vitos Pharma AB](http://www.mondovisione.com/media-and-resources/news/decision-by-the-nasdaq-stockholm-disciplinary-committee-regarding-bio-vitos-phar-202542/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Trustfull Launches Login Solution To Combat $13 Bn Account Takeover Problem](http://www.mondovisione.com/media-and-resources/news/trustfull-launches-login-solution-to-combat-13-bn-account-takeover-problem-202542/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Athena, Part Of United Fintech, Strengthens North American Expansion With Key Senior Hire](http://www.mondovisione.com/media-and-resources/news/athena-part-of-united-fintech-strengthens-north-american-expansion-with-key-se-202542/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Finema Becomes A GLEIF Qualified vLEI Issuer, Easing Cross-Border Trade And Finance For SMEs](http://www.mondovisione.com/media-and-resources/news/finema-becomes-a-gleif-qualified-vlei-issuer-easing-cross-border-trade-and-fina-202542/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BIS Latest Update April 2025: Financial Crime, Inflation Targeting And Cashless Payments](http://www.mondovisione.com/media-and-resources/news/bis-latest-update-april-2025-financial-crime-inflation-targeting-and-cashless-202542/)
+append_entries: 5
+Finish: 2025-04-02 10:24:01.344785
