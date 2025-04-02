@@ -1926,3 +1926,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [BIS Latest Update April 2025: Financial Crime, Inflation Targeting And Cashless Payments](http://www.mondovisione.com/media-and-resources/news/bis-latest-update-april-2025-financial-crime-inflation-targeting-and-cashless-202542/)
 append_entries: 5
 Finish: 2025-04-02 10:24:01.344785
+------------------------------------------------------
+Started: 2025-04-02 12:45:43.033859
+Existing_entries: 300
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Unique Off-The-Shelf Timestamping And Tap Aggregation Solution For Capital Markets Announced By LDA](http://www.mondovisione.com/media-and-resources/news/unique-off-the-shelf-timestamping-and-tap-aggregation-solution-for-capital-marke-202542/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group Sets New, All-Time Quarterly ADV Record Of 29.8 Million Contracts, Driven By Growth Across All Asset Classes](http://www.mondovisione.com/media-and-resources/news/cme-group-sets-new-all-time-quarterly-adv-record-of-298-million-contracts-dri-202542/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [IOSCO Issues Final Report On Standards Implementation Monitoring For Regulator Principles](http://www.mondovisione.com/media-and-resources/news/iosco-issues-final-report-on-standards-implementation-monitoring-for-regulator-p-202542/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LiVEx Investor Day 2025 Unlocks Growth Opportunities For Business In High Growth Sectors](http://www.mondovisione.com/media-and-resources/news/livex-investor-day-2025-unlocks-growth-opportunities-for-business-in-high-growth-202542/)
+append_entries: 4
+Finish: 2025-04-02 12:45:44.126861
