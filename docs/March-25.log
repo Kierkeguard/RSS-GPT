@@ -1985,3 +1985,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [MIAX Options Exchange - Reminder: Parallel Duration Period For Network Refresh For The 10G ULL Extranet Ends April 11, 2025](http://www.mondovisione.com/media-and-resources/news/miax-options-exchange-reminder-parallel-duration-period-for-network-refresh-f-202542/)
 append_entries: 4
 Finish: 2025-04-02 16:29:32.338334
+------------------------------------------------------
+Started: 2025-04-02 18:30:58.081762
+Existing_entries: 315
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESMA Publishes The Annual Peer Review Of EU CCP Supervision](http://www.mondovisione.com/media-and-resources/news/esma-publishes-the-annual-peer-review-of-eu-ccp-supervision-202542/)
+append_entries: 1
+Finish: 2025-04-02 18:30:59.237596
