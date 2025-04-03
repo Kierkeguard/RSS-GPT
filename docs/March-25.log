@@ -2145,3 +2145,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CBOE 2024 Annual Report](http://www.mondovisione.com/media-and-resources/news/cboe-2024-annual-report-202543/)
 append_entries: 3
 Finish: 2025-04-03 16:27:21.025509
+------------------------------------------------------
+Started: 2025-04-03 18:30:20.300462
+Existing_entries: 349
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [smartTrade Announces Strategic Investment From TA Alongside CEO And Management](http://www.mondovisione.com/media-and-resources/news/smarttrade-announces-strategic-investment-from-ta-alongside-ceo-and-management-202543/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [U.S. Economic Outlook And Central Bank Communications, Federal Reserve Vice Chair Philip N. Jefferson, At “Financial Intermediaries, Markets, And Monetary Policy,” A Conference Sponsored By The Federal Reserve Bank Of Atlanta And The University Of Virginia Darden School Of Business, Atlanta, Georgia](http://www.mondovisione.com/media-and-resources/news/us-economic-outlook-and-central-bank-communications-federal-reserve-vice-chai-202543/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIFMA Fixed Income Market Close Recommendations In The U.S., The U.K., And Japan For Good Friday & Easter Monday Holidays](http://www.mondovisione.com/media-and-resources/news/sifma-fixed-income-market-close-recommendations-in-the-us-the-uk-and-japan-202543/)
+append_entries: 3
+Finish: 2025-04-03 18:30:21.386095
