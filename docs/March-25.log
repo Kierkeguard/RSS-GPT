@@ -2160,3 +2160,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SIFMA Fixed Income Market Close Recommendations In The U.S., The U.K., And Japan For Good Friday & Easter Monday Holidays](http://www.mondovisione.com/media-and-resources/news/sifma-fixed-income-market-close-recommendations-in-the-us-the-uk-and-japan-202543/)
 append_entries: 3
 Finish: 2025-04-03 18:30:21.386095
+------------------------------------------------------
+Started: 2025-04-03 20:24:24.555394
+Existing_entries: 352
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Economic Outlook And Path Of Policy, Federal Reserve Governor Lisa D. Cook, At The 2025 McKay Lecture, University Of Pittsburgh, Pittsburgh, Pennsylvania](http://www.mondovisione.com/media-and-resources/news/the-economic-outlook-and-path-of-policy-federal-reserve-governor-lisa-d-cook-202543/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Exchange Group - Options & Equities Markets - Reg SCI / SIFMA BCP Testing On Saturday, October 25, 2025](http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-options-and-equities-markets-reg-sci-sifma-bcp-testing-o-202543/)
+append_entries: 2
+Finish: 2025-04-03 20:24:25.612022
