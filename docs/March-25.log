@@ -2033,3 +2033,12 @@ Existing_entries: 319
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-04-03 04:27:00.317527
+------------------------------------------------------
+Started: 2025-04-03 06:31:38.060950
+Existing_entries: 319
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Rahul Varma Named Acting Director Of CFTC Division Of Market Oversight](http://www.mondovisione.com/media-and-resources/news/rahul-varma-named-acting-director-of-cftc-division-of-market-oversight-202543/)
+append_entries: 1
+Finish: 2025-04-03 06:31:39.343258
