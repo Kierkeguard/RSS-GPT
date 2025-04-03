@@ -2015,3 +2015,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [NZX Shareholder Metrics - March 2025](http://www.mondovisione.com/media-and-resources/news/nzx-shareholder-metrics-march-2025-202542/)
 append_entries: 2
 Finish: 2025-04-02 22:20:55.585897
+------------------------------------------------------
+Started: 2025-04-03 01:46:44.764448
+Existing_entries: 319
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-04-03 01:46:45.713804
