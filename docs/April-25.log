@@ -45,3 +45,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [MarketAxess Announces Trading Volume Statistics For March And First Quarter 2025](http://www.mondovisione.com/media-and-resources/news/marketaxess-announces-trading-volume-statistics-for-march-and-first-quarter-2025-202544/)
 append_entries: 2
 Finish: 2025-04-04 12:43:59.022980
+------------------------------------------------------
+Started: 2025-04-04 14:20:49.946303
+Existing_entries: 13
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Decision By The Nasdaq Stockholm Disciplinary Committee Regarding QUIA PHARMA AB (publ)](http://www.mondovisione.com/media-and-resources/news/decision-by-the-nasdaq-stockholm-disciplinary-committee-regarding-quia-pharma-ab-202544/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Malawi Stock Exchange: 1st Quarter Market Performance Report- 2025](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-1st-quarter-market-performance-report-2025-202544/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tradeweb Reports Record March 2025 Total Trading Volume Of $59.6 Trillion And Record Average Daily Volume Of $2.71 Trillion](http://www.mondovisione.com/media-and-resources/news/tradeweb-reports-record-march-2025-total-trading-volume-of-596-trillion-and-re-202544/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Malawi Stock Exchange Weekly Summary Report 04 April 2025](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-04-april-2025-202544/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bank Of England: Minutes Of The SONIA Stakeholder Advisory Group - 20 March 2025](http://www.mondovisione.com/media-and-resources/news/bank-of-england-minutes-of-the-sonia-stakeholder-advisory-group-20-march-2025-202544/)
+append_entries: 5
+Finish: 2025-04-04 14:20:51.316038
