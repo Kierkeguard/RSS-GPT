@@ -102,3 +102,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [March 2025 Figures At Eurex](http://www.mondovisione.com/media-and-resources/news/march-2025-figures-at-eurex-202544/)
 append_entries: 5
 Finish: 2025-04-04 18:30:03.263432
+------------------------------------------------------
+Started: 2025-04-04 20:23:56.503278
+Existing_entries: 26
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Wall Street Tumbles: Trade War Fears Wipe Out USD4.9 Trillion In Global Markets](http://www.mondovisione.com/media-and-resources/news/wall-street-tumbles-trade-war-fears-wipe-out-usd49-trillion-in-global-markets-202544/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Commitments Of Traders Reports Update](http://www.mondovisione.com/media-and-resources/news/cftc-commitments-of-traders-reports-update-202544/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Statement On Stablecoins: SEC Division Of Corporation Finance](http://www.mondovisione.com/media-and-resources/news/statement-on-stablecoins-sec-division-of-corporation-finance-202544/)
+append_entries: 3
+Finish: 2025-04-04 20:23:57.619352
