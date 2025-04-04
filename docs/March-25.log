@@ -2181,3 +2181,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [DataLend: Global Securities Lending Revenue Rises 2% Year-Over-Year To $2.29 Billion In Q1 2025 - Broker-To-Broker Market Generated Additional $633 Million In Revenue Over The Quarter, According To EquiLend’s DataLend Platform](http://www.mondovisione.com/media-and-resources/news/datalend-global-securities-lending-revenue-rises-2-year-over-year-to-229-bil-202543/)
 append_entries: 1
 Finish: 2025-04-03 22:20:26.243109
+------------------------------------------------------
+Started: 2025-04-04 01:46:44.360179
+Existing_entries: 355
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-04-04 01:46:45.271552
