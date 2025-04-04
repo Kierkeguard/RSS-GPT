@@ -2199,3 +2199,25 @@ Existing_entries: 355
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-04-04 04:26:23.927982
+------------------------------------------------------
+Started: 2025-04-04 06:31:08.143377
+Existing_entries: 355
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASX Group Monthly Activity Report March 2025](http://www.mondovisione.com/media-and-resources/news/asx-group-monthly-activity-report-march-2025-202544/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Zealand Financial Markets Authority: Fair Conduct Programme Insights Report](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-fair-conduct-programme-insights-report-202544/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Today Released The Exam Results From The 28th Financial Advisers Exam Cycle, Held In March 2025](http://www.mondovisione.com/media-and-resources/news/asic-today-released-the-exam-results-from-the-28th-financial-advisers-exam-cycle-202544/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Zealand Financial Markets Authority Files Civil Proceedings Against IAG For Fair Dealing Breaches](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-files-civil-proceedings-against-iag-for-202544/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Leveraging Data For Consumer Protection And To Support Australian Businesses - Keynote Address By ASIC Commissioner Kate O’Rourke At The 11th Annual Australian Government Data Governance Summit, 2 April 2025](http://www.mondovisione.com/media-and-resources/news/leveraging-data-for-consumer-protection-and-to-support-australian-businesses-k-202544/)
+Append: [Cboe Global Markets Reports Trading Volume For March 2025](http://www.mondovisione.com/media-and-resources/news/cboe-global-markets-reports-trading-volume-for-march-2025-202544/)
+append_entries: 6
+Finish: 2025-04-04 06:31:09.402489
