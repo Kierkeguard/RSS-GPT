@@ -24,3 +24,12 @@ Append: [MIAX Exchange Group - Options & Equities Markets - Reg SCI / SIFMA BCP 
 Append: [smartTrade Announces Strategic Investment From TA Alongside CEO And Management](http://www.mondovisione.com/media-and-resources/news/smarttrade-announces-strategic-investment-from-ta-alongside-ceo-and-management-202543/)
 append_entries: 10
 Finish: 2025-04-04 08:28:50.478411
+------------------------------------------------------
+Started: 2025-04-04 10:24:04.822517
+Existing_entries: 10
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Puro.earth Opens Public Consultation For Biochar Methodology Update](http://www.mondovisione.com/media-and-resources/news/puroearth-opens-public-consultation-for-biochar-methodology-update-202544/)
+append_entries: 1
+Finish: 2025-04-04 10:24:05.851025
