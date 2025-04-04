@@ -66,3 +66,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Bank Of England: Minutes Of The SONIA Stakeholder Advisory Group - 20 March 2025](http://www.mondovisione.com/media-and-resources/news/bank-of-england-minutes-of-the-sonia-stakeholder-advisory-group-20-march-2025-202544/)
 append_entries: 5
 Finish: 2025-04-04 14:20:51.316038
+------------------------------------------------------
+Started: 2025-04-04 16:27:09.823179
+Existing_entries: 18
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FTSE 100 Suffers Biggest Drop Since 2020 Amid Market Turmoil](http://www.mondovisione.com/media-and-resources/news/ftse-100-suffers-biggest-drop-since-2020-amid-market-turmoil-202544/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Economic Outlook, Federal Reserve Chair Jerome H. Powell, At The Society For Advancing Business Editing And Writing Annual Conference, Arlington, Virginia](http://www.mondovisione.com/media-and-resources/news/economic-outlook-federal-reserve-chair-jerome-h-powell-at-the-society-for-adv-202544/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Keynote Remarks Of CFTC Commissioner Johnson For Governing Data At IIB&L Center And Yale Law Journal Of Law & Technology At Yale Law School - Twin Peaks - Emerging Technologies (AI) And Critical Third Parties](http://www.mondovisione.com/media-and-resources/news/keynote-remarks-of-cftc-commissioner-johnson-for-governing-data-at-iibandl-center-202544/)
+append_entries: 3
+Finish: 2025-04-04 16:27:11.064126
