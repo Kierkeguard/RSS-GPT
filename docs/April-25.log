@@ -141,3 +141,15 @@ Existing_entries: 29
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-04-05 04:25:40.705005
+------------------------------------------------------
+Started: 2025-04-05 06:28:37.309655
+Existing_entries: 29
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [“Stable” Coins Or Risky Business? SEC Commissioner Caroline A. Crenshaw](http://www.mondovisione.com/media-and-resources/news/stable-coins-or-risky-business-sec-commissioner-caroline-a-crenshaw-202545/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Staff Issues No-Action Letter Regarding Pre-Trade Mid-Market Mark](http://www.mondovisione.com/media-and-resources/news/cftc-staff-issues-no-action-letter-regarding-pre-trade-mid-market-mark-202545/)
+append_entries: 2
+Finish: 2025-04-05 06:28:38.481120
