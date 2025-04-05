@@ -207,3 +207,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [FNZ Raises US$500 Million In New Capital From Existing Shareholders To Support Long-Term Sustainable Growth](http://www.mondovisione.com/media-and-resources/news/fnz-raises-us500-million-in-new-capital-from-existing-shareholders-to-support-l-202545/)
 append_entries: 2
 Finish: 2025-04-05 20:21:33.102272
+------------------------------------------------------
+Started: 2025-04-05 22:19:02.494084
+Existing_entries: 35
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-04-05 22:19:03.372518
