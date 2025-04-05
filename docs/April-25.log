@@ -195,3 +195,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Tehran Securities Exchange Weekly Market Snapshot 30 March  2025](http://www.mondovisione.com/media-and-resources/news/tehran-securities-exchange-weekly-market-snapshot-30-march-2025-202545/)
 append_entries: 1
 Finish: 2025-04-05 18:27:06.398121
+------------------------------------------------------
+Started: 2025-04-05 20:21:32.318189
+Existing_entries: 33
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Statement By U.S. Secretary Of The Treasury Scott Bessent On Senate Passage Of Pro-Growth FY 2025 Budget Resolution](http://www.mondovisione.com/media-and-resources/news/statement-by-us-secretary-of-the-treasury-scott-bessent-on-senate-passage-of-p-202545/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FNZ Raises US$500 Million In New Capital From Existing Shareholders To Support Long-Term Sustainable Growth](http://www.mondovisione.com/media-and-resources/news/fnz-raises-us500-million-in-new-capital-from-existing-shareholders-to-support-l-202545/)
+append_entries: 2
+Finish: 2025-04-05 20:21:33.102272
