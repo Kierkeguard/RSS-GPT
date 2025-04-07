@@ -338,3 +338,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [London Stock Exchange Group PLC Transactions In Own Securities](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-transactions-in-own-securities-202547/)
 append_entries: 2
 Finish: 2025-04-07 08:30:28.589345
+------------------------------------------------------
+Started: 2025-04-07 10:25:33.347363
+Existing_entries: 44
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SET To Implement Temporary Measures On Ceiling & Floor Limits, Dynamic Price Band, And Short-Selling](http://www.mondovisione.com/media-and-resources/news/set-to-implement-temporary-measures-on-ceiling-and-floor-limits-dynamic-price-ban-202547/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority: Rules For Investment Managers To Be Reformed To Support Growth](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-rules-for-investment-managers-to-be-reformed-to-202547/)
+append_entries: 2
+Finish: 2025-04-07 10:25:36.030268
