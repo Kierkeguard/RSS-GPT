@@ -303,3 +303,26 @@ Existing_entries: 35
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-04-07 04:26:49.524920
+------------------------------------------------------
+Started: 2025-04-07 06:32:31.877486
+Existing_entries: 35
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [JPX Market Innovation & Research: J-Quants Pro Datasets Launch On Snowflake](http://www.mondovisione.com/media-and-resources/news/jpx-market-innovation-and-research-j-quants-pro-datasets-launch-on-snowflake-202547/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tehran Securities Exchange Bulletin - March 2025](http://www.mondovisione.com/media-and-resources/news/tehran-securities-exchange-bulletin-march-2025-202547/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Hang Seng Indexes Company Licenses Hang Seng Investment To Use Hang Seng High Dividend 30 Index As An ETF Benchmark](http://www.mondovisione.com/media-and-resources/news/hang-seng-indexes-company-licenses-hang-seng-investment-to-use-hang-seng-high-di-202547/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tokyo Financial Exchange: Application Of Intraday Additional Margin Call](http://www.mondovisione.com/media-and-resources/news/tokyo-financial-exchange-application-of-intraday-additional-margin-call-202547/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Fuelling The Web3 And Digital Asset Ecosystem In Hong Kong - Keynote Speech At The Hong Kong Web3 Festival 2025 - Ms Christina Choi, Executive Director, Hong Kong Securities and Futures Commission, Investment Products, 7 April 2025](http://www.mondovisione.com/media-and-resources/news/fuelling-the-web3-and-digital-asset-ecosystem-in-hong-kong-keynote-speech-at-t-202547/)
+Append: [Hong Kong Securities And Futures Commission Sets Out Staking Guidance For Licensed Virtual Asset Trading Platforms And Authorised Virtual Asset Funds](http://www.mondovisione.com/media-and-resources/news/hong-kong-securities-and-futures-commission-sets-out-staking-guidance-for-licens-202547/)
+Append: [ASIC Warns Of Threat From “Hydra-Like” Scammers After Obtaining Court Orders To Shut Down 95 Companies](http://www.mondovisione.com/media-and-resources/news/asic-warns-of-threat-from-hydra-like-scammers-after-obtaining-court-orders-to-202547/)
+append_entries: 7
+Finish: 2025-04-07 06:32:32.742573
