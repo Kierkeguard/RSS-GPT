@@ -350,3 +350,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [UK Financial Conduct Authority: Rules For Investment Managers To Be Reformed To Support Growth](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-rules-for-investment-managers-to-be-reformed-to-202547/)
 append_entries: 2
 Finish: 2025-04-07 10:25:36.030268
+------------------------------------------------------
+Started: 2025-04-07 12:46:27.016396
+Existing_entries: 46
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FSB Announces Establishment Of The Forum On Cross-Border Payments Data](http://www.mondovisione.com/media-and-resources/news/fsb-announces-establishment-of-the-forum-on-cross-border-payments-data-202547/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Options And MIAX Emerald Options - Effective For Trade Dates April 7, 2025 To April 11, 2025, 2X OPENING And INTRADAY Valid And Priority Quote Spread Relief In All Symbols](http://www.mondovisione.com/media-and-resources/news/miax-options-and-miax-emerald-options-effective-for-trade-dates-april-7-2025-202547/)
+append_entries: 2
+Finish: 2025-04-07 12:46:29.523188
