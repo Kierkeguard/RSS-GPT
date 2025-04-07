@@ -399,3 +399,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SEC Announces Agenda, Panelists For Roundtable On Crypto Trading](http://www.mondovisione.com/media-and-resources/news/sec-announces-agenda-panelists-for-roundtable-on-crypto-trading-202547/)
 append_entries: 3
 Finish: 2025-04-07 16:27:05.252650
+------------------------------------------------------
+Started: 2025-04-07 18:30:27.796475
+Existing_entries: 57
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Opening Remarks Of CFTC Commissioner Kristin N. Johnson At GAIM Ops AI Summit: Using AI To Combat Cybersecurity And Fraud Risks](http://www.mondovisione.com/media-and-resources/news/opening-remarks-of-cftc-commissioner-kristin-n-johnson-at-gaim-ops-ai-summit-u-202547/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [U.S. Department Of The Treasury Announces New Appointments](http://www.mondovisione.com/media-and-resources/news/us-department-of-the-treasury-announces-new-appointments-202547/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euronext Announces Volumes For March 2025](http://www.mondovisione.com/media-and-resources/news/euronext-announces-volumes-for-march-2025-202547/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [EBA Publishes Its Peer Review On The Performance Of Stress Tests By Deposit Guarantee Schemes](http://www.mondovisione.com/media-and-resources/news/eba-publishes-its-peer-review-on-the-performance-of-stress-tests-by-deposit-guar-202547/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [EEX Group Monthly Volumes – March 2025](http://www.mondovisione.com/media-and-resources/news/eex-group-monthly-volumes-march-2025-202547/)
+append_entries: 5
+Finish: 2025-04-07 18:30:29.323558
