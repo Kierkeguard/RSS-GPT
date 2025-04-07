@@ -326,3 +326,15 @@ Append: [Hong Kong Securities And Futures Commission Sets Out Staking Guidance F
 Append: [ASIC Warns Of Threat From “Hydra-Like” Scammers After Obtaining Court Orders To Shut Down 95 Companies](http://www.mondovisione.com/media-and-resources/news/asic-warns-of-threat-from-hydra-like-scammers-after-obtaining-court-orders-to-202547/)
 append_entries: 7
 Finish: 2025-04-07 06:32:32.742573
+------------------------------------------------------
+Started: 2025-04-07 08:30:25.185651
+Existing_entries: 42
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESMA Fines Modefinance S.r.L. EUR 420,000 For Misleadingly Using ESMA’s Name In Statements Related To Its Credit Rating Activities](http://www.mondovisione.com/media-and-resources/news/esma-fines-modefinance-srl-eur-420000-for-misleadingly-using-esmas-name-in-202547/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group PLC Transactions In Own Securities](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-transactions-in-own-securities-202547/)
+append_entries: 2
+Finish: 2025-04-07 08:30:28.589345
