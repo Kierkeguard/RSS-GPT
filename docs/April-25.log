@@ -496,3 +496,18 @@ Append: [Global Companies Are Betting On Alternative Payments And Cards Mix To D
 Append: [London Stock Exchange Group PLC Transactions In Own Securities](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-transactions-in-own-securities-202548/)
 append_entries: 6
 Finish: 2025-04-08 08:30:19.257485
+------------------------------------------------------
+Started: 2025-04-08 10:24:18.431427
+Existing_entries: 74
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Central Eastern European Gas Exchange Joins Europex](http://www.mondovisione.com/media-and-resources/news/central-eastern-european-gas-exchange-joins-europex-202548/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Hg Private Wealth Offering Surpasses $1 Billion](http://www.mondovisione.com/media-and-resources/news/hg-private-wealth-offering-surpasses-1-billion-202548/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Support For Innovative Products And New Firms Part Of New UK Financial Conduct Authority Work Programme](http://www.mondovisione.com/media-and-resources/news/support-for-innovative-products-and-new-firms-part-of-new-uk-financial-conduct-a-202548/)
+append_entries: 3
+Finish: 2025-04-08 10:24:22.234316
