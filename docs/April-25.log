@@ -459,3 +459,18 @@ Existing_entries: 65
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-04-08 04:26:45.836889
+------------------------------------------------------
+Started: 2025-04-08 06:32:00.455263
+Existing_entries: 65
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SET Launches ESG Super Seed Program To Cultivate ESG Professionals In Thai Capital Market](http://www.mondovisione.com/media-and-resources/news/set-launches-esg-super-seed-program-to-cultivate-esg-professionals-in-thai-capit-202548/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Avelacom Adds Direct Connectivity To AWS São Paulo](http://www.mondovisione.com/media-and-resources/news/avelacom-adds-direct-connectivity-to-aws-so-paulo-202548/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ICYMI: US Treasury Secretary Scott Bessent's Interview With Tucker Carlson](http://www.mondovisione.com/media-and-resources/news/icymi-us-treasury-secretary-scott-bessents-interview-with-tucker-carlson-202548/)
+append_entries: 3
+Finish: 2025-04-08 06:32:01.348757
