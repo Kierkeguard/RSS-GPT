@@ -441,3 +441,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Nasdaq Reports March 2025 Volumes And 1Q25 Statistics](http://www.mondovisione.com/media-and-resources/news/nasdaq-reports-march-2025-volumes-and-1q25-statistics-202547/)
 append_entries: 1
 Finish: 2025-04-07 22:21:19.811140
+------------------------------------------------------
+Started: 2025-04-08 01:47:31.711307
+Existing_entries: 65
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-04-08 01:47:32.540977
