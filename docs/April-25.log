@@ -474,3 +474,25 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ICYMI: US Treasury Secretary Scott Bessent's Interview With Tucker Carlson](http://www.mondovisione.com/media-and-resources/news/icymi-us-treasury-secretary-scott-bessents-interview-with-tucker-carlson-202548/)
 append_entries: 3
 Finish: 2025-04-08 06:32:01.348757
+------------------------------------------------------
+Started: 2025-04-08 08:30:11.986245
+Existing_entries: 68
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Broadridge Launches Global Digital Assets Solutions - Enabling Financial Institutions To Scale Digital Asset Strategies Effectively In Compliance With Global Regulation, While Further Enhancing Investor Education And Choice](http://www.mondovisione.com/media-and-resources/news/broadridge-launches-global-digital-assets-solutions-enabling-financial-institu-202548/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Derivatives Service Bureau Calls For Global Participation In The Product Committee](http://www.mondovisione.com/media-and-resources/news/the-derivatives-service-bureau-calls-for-global-participation-in-the-product-com-202548/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tradeweb Launches Portfolio Trading For European Government Bonds  First Institutional Marketplace To Offer Electronic Portfolio Trading For Both Credit And Government Bonds](http://www.mondovisione.com/media-and-resources/news/tradeweb-launches-portfolio-trading-for-european-government-bonds-first-institu-202548/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Study On The Design Of The Hedging Obligation: How To Ensure Security Of Supply In The Electricity Market In An Efficient Way - Opinions & Expert Reports](http://www.mondovisione.com/media-and-resources/news/new-study-on-the-design-of-the-hedging-obligation-how-to-ensure-security-of-sup-202548/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Global Companies Are Betting On Alternative Payments And Cards Mix To Drive Growth In Latin America - The Popularization Of Methods Like Pix And e-Wallets, And Cards' Solid Participation In Digital Commerce Are Behind The Partnership Announced Today By Two Giants In The Payments Industry, Spreedly And EBANX](http://www.mondovisione.com/media-and-resources/news/global-companies-are-betting-on-alternative-payments-and-cards-mix-to-drive-grow-202548/)
+Append: [London Stock Exchange Group PLC Transactions In Own Securities](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-transactions-in-own-securities-202548/)
+append_entries: 6
+Finish: 2025-04-08 08:30:19.257485
