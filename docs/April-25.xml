@@ -5,17 +5,89 @@
 <link>http://www.mondovisione.com/media-and-resources/news/</link>
 
 <item>
+<title>ESMA Consults On Clearing Thresholds Under EMIR 3</title>
+<link>http://www.mondovisione.com/media-and-resources/news/esma-consults-on-clearing-thresholds-under-emir-3-202548/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/esma-consults-on-clearing-thresholds-under-emir-3-202548/</guid>
+<content:encoded><![CDATA[
+
+<div class="clearfix text-formatted field field--name-field-news-introduction field--type-text-long field--label-hidden field__item">
+<p>The European Securities and Markets Authority (ESMA), the EU&rsquo;s financial markets regulator and supervisor, is asking for input on the new clearing thresholds under the review of the European Market Infrastructure Regulation (EMIR 3).</p>
+</div>
+<div class="clearfix text-formatted field field--name-field-news-body field--type-text-long field--label-hidden field__item">
+<p class="text-align-justify"><span>The consultation paper is part of ESMA's mandate to develop Regulatory Technical Standards (RTS) on clearing thresholds, and covers the following areas:</span></p>
+<ul>
+<li><span>&nbsp;proposals for a revised set of clearing thresholds,</span></li>
+<li><span>considerations for hedging exemptions for non-financial counterparties,</span></li>
+<li><span>a trigger mechanism for reviewing the clearing thresholds.</span></li>
+</ul>
+<p class="text-align-justify"><span>The revised clearing threshold methodology focuses on the activity in over-the-counter (OTC) derivatives not cleared at an authorised or recognised central counterparty (CCP). This approach assesses the risk associated with uncleared activity to determine if entities should be mandated to clear their OTC derivatives.&nbsp;</span></p>
+<p class="text-align-justify"><span>The new methodology aims at ensuring a proportionate clearing obligation regime, focusing on entities with significant OTC derivatives activity and large uncleared positions.&nbsp;&nbsp;</span></p>
+<h4 class="text-align-justify"><span><span>Next Steps</span></span></h4>
+<p class="text-align-justify"><span>The consultation will remain open until 16 June 2025. Based on the feedback received, ESMA will publish a final report and submit the draft technical standards to the European Commission by the end of the year.</span></p>
+</div>
+<p><a href="https://www.esma.europa.eu/press-news/consultations/consultation-draft-technical-standards-further-detail-new-emir-clearing#form"><label class="news-related-button">Respond</label></a></p>
+<div class="container">
+<div class="teaser teaser--library-documents"><article class="node node--type-news node--promoted node--view-mode-full">
+<div class="teaser__content-title">
+<h5>Related Documents</h5>
+<div class="teaser__button--wrapper"><button class="download_all_files btn btn-link">Download All Files</button><button class="download_selected_files btn btn-link">Download Selected Files</button></div>
+</div>
+<div class="teaser__content">
+<div class="field field--name-field-news-document field--type-entity-reference field--label-hidden field__items">
+<div class="field__item"></div>
+</div>
+<table>
+<tbody>
+<tr>
+<th>Date</th><th>Reference</th><th>Title</th><th>Download</th><th>Select</th>
+</tr>
+<tr>
+<td class="views-field views-field-created" headers="view-created-table-column">08/04/2025</td>
+<td class="views-field views-field-field-document-reference" headers="view-field-document-reference-table-column">
+<div class="field field--name-field-document-reference field--type-string field--label-hidden field__item">ESMA74-1049116225-632</div>
+</td>
+<td class="views-field views-field-title" headers="view-title-table-column"><a href="https://www.esma.europa.eu/document/consultation-paper-draft-technical-standards-further-detail-new-emir-clearing-thresholds" rel="bookmark"><span class="field field--name-title field--type-string field--label-hidden">Consultation Paper on the Draft technical standards to further detail the new EMIR clearing thresholds regime</span></a></td>
+<td class="views-field views-field-nothing"><span class="download-single-button"><a href="https://www.esma.europa.eu/sites/default/files/2025-04/ESMA74-1049116225-632_Consultation_Paper_Clearing_Thresholds_EMIR_3.pdf" rel="bookmark"></a></span></td>
+<td class="views-field views-field-field-main-document"><input class="filesToDownloadInZip" tabindex="-1" type="checkbox" /><label tabindex="0"></label></td>
+</tr>
+</tbody>
+</table>
+</div>
+</article></div>
+</div>
+<div class="more-on-same-topic">
+<div class="more-on-topic-title"></div>
+</div>
+]]></content:encoded>
+<pubDate>Tue, 08 Apr 2025 12:04:51 GMT</pubDate>
+<pubDate>Tue, 08 Apr 2025 12:04:51 GMT</pubDate>
+</item>
+<item>
+<title>ULTUMUS Connects With FlexTrade’s FlexOMS To Deliver ETF Data Feed For Mutual Clients</title>
+<link>http://www.mondovisione.com/media-and-resources/news/ultumus-connects-with-flextrades-flexoms-to-deliver-etf-data-feed-for-mutual-cl-202548/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/ultumus-connects-with-flextrades-flexoms-to-deliver-etf-data-feed-for-mutual-cl-202548/</guid>
+<content:encoded><![CDATA[
+
+<p>ULTUMUS, a leading provider of ETF data and associated index data for active and passive ETFs across all asset classes, and FlexTrade Systems, a global leader in multi-asset execution and order management systems, have announced a new initiative to seamlessly deliver its multi-asset ETF data to clients of FlexTrade&rsquo;s sell-side Order Management System (OMS), FlexOMS.</p>
+<p>The collaboration between Ultumus and FlexTrade is timely, as interest in ETFs continues to grow as a structure for large and small investors to spread risk and diversify their portfolios. However, without robust connectivity between data providers and the OMS, the ETF creation and redemption process can be complex and manually intensive. Multiple asset classes and underlying data sources must be incorporated into workflows, which can require intra-day updating within trading hours.</p>
+<p>Through the new initiative, leveraging both firms&rsquo; open-architecture approach to technology including smart, flexible APIs, Ultumus and FlexTrade have created a new seamless flow of ETF data to smoothly manage the ETF creation and redemption process. For instance, mutual clients of FlexTrade and Ultumus will be able to incorporate ULTUMUS&rsquo; SOD (Start of Day) files, full files, and delta files into the FlexOMS ETF server to determine the composition of a given ETF, standard, creation and redemption baskets. With the Ultumus data available, which is dynamically updated intra-day, FlexOMS users can undertake various ETF workflows, like trading baskets of ETF components, as well as ETF creation and redemption, with minimal manual effort.</p>
+<p><span>Bernie Thurston, CEO of ULTUMUS, said:</span>&nbsp;<em>&ldquo;We are proud to partner with FlexTrade on this new initiative to extend the reach of our ETF ecosystem to FlexTrade&rsquo;s sell-side clients. Ultumus&rsquo; ETF data is a powerful and compelling proposition and the work we have undertaken means FlexOMS users can now leverage a broad and in-depth range of crucial information to support their ETF discussions.&rdquo;</em></p>
+<p><span>Rajiv Kedia, Principal &amp; Associate Founder at FlexTrade Systems, noted,</span>&nbsp;<em>&ldquo;We&rsquo;re excited to make this new integration available to our sell-side clients using FlexOMS. The open-architecture, API-first approach that is in the DNA of all our sell-side solutions enables clients to seamlessly integrate sophisticated data sets, such as the Ultumus offering, into their various multi-asset workflows. The outcome is that they are better equipped to respond to clients with the most timely and accurate data available.&rdquo;</em></p>
+]]></content:encoded>
+<pubDate>Tue, 08 Apr 2025 11:46:43 GMT</pubDate>
+<pubDate>Tue, 08 Apr 2025 11:46:43 GMT</pubDate>
+</item>
+
+<item>
 <title>Central Eastern European Gas Exchange Joins Europex</title>
 <link>http://www.mondovisione.com/media-and-resources/news/central-eastern-european-gas-exchange-joins-europex-202548/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/central-eastern-european-gas-exchange-joins-europex-202548/</guid>
 <content:encoded><![CDATA[
-
 <p>CEEGEX, the operator of the organised natural gas market in Hungary, has joined Europex as a full member today.</p>
 <p>Operational since 2013 and based in Budapest, CEEGEX offers day-ahead, within-day and next-hour wholesale gas products delivered against the MGP, the Hungarian Virtual Trading Point. It also provides trading in day-ahead and within-day locational balancing products for delivery at specified points on the Hungarian transmission network. In addition, CEEGEX has been designated as the auction platform for energy efficiency &lsquo;white certificates&rsquo; in Hungary.</p>
 <p>Christian Baer, Secretary General of Europex, commented: &ldquo;We are pleased to welcome CEEGEX as our newest member. The Hungarian natural gas market provides an important reference point for the region, and we look forward to working with CEEGEX to advance European gas market regulation together.&rdquo;</p>
 <p>With CEEGEX&rsquo;s addition, Europex now counts 37 members.</p>
 ]]></content:encoded>
-<pubDate>Tue, 08 Apr 2025 10:30:00 GMT</pubDate>
 <pubDate>Tue, 08 Apr 2025 10:30:00 GMT</pubDate>
 </item>
 <item>
@@ -23,7 +95,6 @@
 <link>http://www.mondovisione.com/media-and-resources/news/hg-private-wealth-offering-surpasses-1-billion-202548/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/hg-private-wealth-offering-surpasses-1-billion-202548/</guid>
 <content:encoded><![CDATA[
-
 <ul type="disc">
 <li><i>Fusion exceeds $1 billion in&nbsp;NAV after just 12 months since its launch, significantly outpacing initial projections</i></li>
 <li><i>Fund is now oversubscribed with quarterly subscription caps implemented to maintain return targets;</i></li>
@@ -53,14 +124,12 @@
 <p><i>Any potential investors should conduct their own investigations and analysis of Hg, Fusion and the information set forth in the applicable Prospectus and&nbsp;other materials. Nothing in this Press Release or the other applicable materials should be construed as a recommendation to invest in any securities or as legal, accounting or tax advice. Before making any decision to invest in Fusion, potential investors should carefully review information relating to Hg and Fusion and consult with their own legal, accounting, tax and other advisors when considering the merits of any investment.</i></p>
 ]]></content:encoded>
 <pubDate>Tue, 08 Apr 2025 10:24:17 GMT</pubDate>
-<pubDate>Tue, 08 Apr 2025 10:24:17 GMT</pubDate>
 </item>
 <item>
 <title>Support For Innovative Products And New Firms Part Of New UK Financial Conduct Authority Work Programme</title>
 <link>http://www.mondovisione.com/media-and-resources/news/support-for-innovative-products-and-new-firms-part-of-new-uk-financial-conduct-a-202548/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/support-for-innovative-products-and-new-firms-part-of-new-uk-financial-conduct-a-202548/</guid>
 <content:encoded><![CDATA[
-
 <p><section class="copy-highlighted copy-block component fca-colour--6c1d45 fca-about">
 <div class="container">
 <p>In the first year of its new strategy, the FCA will be a smarter regulator, support growth, help consumers and fight crime.</p>
@@ -91,9 +160,7 @@
 </section></p>
 ]]></content:encoded>
 <pubDate>Tue, 08 Apr 2025 10:20:35 GMT</pubDate>
-<pubDate>Tue, 08 Apr 2025 10:20:35 GMT</pubDate>
 </item>
-
 <item>
 <title>Broadridge Launches Global Digital Assets Solutions - Enabling Financial Institutions To Scale Digital Asset Strategies Effectively In Compliance With Global Regulation, While Further Enhancing Investor Education And Choice</title>
 <link>http://www.mondovisione.com/media-and-resources/news/broadridge-launches-global-digital-assets-solutions-enabling-financial-institu-202548/</link>

@@ -511,3 +511,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Support For Innovative Products And New Firms Part Of New UK Financial Conduct Authority Work Programme](http://www.mondovisione.com/media-and-resources/news/support-for-innovative-products-and-new-firms-part-of-new-uk-financial-conduct-a-202548/)
 append_entries: 3
 Finish: 2025-04-08 10:24:22.234316
+------------------------------------------------------
+Started: 2025-04-08 12:45:55.318739
+Existing_entries: 77
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESMA Consults On Clearing Thresholds Under EMIR 3](http://www.mondovisione.com/media-and-resources/news/esma-consults-on-clearing-thresholds-under-emir-3-202548/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ULTUMUS Connects With FlexTrade’s FlexOMS To Deliver ETF Data Feed For Mutual Clients](http://www.mondovisione.com/media-and-resources/news/ultumus-connects-with-flextrades-flexoms-to-deliver-etf-data-feed-for-mutual-cl-202548/)
+append_entries: 2
+Finish: 2025-04-08 12:45:56.568978
