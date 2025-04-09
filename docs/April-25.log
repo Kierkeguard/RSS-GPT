@@ -636,3 +636,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [MIAX Options And MIAX Emerald Options - Reminder: Effective For Trade Dates April 7, 2025 To April 11, 2025, 2X OPENING And INTRADAY Valid And Priority Quote Spread Relief In All Symbols](http://www.mondovisione.com/media-and-resources/news/miax-options-and-miax-emerald-options-reminder-effective-for-trade-dates-apri-202549/)
 append_entries: 2
 Finish: 2025-04-09 14:23:32.276770
+------------------------------------------------------
+Started: 2025-04-09 16:28:52.216492
+Existing_entries: 102
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group International Average Daily Volume Hits Record 8.8 Million Contracts In Q1 2025, Up 19% Year Over Year](http://www.mondovisione.com/media-and-resources/news/cme-group-international-average-daily-volume-hits-record-88-million-contracts-i-202549/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Market Structure Partners Publishes Its Response To The Published Feedback From Exchanges And FESE And Makes Further Recommendations](http://www.mondovisione.com/media-and-resources/news/market-structure-partners-publishes-its-response-to-the-published-feedback-from-202549/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Pirum’s ClearingConnect Solution Is Now Live](http://www.mondovisione.com/media-and-resources/news/pirums-clearingconnect-solution-is-now-live-202549/)
+append_entries: 3
+Finish: 2025-04-09 16:28:53.051712
