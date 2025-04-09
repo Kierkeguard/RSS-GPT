@@ -549,3 +549,12 @@ Append: [MIAX Exchange Group - Options Markets - Series In ProShares UltraPro Sh
 Append: [New Street Address For Finansinspektionen](http://www.mondovisione.com/media-and-resources/news/new-street-address-for-finansinspektionen-202548/)
 append_entries: 10
 Finish: 2025-04-08 22:21:02.141592
+------------------------------------------------------
+Started: 2025-04-09 01:47:47.692957
+Existing_entries: 89
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FTSE Classification Of Equity Markets – FTSE Equity Country Classification - March 2025 Interim Announcement](http://www.mondovisione.com/media-and-resources/news/ftse-classification-of-equity-markets-ftse-equity-country-classification-mar-202548/)
+append_entries: 1
+Finish: 2025-04-09 01:47:48.475226
