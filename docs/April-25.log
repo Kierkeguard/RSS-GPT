@@ -651,3 +651,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Pirum’s ClearingConnect Solution Is Now Live](http://www.mondovisione.com/media-and-resources/news/pirums-clearingconnect-solution-is-now-live-202549/)
 append_entries: 3
 Finish: 2025-04-09 16:28:53.051712
+------------------------------------------------------
+Started: 2025-04-09 18:31:09.330905
+Existing_entries: 105
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Amendment To MIAX Rule 1808(G) To Use Last Reported Sale Price Of The Security From Previous Trading Day To Calculate Current Index Value At Expiration Of Exchange Listed Index Options When The Primary Market For The Underlying Does Not Open](http://www.mondovisione.com/media-and-resources/news/amendment-to-miax-rule-1808g-to-use-last-reported-sale-price-of-the-security-f-202549/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESMA Makes Recommendations To Simplify ESG Disclosure Rules For Benchmarks Administrators](http://www.mondovisione.com/media-and-resources/news/esma-makes-recommendations-to-simplify-esg-disclosure-rules-for-benchmarks-admin-202549/)
+append_entries: 2
+Finish: 2025-04-09 18:31:10.238609
