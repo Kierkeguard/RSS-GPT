@@ -612,3 +612,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CUBE Launches RegPlatform™ Intel To Transform The Mid-Market Regulatory Intelligence Landscape In Financial Services - CUBE's New Product Combines The Best Of CUBE Into A Simple Solution For A Growing Market](http://www.mondovisione.com/media-and-resources/news/cube-launches-regplatform-intel-to-transform-the-mid-market-regulatory-intellig-202549/)
 append_entries: 4
 Finish: 2025-04-09 10:26:51.549683
+------------------------------------------------------
+Started: 2025-04-09 12:45:59.874550
+Existing_entries: 98
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TransFICC Secures $25 Million Series B Investment Led By Citadel Securities - BlackFin Tech Is Also Participating](http://www.mondovisione.com/media-and-resources/news/transficc-secures-25-million-series-b-investment-led-by-citadel-securities-bl-202549/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [T. Rowe Price Renews Transfer Agent Relationship With SS&C](http://www.mondovisione.com/media-and-resources/news/t-rowe-price-renews-transfer-agent-relationship-with-ssandc-202549/)
+append_entries: 2
+Finish: 2025-04-09 12:46:01.074245
