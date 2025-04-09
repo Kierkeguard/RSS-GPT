@@ -678,3 +678,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [FINRA Foundation Releases State-By-State Financial Knowledge Findings - Findings Are Part Of The National Financial Capability Study To Be Published In July](http://www.mondovisione.com/media-and-resources/news/finra-foundation-releases-state-by-state-financial-knowledge-findings-findings-202549/)
 append_entries: 3
 Finish: 2025-04-09 20:23:19.800795
+------------------------------------------------------
+Started: 2025-04-09 22:20:48.044364
+Existing_entries: 110
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Treasury Secretary Scott Bessent Remarks Before The American Bankers Association](http://www.mondovisione.com/media-and-resources/news/us-treasury-secretary-scott-bessent-remarks-before-the-american-bankers-associat-202549/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Historic Market Rally: Stocks Soar After Trump Pauses Tariffs](http://www.mondovisione.com/media-and-resources/news/historic-market-rally-stocks-soar-after-trump-pauses-tariffs-202549/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Announces End-Of-Month Open Short Interest Positions In Nasdaq Stocks As Of Settlement Date March 31, 2025](http://www.mondovisione.com/media-and-resources/news/nasdaq-announces-end-of-month-open-short-interest-positions-in-nasdaq-stocks-as-202549/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NYSE Group Consolidated Short Interest Report](http://www.mondovisione.com/media-and-resources/news/nyse-group-consolidated-short-interest-report-202549/)
+append_entries: 4
+Finish: 2025-04-09 22:20:49.400080
