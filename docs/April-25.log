@@ -570,3 +570,18 @@ Existing_entries: 90
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-04-09 04:26:45.460902
+------------------------------------------------------
+Started: 2025-04-09 06:32:22.326428
+Existing_entries: 90
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SET Market Report For March 2025](http://www.mondovisione.com/media-and-resources/news/set-market-report-for-march-2025-202549/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Malaysia’s Federal Court Rules In Securities Commission Malaysia’s Favour, Dismisses Dato’ Sreesanthan’s Civil Appeal On Insider Trading - Apex Court Also Rules That SC Is Not Required To Obtain The Attorney General’s Consent For Civil Actions](http://www.mondovisione.com/media-and-resources/news/malaysias-federal-court-rules-in-securities-commission-malaysias-favour-dismi-202549/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASX: Change Of Registry Address](http://www.mondovisione.com/media-and-resources/news/asx-change-of-registry-address-202549/)
+append_entries: 3
+Finish: 2025-04-09 06:32:23.152486
