@@ -558,3 +558,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [FTSE Classification Of Equity Markets – FTSE Equity Country Classification - March 2025 Interim Announcement](http://www.mondovisione.com/media-and-resources/news/ftse-classification-of-equity-markets-ftse-equity-country-classification-mar-202548/)
 append_entries: 1
 Finish: 2025-04-09 01:47:48.475226
+------------------------------------------------------
+Started: 2025-04-09 03:03:18.532154
+Existing_entries: 90
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-04-09 03:03:19.389595
