@@ -663,3 +663,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ESMA Makes Recommendations To Simplify ESG Disclosure Rules For Benchmarks Administrators](http://www.mondovisione.com/media-and-resources/news/esma-makes-recommendations-to-simplify-esg-disclosure-rules-for-benchmarks-admin-202549/)
 append_entries: 2
 Finish: 2025-04-09 18:31:10.238609
+------------------------------------------------------
+Started: 2025-04-09 20:23:19.011424
+Existing_entries: 107
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Minutes Of The Federal Open Market Committee, March 18–19, 2025](http://www.mondovisione.com/media-and-resources/news/minutes-of-the-federal-open-market-committee-march-1819-2025-202549/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TMX Group Equity Financing Statistics - March 2025](http://www.mondovisione.com/media-and-resources/news/tmx-group-equity-financing-statistics-march-2025-202549/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FINRA Foundation Releases State-By-State Financial Knowledge Findings - Findings Are Part Of The National Financial Capability Study To Be Published In July](http://www.mondovisione.com/media-and-resources/news/finra-foundation-releases-state-by-state-financial-knowledge-findings-findings-202549/)
+append_entries: 3
+Finish: 2025-04-09 20:23:19.800795
