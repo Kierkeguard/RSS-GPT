@@ -770,3 +770,12 @@ Existing_entries: 128
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-04-10 12:46:17.598897
+------------------------------------------------------
+Started: 2025-04-10 14:22:05.599446
+Existing_entries: 128
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Options And MIAX Emerald Options - Reminder: Effective For Trade Dates April 7, 2025 Through April 11, 2025, 2X OPENING And INTRADAY Valid And Priority Quote Spread Relief In All Symbols](http://www.mondovisione.com/media-and-resources/news/miax-options-and-miax-emerald-options-reminder-effective-for-trade-dates-apri-2025410/)
+append_entries: 1
+Finish: 2025-04-10 14:22:06.920350
