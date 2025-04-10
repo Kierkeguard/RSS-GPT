@@ -720,3 +720,21 @@ Existing_entries: 114
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-04-10 06:31:55.135434
+------------------------------------------------------
+Started: 2025-04-10 08:29:39.506735
+Existing_entries: 114
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FINRA Statement On Chairman Atkins’ Confirmation](http://www.mondovisione.com/media-and-resources/news/finra-statement-on-chairman-atkins-confirmation-2025410/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIFMA Statement On Confirmation Of SEC Chairman Atkins](http://www.mondovisione.com/media-and-resources/news/sifma-statement-on-confirmation-of-sec-chairman-atkins-2025410/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Statement On Senate Confirmation Of Paul Atkins: Mark T. Uyeda, SEC Acting Chairman, SEC Commissioner Hester M. Peirce, SEC Commissioner Caroline A. Crenshaw](http://www.mondovisione.com/media-and-resources/news/statement-on-senate-confirmation-of-paul-atkins-mark-t-uyeda-sec-acting-chair-2025410/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Releases Staff Letter Relating To Certain Foreign Exchange Transactions](http://www.mondovisione.com/media-and-resources/news/cftc-releases-staff-letter-relating-to-certain-foreign-exchange-transactions-2025410/)
+append_entries: 4
+Finish: 2025-04-10 08:29:40.731526
