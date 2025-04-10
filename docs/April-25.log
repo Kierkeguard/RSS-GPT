@@ -779,3 +779,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [MIAX Options And MIAX Emerald Options - Reminder: Effective For Trade Dates April 7, 2025 Through April 11, 2025, 2X OPENING And INTRADAY Valid And Priority Quote Spread Relief In All Symbols](http://www.mondovisione.com/media-and-resources/news/miax-options-and-miax-emerald-options-reminder-effective-for-trade-dates-apri-2025410/)
 append_entries: 1
 Finish: 2025-04-10 14:22:06.920350
+------------------------------------------------------
+Started: 2025-04-10 16:28:45.086974
+Existing_entries: 129
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Statement By U.S. Secretary Of The Treasury Scott Bessent On House Vote Backing President Trump’s Economic Vision](http://www.mondovisione.com/media-and-resources/news/statement-by-us-secretary-of-the-treasury-scott-bessent-on-house-vote-backing-2025410/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Shanghai Gold Exchange: Notice On Continuing To Strengthen Recent Market Risk Control In The Near Term](http://www.mondovisione.com/media-and-resources/news/shanghai-gold-exchange-notice-on-continuing-to-strengthen-recent-market-risk-co-2025410/)
+append_entries: 2
+Finish: 2025-04-10 16:28:46.227469
