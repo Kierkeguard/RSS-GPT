@@ -838,3 +838,15 @@ Append: [Fiserv To Release First Quarter Earnings Results On April 24, 2025](htt
 Append: [Deutsche Börse Group: Business Indicators For March 2025](http://www.mondovisione.com/media-and-resources/news/deutsche-brse-group-business-indicators-for-march-2025-2025410/)
 append_entries: 7
 Finish: 2025-04-10 20:24:07.525803
+------------------------------------------------------
+Started: 2025-04-10 22:22:44.242353
+Existing_entries: 146
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Remarks At The 44th Annual SEC Small Business Forum, SEC Commissioner Caroline A. Crenshaw, Washington D.C., April 10, 2025](http://www.mondovisione.com/media-and-resources/news/remarks-at-the-44th-annual-sec-small-business-forum-sec-commissioner-caroline-a-2025410/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Offerings And Registrations Of Securities In The Crypto Asset Markets, SEC Division Of Corporation Finance](http://www.mondovisione.com/media-and-resources/news/offerings-and-registrations-of-securities-in-the-crypto-asset-markets-sec-divis-2025410/)
+append_entries: 2
+Finish: 2025-04-10 22:22:45.538772
