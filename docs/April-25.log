@@ -895,3 +895,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [25 Years Of ETFs In Europe: Comprehensive Set Of Measures To Promote ETF Trading On Xetra](http://www.mondovisione.com/media-and-resources/news/25-years-of-etfs-in-europe-comprehensive-set-of-measures-to-promote-etf-trading-2025411/)
 append_entries: 1
 Finish: 2025-04-11 08:29:42.921139
+------------------------------------------------------
+Started: 2025-04-11 10:23:52.563157
+Existing_entries: 153
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ING Welcomes Enrique Piñel As Global Head Of Financial Institutions Advisory](http://www.mondovisione.com/media-and-resources/news/ing-welcomes-enrique-piel-as-global-head-of-financial-institutions-advisory-2025411/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NGX Group Holds 64th AGM, Reaffirms Commitment To Creating Sustainable Value For All Stakeholders](http://www.mondovisione.com/media-and-resources/news/ngx-group-holds-64th-agm-reaffirms-commitment-to-creating-sustainable-value-for-2025411/)
+append_entries: 2
+Finish: 2025-04-11 10:23:53.354971
