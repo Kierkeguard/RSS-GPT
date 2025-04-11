@@ -937,3 +937,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SET Launches New Additional Trading Supervisory Measures After The End Of Temporary Measures To Maintain Stability In Thai Stock Market](http://www.mondovisione.com/media-and-resources/news/set-launches-new-additional-trading-supervisory-measures-after-the-end-of-tempor-2025411/)
 append_entries: 4
 Finish: 2025-04-11 14:21:33.062423
+------------------------------------------------------
+Started: 2025-04-11 16:28:19.420330
+Existing_entries: 161
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Borsa Istanbul: Announcement On Amendments Regarding Debt Securities Market Procedure](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-announcement-on-amendments-regarding-debt-securities-market-proc-2025411/)
+append_entries: 1
+Finish: 2025-04-11 16:28:20.194923
