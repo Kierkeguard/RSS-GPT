@@ -919,3 +919,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [UK Government Policy Paper: Reappointment Of Financial Conduct Authority Chief Executive Officer](http://www.mondovisione.com/media-and-resources/news/uik-government-policy-paper-reappointment-of-financial-conduct-authority-chief-2025411/)
 append_entries: 2
 Finish: 2025-04-11 12:44:16.996022
+------------------------------------------------------
+Started: 2025-04-11 14:21:32.161637
+Existing_entries: 157
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Toronto Stock Exchange, TSX Venture Exchange, TSX Alpha Exchange And Montréal Exchange Closed For Good Friday](http://www.mondovisione.com/media-and-resources/news/toronto-stock-exchange-tsx-venture-exchange-tsx-alpha-exchange-and-montral-ex-2025411/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Options And MIAX Emerald Options - Reminder: Effective For Trade Dates April 7, 2025 Through April 11, 2025, 2X OPENING And INTRADAY Valid And Priority Quote Spread Relief In All Symbols](http://www.mondovisione.com/media-and-resources/news/miax-options-and-miax-emerald-options-reminder-effective-for-trade-dates-apri-2025411/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Malawi Stock Exchange Weekly Summary Report 11 April 2025](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-11-april-2025-2025411/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SET Launches New Additional Trading Supervisory Measures After The End Of Temporary Measures To Maintain Stability In Thai Stock Market](http://www.mondovisione.com/media-and-resources/news/set-launches-new-additional-trading-supervisory-measures-after-the-end-of-tempor-2025411/)
+append_entries: 4
+Finish: 2025-04-11 14:21:33.062423
