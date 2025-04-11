@@ -886,3 +886,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Scam Alert: Scammers Impersonating ASIC Connect](http://www.mondovisione.com/media-and-resources/news/scam-alert-scammers-impersonating-asic-connect-2025411/)
 append_entries: 2
 Finish: 2025-04-11 06:31:35.437718
+------------------------------------------------------
+Started: 2025-04-11 08:29:41.843182
+Existing_entries: 152
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [25 Years Of ETFs In Europe: Comprehensive Set Of Measures To Promote ETF Trading On Xetra](http://www.mondovisione.com/media-and-resources/news/25-years-of-etfs-in-europe-comprehensive-set-of-measures-to-promote-etf-trading-2025411/)
+append_entries: 1
+Finish: 2025-04-11 08:29:42.921139
