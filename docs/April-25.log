@@ -907,3 +907,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [NGX Group Holds 64th AGM, Reaffirms Commitment To Creating Sustainable Value For All Stakeholders](http://www.mondovisione.com/media-and-resources/news/ngx-group-holds-64th-agm-reaffirms-commitment-to-creating-sustainable-value-for-2025411/)
 append_entries: 2
 Finish: 2025-04-11 10:23:53.354971
+------------------------------------------------------
+Started: 2025-04-11 12:44:15.747698
+Existing_entries: 155
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACMF Releases Simplified Guidance For ASEAN SMEs In Supply Chains (Version 1)](http://www.mondovisione.com/media-and-resources/news/acmf-releases-simplified-guidance-for-asean-smes-in-supply-chains-version-1-2025411/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Government Policy Paper: Reappointment Of Financial Conduct Authority Chief Executive Officer](http://www.mondovisione.com/media-and-resources/news/uik-government-policy-paper-reappointment-of-financial-conduct-authority-chief-2025411/)
+append_entries: 2
+Finish: 2025-04-11 12:44:16.996022
