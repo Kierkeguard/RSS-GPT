@@ -946,3 +946,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Borsa Istanbul: Announcement On Amendments Regarding Debt Securities Market Procedure](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-announcement-on-amendments-regarding-debt-securities-market-proc-2025411/)
 append_entries: 1
 Finish: 2025-04-11 16:28:20.194923
+------------------------------------------------------
+Started: 2025-04-11 18:30:57.458319
+Existing_entries: 162
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Remarks At The Crypto Task Force Roundtable On Crypto Trading, Mark T. Uyeda, SEC Acting Chairman, Washington D.C., April 11, 2025](http://www.mondovisione.com/media-and-resources/news/remarks-at-the-crypto-task-force-roundtable-on-crypto-trading-mark-t-uyeda-se-2025411/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nigerian Exchange Weekly Report For 11 April 2025](http://www.mondovisione.com/media-and-resources/news/nigerian-exchange-weekly-report-for-11-april-2025-2025411/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nadex Temporarily Amends Binary Contracts Strike Width](http://www.mondovisione.com/media-and-resources/news/nadex-temporarily-amends-binary-contracts-strike-width-2025411/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESMA: New Q&As Available](http://www.mondovisione.com/media-and-resources/news/esma-new-qandas-available-2025411/)
+append_entries: 4
+Finish: 2025-04-11 18:30:58.720569
