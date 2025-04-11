@@ -862,3 +862,15 @@ Existing_entries: 148
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-04-11 03:03:41.420074
+------------------------------------------------------
+Started: 2025-04-11 04:27:13.163824
+Existing_entries: 148
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cboe Expands Derivatives Market Intelligence Franchise Into Asia Pacific With Strategic New Hire](http://www.mondovisione.com/media-and-resources/news/cboe-expands-derivatives-market-intelligence-franchise-into-asia-pacific-with-st-2025411/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Let’s Talk Disclosure: Division Of Corporation Finance’s Statement On Offerings And Registration Of Securities In The Crypto Asset Markets, SEC Commissioner Hester M. Peirce, April 10, 2025](http://www.mondovisione.com/media-and-resources/news/lets-talk-disclosure-division-of-corporation-finances-statement-on-offerings-2025411/)
+append_entries: 2
+Finish: 2025-04-11 04:27:14.229776
