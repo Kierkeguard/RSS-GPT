@@ -874,3 +874,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Let’s Talk Disclosure: Division Of Corporation Finance’s Statement On Offerings And Registration Of Securities In The Crypto Asset Markets, SEC Commissioner Hester M. Peirce, April 10, 2025](http://www.mondovisione.com/media-and-resources/news/lets-talk-disclosure-division-of-corporation-finances-statement-on-offerings-2025411/)
 append_entries: 2
 Finish: 2025-04-11 04:27:14.229776
+------------------------------------------------------
+Started: 2025-04-11 06:31:33.955312
+Existing_entries: 150
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Zealand Financial Markets Authority Files Criminal Charge Against Former Financial Adviser](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-files-criminal-charge-against-former-fin-2025411/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Scam Alert: Scammers Impersonating ASIC Connect](http://www.mondovisione.com/media-and-resources/news/scam-alert-scammers-impersonating-asic-connect-2025411/)
+append_entries: 2
+Finish: 2025-04-11 06:31:35.437718
