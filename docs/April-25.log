@@ -1015,3 +1015,12 @@ Existing_entries: 171
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-04-12 06:29:05.803625
+------------------------------------------------------
+Started: 2025-04-12 08:26:05.487459
+Existing_entries: 171
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Probes Banks On Bereavement And Power Of Attorney Policies](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-probes-banks-on-bereavement-and-power-of-attorney-2025412/)
+append_entries: 1
+Finish: 2025-04-12 08:26:06.548746
