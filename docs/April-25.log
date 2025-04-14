@@ -1180,3 +1180,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Behran Oil Celebrates Listing Anniversary At Tehran Securities Exchange Bell-Ringing Ceremony](http://www.mondovisione.com/media-and-resources/news/behran-oil-celebrates-listing-anniversary-at-tehran-securities-exchange-bell-rin-2025414/)
 append_entries: 2
 Finish: 2025-04-14 08:31:12.623619
+------------------------------------------------------
+Started: 2025-04-14 10:25:32.508467
+Existing_entries: 178
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cathie Wood At ARK Invest Comments On Trump's Tariff Policy](http://www.mondovisione.com/media-and-resources/news/cathie-wood-at-ark-invest-comments-on-trumps-tariff-policy-2025414/)
+append_entries: 1
+Finish: 2025-04-14 10:25:33.567720
