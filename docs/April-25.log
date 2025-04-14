@@ -1222,3 +1222,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Datactics Supports Digital Transformation For Investec In The UK With FSCS Digital Data Validation Sandbox](http://www.mondovisione.com/media-and-resources/news/datactics-supports-digital-transformation-for-investec-in-the-uk-with-fscs-digit-2025414/)
 append_entries: 4
 Finish: 2025-04-14 14:23:16.368082
+------------------------------------------------------
+Started: 2025-04-14 16:28:23.317025
+Existing_entries: 186
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Publishes New Data And Analysis About Registered Investment Companies And Money Market Funds](http://www.mondovisione.com/media-and-resources/news/sec-publishes-new-data-and-analysis-about-registered-investment-companies-and-mo-2025414/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Mother: Opening Remarks For Trading Roundtable, SEC Commissioner Hester M. Peirce, Washington D.C., April 11, 2025](http://www.mondovisione.com/media-and-resources/news/the-mother-opening-remarks-for-trading-roundtable-sec-commissioner-hester-m-p-2025414/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER Welcomes Simplified Lithuanian Gas Transmission Tariff Proposal](http://www.mondovisione.com/media-and-resources/news/acer-welcomes-simplified-lithuanian-gas-transmission-tariff-proposal-2025414/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Options And MIAX Emerald Options - Reminder: Effective For Trade Dates April 14, 2025 Through April 17, 2025, 2X OPENING And INTRADAY Valid And Priority Quote Spread Relief In All Symbols](http://www.mondovisione.com/media-and-resources/news/miax-options-and-miax-emerald-options-reminder-effective-for-trade-dates-apri-2025414/)
+append_entries: 4
+Finish: 2025-04-14 16:28:24.142056
