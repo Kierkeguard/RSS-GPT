@@ -1168,3 +1168,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Japan Financial Services Agency: The Expert Panel On The Stewardship Code (2024)](http://www.mondovisione.com/media-and-resources/news/japan-financial-services-agency-the-expert-panel-on-the-stewardship-code-2024-2025414/)
 append_entries: 3
 Finish: 2025-04-14 06:33:36.160258
+------------------------------------------------------
+Started: 2025-04-14 08:31:11.305221
+Existing_entries: 176
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Taiwan Futures Exchange Newsletter - April 2025](http://www.mondovisione.com/media-and-resources/news/taiwan-futures-exchange-newsletter-april-2025-2025414/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Behran Oil Celebrates Listing Anniversary At Tehran Securities Exchange Bell-Ringing Ceremony](http://www.mondovisione.com/media-and-resources/news/behran-oil-celebrates-listing-anniversary-at-tehran-securities-exchange-bell-rin-2025414/)
+append_entries: 2
+Finish: 2025-04-14 08:31:12.623619
