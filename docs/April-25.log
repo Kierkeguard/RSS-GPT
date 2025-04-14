@@ -1153,3 +1153,18 @@ Existing_entries: 173
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-04-14 04:26:33.736882
+------------------------------------------------------
+Started: 2025-04-14 06:33:34.940421
+Existing_entries: 173
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Under The Patronage Of Maktoum Bin Mohammed DIFC To Host 3rd Edition Of Dubai FinTech Summit On 12 And 13 May 2025](http://www.mondovisione.com/media-and-resources/news/under-the-patronage-of-maktoum-bin-mohammed-difc-to-host-3rd-edition-of-dubai-fi-2025414/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Monetary Authority Of Singapore Monetary Policy Statement - April 2025](http://www.mondovisione.com/media-and-resources/news/monetary-authority-of-singapore-monetary-policy-statement-april-2025-2025414/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Japan Financial Services Agency: The Expert Panel On The Stewardship Code (2024)](http://www.mondovisione.com/media-and-resources/news/japan-financial-services-agency-the-expert-panel-on-the-stewardship-code-2024-2025414/)
+append_entries: 3
+Finish: 2025-04-14 06:33:36.160258
