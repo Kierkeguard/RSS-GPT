@@ -1189,3 +1189,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Cathie Wood At ARK Invest Comments On Trump's Tariff Policy](http://www.mondovisione.com/media-and-resources/news/cathie-wood-at-ark-invest-comments-on-trumps-tariff-policy-2025414/)
 append_entries: 1
 Finish: 2025-04-14 10:25:33.567720
+------------------------------------------------------
+Started: 2025-04-14 12:46:26.532313
+Existing_entries: 179
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [R.J. O’Brien Agrees To Acquisition By StoneX Group - Combination Strengthens Firms’ Position As A Leading Futures Brokerage And Clearing Firm](http://www.mondovisione.com/media-and-resources/news/rj-obrien-agrees-to-acquisition-by-stonex-group-combination-strengthens-fir-2025414/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Options And MIAX Emerald Options - Effective For Trade Dates April 14, 2025 Through April 17, 2025, 2X OPENING And INTRADAY Valid And Priority Quote Spread Relief In All Symbols](http://www.mondovisione.com/media-and-resources/news/miax-options-and-miax-emerald-options-effective-for-trade-dates-april-14-2025-2025414/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cyprus Stock Exchange Bulletin For March 2025](http://www.mondovisione.com/media-and-resources/news/cyprus-stock-exchange-bulletin-for-march-2025-2025414/)
+append_entries: 3
+Finish: 2025-04-14 12:46:27.730071
