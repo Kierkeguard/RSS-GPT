@@ -1204,3 +1204,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Cyprus Stock Exchange Bulletin For March 2025](http://www.mondovisione.com/media-and-resources/news/cyprus-stock-exchange-bulletin-for-march-2025-2025414/)
 append_entries: 3
 Finish: 2025-04-14 12:46:27.730071
+------------------------------------------------------
+Started: 2025-04-14 14:23:15.471958
+Existing_entries: 182
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MarketAxess Reports Record Trading Week In U.S. Government Bonds, Including $100+ Billion Record Day - Record Day Driven By Market Volatility Prompting Strong Market Volumes And Notable Uptake Of Client And Algo Trading](http://www.mondovisione.com/media-and-resources/news/marketaxess-reports-record-trading-week-in-us-government-bonds-including-100-2025414/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FICC Surpasses USD$11 Trillion In Daily Volume Amid Market Volatility, Underscoring Resiliency Of Central Clearing](http://www.mondovisione.com/media-and-resources/news/ficc-surpasses-usd11-trillion-in-daily-volume-amid-market-volatility-underscor-2025414/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Plum Secures £15m In Venture Debt From BBVA](http://www.mondovisione.com/media-and-resources/news/plum-secures-15m-in-venture-debt-from-bbva-2025414/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Datactics Supports Digital Transformation For Investec In The UK With FSCS Digital Data Validation Sandbox](http://www.mondovisione.com/media-and-resources/news/datactics-supports-digital-transformation-for-investec-in-the-uk-with-fscs-digit-2025414/)
+append_entries: 4
+Finish: 2025-04-14 14:23:16.368082
