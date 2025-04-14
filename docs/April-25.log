@@ -1264,3 +1264,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Cboe Begins Trading In S&P 500® Equal Weight Index Options On April 14, 2025](http://www.mondovisione.com/media-and-resources/news/cboe-begins-trading-in-sandp-500-equal-weight-index-options-on-april-14-2025-2025414/)
 append_entries: 2
 Finish: 2025-04-14 20:25:17.231464
+------------------------------------------------------
+Started: 2025-04-14 22:21:18.668300
+Existing_entries: 194
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Staff Issues Interpretation Regarding U.S. Treasury Exchange-Traded Funds As Eligible Margin Collateral For Uncleared Swaps](http://www.mondovisione.com/media-and-resources/news/cftc-staff-issues-interpretation-regarding-us-treasury-exchange-traded-funds-a-2025414/)
+append_entries: 1
+Finish: 2025-04-14 22:21:19.790077
