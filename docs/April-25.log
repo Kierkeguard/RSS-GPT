@@ -1240,3 +1240,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [MIAX Options And MIAX Emerald Options - Reminder: Effective For Trade Dates April 14, 2025 Through April 17, 2025, 2X OPENING And INTRADAY Valid And Priority Quote Spread Relief In All Symbols](http://www.mondovisione.com/media-and-resources/news/miax-options-and-miax-emerald-options-reminder-effective-for-trade-dates-apri-2025414/)
 append_entries: 4
 Finish: 2025-04-14 16:28:24.142056
+------------------------------------------------------
+Started: 2025-04-14 18:31:26.316324
+Existing_entries: 190
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [A Tale Of Two Outlooks, Federal Reserve Governor Christopher J. Waller, At The Certified Financial Analysts Society Of St. Louis, St. Louis, Missouri](http://www.mondovisione.com/media-and-resources/news/a-tale-of-two-outlooks-federal-reserve-governor-christopher-j-waller-at-the-c-2025414/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [S&P Global And CME Group To Sell OSTTRA To KKR For $3.1 Billion](http://www.mondovisione.com/media-and-resources/news/sandp-global-and-cme-group-to-sell-osttra-to-kkr-for-31-billion-2025414/)
+append_entries: 2
+Finish: 2025-04-14 18:31:27.432154
