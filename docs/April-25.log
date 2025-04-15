@@ -1291,3 +1291,15 @@ Existing_entries: 195
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-04-15 04:26:58.127907
+------------------------------------------------------
+Started: 2025-04-15 06:32:09.049490
+Existing_entries: 195
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SGX Securities Welcomes Vin’s Holdings Ltd To Catalist](http://www.mondovisione.com/media-and-resources/news/sgx-securities-welcomes-vins-holdings-ltd-to-catalist-2025415/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NGX Group Commemorates The Legacy Of Retired Directors, Calls For Strengthened Market Collaboration](http://www.mondovisione.com/media-and-resources/news/ngx-group-commemorates-the-legacy-of-retired-directors-calls-for-strengthened-m-2025415/)
+append_entries: 2
+Finish: 2025-04-15 06:32:10.292874
