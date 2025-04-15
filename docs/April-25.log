@@ -1273,3 +1273,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CFTC Staff Issues Interpretation Regarding U.S. Treasury Exchange-Traded Funds As Eligible Margin Collateral For Uncleared Swaps](http://www.mondovisione.com/media-and-resources/news/cftc-staff-issues-interpretation-regarding-us-treasury-exchange-traded-funds-a-2025414/)
 append_entries: 1
 Finish: 2025-04-14 22:21:19.790077
+------------------------------------------------------
+Started: 2025-04-15 01:51:13.751249
+Existing_entries: 195
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-04-15 01:51:14.602820
