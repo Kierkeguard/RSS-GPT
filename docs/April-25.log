@@ -1309,3 +1309,25 @@ Existing_entries: 197
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-04-15 08:30:48.968109
+------------------------------------------------------
+Started: 2025-04-15 10:24:51.456782
+Existing_entries: 197
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FTSE Mondo Visione Exchanges Index Hits New High Amid Market Volatility - Exchanges Around The Globe Navigate Volatility With Strong Performances In March 2025](http://www.mondovisione.com/media-and-resources/news/ftse-mondo-visione-exchanges-index-hits-new-high-amid-market-volatility-exchan-2025415/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority: Individual Charged With Carrying On An Unauthorised Business And Misleading Investors](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-individual-charged-with-carrying-on-an-unauthori-2025415/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Day 1 Agenda, May 1st: Register Now To Celebrate 25 Years Of ETFs In Europe At Our 6th ETFGI Global ETFs Insights Summit At The London Stock Exchange](http://www.mondovisione.com/media-and-resources/news/day-1-agenda-may-1st-register-now-to-celebrate-25-years-of-etfs-in-europe-at-o-2025415/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LME Approves First Warehouse Facilities In Hong Kong](http://www.mondovisione.com/media-and-resources/news/lme-approves-first-warehouse-facilities-in-hong-kong-2025415/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Saxo Launches Flexible ISA Amid Record Soaring Demand For Stocks And Shares ISA Product And Ongoing Market Volatility](http://www.mondovisione.com/media-and-resources/news/saxo-launches-flexible-isa-amid-record-soaring-demand-for-stocks-and-shares-isa-2025415/)
+Append: [Travel And Tourism Sees Resilient M&A Activity Amid 5% Dip In Overall Deal Volume In Q1 2025, Reveals GlobalData](http://www.mondovisione.com/media-and-resources/news/travel-and-tourism-sees-resilient-manda-activity-amid-5-dip-in-overall-deal-volum-2025415/)
+append_entries: 6
+Finish: 2025-04-15 10:24:52.743669
