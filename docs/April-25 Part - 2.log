@@ -69,3 +69,15 @@ Existing_entries: 17
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-04-22 16:28:19.521423
+------------------------------------------------------
+Started: 2025-04-22 18:31:21.431373
+Existing_entries: 17
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Commissioner Goldsmith Romero To Participate In A Fireside Chat At PGIM’s Fixed Income Event](http://www.mondovisione.com/media-and-resources/news/cftc-commissioner-goldsmith-romero-to-participate-in-a-fireside-chat-at-pgims-f-2025422/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Ontario Securities Commission Research Uncovers Concerns About Finfluencers’ Power Of Persuasion](http://www.mondovisione.com/media-and-resources/news/ontario-securities-commission-research-uncovers-concerns-about-finfluencers-pow-2025422/)
+append_entries: 2
+Finish: 2025-04-22 18:31:22.748935
