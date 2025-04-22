@@ -42,3 +42,24 @@ Existing_entries: 12
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-04-22 12:58:16.166916
+------------------------------------------------------
+Started: 2025-04-22 14:22:13.742526
+Existing_entries: 12
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Note To SEC Staff: Thank You And Welcome Chairman Atkins - SEC Commissioner Mark T. Uyeda](http://www.mondovisione.com/media-and-resources/news/note-to-sec-staff-thank-you-and-welcome-chairman-atkins-sec-commissioner-mark-2025422/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Economic Mobility And The Dual Mandate, Federal Reserve Vice Chair Philip N. Jefferson, At The Economic Mobility Summit, Hosted By The Federal Reserve Bank Of Philadelphia, Philadelphia, Pennsylvania](http://www.mondovisione.com/media-and-resources/news/economic-mobility-and-the-dual-mandate-federal-reserve-vice-chair-philip-n-jef-2025422/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Options And MIAX Emerald Options - Reminder: Effective For Trade Dates April 21, 2025 Through April 25, 2025, 2X OPENING And INTRADAY Valid and Priority Quote Spread Relief In All Symbols](http://www.mondovisione.com/media-and-resources/news/miax-options-and-miax-emerald-options-reminder-effective-for-trade-dates-apri-2025422/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Trading Technologies Announces New Clients For TT® Futures TCA In Europe And U.S. - Offering Helps Bowmoor Capital, SummerHaven Investment Management Refine Sophisticated Trading Strategies, Ensure Best Execution For Their Clients](http://www.mondovisione.com/media-and-resources/news/trading-technologies-announces-new-clients-for-tt-futures-tca-in-europe-and-us-2025422/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER To Decide On The National Flexibility Needs Assessment Methodology](http://www.mondovisione.com/media-and-resources/news/acer-to-decide-on-the-national-flexibility-needs-assessment-methodology-2025422/)
+append_entries: 5
+Finish: 2025-04-22 14:22:14.953712
