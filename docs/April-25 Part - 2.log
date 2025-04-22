@@ -90,3 +90,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [HCLTech Delivers Another Year Of Industry-Leading Growth - Fastest Growth Among Peers For The Second Year In A Row; Q4 New Deal Wins At $3b Taking FY25 TCV To $9.3B](http://www.mondovisione.com/media-and-resources/news/hcltech-delivers-another-year-of-industry-leading-growth-fastest-growth-among-2025422/)
 append_entries: 1
 Finish: 2025-04-22 20:25:21.162901
+------------------------------------------------------
+Started: 2025-04-22 22:21:49.015941
+Existing_entries: 20
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-04-22 22:21:49.891740
