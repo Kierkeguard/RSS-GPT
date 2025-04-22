@@ -81,3 +81,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Ontario Securities Commission Research Uncovers Concerns About Finfluencers’ Power Of Persuasion](http://www.mondovisione.com/media-and-resources/news/ontario-securities-commission-research-uncovers-concerns-about-finfluencers-pow-2025422/)
 append_entries: 2
 Finish: 2025-04-22 18:31:22.748935
+------------------------------------------------------
+Started: 2025-04-22 20:25:20.291302
+Existing_entries: 19
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HCLTech Delivers Another Year Of Industry-Leading Growth - Fastest Growth Among Peers For The Second Year In A Row; Q4 New Deal Wins At $3b Taking FY25 TCV To $9.3B](http://www.mondovisione.com/media-and-resources/news/hcltech-delivers-another-year-of-industry-leading-growth-fastest-growth-among-2025422/)
+append_entries: 1
+Finish: 2025-04-22 20:25:21.162901
