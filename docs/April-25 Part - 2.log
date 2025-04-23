@@ -108,3 +108,15 @@ Existing_entries: 20
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-04-23 03:06:27.695287
+------------------------------------------------------
+Started: 2025-04-23 04:27:10.840003
+Existing_entries: 20
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Transmission of Monetary Policy, Federal Reserve Governor Adriana D. Kugler, At the Heller-Hurwicz Economics Institute, University of Minnesota, Minneapolis, Minnesota](http://www.mondovisione.com/media-and-resources/news/transmission-of-monetary-policy-federal-reserve-governor-adriana-d-kugler-at-2025423/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Charges PGI Global Founder With $198 Million Crypto Asset And Foreign Exchange Fraud Scheme](http://www.mondovisione.com/media-and-resources/news/sec-charges-pgi-global-founder-with-198-million-crypto-asset-and-foreign-exchan-2025423/)
+append_entries: 2
+Finish: 2025-04-23 04:27:12.079665
