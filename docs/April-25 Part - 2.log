@@ -162,3 +162,12 @@ Append: [Thunes Reveals Its 2025 Mobile Wallet Report, Transaction Value Soars T
 Append: [Vermeg Appoints Tarak ACHICH As CEO To Accelerate Growth And Innovation](http://www.mondovisione.com/media-and-resources/news/vermeg-appoints-tarak-achich-as-ceo-to-accelerate-growth-and-innovation-2025423/)
 append_entries: 8
 Finish: 2025-04-23 10:26:26.421617
+------------------------------------------------------
+Started: 2025-04-23 12:47:09.971128
+Existing_entries: 32
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group Inc. Reports All-Time Record Revenue, Adjusted Operating Income, Adjusted Net Income And Adjusted Earnings Per Share For Q1 2025](http://www.mondovisione.com/media-and-resources/news/cme-group-inc-reports-all-time-record-revenue-adjusted-operating-income-adjus-2025423/)
+append_entries: 1
+Finish: 2025-04-23 12:47:11.153012
