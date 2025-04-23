@@ -129,3 +129,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [“Charting A Steady Course In A Changing World” – Opening Address By Mr Chia Der Jiun, Managing Director, Monetary Authority Of Singapore, At The IMAS Annual Investment Conference 2025 On 23 April 2025](http://www.mondovisione.com/media-and-resources/news/charting-a-steady-course-in-a-changing-world-opening-address-by-mr-chia-der-2025423/)
 append_entries: 1
 Finish: 2025-04-23 06:32:18.419147
+------------------------------------------------------
+Started: 2025-04-23 08:30:26.551411
+Existing_entries: 23
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Sterling Trading Tech Names Julie Armstrong - Strategic Hire Marks New Era Of Growth And Global Expansion](http://www.mondovisione.com/media-and-resources/news/sterling-trading-tech-names-julie-armstrong-strategic-hire-marks-new-era-of-gr-2025423/)
+append_entries: 1
+Finish: 2025-04-23 08:30:27.250353
