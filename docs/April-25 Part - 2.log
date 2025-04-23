@@ -120,3 +120,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SEC Charges PGI Global Founder With $198 Million Crypto Asset And Foreign Exchange Fraud Scheme](http://www.mondovisione.com/media-and-resources/news/sec-charges-pgi-global-founder-with-198-million-crypto-asset-and-foreign-exchan-2025423/)
 append_entries: 2
 Finish: 2025-04-23 04:27:12.079665
+------------------------------------------------------
+Started: 2025-04-23 06:32:17.423085
+Existing_entries: 22
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [“Charting A Steady Course In A Changing World” – Opening Address By Mr Chia Der Jiun, Managing Director, Monetary Authority Of Singapore, At The IMAS Annual Investment Conference 2025 On 23 April 2025](http://www.mondovisione.com/media-and-resources/news/charting-a-steady-course-in-a-changing-world-opening-address-by-mr-chia-der-2025423/)
+append_entries: 1
+Finish: 2025-04-23 06:32:18.419147
