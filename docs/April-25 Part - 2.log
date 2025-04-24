@@ -365,3 +365,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [European Native Stablecoin Issuer Quantoz Achieves Trading Volume And Exchange Listing Milestones](http://www.mondovisione.com/media-and-resources/news/european-native-stablecoin-issuer-quantoz-achieves-trading-volume-and-exchange-l-2025424/)
 append_entries: 5
 Finish: 2025-04-24 16:29:00.015584
+------------------------------------------------------
+Started: 2025-04-24 18:31:11.228047
+Existing_entries: 75
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Bank Barometer: Net Profit Of Swedish Banks Continues To Increase](http://www.mondovisione.com/media-and-resources/news/the-bank-barometer-net-profit-of-swedish-banks-continues-to-increase-2025424/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESMA Assesses The Risks Posed By The Use Of Leverage In The Fund Sector](http://www.mondovisione.com/media-and-resources/news/esma-assesses-the-risks-posed-by-the-use-of-leverage-in-the-fund-sector-2025424/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bank Of England: Minutes Of The Meeting Of The Court Of Directors Held On 12 February 2025](http://www.mondovisione.com/media-and-resources/news/bank-of-england-minutes-of-the-meeting-of-the-court-of-directors-held-on-12-feb-2025424/)
+append_entries: 3
+Finish: 2025-04-24 18:31:12.557359
