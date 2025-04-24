@@ -287,3 +287,24 @@ Append: [SustainoMetric Launches Supply Chain Due Diligence To Help Navigate Sup
 Append: [Vienna Stock Exchange: Expanded Product Diversity With New ETFs And Crypto Trackers](http://www.mondovisione.com/media-and-resources/news/vienna-stock-exchange-expanded-product-diversity-with-new-etfs-and-crypto-track-2025424/)
 append_entries: 6
 Finish: 2025-04-24 08:30:22.522299
+------------------------------------------------------
+Started: 2025-04-24 10:24:56.556459
+Existing_entries: 55
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SET Board Of Governors Appoints Three New Expert Members To CMDF Committee, Effective May 17, 2025](http://www.mondovisione.com/media-and-resources/news/set-board-of-governors-appoints-three-new-expert-members-to-cmdf-committee-effe-2025424/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Global Green Finance Index 15: Drop In Confidence In Green Finance As All Centres Fall In GGFI Ratings](http://www.mondovisione.com/media-and-resources/news/global-green-finance-index-15-drop-in-confidence-in-green-finance-as-all-centre-2025424/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [World Federation Of Exchanges: CBDCs Could Accelerate Push Towards Tokenised Ecosystem](http://www.mondovisione.com/media-and-resources/news/world-federation-of-exchanges-cbdcs-could-accelerate-push-towards-tokenised-eco-2025424/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority: Seventy Percent Cut In Capital Rules Red Tape](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-seventy-percent-cut-in-capital-rules-red-tape-2025424/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Clearing Appoints New Chief Risk Officer](http://www.mondovisione.com/media-and-resources/news/cme-clearing-appoints-new-chief-risk-officer-2025424/)
+append_entries: 5
+Finish: 2025-04-24 10:24:57.326881
