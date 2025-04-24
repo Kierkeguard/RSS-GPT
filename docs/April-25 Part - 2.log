@@ -344,3 +344,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [MIAX Options And MIAX Emerald Options - Reminder: Effective For Trade Dates April 21, 2025 Through April 25, 2025, 2X OPENING And INTRADAY Valid And Priority Quote Spread Relief In All Symbols](http://www.mondovisione.com/media-and-resources/news/miax-options-and-miax-emerald-options-reminder-effective-for-trade-dates-apri-2025424/)
 append_entries: 2
 Finish: 2025-04-24 14:21:43.004935
+------------------------------------------------------
+Started: 2025-04-24 16:28:58.878335
+Existing_entries: 70
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BIS: Project Meridian FX Shows Possibility Of Cross-Border Linkages For FX Transactions Between Wholesale Payment Infrastructures](http://www.mondovisione.com/media-and-resources/news/bis-project-meridian-fx-shows-possibility-of-cross-border-linkages-for-fx-trans-2025424/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group To Expand Crypto Derivatives Suite With Launch Of XRP Futures](http://www.mondovisione.com/media-and-resources/news/cme-group-to-expand-crypto-derivatives-suite-with-launch-of-xrp-futures-2025424/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ICE First Look At Mortgage Performance: Delinquencies Improved Seasonally In March But Continue To Trend Modestly Higher](http://www.mondovisione.com/media-and-resources/news/ice-first-look-at-mortgage-performance-delinquencies-improved-seasonally-in-mar-2025424/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Shaping The Future By Building On Present REMIT strengths: ACER’s View On The Commission’s Consultation On Commodity Derivatives Markets](http://www.mondovisione.com/media-and-resources/news/shaping-the-future-by-building-on-present-remit-strengths-acers-view-on-the-co-2025424/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [European Native Stablecoin Issuer Quantoz Achieves Trading Volume And Exchange Listing Milestones](http://www.mondovisione.com/media-and-resources/news/european-native-stablecoin-issuer-quantoz-achieves-trading-volume-and-exchange-l-2025424/)
+append_entries: 5
+Finish: 2025-04-24 16:29:00.015584
