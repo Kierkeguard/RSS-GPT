@@ -233,3 +233,26 @@ Existing_entries: 41
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-04-24 03:08:06.695068
+------------------------------------------------------
+Started: 2025-04-24 04:26:50.808233
+Existing_entries: 41
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Acting CFTC Chairman Pham Issues Statement On OIG Audit Of CFTC’s Use Of Charge Cards](http://www.mondovisione.com/media-and-resources/news/acting-cftc-chairman-pham-issues-statement-on-oig-audit-of-cftcs-use-of-charge-2025424/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Vancouver Company To Pay $3.3 Million To The BC Securities Commission For Making Misrepresentations, Illegally Distributing Securities And Operating An Unauthorized Exchange](http://www.mondovisione.com/media-and-resources/news/vancouver-company-to-pay-33-million-to-the-bc-securities-commission-for-making-2025424/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ISDA - The Swap - Episode 50: The Value Of Derivatives](http://www.mondovisione.com/media-and-resources/news/isda-the-swap-episode-50-the-value-of-derivatives-2025424/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Changes To Billing System Rules For The MIAX Exchanges To Allow Members To Provide Alternative Payment Instructions For Certain Fees](http://www.mondovisione.com/media-and-resources/news/changes-to-billing-system-rules-for-the-miax-exchanges-to-allow-members-to-provi-2025424/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [High-Calibre Trio Joins Worldline Executive Team In Driving A New Phase](http://www.mondovisione.com/media-and-resources/news/high-calibre-trio-joins-worldline-executive-team-in-driving-a-new-phase-2025424/)
+Append: [US Treasury Secretary Bessent IMFC-DC Statement](http://www.mondovisione.com/media-and-resources/news/us-treasury-secretary-bessent-imfc-dc-statement-2025424/)
+Append: [BIS - Project Promissa: Blockchain For Multilateral Development](http://www.mondovisione.com/media-and-resources/news/bis-project-promissa-blockchain-for-multilateral-development-2025424/)
+append_entries: 7
+Finish: 2025-04-24 04:26:51.596902
