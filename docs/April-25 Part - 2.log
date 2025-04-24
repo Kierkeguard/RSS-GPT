@@ -256,3 +256,12 @@ Append: [US Treasury Secretary Bessent IMFC-DC Statement](http://www.mondovision
 Append: [BIS - Project Promissa: Blockchain For Multilateral Development](http://www.mondovisione.com/media-and-resources/news/bis-project-promissa-blockchain-for-multilateral-development-2025424/)
 append_entries: 7
 Finish: 2025-04-24 04:26:51.596902
+------------------------------------------------------
+Started: 2025-04-24 06:32:42.520626
+Existing_entries: 48
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Japan Exchange Group: Release Of Results Of “Study Group On Small-Size Investments”](http://www.mondovisione.com/media-and-resources/news/japan-exchange-group-release-of-results-of-study-group-on-small-size-investmen-2025424/)
+append_entries: 1
+Finish: 2025-04-24 06:32:43.274311
