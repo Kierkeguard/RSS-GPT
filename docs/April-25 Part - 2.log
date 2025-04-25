@@ -410,3 +410,18 @@ Existing_entries: 78
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-04-25 04:27:02.597774
+------------------------------------------------------
+Started: 2025-04-25 06:32:11.090163
+Existing_entries: 78
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Fostering Future-Ready Capital Markets In A New Era Of Uncertainty, Keynote Remarks At OSC Dialogue, Ms Julia Leung, Chief Executive Officer, Hong Kong Securities And Futures Commission](http://www.mondovisione.com/media-and-resources/news/fostering-future-ready-capital-markets-in-a-new-era-of-uncertainty-keynote-rema-2025425/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Federal Reserve Board Announces The Withdrawal Of Guidance For Banks Related To Their Crypto-Asset And Dollar Token Activities And Related Changes To Its Expectations For These Activities](http://www.mondovisione.com/media-and-resources/news/federal-reserve-board-announces-the-withdrawal-of-guidance-for-banks-related-to-2025425/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Commissioner Kristin N. Johnson: Africa Fintech Summit 2025 Keynote Remarks - Inspiring A World Of Innovation](http://www.mondovisione.com/media-and-resources/news/cftc-commissioner-kristin-n-johnson-africa-fintech-summit-2025-keynote-remarks-2025425/)
+append_entries: 3
+Finish: 2025-04-25 06:32:12.548672
