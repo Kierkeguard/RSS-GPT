@@ -476,3 +476,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [The EBA Publishes Key Indicators On Climate Risk In The EU/EEA Banking Sector](http://www.mondovisione.com/media-and-resources/news/the-eba-publishes-key-indicators-on-climate-risk-in-the-eueea-banking-sector-2025425/)
 append_entries: 2
 Finish: 2025-04-25 16:27:53.775910
+------------------------------------------------------
+Started: 2025-04-25 18:30:53.864888
+Existing_entries: 88
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Statement By Christine Lagarde, President Of The ECB, At The Fifty-First Meeting Of The International Monetary And Financial Committee - IMF Spring Meetings, 25 April 2025](http://www.mondovisione.com/media-and-resources/news/statement-by-christine-lagarde-president-of-the-ecb-at-the-fifty-first-meeting-2025425/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euronext Launches The European Common Prospectus To Accelerate Capital Market Integration And Boost IPO Activity Across The EU](http://www.mondovisione.com/media-and-resources/news/euronext-launches-the-european-common-prospectus-to-accelerate-capital-market-in-2025425/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Global Responses To Digital Asset Regulation - Speech By Jessica Rusu, UK Financial Conduct Authority Chief Data, Information And Intelligence Officer Delivered At TheCityUK International Conference 2025](http://www.mondovisione.com/media-and-resources/news/global-responses-to-digital-asset-regulation-speech-by-jessica-rusu-uk-financ-2025425/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [VSTOXX Turns 20: Experts Appraise The Volatility Index's Standing In Equity Markets](http://www.mondovisione.com/media-and-resources/news/vstoxx-turns-20-experts-appraise-the-volatility-indexs-standing-in-equity-mark-2025425/)
+append_entries: 4
+Finish: 2025-04-25 18:30:54.968199
