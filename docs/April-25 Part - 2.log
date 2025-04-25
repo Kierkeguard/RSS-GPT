@@ -425,3 +425,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CFTC Commissioner Kristin N. Johnson: Africa Fintech Summit 2025 Keynote Remarks - Inspiring A World Of Innovation](http://www.mondovisione.com/media-and-resources/news/cftc-commissioner-kristin-n-johnson-africa-fintech-summit-2025-keynote-remarks-2025425/)
 append_entries: 3
 Finish: 2025-04-25 06:32:12.548672
+------------------------------------------------------
+Started: 2025-04-25 08:30:10.018036
+Existing_entries: 81
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Joint Media Statement: Securities Commission Malaysia And Bursa Malaysia](http://www.mondovisione.com/media-and-resources/news/joint-media-statement-securities-commission-malaysia-and-bursa-malaysia-2025425/)
+append_entries: 1
+Finish: 2025-04-25 08:30:11.067722
