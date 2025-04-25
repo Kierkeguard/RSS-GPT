@@ -434,3 +434,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Joint Media Statement: Securities Commission Malaysia And Bursa Malaysia](http://www.mondovisione.com/media-and-resources/news/joint-media-statement-securities-commission-malaysia-and-bursa-malaysia-2025425/)
 append_entries: 1
 Finish: 2025-04-25 08:30:11.067722
+------------------------------------------------------
+Started: 2025-04-25 10:24:17.288952
+Existing_entries: 82
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER Urges ENTSO-E To Improve Balancing Data Quality And Adjust Reporting Schedule](http://www.mondovisione.com/media-and-resources/news/acer-urges-entso-e-to-improve-balancing-data-quality-and-adjust-reporting-schedu-2025425/)
+append_entries: 1
+Finish: 2025-04-25 10:24:18.240938
