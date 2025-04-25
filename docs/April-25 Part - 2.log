@@ -443,3 +443,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ACER Urges ENTSO-E To Improve Balancing Data Quality And Adjust Reporting Schedule](http://www.mondovisione.com/media-and-resources/news/acer-urges-entso-e-to-improve-balancing-data-quality-and-adjust-reporting-schedu-2025425/)
 append_entries: 1
 Finish: 2025-04-25 10:24:18.240938
+------------------------------------------------------
+Started: 2025-04-25 12:46:17.396481
+Existing_entries: 83
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-04-25 12:46:18.321270
