@@ -543,3 +543,21 @@ Existing_entries: 101
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-04-26 04:26:24.248853
+------------------------------------------------------
+Started: 2025-04-26 06:29:32.473838
+Existing_entries: 101
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Readout From US Secretary Of The Treasury Scott Bessent’s Meeting With Bank Of England Governor Andrew Bailey](http://www.mondovisione.com/media-and-resources/news/readout-from-us-secretary-of-the-treasury-scott-bessents-meeting-with-bank-of-e-2025426/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Readout From US Secretary Of The Treasury Scott Bessent’s Meeting With Chancellor Rachel Reeves Of The United Kingdom](http://www.mondovisione.com/media-and-resources/news/readout-from-us-secretary-of-the-treasury-scott-bessents-meeting-with-chancello-2025426/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Announces Mid-Month Open Short Interest Positions In Nasdaq Stocks As Of Settlement Date April 15, 2025](http://www.mondovisione.com/media-and-resources/news/nasdaq-announces-mid-month-open-short-interest-positions-in-nasdaq-stocks-as-of-2025426/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NYSE Group Consolidated Short Interest Report](http://www.mondovisione.com/media-and-resources/news/nyse-group-consolidated-short-interest-report-2025426/)
+append_entries: 4
+Finish: 2025-04-26 06:29:33.809957
