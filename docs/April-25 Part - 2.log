@@ -760,3 +760,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CPMI-IOSCO Assesses That The EU Has Implemented The Principles For Financial Market Infrastructures For Two FMI Types, But Recommends Some Improvements](http://www.mondovisione.com/media-and-resources/news/cpmi-iosco-assesses-that-the-eu-has-implemented-the-principles-for-financial-mar-2025428/)
 append_entries: 1
 Finish: 2025-04-28 12:54:57.216588
+------------------------------------------------------
+Started: 2025-04-28 14:25:25.369764
+Existing_entries: 118
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [DTCC’s Comment On Canada's Amended Trade Reporting Rules](http://www.mondovisione.com/media-and-resources/news/dtccs-comment-on-canadas-amended-trade-reporting-rules-2025428/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Hamilton ETFs Launches Hamilton Enhanced Mixed Asset ETF Tracking The Solactive Hamilton Mixed Asset Index](http://www.mondovisione.com/media-and-resources/news/hamilton-etfs-launches-hamilton-enhanced-mixed-asset-etf-tracking-the-solactive-2025428/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LSEG Extends Multi-Year Cloud Collaboration With AWS](http://www.mondovisione.com/media-and-resources/news/lseg-extends-multi-year-cloud-collaboration-with-aws-2025428/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Exchange Data International (EDI) Expands U.S. Presence With New Office In Miami](http://www.mondovisione.com/media-and-resources/news/exchange-data-international-edi-expands-us-presence-with-new-office-in-miami-2025428/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Join ETFGI On May 21st In Mexico City At Bolsa Institucional de Valores BIVA  For The 6th Annual ETFGI Global ETFs Insights Summit - Latin America](http://www.mondovisione.com/media-and-resources/news/join-etfgi-on-may-21st-in-mexico-city-at-bolsa-institucional-de-valores-biva-fo-2025428/)
+append_entries: 5
+Finish: 2025-04-28 14:25:26.282763
