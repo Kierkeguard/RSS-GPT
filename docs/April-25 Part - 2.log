@@ -793,3 +793,25 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [The Amman Stock Exchange Requests Listed Companies To File Interim Financial Statements Of The First Quarter 2025 Before The End Of The Specified Date](http://www.mondovisione.com/media-and-resources/news/the-amman-stock-exchange-requests-listed-companies-to-file-interim-financial-sta-2025428/)
 append_entries: 2
 Finish: 2025-04-28 16:27:55.967616
+------------------------------------------------------
+Started: 2025-04-28 18:32:04.525796
+Existing_entries: 125
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Q1/2025: Deutsche Börse Group Starts Financial Year 2025 With Further Growth](http://www.mondovisione.com/media-and-resources/news/q12025-deutsche-brse-group-starts-financial-year-2025-with-further-growth-2025428/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [GCEX’s UK Entity Reports Strong Revenue Growth For 2024, Driven By Surge In Crypto CFD Trading](http://www.mondovisione.com/media-and-resources/news/gcexs-uk-entity-reports-strong-revenue-growth-for-2024-driven-by-surge-in-cryp-2025428/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Alberta Securities CommissionnFinds That ‘Finfluencer’ James Domenic Floreani And Jayconomics Inc. Breached Alberta Securities Laws](http://www.mondovisione.com/media-and-resources/news/alberta-securities-commissionnfinds-that-finfluencer-james-domenic-floreani-an-2025428/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [EEX Group Financial Year 2024: New Records In Revenues And Income](http://www.mondovisione.com/media-and-resources/news/eex-group-financial-year-2024-new-records-in-revenues-and-income-2025428/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tel Aviv Stock Exchange: Bank Hapoalim Launches First-Of-Its-Kind Tailor-Made Market](http://www.mondovisione.com/media-and-resources/news/tel-aviv-stock-exchange-bank-hapoalim-launches-first-of-its-kind-tailor-made-ma-2025428/)
+Append: [EEX To List EU ETS2 Futures In July](http://www.mondovisione.com/media-and-resources/news/eex-to-list-eu-ets2-futures-in-july-2025428/)
+append_entries: 6
+Finish: 2025-04-28 18:32:05.377473
