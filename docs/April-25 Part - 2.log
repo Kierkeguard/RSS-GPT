@@ -708,3 +708,25 @@ Existing_entries: 106
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-04-28 06:39:33.984974
+------------------------------------------------------
+Started: 2025-04-28 09:17:30.727213
+Existing_entries: 106
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SET To Extend Trading Hours For Depositary Receipts, Starting May 6](http://www.mondovisione.com/media-and-resources/news/set-to-extend-trading-hours-for-depositary-receipts-starting-may-6-2025428/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Japan Exchange Group Candidates For Directors, etc](http://www.mondovisione.com/media-and-resources/news/japan-exchange-group-candidates-for-directors-etc-2025428/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bursa Malaysia Announces RM68.4 Million Profit After Tax, Zakat And Minority Interest For The First Quarter Of 2025](http://www.mondovisione.com/media-and-resources/news/bursa-malaysia-announces-rm684-million-profit-after-tax-zakat-and-minority-int-2025428/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Japan Exchange Group, Inc. And Consolidated Subsidiaries Consolidated Financial Results For The Fiscal Year Ended March 31, 2025 (Based On IFRS), Unaudited](http://www.mondovisione.com/media-and-resources/news/japan-exchange-group-inc-and-consolidated-subsidiaries-consolidated-financial-2025428/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NZX Revenue & Shareholder Metrics - Q1 2025](http://www.mondovisione.com/media-and-resources/news/nzx-revenue-and-shareholder-metrics-q1-2025-2025428/)
+Append: [ASX Commences Review Process Of Listing Rules Related To Shareholder Approval Requirements](http://www.mondovisione.com/media-and-resources/news/asx-commences-review-process-of-listing-rules-related-to-shareholder-approval-re-2025428/)
+append_entries: 6
+Finish: 2025-04-28 09:17:31.833252
