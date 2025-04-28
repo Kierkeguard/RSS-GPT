@@ -751,3 +751,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [InvestHK Unveils Application Details For Global Fast Track 2025](http://www.mondovisione.com/media-and-resources/news/investhk-unveils-application-details-for-global-fast-track-2025-2025428/)
 append_entries: 5
 Finish: 2025-04-28 11:07:56.238734
+------------------------------------------------------
+Started: 2025-04-28 12:54:56.103622
+Existing_entries: 117
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CPMI-IOSCO Assesses That The EU Has Implemented The Principles For Financial Market Infrastructures For Two FMI Types, But Recommends Some Improvements](http://www.mondovisione.com/media-and-resources/news/cpmi-iosco-assesses-that-the-eu-has-implemented-the-principles-for-financial-mar-2025428/)
+append_entries: 1
+Finish: 2025-04-28 12:54:57.216588
