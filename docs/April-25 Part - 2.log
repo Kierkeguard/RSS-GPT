@@ -781,3 +781,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Join ETFGI On May 21st In Mexico City At Bolsa Institucional de Valores BIVA  For The 6th Annual ETFGI Global ETFs Insights Summit - Latin America](http://www.mondovisione.com/media-and-resources/news/join-etfgi-on-may-21st-in-mexico-city-at-bolsa-institucional-de-valores-biva-fo-2025428/)
 append_entries: 5
 Finish: 2025-04-28 14:25:26.282763
+------------------------------------------------------
+Started: 2025-04-28 16:27:54.938636
+Existing_entries: 123
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Borsa Istanbul: Periodic Review For The BIST Sustainability Themed Debt Securities Indices Has Been Finalized](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-periodic-review-for-the-bist-sustainability-themed-debt-securiti-2025428/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Amman Stock Exchange Requests Listed Companies To File Interim Financial Statements Of The First Quarter 2025 Before The End Of The Specified Date](http://www.mondovisione.com/media-and-resources/news/the-amman-stock-exchange-requests-listed-companies-to-file-interim-financial-sta-2025428/)
+append_entries: 2
+Finish: 2025-04-28 16:27:55.967616
