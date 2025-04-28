@@ -833,3 +833,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SEC Publishes New Market Data, Analysis, And Visualizations](http://www.mondovisione.com/media-and-resources/news/sec-publishes-new-market-data-analysis-and-visualizations-2025428/)
 append_entries: 4
 Finish: 2025-04-28 20:23:00.645282
+------------------------------------------------------
+Started: 2025-04-28 22:22:04.588431
+Existing_entries: 135
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-04-28 22:22:05.510845
