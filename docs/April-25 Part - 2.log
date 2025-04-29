@@ -977,3 +977,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [DTCC Appoints Talia Klein As Head Of Wealth Management Services - Klein Brings Over A Decade Of Experience Developing Innovative Solutions To Meet The Evolving Needs Of Wealth Managers And Institutional Investors To DTCC](http://www.mondovisione.com/media-and-resources/news/dtcc-appoints-talia-klein-as-head-of-wealth-management-services-klein-brings-o-2025429/)
 append_entries: 5
 Finish: 2025-04-29 20:25:44.690889
+------------------------------------------------------
+Started: 2025-04-29 22:21:25.689738
+Existing_entries: 161
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Charges Three Texans with Defrauding Investors In $91 Million Ponzi Scheme](http://www.mondovisione.com/media-and-resources/news/sec-charges-three-texans-with-defrauding-investors-in-91-million-ponzi-scheme-2025429/)
+append_entries: 1
+Finish: 2025-04-29 22:21:26.931628
