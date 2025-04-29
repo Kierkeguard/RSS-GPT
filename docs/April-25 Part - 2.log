@@ -935,3 +935,24 @@ Existing_entries: 151
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-04-29 16:28:53.924529
+------------------------------------------------------
+Started: 2025-04-29 18:30:41.152875
+Existing_entries: 151
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Announces Departure Of Amanda Olear After Nearly 2 Decades Of Service](http://www.mondovisione.com/media-and-resources/news/cftc-announces-departure-of-amanda-olear-after-nearly-2-decades-of-service-2025429/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cboe Futures Exchange Launches Trading in Cboe FTSE Bitcoin Index Futures](http://www.mondovisione.com/media-and-resources/news/cboe-futures-exchange-launches-trading-in-cboe-ftse-bitcoin-index-futures-2025429/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Athens Exchange Group Hosts The ATHEX Tech Summit 2025 For The Second Consecutive Year On May 14 At The Athens Conservatory](http://www.mondovisione.com/media-and-resources/news/the-athens-exchange-group-hosts-the-athex-tech-summit-2025-for-the-second-consec-2025429/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Qatar Stock Exchange Announces Resolution Of Technical Connectivity Issue That Temporarily Affected Trading](http://www.mondovisione.com/media-and-resources/news/qatar-stock-exchange-announces-resolution-of-technical-connectivity-issue-that-t-2025429/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Renewed RTGS: Digital Public Infrastructure As A Platform For Innovation − Speech By Dave Ramsden, Bank Of England Deputy Governor, Markets And Banking, Given At Innovate Finance Global Summit 2025, The Guildhall, London](http://www.mondovisione.com/media-and-resources/news/renewed-rtgs-digital-public-infrastructure-as-a-platform-for-innovation-speec-2025429/)
+append_entries: 5
+Finish: 2025-04-29 18:30:42.365820
