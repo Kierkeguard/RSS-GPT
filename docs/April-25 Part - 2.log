@@ -863,3 +863,21 @@ Existing_entries: 135
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-04-29 06:33:08.274823
+------------------------------------------------------
+Started: 2025-04-29 08:32:00.018275
+Existing_entries: 135
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Helsinki Welcomes Sunborn International To Nasdaq First North](http://www.mondovisione.com/media-and-resources/news/nasdaq-helsinki-welcomes-sunborn-international-to-nasdaq-first-north-2025429/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SET Debuts “SET Zooom In” Youtube Channel, Providing Comprehensive Investment Content And Timely Market Insights For Digital-Age Investors](http://www.mondovisione.com/media-and-resources/news/set-debuts-set-zooom-in-youtube-channel-providing-comprehensive-investment-2025429/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIX Expands Global Fixed Income Data Coverage With Extensive New Offering](http://www.mondovisione.com/media-and-resources/news/six-expands-global-fixed-income-data-coverage-with-extensive-new-offering-2025429/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Zealand Financial Markets Authority Confirms FinTech Sandbox Participants](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-confirms-fintech-sandbox-participants-2025429/)
+append_entries: 4
+Finish: 2025-04-29 08:32:01.069283
