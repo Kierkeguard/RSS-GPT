@@ -881,3 +881,27 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [New Zealand Financial Markets Authority Confirms FinTech Sandbox Participants](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-confirms-fintech-sandbox-participants-2025429/)
 append_entries: 4
 Finish: 2025-04-29 08:32:01.069283
+------------------------------------------------------
+Started: 2025-04-29 10:25:56.537330
+Existing_entries: 139
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Set To Launch Live AI Testing Service](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-set-to-launch-live-ai-testing-service-2025429/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Announces New Board Appointments](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-announces-new-board-appointments-2025429/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Last Chance To Register: 6th Annual ETFGI Global ETFs Insights Summit - Europe & Africa In London On May 1st And Virtually May 2nd](http://www.mondovisione.com/media-and-resources/news/last-chance-to-register-6th-annual-etfgi-global-etfs-insights-summit-europe-and-2025429/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Appointments To UK Financial Conduct Authority Board Announced](http://www.mondovisione.com/media-and-resources/news/new-appointments-to-uk-financial-conduct-authority-board-announced-2025429/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [AI Investment Intelligence Firm BridgeWise Secures DIFC License And Strategic Investment From Emirates NBD To Accelerate Middle East Expansion](http://www.mondovisione.com/media-and-resources/news/ai-investment-intelligence-firm-bridgewise-secures-difc-license-and-strategic-in-2025429/)
+Append: [ESMA Issues Supervisory Guidelines To Prevent Market Abuse Under MiCA](http://www.mondovisione.com/media-and-resources/news/esma-issues-supervisory-guidelines-to-prevent-market-abuse-under-mica-2025429/)
+Append: [Trustly And Paytweak Announce New Innovative Payment Solution For European Merchants](http://www.mondovisione.com/media-and-resources/news/trustly-and-paytweak-announce-new-innovative-payment-solution-for-european-merch-2025429/)
+Append: [London Stock Exchange Group PLC Transactions In Own Securities](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-transactions-in-own-securities-2025429/)
+append_entries: 8
+Finish: 2025-04-29 10:25:59.605293
