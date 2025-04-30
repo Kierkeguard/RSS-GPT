@@ -1043,3 +1043,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [WFEClear 2025: The WFE Convenes Clearing Industry At KRX In Seoul](http://www.mondovisione.com/media-and-resources/news/wfeclear-2025-the-wfe-convenes-clearing-industry-at-krx-in-seoul-2025430/)
 append_entries: 1
 Finish: 2025-04-30 10:24:36.728867
+------------------------------------------------------
+Started: 2025-04-30 12:45:20.924181
+Existing_entries: 169
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LME Moves Ahead With Plans To Modernise Market Structure To Enhance Liquidity](http://www.mondovisione.com/media-and-resources/news/lme-moves-ahead-with-plans-to-modernise-market-structure-to-enhance-liquidity-2025430/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Registrations Now Open: ACER Webinar On The Evolving Role Of LNG In Europe](http://www.mondovisione.com/media-and-resources/news/registrations-now-open-acer-webinar-on-the-evolving-role-of-lng-in-europe-2025430/)
+append_entries: 2
+Finish: 2025-04-30 12:45:22.324521
