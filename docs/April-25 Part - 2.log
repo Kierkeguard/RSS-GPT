@@ -1077,3 +1077,18 @@ Append: [Poll Results Of 2025 Annual General Meeting, Re-Appointment Of Chairman
 Append: [Payment Assist And eDynamix Announce Strategic Partnership To Power Fully Integrated Payments Across The exsto Platform](http://www.mondovisione.com/media-and-resources/news/payment-assist-and-edynamix-announce-strategic-partnership-to-power-fully-integr-2025430/)
 append_entries: 6
 Finish: 2025-04-30 14:22:08.022559
+------------------------------------------------------
+Started: 2025-04-30 16:28:55.075700
+Existing_entries: 177
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tehran Securities Exchange Chairs First FEAS Market Surveillance Working Group](http://www.mondovisione.com/media-and-resources/news/tehran-securities-exchange-chairs-first-feas-market-surveillance-working-group-2025430/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MNI Chicago Business Barometer: Chicago Business Barometer™ - Slipped To 44.6 In April](http://www.mondovisione.com/media-and-resources/news/mni-chicago-business-barometer-chicago-business-barometer-slipped-to-446-in-2025430/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX: Report On Initial Public Offering Applications, Delisting And Suspensions (April 2025)](http://www.mondovisione.com/media-and-resources/news/hkex-report-on-initial-public-offering-applications-delisting-and-suspensions-2025430/)
+append_entries: 3
+Finish: 2025-04-30 16:28:56.186817
