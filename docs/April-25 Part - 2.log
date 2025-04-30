@@ -986,3 +986,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SEC Charges Three Texans with Defrauding Investors In $91 Million Ponzi Scheme](http://www.mondovisione.com/media-and-resources/news/sec-charges-three-texans-with-defrauding-investors-in-91-million-ponzi-scheme-2025429/)
 append_entries: 1
 Finish: 2025-04-29 22:21:26.931628
+------------------------------------------------------
+Started: 2025-04-30 01:51:45.518263
+Existing_entries: 162
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-04-30 01:51:46.618849
