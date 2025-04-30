@@ -1004,3 +1004,21 @@ Existing_entries: 162
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-04-30 04:26:57.066169
+------------------------------------------------------
+Started: 2025-04-30 06:32:59.318885
+Existing_entries: 162
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Janus Henderson Investors Launches First ETF On SIX Swiss Exchange](http://www.mondovisione.com/media-and-resources/news/janus-henderson-investors-launches-first-etf-on-six-swiss-exchange-2025430/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bursa Malaysia Launches Bursa Research Incentive Scheme Plus (Bursa RISE+) - Enhancing The Profile And Visibility Of Malaysian Companies](http://www.mondovisione.com/media-and-resources/news/bursa-malaysia-launches-bursa-research-incentive-scheme-plus-bursa-rise-enh-2025430/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX 2025 First Quarter Results](http://www.mondovisione.com/media-and-resources/news/hkex-2025-first-quarter-results-2025430/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Acting CFTC Chairman Pham Statement On OIG Investigation Of Telework Violations](http://www.mondovisione.com/media-and-resources/news/acting-cftc-chairman-pham-statement-on-oig-investigation-of-telework-violations-2025430/)
+append_entries: 4
+Finish: 2025-04-30 06:33:00.194057
