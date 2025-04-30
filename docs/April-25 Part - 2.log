@@ -1022,3 +1022,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Acting CFTC Chairman Pham Statement On OIG Investigation Of Telework Violations](http://www.mondovisione.com/media-and-resources/news/acting-cftc-chairman-pham-statement-on-oig-investigation-of-telework-violations-2025430/)
 append_entries: 4
 Finish: 2025-04-30 06:33:00.194057
+------------------------------------------------------
+Started: 2025-04-30 08:30:31.721411
+Existing_entries: 166
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SET Celebrates 50th Anniversary With Major Cross-Sector Social Impact Initiatives](http://www.mondovisione.com/media-and-resources/news/set-celebrates-50th-anniversary-with-major-cross-sector-social-impact-initiative-2025430/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MNI Indicators: MNI China Money Market Index™ – April Conditions Ease](http://www.mondovisione.com/media-and-resources/news/mni-indicators-mni-china-money-market-index-april-conditions-ease-2025430/)
+append_entries: 2
+Finish: 2025-04-30 08:30:32.474148
