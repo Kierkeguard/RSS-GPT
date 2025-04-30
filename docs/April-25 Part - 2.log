@@ -1034,3 +1034,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [MNI Indicators: MNI China Money Market Index™ – April Conditions Ease](http://www.mondovisione.com/media-and-resources/news/mni-indicators-mni-china-money-market-index-april-conditions-ease-2025430/)
 append_entries: 2
 Finish: 2025-04-30 08:30:32.474148
+------------------------------------------------------
+Started: 2025-04-30 10:24:35.886116
+Existing_entries: 168
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [WFEClear 2025: The WFE Convenes Clearing Industry At KRX In Seoul](http://www.mondovisione.com/media-and-resources/news/wfeclear-2025-the-wfe-convenes-clearing-industry-at-krx-in-seoul-2025430/)
+append_entries: 1
+Finish: 2025-04-30 10:24:36.728867
