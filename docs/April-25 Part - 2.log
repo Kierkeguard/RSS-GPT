@@ -1235,3 +1235,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Mercedes-AMG PETRONAS Formula One Team & Nasdaq Join Forces To Accelerate Innovation - Mercedes-AMG PETRONAS F1 One Team & Nasdaq Announce Integrated Multi-Year Brand Partnership](http://www.mondovisione.com/media-and-resources/news/mercedes-amg-petronas-formula-one-team-and-nasdaq-join-forces-to-accelerate-innova-202551/)
 append_entries: 2
 Finish: 2025-05-01 14:20:32.301775
+------------------------------------------------------
+Started: 2025-05-01 16:28:40.239197
+Existing_entries: 209
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Dubai Financial Market Achieves Strong Growth In Q1 Of 2025 With Net Profit Before Tax Of AED 134.9 Million](http://www.mondovisione.com/media-and-resources/news/dubai-financial-market-achieves-strong-growth-in-q1-of-2025-with-net-profit-befo-202551/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Qatar Stock Exchange Listed Companies Reported QR 13.22 Billion Net Profits For The Q1, 2025](http://www.mondovisione.com/media-and-resources/news/qatar-stock-exchange-listed-companies-reported-qr-1322-billion-net-profits-for-202551/)
+append_entries: 2
+Finish: 2025-05-01 16:28:41.307736
