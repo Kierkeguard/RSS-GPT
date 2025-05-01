@@ -1169,3 +1169,24 @@ Append: [Main Order Types Now Published On Tokyo Financial Exchange Website (Equ
 Append: [New Zealand Financial Markets Authority: Experienced Retail Investor Found Liable For Market Manipulation](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-experienced-retail-investor-found-liabl-202551/)
 append_entries: 6
 Finish: 2025-05-01 06:33:11.964508
+------------------------------------------------------
+Started: 2025-05-01 08:29:40.843782
+Existing_entries: 195
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BMLL Wins ‘Most Innovative Cloud-Based Trading Analytics Initiative’ For BMLL Data Lab At The A-Team Innovation Awards 2025](http://www.mondovisione.com/media-and-resources/news/bmll-wins-most-innovative-cloud-based-trading-analytics-initiative-for-bmll-da-202551/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Japan Exchange Group Trading Overview In April 2025](http://www.mondovisione.com/media-and-resources/news/japan-exchange-group-trading-overview-in-april-2025-202551/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tokyo Financial Exchange Trading Volume In April 2025](http://www.mondovisione.com/media-and-resources/news/tokyo-financial-exchange-trading-volume-in-april-2025-202551/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [JPX Monthly Headlines - April 2025](http://www.mondovisione.com/media-and-resources/news/jpx-monthly-headlines-april-2025-202551/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tokyo Stock Exchange: ETF Monthly Trading Value Via "CONNEQTOR" Reach Record 300 Billion JPY](http://www.mondovisione.com/media-and-resources/news/tokyo-stock-exchange-etf-monthly-trading-value-via-conneqtor-reach-record-300-202551/)
+append_entries: 5
+Finish: 2025-05-01 08:29:41.782085
