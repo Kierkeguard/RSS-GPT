@@ -1271,3 +1271,15 @@ Existing_entries: 215
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-05-01 20:23:41.936050
+------------------------------------------------------
+Started: 2025-05-01 22:21:58.370891
+Existing_entries: 215
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cboe Global Markets Appoints Craig Donohue As New CEO](http://www.mondovisione.com/media-and-resources/news/cboe-global-markets-appoints-craig-donohue-as-new-ceo-202551/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Acting CFTC Chairman Pham To Speak At The Milken Institute Global Conference 2025](http://www.mondovisione.com/media-and-resources/news/acting-cftc-chairman-pham-to-speak-at-the-milken-institute-global-conference-202-202551/)
+append_entries: 2
+Finish: 2025-05-01 22:21:59.820610
