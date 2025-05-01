@@ -1223,3 +1223,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Intercontinental Exchange Reports Strong First Quarter 2025](http://www.mondovisione.com/media-and-resources/news/intercontinental-exchange-reports-strong-first-quarter-2025-202551/)
 append_entries: 3
 Finish: 2025-05-01 12:44:37.922451
+------------------------------------------------------
+Started: 2025-05-01 14:20:31.092751
+Existing_entries: 207
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc: Result Of AGM](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-result-of-agm-202551/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Mercedes-AMG PETRONAS Formula One Team & Nasdaq Join Forces To Accelerate Innovation - Mercedes-AMG PETRONAS F1 One Team & Nasdaq Announce Integrated Multi-Year Brand Partnership](http://www.mondovisione.com/media-and-resources/news/mercedes-amg-petronas-formula-one-team-and-nasdaq-join-forces-to-accelerate-innova-202551/)
+append_entries: 2
+Finish: 2025-05-01 14:20:32.301775
