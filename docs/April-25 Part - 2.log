@@ -1190,3 +1190,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Tokyo Stock Exchange: ETF Monthly Trading Value Via "CONNEQTOR" Reach Record 300 Billion JPY](http://www.mondovisione.com/media-and-resources/news/tokyo-stock-exchange-etf-monthly-trading-value-via-conneqtor-reach-record-300-202551/)
 append_entries: 5
 Finish: 2025-05-01 08:29:41.782085
+------------------------------------------------------
+Started: 2025-05-01 10:25:03.635520
+Existing_entries: 200
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The DFSA Launches Innovation Testing Licence Explainer Guide To Boost Innovation In The DIFC - New Explainer Guide Released Ahead Of Dubai Fintech Summit 2025, Where The DFSA Will Lead Key Regulatory Discussions On Tokenisation, Crypto, AI, And Cybersecurity](http://www.mondovisione.com/media-and-resources/news/the-dfsa-launches-innovation-testing-licence-explainer-guide-to-boost-innovation-202551/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc - Total Voting Rights](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-total-voting-rights-202551/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [United Fintech Appoints Deepak Nair As Chief Operating Officer](http://www.mondovisione.com/media-and-resources/news/united-fintech-appoints-deepak-nair-as-chief-operating-officer-202551/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Derivatives Service Bureau (DSB) Wins ‘Most Innovative Data Standards Initiative’ At The A-Team Innovation Awards 2025](http://www.mondovisione.com/media-and-resources/news/derivatives-service-bureau-dsb-wins-most-innovative-data-standards-initiative-202551/)
+append_entries: 4
+Finish: 2025-05-01 10:25:04.595600
