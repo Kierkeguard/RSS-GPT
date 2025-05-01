@@ -1265,3 +1265,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Sucden Financial Reports Improved 2024 Financial Results](http://www.mondovisione.com/media-and-resources/news/sucden-financial-reports-improved-2024-financial-results-202551/)
 append_entries: 4
 Finish: 2025-05-01 18:31:54.125176
+------------------------------------------------------
+Started: 2025-05-01 20:23:40.295825
+Existing_entries: 215
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-05-01 20:23:41.936050
