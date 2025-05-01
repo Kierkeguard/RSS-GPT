@@ -1147,3 +1147,25 @@ Existing_entries: 189
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-05-01 04:28:24.807515
+------------------------------------------------------
+Started: 2025-05-01 06:33:10.510914
+Existing_entries: 189
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group Plc: Q1 2025 Trading Update - Strong Start To The Year: Accelerating D&A Growth And Excellent Performance From Markets Division, Full Year Guidance Confirmed](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-q1-2025-trading-update-strong-start-to-the-ye-202551/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Main Order Types Now Published On Tokyo Financial Exchange Website (FX Daily Futures Contracts)](http://www.mondovisione.com/media-and-resources/news/main-order-types-now-published-on-tokyo-financial-exchange-website-fx-daily-fut-202551/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Japan Exchange Group: Status Of Acquisition Of Own Shares](http://www.mondovisione.com/media-and-resources/news/japan-exchange-group-status-of-acquisition-of-own-shares-202551/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Results Of NZX Limited 2025 Annual Shareholders’ Meeting](http://www.mondovisione.com/media-and-resources/news/results-of-nzx-limited-2025-annual-shareholders-meeting-202551/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Main Order Types Now Published On Tokyo Financial Exchange Website (Equity Index Daily Futures Contracts)](http://www.mondovisione.com/media-and-resources/news/main-order-types-now-published-on-tokyo-financial-exchange-website-equity-index-202551/)
+Append: [New Zealand Financial Markets Authority: Experienced Retail Investor Found Liable For Market Manipulation](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-experienced-retail-investor-found-liabl-202551/)
+append_entries: 6
+Finish: 2025-05-01 06:33:11.964508
