@@ -1301,3 +1301,15 @@ Existing_entries: 217
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-05-02 04:26:42.365586
+------------------------------------------------------
+Started: 2025-05-02 06:32:31.000367
+Existing_entries: 217
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Zealand Financial Markets Authority: Westpac To Pay $3.25 Million Penalty For Misleading Customers](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-westpac-to-pay-325-million-penalty-fo-202552/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Financial Associations Recommend Action To Remove Barriers To Digital Assets Innovation](http://www.mondovisione.com/media-and-resources/news/us-financial-associations-recommend-action-to-remove-barriers-to-digital-assets-202552/)
+append_entries: 2
+Finish: 2025-05-02 06:32:31.916548
