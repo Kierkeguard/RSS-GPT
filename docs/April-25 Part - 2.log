@@ -1328,3 +1328,25 @@ Existing_entries: 220
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-05-02 10:24:05.046978
+------------------------------------------------------
+Started: 2025-05-02 12:45:03.614123
+Existing_entries: 220
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group Sets New ADV Record Of 35.9 Million Contracts In April, Up 36% Year Over Year](http://www.mondovisione.com/media-and-resources/news/cme-group-sets-new-adv-record-of-359-million-contracts-in-april-up-36-year-ov-202552/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cboe Global Markets, Inc. - First Quarter 2025 Earnings Call](http://www.mondovisione.com/media-and-resources/news/cboe-global-markets-inc-first-quarter-2025-earnings-call-202552/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cboe Global Markets Reports Results For First Quarter 2025](http://www.mondovisione.com/media-and-resources/news/cboe-global-markets-reports-results-for-first-quarter-2025-202552/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NSE Indices Fixed Income Index Dashboard For The Month Ended April 2025](http://www.mondovisione.com/media-and-resources/news/nse-indices-fixed-income-index-dashboard-for-the-month-ended-april-2025-202552/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Nordic And Baltic Markets Trading Statistics April 2025](http://www.mondovisione.com/media-and-resources/news/nasdaq-nordic-and-baltic-markets-trading-statistics-april-2025-202552/)
+Append: [UK Financial Conduct Authority Seeks Feedback On Regulation Of Cryptoasset Trading Platforms In Next Phase Of Road To Regulation](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-seeks-feedback-on-regulation-of-cryptoasset-tradi-202552/)
+append_entries: 6
+Finish: 2025-05-02 12:45:05.047028
