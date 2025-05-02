@@ -1350,3 +1350,15 @@ Append: [Nasdaq Nordic And Baltic Markets Trading Statistics April 2025](http://
 Append: [UK Financial Conduct Authority Seeks Feedback On Regulation Of Cryptoasset Trading Platforms In Next Phase Of Road To Regulation](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-seeks-feedback-on-regulation-of-cryptoasset-tradi-202552/)
 append_entries: 6
 Finish: 2025-05-02 12:45:05.047028
+------------------------------------------------------
+Started: 2025-05-02 14:21:24.513802
+Existing_entries: 226
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [OCC Names Stephen Luparello As Chairman, Succeeding Craig Donohue](http://www.mondovisione.com/media-and-resources/news/occ-names-stephen-luparello-as-chairman-succeeding-craig-donohue-202552/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Malawi Stock Exchange Weekly Summary Report 2 May 2025](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-2-may-2025-202552/)
+append_entries: 2
+Finish: 2025-05-02 14:21:26.055380
