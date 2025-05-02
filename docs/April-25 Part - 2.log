@@ -1322,3 +1322,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Cboe Clear Europe Expands Its Clearing Services To Include Cryptocurrency-Backed Exchange-Traded Products (ETPs)](http://www.mondovisione.com/media-and-resources/news/cboe-clear-europe-expands-its-clearing-services-to-include-cryptocurrency-backed-202552/)
 append_entries: 1
 Finish: 2025-05-02 08:30:03.025588
+------------------------------------------------------
+Started: 2025-05-02 10:24:04.282189
+Existing_entries: 220
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-05-02 10:24:05.046978
