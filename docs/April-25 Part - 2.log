@@ -1362,3 +1362,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Malawi Stock Exchange Weekly Summary Report 2 May 2025](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-2-may-2025-202552/)
 append_entries: 2
 Finish: 2025-05-02 14:21:26.055380
+------------------------------------------------------
+Started: 2025-05-02 16:28:36.342836
+Existing_entries: 228
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Statistics From Nasdaq Nordic Exchange April 2025](http://www.mondovisione.com/media-and-resources/news/statistics-from-nasdaq-nordic-exchange-april-2025-202552/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Deutsche Börse Cash Market Trading Volumes In April 2025](http://www.mondovisione.com/media-and-resources/news/deutsche-brse-cash-market-trading-volumes-in-april-2025-202552/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [IETA Publishes A New Paper On 'The Digital Transformation Of Carbon Markets](http://www.mondovisione.com/media-and-resources/news/ieta-publishes-a-new-paper-on-the-digital-transformation-of-carbon-markets-202552/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bank Of England: Minutes Of The Securities Lending Committee Meeting – March 2025](http://www.mondovisione.com/media-and-resources/news/bank-of-england-minutes-of-the-securities-lending-committee-meeting-march-202-202552/)
+append_entries: 4
+Finish: 2025-05-02 16:28:37.624840
