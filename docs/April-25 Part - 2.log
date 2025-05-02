@@ -1313,3 +1313,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [US Financial Associations Recommend Action To Remove Barriers To Digital Assets Innovation](http://www.mondovisione.com/media-and-resources/news/us-financial-associations-recommend-action-to-remove-barriers-to-digital-assets-202552/)
 append_entries: 2
 Finish: 2025-05-02 06:32:31.916548
+------------------------------------------------------
+Started: 2025-05-02 08:30:02.096162
+Existing_entries: 219
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cboe Clear Europe Expands Its Clearing Services To Include Cryptocurrency-Backed Exchange-Traded Products (ETPs)](http://www.mondovisione.com/media-and-resources/news/cboe-clear-europe-expands-its-clearing-services-to-include-cryptocurrency-backed-202552/)
+append_entries: 1
+Finish: 2025-05-02 08:30:03.025588
