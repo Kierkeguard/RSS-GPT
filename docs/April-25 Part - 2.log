@@ -1380,3 +1380,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Bank Of England: Minutes Of The Securities Lending Committee Meeting – March 2025](http://www.mondovisione.com/media-and-resources/news/bank-of-england-minutes-of-the-securities-lending-committee-meeting-march-202-202552/)
 append_entries: 4
 Finish: 2025-05-02 16:28:37.624840
+------------------------------------------------------
+Started: 2025-05-02 18:30:59.654859
+Existing_entries: 232
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nadex Temporarily Amends Binary Contracts Strike Width](http://www.mondovisione.com/media-and-resources/news/nadex-temporarily-amends-binary-contracts-strike-width-202552/)
+append_entries: 1
+Finish: 2025-05-02 18:31:01.091347
