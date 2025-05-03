@@ -1437,3 +1437,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Nigerian Exchange Weekly Market Report For The Week Ended 2 May 2025](http://www.mondovisione.com/media-and-resources/news/nigerian-exchange-weekly-market-report-for-the-week-ended-2-may-2025-202553/)
 append_entries: 2
 Finish: 2025-05-03 06:29:49.982195
+------------------------------------------------------
+Started: 2025-05-03 08:26:45.194836
+Existing_entries: 237
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-05-03 08:26:46.280677
