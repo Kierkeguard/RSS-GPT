@@ -1479,3 +1479,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Four Guides For The Journey Ahead, Federal Reserve Governor Lisa D. Cook, At The James Madison College 2025 Spring Commencement, Michigan State University, East Lansing, Michigan](http://www.mondovisione.com/media-and-resources/news/four-guides-for-the-journey-ahead-federal-reserve-governor-lisa-d-cook-at-the-202553/)
 append_entries: 1
 Finish: 2025-05-03 18:29:13.251696
+------------------------------------------------------
+Started: 2025-05-03 20:23:03.989853
+Existing_entries: 239
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-05-03 20:23:04.707208
