@@ -1407,3 +1407,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [OCC April 2025 Monthly Volume Data](http://www.mondovisione.com/media-and-resources/news/occ-april-2025-monthly-volume-data-202552/)
 append_entries: 1
 Finish: 2025-05-02 22:22:17.356636
+------------------------------------------------------
+Started: 2025-05-03 01:49:29.579880
+Existing_entries: 235
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-05-03 01:49:30.546675
