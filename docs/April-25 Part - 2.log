@@ -1425,3 +1425,15 @@ Existing_entries: 235
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-05-03 04:26:24.438979
+------------------------------------------------------
+Started: 2025-05-03 06:29:48.868186
+Existing_entries: 235
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Readout From US Secretary Of The Treasury Scott Bessent’s, Secretary Of Commerce Howard Lutnick’s, And United States Trade Representative Jamieson Greer’s Meeting With Minister Ryosei Akazawa Of Japan](http://www.mondovisione.com/media-and-resources/news/readout-from-us-secretary-of-the-treasury-scott-bessents-secretary-of-commerce-202553/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nigerian Exchange Weekly Market Report For The Week Ended 2 May 2025](http://www.mondovisione.com/media-and-resources/news/nigerian-exchange-weekly-market-report-for-the-week-ended-2-may-2025-202553/)
+append_entries: 2
+Finish: 2025-05-03 06:29:49.982195
