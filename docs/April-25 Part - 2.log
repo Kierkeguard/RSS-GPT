@@ -1536,3 +1536,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Tejarat Bank At Tehran Securities Exchange Bell-Ringing Ceremony](http://www.mondovisione.com/media-and-resources/news/tejarat-bank-at-tehran-securities-exchange-bell-ringing-ceremony-202554/)
 append_entries: 1
 Finish: 2025-05-04 14:19:21.933811
+------------------------------------------------------
+Started: 2025-05-04 16:26:30.392062
+Existing_entries: 240
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-05-04 16:26:31.578655
