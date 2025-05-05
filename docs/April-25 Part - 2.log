@@ -1578,3 +1578,21 @@ Existing_entries: 240
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-05-05 04:28:24.145815
+------------------------------------------------------
+Started: 2025-05-05 06:34:00.210031
+Existing_entries: 240
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Dubai Financial Services Authority Annual Report 2024 Published: A Year Marking Key Regulatory Developments, Continuous Supervisory Activity, And Strengthened Stakeholder Engagement](http://www.mondovisione.com/media-and-resources/news/dubai-financial-services-authority-annual-report-2024-published-a-year-marking-202555/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Launches New Portal For Australian Financial Services Licensees](http://www.mondovisione.com/media-and-resources/news/asic-launches-new-portal-for-australian-financial-services-licensees-202555/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Joint Statement Of The 28th ASEAN+3 Finance Ministers' And Central Bank Governors' Meeting](http://www.mondovisione.com/media-and-resources/news/joint-statement-of-the-28th-asean3-finance-ministers-and-central-bank-governor-202555/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NZX Shareholder Metrics - April 2025](http://www.mondovisione.com/media-and-resources/news/nzx-shareholder-metrics-april-2025-202555/)
+append_entries: 4
+Finish: 2025-05-05 06:34:01.267411
