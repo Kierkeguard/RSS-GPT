@@ -1602,3 +1602,12 @@ Existing_entries: 244
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-05-05 08:31:58.716986
+------------------------------------------------------
+Started: 2025-05-05 10:25:54.781918
+Existing_entries: 244
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ECB Partners With Private Sector Through Digital Euro Innovation Platform](http://www.mondovisione.com/media-and-resources/news/ecb-partners-with-private-sector-through-digital-euro-innovation-platform-202555/)
+append_entries: 1
+Finish: 2025-05-05 10:25:56.108789
