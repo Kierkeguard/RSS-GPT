@@ -1680,3 +1680,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SIFMA And Arteria AI Announce US Treasury Clearing Solutions Partnership](http://www.mondovisione.com/media-and-resources/news/sifma-and-arteria-ai-announce-us-treasury-clearing-solutions-partnership-202555/)
 append_entries: 3
 Finish: 2025-05-05 18:28:45.902439
+------------------------------------------------------
+Started: 2025-05-05 20:25:34.209137
+Existing_entries: 260
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Reports April 2025 Volumes](http://www.mondovisione.com/media-and-resources/news/nasdaq-reports-april-2025-volumes-202555/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Swaps Report Update](http://www.mondovisione.com/media-and-resources/news/cftc-swaps-report-update-202555/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Office Of The Comptroller Of The Currency Issues Request For Information On Community Bank Digitalization](http://www.mondovisione.com/media-and-resources/news/us-office-of-the-comptroller-of-the-currency-issues-request-for-information-on-c-202555/)
+append_entries: 3
+Finish: 2025-05-05 20:25:35.112058
