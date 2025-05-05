@@ -1611,3 +1611,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ECB Partners With Private Sector Through Digital Euro Innovation Platform](http://www.mondovisione.com/media-and-resources/news/ecb-partners-with-private-sector-through-digital-euro-innovation-platform-202555/)
 append_entries: 1
 Finish: 2025-05-05 10:25:56.108789
+------------------------------------------------------
+Started: 2025-05-05 12:47:50.636878
+Existing_entries: 245
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Abu Dhabi's Economic Delegation To Japan Explores New Avenues To Strengthen Partnerships](http://www.mondovisione.com/media-and-resources/news/abu-dhabis-economic-delegation-to-japan-explores-new-avenues-to-strengthen-part-202555/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIX Exchanges Figures April 2025](http://www.mondovisione.com/media-and-resources/news/six-exchanges-figures-april-2025-202555/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER Will Decide On 2024 European Resource Adequacy Assessment And Invites ENTSO-E To Streamline Future Methodology](http://www.mondovisione.com/media-and-resources/news/acer-will-decide-on-2024-european-resource-adequacy-assessment-and-invites-entso-202555/)
+append_entries: 3
+Finish: 2025-05-05 12:47:51.637988
