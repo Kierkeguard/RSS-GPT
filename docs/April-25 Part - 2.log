@@ -1647,3 +1647,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Fiserv Small Business Index: April Small Business Sales Improved from March, Though Consumers Continue To Trim Discretionary Spending](http://www.mondovisione.com/media-and-resources/news/fiserv-small-business-index-april-small-business-sales-improved-from-march-tho-202555/)
 append_entries: 5
 Finish: 2025-05-05 14:23:43.919550
+------------------------------------------------------
+Started: 2025-05-05 16:29:50.892011
+Existing_entries: 253
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Announces An Updated Methodology For OMX Stockholm 30® Index (OMXS30®)](http://www.mondovisione.com/media-and-resources/news/nasdaq-announces-an-updated-methodology-for-omx-stockholm-30-index-omxs30-202555/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Treasury Secretary Scott Bessent Remarks Before The Milken Institute Global Conference](http://www.mondovisione.com/media-and-resources/news/us-treasury-secretary-scott-bessent-remarks-before-the-milken-institute-global-c-202555/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Eurex: Trade Bitcoin & Ethereum Derivatives Your Way](http://www.mondovisione.com/media-and-resources/news/eurex-trade-bitcoin-and-ethereum-derivatives-your-way-202555/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Shortening The Settlement Cycle For Instruments Traded On Borsa Istanbul Equity Market](http://www.mondovisione.com/media-and-resources/news/shortening-the-settlement-cycle-for-instruments-traded-on-borsa-istanbul-equity-202555/)
+append_entries: 4
+Finish: 2025-05-05 16:29:51.782778
