@@ -1626,3 +1626,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ACER Will Decide On 2024 European Resource Adequacy Assessment And Invites ENTSO-E To Streamline Future Methodology](http://www.mondovisione.com/media-and-resources/news/acer-will-decide-on-2024-european-resource-adequacy-assessment-and-invites-entso-202555/)
 append_entries: 3
 Finish: 2025-05-05 12:47:51.637988
+------------------------------------------------------
+Started: 2025-05-05 14:23:42.703139
+Existing_entries: 248
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Announces Agenda, Panelists For Roundtable On Tokenization Plus Date Change For Roundtable On DeFi](http://www.mondovisione.com/media-and-resources/news/sec-announces-agenda-panelists-for-roundtable-on-tokenization-plus-date-change-202555/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ICE Mortgage Monitor: First-Time Homebuyers Comprise Record Share Of Agency Purchase Lending In Q1 2025 - Gen Z Homebuyers Accounted For One In Four FTHB Loans As FHA Lending Drives Purchase Mortgage Growth](http://www.mondovisione.com/media-and-resources/news/ice-mortgage-monitor-first-time-homebuyers-comprise-record-share-of-agency-purc-202555/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER: Expert Panel To Investigate Blackout In Portugal And Spain](http://www.mondovisione.com/media-and-resources/news/acer-expert-panel-to-investigate-blackout-in-portugal-and-spain-202555/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Intercontinental Exchange Reports April Statistics - Record Total Futures & Options ADV, Including Records Across Energy And Financials](http://www.mondovisione.com/media-and-resources/news/intercontinental-exchange-reports-april-statistics-record-total-futures-and-opti-202555/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Fiserv Small Business Index: April Small Business Sales Improved from March, Though Consumers Continue To Trim Discretionary Spending](http://www.mondovisione.com/media-and-resources/news/fiserv-small-business-index-april-small-business-sales-improved-from-march-tho-202555/)
+append_entries: 5
+Finish: 2025-05-05 14:23:43.919550
