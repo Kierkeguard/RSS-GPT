@@ -1665,3 +1665,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Shortening The Settlement Cycle For Instruments Traded On Borsa Istanbul Equity Market](http://www.mondovisione.com/media-and-resources/news/shortening-the-settlement-cycle-for-instruments-traded-on-borsa-istanbul-equity-202555/)
 append_entries: 4
 Finish: 2025-05-05 16:29:51.782778
+------------------------------------------------------
+Started: 2025-05-05 18:28:45.089972
+Existing_entries: 257
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [EquiLend: April 2025 Securities Lending Revenue Up 1.18% YoY To $856 Million - Fixed Income Lending Continues To Bolster Global Revenue As Equity Lending Lulls](http://www.mondovisione.com/media-and-resources/news/equilend-april-2025-securities-lending-revenue-up-118-yoy-to-856-million-f-202555/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Moscow Exchange Trading Volumes In April 2025](http://www.mondovisione.com/media-and-resources/news/moscow-exchange-trading-volumes-in-april-2025-202555/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIFMA And Arteria AI Announce US Treasury Clearing Solutions Partnership](http://www.mondovisione.com/media-and-resources/news/sifma-and-arteria-ai-announce-us-treasury-clearing-solutions-partnership-202555/)
+append_entries: 3
+Finish: 2025-05-05 18:28:45.902439
