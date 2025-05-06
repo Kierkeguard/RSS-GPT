@@ -1707,3 +1707,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CFTC Staff On Leave Pending Investigation](http://www.mondovisione.com/media-and-resources/news/cftc-staff-on-leave-pending-investigation-202555/)
 append_entries: 2
 Finish: 2025-05-05 22:23:04.168285
+------------------------------------------------------
+Started: 2025-05-06 01:53:07.607049
+Existing_entries: 265
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-05-06 01:53:08.756942
