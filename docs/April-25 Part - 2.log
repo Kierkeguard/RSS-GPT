@@ -1779,3 +1779,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ING Corporate Finance Appoints Kai van der Kolk As Managing Director, Food & Agriculture (EMEA)](http://www.mondovisione.com/media-and-resources/news/ing-corporate-finance-appoints-kai-van-der-kolk-as-managing-director-food-and-agr-202556/)
 append_entries: 4
 Finish: 2025-05-06 10:25:24.178035
+------------------------------------------------------
+Started: 2025-05-06 12:49:18.486163
+Existing_entries: 277
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Ageas Sets Sights On The Single Customer View - LexisNexis Risk Solutions Unlocks The Power of Customer Data For Ageas With LexID For Insurance](http://www.mondovisione.com/media-and-resources/news/ageas-sets-sights-on-the-single-customer-view-lexisnexis-risk-solutions-unlock-202556/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ICE And OPEN Introduce New Benchmark For Tracking 20 U.S. Venture-Backed Unicorns](http://www.mondovisione.com/media-and-resources/news/ice-and-open-introduce-new-benchmark-for-tracking-20-us-venture-backed-unicorn-202556/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MarketAxess Announces Trading Volume Statistics For April 2025](http://www.mondovisione.com/media-and-resources/news/marketaxess-announces-trading-volume-statistics-for-april-2025-202556/)
+append_entries: 3
+Finish: 2025-05-06 12:49:20.258901
