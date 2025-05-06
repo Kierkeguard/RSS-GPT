@@ -1864,3 +1864,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Michael P. Lyons Assumes Leadership Of Fiserv As Chief Executive Officer](http://www.mondovisione.com/media-and-resources/news/michael-p-lyons-assumes-leadership-of-fiserv-as-chief-executive-officer-202556/)
 append_entries: 1
 Finish: 2025-05-06 20:25:48.150044
+------------------------------------------------------
+Started: 2025-05-06 22:22:18.249588
+Existing_entries: 296
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cboe Global Markets Announces 2025 Annual Meeting Results](http://www.mondovisione.com/media-and-resources/news/cboe-global-markets-announces-2025-annual-meeting-results-202556/)
+append_entries: 1
+Finish: 2025-05-06 22:22:19.460407
