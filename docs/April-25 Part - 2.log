@@ -1737,3 +1737,18 @@ Existing_entries: 269
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-05-06 04:27:35.447022
+------------------------------------------------------
+Started: 2025-05-06 06:32:57.680313
+Existing_entries: 269
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Securities Commission Malaysia Seeks Public Feedback On Proposed Framework On Tokenisation Of Capital Market Products](http://www.mondovisione.com/media-and-resources/news/securities-commission-malaysia-seeks-public-feedback-on-proposed-framework-on-to-202556/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Credit Suisse Services AG Admits To Conspiring With U.S. Taxpayers To Hide Assets And Income In Offshore Accounts And Admits That Credit Suisse Breached Its Prior Plea Agreement - Credit Suisse Services AG Pleads Guilty To Tax Crimes, Signs A Separate Non-Prosecution Agreement Related To Conduct In Singapore, And Agrees To Pay More Than $510M](http://www.mondovisione.com/media-and-resources/news/credit-suisse-services-ag-admits-to-conspiring-with-us-taxpayers-to-hide-asset-202556/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FINRA Statement To Correct Misinformation About FINRA’s Outside Activities Proposal](http://www.mondovisione.com/media-and-resources/news/finra-statement-to-correct-misinformation-about-finras-outside-activities-propo-202556/)
+append_entries: 3
+Finish: 2025-05-06 06:32:58.793403
