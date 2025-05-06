@@ -1731,3 +1731,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Cboe Global Markets Reports Trading Volume For April 2025](http://www.mondovisione.com/media-and-resources/news/cboe-global-markets-reports-trading-volume-for-april-2025-202556/)
 append_entries: 4
 Finish: 2025-05-06 03:10:53.379595
+------------------------------------------------------
+Started: 2025-05-06 04:27:34.133129
+Existing_entries: 269
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-05-06 04:27:35.447022
