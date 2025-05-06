@@ -1761,3 +1761,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ETF Shares, A New Entrant In Australia’s ETF Market, Debuts Three U.S.-Focused Strategies Tracking Solactive Indices](http://www.mondovisione.com/media-and-resources/news/etf-shares-a-new-entrant-in-australias-etf-market-debuts-three-us-focused-s-202556/)
 append_entries: 1
 Finish: 2025-05-06 08:31:06.430096
+------------------------------------------------------
+Started: 2025-05-06 10:25:23.246058
+Existing_entries: 273
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Hong Kong Securities And Futures Commission And Stock Exchange Of Hong Kong Joint Announcement On Launch Of Technology Enterprises Channel](http://www.mondovisione.com/media-and-resources/news/hong-kong-securities-and-futures-commission-and-stock-exchange-of-hong-kong-join-202556/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Broadridge Enhances OpsGPT®, Introducing New Agentic Capabilities To Further Optimize Global Post-Trade Operations - Key Enhancements Include Inventory Optimization, Fails Research, And Email Integration Automation For Better Connectivity And Outcomes](http://www.mondovisione.com/media-and-resources/news/broadridge-enhances-opsgpt-introducing-new-agentic-capabilities-to-further-opt-202556/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Vienna Stock Exchange: Wiener Boerse AG Reports Record Financial Year 2024, Driven By Strong Diversification And Market Momentum](http://www.mondovisione.com/media-and-resources/news/vienna-stock-exchange-wiener-boerse-ag-reports-record-financial-year-2024-driv-202556/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ING Corporate Finance Appoints Kai van der Kolk As Managing Director, Food & Agriculture (EMEA)](http://www.mondovisione.com/media-and-resources/news/ing-corporate-finance-appoints-kai-van-der-kolk-as-managing-director-food-and-agr-202556/)
+append_entries: 4
+Finish: 2025-05-06 10:25:24.178035
