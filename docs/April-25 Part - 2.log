@@ -1713,3 +1713,21 @@ Existing_entries: 265
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-05-06 01:53:08.756942
+------------------------------------------------------
+Started: 2025-05-06 03:10:52.513916
+Existing_entries: 265
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASX Group Monthly Activity Report - April 2025](http://www.mondovisione.com/media-and-resources/news/asx-group-monthly-activity-report-april-2025-202556/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TMX Group Limited Declares Dividend Of $0.20 Per Common Share](http://www.mondovisione.com/media-and-resources/news/tmx-group-limited-declares-dividend-of-020-per-common-share-202556/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TMX Group Limited Reports Results For First Quarter Of 2025](http://www.mondovisione.com/media-and-resources/news/tmx-group-limited-reports-results-for-first-quarter-of-2025-202556/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cboe Global Markets Reports Trading Volume For April 2025](http://www.mondovisione.com/media-and-resources/news/cboe-global-markets-reports-trading-volume-for-april-2025-202556/)
+append_entries: 4
+Finish: 2025-05-06 03:10:53.379595
