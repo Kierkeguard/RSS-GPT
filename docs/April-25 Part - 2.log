@@ -1752,3 +1752,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [FINRA Statement To Correct Misinformation About FINRA’s Outside Activities Proposal](http://www.mondovisione.com/media-and-resources/news/finra-statement-to-correct-misinformation-about-finras-outside-activities-propo-202556/)
 append_entries: 3
 Finish: 2025-05-06 06:32:58.793403
+------------------------------------------------------
+Started: 2025-05-06 08:31:05.531964
+Existing_entries: 272
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ETF Shares, A New Entrant In Australia’s ETF Market, Debuts Three U.S.-Focused Strategies Tracking Solactive Indices](http://www.mondovisione.com/media-and-resources/news/etf-shares-a-new-entrant-in-australias-etf-market-debuts-three-us-focused-s-202556/)
+append_entries: 1
+Finish: 2025-05-06 08:31:06.430096
