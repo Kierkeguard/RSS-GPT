@@ -1794,3 +1794,25 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [MarketAxess Announces Trading Volume Statistics For April 2025](http://www.mondovisione.com/media-and-resources/news/marketaxess-announces-trading-volume-statistics-for-april-2025-202556/)
 append_entries: 3
 Finish: 2025-05-06 12:49:20.258901
+------------------------------------------------------
+Started: 2025-05-06 14:23:11.801869
+Existing_entries: 280
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Purdue University/CME Group Ag Economy Barometer: Farmer Sentiment Improves As Long-Term Optimism Outweighs Tariff Concerns](http://www.mondovisione.com/media-and-resources/news/purdue-universitycme-group-ag-economy-barometer-farmer-sentiment-improves-as-l-202556/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tradeweb Reports April 2025 Total Trading Volume Of $57.8 Trillion And Average Daily Volume Of $2.7 Trillion - April 2025 ADV Up 38.6% YoY](http://www.mondovisione.com/media-and-resources/news/tradeweb-reports-april-2025-total-trading-volume-of-578-trillion-and-average-d-202556/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Brazil Needs Targeted Policies To Reduce Methane Emissions In Agriculture - Warns New Report From Climate Bonds Initiative](http://www.mondovisione.com/media-and-resources/news/brazil-needs-targeted-policies-to-reduce-methane-emissions-in-agriculture-warn-202556/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ICE Expands Fixed Income Liquidity Offering With Launch Of Price Improvement Volume Clearing](http://www.mondovisione.com/media-and-resources/news/ice-expands-fixed-income-liquidity-offering-with-launch-of-price-improvement-vol-202556/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Exchange Data International And Symbol Master Inc Announce The Launch Of Worldwide Greeks](http://www.mondovisione.com/media-and-resources/news/exchange-data-international-and-symbol-master-inc-announce-the-launch-of-worldwi-202556/)
+Append: [Dubai Financial Market And Taiwan Stock Exchange Sign MoU To Strengthen Cross-Border Financial Cooperation](http://www.mondovisione.com/media-and-resources/news/dubai-financial-market-and-taiwan-stock-exchange-sign-mou-to-strengthen-cross-bo-202556/)
+append_entries: 6
+Finish: 2025-05-06 14:23:13.278483
