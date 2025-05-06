@@ -1855,3 +1855,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Bank Of England: Statement On The Timing Of The Monetary Policy Report And Minutes Of The Monetary Policy Committee Meeting On Thursday 8 May 2025](http://www.mondovisione.com/media-and-resources/news/bank-of-england-statement-on-the-timing-of-the-monetary-policy-report-and-minut-202556/)
 append_entries: 5
 Finish: 2025-05-06 18:31:51.657261
+------------------------------------------------------
+Started: 2025-05-06 20:25:47.065811
+Existing_entries: 295
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Michael P. Lyons Assumes Leadership Of Fiserv As Chief Executive Officer](http://www.mondovisione.com/media-and-resources/news/michael-p-lyons-assumes-leadership-of-fiserv-as-chief-executive-officer-202556/)
+append_entries: 1
+Finish: 2025-05-06 20:25:48.150044
