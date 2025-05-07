@@ -118,3 +118,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ISDA To Extend DRR To Cover MIFID/MIFIR Reporting And Works With DTCC To Further Adoption](http://www.mondovisione.com/media-and-resources/news/isda-to-extend-drr-to-cover-mifidmifir-reporting-and-works-with-dtcc-to-further-202557/)
 append_entries: 4
 Finish: 2025-05-07 18:31:28.975615
+------------------------------------------------------
+Started: 2025-05-07 20:26:26.955796
+Existing_entries: 34
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Financial Data For Futures Commission Merchants Update](http://www.mondovisione.com/media-and-resources/news/cftc-financial-data-for-futures-commission-merchants-update-202557/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TMX Group Announces Election Of Directors](http://www.mondovisione.com/media-and-resources/news/tmx-group-announces-election-of-directors-202557/)
+append_entries: 2
+Finish: 2025-05-07 20:26:28.340430
