@@ -130,3 +130,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [TMX Group Announces Election Of Directors](http://www.mondovisione.com/media-and-resources/news/tmx-group-announces-election-of-directors-202557/)
 append_entries: 2
 Finish: 2025-05-07 20:26:28.340430
+------------------------------------------------------
+Started: 2025-05-07 22:22:34.502001
+Existing_entries: 36
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-05-07 22:22:35.643864
