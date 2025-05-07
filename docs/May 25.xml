@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>News Articles</title>
+<link>http://www.mondovisione.com/media-and-resources/news/</link>
+
+<item>
+<title>Chris Mills Joins Sage Capital Management As Head Of Digital Assets</title>
+<link>http://www.mondovisione.com/media-and-resources/news/chris-mills-joins-sage-capital-management-as-head-of-digital-assets-202557/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/chris-mills-joins-sage-capital-management-as-head-of-digital-assets-202557/</guid>
+<content:encoded><![CDATA[
+
+<p>Next generation Digital Prime Broker&nbsp;<a class="safe---anchor---wc" href="https://www.sagecapital.co.uk/" rel="noopener noreferrer nofollow" target="_blank">Sage Capital Management</a>&nbsp;has appointed Chris Mills as Head of Digital Assets.<span style="font-size: 11px;">&nbsp;</span></p>
+<p>Chris joins the rapidly growing Digital Prime Broker from JB Drax Honore, where he was Co-Head of Digital Assets, with responsibilities for product development and trade execution. Prior to that, he spent 18 years at the Bank of England, predominantly as an FX and MM Dealer.</p>
+<p>At Sage Capital Management, Chris will be responsible for overseeing Digital Trading and Liquidity Distribution as well as supporting the company's continued growth and global expansion. He joins a team with decades of experience in cryptocurrency, fund management and professional trading, and will report directly to CEO and Founder, Nathan Sage.</p>
+<p>&ldquo;I am delighted that Chris is joining Sage Capital Management at such an exciting time for our business, with demand for our Crypto Prime Broker service at an all-time high. I have known Chris for a number of years and he has rapidly become a well-known figure in the Digital Asset space through his drive, enthusiasm and knowledge. His deep understanding of the industry and strong awareness of client requirements will be invaluable to both our business and our clients as we expand further over the coming months,&rdquo; said Nathan Sage, CEO and Founder of Sage Capital Management.</p>
+<p>Chris Mills, Head of Digital Assets, Sage Capital Management added, &ldquo;I&rsquo;m very happy to be joining such a dynamic and experienced team, particularly at such a key time for the Crypto market. Sage Capital Management has an impressive Digital Prime Broker service and provides clients with unparalleled advantages in the cryptocurrency arena. I look forward to playing a key role in driving our growth and supporting our clients in accessing top tier liquidity and Prime Services.&rdquo;</p>
+]]></content:encoded>
+<pubDate>Wed, 07 May 2025 08:42:05 GMT</pubDate>
+<pubDate>Wed, 07 May 2025 08:42:05 GMT</pubDate>
+</item>
+<item>
+<title>JPXI Adds “Outstanding Short Selling Positions Reported” To J-Quants API Data Service</title>
+<link>http://www.mondovisione.com/media-and-resources/news/jpxi-adds-outstanding-short-selling-positions-reported-to-j-quants-api-data-se-202557/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/jpxi-adds-outstanding-short-selling-positions-reported-to-j-quants-api-data-se-202557/</guid>
+<content:encoded><![CDATA[
+
+<div>
+<p class="component-text">On May 5, 2025, JPX Market Innovation &amp; Research (&ldquo;JPXI&rdquo;) added the Outstanding Short-Selling Positions Reported dataset to J-Quants API, a data distribution service offering individuals insightful data on Japanese financial markets.</p>
+</div>
+<div>
+<div class="component-imgbox">
+<div class="component-imgboxIn"><img height="293" src="https://www.jpx.co.jp/english/corporate/news/news-releases/6020/sjcobq0000017glo-img/j-quants_img_en.jpg" width="500" /></div>
+</div>
+</div>
+<div>
+<h2 class="heading-title" id="heading_2"><span>Outstanding Short Selling Positions Reported Data</span></h2>
+</div>
+<div>
+<p class="component-text">This dataset features information on short selling positions whose ratio is 0.5% or more of those reported by trading participants, in accordance with the &ldquo;Cabinet Office Order on Restrictions on Securities Transactions.&rdquo; Outstanding short selling position data has previously been available via the JPX website but is limited to the past 12 months in Excel format. With this release, J-Quants API subscribers can now access this data in a structured format, with an extended historical period (Standard Plan: 10 years, Premium Plan: From Nov. 2013).</p>
+</div>
+<div>
+<h2 class="heading-title" id="heading_4"><span>What are Outstanding Short Selling Position Reports?</span></h2>
+</div>
+<div>
+<p class="component-text">When investors conduct short sales of securities exceeding a certain level, the "Cabinet Office Order on Restrictions on Securities Transactions" requires that a report be filed by the corresponding trading participant. For further information on the Cabinet Office Order, please refer to the following link.</p>
+</div>
+<div><a class="link-window" href="https://www.jpx.co.jp/english/markets/public/short-selling/01.html">Information on Outstanding Short Selling Positions</a></div>
+<div>
+<h2 class="heading-title" id="heading_7"><span>Available Data and Pricing Plans</span></h2>
+</div>
+<div>
+<p class="component-text">J-Quants API offers four plans, including a free plan. With a monthly subscription, users gain unlimited access to the data within their plan.</p>
+</div>
+<div>
+<div class="component-normal-table">
+<table>
+<tbody>
+<tr class="first bg-even">
+<td class="a-left a-middle  tb-color003 fc-white">Plan</td>
+<td class="a-center a-middle  tb-color003 fc-white">Free</td>
+<td class="a-center a-middle  tb-color003 fc-white">Light</td>
+<td class="a-center a-middle  tb-color003 fc-white">Standard</td>
+<td class="a-center a-middle  tb-color003 fc-white">Premium</td>
+</tr>
+<tr>
+<td class="a-left a-middle  tb-color003 fc-white">Prices (tax incl.)</td>
+<td class="a-center a-middle ">JPY 0</td>
+<td class="a-center a-middle ">JPY 1,650/mo</td>
+<td class="a-center a-middle ">JPY 3,300/mo</td>
+<td class="a-center a-middle ">JPY 16,500/mo</td>
+</tr>
+<tr class="bg-even">
+<td class="a-left a-middle  tb-color003 fc-white">History</td>
+<td class="a-center a-middle ">2 years<br />[12-week delay]<br /></td>
+<td class="a-center a-middle ">5 years</td>
+<td class="a-center a-middle ">10 years</td>
+<td class="a-center a-middle ">All periods offered</td>
+</tr>
+<tr>
+<td class="a-left a-middle  tb-color003 fc-white">Listed Issue Master</td>
+<td class="a-center a-middle ">✓</td>
+<td class="a-center a-middle ">✓</td>
+<td class="a-center a-middle ">✓</td>
+<td class="a-center a-middle ">✓</td>
+</tr>
+<tr class="bg-even">
+<td class="a-left a-middle  tb-color003 fc-white">Stock Prices (OHLC)</td>
+<td class="a-center a-middle ">Day</td>
+<td class="a-center a-middle ">Day</td>
+<td class="a-center a-middle ">Day</td>
+<td class="a-center a-middle ">AM/PM/Day</td>
+</tr>
+<tr>
+<td class="a-left a-middle  tb-color003 fc-white">Financial Data</td>
+<td class="a-center a-middle ">✓</td>
+<td class="a-center a-middle ">✓</td>
+<td class="a-center a-middle ">✓</td>
+<td class="a-center a-middle ">✓</td>
+</tr>
+<tr class="bg-even">
+<td class="a-left a-middle  tb-color003 fc-white">Earnings Calendar</td>
+<td class="a-center a-middle ">✓</td>
+<td class="a-center a-middle ">✓</td>
+<td class="a-center a-middle ">✓</td>
+<td class="a-center a-middle ">✓</td>
+</tr>
+<tr>
+<td class="a-left a-middle  tb-color003 fc-white">Trading Calendar</td>
+<td class="a-center a-middle ">✓</td>
+<td class="a-center a-middle ">✓</td>
+<td class="a-center a-middle ">✓</td>
+<td class="a-center a-middle ">✓</td>
+</tr>
+<tr class="bg-even">
+<td class="a-left a-middle  tb-color003 fc-white">Trading by Type of Investors</td>
+<td class="a-center a-middle ">-</td>
+<td class="a-center a-middle ">✓</td>
+<td class="a-center a-middle ">✓</td>
+<td class="a-center a-middle ">✓</td>
+</tr>
+<tr>
+<td class="a-left a-middle  tb-color003 fc-white">TOPIX Prices (OHLC)</td>
+<td class="a-center a-middle ">-</td>
+<td class="a-center a-middle ">✓</td>
+<td class="a-center a-middle ">✓</td>
+<td class="a-center a-middle ">✓</td>
+</tr>
+<tr class="bg-even">
+<td class="a-left a-middle  tb-color003 fc-white">Indices (OHLC)</td>
+<td class="a-center a-middle ">-</td>
+<td class="a-center a-middle ">-</td>
+<td class="a-center a-middle ">✓</td>
+<td class="a-center a-middle ">✓</td>
+</tr>
+<tr>
+<td class="a-left a-middle  tb-color003 fc-white">Nikkei 225 Option Prices (OHLC)</td>
+<td class="a-center a-middle ">-</td>
+<td class="a-center a-middle ">-</td>
+<td class="a-center a-middle ">✓</td>
+<td class="a-center a-middle ">✓</td>
+</tr>
+<tr class="bg-even">
+<td class="a-left a-middle  tb-color003 fc-white">Margin Trading Outstandings</td>
+<td class="a-center a-middle ">-</td>
+<td class="a-center a-middle ">-</td>
+<td class="a-center a-middle ">✓</td>
+<td class="a-center a-middle ">✓</td>
+</tr>
+<tr>
+<td class="a-left a-middle  tb-color003 fc-white">Short Sale Value and Ratio by Sector</td>
+<td class="a-center a-middle ">-</td>
+<td class="a-center a-middle ">-</td>
+<td class="a-center a-middle ">✓</td>
+<td class="a-center a-middle ">✓</td>
+</tr>
+<tr class="bg-even">
+<td class="a-left a-middle  tb-color003 fc-white">Outstanding Short Selling Positions Reported</td>
+<td class="a-center a-middle  tb-color004">-</td>
+<td class="a-center a-middle  tb-color004">-</td>
+<td class="a-center a-middle  tb-color004">✓</td>
+<td class="a-center a-middle  tb-color004">✓</td>
+</tr>
+<tr>
+<td class="a-left a-middle  tb-color003 fc-white">Breakdown Trading Data</td>
+<td class="a-center a-middle ">-</td>
+<td class="a-center a-middle ">-</td>
+<td class="a-center a-middle ">-</td>
+<td class="a-center a-middle ">✓</td>
+</tr>
+<tr class="bg-even">
+<td class="a-left a-middle  tb-color003 fc-white">Morning Session Stock Prices (OHLC)</td>
+<td class="a-center a-middle ">-</td>
+<td class="a-center a-middle ">-</td>
+<td class="a-center a-middle ">-</td>
+<td class="a-center a-middle ">✓</td>
+</tr>
+<tr>
+<td class="a-left a-middle  tb-color003 fc-white">Cash Dividend Data</td>
+<td class="a-center a-middle ">-</td>
+<td class="a-center a-middle ">-</td>
+<td class="a-center a-middle ">-</td>
+<td class="a-center a-middle ">✓</td>
+</tr>
+<tr class="bg-even">
+<td class="a-left a-middle  tb-color003 fc-white">Financial Statement Data (BS/PL)</td>
+<td class="a-center a-middle ">-</td>
+<td class="a-center a-middle ">-</td>
+<td class="a-center a-middle ">-</td>
+<td class="a-center a-middle ">✓</td>
+</tr>
+<tr>
+<td class="a-left a-middle  tb-color003 fc-white">Futures Prices (OHLC)</td>
+<td class="a-center a-middle ">-</td>
+<td class="a-center a-middle ">-</td>
+<td class="a-center a-middle ">-</td>
+<td class="a-center a-middle ">✓</td>
+</tr>
+<tr class="end bg-even">
+<td class="a-left a-middle  tb-color003 fc-white">Options Prices (OHLC)</td>
+<td class="a-center a-middle ">-</td>
+<td class="a-center a-middle ">-</td>
+<td class="a-center a-middle ">-</td>
+<td class="a-center a-middle ">✓</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div>
+<div class="component-asterisk-num">
+<ul>
+<li class="asterisk00">Free plans are distributed with a 12-week delay.</li>
+</ul>
+</div>
+</div>
+<div>
+<div class="component-asterisk-num">
+<ul>
+<li class="asterisk00">Some data may not be available for the periods above.</li>
+</ul>
+</div>
+</div>
+<div>
+<h2 class="heading-title" id="heading_12"><span>How to Apply</span></h2>
+</div>
+<div>
+<p class="component-text">Please register on the following site to subscribe to J-Quants API.</p>
+</div>
+<div><a class="link-window" href="https://jpx-jquants.com/" rel="external">J-Quants API Website<img alt="icon-block" height="12" src="https://www.jpx.co.jp/english/common/images/icon/tvdivq000000016t-img/icon-block.png" title="icon-block" width="19" /></a></div>
+]]></content:encoded>
+<pubDate>Wed, 07 May 2025 07:24:31 GMT</pubDate>
+<pubDate>Wed, 07 May 2025 07:24:31 GMT</pubDate>
+</item>
+<item>
+<title>"Staying The Course For Asia's Transition To A Climate-Resilient Future" - Opening Address By Mr Chia Der Jiun, Managing Director, Monetary Authority Of Singapore, At The FAST Conference 2025 On 7 May 2025</title>
+<link>http://www.mondovisione.com/media-and-resources/news/staying-the-course-for-asias-transition-to-a-climate-resilient-future-openi-202557/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/staying-the-course-for-asias-transition-to-a-climate-resilient-future-openi-202557/</guid>
+<content:encoded><![CDATA[
+
+<p>Ladies and Gentlemen,</p>
+<p>1.<span> </span>A very good morning. It is my pleasure to welcome you today to the FAST Conference 2025.First, please let me acknowledge our partners for the FAST conference, Mr Cheng Wai Keung, Deputy Chairman of Temasek and Ms Susan Chan, Head of Asia Pacific of BlackRock.</p>
+<p>2.&nbsp;<span> </span>We are facing a more uncertain path ahead for climate action than at any time in the last five years:</p>
+<ul>
+<li>There is greater uncertainty in global commitments to timely transition.</li>
+<li>Global private sector coalitions for climate action are also seeing a pullback. Many financial institutions have withdrawn from net zero alliances, and these alliances themselves have revised their objectives.</li>
+<li>Global corporate investment more generally may also turn more cautious amid heightened trade and economic uncertainty.</li>
+</ul>
+<p>3.<span> </span>On the positive side:</p>
+<ul>
+<li>COP29 saw broad agreement to enhance cooperation in such areas as carbon markets and climate adaptation, as well as new goals to channel financing to developing countries;</li>
+<li>Many countries have submitted their 2035 NDCs, reaffirming a steady pathway towards their net zero goals; and</li>
+<li>Many major financial institutions have affirmed continued commitment to their net zero targets.</li>
+</ul>
+<p>4.<span> </span>We are meeting at a critical time. It is now even more important to bring together leaders across policy, finance and the real economy, to advance concrete approaches and solutions that will maintain the course for climate action and the region&rsquo;s transition to a climate-resilient and nature-positive future.</p>
+<p><span><span>Enabling the Energy Transition in Asia</span></span></p>
+<p>5.<span> </span>In Asia, enabling energy transition will be key to transitioning our economies.</p>
+<ul>
+<li>Asia&rsquo;s demand for electricity is projected to rise at an annual rate of 4% until 2035<span><a href="https://www.mas.gov.sg/news/speeches/2025/staying-the-course-for-asias-transition-to-a-climate-resilient-future#1">[1]</a></span>, driven by end-use sectors such as transport, industry and buildings.</li>
+</ul>
+<p>6.<span> </span>While energy demand is still growing, the good news is that in parts of Asia, renewable energy already makes up a significant share of the energy mix, supported by falling costs.</p>
+<ul>
+<li>Wind and solar generation capacity in China has already exceeded fossil fuel-based thermal power capacity for the first time in March this year.</li>
+<li>Countries such as the Philippines, Thailand and Cambodia are also seeing lower renewable energy costs than that of coal-generated energy.<span><a href="https://www.mas.gov.sg/news/speeches/2025/staying-the-course-for-asias-transition-to-a-climate-resilient-future#2">[2]</a></span></li>
+</ul>
+<p>7.<span> </span>There is an opportunity to drive the deployment of renewable energy and develop the infrastructure and solutions to support growth in Asian economies in a sustainable and resilient manner.</p>
+<ul>
+<li>The IEA expects renewable energy to supply more than half of Asia&rsquo;s increased electricity demand.<span><a href="https://www.mas.gov.sg/news/speeches/2025/staying-the-course-for-asias-transition-to-a-climate-resilient-future#3">[3]</a></span></li>
+<li>The increase in demand for electricity will catalyse a corresponding demand for supporting infrastructure and solutions. Earlier this year, ASEAN foreign ministers reaffirmed the commitment to operationalise the ASEAN Power Grid (APG) by 2045.</li>
+<li>Almost S$1.1 trillion in financing is estimated to be needed over the next decade to ramp up renewable energy capacity, upgrade existing power grid infrastructure, and invest in battery storage systems.<span><a href="https://www.mas.gov.sg/news/speeches/2025/staying-the-course-for-asias-transition-to-a-climate-resilient-future#4">[4]</a></span></li>
+</ul>
+<div>
+<p>8.<span> </span>Singapore hopes to do more to catalyse the scaling up of renewables power generation and their enabling infrastructure in Asia.</p>
+<ul>
+<li>Over the years, Singapore has supported partners across the entire infrastructure value chain, serving as the regional base to many international infrastructure development companies, project finance teams of global financial institutions, as well as multilateral development banks such as the World Bank and Asian Development Bank.</li>
+</ul>
+<p>9.<span> </span>We have also put in place key initiatives to enable the financing of Asia&rsquo;s energy transition.</p>
+<p>10.<span> </span>First, we have provided clear and credible definitions through the&nbsp;<em>Singapore-Asia Taxonomy (SAT)</em>&nbsp;on what are green and transition activities, including activities within the Energy Sector.</p>
+<ul>
+<li>Specifically, for electricity generation using renewables such as solar PV and wind, the SAT sets out thresholds and criteria for classifying such activities as &ldquo;green&rdquo; or &ldquo;transition&rdquo;.</li>
+<li>There has been good adoption amongst financial institutions and corporates of the SAT since its launch.&nbsp;<span>Financial products have been developed based on the SAT&rsquo;s classifications, portfolios have been aligned with the SAT&rsquo;s criteria and corporate sustainability strategies have been formulated with reference to the SAT.</span></li>
+</ul>
+<p><span>11.<span> </span></span>We are also bringing partners together through blended finance platforms to co-create solutions for the region, de-risk investments, and catalyse the flow of private capital, for energy transition projects.</p>
+<ul>
+<li>We launched the&nbsp;<em>Financing Asia&rsquo;s Transition Partnership (FAST-P)</em>&nbsp;in end-2023 to raise up to US$5 billion to support Asia&rsquo;s decarbonisation and climate resilience.</li>
+<li>Within the FAST-P platform, the Green Investment Partnership (GIP), managed by Pentagreen Capital, will be ready to commence deployment in the coming months. They will mobilise capital for marginally bankable clean energy infrastructure in Asia.</li>
+<li><span>I am also glad to share that a FAST-P office, with a dedicated management team, will soon be set up</span>&nbsp;to facilitate the deployment of up to US$500 million of concessional capital from the Singapore Government into the three FAST-P partnerships, alongside capital from other partners. The office will continue to work closely with asset managers, banks, and commercial and concessional investors, to promote innovative blended finance solutions for sustainable infrastructure in the region.</li>
+</ul>
+<p>12.<span> </span>These are important milestones, but we recognise that an ecosystem approach &ndash; regulators, businesses, and financial institutions coming together &ndash; will continue to be needed to overcome these challenges. MAS will continue to work closely with the industry to develop solutions to support the region&rsquo;s energy transition.</p>
+<p><span><span>Developing High Integrity Carbon Markets</span></span></p>
+<p><span>13.<span> </span>A second area of focus for Singapore is the development of high integrity carbon markets.There are situations where the economic case for climate projects may not be well-established, making it difficult to crowd in investors and capital. High-integrity and well-functioning carbon markets can play an important role, to strengthen the economic case for decarbonisation and channel much needed capital towards worthwhile projects.</span></p>
+<p>14.<span> </span>There have been headwinds in the last few years, but recent developments such as the finalisation of Article 6 rules at COP29, and the growing industry acceptance of meta-standards such as the ICVCM&rsquo;s<span><a href="https://www.mas.gov.sg/news/speeches/2025/staying-the-course-for-asias-transition-to-a-climate-resilient-future#5">[5]</a></span>&nbsp;Core Carbon Principles, are helping to build confidence in carbon markets.</p>
+<p>15.<span> </span>Shaping a well-functioning global carbon market will require progress in the areas of (i) supply of high-integrity credits; (ii) strong demand for credits; and (iii) robust market infrastructure and capabilities. At the GenZero Climate Summit Insights earlier this week, 2nd Minister for Trade and Industry Dr Tan See Leng spoke about the work the Singapore Government is undertaking to address these gaps, including through developing common standards, crowding in financing, and building capabilities.</p>
+<div>
+<p>16.<span> </span>The&nbsp;<em>Transition Credits Coalition</em>&nbsp;convened by the MAS is also an important initiative that seeks to address some of these gaps in the carbon markets.</p>
+<ul>
+<li>In its interim report launched at COP29 last year, TRACTION outlined common key high-integrity attributes across various methodologies and frameworks for the early retirement of coal and its replacement with clean energy. It also identified the transaction risks and possible risk mitigation solutions, and motivations of different buyer profiles.</li>
+</ul>
+<p>17.<span> </span>Building on these findings,&nbsp;<span>TRACTION has identified the market and technical conditions where transition credits have the greatest potential to make an impact</span>. This will enable the industry to prioritise a pipeline of suitable transition credits projects.</p>
+<p>18.<span> </span><span>TRACTION has also identified the key components of a Just Transition associated with the early retirement of coal plants</span>, to guide project owners and financial institutions to address the socio-economic impacts of coal plant closures on workers and communities.</p>
+<p>19.<span> </span>These findings help foster a common understanding of high-integrity and viable transition credit transactions, enhancing the scalability of transition credits as a mechanism to crowd in financing for energy transition.&nbsp;</p>
+<p>&nbsp;</p>
+<p>20.<span> </span>I would also highlight the work of the Singapore Sustainable Finance Association (SSFA). The SSFA is collaborating with the Singapore Government to develop guidance for companies on the credible usage of carbon credits alongside a decarbonisation plan. They are also developing solutions to deepen carbon project financing and collaborating with ASEAN counterparts on the ASEAN Common Carbon Framework.</p>
+<p>21.<span> </span>MAS, together with the SSFA, are now considering initiatives to further support financial institutions&rsquo; participation in carbon markets.</p>
+<p><span><span>Strengthening Climate and Nature Resilience in the Financial Sector</span></span></p>
+<p>22.<span> </span>Let me move on to a growing area of importance, that of adaptation and resilience. As the physical impact of climate change intensifies, there are mounting risks posed by both climate change and nature loss &ndash; risks that have cascading effects across sectors, markets, and value chains.</p>
+<ul>
+<li>The Financial Stability Board (FSB) intends to consider more closely how climate-related physical risks can pose threats to financial stability.</li>
+<li>MAS took early steps in 2020 to embed resilience in the financial system, by issuing a set of&nbsp;<em>Guidelines on Environmental Risk Management (ENRM).</em>&nbsp;These set out expectations for robust governance, risk management, and disclosures related to environmental risks.</li>
+<li>Our financial institutions have also started to enhance the resilience of their portfolios to climate and nature risks. For example, by integrating physical climate risk into their internal credit risk models, asset valuation, and due diligence processes. Doing so will enable them to better anticipate and manage financial loss, minimise stranded assets, and uncover new financing and investment opportunities.</li>
+</ul>
+<p>23.<span> </span>There is growing interest in how nature loss and ecosystem degradation can amplify the effects of climate change and put nature-dependent value chains at risk. It is timely that the SSFA, in partnership with Oliver Wyman, launched a white paper two weeks ago, titled&nbsp;<em>&ldquo;Financing Our Natural Capital.&rdquo;</em></p>
+<ul>
+<li>The whitepaper contextualises global frameworks to our region, identifies sectors of high priority from a nature materiality lens, and provides practical steps for financial institutions to incorporate nature into their business activity<span>.</span></li>
+</ul>
+<p>24.<span> </span>Beyond managing their own environmental risk, financial institutions play an essential role in mobilising capital towards solutions that enhance the adaptive capacity of economies and communities.</p>
+<ul>
+<li>The insurance industry in particular has a key role in developing risk financing solutions for renewable energy and decarbonisation technologies, to reduce the risk of such projects for commercial investors.</li>
+<li>Several international insurance brokers have built specialised capabilities in Singapore to support and develop such risk financing solutions, through risk analytics and advisory for physical climate risk, energy transition investments, and carbon and nature markets.</li>
+</ul>
+<p>25.<span> </span>Ultimately, financial institutions can respond on two fronts: by managing exposure to growing climate and nature-related risks, and by innovating to finance and de-risk adaptation, resilience, and nature-positive solutions.</p>
+<p><span><span>Staying the Course and Building the Future&nbsp;</span></span></p>
+<p><span>26.<span> </span>There are near-term uncertainties about the global momentum for climate action, but Asia can continue to chart a steady course in its transition. Policymakers, financial institutions, and corporates alike should take the long view, stay the course, and invest in the infrastructure, solutions, and capabilities that will enable industries and economies to transition. In doing so, we will unlock new opportunities for growth, create jobs, build resilient economies and make possible a more resilient future for all of us.</span></p>
+<p>27.<span> </span>Thank you.</p>
+<p>*****</p>
+<p>
+<hr />
+</p>
+<p><span style="background-color: initial; font-size: 11px;"><a href="https://www.mas.gov.sg/news/speeches/2025/staying-the-course-for-asias-transition-to-a-climate-resilient-future#1-footnote-1">[1]</a></span><span style="background-color: initial; font-size: 11px;">&nbsp;</span><span class="footnote-item-content" id="footnote-1" style="background-color: initial; font-size: 11px;">IEA. Southeast Asia Energy Outlook 2024 Executive Summary. https://www.iea.org/reports/southeast-asia-energy-outlook-2024/executive-summary</span></p>
+<p><span class="footnote-item-content" id="footnote-1" style="background-color: initial; font-size: 11px;">&nbsp;</span><span style="background-color: initial; font-size: 11px;"><a href="https://www.mas.gov.sg/news/speeches/2025/staying-the-course-for-asias-transition-to-a-climate-resilient-future#2-footnote-2">[2]</a></span><span style="background-color: initial; font-size: 11px;">&nbsp;</span><span class="footnote-item-content" id="footnote-2" style="background-color: initial; font-size: 11px;">Wood Mackenzie. Solar inflation reverses as renewable costs in Asia reach all time low. https://www.woodmac.com/press-releases/asia-lcoe/</span></p>
+<p><span class="footnote-item-content" id="footnote-2" style="background-color: initial; font-size: 11px;"></span><span style="background-color: initial; font-size: 11px;"><a href="https://www.mas.gov.sg/news/speeches/2025/staying-the-course-for-asias-transition-to-a-climate-resilient-future#3-footnote-3">[3]</a></span><span style="background-color: initial; font-size: 11px;">&nbsp;</span><span class="footnote-item-content" id="footnote-3" style="background-color: initial; font-size: 11px;">IEA. Southeast Asia Energy Outlook 2024. https://www.iea.org/reports/southeast-asia-energy-outlook-2024/executive-summary</span></p>
+<p><span class="footnote-item-content" id="footnote-3" style="background-color: initial; font-size: 11px;"></span><span style="background-color: initial; font-size: 11px;"><a href="https://www.mas.gov.sg/news/speeches/2025/staying-the-course-for-asias-transition-to-a-climate-resilient-future#4-footnote-4">[4]</a></span><span style="background-color: initial; font-size: 11px;">&nbsp;</span><span class="footnote-item-content" id="footnote-4" style="background-color: initial; font-size: 11px;">KPMG, Sustainable Finance Jobs Transformation Map, April 2024.</span></p>
+<p><span class="footnote-item-content" id="footnote-4" style="background-color: initial; font-size: 11px;"></span><span style="background-color: initial; font-size: 11px;"><a href="https://www.mas.gov.sg/news/speeches/2025/staying-the-course-for-asias-transition-to-a-climate-resilient-future#5-footnote-5">[5]</a></span><span style="background-color: initial; font-size: 11px;">&nbsp;</span><span class="footnote-item-content" id="footnote-5" style="background-color: initial; font-size: 11px;">Integrity Council for Voluntary Carbon Markets</span></p>
+</div>
+</div>
+]]></content:encoded>
+<pubDate>Wed, 07 May 2025 07:19:55 GMT</pubDate>
+<pubDate>Wed, 07 May 2025 07:19:55 GMT</pubDate>
+</item>
+<item>
+<title>ASIC Acts Against Macquarie Bank For Repeated Compliance Failures</title>
+<link>http://www.mondovisione.com/media-and-resources/news/asic-acts-against-macquarie-bank-for-repeated-compliance-failures-202557/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/asic-acts-against-macquarie-bank-for-repeated-compliance-failures-202557/</guid>
+<content:encoded><![CDATA[
+
+<p>ASIC has imposed additional conditions on Macquarie Bank Limited&rsquo;s (Macquarie) Australian financial services licence after multiple and significant compliance failures &ndash; some going undetected for many years and one for a decade.</p>
+<p>The compliance failures relate to Macquarie&rsquo;s futures dealing business and its over-the-counter (OTC) derivatives trade reporting.</p>
+<p>The additional licence conditions will require Macquarie to:</p>
+<ul>
+<li>prepare a remediation plan to address the failures in their futures dealing business and OTC derivatives trade reporting functions and their root causes</li>
+<li>appoint an independent expert to review and report on the adequacy of Macquarie&rsquo;s remediation plan to address the failures and their root causes, and</li>
+<li>have the independent expert assess the operational effectiveness of Macquarie&rsquo;s remediation activities to prevent, detect and respond to similar issues occurring in its futures dealing and OTC derivatives businesses in the future.</li>
+</ul>
+<p>ASIC Commissioner Simone Constant said, &lsquo;Our intervention underscores our concern with the recurrent nature of Macquarie&rsquo;s failures, which were caused by ineffective supervision and weak compliance and control management.&rsquo;</p>
+<p>The control weaknesses ranged from poor change management practices, unclear roles and responsibilities, and an incomplete understanding of its own processes and controls, including around data governance.</p>
+<p>&lsquo;The additional licence conditions are a significant administrative action to ensure Macquarie comprehensively addresses ASIC&rsquo;s concerns. It cannot be a piece-meal or band-aid fix.</p>
+<p>&lsquo;Macquarie must take responsibility and put in place appropriate action to remediate the repeated failures and underlying governance and supervisory failures.</p>
+<p>&lsquo;We were particularly disappointed that Macquarie failed to prevent 11 suspicious orders being placed on the electricity futures market via Macquarie terminals shortly after ASIC had referred similar failures to the Markets Disciplinary Panel which fined the bank just under $5 million.&rsquo;</p>
+<p>ASIC&rsquo;s administrative action follows the identification or reporting of nine market conduct matters of concern in the last 18 months &ndash; seven matters relating to misreporting of more than 375,000 OTC derivative transactions, and two futures dealing matters concerning the prevention and detection of suspicious trading activity and the withholding of orders on the ASX24 market.</p>
+<p>Many of the OTC derivatives trade reporting breaches continued for a number of years without detection.</p>
+<p>&lsquo;Misreporting of OTC derivative transactions can undermine market transparency and hinders ASIC&rsquo;s ability to monitor potential risks in Australia&rsquo;s financial system,&rsquo; Ms Constant said.</p>
+<p>&lsquo;These licence conditions are necessary to give ASIC confidence the remediation will be effective and drive sustainable change.&rsquo;</p>
+<p>Ms Constant acknowledged that Macquarie has cooperated with ASIC throughout this process and has consented to the imposition of the additional licence conditions.</p>
+<h2>Background</h2>
+<p>In September 2024, ASIC&rsquo;s Markets Disciplinary Panel fined Macquarie a record $4.995 million for failing to prevent suspicious orders being placed on the electricity futures market (<a href="https://asic.gov.au/about-asic/news-centre/find-a-media-release/2024-releases/24-211mr-macquarie-bank-fined-a-record-4-995m-for-serious-market-gatekeeper-failure/?altTemplate=betanewsroom" title="24-211MR Macquarie Bank fined a record $4.995m for serious market gatekeeper failure">24-211MR</a>).</p>
+]]></content:encoded>
+<pubDate>Wed, 07 May 2025 07:14:34 GMT</pubDate>
+<pubDate>Wed, 07 May 2025 07:14:34 GMT</pubDate>
+</item>
+<item>
+<title>NGX Group, Market Stakeholders Honour Dr. Pascal Dozie’s Enduring Impact</title>
+<link>http://www.mondovisione.com/media-and-resources/news/ngx-group-market-stakeholders-honour-dr-pascal-dozies-enduring-impact-202557/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/ngx-group-market-stakeholders-honour-dr-pascal-dozies-enduring-impact-202557/</guid>
+<content:encoded><![CDATA[
+
+<p>Captains of industry, financial leaders, and dignitaries gathered at the Nigerian Exchange Group House for an Afternoon of Tributes and Special Closing Gong Ceremony in honour of late Dr. Pascal G. Dozie, OON, CON, former President of the Council of the Nigerian Stock Exchange (NSE). Organised by Nigerian Exchange Group (NGX Group), the event celebrated a visionary whose leadership and integrity helped shape Nigeria&rsquo;s financial markets and corporate landscape.</p>
+<p>In his welcome remarks, Alhaji (Dr.) Umaru Kwairanga, Chairman of NGX Group, reflected on Dr. Dozie&rsquo;s profound influence, stating, &ldquo;Dr. Dozie was a banker, entrepreneur, economist, and philanthropist&mdash;but above all, he was a builder of institutions. His tenure as President of the NSE Council marked a pivotal chapter in our history. With foresight and steady leadership, he laid the foundation for a world-class Exchange that not only serves Nigeria but inspires confidence across Africa.&rdquo;</p>
+<p>Continuing the stream of tributes, industry leaders shared reflections on Dr. Dozie&rsquo;s legacy of principled leadership and institutional advancement. Dr. Ernest Ndukwe, Chairman of MTN Nigeria Plc, praised his role in entrenching professionalism in the private sector. Mr. Gabriel Idahosa, President of the Lagos Chamber of Commerce and Industry, described him as &ldquo;a man of unwavering principle whose life embodied ethical leadership and nation-building.&rdquo; Dr. Raymond Obieri, former NSE Council President, recalled their shared commitment to institutional growth: &ldquo;Pascal was the kind of leader who brought calm to chaos and vision to uncertainty. His leadership was never about power, it was always about purpose.&rdquo;</p>
+<p>Adding to this sentiment, Mr. Ahonsi Unuigbe, Chairman of Nigerian Exchange Limited, urged attendees to honour Dr. Dozie&rsquo;s legacy through action: &ldquo;He did not just serve; he built, inspired, and transformed. The greatest tribute we can pay is to ensure the institutions he strengthened continue to thrive with integrity, transparency, and innovation.&rdquo;</p>
+<p>Mr. Olaniyi Yusuf, Chairman of the Nigerian Economic Summit Group (NESG), underscored Dr. Dozie&rsquo;s foundational role: &ldquo;He was not just a founding father of NESG but a compass for our mission to build a globally competitive Nigerian economy. His vision and principled leadership continue to guide us.&rdquo;</p>
+<p>Speaking from a personal perspective, Mr. Uzoma Dozie offered an intimate tribute to his father: &ldquo;Beyond his professional achievements, he was a man of quiet wisdom and grace. His presence commanded respect, and his influence shaped minds and institutions alike. His absence will be deeply felt.&rdquo;</p>
+<p>Mr. Temi Popoola, Group Chief Executive Officer of NGX Group, added: &ldquo;Dr. Dozie was more than an industry titan, he was a mentor, a visionary, and a nation-builder. His contributions were not just pioneering but transformative. To his family, we say thank you for sharing him with the nation. May his soul rest in peace, and may we all carry forward the light he ignited.&rdquo;</p>
+<p>Other notable speakers included Mr. Emmanuel Ikazoboh, former Interim Administrator, NSE; Mr. Oscar N. Onyema, OON, former Group CEO, NGX Group; Mr. Olufemi Akinsanya, Chairman of NGX Regulation; Mrs. Elizabeth Ebi, Managing Director, Futureview Group; and Mr. Frank Aigbogun, Publisher/CEO of BusinessDay Media.</p>
+<p>The ceremony concluded with the symbolic Closing Gong Ceremony, not as a farewell, but as a reaffirmation of the values of integrity, excellence, and service to humanity, Dr. Dozie championed.</p>
+]]></content:encoded>
+<pubDate>Wed, 07 May 2025 07:27:36 GMT</pubDate>
+<pubDate>Wed, 07 May 2025 07:27:36 GMT</pubDate>
+</item>
+<item>
+<title>Cboe Global Markets Declares Second-Quarter 2025 Dividend</title>
+<link>http://www.mondovisione.com/media-and-resources/news/cboe-global-markets-declares-second-quarter-2025-dividend-202557/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/cboe-global-markets-declares-second-quarter-2025-dividend-202557/</guid>
+<content:encoded><![CDATA[
+
+<p><span>Cboe Global Markets, Inc. (Cboe: CBOE), the world's leading derivatives and securities exchange network, today announced its Board of Directors has declared a quarterly cash dividend of $0.63 per share of common stock for the second quarter of 2025. The second-quarter 2025 dividend is payable on June 13, 2025, to stockholders of record as of May 30, 2025.</span></p>
+]]></content:encoded>
+<pubDate>Wed, 07 May 2025 06:49:49 GMT</pubDate>
+<pubDate>Wed, 07 May 2025 06:49:49 GMT</pubDate>
+</item>
+<item>
+<title>Ontario Securities Commission Analysis Highlights Increasing Mentions And Diverging Sentiment In AI Disclosures</title>
+<link>http://www.mondovisione.com/media-and-resources/news/ontario-securities-commission-analysis-highlights-increasing-mentions-and-diverg-202557/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/ontario-securities-commission-analysis-highlights-increasing-mentions-and-diverg-202557/</guid>
+<content:encoded><![CDATA[
+
+<p>The Ontario Securities Commission (OSC) has released&nbsp;<a href="https://www.osc.ca/en/industry/artificial-intelligence/how-are-issuers-discussing-ai-their-financial-disclosures">staff research</a>&nbsp;that analyzes the frequency and sentiment of Canadian listed issuers&rsquo; references to Artificial Intelligence (AI) in their financial disclosures.</p>
+<p>OSC staff analyzed the Management Discussion and Analysis (MD&amp;A) filings from S&amp;P/TSX Composite Index issuers over a 10-year period.&nbsp; The exploratory study also provided OSC staff with an opportunity to test new large language models (LLMs) for sentiment analysis.</p>
+<p>The exploratory research revealed three key findings:</p>
+<ol type="1">
+<li><span>Increased AI Mentions</span>: The OSC observed a substantial rise in the number of issuers mentioning AI in their MD&amp;As, reflecting the growing importance and integration of AI technologies across various sectors.</li>
+<li><span>Shift in Tone</span>: The 2024 filing year marks a turning point in the overall tone used by issuers to discuss AI. Previously most issuers that discussed AI had an overall positive sentiment, however along with more issuers mentioning AI, there has been a substantial increase in negative sentiment, indicating a more balanced view of AI's risks and opportunities.</li>
+<li><span>Diverging Sentiments</span>: Issuers in the Finance and Information sectors exhibit a distinct divergence in sentiment compared to those in other industries. While Finance and Information sectors maintain a more positive outlook on AI, other industries are increasingly cautious.</li>
+</ol>
+<p>"This research underscores the evolving landscape of AI in corporate disclosures. As issuers become more attuned to the potential benefits and risks of AI, we see a more nuanced discussion emerging,&rdquo; said Leslie Byberg, Executive Vice President, Strategic Regulation at the OSC.</p>
+<p>This exploratory analysis was conducted by staff in the Thought Leadership division of the OSC.</p>
+<p>The mandate of the OSC is to provide protection to investors from unfair, improper or fraudulent practices, to foster fair, efficient and competitive capital markets and confidence in the capital markets, to foster capital formation, and to contribute to the stability of the financial system and the reduction of systemic risk. Investors are urged to check the registration of any persons or company offering an investment opportunity and to review the OSC investor materials available at&nbsp;<a href="https://www.osc.ca/">http://www.osc.ca</a>.</p>
+]]></content:encoded>
+<pubDate>Wed, 07 May 2025 06:46:52 GMT</pubDate>
+<pubDate>Wed, 07 May 2025 06:46:52 GMT</pubDate>
+</item>
+<item>
+<title>Cboe Global Markets Announces 2025 Annual Meeting Results</title>
+<link>http://www.mondovisione.com/media-and-resources/news/cboe-global-markets-announces-2025-annual-meeting-results-202556/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/cboe-global-markets-announces-2025-annual-meeting-results-202556/</guid>
+<content:encoded><![CDATA[
+
+<p>Cboe Global Markets, Inc. (Cboe: CBOE), the world's leading derivatives and securities exchange network, today announced the preliminary shareholder voting results from its 2025 Annual Meeting held today.<span style="font-size: 11px;">&nbsp;</span></p>
+<p>All 12 board of director nominees served during the 2024-2025 board term and received a majority of votes cast. The board members re-elected to serve one-year terms expiring in 2026 are:</p>
+<ul type="disc">
+<li>William M.&nbsp;Farrow, III</li>
+<li>Fredric J. Tomczyk</li>
+<li>Edward J. Fitzpatrick</li>
+<li>Ivan K. Fong</li>
+<li>Janet P.&nbsp;Froetscher</li>
+<li>Jill R. Goodman</li>
+<li>Erin A. Mansfield</li>
+<li>Cecilia H. Mao</li>
+<li>Alexander J.&nbsp;Matturri, Jr.</li>
+<li>Jennifer J.&nbsp;McPeek</li>
+<li>Roderick A.&nbsp;Palmore</li>
+<li>James E.&nbsp;Parisi</li>
+</ul>
+<p>In other proposals, shareholders:</p>
+<ul type="disc">
+<li>Approved, in a non-binding resolution, the compensation paid to the company's executive officers;</li>
+<li>Ratified the appointment of&nbsp;KPMG LLP as the company's independent registered public accounting firm for the 2025 fiscal year;</li>
+<li>Approved the Third Amended and Restated&nbsp;Cboe Global Markets, Inc. Long-Term Incentive Plan to, among other things, increase the share reserve by 3,000,000 shares and extend the term of the plan; and</li>
+<li>Approved a stockholder proposal regarding political spending.</li>
+</ul>
+<p>Additional information about each of the matters acted upon by shareholders at the Annual Meeting is in the proxy statement that was furnished to shareholders in connection with the meeting. The proxy statement is also available in the Investor Relations section of&nbsp;<a href="https://c212.net/c/link/?t=0&amp;l=en&amp;o=4421173-1&amp;h=2846747363&amp;u=https%3A%2F%2Fc212.net%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D3863205-1%26h%3D1222239973%26u%3Dhttp%253A%252F%252Fwww.cboe.com%252F%26a%3Dwww.cboe.com&amp;a=www.cboe.com" rel="nofollow" target="_blank">www.cboe.com</a>. The final vote totals for the matters acted upon by shareholders at the Annual Meeting will be reported in a current report on Form 8-K filing with the SEC and posted on&nbsp;<a href="https://c212.net/c/link/?t=0&amp;l=en&amp;o=4421173-1&amp;h=3618931195&amp;u=https%3A%2F%2Fc212.net%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D3863205-1%26h%3D800630096%26u%3Dhttp%253A%252F%252Fir.cboe.com%252F%26a%3Dhttp%253A%252F%252Fir.cboe.com&amp;a=http%3A%2F%2Fir.cboe.com" rel="nofollow" target="_blank">http://ir.cboe.com</a>.&nbsp;</p>
+]]></content:encoded>
+<pubDate>Tue, 06 May 2025 22:04:18 GMT</pubDate>
+<pubDate>Tue, 06 May 2025 22:04:18 GMT</pubDate>
+</item>
+<item>
+<title>Michael P. Lyons Assumes Leadership Of Fiserv As Chief Executive Officer</title>
+<link>http://www.mondovisione.com/media-and-resources/news/michael-p-lyons-assumes-leadership-of-fiserv-as-chief-executive-officer-202556/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/michael-p-lyons-assumes-leadership-of-fiserv-as-chief-executive-officer-202556/</guid>
+<content:encoded><![CDATA[
+
+<p>Fiserv, Inc. (NYSE: FI), a leading global provider of payments and financial services technology solutions, today announced that Michael P. Lyons has been appointed Chief Executive Officer of Fiserv. Lyons assumed the position upon the confirmation of Frank Bisignano, Fiserv&rsquo;s prior CEO, as Commissioner of the Social Security Administration. Lyons also joins the Fiserv Board of Directors.</p>
+<p>&ldquo;For more than 40 years, Fiserv has been a transformative force in financial technology driven by innovation and deep commitment to delivering best-in-class technology, value-added advice and service to our clients,&rdquo; said Lyons. &ldquo;I am proud to lead an organization that provides exceptional solutions to financial institutions, merchants, and communities of all sizes while driving growth and long-term value for our shareholders.&rdquo;</p>
+<p>Concurrently, Doyle R. Simons, previously the Lead Independent Director of Fiserv, has become non-executive Chairman of the Board. &ldquo;I am honored to take the role of Chairman,&rdquo; said Simons. &ldquo;On behalf of the Fiserv Board of Directors, I want to thank Frank for his outstanding leadership, vision, and drive over the past five years, positioning Fiserv as the preeminent fintech in our industry. Together with my fellow board members, we look forward to working with Mike and the entire management team as they continue to drive growth, innovation, and industry leadership.&rdquo;</p>
+]]></content:encoded>
+<pubDate>Tue, 06 May 2025 20:21:51 GMT</pubDate>
+<pubDate>Tue, 06 May 2025 20:21:51 GMT</pubDate>
+</item>
+<item>
+<title>Quarter Frictions: Remarks Before The Small Business Capital Formation Advisory Committee, SEC Commissioner Hester M. Peirce, Washington D.C., May 6, 2025</title>
+<link>http://www.mondovisione.com/media-and-resources/news/quarter-frictions-remarks-before-the-small-business-capital-formation-advisory-202556/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/quarter-frictions-remarks-before-the-small-business-capital-formation-advisory-202556/</guid>
+<content:encoded><![CDATA[
+
+<p>Thank you to the Committee members for your continued service and to today&rsquo;s panelists. I was at the grocery store the other day thinking about, of course, small business capital raising. I shop at several different grocery stores, each of which has its plusses&mdash;low prices, broad selection, high-quality local produce, unique items, proximity to other places I need to go. Each store also has its frictions&mdash;crowded parking lots and aisles, annoying quarter deposits for grocery carts, limited opening hours. I often choose the store based as much on the frictions I will face in going there as on which one has what I want that day. That quarter for a grocery cart might just be the deciding factor against a particular store on a day when I have neither a quarter nor the capacity to carry everything I need to buy. Just as I have choice in grocery stores, small businesses have multiple capital raising options, and frictions often dictate the choice small businesses make.</p>
+<p>Regulation A, the topic of today&rsquo;s meeting, is one avenue for small companies to raise capital, but the frictions are high. When an issuer decides to do a Reg A offering, it first must choose between Tier 1 and Tier 2. Neither choice is completely satisfying. Issuers that offer and sell securities under Tier 1 of Reg A can raise up to $20 million in a 12-month period and have fewer ongoing disclosure obligations but miss out on any form of state law preemption. Without state law preemption, issuers are required to register or qualify their offering in any state in which they seek to offer or sell securities, a process that can be costly, time-consuming, and confusing. Issuers that offer and sell securities under Tier 2 of Reg A can raise up to $75 million in a 12-month period and get state law preemption, for primary sales at least, but are subject to more burdensome ongoing reporting requirements. Perhaps those frictions help explain why from July 2023 through June 2024 companies raised only $1.5 billion using Reg A compared to $12 billion using general solicitation under Section 506(c) and $170 billion in private placements under Section 506(b).<a href="https://www.sec.gov/newsroom/speeches-statements/peirce-remarks-sbcfac-050625?utm_medium=email&amp;utm_source=govdelivery#_ftn1">[1]</a>&nbsp;A discussion of Regulation A is therefore timely.</p>
+<p>Among the questions I have for your consideration are:</p>
+<ol>
+<li>The Small Business Advocate&rsquo;s 2024 report showed that over the last several years &ldquo;[t]he amounts and number of [Reg A] offerings have continued to decline.&rdquo;<a href="https://www.sec.gov/newsroom/speeches-statements/peirce-remarks-sbcfac-050625?utm_medium=email&amp;utm_source=govdelivery#_ftn2">[2]</a>&nbsp;To what do you attribute that decline?</li>
+<li>By contrast, &ldquo;[t]he number of offerings raising more than $50 million has remained relatively stable&rdquo;<a href="https://www.sec.gov/newsroom/speeches-statements/peirce-remarks-sbcfac-050625?utm_medium=email&amp;utm_source=govdelivery#_ftn3">[3]</a>&nbsp;at about 20 per year. To what do you attribute the fact that larger offerings have not declined?</li>
+<li>Would Tier 2 of Reg A be a more viable avenue for raising capital if secondary trading enjoyed state law preemption? If so, what conditions should apply to such preemption?</li>
+<li>Should the Tier 1 and Tier 2 offering limits be raised to make Reg A a more attractive option for a broader range of companies? What would reasonable caps be?</li>
+<li>How could the Commission streamline the regulatory obligations under Reg A without compromising investor protection?</li>
+<li>Should, as one commenter recently suggested,<a href="https://www.sec.gov/newsroom/speeches-statements/peirce-remarks-sbcfac-050625?utm_medium=email&amp;utm_source=govdelivery#_ftn4">[4]</a>&nbsp;pooled investment vehicles be permitted under Reg A?</li>
+<li>One reason a discussion of Reg A is timely is that some crypto market observers see it as a viable avenue for public offerings of crypto assets.<ol>
+<li>Former Committee member Sara Hanks, for example, pointed to Reg A as &ldquo;the most appropriate option for public offerings of either tokenized traditional securities or novel crypto assets, without violence to the original objectives of Regulation A or the need for significant rulemaking.&rdquo;<a href="https://www.sec.gov/newsroom/speeches-statements/peirce-remarks-sbcfac-050625?utm_medium=email&amp;utm_source=govdelivery#_ftn5">[5]</a>&nbsp;Do you agree?</li>
+<li>If so, should the Commission take the position that crypto tokens are &ldquo;equity&rdquo; for purposes of a Reg A offering? Would such a position conflict with how crypto assets are treated for accounting purposes? I have heard that at least one crypto asset issuer attempting to use Reg A was advised that the crypto assets should be treated as equity for securities law purposes and debt for accounting purposes.</li>
+<li>Would any other aspects of Reg A prove challenging for crypto asset issuers?</li>
+<li>Hanks suggested &ldquo;that the &lsquo;exit&rsquo; provisions to Regulation A ongoing reporting suit native digital assets that are securities at inception, but cease to be securities once a specific blockchain project has been sufficiently developed.&rdquo;<a href="https://www.sec.gov/newsroom/speeches-statements/peirce-remarks-sbcfac-050625?utm_medium=email&amp;utm_source=govdelivery#_ftn6">[6]</a>&nbsp;Should the Commission, as she suggests, &ldquo;confirm that when an instrument that was a security ceases to be such (by reason of decentralization, completion of a blockchain project, etc.) there are no longer 300 holders of record of the applicable class of securities?&rdquo;<a href="https://www.sec.gov/newsroom/speeches-statements/peirce-remarks-sbcfac-050625?utm_medium=email&amp;utm_source=govdelivery#_ftn7">[7]</a></li>
+</ol></li>
+</ol>
+<p>I welcome your insights on the frictions associated with Reg A offerings, what we can do to address them, and any unique considerations for the application of Reg A in the crypto context. I hope you have a productive and enjoyable meeting.</p>
+<div>
+<hr align="left" size="1" width="33%" />
+<div>
+<p><a href="https://www.sec.gov/newsroom/speeches-statements/peirce-remarks-sbcfac-050625?utm_medium=email&amp;utm_source=govdelivery#_ftnref1">[1]</a>&nbsp;Office of the Advocate for Small Business Capital Formation Annual Report for the 2024 Fiscal Year (the &ldquo;2024 Annual Report&rdquo;) at 14,&nbsp;<i>available at</i>:&nbsp;<a href="https://www.sec.gov/files/2024-oasb-annual-report.pdf">https://www.sec.gov/files/2024-oasb-annual-report.pdf</a>.</p>
+</div>
+<div>
+<p><a href="https://www.sec.gov/newsroom/speeches-statements/peirce-remarks-sbcfac-050625?utm_medium=email&amp;utm_source=govdelivery#_ftnref2">[2]</a>&nbsp;2024 Annual Report at 20.</p>
+</div>
+<div>
+<p><a href="https://www.sec.gov/newsroom/speeches-statements/peirce-remarks-sbcfac-050625?utm_medium=email&amp;utm_source=govdelivery#_ftnref3">[3]</a>&nbsp;<i>Id</i>.</p>
+</div>
+<div>
+<p><a href="https://www.sec.gov/newsroom/speeches-statements/peirce-remarks-sbcfac-050625?utm_medium=email&amp;utm_source=govdelivery#_ftnref4">[4]</a>&nbsp;Letter from StartEngine Crowdfunding, Inc. dated April 22, 2025 at 1,&nbsp;<i>available at:&nbsp;</i><a href="https://www.sec.gov/files/ctf-written-input-startengine-042225.pdf">https://www.sec.gov/files/ctf-written-input-startengine-042225.pdf</a>.</p>
+</div>
+<div>
+<p><a href="https://www.sec.gov/newsroom/speeches-statements/peirce-remarks-sbcfac-050625?utm_medium=email&amp;utm_source=govdelivery#_ftnref5">[5]</a>&nbsp;Letter from Sara Hanks, CrowdCheck Law LLP dated March 19, 2025 (the &ldquo;CrowdCheck Letter&rdquo;) at 2,&nbsp;<i>available at:&nbsp;</i><a href="https://www.sec.gov/files/ctf-input-hanks-2025-3-19.pdf">https://www.sec.gov/files/ctf-input-hanks-2025-3-19.pdf</a>.</p>
+</div>
+<div>
+<p><a href="https://www.sec.gov/newsroom/speeches-statements/peirce-remarks-sbcfac-050625?utm_medium=email&amp;utm_source=govdelivery#_ftnref6">[6]</a>&nbsp;CrowdCheck Letter at 3.</p>
+</div>
+<div>
+<p><a href="https://www.sec.gov/newsroom/speeches-statements/peirce-remarks-sbcfac-050625?utm_medium=email&amp;utm_source=govdelivery#_ftnref7">[7]</a>&nbsp;<i>Id</i>.</p>
+</div>
+</div>
+]]></content:encoded>
+<pubDate>Tue, 06 May 2025 17:59:48 GMT</pubDate>
+<pubDate>Tue, 06 May 2025 17:59:48 GMT</pubDate>
+</item>
+
+</channel>
+</rss>
