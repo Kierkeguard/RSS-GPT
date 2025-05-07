@@ -68,3 +68,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ESMA Delivers Technical Advice On Market Abuse And SME Growth Markets As Part Of The Listing Act](http://www.mondovisione.com/media-and-resources/news/esma-delivers-technical-advice-on-market-abuse-and-sme-growth-markets-as-part-of-202557/)
 append_entries: 5
 Finish: 2025-05-07 12:50:03.709749
+------------------------------------------------------
+Started: 2025-05-07 14:23:50.338403
+Existing_entries: 22
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Growing Need For Operational And Cyber Resilience Dominates Concerns Among Financial Services Industry - Outdated Legacy Systems Leaving Firms Vulnerable To Mounting Cyber Risks](http://www.mondovisione.com/media-and-resources/news/growing-need-for-operational-and-cyber-resilience-dominates-concerns-among-finan-202557/)
+append_entries: 1
+Finish: 2025-05-07 14:23:51.690043
