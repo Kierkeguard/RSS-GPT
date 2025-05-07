@@ -1891,3 +1891,25 @@ Existing_entries: 297
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-05-07 04:27:43.943234
+------------------------------------------------------
+Started: 2025-05-07 06:33:23.914666
+Existing_entries: 297
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [JPXI Adds “Outstanding Short Selling Positions Reported” To J-Quants API Data Service](http://www.mondovisione.com/media-and-resources/news/jpxi-adds-outstanding-short-selling-positions-reported-to-j-quants-api-data-se-202557/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: ["Staying The Course For Asia's Transition To A Climate-Resilient Future" - Opening Address By Mr Chia Der Jiun, Managing Director, Monetary Authority Of Singapore, At The FAST Conference 2025 On 7 May 2025](http://www.mondovisione.com/media-and-resources/news/staying-the-course-for-asias-transition-to-a-climate-resilient-future-openi-202557/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Acts Against Macquarie Bank For Repeated Compliance Failures](http://www.mondovisione.com/media-and-resources/news/asic-acts-against-macquarie-bank-for-repeated-compliance-failures-202557/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NGX Group, Market Stakeholders Honour Dr. Pascal Dozie’s Enduring Impact](http://www.mondovisione.com/media-and-resources/news/ngx-group-market-stakeholders-honour-dr-pascal-dozies-enduring-impact-202557/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cboe Global Markets Declares Second-Quarter 2025 Dividend](http://www.mondovisione.com/media-and-resources/news/cboe-global-markets-declares-second-quarter-2025-dividend-202557/)
+Append: [Ontario Securities Commission Analysis Highlights Increasing Mentions And Diverging Sentiment In AI Disclosures](http://www.mondovisione.com/media-and-resources/news/ontario-securities-commission-analysis-highlights-increasing-mentions-and-diverg-202557/)
+append_entries: 6
+Finish: 2025-05-07 06:33:24.978222
