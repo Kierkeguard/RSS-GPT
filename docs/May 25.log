@@ -47,3 +47,24 @@ Append: [London Stock Exchange Group PLC Transactions In Own Securities](http://
 Append: [AltNovel And 3iQ Launch The Middle East’s First Multi-Strategy Digital Assets Fund, The AltNovel Digital Access Portfolio (ADAP)](http://www.mondovisione.com/media-and-resources/news/altnovel-and-3iq-launch-the-middle-easts-first-multi-strategy-digital-assets-fu-202557/)
 append_entries: 7
 Finish: 2025-05-07 10:25:43.256647
+------------------------------------------------------
+Started: 2025-05-07 12:50:02.108564
+Existing_entries: 17
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ICE Expands Geospatial Platform To Include 20,000 Global Corporates And Sovereigns - Solution Leverages Granular Data For More Than 1.6 Billion Buildings Globally](http://www.mondovisione.com/media-and-resources/news/ice-expands-geospatial-platform-to-include-20000-global-corporates-and-sovereig-202557/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER: Baltic Energy Regulators Request More Time To Agree On Long-Term Capacity Calculation Methodology](http://www.mondovisione.com/media-and-resources/news/acer-baltic-energy-regulators-request-more-time-to-agree-on-long-term-capacity-202557/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MarketAxess Reports First Quarter 2025 Financial Results](http://www.mondovisione.com/media-and-resources/news/marketaxess-reports-first-quarter-2025-financial-results-202557/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Dubai And AIX CSD Launch Direct CSD Link, Enabling Seamless Settlements And Cross-Border Listings](http://www.mondovisione.com/media-and-resources/news/nasdaq-dubai-and-aix-csd-launch-direct-csd-link-enabling-seamless-settlements-a-202557/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESMA Delivers Technical Advice On Market Abuse And SME Growth Markets As Part Of The Listing Act](http://www.mondovisione.com/media-and-resources/news/esma-delivers-technical-advice-on-market-abuse-and-sme-growth-markets-as-part-of-202557/)
+append_entries: 5
+Finish: 2025-05-07 12:50:03.709749
