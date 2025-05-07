@@ -1873,3 +1873,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Cboe Global Markets Announces 2025 Annual Meeting Results](http://www.mondovisione.com/media-and-resources/news/cboe-global-markets-announces-2025-annual-meeting-results-202556/)
 append_entries: 1
 Finish: 2025-05-06 22:22:19.460407
+------------------------------------------------------
+Started: 2025-05-07 01:53:42.930900
+Existing_entries: 297
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-05-07 01:53:44.318787
