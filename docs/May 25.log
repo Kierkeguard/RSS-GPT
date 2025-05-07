@@ -100,3 +100,21 @@ Append: [DTCC Comment On SIP Efforts To Align Around Standard Trading Day Hours]
 Append: [Mortgage Reform: Supporting Home Ownership In The UK - Speech By Emad Aladhal, UK Financial Conduct Authority Director Of Retail Banking At The Building Societies Association Annual Conference](http://www.mondovisione.com/media-and-resources/news/mortgage-reform-supporting-home-ownership-in-the-uk-speech-by-emad-aladhal-u-202557/)
 append_entries: 7
 Finish: 2025-05-07 16:30:11.495337
+------------------------------------------------------
+Started: 2025-05-07 18:31:28.209903
+Existing_entries: 30
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Federal Reserve Issues FOMC Statement](http://www.mondovisione.com/media-and-resources/news/federal-reserve-issues-fomc-statement-202557/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Office Of The Comptroller Of The Currency Clarifies Bank Authority To Engage In Crypto-Asset Custody And Execution Services](http://www.mondovisione.com/media-and-resources/news/us-office-of-the-comptroller-of-the-currency-clarifies-bank-authority-to-engage-202557/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nodal Exchange Achieves New Records In All Markets In April](http://www.mondovisione.com/media-and-resources/news/nodal-exchange-achieves-new-records-in-all-markets-in-april-202557/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ISDA To Extend DRR To Cover MIFID/MIFIR Reporting And Works With DTCC To Further Adoption](http://www.mondovisione.com/media-and-resources/news/isda-to-extend-drr-to-cover-mifidmifir-reporting-and-works-with-dtcc-to-further-202557/)
+append_entries: 4
+Finish: 2025-05-07 18:31:28.975615
