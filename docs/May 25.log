@@ -226,3 +226,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Bank Of England: Bank Rate Reduced To 4.25% - May 2025](http://www.mondovisione.com/media-and-resources/news/bank-of-england-bank-rate-reduced-to-425-may-2025-202558/)
 append_entries: 3
 Finish: 2025-05-08 14:21:23.618332
+------------------------------------------------------
+Started: 2025-05-08 16:29:56.356737
+Existing_entries: 50
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-05-08 16:29:57.192153
