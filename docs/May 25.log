@@ -154,3 +154,21 @@ Existing_entries: 36
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-05-08 04:28:39.235494
+------------------------------------------------------
+Started: 2025-05-08 06:33:48.265771
+Existing_entries: 36
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Keynote Address, Dato’ Mohammad Faiz Azmi, Chairman, Securities Commission Malaysia, 30% Club Malaysia 10th Anniversary Celebration, 10.00 Am, 8 May 2025, Securities Commission Malaysia](http://www.mondovisione.com/media-and-resources/news/keynote-address-dato-mohammad-faiz-azmi-chairman-securities-commission-malay-202558/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [JPX Market Innovation & Research: Publication Of Constituents and Methodology For JPX-Nikkei Index Human Capital 100](http://www.mondovisione.com/media-and-resources/news/jpx-market-innovation-and-research-publication-of-constituents-and-methodology-f-202558/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Securities Commission Malaysia Alerts Public On Impersonation Scam Involving Fake Guarantee Deposits](http://www.mondovisione.com/media-and-resources/news/securities-commission-malaysia-alerts-public-on-impersonation-scam-involving-fak-202558/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Releases New Regulatory Guidance To Support Buy Now Pay Later Industry Reforms](http://www.mondovisione.com/media-and-resources/news/asic-releases-new-regulatory-guidance-to-support-buy-now-pay-later-industry-refo-202558/)
+append_entries: 4
+Finish: 2025-05-08 06:33:49.031407
