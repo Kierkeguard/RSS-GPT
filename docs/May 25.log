@@ -211,3 +211,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ACER Releases First Reports On The Detection, Reporting And Response To Suspicious Energy Market Behaviours Under REMIT](http://www.mondovisione.com/media-and-resources/news/acer-releases-first-reports-on-the-detection-reporting-and-response-to-suspicio-202558/)
 append_entries: 3
 Finish: 2025-05-08 12:47:58.819383
+------------------------------------------------------
+Started: 2025-05-08 14:21:22.745150
+Existing_entries: 47
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group Declares Quarterly Dividend](http://www.mondovisione.com/media-and-resources/news/cme-group-declares-quarterly-dividend-202558/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX: Re-Appointment Of Chairman Approved](http://www.mondovisione.com/media-and-resources/news/hkex-re-appointment-of-chairman-approved-202558/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bank Of England: Bank Rate Reduced To 4.25% - May 2025](http://www.mondovisione.com/media-and-resources/news/bank-of-england-bank-rate-reduced-to-425-may-2025-202558/)
+append_entries: 3
+Finish: 2025-05-08 14:21:23.618332
