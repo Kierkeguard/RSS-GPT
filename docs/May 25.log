@@ -172,3 +172,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ASIC Releases New Regulatory Guidance To Support Buy Now Pay Later Industry Reforms](http://www.mondovisione.com/media-and-resources/news/asic-releases-new-regulatory-guidance-to-support-buy-now-pay-later-industry-refo-202558/)
 append_entries: 4
 Finish: 2025-05-08 06:33:49.031407
+------------------------------------------------------
+Started: 2025-05-08 08:31:04.180974
+Existing_entries: 40
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-05-08 08:31:04.940163
