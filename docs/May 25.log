@@ -232,3 +232,26 @@ Existing_entries: 50
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-05-08 16:29:57.192153
+------------------------------------------------------
+Started: 2025-05-08 18:32:07.289045
+Existing_entries: 50
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Office Of The Comptroller of the Currency Issues Interim Final Rule On Bank Mergers](http://www.mondovisione.com/media-and-resources/news/us-office-of-the-comptroller-of-the-currency-issues-interim-final-rule-on-bank-m-202558/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TD Securities Integrates ISDA Create For Legal Agreements](http://www.mondovisione.com/media-and-resources/news/td-securities-integrates-isda-create-for-legal-agreements-202558/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Acting Comptroller Of The US Currency Discusses Agency Priorities](http://www.mondovisione.com/media-and-resources/news/acting-comptroller-of-the-us-currency-discusses-agency-priorities-202558/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CalPERS Board Election Nomination Period Closes May 15](http://www.mondovisione.com/media-and-resources/news/calpers-board-election-nomination-period-closes-may-15-202558/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [A Creative And Cooperative Balancing Act, SEC Commissioner Hester M. Peirce, SEC 31st International Institute For Securities Market Growth And Development, Washington D.C., May 8, 2025](http://www.mondovisione.com/media-and-resources/news/a-creative-and-cooperative-balancing-act-sec-commissioner-hester-m-peirce-sec-202558/)
+Append: [ISDA Publishes Governance Committee Proposal For CDS Determinations Committees](http://www.mondovisione.com/media-and-resources/news/isda-publishes-governance-committee-proposal-for-cds-determinations-committees-202558/)
+Append: [Mutual Momentum: Advances In Building Society Regulation - Speech By Charlotte Gerken, Bank Of England, Executive Director, Insurance Supervision, Given At The Building Societies Association](http://www.mondovisione.com/media-and-resources/news/mutual-momentum-advances-in-building-society-regulation-speech-by-charlotte-g-202558/)
+append_entries: 7
+Finish: 2025-05-08 18:32:08.028198
