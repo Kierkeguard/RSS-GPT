@@ -196,3 +196,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Swiss Blue Chips Make Their Debut On The Vienna Stock Exchange](http://www.mondovisione.com/media-and-resources/news/swiss-blue-chips-make-their-debut-on-the-vienna-stock-exchange-202558/)
 append_entries: 4
 Finish: 2025-05-08 10:25:55.730899
+------------------------------------------------------
+Started: 2025-05-08 12:47:58.075176
+Existing_entries: 44
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Leading Canadian Financial Services Platform Wealthsimple Taps Eventus For Compliance Solution - Deploys Validus Platform For Support Across Asset Classes To Enhance Account Supervision, Help Meet Regulatory Responsibilities](http://www.mondovisione.com/media-and-resources/news/leading-canadian-financial-services-platform-wealthsimple-taps-eventus-for-compl-202558/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [David Geale Appointed UK Financial Conduct Authority Executive Director For Payments And Digital Finance](http://www.mondovisione.com/media-and-resources/news/david-geale-appointed-uk-financial-conduct-authority-executive-director-for-paym-202558/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER Releases First Reports On The Detection, Reporting And Response To Suspicious Energy Market Behaviours Under REMIT](http://www.mondovisione.com/media-and-resources/news/acer-releases-first-reports-on-the-detection-reporting-and-response-to-suspicio-202558/)
+append_entries: 3
+Finish: 2025-05-08 12:47:58.819383
