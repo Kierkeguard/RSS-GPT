@@ -178,3 +178,21 @@ Existing_entries: 40
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-05-08 08:31:04.940163
+------------------------------------------------------
+Started: 2025-05-08 10:25:54.736432
+Existing_entries: 40
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Post Trade Solutions Executes First GBP/USD Compression Run At SwapAgent](http://www.mondovisione.com/media-and-resources/news/post-trade-solutions-executes-first-gbpusd-compression-run-at-swapagent-202558/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Monex Adopts Broadridge’s Innovative SaaS Platform For JASDECPS, Aligning With JASDEC2025 Requirements - Monex Leverages Broadridge’s Cloud-Based SaaS Solution To Streamline Operations, Increase Operational Resilience, And Comply With Japan's Evolving Market Initiatives](http://www.mondovisione.com/media-and-resources/news/monex-adopts-broadridges-innovative-saas-platform-for-jasdecps-aligning-with-j-202558/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CUBE Opens New Global HQ And AI Centre Of Excellence In City Of London](http://www.mondovisione.com/media-and-resources/news/cube-opens-new-global-hq-and-ai-centre-of-excellence-in-city-of-london-202558/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Swiss Blue Chips Make Their Debut On The Vienna Stock Exchange](http://www.mondovisione.com/media-and-resources/news/swiss-blue-chips-make-their-debut-on-the-vienna-stock-exchange-202558/)
+append_entries: 4
+Finish: 2025-05-08 10:25:55.730899
