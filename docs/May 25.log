@@ -396,3 +396,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [United States Department Of The Treasury Announces New Appointment](http://www.mondovisione.com/media-and-resources/news/united-states-department-of-the-treasury-announces-new-appointment-202559/)
 append_entries: 2
 Finish: 2025-05-09 20:25:25.999957
+------------------------------------------------------
+Started: 2025-05-09 22:21:36.009703
+Existing_entries: 78
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Announces End-Of-Month Open Short Interest Positions In Nasdaq Stocks As Of Settlement Date April 30, 2025](http://www.mondovisione.com/media-and-resources/news/nasdaq-announces-end-of-month-open-short-interest-positions-in-nasdaq-stocks-as-202559/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NYSE Group Consolidated Short Interest Report](http://www.mondovisione.com/media-and-resources/news/nyse-group-consolidated-short-interest-report-202559/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC  Commitments Of Traders Reports Update](http://www.mondovisione.com/media-and-resources/news/cftc-commitments-of-traders-reports-update-202559/)
+append_entries: 3
+Finish: 2025-05-09 22:21:36.726472
