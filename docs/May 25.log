@@ -300,3 +300,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [New Zealand Financial Market Authority: Update On The Pushpay Insider Trading Appeal](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-market-authority-update-on-the-pushpay-insider-trading-ap-202559/)
 append_entries: 1
 Finish: 2025-05-09 06:33:31.202428
+------------------------------------------------------
+Started: 2025-05-09 08:30:44.345140
+Existing_entries: 60
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group PLC Transactions In Own Securities](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-transactions-in-own-securities-202559/)
+append_entries: 1
+Finish: 2025-05-09 08:30:46.967114
