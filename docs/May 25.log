@@ -369,3 +369,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Quantoz Payments Comment On Meta Stablecoin Developments](http://www.mondovisione.com/media-and-resources/news/quantoz-payments-comment-on-meta-stablecoin-developments-202559/)
 append_entries: 4
 Finish: 2025-05-09 16:28:46.685908
+------------------------------------------------------
+Started: 2025-05-09 18:31:45.193986
+Existing_entries: 73
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Charges Syracuse, N.Y., Man, His Firm With Fraud, Misappropriation](http://www.mondovisione.com/media-and-resources/news/cftc-charges-syracuse-ny-man-his-firm-with-fraud-misappropriation-202559/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nigerian Exchange Weekly Report For Week Ended 9 May 2025](http://www.mondovisione.com/media-and-resources/news/nigerian-exchange-weekly-report-for-week-ended-9-may-2025-202559/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Commissioner Goldsmith Romero To Speak On Panel At ISDA Annual General Meeting](http://www.mondovisione.com/media-and-resources/news/cftc-commissioner-goldsmith-romero-to-speak-on-panel-at-isda-annual-general-meet-202559/)
+append_entries: 3
+Finish: 2025-05-09 18:31:46.005370
