@@ -384,3 +384,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CFTC Commissioner Goldsmith Romero To Speak On Panel At ISDA Annual General Meeting](http://www.mondovisione.com/media-and-resources/news/cftc-commissioner-goldsmith-romero-to-speak-on-panel-at-isda-annual-general-meet-202559/)
 append_entries: 3
 Finish: 2025-05-09 18:31:46.005370
+------------------------------------------------------
+Started: 2025-05-09 20:25:25.136788
+Existing_entries: 76
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIFMA Fixed Income Market Close Recommendations In The US, The UK, And Japan For The US Memorial Day Holiday](http://www.mondovisione.com/media-and-resources/news/sifma-fixed-income-market-close-recommendations-in-the-us-the-uk-and-japan-for-202559/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [United States Department Of The Treasury Announces New Appointment](http://www.mondovisione.com/media-and-resources/news/united-states-department-of-the-treasury-announces-new-appointment-202559/)
+append_entries: 2
+Finish: 2025-05-09 20:25:25.999957
