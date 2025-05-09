@@ -285,3 +285,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SIFMA-BAFA Statement On US-UK Trade Agreement](http://www.mondovisione.com/media-and-resources/news/sifma-bafa-statement-on-us-uk-trade-agreement-202559/)
 append_entries: 2
 Finish: 2025-05-09 03:12:32.188309
+------------------------------------------------------
+Started: 2025-05-09 04:28:13.786306
+Existing_entries: 59
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-05-09 04:28:14.625380
