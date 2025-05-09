@@ -273,3 +273,15 @@ Existing_entries: 57
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-05-09 01:53:32.633153
+------------------------------------------------------
+Started: 2025-05-09 03:12:31.215223
+Existing_entries: 57
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Statement On The Agency’s Settlement With Ripple Labs, Inc., SEC Commissioner Caroline A. Crenshaw, May 8, 2025](http://www.mondovisione.com/media-and-resources/news/statement-on-the-agencys-settlement-with-ripple-labs-inc-sec-commissioner-ca-202559/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIFMA-BAFA Statement On US-UK Trade Agreement](http://www.mondovisione.com/media-and-resources/news/sifma-bafa-statement-on-us-uk-trade-agreement-202559/)
+append_entries: 2
+Finish: 2025-05-09 03:12:32.188309
