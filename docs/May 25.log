@@ -339,3 +339,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Artificial Intelligence And The Labor Market: A Scenario-Based Approach, Federal Reserve Governor Michael S. Barr, At The Reykjavík Economic Conference 2025, Central Bank Of Iceland, Reykjavík, Iceland](http://www.mondovisione.com/media-and-resources/news/artificial-intelligence-and-the-labor-market-a-scenario-based-approach-federal-202559/)
 append_entries: 5
 Finish: 2025-05-09 12:45:57.574338
+------------------------------------------------------
+Started: 2025-05-09 14:22:07.920244
+Existing_entries: 67
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TMX Group Equity Financing Statistics - April 2025](http://www.mondovisione.com/media-and-resources/news/tmx-group-equity-financing-statistics-april-2025-202559/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Malawi Stock Exchange Weekly Summary Report, 9 May 2025](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-9-may-2025-202559/)
+append_entries: 2
+Finish: 2025-05-09 14:22:10.158793
