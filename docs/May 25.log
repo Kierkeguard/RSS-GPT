@@ -318,3 +318,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Monetary Policy In Uncertain Times - Speech By Andrew Bailey, Governor, Bank Of England, Given At The Reykjavík Economic Conference, Iceland](http://www.mondovisione.com/media-and-resources/news/monetary-policy-in-uncertain-times-speech-by-andrew-bailey-governor-bank-of-202559/)
 append_entries: 1
 Finish: 2025-05-09 10:24:39.298323
+------------------------------------------------------
+Started: 2025-05-09 12:45:55.733745
+Existing_entries: 62
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ICE Launches EU Carbon Allowance 2 Futures - Expanding the Most Liquid Environmental Derivatives Markets in the World](http://www.mondovisione.com/media-and-resources/news/ice-launches-eu-carbon-allowance-2-futures-expanding-the-most-liquid-environme-202559/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cyprus Stock Exchange Monthly Bulletin, April 2025](http://www.mondovisione.com/media-and-resources/news/cyprus-stock-exchange-monthly-bulletin-april-2025-202559/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Assessing Maximum Employment, Federal Reserve Governor Adriana D. Kugler, At the Reykjavík Economic Conference 2025, Central Bank of Iceland, Reykjavík, Iceland](http://www.mondovisione.com/media-and-resources/news/assessing-maximum-employment-federal-reserve-governor-adriana-d-kugler-at-the-202559/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority: Two Brothers Plead Guilty To Insider Dealing](http://www.mondovisione.com/media-and-resources/news/the-financial-conduct-authority-two-brothers-plead-guilty-to-insider-dealing-202559/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Artificial Intelligence And The Labor Market: A Scenario-Based Approach, Federal Reserve Governor Michael S. Barr, At The Reykjavík Economic Conference 2025, Central Bank Of Iceland, Reykjavík, Iceland](http://www.mondovisione.com/media-and-resources/news/artificial-intelligence-and-the-labor-market-a-scenario-based-approach-federal-202559/)
+append_entries: 5
+Finish: 2025-05-09 12:45:57.574338
