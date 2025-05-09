@@ -309,3 +309,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [London Stock Exchange Group PLC Transactions In Own Securities](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-transactions-in-own-securities-202559/)
 append_entries: 1
 Finish: 2025-05-09 08:30:46.967114
+------------------------------------------------------
+Started: 2025-05-09 10:24:37.031416
+Existing_entries: 61
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Monetary Policy In Uncertain Times - Speech By Andrew Bailey, Governor, Bank Of England, Given At The Reykjavík Economic Conference, Iceland](http://www.mondovisione.com/media-and-resources/news/monetary-policy-in-uncertain-times-speech-by-andrew-bailey-governor-bank-of-202559/)
+append_entries: 1
+Finish: 2025-05-09 10:24:39.298323
