@@ -351,3 +351,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Malawi Stock Exchange Weekly Summary Report, 9 May 2025](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-9-may-2025-202559/)
 append_entries: 2
 Finish: 2025-05-09 14:22:10.158793
+------------------------------------------------------
+Started: 2025-05-09 16:28:45.814706
+Existing_entries: 69
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euronext Announces Volumes For April 2025](http://www.mondovisione.com/media-and-resources/news/euronext-announces-volumes-for-april-2025-202559/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Thank You, John, Federal Reserve Governor Christopher J. Waller, At The "John Taylor And Taylor Rules In Policy" Hoover Monetary Policy Conference: Finishing The Job And New Challenges, The Hoover Institution, Stanford, California](http://www.mondovisione.com/media-and-resources/news/thank-you-john-federal-reserve-governor-christopher-j-waller-at-the-john-ta-202559/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group Inc. Announces Preliminary Results from Its 2025 Annual Meeting Of Shareholders](http://www.mondovisione.com/media-and-resources/news/cme-group-inc-announces-preliminary-results-from-its-2025-annual-meeting-of-sha-202559/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Quantoz Payments Comment On Meta Stablecoin Developments](http://www.mondovisione.com/media-and-resources/news/quantoz-payments-comment-on-meta-stablecoin-developments-202559/)
+append_entries: 4
+Finish: 2025-05-09 16:28:46.685908
