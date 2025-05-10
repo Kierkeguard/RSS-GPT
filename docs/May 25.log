@@ -471,3 +471,15 @@ Existing_entries: 85
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-05-10 14:19:04.446397
+------------------------------------------------------
+Started: 2025-05-10 16:26:31.047991
+Existing_entries: 85
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Abu Dhabi And Japan Sign Agreements To Strengthen Partnerships, Boost Bilateral Trade And Investments](http://www.mondovisione.com/media-and-resources/news/abu-dhabi-and-japan-sign-agreements-to-strengthen-partnerships-boost-bilateral-2025510/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Readout From US Secretary Of The Treasury Scott Bessent’s And U.S. Trade Representative Jamieson Greer’s Meeting With President Karin Keller-Sutter And Vice President Guy Parmelin Of Switzerland](http://www.mondovisione.com/media-and-resources/news/readout-from-us-secretary-of-the-treasury-scott-bessents-and-us-trade-represe-2025510/)
+append_entries: 2
+Finish: 2025-05-10 16:26:32.400070
