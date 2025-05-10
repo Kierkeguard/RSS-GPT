@@ -429,3 +429,18 @@ Existing_entries: 81
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-05-10 04:27:27.537290
+------------------------------------------------------
+Started: 2025-05-10 06:29:24.772546
+Existing_entries: 81
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Shopify Inc To Join The Nasdaq-100 Index® Beginning May 19, 2025](http://www.mondovisione.com/media-and-resources/news/shopify-inc-to-join-the-nasdaq-100-index-beginning-may-19-2025-2025510/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Opening Remarks On Productivity Dynamics, Federal Reserve Governor Lisa D. Cook, At "Finishing The Job And New Challenges," A Monetary Policy Conference Hosted By The Hoover Institution, Stanford University, Stanford, California](http://www.mondovisione.com/media-and-resources/news/opening-remarks-on-productivity-dynamics-federal-reserve-governor-lisa-d-cook-2025510/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nadex Temporarily Amends Binary Contracts Strike Width](http://www.mondovisione.com/media-and-resources/news/nadex-temporarily-amends-binary-contracts-strike-width-2025510/)
+append_entries: 3
+Finish: 2025-05-10 06:29:25.483032
