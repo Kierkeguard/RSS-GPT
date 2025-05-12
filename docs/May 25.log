@@ -648,3 +648,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [London Stock Exchange Group PLC Transactions In Own Securities](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-transactions-in-own-securities-2025512/)
 append_entries: 5
 Finish: 2025-05-12 14:24:22.445381
+------------------------------------------------------
+Started: 2025-05-12 16:30:19.498961
+Existing_entries: 96
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Economic Outlook, Federal Reserve Governor Adriana D. Kugler, At The International Economic Symposium, Cohosted By The National Association For Business Economics And The Central Bank Of Ireland, Dublin, Ireland](http://www.mondovisione.com/media-and-resources/news/economic-outlook-federal-reserve-governor-adriana-d-kugler-at-the-internation-2025512/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [STOXX Europe TM Defense Futures: The Strategic Instrument For The Defense sSector](http://www.mondovisione.com/media-and-resources/news/stoxx-europe-tm-defense-futures-the-strategic-instrument-for-the-defense-ssecto-2025512/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Strengthening The UK-China Financial Partnership - Speech By Ashley Alder, UK Financial Conduct Authority  Chair, At Caixin Media's London Atlantic Dialogue Event](http://www.mondovisione.com/media-and-resources/news/strengthening-the-uk-china-financial-partnership-speech-by-ashley-alder-uk-fi-2025512/)
+append_entries: 3
+Finish: 2025-05-12 16:30:22.573500
