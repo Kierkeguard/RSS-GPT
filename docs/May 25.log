@@ -627,3 +627,24 @@ Existing_entries: 91
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-05-12 12:49:42.526326
+------------------------------------------------------
+Started: 2025-05-12 14:24:18.797421
+Existing_entries: 91
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LDA Technologies Making Exchange Fairness A Reality](http://www.mondovisione.com/media-and-resources/news/lda-technologies-making-exchange-fairness-a-reality-2025512/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Marketaxess Acquires Majority Control Of RFQ-Hub Holdings LLC - Consortium Created To Support Global Expansion Of ETF And Derivative RFQ Platform](http://www.mondovisione.com/media-and-resources/news/marketaxess-acquires-majority-control-of-rfq-hub-holdings-llc-consortium-creat-2025512/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Crédit Agricole Corporate And Investment Bank And Solactive AG Are Collaborating On Launching A Solactive Constant Maturity Government Bond Index Family](http://www.mondovisione.com/media-and-resources/news/crdit-agricole-corporate-and-investment-bank-and-solactive-ag-are-collaborating-2025512/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [In A First Collaboration, Samsung Asset Management Launches New SAMSUNG KODEX China Humanoid Robot ETF Under Its Passive KODEX ETF Brand, Tracking The Solactive China Humanoid Robotics Index](http://www.mondovisione.com/media-and-resources/news/in-a-first-collaboration-samsung-asset-management-launches-new-samsung-kodex-ch-2025512/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group PLC Transactions In Own Securities](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-transactions-in-own-securities-2025512/)
+append_entries: 5
+Finish: 2025-05-12 14:24:22.445381
