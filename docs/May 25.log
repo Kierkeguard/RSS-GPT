@@ -609,3 +609,15 @@ Existing_entries: 89
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-05-12 08:32:03.473888
+------------------------------------------------------
+Started: 2025-05-12 10:26:28.374581
+Existing_entries: 89
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Global Financial Markets Rebound As FTSE Mondo Visione Index Hits Record High In April](http://www.mondovisione.com/media-and-resources/news/global-financial-markets-rebound-as-ftse-mondo-visione-index-hits-record-high-in-2025512/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Dubai Welcomes USD 500 Million Green Sukuk Listing By OMNIYAT](http://www.mondovisione.com/media-and-resources/news/nasdaq-dubai-welcomes-usd-500-million-green-sukuk-listing-by-omniyat-2025512/)
+append_entries: 2
+Finish: 2025-05-12 10:26:30.132889
