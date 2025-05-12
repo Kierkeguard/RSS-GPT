@@ -687,3 +687,18 @@ Append: [Fiserv To Present At Upcoming Investor Conferences](http://www.mondovis
 Append: [US Federal Agencies Issue Host State Loan-To-Deposit Ratios](http://www.mondovisione.com/media-and-resources/news/us-federal-agencies-issue-host-state-loan-to-deposit-ratios-2025512/)
 append_entries: 8
 Finish: 2025-05-12 18:32:38.438563
+------------------------------------------------------
+Started: 2025-05-12 20:26:09.813514
+Existing_entries: 107
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Swaps Report Update](http://www.mondovisione.com/media-and-resources/news/cftc-swaps-report-update-2025512/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tokenization: Our Field Of Dreams? Remarks At The Crypto Task Force Roundtable On Tokenization, CFTC Commissioner Caroline A. Crenshaw, Washington D.C., May 12, 2025](http://www.mondovisione.com/media-and-resources/news/tokenization-our-field-of-dreams-remarks-at-the-crypto-task-force-roundtable-o-2025512/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Getting Smart – Tokenization And The Creation Of Networks For Smart Assets: Opening Remarks For Tokenization Roundtable, SEC Commissioner Hester M. Peirce, Washington D.C., May 12, 2025](http://www.mondovisione.com/media-and-resources/news/getting-smart-tokenization-and-the-creation-of-networks-for-smart-assets-open-2025512/)
+append_entries: 3
+Finish: 2025-05-12 20:26:11.057748
