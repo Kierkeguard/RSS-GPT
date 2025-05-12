@@ -702,3 +702,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Getting Smart – Tokenization And The Creation Of Networks For Smart Assets: Opening Remarks For Tokenization Roundtable, SEC Commissioner Hester M. Peirce, Washington D.C., May 12, 2025](http://www.mondovisione.com/media-and-resources/news/getting-smart-tokenization-and-the-creation-of-networks-for-smart-assets-open-2025512/)
 append_entries: 3
 Finish: 2025-05-12 20:26:11.057748
+------------------------------------------------------
+Started: 2025-05-12 22:22:34.816528
+Existing_entries: 110
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-05-12 22:22:36.030573
