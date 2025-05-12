@@ -621,3 +621,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Nasdaq Dubai Welcomes USD 500 Million Green Sukuk Listing By OMNIYAT](http://www.mondovisione.com/media-and-resources/news/nasdaq-dubai-welcomes-usd-500-million-green-sukuk-listing-by-omniyat-2025512/)
 append_entries: 2
 Finish: 2025-05-12 10:26:30.132889
+------------------------------------------------------
+Started: 2025-05-12 12:49:41.364967
+Existing_entries: 91
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-05-12 12:49:42.526326
