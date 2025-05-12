@@ -594,3 +594,12 @@ Existing_entries: 88
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-05-12 04:28:31.072167
+------------------------------------------------------
+Started: 2025-05-12 06:34:24.673498
+Existing_entries: 88
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Reminds Small Business Directors Of Their Obligations To Manage Company Money And Assets Appropriately](http://www.mondovisione.com/media-and-resources/news/asic-reminds-small-business-directors-of-their-obligations-to-manage-company-mon-2025512/)
+append_entries: 1
+Finish: 2025-05-12 06:34:25.616900
