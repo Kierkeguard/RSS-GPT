@@ -772,3 +772,12 @@ Append: [BNP Paribas Appointed By Schroders As Asset Servicing Partner For Two U
 Append: [London Stock Exchange Group PLC Transactions In Own Securities](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-transactions-in-own-securities-2025513/)
 append_entries: 6
 Finish: 2025-05-13 10:26:16.191936
+------------------------------------------------------
+Started: 2025-05-13 12:50:08.560823
+Existing_entries: 120
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Trading Technologies' TT® Strategy Studio Introduced Broadly To Meet Algorithmic Trading Needs Of Sophisticated Professional Trading Firms, Hedge Funds - Comprehensive Offering Includes Framework For Developing, Testing And Deploying Multi-Asset Automated Trading Strategies While Protecting Clients' IP](http://www.mondovisione.com/media-and-resources/news/trading-technologies-tt-strategy-studio-introduced-broadly-to-meet-algorithmic-2025513/)
+append_entries: 1
+Finish: 2025-05-13 12:50:09.565055
