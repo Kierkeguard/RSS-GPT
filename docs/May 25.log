@@ -750,3 +750,25 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Taiwan Futures Exchange Newsletter - May 2025](http://www.mondovisione.com/media-and-resources/news/taiwan-futures-exchange-newsletter-may-2025-2025513/)
 append_entries: 4
 Finish: 2025-05-13 08:32:00.160231
+------------------------------------------------------
+Started: 2025-05-13 10:26:11.589616
+Existing_entries: 114
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New WFE Research Discovers Climate Risk Premium In Commodity Options](http://www.mondovisione.com/media-and-resources/news/new-wfe-research-discovers-climate-risk-premium-in-commodity-options-2025513/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LCH DigitalAssetClear Now Live](http://www.mondovisione.com/media-and-resources/news/lch-digitalassetclear-now-live-2025513/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Trustly Selects Sabre Direct Pay To Expand Its Pay-By-Bank Solution Within The Travel Industry - This Partnership Enables Trustly To Significantly Expand Its Footprint In The Travel Industry By Integrating With One Of The Sector’s Most Established Technology Platforms.](http://www.mondovisione.com/media-and-resources/news/trustly-selects-sabre-direct-pay-to-expand-its-pay-by-bank-solution-within-the-t-2025513/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Timefolio Asset Management Launches TIMEFOLIO CHINA AI Tech Active ETF Benchmarked Against The Solactive China Artificial Intelligence Index](http://www.mondovisione.com/media-and-resources/news/timefolio-asset-management-launches-timefolio-china-ai-tech-active-etf-benchmark-2025513/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BNP Paribas Appointed By Schroders As Asset Servicing Partner For Two UK QAHC Fund Structure Launches](http://www.mondovisione.com/media-and-resources/news/bnp-paribas-appointed-by-schroders-as-asset-servicing-partner-for-two-uk-qahc-fu-2025513/)
+Append: [London Stock Exchange Group PLC Transactions In Own Securities](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-transactions-in-own-securities-2025513/)
+append_entries: 6
+Finish: 2025-05-13 10:26:16.191936
