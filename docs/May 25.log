@@ -811,3 +811,28 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Amman Stock Exchange: A Public Holiday To Celebrate Independence Day](http://www.mondovisione.com/media-and-resources/news/amman-stock-exchange-a-public-holiday-to-celebrate-independence-day-2025513/)
 append_entries: 5
 Finish: 2025-05-13 16:30:21.256358
+------------------------------------------------------
+Started: 2025-05-13 18:31:45.249051
+Existing_entries: 127
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC’s Energy And Environmental Markets Advisory Committee To Meet May 28](http://www.mondovisione.com/media-and-resources/news/cftcs-energy-and-environmental-markets-advisory-committee-to-meet-may-28-2025513/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nadex Self-Certifies Contingent Derivatives Contract (Japan 225)](http://www.mondovisione.com/media-and-resources/news/nadex-self-certifies-contingent-derivatives-contract-japan-225-2025513/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ISDA Annual General Meeting, A Period Of Change: Derivatives In The Pensions Sector, May 13, 2025, Welcoming Remarks, Scott O’Malia, ISDA CEO](http://www.mondovisione.com/media-and-resources/news/isda-annual-general-meeting-a-period-of-change-derivatives-in-the-pensions-sec-2025513/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euronext Completes The Acquisition Of Admincontrol](http://www.mondovisione.com/media-and-resources/news/euronext-completes-the-acquisition-of-admincontrol-2025513/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nadex Self-Certifies Contingent Derivatives Contract (Silver)](http://www.mondovisione.com/media-and-resources/news/nadex-self-certifies-contingent-derivatives-contract-silver-2025513/)
+Append: [Data Governance To Set Us Free − Speech By James Benford, Bank Of England Executive Director For Data And Analytics Transformation And Chief Data Officer, Given At The Gartner Data & Analytics Summit](http://www.mondovisione.com/media-and-resources/news/data-governance-to-set-us-free-speech-by-james-benford-bank-of-england-execut-2025513/)
+Append: [Nadex Self-Certifies Contingent Derivatives Contract (Natural Gas)](http://www.mondovisione.com/media-and-resources/news/nadex-self-certifies-contingent-derivatives-contract-natural-gas-2025513/)
+Append: [ISDA Extends Digital Regulatory Reporting To Support Revised Canadian Reporting Rules](http://www.mondovisione.com/media-and-resources/news/isda-extends-digital-regulatory-reporting-to-support-revised-canadian-reporting-2025513/)
+Append: [Fincom Announces Series B Financing Led By Nasdaq Ventures With Participation From Macquarie Group And G1 Ventures](http://www.mondovisione.com/media-and-resources/news/fincom-announces-series-b-financing-led-by-nasdaq-ventures-with-participation-fr-2025513/)
+append_entries: 9
+Finish: 2025-05-13 18:31:46.488120
