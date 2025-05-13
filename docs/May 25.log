@@ -781,3 +781,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Trading Technologies' TT® Strategy Studio Introduced Broadly To Meet Algorithmic Trading Needs Of Sophisticated Professional Trading Firms, Hedge Funds - Comprehensive Offering Includes Framework For Developing, Testing And Deploying Multi-Asset Automated Trading Strategies While Protecting Clients' IP](http://www.mondovisione.com/media-and-resources/news/trading-technologies-tt-strategy-studio-introduced-broadly-to-meet-algorithmic-2025513/)
 append_entries: 1
 Finish: 2025-05-13 12:50:09.565055
+------------------------------------------------------
+Started: 2025-05-13 14:24:21.073436
+Existing_entries: 121
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Toronto Stock Exchange, TSX Venture Exchange, TSX Alpha Exchange And Montréal Exchange Closed For Victoria Day](http://www.mondovisione.com/media-and-resources/news/toronto-stock-exchange-tsx-venture-exchange-tsx-alpha-exchange-and-montral-ex-2025513/)
+append_entries: 1
+Finish: 2025-05-13 14:24:21.850663
