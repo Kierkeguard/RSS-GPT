@@ -845,3 +845,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Vienna Stock Exchange Award 2025: Erste Group Shines With Double Win In ATX And Media Relations Categories](http://www.mondovisione.com/media-and-resources/news/vienna-stock-exchange-award-2025-erste-group-shines-with-double-win-in-atx-and-2025513/)
 append_entries: 1
 Finish: 2025-05-13 20:26:03.761831
+------------------------------------------------------
+Started: 2025-05-13 22:23:03.222299
+Existing_entries: 137
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-05-13 22:23:04.720061
