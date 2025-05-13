@@ -790,3 +790,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Toronto Stock Exchange, TSX Venture Exchange, TSX Alpha Exchange And Montréal Exchange Closed For Victoria Day](http://www.mondovisione.com/media-and-resources/news/toronto-stock-exchange-tsx-venture-exchange-tsx-alpha-exchange-and-montral-ex-2025513/)
 append_entries: 1
 Finish: 2025-05-13 14:24:21.850663
+------------------------------------------------------
+Started: 2025-05-13 16:30:20.022663
+Existing_entries: 122
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tokenization Of Real-World Assets, SEC Commissioner Mark T. Uyeda, Washington D.C., May 12, 2025](http://www.mondovisione.com/media-and-resources/news/tokenization-of-real-world-assets-sec-commissioner-mark-t-uyeda-washington-d-2025513/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nigeria SSAP On Entrepreneurship Development Commends Legend Internet Plc’s Milestone Listing, Reaffirms Government Support For Digital Innovation](http://www.mondovisione.com/media-and-resources/news/nigeria-ssap-on-entrepreneurship-development-commends-legend-internet-plcs-mile-2025513/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [DIFC Launches ‘1 Million Learners’ Initiative To Advance Sustainability Education In The Region](http://www.mondovisione.com/media-and-resources/news/difc-launches-1-million-learners-initiative-to-advance-sustainability-educatio-2025513/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Moro Hub And DIFC Forge Strategic Partnership To Accelerate Digital Transformation - The Strategic Partnership Aims To Explore Opportunities For Offering Advanced Services To The DIFC Authority And Its Clients](http://www.mondovisione.com/media-and-resources/news/moro-hub-and-difc-forge-strategic-partnership-to-accelerate-digital-transformati-2025513/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Amman Stock Exchange: A Public Holiday To Celebrate Independence Day](http://www.mondovisione.com/media-and-resources/news/amman-stock-exchange-a-public-holiday-to-celebrate-independence-day-2025513/)
+append_entries: 5
+Finish: 2025-05-13 16:30:21.256358
