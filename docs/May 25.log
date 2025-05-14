@@ -914,3 +914,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [A System-Wide Approach To System-Wide Resilience: Ccps And Their Users − Speech By Sarah Breeden, Bank Of England, Deputy Governor, Financial Stability  Given At ISDA Annual General Meeting, Amsterdam](http://www.mondovisione.com/media-and-resources/news/a-system-wide-approach-to-system-wide-resilience-ccps-and-their-users-speech-2025514/)
 append_entries: 5
 Finish: 2025-05-14 08:31:14.155384
+------------------------------------------------------
+Started: 2025-05-14 10:25:27.324168
+Existing_entries: 148
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-05-14 10:25:29.895019
