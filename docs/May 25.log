@@ -1020,3 +1020,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CFTC Warns Public Of Imposter Scam Targeting Fraud Victims](http://www.mondovisione.com/media-and-resources/news/cftc-warns-public-of-imposter-scam-targeting-fraud-victims-2025514/)
 append_entries: 2
 Finish: 2025-05-14 20:21:33.587880
+------------------------------------------------------
+Started: 2025-05-14 22:18:53.685092
+Existing_entries: 174
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Intercontinental Exchange Chair & CEO Jeffrey C. Sprecher To Present At The Bernstein 41st Annual Strategic Decisions Conference On May 28](http://www.mondovisione.com/media-and-resources/news/intercontinental-exchange-chair-and-ceo-jeffrey-c-sprecher-to-present-at-the-bern-2025514/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Announces 2025 Annual Meeting Of Shareholders](http://www.mondovisione.com/media-and-resources/news/nasdaq-announces-2025-annual-meeting-of-shareholders-2025514/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Statement On Certain Form N-PORT Data, SEC Office Of Public Affairs](http://www.mondovisione.com/media-and-resources/news/statement-on-certain-form-n-port-data-sec-office-of-public-affairs-2025514/)
+append_entries: 3
+Finish: 2025-05-14 22:18:54.843213
