@@ -893,3 +893,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SET Market Report For April 2025](http://www.mondovisione.com/media-and-resources/news/set-market-report-for-april-2025-2025514/)
 append_entries: 2
 Finish: 2025-05-14 06:33:29.767951
+------------------------------------------------------
+Started: 2025-05-14 08:31:10.875008
+Existing_entries: 143
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Pfisterer Holding SE Joins The Scale Segment Of The Frankfurt Stock Exchange](http://www.mondovisione.com/media-and-resources/news/pfisterer-holding-se-joins-the-scale-segment-of-the-frankfurt-stock-exchange-2025514/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Traditional Carbon Models Overestimate Scope 3 Emissions By Up To 2,480%, Study Finds - AI-Powered Platform Delivers 30x More Accurate Measurements](http://www.mondovisione.com/media-and-resources/news/traditional-carbon-models-overestimate-scope-3-emissions-by-up-to-2480-study-2025514/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Meritz Securities, Partnering With Solactive For The First Time, Launches A Series Of ETNs, Tracking Solactive WTI Leverage Indices](http://www.mondovisione.com/media-and-resources/news/meritz-securities-partnering-with-solactive-for-the-first-time-launches-a-seri-2025514/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euroclear Reports Strong Business Income Growth In Q1 2025](http://www.mondovisione.com/media-and-resources/news/euroclear-reports-strong-business-income-growth-in-q1-2025-2025514/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [A System-Wide Approach To System-Wide Resilience: Ccps And Their Users − Speech By Sarah Breeden, Bank Of England, Deputy Governor, Financial Stability  Given At ISDA Annual General Meeting, Amsterdam](http://www.mondovisione.com/media-and-resources/news/a-system-wide-approach-to-system-wide-resilience-ccps-and-their-users-speech-2025514/)
+append_entries: 5
+Finish: 2025-05-14 08:31:14.155384
