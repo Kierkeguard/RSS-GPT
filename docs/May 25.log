@@ -1008,3 +1008,15 @@ Append: [Canadian Securities Administrators Expands Capital-Raising Options For 
 Append: [Finansinspektionen: Swedbank Receives An Administrative Fine](http://www.mondovisione.com/media-and-resources/news/finansinspektionen-swedbank-receives-an-administrative-fine-2025514/)
 append_entries: 8
 Finish: 2025-05-14 18:30:35.258973
+------------------------------------------------------
+Started: 2025-05-14 20:21:32.590548
+Existing_entries: 172
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Commissioner Johnson To Speak At The 39th ISDA AGM](http://www.mondovisione.com/media-and-resources/news/cftc-commissioner-johnson-to-speak-at-the-39th-isda-agm-2025514/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Warns Public Of Imposter Scam Targeting Fraud Victims](http://www.mondovisione.com/media-and-resources/news/cftc-warns-public-of-imposter-scam-targeting-fraud-victims-2025514/)
+append_entries: 2
+Finish: 2025-05-14 20:21:33.587880
