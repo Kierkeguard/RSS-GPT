@@ -881,3 +881,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Acting CFTC Chairman Pham Statement On Court Sanctions Against CFTC](http://www.mondovisione.com/media-and-resources/news/acting-cftc-chairman-pham-statement-on-court-sanctions-against-cftc-2025514/)
 append_entries: 4
 Finish: 2025-05-14 04:28:09.011961
+------------------------------------------------------
+Started: 2025-05-14 06:33:25.970574
+Existing_entries: 141
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group PLC Transactions In Own Securities](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-transactions-in-own-securities-2025514/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SET Market Report For April 2025](http://www.mondovisione.com/media-and-resources/news/set-market-report-for-april-2025-2025514/)
+append_entries: 2
+Finish: 2025-05-14 06:33:29.767951
