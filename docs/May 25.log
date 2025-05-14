@@ -920,3 +920,25 @@ Existing_entries: 148
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-05-14 10:25:29.895019
+------------------------------------------------------
+Started: 2025-05-14 12:48:31.436382
+Existing_entries: 148
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SET Seeks Public Consultation On Revised Board Lot Requirements And Floor Price Adjustment For New Listings Until June 13, 2025](http://www.mondovisione.com/media-and-resources/news/set-seeks-public-consultation-on-revised-board-lot-requirements-and-floor-price-2025514/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Confiscates Over £300,000 From Convicted Fraudsters](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-confiscates-over-300000-from-convicted-fraudste-2025514/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Ebury Becomes Certified Xero App Partner To Drive Further Automation For Businesses](http://www.mondovisione.com/media-and-resources/news/ebury-becomes-certified-xero-app-partner-to-drive-further-automation-for-busines-2025514/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Role Of Economic Research In Central Banking, Federal Reserve Governor Christopher J. Waller, At The Award Ceremony For The Winners Of The Bank Al-Maghrib Prize For Economic And Financial Research, Bank Of Al-Maghrib, Rabat, Morocco](http://www.mondovisione.com/media-and-resources/news/the-role-of-economic-research-in-central-banking-federal-reserve-governor-chris-2025514/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Securities Commission Malaysia  Signs IOSCO’s Enhanced Multilateral MOU For Greater CrossBorder Assistance On Enforcement Matters](http://www.mondovisione.com/media-and-resources/news/securities-commission-malaysia-signs-ioscos-enhanced-multilateral-mou-for-grea-2025514/)
+Append: [Broadridge Announces New Patent On Large Language Model Orchestration Of Machine Learning Agents](http://www.mondovisione.com/media-and-resources/news/broadridge-announces-new-patent-on-large-language-model-orchestration-of-machine-2025514/)
+append_entries: 6
+Finish: 2025-05-14 12:48:32.436176
