@@ -984,3 +984,27 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ETFGI Reports The ETFs Industry In The US Has Gathered A Record US$360.89 Billion Of Net Inflows In The First 4 Months Of 2025](http://www.mondovisione.com/media-and-resources/news/etfgi-reports-the-etfs-industry-in-the-us-has-gathered-a-record-us36089-billio-2025514/)
 append_entries: 5
 Finish: 2025-05-14 16:29:58.994450
+------------------------------------------------------
+Started: 2025-05-14 18:30:34.206450
+Existing_entries: 164
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TMX Group Consolidated Trading Statistics - April 2025](http://www.mondovisione.com/media-and-resources/news/tmx-group-consolidated-trading-statistics-april-2025-2025514/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ISDA AGM Studio: Scott O’Malia And Jens Larsen, Eurasia Group](http://www.mondovisione.com/media-and-resources/news/isda-agm-studio-scott-omalia-and-jens-larsen-eurasia-group-2025514/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ISDA AGM Studio: Event Preview With ISDA CEO Scott O’Malia And ISDA Chairman Jeroen Krens](http://www.mondovisione.com/media-and-resources/news/isda-agm-studio-event-preview-with-isda-ceo-scott-omalia-and-isda-chairman-jer-2025514/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIX Announces Successful CHF 250 Million Digital Bond Issuance](http://www.mondovisione.com/media-and-resources/news/six-announces-successful-chf-250-million-digital-bond-issuance-2025514/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Ontario Securities Commission And The Securities And Futures Commission Of Hong Kong Expand Partnership On Cross-Border Supervision And Market Access](http://www.mondovisione.com/media-and-resources/news/ontario-securities-commission-and-the-securities-and-futures-commission-of-hong-2025514/)
+Append: [CFTC’s Energy And Environmental Markets Advisory Committee To Meet May 28](http://www.mondovisione.com/media-and-resources/news/cftcs-energy-and-environmental-markets-advisory-committee-to-meet-may-28-2025514/)
+Append: [Canadian Securities Administrators Expands Capital-Raising Options For Listed Issuers](http://www.mondovisione.com/media-and-resources/news/canadian-securities-administrators-expands-capital-raising-options-for-listed-is-2025514/)
+Append: [Finansinspektionen: Swedbank Receives An Administrative Fine](http://www.mondovisione.com/media-and-resources/news/finansinspektionen-swedbank-receives-an-administrative-fine-2025514/)
+append_entries: 8
+Finish: 2025-05-14 18:30:35.258973
