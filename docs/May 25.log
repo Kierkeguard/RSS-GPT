@@ -863,3 +863,21 @@ Existing_entries: 137
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-05-14 03:12:48.622545
+------------------------------------------------------
+Started: 2025-05-14 04:28:08.001598
+Existing_entries: 137
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Sues Macquarie Securities For Repeated And Systemic Misleading Conduct](http://www.mondovisione.com/media-and-resources/news/asic-sues-macquarie-securities-for-repeated-and-systemic-misleading-conduct-2025514/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Strips Back Insurance Rulebook](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-strips-back-insurance-rulebook-2025514/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cboe Expands Data Vantage Sales Team To Strengthen Asia Pacific Presence](http://www.mondovisione.com/media-and-resources/news/cboe-expands-data-vantage-sales-team-to-strengthen-asia-pacific-presence-2025514/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Acting CFTC Chairman Pham Statement On Court Sanctions Against CFTC](http://www.mondovisione.com/media-and-resources/news/acting-cftc-chairman-pham-statement-on-court-sanctions-against-cftc-2025514/)
+append_entries: 4
+Finish: 2025-05-14 04:28:09.011961
