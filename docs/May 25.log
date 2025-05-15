@@ -1053,3 +1053,25 @@ Existing_entries: 177
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-05-15 04:28:03.698230
+------------------------------------------------------
+Started: 2025-05-15 06:33:54.898992
+Existing_entries: 177
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Changes To The Executive Board Of SIX](http://www.mondovisione.com/media-and-resources/news/changes-to-the-executive-board-of-six-2025515/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Hong Kong Securities and Futures Commission  And UAE ADGM’s Financial Services Regulatory Authority Enhances Regulatory Cooperation On Supervision Of Cross-Border Investment Management Activity](http://www.mondovisione.com/media-and-resources/news/hong-kong-securities-and-futures-commission-and-uae-adgms-financial-services-r-2025515/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Proposes To Remake Three Financial Advice-Related Legislative Instruments](http://www.mondovisione.com/media-and-resources/news/asic-proposes-to-remake-three-financial-advice-related-legislative-instruments-2025515/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Regulation S-P – Back To The Future, Keith Cassidy, Acting Director, SEC Division Of Examinations, Washington D.C., May 14, 2025](http://www.mondovisione.com/media-and-resources/news/regulation-s-p-back-to-the-future-keith-cassidy-acting-director-sec-divisio-2025515/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Canadian Investment Regulatory Organization Launches Thought Leadership Webinar Series To Address Evolving Financial Landscape](http://www.mondovisione.com/media-and-resources/news/canadian-investment-regulatory-organization-launches-thought-leadership-webinar-2025515/)
+Append: [Nasdaq Applauds Signing Of Senate Bill 29, Strengthening Texas’ Standing As A National Leader In Corporate Governance And Innovation](http://www.mondovisione.com/media-and-resources/news/nasdaq-applauds-signing-of-senate-bill-29-strengthening-texas-standing-as-a-na-2025515/)
+append_entries: 6
+Finish: 2025-05-15 06:33:56.087706
