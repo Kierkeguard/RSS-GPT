@@ -1111,3 +1111,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Ho Chi Minh Stock Exchange Launches New Trading System With Integrated CSD Solution From CMA](http://www.mondovisione.com/media-and-resources/news/ho-chi-minh-stock-exchange-launches-new-trading-system-with-integrated-csd-solut-2025515/)
 append_entries: 3
 Finish: 2025-05-15 10:26:27.451182
+------------------------------------------------------
+Started: 2025-05-15 12:48:29.567543
+Existing_entries: 191
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SGX RegCo Consults On Measures In Line With A More Disclosure-Based Regime](http://www.mondovisione.com/media-and-resources/news/sgx-regco-consults-on-measures-in-line-with-a-more-disclosure-based-regime-2025515/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UOB Malaysia And Bursa Malaysia Collaborate To Support SMEs On Decarbonisation Journey](http://www.mondovisione.com/media-and-resources/news/uob-malaysia-and-bursa-malaysia-collaborate-to-support-smes-on-decarbonisation-j-2025515/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Government Goes Further And Faster To Boost Capital Markets By Delivering PISCES - Capital Markets Are Set To Be Boosted, As Part Of This Government's Plan For Change](http://www.mondovisione.com/media-and-resources/news/uk-government-goes-further-and-faster-to-boost-capital-markets-by-delivering-pis-2025515/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TheCityUK: Key Facts About UK-Based Financial And Related Professional Services 2025](http://www.mondovisione.com/media-and-resources/news/thecityuk-key-facts-about-uk-based-financial-and-related-professional-services-2025515/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Capital.Com Reports $656 Billion In Client Trading Volumes In Q1 2025 - Staff Numbers Surpass 1,000 As The Company Grows Its Bench Strength Across Tech And Engineering Teams](http://www.mondovisione.com/media-and-resources/news/capitalcom-reports-656-billion-in-client-trading-volumes-in-q1-2025-staff-nu-2025515/)
+append_entries: 5
+Finish: 2025-05-15 12:48:30.589118
