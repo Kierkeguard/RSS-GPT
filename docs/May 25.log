@@ -1144,3 +1144,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Opening Remarks By Federal Reserve Board Chair, Jerome H. Powell, At The Second Thomas Laubach Research Conference](http://www.mondovisione.com/media-and-resources/news/opening-remarks-by-federal-reserve-board-chair-jerome-h-powell-at-the-second-2025515/)
 append_entries: 2
 Finish: 2025-05-15 14:24:10.757614
+------------------------------------------------------
+Started: 2025-05-15 16:30:19.594937
+Existing_entries: 198
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Amman Stock Exchange Weekly Summary](http://www.mondovisione.com/media-and-resources/news/amman-stock-exchange-weekly-summary-2025515/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CICC Expands Its Global Footprint With Official Launch Of DIFC Branch](http://www.mondovisione.com/media-and-resources/news/cicc-expands-its-global-footprint-with-official-launch-of-difc-branch-2025515/)
+append_entries: 2
+Finish: 2025-05-15 16:30:21.063373
