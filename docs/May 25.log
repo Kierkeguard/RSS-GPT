@@ -1035,3 +1035,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Statement On Certain Form N-PORT Data, SEC Office Of Public Affairs](http://www.mondovisione.com/media-and-resources/news/statement-on-certain-form-n-port-data-sec-office-of-public-affairs-2025514/)
 append_entries: 3
 Finish: 2025-05-14 22:18:54.843213
+------------------------------------------------------
+Started: 2025-05-15 01:52:15.240655
+Existing_entries: 177
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-05-15 01:52:16.329418
