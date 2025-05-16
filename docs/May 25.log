@@ -1347,3 +1347,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [MIAX Exchange Group - Options Markets - New Listings Effective For May 19, 2025](http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-options-markets-new-listings-effective-for-may-19-2025-2025516/)
 append_entries: 5
 Finish: 2025-05-16 20:25:32.877178
+------------------------------------------------------
+Started: 2025-05-16 22:21:50.507945
+Existing_entries: 239
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Horses And Bourses: Remarks At The 12th Annual Conference On Financial Market Regulation, SEC Commissioner Hester M. Peirce, Washington D.C., May 16, 2025](http://www.mondovisione.com/media-and-resources/news/horses-and-bourses-remarks-at-the-12th-annual-conference-on-financial-market-re-2025516/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Treasury International Capital Data For March](http://www.mondovisione.com/media-and-resources/news/treasury-international-capital-data-for-march-2025516/)
+append_entries: 2
+Finish: 2025-05-16 22:21:51.568594
