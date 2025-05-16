@@ -1225,3 +1225,21 @@ Existing_entries: 213
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-05-16 04:28:53.966969
+------------------------------------------------------
+Started: 2025-05-16 06:33:50.794355
+Existing_entries: 213
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Montréal Exchange  Interest Rate Derivative Trading Ceases At 13:30 Today, May 16, 2025 - Exchange's Markets Closed On May 19, 2025](http://www.mondovisione.com/media-and-resources/news/montral-exchange-interest-rate-derivative-trading-ceases-at-1330-today-may-1-2025516/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [100 Days: Keynote Address By Acting CFTC Chairman Caroline D. Pham, 39th ISDA Annual General Meeting](http://www.mondovisione.com/media-and-resources/news/100-days-keynote-address-by-acting-cftc-chairman-caroline-d-pham-39th-isda-an-2025516/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Remarks Of SEC Commissioner Mark T. Uyeda, 2025 Conference On Financial Market Regulation, Washington D.C., May 15, 2025](http://www.mondovisione.com/media-and-resources/news/remarks-of-sec-commissioner-mark-t-uyeda-2025-conference-on-financial-market-r-2025516/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [An Incremental Step Along The Journey: The Division Of Trading Markets’ Frequently Asked Questions Relating To Crypto Asset Activities And Distributed Ledger Technologies, SEC Commissioner Hester M. Peirce, May 15, 2025](http://www.mondovisione.com/media-and-resources/news/an-incremental-step-along-the-journey-the-division-of-trading-markets-frequent-2025516/)
+append_entries: 4
+Finish: 2025-05-16 06:33:51.666039
