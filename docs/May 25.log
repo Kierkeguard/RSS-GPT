@@ -1291,3 +1291,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [INFINOX Welcomes Aditya Singh As Head Of Product And Strategy](http://www.mondovisione.com/media-and-resources/news/infinox-welcomes-aditya-singh-as-head-of-product-and-strategy-2025516/)
 append_entries: 3
 Finish: 2025-05-16 14:22:27.721979
+------------------------------------------------------
+Started: 2025-05-16 16:29:07.266444
+Existing_entries: 225
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Statement On The Upcoming Executive Compensation Roundtable, Paul S. Atkins, SEC Chairman, May 16, 2025](http://www.mondovisione.com/media-and-resources/news/statement-on-the-upcoming-executive-compensation-roundtable-paul-s-atkins-sec-2025516/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Remarks At The 12th Annual Conference On Financial Market Regulation, Paul S. Atkins, SEC Chairman, Washington D.C., May 16, 2025](http://www.mondovisione.com/media-and-resources/news/remarks-at-the-12th-annual-conference-on-financial-market-regulation-paul-s-at-2025516/)
+append_entries: 2
+Finish: 2025-05-16 16:29:08.141755
