@@ -1249,3 +1249,24 @@ Existing_entries: 217
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-05-16 08:31:10.506640
+------------------------------------------------------
+Started: 2025-05-16 10:25:20.748115
+Existing_entries: 217
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX Enhances Product Offering With CATL Debut](http://www.mondovisione.com/media-and-resources/news/hkex-enhances-product-offering-with-catl-debut-2025516/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER Monitoring Shows Most Infrastructure Projects On Time, Yet Commissioning Timelines Are Ambitious](http://www.mondovisione.com/media-and-resources/news/acer-monitoring-shows-most-infrastructure-projects-on-time-yet-commissioning-ti-2025516/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [PNGX Group Appoints Samson Korawali To Board Of Directors](http://www.mondovisione.com/media-and-resources/news/pngx-group-appoints-samson-korawali-to-board-of-directors-2025516/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [More People Have Bank Accounts But One In Ten Have No Cash Savings, UK Financial Conduct Authority Survey Reveals](http://www.mondovisione.com/media-and-resources/news/more-people-have-bank-accounts-but-one-in-ten-have-no-cash-savings-uk-financial-2025516/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Canadian Investment Regulatory Organization Supports The Government Of Ontario For Expansion Of Enforcement Powers - If Passed, Ontario Joins Six Other Provinces To Give CIRO Full Enforcement Powers](http://www.mondovisione.com/media-and-resources/news/canadian-investment-regulatory-organization-supports-the-government-of-ontario-f-2025516/)
+append_entries: 5
+Finish: 2025-05-16 10:25:21.776780
