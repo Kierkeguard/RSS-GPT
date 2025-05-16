@@ -1276,3 +1276,18 @@ Existing_entries: 222
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-05-16 12:48:09.614426
+------------------------------------------------------
+Started: 2025-05-16 14:22:26.817323
+Existing_entries: 222
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER’s Latest REMIT Quarterly Is Out](http://www.mondovisione.com/media-and-resources/news/acers-latest-remit-quarterly-is-out-2025516/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Malawi Stock Exchange Weekly Summary Report 16 May 2025](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-16-may-2025-2025516/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [INFINOX Welcomes Aditya Singh As Head Of Product And Strategy](http://www.mondovisione.com/media-and-resources/news/infinox-welcomes-aditya-singh-as-head-of-product-and-strategy-2025516/)
+append_entries: 3
+Finish: 2025-05-16 14:22:27.721979
