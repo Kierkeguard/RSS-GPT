@@ -1392,3 +1392,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Nadex Temporarily Amends Binary Contracts Strike Width](http://www.mondovisione.com/media-and-resources/news/nadex-temporarily-amends-binary-contracts-strike-width-2025517/)
 append_entries: 3
 Finish: 2025-05-17 06:30:32.714306
+------------------------------------------------------
+Started: 2025-05-17 08:27:17.947724
+Existing_entries: 244
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-05-17 08:27:19.095905
