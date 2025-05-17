@@ -1359,3 +1359,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Treasury International Capital Data For March](http://www.mondovisione.com/media-and-resources/news/treasury-international-capital-data-for-march-2025516/)
 append_entries: 2
 Finish: 2025-05-16 22:21:51.568594
+------------------------------------------------------
+Started: 2025-05-17 01:51:44.116959
+Existing_entries: 241
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-05-17 01:51:45.800532
