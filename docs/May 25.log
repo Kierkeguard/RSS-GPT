@@ -1377,3 +1377,18 @@ Existing_entries: 241
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-05-17 04:26:47.376341
+------------------------------------------------------
+Started: 2025-05-17 06:30:31.714227
+Existing_entries: 241
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Coinbase Partners With Webull Pay To Power Crypto Experience](http://www.mondovisione.com/media-and-resources/news/coinbase-partners-with-webull-pay-to-power-crypto-experience-2025517/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CalPERS Announces Candidates For Fall 2025 Board Election](http://www.mondovisione.com/media-and-resources/news/calpers-announces-candidates-for-fall-2025-board-election-2025517/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nadex Temporarily Amends Binary Contracts Strike Width](http://www.mondovisione.com/media-and-resources/news/nadex-temporarily-amends-binary-contracts-strike-width-2025517/)
+append_entries: 3
+Finish: 2025-05-17 06:30:32.714306
