@@ -1473,3 +1473,12 @@ Existing_entries: 245
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-05-18 10:22:42.634378
+------------------------------------------------------
+Started: 2025-05-18 12:42:25.618912
+Existing_entries: 245
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [IRISL At Tehran Securities Exchange Bell-Ringing Ceremony](http://www.mondovisione.com/media-and-resources/news/irisl-at-tehran-securities-exchange-bell-ringing-ceremony-2025518/)
+append_entries: 1
+Finish: 2025-05-18 12:42:26.697091
