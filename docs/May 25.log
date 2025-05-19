@@ -1637,3 +1637,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CFTC Swaps Report Update](http://www.mondovisione.com/media-and-resources/news/cftc-swaps-report-update-2025519/)
 append_entries: 1
 Finish: 2025-05-19 20:25:50.920136
+------------------------------------------------------
+Started: 2025-05-19 22:22:20.951092
+Existing_entries: 269
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [A Reckless Game Of Regulatory Jenga - Remarks At “SEC Speaks”, SEC Commissioner Caroline A. Crenshaw, Washington D.C., May 19, 2025](http://www.mondovisione.com/media-and-resources/news/a-reckless-game-of-regulatory-jenga-remarks-at-sec-speaks-sec-commissioner-2025519/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Remarks At The “SEC Speaks” Conference 2025, SEC Commissioner Mark T. Uyeda, Washington D.C., May 19, 2025](http://www.mondovisione.com/media-and-resources/news/remarks-at-the-sec-speaks-conference-2025-sec-commissioner-mark-t-uyeda-was-2025519/)
+append_entries: 2
+Finish: 2025-05-19 22:22:22.000791
