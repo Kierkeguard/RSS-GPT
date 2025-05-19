@@ -1628,3 +1628,12 @@ Append: [Euronext Dublin Publishes Pre-Budget Submission To Deliver On Programme
 Append: [Montréal Exchange's Markets Closed Today, May 19, 2025.](http://www.mondovisione.com/media-and-resources/news/montral-exchanges-markets-closed-today-may-19-2025-2025519/)
 append_entries: 10
 Finish: 2025-05-19 18:33:04.191043
+------------------------------------------------------
+Started: 2025-05-19 20:25:49.990940
+Existing_entries: 268
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Swaps Report Update](http://www.mondovisione.com/media-and-resources/news/cftc-swaps-report-update-2025519/)
+append_entries: 1
+Finish: 2025-05-19 20:25:50.920136
