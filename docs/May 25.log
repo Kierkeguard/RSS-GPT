@@ -1590,3 +1590,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Central Bank Communications And Uncertainty - Remarks By Clare Lombardelli, Bank Of England Deputy Governor, Monetary Policy, Given At The Second Thomas Laubach Research Conference, Federal Reserve Board, Washington DC, USA On 16 May 2025](http://www.mondovisione.com/media-and-resources/news/central-bank-communications-and-uncertainty-remarks-by-clare-lombardelli-depu-2025519/)
 append_entries: 4
 Finish: 2025-05-19 14:23:48.998229
+------------------------------------------------------
+Started: 2025-05-19 16:29:51.522650
+Existing_entries: 256
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Dubai International Financial Centre And  International Private Equity Market Join Forces To Advance The Global Private Markets Ecosystem In Dubai](http://www.mondovisione.com/media-and-resources/news/dubai-international-financial-centre-and-international-private-equity-market-jo-2025519/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Saudi Capital Market Highlights Growth Levels, Regulatory Enhancements, And Increased Investor Appeal In Its 2024 Annual Report](http://www.mondovisione.com/media-and-resources/news/the-saudi-capital-market-highlights-growth-levels-regulatory-enhancements-and-2025519/)
+append_entries: 2
+Finish: 2025-05-19 16:29:52.815242
