@@ -1545,3 +1545,21 @@ Existing_entries: 247
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-05-19 08:33:19.282373
+------------------------------------------------------
+Started: 2025-05-19 10:26:18.708067
+Existing_entries: 247
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX Appoints Group Chief Financial Officer](http://www.mondovisione.com/media-and-resources/news/hkex-appoints-group-chief-financial-officer-2025519/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Booking.com Advances Corporate Payments With Broadridge’s Service For Swift SCORE+, Enabling Real-Time Tracking And Efficiency](http://www.mondovisione.com/media-and-resources/news/bookingcom-advances-corporate-payments-with-broadridges-service-for-swift-scor-2025519/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Finastra To Sell Treasury And Capital Markets Division To Apax Funds](http://www.mondovisione.com/media-and-resources/news/finastra-to-sell-treasury-and-capital-markets-division-to-apax-funds-2025519/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Stockholm Welcomes Alvotech To The Main Market](http://www.mondovisione.com/media-and-resources/news/nasdaq-stockholm-welcomes-alvotech-to-the-main-market-2025519/)
+append_entries: 4
+Finish: 2025-05-19 10:26:19.836838
