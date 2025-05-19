@@ -1530,3 +1530,12 @@ Existing_entries: 246
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-05-19 04:31:17.602808
+------------------------------------------------------
+Started: 2025-05-19 06:34:53.219164
+Existing_entries: 246
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Announces Financial Reporting And Audit Focus Areas For FY 2025-26](http://www.mondovisione.com/media-and-resources/news/asic-announces-financial-reporting-and-audit-focus-areas-for-fy-2025-26-2025519/)
+append_entries: 1
+Finish: 2025-05-19 06:34:54.261363
