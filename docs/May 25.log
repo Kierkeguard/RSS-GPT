@@ -1563,3 +1563,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Nasdaq Stockholm Welcomes Alvotech To The Main Market](http://www.mondovisione.com/media-and-resources/news/nasdaq-stockholm-welcomes-alvotech-to-the-main-market-2025519/)
 append_entries: 4
 Finish: 2025-05-19 10:26:19.836838
+------------------------------------------------------
+Started: 2025-05-19 12:50:21.906423
+Existing_entries: 251
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [IOSCO Publishes Final Reports On Finfluencers, Online Imitative Trading Practices And Digital Engagement Practices - Reports Represent Third Wave Of Comprehensive Retail Investor Online Safety Strategy To Address Online Fraud, Promote Safe Investing And Enhance Global Cooperation](http://www.mondovisione.com/media-and-resources/news/iosco-publishes-final-reports-on-finfluencers-online-imitative-trading-practice-2025519/)
+append_entries: 1
+Finish: 2025-05-19 12:50:22.824234
