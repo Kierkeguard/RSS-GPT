@@ -1706,3 +1706,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Worldpay Collaborates With Yabie To Power Worldpay 360: A Modern Payments Solution For UK SMBs](http://www.mondovisione.com/media-and-resources/news/worldpay-collaborates-with-yabie-to-power-worldpay-360-a-modern-payments-soluti-2025520/)
 append_entries: 3
 Finish: 2025-05-20 10:26:01.277376
+------------------------------------------------------
+Started: 2025-05-20 12:50:04.975674
+Existing_entries: 278
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Trading Technologies' TT FX Connects With EBS And FX Spot+](http://www.mondovisione.com/media-and-resources/news/trading-technologies-tt-fx-connects-with-ebs-and-fx-spot-2025520/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX: Adjustment Of BYD Company Structured Products, Futures And Options](http://www.mondovisione.com/media-and-resources/news/hkex-adjustment-of-byd-company-structured-products-futures-and-options-2025520/)
+append_entries: 2
+Finish: 2025-05-20 12:50:06.031300
