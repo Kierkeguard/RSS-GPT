@@ -1679,3 +1679,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Katherine Reilly Named SEC Acting Inspector General](http://www.mondovisione.com/media-and-resources/news/katherine-reilly-named-sec-acting-inspector-general-2025520/)
 append_entries: 2
 Finish: 2025-05-20 06:34:07.580232
+------------------------------------------------------
+Started: 2025-05-20 08:32:20.653304
+Existing_entries: 273
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Droit Integrates LSEG’s Global Shareholding Disclosure Data](http://www.mondovisione.com/media-and-resources/news/droit-integrates-lsegs-global-shareholding-disclosure-data-2025520/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SET Launches “Happy Money Content Creator” Campaign To Empower Content Creators As Financial Literacy Ambassadors](http://www.mondovisione.com/media-and-resources/news/set-launches-happy-money-content-creator-campaign-to-empower-content-creators-2025520/)
+append_entries: 2
+Finish: 2025-05-20 08:32:21.867242
