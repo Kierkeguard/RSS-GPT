@@ -1649,3 +1649,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Remarks At The “SEC Speaks” Conference 2025, SEC Commissioner Mark T. Uyeda, Washington D.C., May 19, 2025](http://www.mondovisione.com/media-and-resources/news/remarks-at-the-sec-speaks-conference-2025-sec-commissioner-mark-t-uyeda-was-2025519/)
 append_entries: 2
 Finish: 2025-05-19 22:22:22.000791
+------------------------------------------------------
+Started: 2025-05-20 01:55:54.694413
+Existing_entries: 271
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-05-20 01:55:55.741318
