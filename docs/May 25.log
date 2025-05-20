@@ -1763,3 +1763,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Updates To The UK Prudential Regulation Authority's Approach Of Responsible Openness To International Banks](http://www.mondovisione.com/media-and-resources/news/updates-to-the-uk-prudential-regulation-authoritys-approach-of-responsible-open-2025520/)
 append_entries: 5
 Finish: 2025-05-20 18:33:29.925901
+------------------------------------------------------
+Started: 2025-05-20 20:26:40.314027
+Existing_entries: 289
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Office Of The Comptroller Of The Currency Announces Deputy Comptroller For Community And Industry Relations](http://www.mondovisione.com/media-and-resources/news/us-office-of-the-comptroller-of-the-currency-announces-deputy-comptroller-for-co-2025520/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group Announces First Trades Of XRP Futures](http://www.mondovisione.com/media-and-resources/news/cme-group-announces-first-trades-of-xrp-futures-2025520/)
+append_entries: 2
+Finish: 2025-05-20 20:26:41.625972
