@@ -1691,3 +1691,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SET Launches “Happy Money Content Creator” Campaign To Empower Content Creators As Financial Literacy Ambassadors](http://www.mondovisione.com/media-and-resources/news/set-launches-happy-money-content-creator-campaign-to-empower-content-creators-2025520/)
 append_entries: 2
 Finish: 2025-05-20 08:32:21.867242
+------------------------------------------------------
+Started: 2025-05-20 10:26:00.266217
+Existing_entries: 275
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FX Market Volumes Expected To Rise, Leading To Investments In Connectivity](http://www.mondovisione.com/media-and-resources/news/fx-market-volumes-expected-to-rise-leading-to-investments-in-connectivity-2025520/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Broadridge Appoints Tina Joshi As Head Of Securities Finance, North America](http://www.mondovisione.com/media-and-resources/news/broadridge-appoints-tina-joshi-as-head-of-securities-finance-north-america-2025520/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Worldpay Collaborates With Yabie To Power Worldpay 360: A Modern Payments Solution For UK SMBs](http://www.mondovisione.com/media-and-resources/news/worldpay-collaborates-with-yabie-to-power-worldpay-360-a-modern-payments-soluti-2025520/)
+append_entries: 3
+Finish: 2025-05-20 10:26:01.277376
