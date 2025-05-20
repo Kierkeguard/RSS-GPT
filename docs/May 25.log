@@ -1667,3 +1667,15 @@ Existing_entries: 271
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-05-20 04:28:17.043803
+------------------------------------------------------
+Started: 2025-05-20 06:34:06.236574
+Existing_entries: 271
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Japan Exchange Group And FTSE Russell Announce Collaboration To Align TOPIX With FTSE Blossom Japan Index Series](http://www.mondovisione.com/media-and-resources/news/japan-exchange-group-and-ftse-russell-announce-collaboration-to-align-topix-with-2025520/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Katherine Reilly Named SEC Acting Inspector General](http://www.mondovisione.com/media-and-resources/news/katherine-reilly-named-sec-acting-inspector-general-2025520/)
+append_entries: 2
+Finish: 2025-05-20 06:34:07.580232
