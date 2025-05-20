@@ -1775,3 +1775,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CME Group Announces First Trades Of XRP Futures](http://www.mondovisione.com/media-and-resources/news/cme-group-announces-first-trades-of-xrp-futures-2025520/)
 append_entries: 2
 Finish: 2025-05-20 20:26:41.625972
+------------------------------------------------------
+Started: 2025-05-20 22:22:03.156839
+Existing_entries: 291
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-05-20 22:22:04.311685
