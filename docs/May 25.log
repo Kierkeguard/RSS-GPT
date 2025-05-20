@@ -1742,3 +1742,24 @@ Existing_entries: 284
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-05-20 16:30:04.514351
+------------------------------------------------------
+Started: 2025-05-20 18:33:28.925970
+Existing_entries: 284
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [I’ll Take “Advocating For Small Businesses And Their Investors” For $800, Please! - Remarks At SEC Speaks, Stacey Bowers, Director, SEC Office Of The Advocate For Small Business Capital Formation, Washington D.C., May 20, 2025](http://www.mondovisione.com/media-and-resources/news/ill-take-advocating-for-small-businesses-and-their-investors-for-800-please-2025520/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The EBA Publishes 2024 Report Of Its Key Achievements And Activities](http://www.mondovisione.com/media-and-resources/news/the-eba-publishes-2024-report-of-its-key-achievements-and-activities-2025520/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Testimony Before The United States House Appropriations Subcommittee On Financial Services And General Government, Paul S. Atkins, SEC Chairman, United States House Appropriations Subcommittee On Financial Services And General Government, Washington D.C., May 20, 2025](http://www.mondovisione.com/media-and-resources/news/testimony-before-the-united-states-house-appropriations-subcommittee-on-financia-2025520/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Courage Not To Act − Remarks By Huw Pill, Bank Of England, Chief Economist And Executive Director, Monetary Analysis, Remarks On The Monetary Policy Outlook At A Briefing Hosted By Barclays](http://www.mondovisione.com/media-and-resources/news/the-courage-not-to-act-remarks-by-huw-pill-bank-of-england-chief-economist-a-2025520/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Updates To The UK Prudential Regulation Authority's Approach Of Responsible Openness To International Banks](http://www.mondovisione.com/media-and-resources/news/updates-to-the-uk-prudential-regulation-authoritys-approach-of-responsible-open-2025520/)
+append_entries: 5
+Finish: 2025-05-20 18:33:29.925901
