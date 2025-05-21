@@ -1920,3 +1920,18 @@ Append: [ESMA Asks Input On The Retail Investor Journey](http://www.mondovisione
 Append: [Delays To Changes To Country Groupings For International Banking Statistics](http://www.mondovisione.com/media-and-resources/news/delays-to-changes-to-country-groupings-for-international-banking-statistics-2025521/)
 append_entries: 7
 Finish: 2025-05-21 18:33:05.980034
+------------------------------------------------------
+Started: 2025-05-21 20:25:49.353910
+Existing_entries: 322
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Statement Of CFTC Commissioner Christy Goldsmith Romero: A Commissioner’s Evaluation Of Cases & Cooperation Credit](http://www.mondovisione.com/media-and-resources/news/statement-of-cftc-commissioner-christy-goldsmith-romero-a-commissioners-evalua-2025521/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Staff Issues Interpretation Regarding Certain Cross-Border Definitions](http://www.mondovisione.com/media-and-resources/news/cftc-staff-issues-interpretation-regarding-certain-cross-border-definitions-2025521/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The EBA Observes That EU Deposit Guarantee Scheme Funds To Protect Depositors Against Bank Failures Have Reached €79bn](http://www.mondovisione.com/media-and-resources/news/the-eba-observes-that-eu-deposit-guarantee-scheme-funds-to-protect-depositors-ag-2025521/)
+append_entries: 3
+Finish: 2025-05-21 20:25:50.804691
