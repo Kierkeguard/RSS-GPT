@@ -1935,3 +1935,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [The EBA Observes That EU Deposit Guarantee Scheme Funds To Protect Depositors Against Bank Failures Have Reached €79bn](http://www.mondovisione.com/media-and-resources/news/the-eba-observes-that-eu-deposit-guarantee-scheme-funds-to-protect-depositors-ag-2025521/)
 append_entries: 3
 Finish: 2025-05-21 20:25:50.804691
+------------------------------------------------------
+Started: 2025-05-21 22:22:27.886911
+Existing_entries: 325
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-05-21 22:22:28.752909
