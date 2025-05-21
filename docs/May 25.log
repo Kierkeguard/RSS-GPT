@@ -1829,3 +1829,21 @@ Existing_entries: 299
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-05-21 08:31:16.001334
+------------------------------------------------------
+Started: 2025-05-21 10:25:51.092344
+Existing_entries: 299
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Moscow Exchange Announces Results For The First Quarter Of 2025](http://www.mondovisione.com/media-and-resources/news/moscow-exchange-announces-results-for-the-first-quarter-of-2025-2025521/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Exchange Data International (EDI) Publishes Legal Analysis On Copyrightability Of Ticker Symbols](http://www.mondovisione.com/media-and-resources/news/exchange-data-international-edi-publishes-legal-analysis-on-copyrightability-o-2025521/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Stockholm Welcomes CoinShares' Expanded XBT Platform](http://www.mondovisione.com/media-and-resources/news/nasdaq-stockholm-welcomes-coinshares-expanded-xbt-platform-2025521/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Japan Exchange Group: Notice Of The 24th Annual General Shareholders Meeting](http://www.mondovisione.com/media-and-resources/news/japan-exchange-group-notice-of-the-24th-annual-general-shareholders-meeting-2025521/)
+append_entries: 4
+Finish: 2025-05-21 10:25:52.260530
