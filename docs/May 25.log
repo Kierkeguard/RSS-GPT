@@ -1882,3 +1882,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Bloomberg Terminal Outage Disrupts Traders and Delays Key Debt Auctions](http://www.mondovisione.com/media-and-resources/news/bloomberg-terminal-outage-disrupts-traders-and-delays-key-debt-auctions-2025521/)
 append_entries: 2
 Finish: 2025-05-21 14:23:55.191056
+------------------------------------------------------
+Started: 2025-05-21 16:30:30.591757
+Existing_entries: 312
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Announces Semi-Annual Changes To The OMX Copenhagen Benchmark™ Index](http://www.mondovisione.com/media-and-resources/news/nasdaq-announces-semi-annual-changes-to-the-omx-copenhagen-benchmark-index-2025521/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Basel Committee Continues To Prioritise Basel III Implementation, Progresses Work To Strengthen Supervisory Effectiveness And Discusses Finalisation Of Principles On Third-Party Risks](http://www.mondovisione.com/media-and-resources/news/basel-committee-continues-to-prioritise-basel-iii-implementation-progresses-wor-2025521/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Scottish Widows Turns To AI To Speed Up Protection Insurance Claims And Underwriting With Sprout.ai](http://www.mondovisione.com/media-and-resources/news/scottish-widows-turns-to-ai-to-speed-up-protection-insurance-claims-and-underwri-2025521/)
+append_entries: 3
+Finish: 2025-05-21 16:30:31.740484
