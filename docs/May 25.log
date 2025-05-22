@@ -1959,3 +1959,18 @@ Existing_entries: 325
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-05-22 04:29:24.235026
+------------------------------------------------------
+Started: 2025-05-22 06:33:35.745221
+Existing_entries: 325
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Hong Kong Securities And Futures Commission Welcomes IOSCO’s Statement On Combatting Online Scams](http://www.mondovisione.com/media-and-resources/news/hong-kong-securities-and-futures-commission-welcomes-ioscos-statement-on-combat-2025522/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASX Launches Colo OnDemand To Support Customers Connecting To Australia’s Financial Markets](http://www.mondovisione.com/media-and-resources/news/asx-launches-colo-ondemand-to-support-customers-connecting-to-australias-financ-2025522/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Zealand Financial Markets Authority Issues A Warning On Managed Investment Scheme](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-issues-a-warning-on-managed-investment-s-2025522/)
+append_entries: 3
+Finish: 2025-05-22 06:33:36.636097
