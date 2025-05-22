@@ -2087,3 +2087,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [EBA Publishes Onboarding Plan To Implement The Pillar 3 Data Hub](http://www.mondovisione.com/media-and-resources/news/eba-publishes-onboarding-plan-to-implement-the-pillar-3-data-hub-2025522/)
 append_entries: 2
 Finish: 2025-05-22 20:26:04.908321
+------------------------------------------------------
+Started: 2025-05-22 22:22:43.669641
+Existing_entries: 357
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-05-22 22:22:44.523102
