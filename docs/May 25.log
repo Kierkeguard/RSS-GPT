@@ -2033,3 +2033,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ETFGI Reports The Global ETFs Industry Had A Record 847 New Products Listed In The First Four Months Of 2025](http://www.mondovisione.com/media-and-resources/news/etfgi-reports-the-global-etfs-industry-had-a-record-847-new-products-listed-in-t-2025522/)
 append_entries: 2
 Finish: 2025-05-22 14:23:32.589026
+------------------------------------------------------
+Started: 2025-05-22 16:30:08.650813
+Existing_entries: 343
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BIS: Statement On The Appointment Of Cecilia Skingsley As County Governor Of Stockholm](http://www.mondovisione.com/media-and-resources/news/bis-statement-on-the-appointment-of-cecilia-skingsley-as-county-governor-of-sto-2025522/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [20 Emirati Leaders Join Inaugural Cohort Of Dubai Financial Expert Programme](http://www.mondovisione.com/media-and-resources/news/20-emirati-leaders-join-inaugural-cohort-of-dubai-financial-expert-programme-2025522/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Borsa Istanbul: Announcement Regarding The Newly Calculated BIST Leveraged And Short Indices](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-announcement-regarding-the-newly-calculated-bist-leveraged-and-s-2025522/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Amman Stock Exchange Weekly Summary](http://www.mondovisione.com/media-and-resources/news/amman-stock-exchange-weekly-summary-2025522/)
+append_entries: 4
+Finish: 2025-05-22 16:30:09.954319
