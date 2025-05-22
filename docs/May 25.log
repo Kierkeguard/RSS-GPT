@@ -2051,3 +2051,27 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Amman Stock Exchange Weekly Summary](http://www.mondovisione.com/media-and-resources/news/amman-stock-exchange-weekly-summary-2025522/)
 append_entries: 4
 Finish: 2025-05-22 16:30:09.954319
+------------------------------------------------------
+Started: 2025-05-22 18:32:59.355811
+Existing_entries: 347
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIX Announces Successful EUR 500 Million Bond Issuance](http://www.mondovisione.com/media-and-resources/news/six-announces-successful-eur-500-million-bond-issuance-2025522/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FINRA Announces Appointment Of New Public Governor](http://www.mondovisione.com/media-and-resources/news/finra-announces-appointment-of-new-public-governor-2025522/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Announces Semi-Annual Changes To The OMX Helsinki Benchmark™ Index](http://www.mondovisione.com/media-and-resources/news/nasdaq-announces-semi-annual-changes-to-the-omx-helsinki-benchmark-index-2025522/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Announces Semi-Annual Changes To OMX Stockholm Benchmark™ Index](http://www.mondovisione.com/media-and-resources/news/nasdaq-announces-semi-annual-changes-to-omx-stockholm-benchmark-index-2025522/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ETFGI: Korean Retail Investors Increase Their Use Of Overseas ETFs In April](http://www.mondovisione.com/media-and-resources/news/etfgi-korean-retail-investors-increase-their-use-of-overseas-etfs-in-april-2025522/)
+Append: [ISDA AGM Studio: Jack Hattem And Jared Noering](http://www.mondovisione.com/media-and-resources/news/isda-agm-studio-jack-hattem-and-jared-noering-2025522/)
+Append: [ISDA AGM Studio: Mark Gheerbrant And José Manuel Campa, EBA](http://www.mondovisione.com/media-and-resources/news/isda-agm-studio-mark-gheerbrant-and-jos-manuel-campa-eba-2025522/)
+Append: [ISDA AGM Studio: Doug Donahue And Oliver Maxwell](http://www.mondovisione.com/media-and-resources/news/isda-agm-studio-doug-donahue-and-oliver-maxwell-2025522/)
+append_entries: 8
+Finish: 2025-05-22 18:33:00.497346
