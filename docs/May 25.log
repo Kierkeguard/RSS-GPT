@@ -2075,3 +2075,15 @@ Append: [ISDA AGM Studio: Mark Gheerbrant And José Manuel Campa, EBA](http://ww
 Append: [ISDA AGM Studio: Doug Donahue And Oliver Maxwell](http://www.mondovisione.com/media-and-resources/news/isda-agm-studio-doug-donahue-and-oliver-maxwell-2025522/)
 append_entries: 8
 Finish: 2025-05-22 18:33:00.497346
+------------------------------------------------------
+Started: 2025-05-22 20:26:03.627060
+Existing_entries: 355
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Staff Issues Advisory On Market Volatility Controls](http://www.mondovisione.com/media-and-resources/news/cftc-staff-issues-advisory-on-market-volatility-controls-2025522/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [EBA Publishes Onboarding Plan To Implement The Pillar 3 Data Hub](http://www.mondovisione.com/media-and-resources/news/eba-publishes-onboarding-plan-to-implement-the-pillar-3-data-hub-2025522/)
+append_entries: 2
+Finish: 2025-05-22 20:26:04.908321
