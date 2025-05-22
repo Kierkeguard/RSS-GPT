@@ -2021,3 +2021,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CME Group: FX Spot+ Trades $1.4 Billion In A Single Day With Over 40 Clients Active In First Month](http://www.mondovisione.com/media-and-resources/news/cme-group-fx-spot-trades-14-billion-in-a-single-day-with-over-40-clients-act-2025522/)
 append_entries: 3
 Finish: 2025-05-22 12:49:33.223176
+------------------------------------------------------
+Started: 2025-05-22 14:23:31.094648
+Existing_entries: 341
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Eventus Wins Best Integrated Market Surveillance Platform In WatersTechnology Asia Awards 2025 - Fourth Win For Validus Platform In Market Surveillance Category Over Past Five Years](http://www.mondovisione.com/media-and-resources/news/eventus-wins-best-integrated-market-surveillance-platform-in-waterstechnology-as-2025522/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ETFGI Reports The Global ETFs Industry Had A Record 847 New Products Listed In The First Four Months Of 2025](http://www.mondovisione.com/media-and-resources/news/etfgi-reports-the-global-etfs-industry-had-a-record-847-new-products-listed-in-t-2025522/)
+append_entries: 2
+Finish: 2025-05-22 14:23:32.589026
