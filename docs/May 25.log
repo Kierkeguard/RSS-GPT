@@ -2137,3 +2137,15 @@ Append: [NYSE President And ICE Fixed Income And Data Services Chair Lynn Martin
 Append: [Canadian Securities Regulators Expect To Provide Temporary Relief From Requirements For Delivering Proxy-Related Materials In Event Of Postal Suspension](http://www.mondovisione.com/media-and-resources/news/canadian-securities-regulators-expect-to-provide-temporary-relief-from-requireme-2025523/)
 append_entries: 10
 Finish: 2025-05-23 06:33:14.513387
+------------------------------------------------------
+Started: 2025-05-23 08:31:19.344615
+Existing_entries: 367
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Boerse Stuttgart Commodities Launches New Physically Backed Gold ETCs – EUWAX Gold Core And EUWAX Gold Traceable](http://www.mondovisione.com/media-and-resources/news/boerse-stuttgart-commodities-launches-new-physically-backed-gold-etcs-euwax-go-2025523/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Derivatives Service Bureau (DSB) Wins ‘Best Reference Data Service’ At The WatersTechnology Asia Awards 2025](http://www.mondovisione.com/media-and-resources/news/derivatives-service-bureau-dsb-wins-best-reference-data-service-at-the-water-2025523/)
+append_entries: 2
+Finish: 2025-05-23 08:31:20.348599
