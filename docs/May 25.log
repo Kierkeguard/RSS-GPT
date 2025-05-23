@@ -2200,3 +2200,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Malawi Stock Exchange Weekly Summary Report, 23 May 2025](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-23-may-2025-2025523/)
 append_entries: 3
 Finish: 2025-05-23 16:28:56.952012
+------------------------------------------------------
+Started: 2025-05-23 18:31:13.380312
+Existing_entries: 378
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [A View On Financial Stability, Federal Reserve Governor Lisa D. Cook, At The Seventh Annual Women In Macro Conference Cosponsored By New York University’s Graduate School Of Arts & Science, New York University’s Stern School Of Business & University Of Chicago’s Becker Friedman Institute For Economics, New York, New York](http://www.mondovisione.com/media-and-resources/news/a-view-on-financial-stability-federal-reserve-governor-lisa-d-cook-at-the-sev-2025523/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ISDA AGM Studio: Joel Clark And Sid Nadella, Google Cloud](http://www.mondovisione.com/media-and-resources/news/isda-agm-studio-joel-clark-and-sid-nadella-google-cloud-2025523/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Rebalancing Risk To Fuel Growth, Speech By Dominic Holland, UK Financial Conduct Authority, Director Of Market Oversight, At The Association Of Corporate Treasurers Annual Conference 2025](http://www.mondovisione.com/media-and-resources/news/rebalancing-risk-to-fuel-growth-speech-by-dominic-holland-uk-financial-conduct-2025523/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [G7 Finance Ministers And Central Bank Governors’ Communiqué, Banff, Alberta, 20-22 May 2025](http://www.mondovisione.com/media-and-resources/news/g7-finance-ministers-and-central-bank-governors-communiqu-banff-alberta-20-2025523/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ISDA derivatiViews: Celebrating ISDA’s Successes, Charting The Next Decade](http://www.mondovisione.com/media-and-resources/news/isda-derivativiews-celebrating-isdas-successes-charting-the-next-decade-2025523/)
+append_entries: 5
+Finish: 2025-05-23 18:31:14.923455
