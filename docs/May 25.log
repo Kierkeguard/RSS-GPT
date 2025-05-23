@@ -2170,3 +2170,18 @@ Existing_entries: 372
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-05-23 12:47:27.031997
+------------------------------------------------------
+Started: 2025-05-23 14:22:14.480668
+Existing_entries: 372
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ICE First Look At Mortgage Performance: Foreclosure Activity Edges Higher Following Recent Record Lows](http://www.mondovisione.com/media-and-resources/news/ice-first-look-at-mortgage-performance-foreclosure-activity-edges-higher-follow-2025523/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Options And MIAX Emerald Options - Effective For Trade Date May 23, 2025, 2X OPENING And INTRADAY Valid And Priority Quote Spread Relief In All Symbols](http://www.mondovisione.com/media-and-resources/news/miax-options-and-miax-emerald-options-effective-for-trade-date-may-23-2025-2-2025523/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LongPoint Asset Management Launches Triple-Leveraged Semiconductor ETFs Benchmarking The Solactive United States Semiconductors 30 Capped Index](http://www.mondovisione.com/media-and-resources/news/longpoint-asset-management-launches-triple-leveraged-semiconductor-etfs-benchmar-2025523/)
+append_entries: 3
+Finish: 2025-05-23 14:22:15.974920
