@@ -2149,3 +2149,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Derivatives Service Bureau (DSB) Wins ‘Best Reference Data Service’ At The WatersTechnology Asia Awards 2025](http://www.mondovisione.com/media-and-resources/news/derivatives-service-bureau-dsb-wins-best-reference-data-service-at-the-water-2025523/)
 append_entries: 2
 Finish: 2025-05-23 08:31:20.348599
+------------------------------------------------------
+Started: 2025-05-23 10:25:17.229722
+Existing_entries: 369
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Bans former Credit Suisse Vice President Following US Criminal Conviction](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-bans-former-credit-suisse-vice-president-followin-2025523/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [innoscripta SE Joins The Scale Segment Of The Frankfurt Stock Exchange](http://www.mondovisione.com/media-and-resources/news/innoscripta-se-joins-the-scale-segment-of-the-frankfurt-stock-exchange-2025523/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ETFGI Reports Assets Invested In Actively Managed ETFs Listed Globally Surged To A New All-Time High Of US$1.30 Trillion At End Of April](http://www.mondovisione.com/media-and-resources/news/etfgi-reports-assets-invested-in-actively-managed-etfs-listed-globally-surged-to-2025523/)
+append_entries: 3
+Finish: 2025-05-23 10:25:18.375962
