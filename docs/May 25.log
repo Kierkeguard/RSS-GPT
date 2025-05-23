@@ -2164,3 +2164,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ETFGI Reports Assets Invested In Actively Managed ETFs Listed Globally Surged To A New All-Time High Of US$1.30 Trillion At End Of April](http://www.mondovisione.com/media-and-resources/news/etfgi-reports-assets-invested-in-actively-managed-etfs-listed-globally-surged-to-2025523/)
 append_entries: 3
 Finish: 2025-05-23 10:25:18.375962
+------------------------------------------------------
+Started: 2025-05-23 12:47:26.008787
+Existing_entries: 372
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-05-23 12:47:27.031997
