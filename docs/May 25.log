@@ -2185,3 +2185,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [LongPoint Asset Management Launches Triple-Leveraged Semiconductor ETFs Benchmarking The Solactive United States Semiconductors 30 Capped Index](http://www.mondovisione.com/media-and-resources/news/longpoint-asset-management-launches-triple-leveraged-semiconductor-etfs-benchmar-2025523/)
 append_entries: 3
 Finish: 2025-05-23 14:22:15.974920
+------------------------------------------------------
+Started: 2025-05-23 16:28:55.920404
+Existing_entries: 375
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nigerian Exchange Weekly Market Report For the Week Ended 23 May 2025](http://www.mondovisione.com/media-and-resources/news/nigerian-exchange-weekly-market-report-for-the-week-ended-23-may-2025-2025523/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The EBA Issues Opinion On A Measure To Address Macroprudential Risk Following A Notification By The Norwegian Ministry Of Finance](http://www.mondovisione.com/media-and-resources/news/the-eba-issues-opinion-on-a-measure-to-address-macroprudential-risk-following-a-2025523/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Malawi Stock Exchange Weekly Summary Report, 23 May 2025](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-23-may-2025-2025523/)
+append_entries: 3
+Finish: 2025-05-23 16:28:56.952012
