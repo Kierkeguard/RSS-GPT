@@ -2221,3 +2221,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ISDA derivatiViews: Celebrating ISDA’s Successes, Charting The Next Decade](http://www.mondovisione.com/media-and-resources/news/isda-derivativiews-celebrating-isdas-successes-charting-the-next-decade-2025523/)
 append_entries: 5
 Finish: 2025-05-23 18:31:14.923455
+------------------------------------------------------
+Started: 2025-05-23 20:25:28.932157
+Existing_entries: 383
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Commitments Of Traders Reports Update](http://www.mondovisione.com/media-and-resources/news/cftc-commitments-of-traders-reports-update-2025523/)
+append_entries: 1
+Finish: 2025-05-23 20:25:29.850920
