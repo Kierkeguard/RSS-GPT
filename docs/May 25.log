@@ -2254,3 +2254,12 @@ Existing_entries: 384
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-05-24 04:26:35.538077
+------------------------------------------------------
+Started: 2025-05-24 06:30:12.535315
+Existing_entries: 384
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Department Of Justice: Five Individuals Indicted In Insider Trading Scheme](http://www.mondovisione.com/media-and-resources/news/us-department-of-justice-five-individuals-indicted-in-insider-trading-scheme-2025524/)
+append_entries: 1
+Finish: 2025-05-24 06:30:13.568086
