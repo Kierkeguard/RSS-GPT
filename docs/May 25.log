@@ -2371,3 +2371,12 @@ Existing_entries: 387
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-05-25 18:29:42.283217
+------------------------------------------------------
+Started: 2025-05-25 20:23:37.205118
+Existing_entries: 387
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Baccalaureate Remarks, Federal Reserve Chair Jerome H. Powell, At Princeton University, Princeton, New Jersey](http://www.mondovisione.com/media-and-resources/news/baccalaureate-remarks-federal-reserve-chair-jerome-h-powell-at-princeton-univ-2025525/)
+append_entries: 1
+Finish: 2025-05-25 20:23:38.183067
