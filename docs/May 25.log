@@ -2359,3 +2359,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Sepahan Oil Company Rang Tehran Securities Exchange Opening Bell](http://www.mondovisione.com/media-and-resources/news/sepahan-oil-company-rang-tehran-securities-exchange-opening-bell-2025525/)
 append_entries: 1
 Finish: 2025-05-25 14:19:47.949657
+------------------------------------------------------
+Started: 2025-05-25 16:27:12.747575
+Existing_entries: 387
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-05-25 16:27:13.574957
