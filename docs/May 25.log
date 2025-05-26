@@ -2425,3 +2425,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SET Announces 36 Winners Of The 50th Anniversary Poetry Contest](http://www.mondovisione.com/media-and-resources/news/set-announces-36-winners-of-the-50th-anniversary-poetry-contest-2025526/)
 append_entries: 2
 Finish: 2025-05-26 08:46:01.206038
+------------------------------------------------------
+Started: 2025-05-26 10:27:17.752415
+Existing_entries: 391
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [IOSCO Issues Final Report On Updated Liquidity Risk Management Recommendations For Collective Investment Schemes](http://www.mondovisione.com/media-and-resources/news/iosco-issues-final-report-on-updated-liquidity-risk-management-recommendations-f-2025526/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Securities Commission Malaysia Unveils Two Initiatives To Drive Adoption Of Masaqid al-Shariah Guidance In ICM - Task Force Launched To Streamline Adoption Of Guidance](http://www.mondovisione.com/media-and-resources/news/securities-commission-malaysia-unveils-two-initiatives-to-drive-adoption-of-masa-2025526/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Opening Remarks, Dato’ Mohammad Faiz Azmi, Chairman, Securities Commission Malaysia, 3rd SC Nadwah of Shariah Advisers in Islamic Capital Market 2025, 9.20 am, 26 May 2025, Securities Commission Malaysia](http://www.mondovisione.com/media-and-resources/news/opening-remarks-dato-mohammad-faiz-azmi-chairman-securities-commission-malay-2025526/)
+append_entries: 3
+Finish: 2025-05-26 10:27:18.466448
