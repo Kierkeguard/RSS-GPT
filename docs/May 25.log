@@ -2413,3 +2413,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Qatar Stock Exchange: FTSE Global Equity Index Series June 2025 Quarterly Review Changes](http://www.mondovisione.com/media-and-resources/news/qatar-stock-exchange-ftse-global-equity-index-series-june-2025-quarterly-review-2025526/)
 append_entries: 1
 Finish: 2025-05-26 06:35:02.735152
+------------------------------------------------------
+Started: 2025-05-26 08:46:00.114872
+Existing_entries: 389
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bursa Malaysia And Boardroom Group Collaborate To Scale Adoption Of The Centralised Sustainability Intelligence (CSI) Solution](http://www.mondovisione.com/media-and-resources/news/bursa-malaysia-and-boardroom-group-collaborate-to-scale-adoption-of-the-centrali-2025526/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SET Announces 36 Winners Of The 50th Anniversary Poetry Contest](http://www.mondovisione.com/media-and-resources/news/set-announces-36-winners-of-the-50th-anniversary-poetry-contest-2025526/)
+append_entries: 2
+Finish: 2025-05-26 08:46:01.206038
