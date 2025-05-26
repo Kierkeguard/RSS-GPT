@@ -2458,3 +2458,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Hedera Africa Hackathon Launches With $1M Prize Pool To Accelerate Africa’s Digital Future - Co-Funded By The Hashgraph Association And Exponential Science Foundation, The Pan-African Hackathon Invites The Next Generation Of Builders To Join Africa’s Largest Web3 Hackathon](http://www.mondovisione.com/media-and-resources/news/hedera-africa-hackathon-launches-with-1m-prize-pool-to-accelerate-africas-digi-2025526/)
 append_entries: 1
 Finish: 2025-05-26 14:23:22.488746
+------------------------------------------------------
+Started: 2025-05-26 16:28:26.036202
+Existing_entries: 396
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Earning Influence: Lessons From The History Of International Currencies - Speech By Christine Lagarde, President Of The ECB, At An Event On Europe’s Role In A Fragmented World Organised By Jacques Delors Centre At Hertie School In Berlin, Germany, Berlin, 26 May 2025](http://www.mondovisione.com/media-and-resources/news/earning-influence-lessons-from-the-history-of-international-currencies-speech-2025526/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Zhengzhou Commodity Exchange: Notice On The Launch Of TA-PR And TA-PX Cross-Product Arbitrage Order](http://www.mondovisione.com/media-and-resources/news/zhengzhou-commodity-exchange-notice-on-the-launch-of-ta-pr-and-ta-px-cross-prod-2025526/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Osaka Exchange: Listing Of Shanghai Natural Rubber Futures](http://www.mondovisione.com/media-and-resources/news/osaka-exchange-listing-of-shanghai-natural-rubber-futures-2025526/)
+append_entries: 3
+Finish: 2025-05-26 16:28:27.056639
