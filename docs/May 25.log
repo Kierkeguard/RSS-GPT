@@ -2440,3 +2440,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Opening Remarks, Dato’ Mohammad Faiz Azmi, Chairman, Securities Commission Malaysia, 3rd SC Nadwah of Shariah Advisers in Islamic Capital Market 2025, 9.20 am, 26 May 2025, Securities Commission Malaysia](http://www.mondovisione.com/media-and-resources/news/opening-remarks-dato-mohammad-faiz-azmi-chairman-securities-commission-malay-2025526/)
 append_entries: 3
 Finish: 2025-05-26 10:27:18.466448
+------------------------------------------------------
+Started: 2025-05-26 12:47:00.823808
+Existing_entries: 394
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BME Exchange: The 21st Edition Of The Medcap Forum Brings Together 107 Companies And 150 Investors At The Stock Exchange From Tomorrow](http://www.mondovisione.com/media-and-resources/news/bme-exchange-the-21st-edition-of-the-medcap-forum-brings-together-107-companies-2025526/)
+append_entries: 1
+Finish: 2025-05-26 12:47:01.968233
