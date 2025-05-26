@@ -2473,3 +2473,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Osaka Exchange: Listing Of Shanghai Natural Rubber Futures](http://www.mondovisione.com/media-and-resources/news/osaka-exchange-listing-of-shanghai-natural-rubber-futures-2025526/)
 append_entries: 3
 Finish: 2025-05-26 16:28:27.056639
+------------------------------------------------------
+Started: 2025-05-26 18:31:14.341408
+Existing_entries: 399
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-05-26 18:31:15.754627
