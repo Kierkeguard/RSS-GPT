@@ -2404,3 +2404,12 @@ Existing_entries: 388
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-05-26 04:30:17.761819
+------------------------------------------------------
+Started: 2025-05-26 06:35:01.555228
+Existing_entries: 388
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Qatar Stock Exchange: FTSE Global Equity Index Series June 2025 Quarterly Review Changes](http://www.mondovisione.com/media-and-resources/news/qatar-stock-exchange-ftse-global-equity-index-series-june-2025-quarterly-review-2025526/)
+append_entries: 1
+Finish: 2025-05-26 06:35:02.735152
