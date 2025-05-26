@@ -2449,3 +2449,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [BME Exchange: The 21st Edition Of The Medcap Forum Brings Together 107 Companies And 150 Investors At The Stock Exchange From Tomorrow](http://www.mondovisione.com/media-and-resources/news/bme-exchange-the-21st-edition-of-the-medcap-forum-brings-together-107-companies-2025526/)
 append_entries: 1
 Finish: 2025-05-26 12:47:01.968233
+------------------------------------------------------
+Started: 2025-05-26 14:23:21.182146
+Existing_entries: 395
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Hedera Africa Hackathon Launches With $1M Prize Pool To Accelerate Africa’s Digital Future - Co-Funded By The Hashgraph Association And Exponential Science Foundation, The Pan-African Hackathon Invites The Next Generation Of Builders To Join Africa’s Largest Web3 Hackathon](http://www.mondovisione.com/media-and-resources/news/hedera-africa-hackathon-launches-with-1m-prize-pool-to-accelerate-africas-digi-2025526/)
+append_entries: 1
+Finish: 2025-05-26 14:23:22.488746
