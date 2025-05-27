@@ -2623,3 +2623,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SEC’s Division Of Investment Management To Host Third Annual Conference On Emerging Trends In Asset Management](http://www.mondovisione.com/media-and-resources/news/secs-division-of-investment-management-to-host-third-annual-conference-on-emerg-2025527/)
 append_entries: 3
 Finish: 2025-05-27 20:26:00.416688
+------------------------------------------------------
+Started: 2025-05-27 22:22:08.688179
+Existing_entries: 421
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FTSE Mondo Visione Exchanges Index Hits Record Closing High, Surpasses 100,000 Points](http://www.mondovisione.com/media-and-resources/news/ftse-mondo-visione-exchanges-index-hits-record-closing-high-surpasses-100000-p-2025527/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Announces Mid-Month Open Short Interest Positions In Nasdaq Stocks As Of Settlement Date May 15, 2025](http://www.mondovisione.com/media-and-resources/news/nasdaq-announces-mid-month-open-short-interest-positions-in-nasdaq-stocks-as-of-2025527/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NYSE Group Consolidated Short Interest Report](http://www.mondovisione.com/media-and-resources/news/nyse-group-consolidated-short-interest-report-2025527/)
+append_entries: 3
+Finish: 2025-05-27 22:22:09.382592
