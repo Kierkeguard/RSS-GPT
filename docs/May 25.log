@@ -2539,3 +2539,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [BNP Paribas Asset Management Launches Europe Defense ETF](http://www.mondovisione.com/media-and-resources/news/bnp-paribas-asset-management-launches-europe-defense-etf-2025527/)
 append_entries: 5
 Finish: 2025-05-27 08:31:10.597388
+------------------------------------------------------
+Started: 2025-05-27 10:26:46.139772
+Existing_entries: 405
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Digital Asset Appoints Jonathan Isaac As Chief Marketing Officer - The Former CMO Of CoinMarketCap Joins To Spotlight The Canton Network, The Blockchain Quietly Reshaping Global Financial Markets](http://www.mondovisione.com/media-and-resources/news/digital-asset-appoints-jonathan-isaac-as-chief-marketing-officer-the-former-cm-2025527/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Argentinian Banks And FinTechs Launch Real-Time Fraud And Scams Intelligence-Sharing Network - Banco Galicia, Naranja X, Santander Form Inaugural Core Of BioCatch Trust™ Argentina](http://www.mondovisione.com/media-and-resources/news/argentinian-banks-and-fintechs-launch-real-time-fraud-and-scams-intelligence-sha-2025527/)
+append_entries: 2
+Finish: 2025-05-27 10:26:47.134597
