@@ -2608,3 +2608,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Ontario Securities Commission’s Investor Advisory Panel Releases 2024 Annual Report](http://www.mondovisione.com/media-and-resources/news/ontario-securities-commissions-investor-advisory-panel-releases-2024-annual-rep-2025527/)
 append_entries: 5
 Finish: 2025-05-27 18:31:41.805703
+------------------------------------------------------
+Started: 2025-05-27 20:25:59.523898
+Existing_entries: 418
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Swaps Report Update](http://www.mondovisione.com/media-and-resources/news/cftc-swaps-report-update-2025527/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Farewell Remarks By CFTC Commissioner Christy Goldsmith Romero: The Future Of Financial Services Regulation, The Brookings Institution, Washington, D.C.](http://www.mondovisione.com/media-and-resources/news/farewell-remarks-by-cftc-commissioner-christy-goldsmith-romero-the-future-of-fi-2025527/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC’s Division Of Investment Management To Host Third Annual Conference On Emerging Trends In Asset Management](http://www.mondovisione.com/media-and-resources/news/secs-division-of-investment-management-to-host-third-annual-conference-on-emerg-2025527/)
+append_entries: 3
+Finish: 2025-05-27 20:26:00.416688
