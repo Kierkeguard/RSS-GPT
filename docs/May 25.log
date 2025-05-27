@@ -2578,3 +2578,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Have Your Say On ACER’s TSO Cost Efficiency Comparison: Public Consultation & Workshop Coming Soon](http://www.mondovisione.com/media-and-resources/news/have-your-say-on-acers-tso-cost-efficiency-comparison-public-consultation-and-wo-2025527/)
 append_entries: 5
 Finish: 2025-05-27 14:23:29.435250
+------------------------------------------------------
+Started: 2025-05-27 16:30:18.723827
+Existing_entries: 412
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BME Nominates COX, EV Motors, Bytetravel And Optare Solutions For The European Small & Mid-Cap Awards](http://www.mondovisione.com/media-and-resources/news/bme-nominates-cox-ev-motors-bytetravel-and-optare-solutions-for-the-european-s-2025527/)
+append_entries: 1
+Finish: 2025-05-27 16:30:19.474422
