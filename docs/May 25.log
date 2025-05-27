@@ -2557,3 +2557,24 @@ Existing_entries: 407
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-05-27 12:50:13.789521
+------------------------------------------------------
+Started: 2025-05-27 14:23:28.261978
+Existing_entries: 407
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Data Privacy Expert Tiernan Connolly Comments On The 8th Anniversary Of The EU GDPR](http://www.mondovisione.com/media-and-resources/news/data-privacy-expert-tiernan-connolly-comments-on-the-8th-anniversary-of-the-eu-g-2025527/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER On ENTSO-E’s 2024 Draft Ten-Year Electricity Network Development Plan: Progress Made, But Room For Improvement](http://www.mondovisione.com/media-and-resources/news/acer-on-entso-es-2024-draft-ten-year-electricity-network-development-plan-prog-2025527/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [GenAI VC Funding In Early 2025 Highlights Widening Gap Between US And China, Finds GlobalData](http://www.mondovisione.com/media-and-resources/news/genai-vc-funding-in-early-2025-highlights-widening-gap-between-us-and-china-fin-2025527/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Dutch Pension Fund Oak Pensioenfonds Has Selected BNP Paribas As Its Global Custodian And Administrator For Its € 5.4 Billion In Assets](http://www.mondovisione.com/media-and-resources/news/dutch-pension-fund-oak-pensioenfonds-has-selected-bnp-paribas-as-its-global-cust-2025527/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Have Your Say On ACER’s TSO Cost Efficiency Comparison: Public Consultation & Workshop Coming Soon](http://www.mondovisione.com/media-and-resources/news/have-your-say-on-acers-tso-cost-efficiency-comparison-public-consultation-and-wo-2025527/)
+append_entries: 5
+Finish: 2025-05-27 14:23:29.435250
