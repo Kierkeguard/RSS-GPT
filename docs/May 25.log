@@ -2509,3 +2509,12 @@ Existing_entries: 399
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-05-27 04:30:14.233240
+------------------------------------------------------
+Started: 2025-05-27 06:33:45.001658
+Existing_entries: 399
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Circular On The Release Of The Amended Rules On The Management Of Non-Ferrous Metal Products For Futures Delivery Of The Shanghai Futures Exchange (Revised In May 2025)](http://www.mondovisione.com/media-and-resources/news/circular-on-the-release-of-the-amended-rules-on-the-management-of-non-ferrous-me-2025527/)
+append_entries: 1
+Finish: 2025-05-27 06:33:45.839760
