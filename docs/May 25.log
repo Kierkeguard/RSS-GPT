@@ -2587,3 +2587,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [BME Nominates COX, EV Motors, Bytetravel And Optare Solutions For The European Small & Mid-Cap Awards](http://www.mondovisione.com/media-and-resources/news/bme-nominates-cox-ev-motors-bytetravel-and-optare-solutions-for-the-european-s-2025527/)
 append_entries: 1
 Finish: 2025-05-27 16:30:19.474422
+------------------------------------------------------
+Started: 2025-05-27 18:31:40.651642
+Existing_entries: 413
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [IMF Concludes Annual Mission To Assess UK Economy – Upgrading UK Growth And Endorsing Fiscal Strategy](http://www.mondovisione.com/media-and-resources/news/imf-concludes-annual-mission-to-assess-uk-economy-upgrading-uk-growth-and-endo-2025527/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Ontario Securities Commission Investor Warnings And Alerts For May 6 – 27, 2025](http://www.mondovisione.com/media-and-resources/news/ontario-securities-commission-investor-warnings-and-alerts-for-may-6-27-2025-2025527/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Commissioner Goldsmith Romero To Speak On Future Of Financial Services Regulation At The Brookings Institution](http://www.mondovisione.com/media-and-resources/news/cftc-commissioner-goldsmith-romero-to-speak-on-future-of-financial-services-regu-2025527/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FTSE UK Index Series – Indicative Annual Review Changes June 2025](http://www.mondovisione.com/media-and-resources/news/ftse-uk-index-series-indicative-annual-review-changes-june-2025-2025527/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Ontario Securities Commission’s Investor Advisory Panel Releases 2024 Annual Report](http://www.mondovisione.com/media-and-resources/news/ontario-securities-commissions-investor-advisory-panel-releases-2024-annual-rep-2025527/)
+append_entries: 5
+Finish: 2025-05-27 18:31:41.805703
