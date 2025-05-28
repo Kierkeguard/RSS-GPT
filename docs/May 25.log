@@ -2753,3 +2753,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [UK Financial Conduct Authority Statement On Basset & Gold Complaints](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-statement-on-basset-and-gold-complaints-2025528/)
 append_entries: 4
 Finish: 2025-05-28 18:32:39.679226
+------------------------------------------------------
+Started: 2025-05-28 20:26:10.074906
+Existing_entries: 445
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Publishes Data On Regulation A, Crowdfunding Offerings, And Private Fund Beneficial Ownership Concentration](http://www.mondovisione.com/media-and-resources/news/sec-publishes-data-on-regulation-a-crowdfunding-offerings-and-private-fund-ben-2025528/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Minutes Of The Federal Open Market Committee, May 6–7, 2025](http://www.mondovisione.com/media-and-resources/news/minutes-of-the-federal-open-market-committee-may-67-2025-2025528/)
+append_entries: 2
+Finish: 2025-05-28 20:26:11.200274
