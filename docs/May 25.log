@@ -2735,3 +2735,21 @@ Existing_entries: 441
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-05-28 16:29:15.407485
+------------------------------------------------------
+Started: 2025-05-28 18:32:38.391913
+Existing_entries: 441
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Announces Agenda, Panelists For Roundtable On Crypto DeFi](http://www.mondovisione.com/media-and-resources/news/sec-announces-agenda-panelists-for-roundtable-on-crypto-defi-2025528/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Federal Reserve Board Issues Economic Well-Being Of U.S. Households In 2024 Report](http://www.mondovisione.com/media-and-resources/news/federal-reserve-board-issues-economic-well-being-of-us-households-in-2024-repo-2025528/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The EBA Releases Final Technical Package For Its 4.1 Reporting Framework To Support Identification And Assessment Of Crypto Asset Providers And The Pillar 3 Data Hub](http://www.mondovisione.com/media-and-resources/news/the-eba-releases-final-technical-package-for-its-41-reporting-framework-to-supp-2025528/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Statement On Basset & Gold Complaints](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-statement-on-basset-and-gold-complaints-2025528/)
+append_entries: 4
+Finish: 2025-05-28 18:32:39.679226
