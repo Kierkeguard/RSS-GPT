@@ -2656,3 +2656,21 @@ Existing_entries: 424
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-05-28 04:29:40.511247
+------------------------------------------------------
+Started: 2025-05-28 06:33:54.818327
+Existing_entries: 424
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MNI Indicators: MNI China Money Market Index™ – May Conditions Ease](http://www.mondovisione.com/media-and-resources/news/mni-indicators-mni-china-money-market-index-may-conditions-ease-2025528/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIX Chairman Thomas Wellauer To Conclude Term At AGM 2026](http://www.mondovisione.com/media-and-resources/news/six-chairman-thomas-wellauer-to-conclude-term-at-agm-2026-2025528/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The UAE Securities And Commodities Authority (SCA) Launches Region’s First “Finfluencer” License To Regulate Digital Financial Content](http://www.mondovisione.com/media-and-resources/news/the-uae-securities-and-commodities-authority-sca-launches-regions-first-finf-2025528/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Proposes To Remake Basic Deposit And General Insurance Product Distribution Legislative Instrument](http://www.mondovisione.com/media-and-resources/news/asic-proposes-to-remake-basic-deposit-and-general-insurance-product-distribution-2025528/)
+append_entries: 4
+Finish: 2025-05-28 06:33:55.936302
