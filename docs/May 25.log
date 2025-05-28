@@ -2765,3 +2765,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Minutes Of The Federal Open Market Committee, May 6–7, 2025](http://www.mondovisione.com/media-and-resources/news/minutes-of-the-federal-open-market-committee-may-67-2025-2025528/)
 append_entries: 2
 Finish: 2025-05-28 20:26:11.200274
+------------------------------------------------------
+Started: 2025-05-28 22:22:04.174918
+Existing_entries: 447
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Global Single Family Office Market Tops $4.67 Trillion, Sets Sights On Public And Private Equity - With Intelligence Single Family Office Asset Pools 2025 Report Delivers Comprehensive Analysis Of Investing Trends Across More Than 3,000 Family Offices](http://www.mondovisione.com/media-and-resources/news/global-single-family-office-market-tops-467-trillion-sets-sights-on-public-an-2025528/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Office Of The Comptroller Of The Currency Issues Third And Fourth Quarter 2025 CRA Evaluation Schedule](http://www.mondovisione.com/media-and-resources/news/us-office-of-the-comptroller-of-the-currency-issues-third-and-fourth-quarter-202-2025528/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Executives to Present at Upcoming Investor Conferences](http://www.mondovisione.com/media-and-resources/news/nasdaq-executives-to-present-at-upcoming-investor-conferences-2025528/)
+append_entries: 3
+Finish: 2025-05-28 22:22:05.421169
