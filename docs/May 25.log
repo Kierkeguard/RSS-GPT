@@ -2918,3 +2918,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CFTC Awards Approximately $700,000 To Whistleblower](http://www.mondovisione.com/media-and-resources/news/cftc-awards-approximately-700000-to-whistleblower-2025529/)
 append_entries: 2
 Finish: 2025-05-29 20:26:11.827770
+------------------------------------------------------
+Started: 2025-05-29 22:22:11.777975
+Existing_entries: 476
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group Awards $125,000 To 25 Star Scholars Graduating From City Colleges Of Chicago To Pursue Four-Year Degrees](http://www.mondovisione.com/media-and-resources/news/cme-group-awards-125000-to-25-star-scholars-graduating-from-city-colleges-of-c-2025529/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Commissioner Johnson To Deliver Keynote Remarks At The Symposium On Innovation In Derivatives Markets: Exploring AI Risks And Opportunities Across The Digital And Cyber Landscape](http://www.mondovisione.com/media-and-resources/news/cftc-commissioner-johnson-to-deliver-keynote-remarks-at-the-symposium-on-innovat-2025529/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Opening Remarks, Federal Reserve Governor Adriana D. Kugler, At The 2025 Federal Reserve Board Macro-Finance Workshop, Washington, D.C.](http://www.mondovisione.com/media-and-resources/news/opening-remarks-federal-reserve-governor-adriana-d-kugler-at-the-2025-federal-2025529/)
+append_entries: 3
+Finish: 2025-05-29 22:22:12.662590
