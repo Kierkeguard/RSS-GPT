@@ -2846,3 +2846,18 @@ Existing_entries: 458
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-05-29 12:48:40.891136
+------------------------------------------------------
+Started: 2025-05-29 14:23:06.729790
+Existing_entries: 458
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Novaprime Utilizes Tradeweb’s Electronic Trading Solutions To Enhance Mortgage Trading Platforms - Leveraging The Canton Network, The Collaboration Offers An Enhanced And Innovative Solution For Mortgage Hedging In The Industry](http://www.mondovisione.com/media-and-resources/news/novaprime-utilizes-tradewebs-electronic-trading-solutions-to-enhance-mortgage-t-2025529/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Climate Bonds Launches New Criteria To Cut Emissions Across Global Food Systems - New Science-Based Framework Directs Green Investment Into Climate-Aligned Solutions Beyond The Farm Gate – From Transport To Household Consumption](http://www.mondovisione.com/media-and-resources/news/climate-bonds-launches-new-criteria-to-cut-emissions-across-global-food-systems-2025529/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group PLC Transactions In Own Securities](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-transactions-in-own-securities-2025529/)
+append_entries: 3
+Finish: 2025-05-29 14:23:07.920701
