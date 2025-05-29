@@ -2798,3 +2798,15 @@ Existing_entries: 450
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-05-29 04:30:16.278758
+------------------------------------------------------
+Started: 2025-05-29 06:34:20.965115
+Existing_entries: 450
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Zealand Financial Markets Authority Releases Good Cents: Kiwis On Savings And Debt Research](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-releases-good-cents-kiwis-on-savings-an-2025529/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Financial Stability Oversight Council Meetings](http://www.mondovisione.com/media-and-resources/news/financial-stability-oversight-council-meetings-2025529/)
+append_entries: 2
+Finish: 2025-05-29 06:34:22.230737
