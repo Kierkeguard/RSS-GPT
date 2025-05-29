@@ -2906,3 +2906,15 @@ Append: [Canadian Securities Administrators Extends Comment Period On Proposed A
 Append: [The Medcap Forum Closes Its XXI Edition After More Than 1,000 Meetings Between Small And Medium-Sized Companies And Investors](http://www.mondovisione.com/media-and-resources/news/the-medcap-forum-closes-its-xxi-edition-after-more-than-1000-meetings-between-s-2025529/)
 append_entries: 7
 Finish: 2025-05-29 18:33:13.713736
+------------------------------------------------------
+Started: 2025-05-29 20:26:10.891052
+Existing_entries: 474
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Revised Lists Of The Moscow Exchange Indices Announced](http://www.mondovisione.com/media-and-resources/news/revised-lists-of-the-moscow-exchange-indices-announced-2025529/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Awards Approximately $700,000 To Whistleblower](http://www.mondovisione.com/media-and-resources/news/cftc-awards-approximately-700000-to-whistleblower-2025529/)
+append_entries: 2
+Finish: 2025-05-29 20:26:11.827770
