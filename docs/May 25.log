@@ -2780,3 +2780,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Nasdaq Executives to Present at Upcoming Investor Conferences](http://www.mondovisione.com/media-and-resources/news/nasdaq-executives-to-present-at-upcoming-investor-conferences-2025528/)
 append_entries: 3
 Finish: 2025-05-28 22:22:05.421169
+------------------------------------------------------
+Started: 2025-05-29 01:55:40.493985
+Existing_entries: 450
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-05-29 01:55:41.209992
