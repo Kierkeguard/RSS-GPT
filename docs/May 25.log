@@ -2861,3 +2861,25 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [London Stock Exchange Group PLC Transactions In Own Securities](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-transactions-in-own-securities-2025529/)
 append_entries: 3
 Finish: 2025-05-29 14:23:07.920701
+------------------------------------------------------
+Started: 2025-05-29 16:29:42.589342
+Existing_entries: 461
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Sustainable Bond Market Reaches New Highs - 2024 Analysis Showcases 31% Increase In Sustainable Deals Aligned With Robust Standards](http://www.mondovisione.com/media-and-resources/news/sustainable-bond-market-reaches-new-highs-2024-analysis-showcases-31-increase-2025529/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Dubai Financial Services Authority Thematic Review: Audit Working Papers Archiving And Retention](http://www.mondovisione.com/media-and-resources/news/new-dubai-financial-services-authority-thematic-review-audit-working-papers-arc-2025529/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Amman Stock Exchange Weekly Summary](http://www.mondovisione.com/media-and-resources/news/amman-stock-exchange-weekly-summary-2025529/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bursa Malaysia Invites Comments To Proposed Changes To The Listing Requirements  - Enhanced Disclosures In New Corporate Rescue Mechanism And  Exempted Related Party Transaction](http://www.mondovisione.com/media-and-resources/news/bursa-malaysia-invites-comments-to-proposed-changes-to-the-listing-requirements-2025529/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tourmaline Partners Expands Global Footprint With Dubai International Financial Centre Office](http://www.mondovisione.com/media-and-resources/news/tourmaline-partners-expands-global-footprint-with-dubai-international-financial-2025529/)
+Append: [Amman Stock Exchange: Eid al-Adha Al-Mubarak Holiday](http://www.mondovisione.com/media-and-resources/news/amman-stock-exchange-eid-al-adha-al-mubarak-holiday-2025529/)
+append_entries: 6
+Finish: 2025-05-29 16:29:43.748471
