@@ -3059,3 +3059,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [UK Financial Conduct Authority Welcomes Statement Supporting Faster Settlement Of Trades In Funds](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-welcomes-statement-supporting-faster-settlement-o-2025530/)
 append_entries: 3
 Finish: 2025-05-30 18:32:38.170828
+------------------------------------------------------
+Started: 2025-05-30 20:25:41.010536
+Existing_entries: 505
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Readout From US Secretary Of The Treasury Scott Bessent's And US Secretary Of Commerce Howard Lutnick's Meeting With Minister Ryosei Akazawa Of Japan](http://www.mondovisione.com/media-and-resources/news/readout-from-us-secretary-of-the-treasury-scott-bessents-and-us-secretary-of-co-2025530/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Commitments Of Traders Reports Update](http://www.mondovisione.com/media-and-resources/news/cftc-commitments-of-traders-reports-update-2025530/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nigerian Exchange Weekly Market Report For The Week Ended 30 May 2025](http://www.mondovisione.com/media-and-resources/news/nigerian-exchange-weekly-market-report-for-the-week-ended-30-may-2025-2025530/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Federal Reserve Board Releases Results Of Survey Of Senior Financial Officers At Banks About Their Strategies And Practices For Managing Reserve Balances](http://www.mondovisione.com/media-and-resources/news/federal-reserve-board-releases-results-of-survey-of-senior-financial-officers-at-2025530/)
+append_entries: 4
+Finish: 2025-05-30 20:25:41.909569
