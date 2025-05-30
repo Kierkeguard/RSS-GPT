@@ -2999,3 +2999,26 @@ Existing_entries: 489
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-05-30 12:48:38.469576
+------------------------------------------------------
+Started: 2025-05-30 14:23:43.857992
+Existing_entries: 489
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Treasury Releases Request For Information Related To The Executive Order 14247 “Modernizing Payments To And From America’s Bank Account”](http://www.mondovisione.com/media-and-resources/news/us-treasury-releases-request-for-information-related-to-the-executive-order-1424-2025530/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority: Upper Tribunal Ruling In The Cases Of Toni Fox And David Brian Price](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-upper-tribunal-ruling-in-the-cases-of-toni-fox-a-2025530/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SET: mai-Listed Companies Post Q1/2025 Total Sales Of THB 50.43 Billion](http://www.mondovisione.com/media-and-resources/news/mai-listed-companies-post-q12025-total-sales-of-thb-5043-billion-2025530/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SET: Listed Companies In Services And Consumption Sectors Report Net Profit Growth](http://www.mondovisione.com/media-and-resources/news/set-listed-companies-in-services-and-consumption-sectors-report-net-profit-grow-2025530/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MillTech Launches Cash Management Solution, Partnering With BlackRock - Firm Also Launches AI-Based Risk Advisory And Calculation Services To Enhance Decision-Making](http://www.mondovisione.com/media-and-resources/news/milltech-launches-cash-management-solution-partnering-with-blackrock-firm-als-2025530/)
+Append: [HKEX Outlines Preparation Work For Transition To USM](http://www.mondovisione.com/media-and-resources/news/hkex-outlines-preparation-work-for-transition-to-usm-2025530/)
+Append: [ETFGI Reports That Assets Invested In The ETFs Industry In Japan Reached A New Record Of US$614.26 Billion At The End Of April](http://www.mondovisione.com/media-and-resources/news/etfgi-reports-that-assets-invested-in-the-etfs-industry-in-japan-reached-a-new-r-2025530/)
+append_entries: 7
+Finish: 2025-05-30 14:23:45.048009
