@@ -2951,3 +2951,27 @@ Existing_entries: 479
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-05-30 04:29:56.795730
+------------------------------------------------------
+Started: 2025-05-30 06:33:25.881733
+Existing_entries: 479
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASX Enhances Transparency In New Pricing Policy For Cash Equities Clearing, Settlement And Issuer Services](http://www.mondovisione.com/media-and-resources/news/asx-enhances-transparency-in-new-pricing-policy-for-cash-equities-clearing-sett-2025530/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NZX: Block Trade Threshold: Notice Of Procedure Amendment](http://www.mondovisione.com/media-and-resources/news/nzx-block-trade-threshold-notice-of-procedure-amendment-2025530/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Response To Staff Statement On Protocol Staking Activities: Stake It ‘Till You Make It?, SEC Commissioner Caroline A. Crenshaw, May 29, 2025](http://www.mondovisione.com/media-and-resources/news/response-to-staff-statement-on-protocol-staking-activities-stake-it-till-you-m-2025530/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Acting Comptroller Of The US Currency Discusses Financial Literacy Education](http://www.mondovisione.com/media-and-resources/news/acting-comptroller-of-the-us-currency-discusses-financial-literacy-education-2025530/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Providing Security Is Not A “Security” – Division Of Corporation Finance’s Statement On Protocol Staking, SEC Commissioner Hester M. Peirce, May 29, 2025](http://www.mondovisione.com/media-and-resources/news/providing-security-is-not-a-security-division-of-corporation-finances-state-2025530/)
+Append: [Statement On Certain Protocol Staking Activities, SEC Division Of Corporation Finance, May 29, 2025](http://www.mondovisione.com/media-and-resources/news/statement-on-certain-protocol-staking-activities-sec-division-of-corporation-fi-2025530/)
+Append: [Keynote Remarks Of CFTC Commissioner Kristin Johnson At The Federal Reserve Bank Of Dallas, Exploring AI Risks And Opportunities Across The Digital And Cyber Landscape](http://www.mondovisione.com/media-and-resources/news/keynote-remarks-of-cftc-commissioner-kristin-johnson-at-the-federal-reserve-bank-2025530/)
+Append: [Ontario Securities Commission Announces Next Steps On Improving Investor Access To Long-Term Assets](http://www.mondovisione.com/media-and-resources/news/ontario-securities-commission-announces-next-steps-on-improving-investor-access-2025530/)
+append_entries: 8
+Finish: 2025-05-30 06:33:27.400285
