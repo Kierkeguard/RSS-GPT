@@ -2933,3 +2933,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Opening Remarks, Federal Reserve Governor Adriana D. Kugler, At The 2025 Federal Reserve Board Macro-Finance Workshop, Washington, D.C.](http://www.mondovisione.com/media-and-resources/news/opening-remarks-federal-reserve-governor-adriana-d-kugler-at-the-2025-federal-2025529/)
 append_entries: 3
 Finish: 2025-05-29 22:22:12.662590
+------------------------------------------------------
+Started: 2025-05-30 01:53:24.360548
+Existing_entries: 479
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-05-30 01:53:25.257060
