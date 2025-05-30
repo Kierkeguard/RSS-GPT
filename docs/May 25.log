@@ -2975,3 +2975,15 @@ Append: [Keynote Remarks Of CFTC Commissioner Kristin Johnson At The Federal Res
 Append: [Ontario Securities Commission Announces Next Steps On Improving Investor Access To Long-Term Assets](http://www.mondovisione.com/media-and-resources/news/ontario-securities-commission-announces-next-steps-on-improving-investor-access-2025530/)
 append_entries: 8
 Finish: 2025-05-30 06:33:27.400285
+------------------------------------------------------
+Started: 2025-05-30 08:30:50.815621
+Existing_entries: 487
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Zealand Financial Markets Authority:  AML/CFT Guidance For Financial Institutions On Risk Ratings For New Customers](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-amlcft-guidance-for-financial-institu-2025530/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Zealand Financial Markets Authority Issues Infringement Notice To Pharmazen Limited](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-issues-infringement-notice-to-pharmazen-2025530/)
+append_entries: 2
+Finish: 2025-05-30 08:30:51.891639
