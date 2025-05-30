@@ -3044,3 +3044,18 @@ Append: [Malawi Stock Exchange Weekly Summary Report, 30 May 2025](http://www.mo
 Append: [ETFGI Reports Thematic ETFs Listed Globally Gathered US$923.69 Million In Net Inflows In April](http://www.mondovisione.com/media-and-resources/news/etfgi-reports-thematic-etfs-listed-globally-gathered-us92369-million-in-net-in-2025530/)
 append_entries: 6
 Finish: 2025-05-30 16:29:54.997967
+------------------------------------------------------
+Started: 2025-05-30 18:32:37.172297
+Existing_entries: 502
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Government Completes Exit From NatWest - Final Share Sale Ends Nearly 17 Years Of Public Ownership](http://www.mondovisione.com/media-and-resources/news/uk-government-completes-exit-from-natwest-final-share-sale-ends-nearly-17-year-2025530/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nadex Self-Certifies Block Trading Rules](http://www.mondovisione.com/media-and-resources/news/nadex-self-certifies-block-trading-rules-2025530/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Welcomes Statement Supporting Faster Settlement Of Trades In Funds](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-welcomes-statement-supporting-faster-settlement-o-2025530/)
+append_entries: 3
+Finish: 2025-05-30 18:32:38.170828
