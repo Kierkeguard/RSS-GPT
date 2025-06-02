@@ -3233,3 +3233,25 @@ Existing_entries: 509
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-06-02 04:33:58.315065
+------------------------------------------------------
+Started: 2025-06-02 06:35:50.627180
+Existing_entries: 509
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TP ICAP Acquires Neptune Networks And Partners With Nine Global Investment Banks To Create New Dealer-To-Client Credit Business](http://www.mondovisione.com/media-and-resources/news/tp-icap-acquires-neptune-networks-and-partners-with-nine-global-investment-banks-202562/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [JPX Group To Implement Summer Casual Dress Code](http://www.mondovisione.com/media-and-resources/news/jpx-group-to-implement-summer-casual-dress-code-202562/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Uncovers Widespread Compliance Plan Deficiencies In The Managed Investment Industry](http://www.mondovisione.com/media-and-resources/news/asic-uncovers-widespread-compliance-plan-deficiencies-in-the-managed-investment-202562/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Japan Exchange Group: Status Of Acquisition Of Own Shares](http://www.mondovisione.com/media-and-resources/news/japan-exchange-group-status-of-acquisition-of-own-shares-202562/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Effects Of Tariffs On The Three I’s: Inflation, Inflation Persistence, And Inflation Expectations, Federal Reserve Governor Christopher J. Waller, At “Structural Shifts And Monetary Policy,” 2025 Bank Of Korea International Conference, Bank Of Korea, Seoul, South Korea](http://www.mondovisione.com/media-and-resources/news/the-effects-of-tariffs-on-the-three-is-inflation-inflation-persistence-and-i-202562/)
+Append: [The Amman Stock Exchange Receives A Delegation From Hashemite University](http://www.mondovisione.com/media-and-resources/news/the-amman-stock-exchange-receives-a-delegation-from-hashemite-university-202562/)
+append_entries: 6
+Finish: 2025-06-02 06:35:51.983438
