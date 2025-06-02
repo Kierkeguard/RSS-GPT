@@ -3344,3 +3344,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [PIABA President: Recent Changes Will Harm Investors And Drastically Reduce Public Arbitrator Pool, But FINRA Never Sought Stakeholder Input Or Public Comments](http://www.mondovisione.com/media-and-resources/news/piaba-president-recent-changes-will-harm-investors-and-drastically-reduce-publi-202562/)
 append_entries: 5
 Finish: 2025-06-02 16:31:31.951449
+------------------------------------------------------
+Started: 2025-06-02 18:33:14.312324
+Existing_entries: 536
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Opening Remarks, Federal Reserve Chair Jerome H. Powell, At The Division Of International Finance 75th Anniversary Conference, Federal Reserve Board, Washington, D.C.](http://www.mondovisione.com/media-and-resources/news/opening-remarks-federal-reserve-chair-jerome-h-powell-at-the-division-of-inte-202562/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Office Of The Comptroller Of The Currency Releases CRA Performance Evaluations For 18 National Banks And Federal Savings Associations](http://www.mondovisione.com/media-and-resources/news/us-office-of-the-comptroller-of-the-currency-releases-cra-performance-evaluation-202562/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC: Natalia Díez Riggin Named Senior Advisor And Director Of Legislative And Intergovernmental Affairs](http://www.mondovisione.com/media-and-resources/news/sec-natalia-dez-riggin-named-senior-advisor-and-director-of-legislative-and-in-202562/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Michael Baron Settles With The Alberta Securities Commission For Market Manipulation](http://www.mondovisione.com/media-and-resources/news/michael-baron-settles-with-the-alberta-securities-commission-for-market-manipula-202562/)
+append_entries: 4
+Finish: 2025-06-02 18:33:15.452692
