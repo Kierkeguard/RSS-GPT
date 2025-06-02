@@ -3255,3 +3255,21 @@ Append: [The Effects Of Tariffs On The Three I’s: Inflation, Inflation Persist
 Append: [The Amman Stock Exchange Receives A Delegation From Hashemite University](http://www.mondovisione.com/media-and-resources/news/the-amman-stock-exchange-receives-a-delegation-from-hashemite-university-202562/)
 append_entries: 6
 Finish: 2025-06-02 06:35:51.983438
+------------------------------------------------------
+Started: 2025-06-02 08:32:57.975863
+Existing_entries: 515
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group Announces Record Volume, Open Interest Across Battery Metals Complex](http://www.mondovisione.com/media-and-resources/news/cme-group-announces-record-volume-open-interest-across-battery-metals-complex-202562/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Wamid Partners With BMLL To Bring Advanced Analytics Tools To The Saudi Capital Markets - Partnership Will Deliver The Saudi Market’s First White-Labelled Cloud Analytics Tools To Quants, Analysts And Institutional Investors](http://www.mondovisione.com/media-and-resources/news/wamid-partners-with-bmll-to-bring-advanced-analytics-tools-to-the-saudi-capital-202562/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group PLC Transactions In Own Securities](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-transactions-in-own-securities-202562/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Japan Exchange Group Trading Overview In May 2025](http://www.mondovisione.com/media-and-resources/news/japan-exchange-group-trading-overview-in-may-2025-202562/)
+append_entries: 4
+Finish: 2025-06-02 08:33:00.932791
