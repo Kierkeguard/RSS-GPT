@@ -3279,3 +3279,24 @@ Existing_entries: 519
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-06-02 10:26:52.660354
+------------------------------------------------------
+Started: 2025-06-02 12:50:05.492510
+Existing_entries: 519
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIX Exchanges Figures May 2025](http://www.mondovisione.com/media-and-resources/news/six-exchanges-figures-may-2025-202562/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NSE Indices Fixed Income Index Dashboard For The Month Ended May 2025](http://www.mondovisione.com/media-and-resources/news/nse-indices-fixed-income-index-dashboard-for-the-month-ended-may-2025-202562/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Biopharma Venture Financing QoQ Doubles To $1.1 Billion In Q1 2025, Reveals GlobalData](http://www.mondovisione.com/media-and-resources/news/uk-biopharma-venture-financing-qoq-doubles-to-11-billion-in-q1-2025-reveals-g-202562/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Boerse Stuttgart Records May Turnover Of Around EUR 9,6 Billion - Strong Increases In Structured Securities, Equities And Exchange-Traded Products Compared To The Same Month Of The Previous Year](http://www.mondovisione.com/media-and-resources/news/boerse-stuttgart-records-may-turnover-of-around-eur-96-billion-strong-increas-202562/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BIS Latest Update - June 2025: Trust, Stability And Tokenisation](http://www.mondovisione.com/media-and-resources/news/bis-latest-update-june-2025-trust-stability-and-tokenisation-202562/)
+append_entries: 5
+Finish: 2025-06-02 12:50:08.405116
