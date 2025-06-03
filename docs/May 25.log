@@ -3455,3 +3455,24 @@ Existing_entries: 551
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-06-03 14:24:59.107785
+------------------------------------------------------
+Started: 2025-06-03 16:32:00.664331
+Existing_entries: 551
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BME Presents Its Foreign Exchange Transaction Settlement System FXS Along With Its First Participants, Banca March And Bankinter](http://www.mondovisione.com/media-and-resources/news/bme-presents-its-foreign-exchange-transaction-settlement-system-fxs-along-with-i-202563/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Himalaya Shipping Transfers To Euronext Oslo Børs](http://www.mondovisione.com/media-and-resources/news/himalaya-shipping-transfers-to-euronext-oslo-brs-202563/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group Sets New May ADV Record Of 28.9 Million Contracts, Up 11% Year Over Year](http://www.mondovisione.com/media-and-resources/news/cme-group-sets-new-may-adv-record-of-289-million-contracts-up-11-year-over-ye-202563/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euronext Tech Leaders Welcomes Eight New Companies On The Occasion Of Its 2025 Annual Review](http://www.mondovisione.com/media-and-resources/news/euronext-tech-leaders-welcomes-eight-new-companies-on-the-occasion-of-its-2025-a-202563/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Purdue University/CME Group Ag Economy Barometer: Farmer Sentiment Reaches A Four-Year High In May](http://www.mondovisione.com/media-and-resources/news/purdue-universitycme-group-ag-economy-barometer-farmer-sentiment-reaches-a-fou-202563/)
+append_entries: 5
+Finish: 2025-06-03 16:32:01.882295
