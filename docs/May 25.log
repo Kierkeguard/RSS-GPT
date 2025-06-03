@@ -3401,3 +3401,21 @@ Existing_entries: 541
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-06-03 06:35:39.344089
+------------------------------------------------------
+Started: 2025-06-03 08:33:25.896566
+Existing_entries: 541
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Proprietary Trading Firms Perform Well During Market Volatility Driven By 'Liberation Day' Tariffs - Acuiti](http://www.mondovisione.com/media-and-resources/news/proprietary-trading-firms-perform-well-during-market-volatility-driven-by-liber-202563/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Second Closing Of The Agility 2 Co-Investment Fund Above Expectations](http://www.mondovisione.com/media-and-resources/news/second-closing-of-the-agility-2-co-investment-fund-above-expectations-202563/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Thunes Expands Its Direct Global Network Into Denmark, Norway And Sweden - Members Of Thunes' Proprietary Network Can Now Make Direct Payments To Bank Accounts In The Nordic Region, At Speed, Bypassing Legacy Rails](http://www.mondovisione.com/media-and-resources/news/thunes-expands-its-direct-global-network-into-denmark-norway-and-sweden-membe-202563/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tokyo Financial Exchange Trading Volume In May 2024](http://www.mondovisione.com/media-and-resources/news/tokyo-financial-exchange-trading-volume-in-may-2024-202563/)
+append_entries: 4
+Finish: 2025-06-03 08:33:27.290992
