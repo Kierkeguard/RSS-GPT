@@ -3488,3 +3488,26 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [EGX: Eid El Adha Al Mubarak Holidays 2025](http://www.mondovisione.com/media-and-resources/news/egx-eid-el-adha-al-mubarak-holidays-2025-202563/)
 append_entries: 2
 Finish: 2025-06-03 18:34:04.382989
+------------------------------------------------------
+Started: 2025-06-03 20:26:51.475191
+Existing_entries: 558
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Reports May 2025 Volumes](http://www.mondovisione.com/media-and-resources/news/nasdaq-reports-may-2025-volumes-202563/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Federal Reserve Announces Wells Fargo Is No Longer Subject To The Asset Growth Restriction From The Board’s 2018 Enforcement Action Against The Bank](http://www.mondovisione.com/media-and-resources/news/federal-reserve-announces-wells-fargo-is-no-longer-subject-to-the-asset-growth-r-202563/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Alerts Traders Domain Customers To July 28 Claim Deadline](http://www.mondovisione.com/media-and-resources/news/cftc-alerts-traders-domain-customers-to-july-28-claim-deadline-202563/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Testimony Before The United States Senate Appropriations Subcommittee On Financial Services And General Government, Paul S. Atkins, SEC Chairman, Washington D.C., June 3, 2025](http://www.mondovisione.com/media-and-resources/news/testimony-before-the-united-states-senate-appropriations-subcommittee-on-financi-202563/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Economic Outlook, Federal Reserve Governor Lisa D. Cook, At The Council On Foreign Relations, New York, New York](http://www.mondovisione.com/media-and-resources/news/economic-outlook-federal-reserve-governor-lisa-d-cook-at-the-council-on-forei-202563/)
+Append: [SIFMA Welcomes Senate Introduction Of E-delivery Legislation](http://www.mondovisione.com/media-and-resources/news/sifma-welcomes-senate-introduction-of-e-delivery-legislation-202563/)
+Append: [OCC May 2025 Monthly Volume Data](http://www.mondovisione.com/media-and-resources/news/occ-may-2025-monthly-volume-data-202563/)
+append_entries: 7
+Finish: 2025-06-03 20:26:52.679660
