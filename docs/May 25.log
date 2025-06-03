@@ -3476,3 +3476,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Purdue University/CME Group Ag Economy Barometer: Farmer Sentiment Reaches A Four-Year High In May](http://www.mondovisione.com/media-and-resources/news/purdue-universitycme-group-ag-economy-barometer-farmer-sentiment-reaches-a-fou-202563/)
 append_entries: 5
 Finish: 2025-06-03 16:32:01.882295
+------------------------------------------------------
+Started: 2025-06-03 18:34:03.012071
+Existing_entries: 556
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Qatar Stock Exchange Announces Eid al-Adha Holiday](http://www.mondovisione.com/media-and-resources/news/qatar-stock-exchange-announces-eid-al-adha-holiday-202563/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [EGX: Eid El Adha Al Mubarak Holidays 2025](http://www.mondovisione.com/media-and-resources/news/egx-eid-el-adha-al-mubarak-holidays-2025-202563/)
+append_entries: 2
+Finish: 2025-06-03 18:34:04.382989
