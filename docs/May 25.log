@@ -3419,3 +3419,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Tokyo Financial Exchange Trading Volume In May 2024](http://www.mondovisione.com/media-and-resources/news/tokyo-financial-exchange-trading-volume-in-may-2024-202563/)
 append_entries: 4
 Finish: 2025-06-03 08:33:27.290992
+------------------------------------------------------
+Started: 2025-06-03 10:26:37.877738
+Existing_entries: 545
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Play A Role In EU Electricity Cybersecurity: Join ACER's Stakeholder Committee](http://www.mondovisione.com/media-and-resources/news/play-a-role-in-eu-electricity-cybersecurity-join-acers-stakeholder-committee-202563/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [STOXX And ICE Collaborate On New Suite Of Fixed Income Indices](http://www.mondovisione.com/media-and-resources/news/stoxx-and-ice-collaborate-on-new-suite-of-fixed-income-indices-202563/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority: Updated Version Of Our Enforcement Guide Published](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-updated-version-of-our-enforcement-guide-publish-202563/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [26 Degrees Selects QuantHouse For Enhanced US Equities Coverage](http://www.mondovisione.com/media-and-resources/news/26-degrees-selects-quanthouse-for-enhanced-us-equities-coverage-202563/)
+append_entries: 4
+Finish: 2025-06-03 10:26:39.270121
