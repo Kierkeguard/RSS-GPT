@@ -3449,3 +3449,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [FCA-Registered Cryptoasset Firm Launches GBP Stablecoin - BCP Technologies Issues And Distributes Tokenised GBP (Tgbp), The First Live GBP-Denominated Stablecoin Issuer](http://www.mondovisione.com/media-and-resources/news/fca-registered-cryptoasset-firm-launches-gbp-stablecoin-bcp-technologies-issue-202563/)
 append_entries: 2
 Finish: 2025-06-03 12:50:28.616792
+------------------------------------------------------
+Started: 2025-06-03 14:24:58.317820
+Existing_entries: 551
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-06-03 14:24:59.107785
