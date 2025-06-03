@@ -3437,3 +3437,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [26 Degrees Selects QuantHouse For Enhanced US Equities Coverage](http://www.mondovisione.com/media-and-resources/news/26-degrees-selects-quanthouse-for-enhanced-us-equities-coverage-202563/)
 append_entries: 4
 Finish: 2025-06-03 10:26:39.270121
+------------------------------------------------------
+Started: 2025-06-03 12:50:27.755640
+Existing_entries: 549
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tehran Securities Exchange Weekly Market Snapshot, 28 May  2025](http://www.mondovisione.com/media-and-resources/news/tehran-securities-exchange-weekly-market-snapshot-28-may-2025-202563/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FCA-Registered Cryptoasset Firm Launches GBP Stablecoin - BCP Technologies Issues And Distributes Tokenised GBP (Tgbp), The First Live GBP-Denominated Stablecoin Issuer](http://www.mondovisione.com/media-and-resources/news/fca-registered-cryptoasset-firm-launches-gbp-stablecoin-bcp-technologies-issue-202563/)
+append_entries: 2
+Finish: 2025-06-03 12:50:28.616792
