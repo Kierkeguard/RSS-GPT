@@ -3562,3 +3562,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [The Future Of Australia’s Public And Private Markets – ASIC Shares Industry Feedback And Next Steps](http://www.mondovisione.com/media-and-resources/news/the-future-of-australias-public-and-private-markets-asic-shares-industry-feed-202564/)
 append_entries: 4
 Finish: 2025-06-04 08:32:23.762985
+------------------------------------------------------
+Started: 2025-06-04 10:26:19.404602
+Existing_entries: 570
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FTSE China Index Series Quarterly Review – Q2 2025](http://www.mondovisione.com/media-and-resources/news/ftse-china-index-series-quarterly-review-q2-2025-202564/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group PLC Transactions In Own Securities](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-transactions-in-own-securities-202564/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [GCEX Extends Commodities Coverage To Meet Institutional Demand](http://www.mondovisione.com/media-and-resources/news/gcex-extends-commodities-coverage-to-meet-institutional-demand-202564/)
+append_entries: 3
+Finish: 2025-06-04 10:26:22.527527
