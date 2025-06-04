@@ -3616,3 +3616,26 @@ Existing_entries: 580
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-06-04 16:26:05.186700
+------------------------------------------------------
+Started: 2025-06-04 18:33:33.021653
+Existing_entries: 580
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [May 2025 Figures At Eurex](http://www.mondovisione.com/media-and-resources/news/may-2025-figures-at-eurex-202564/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Launches Exclusive Access To Nasdaq Private Market’s Tape D® API To Deliver Advanced Visibility Into Private Markets - Real-Time Private Company Dataset Offers Critical Pricing And Valuation Insights For Private Companies, Investors, And Advisors](http://www.mondovisione.com/media-and-resources/news/nasdaq-launches-exclusive-access-to-nasdaq-private-markets-tape-d-api-to-deliv-202564/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [For The First Time, The FESE De La Vega Prize Is Awarded To Two Winners](http://www.mondovisione.com/media-and-resources/news/for-the-first-time-the-fese-de-la-vega-prize-is-awarded-to-two-winners-202564/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The EBA Issues Opinions On Two Measures To Address Macroprudential Risk Following Notifications By The Swedish FSA](http://www.mondovisione.com/media-and-resources/news/the-eba-issues-opinions-on-two-measures-to-address-macroprudential-risk-followin-202564/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Keynote Speech By EU Commissioner Albuquerque At The FESE Convention 2025 (Federation Of European Securities Exchanges )](http://www.mondovisione.com/media-and-resources/news/keynote-speech-by-eu-commissioner-albuquerque-at-the-fese-convention-2025-feder-202564/)
+Append: [Dubai Financial Market Regulated Short Sell – Weekly Summary - 02nd June 2025 To 04th June 2025](http://www.mondovisione.com/media-and-resources/news/dubai-financial-market-regulated-short-sell-weekly-summary-02nd-june-2025-to-202564/)
+Append: [Transamerica Life Bermuda Expands Global Presence With A Licence In Dubai International Finance Centre](http://www.mondovisione.com/media-and-resources/news/transamerica-life-bermuda-expands-global-presence-with-a-licence-in-dubai-intern-202564/)
+append_entries: 7
+Finish: 2025-06-04 18:33:34.358872
