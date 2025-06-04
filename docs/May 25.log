@@ -3544,3 +3544,21 @@ Existing_entries: 566
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-06-04 06:34:19.824270
+------------------------------------------------------
+Started: 2025-06-04 08:32:22.575057
+Existing_entries: 566
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Abu Dhabi Securities Exchange: Armenia Stock Exchange Goes Live On Tabadul Platform](http://www.mondovisione.com/media-and-resources/news/abu-dhabi-securities-exchange-armenia-stock-exchange-goes-live-on-tabadul-platf-202564/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Dubai Financial Services Authority Appoints Juma Thani Alhameli As New Chief Operating Officer](http://www.mondovisione.com/media-and-resources/news/the-dubai-financial-services-authority-appoints-juma-thani-alhameli-as-new-chief-202564/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Sterling Launches Overnight Global Trading In US NMS Equities - 24x5 Capability Available Via Blue Ocean Technologies](http://www.mondovisione.com/media-and-resources/news/sterling-launches-overnight-global-trading-in-us-nms-equities-24x5-capability-202564/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Future Of Australia’s Public And Private Markets – ASIC Shares Industry Feedback And Next Steps](http://www.mondovisione.com/media-and-resources/news/the-future-of-australias-public-and-private-markets-asic-shares-industry-feed-202564/)
+append_entries: 4
+Finish: 2025-06-04 08:32:23.762985
