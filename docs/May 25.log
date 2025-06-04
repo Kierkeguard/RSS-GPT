@@ -3610,3 +3610,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Intercontinental Exchange Reports May Statistics](http://www.mondovisione.com/media-and-resources/news/intercontinental-exchange-reports-may-statistics-202564/)
 append_entries: 2
 Finish: 2025-06-04 14:19:50.661024
+------------------------------------------------------
+Started: 2025-06-04 16:26:04.288137
+Existing_entries: 580
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-06-04 16:26:05.186700
