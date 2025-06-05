@@ -3733,3 +3733,24 @@ Existing_entries: 609
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-06-05 08:31:35.207825
+------------------------------------------------------
+Started: 2025-06-05 10:26:54.055763
+Existing_entries: 609
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The WFE Supports European Commission’s SIU Efforts, But Calls For Stronger Measures To Drive Growth](http://www.mondovisione.com/media-and-resources/news/the-wfe-supports-european-commissions-siu-efforts-but-calls-for-stronger-measu-202565/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER Will Evaluate Electricity System Operators’ Bidding Zone Review For Alignment With The EU Regulatory Framework](http://www.mondovisione.com/media-and-resources/news/acer-will-evaluate-electricity-system-operators-bidding-zone-review-for-alignme-202565/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Funding Our Future: Building Brilliant Companies On The UK’s Public Markets - Speech By Sarah Pritchard, UK Financial Conduct Authority Executive Director For Supervision, Policy And Competition And Executive Director For International, At Quoted Companies Alliance Annual Conference, London](http://www.mondovisione.com/media-and-resources/news/funding-our-future-building-brilliant-companies-on-the-uks-public-markets-sp-202565/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ETFGI: Access To ETFs Listed In The United States Continues To Expand For Japanese Retail Investors](http://www.mondovisione.com/media-and-resources/news/etfgi-access-to-etfs-listed-in-the-united-states-continues-to-expand-for-japane-202565/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Investors See Private Markets As A Primary Environment For Thematic Strategies Shows BNP Paribas 2025 Thematics Barometer](http://www.mondovisione.com/media-and-resources/news/investors-see-private-markets-as-a-primary-environment-for-thematic-strategies-s-202565/)
+append_entries: 5
+Finish: 2025-06-05 10:26:55.640643
