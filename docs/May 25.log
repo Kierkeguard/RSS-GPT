@@ -3754,3 +3754,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Investors See Private Markets As A Primary Environment For Thematic Strategies Shows BNP Paribas 2025 Thematics Barometer](http://www.mondovisione.com/media-and-resources/news/investors-see-private-markets-as-a-primary-environment-for-thematic-strategies-s-202565/)
 append_entries: 5
 Finish: 2025-06-05 10:26:55.640643
+------------------------------------------------------
+Started: 2025-06-05 12:49:57.708702
+Existing_entries: 614
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MarketAxess Announces Trading Volume Statistics For May 2025](http://www.mondovisione.com/media-and-resources/news/marketaxess-announces-trading-volume-statistics-for-may-2025-202565/)
+append_entries: 1
+Finish: 2025-06-05 12:49:59.133984
