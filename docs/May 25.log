@@ -3769,3 +3769,15 @@ Existing_entries: 615
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-06-05 14:24:07.985324
+------------------------------------------------------
+Started: 2025-06-05 16:30:34.399355
+Existing_entries: 615
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER Encourages ENTSOG To Further Improve The Methodology For Identifying Hydrogen Infrastructure Gaps](http://www.mondovisione.com/media-and-resources/news/acer-encourages-entsog-to-further-improve-the-methodology-for-identifying-hydrog-202565/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tradeweb Reports May 2025 Total Trading Volume Of $55.4 Trillion And Average Daily Volume Of $2.5 Trillion](http://www.mondovisione.com/media-and-resources/news/tradeweb-reports-may-2025-total-trading-volume-of-554-trillion-and-average-dai-202565/)
+append_entries: 2
+Finish: 2025-06-05 16:30:36.198232
