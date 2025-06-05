@@ -3807,3 +3807,12 @@ Append: [Just Passing Through: Remarks At The Meeting Of The SEC Investor Adviso
 Append: [Remarks At The Meeting Of The Investor Advisory Committee, Paul S. Atkins, SEC Chairman, Washington D.C., June 5, 2025](http://www.mondovisione.com/media-and-resources/news/remarks-at-the-meeting-of-the-investor-advisory-committee-paul-s-atkins-sec-c-202565/)
 append_entries: 10
 Finish: 2025-06-05 20:21:38.713208
+------------------------------------------------------
+Started: 2025-06-05 22:21:29.424834
+Existing_entries: 627
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [U.S. Department Of The Treasury Releases Report On Macroeconomic And Foreign Exchange Policies Of Major Trading Partners Of The United States](http://www.mondovisione.com/media-and-resources/news/us-department-of-the-treasury-releases-report-on-macroeconomic-and-foreign-exc-202565/)
+append_entries: 1
+Finish: 2025-06-05 22:21:30.759845
