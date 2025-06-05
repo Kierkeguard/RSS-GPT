@@ -3763,3 +3763,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [MarketAxess Announces Trading Volume Statistics For May 2025](http://www.mondovisione.com/media-and-resources/news/marketaxess-announces-trading-volume-statistics-for-may-2025-202565/)
 append_entries: 1
 Finish: 2025-06-05 12:49:59.133984
+------------------------------------------------------
+Started: 2025-06-05 14:24:06.696479
+Existing_entries: 615
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-06-05 14:24:07.985324
