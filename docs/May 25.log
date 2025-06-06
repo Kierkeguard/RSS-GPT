@@ -3861,3 +3861,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SET Seeks Market Consultation On Revised Free Float And IPO Distribution Requirements For New Listings Until June 25, 2025](http://www.mondovisione.com/media-and-resources/news/set-seeks-market-consultation-on-revised-free-float-and-ipo-distribution-require-202566/)
 append_entries: 1
 Finish: 2025-06-06 08:31:03.378392
+------------------------------------------------------
+Started: 2025-06-06 10:26:37.364202
+Existing_entries: 633
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Miami International Holdings' Acquisition Of The International Stock Exchange Becomes Effective](http://www.mondovisione.com/media-and-resources/news/miami-international-holdings-acquisition-of-the-international-stock-exchange-be-202566/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Leads International Crackdown On Illegal Finfluencers](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-leads-international-crackdown-on-illegal-finfluen-202566/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Association Of National Numbering Agency (ANNA) Wins ‘Best Reference Data Provider’ At The WatersTechnology Inside Market Data And Inside Reference Data Awards 2025](http://www.mondovisione.com/media-and-resources/news/the-association-of-national-numbering-agency-anna-wins-best-reference-data-pr-202566/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [DSB Wins ‘Best Reference Data Initiative’ At The WatersTechnology Inside Market Data And Inside Reference Data Awards 2025](http://www.mondovisione.com/media-and-resources/news/dsb-wins-best-reference-data-initiative-at-the-waterstechnology-inside-market-202566/)
+append_entries: 4
+Finish: 2025-06-06 10:26:38.463166
