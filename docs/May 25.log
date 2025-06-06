@@ -3937,3 +3937,25 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Federal Reserve Board begins 2025 Census Of Finance Companies And Other Lenders](http://www.mondovisione.com/media-and-resources/news/federal-reserve-board-begins-2025-census-of-finance-companies-and-other-lenders-202566/)
 append_entries: 2
 Finish: 2025-06-06 18:33:11.441266
+------------------------------------------------------
+Started: 2025-06-06 20:26:46.299234
+Existing_entries: 649
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Commitments Of Traders Reports Update](http://www.mondovisione.com/media-and-resources/news/cftc-commitments-of-traders-reports-update-202566/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Financial Data For Futures Commission Merchants Update](http://www.mondovisione.com/media-and-resources/news/cftc-financial-data-for-futures-commission-merchants-update-202566/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Michael E. Horowitz Appointed Inspector General For The Federal Reserve Board And Consumer Financial Protection Bureau](http://www.mondovisione.com/media-and-resources/news/michael-e-horowitz-appointed-inspector-general-for-the-federal-reserve-board-an-202566/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Ontario Securities Commission Joins International Regulators For Global Week Of Action Against Unlawful Finfluencers](http://www.mondovisione.com/media-and-resources/news/ontario-securities-commission-joins-international-regulators-for-global-week-of-202566/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BC Securities Commission Joins International Crackdown On Unlawful ‘Finfluencers’](http://www.mondovisione.com/media-and-resources/news/bc-securities-commission-joins-international-crackdown-on-unlawful-finfluencers-202566/)
+Append: [Finfluencers Under Surveillance: Autorité Des Marchés Financiers Joins Forces With Regulators Across The Globe](http://www.mondovisione.com/media-and-resources/news/finfluencers-under-surveillance-autorit-des-marchs-financiers-joins-forces-wi-202566/)
+append_entries: 6
+Finish: 2025-06-06 20:26:47.311649
