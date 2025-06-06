@@ -3852,3 +3852,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Opening Remarks By Pol De Win, Head Of Global Sales & Origination, SGX Group At The Securities Market Opening Ceremony For Oiltek International Limited](http://www.mondovisione.com/media-and-resources/news/opening-remarks-by-pol-de-win-head-of-global-sales-and-origination-sgx-group-at-202566/)
 append_entries: 4
 Finish: 2025-06-06 06:35:20.353490
+------------------------------------------------------
+Started: 2025-06-06 08:31:02.320819
+Existing_entries: 632
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SET Seeks Market Consultation On Revised Free Float And IPO Distribution Requirements For New Listings Until June 25, 2025](http://www.mondovisione.com/media-and-resources/news/set-seeks-market-consultation-on-revised-free-float-and-ipo-distribution-require-202566/)
+append_entries: 1
+Finish: 2025-06-06 08:31:03.378392
