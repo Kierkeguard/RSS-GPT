@@ -3907,3 +3907,21 @@ Append: [Giocamondo Study lists On Euronext](http://www.mondovisione.com/media-a
 Append: [London Stock Exchange Group PLC Transactions In Own Securities](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-transactions-in-own-securities-202566/)
 append_entries: 6
 Finish: 2025-06-06 14:23:11.485993
+------------------------------------------------------
+Started: 2025-06-06 16:30:48.609900
+Existing_entries: 643
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [United States Department Of The Treasury Announces New Appointment](http://www.mondovisione.com/media-and-resources/news/united-states-department-of-the-treasury-announces-new-appointment-202566/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Acting Chairman Pham To Speak At The State Of Crypto Summit 2025](http://www.mondovisione.com/media-and-resources/news/cftc-acting-chairman-pham-to-speak-at-the-state-of-crypto-summit-2025-202566/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Malawi Stock Exchange Weekly Summary Report, 6 June 2025](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-6-june-2025-202566/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Trading Technologies' TT® Platform Wins Award For Best Derivatives Trading System In Markets Media's 2025 Global Markets Choice Awards - Win Follows Best In Fintech Recognition For Alice Pocklington, EVP Head Of APAC, In Markets Media 2025 Women In Finance Asia Awards](http://www.mondovisione.com/media-and-resources/news/trading-technologies-tt-platform-wins-award-for-best-derivatives-trading-syste-202566/)
+append_entries: 4
+Finish: 2025-06-06 16:30:49.731225
