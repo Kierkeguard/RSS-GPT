@@ -3816,3 +3816,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [U.S. Department Of The Treasury Releases Report On Macroeconomic And Foreign Exchange Policies Of Major Trading Partners Of The United States](http://www.mondovisione.com/media-and-resources/news/us-department-of-the-treasury-releases-report-on-macroeconomic-and-foreign-exc-202565/)
 append_entries: 1
 Finish: 2025-06-05 22:21:30.759845
+------------------------------------------------------
+Started: 2025-06-06 01:55:47.176654
+Existing_entries: 628
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-06-06 01:55:48.192909
