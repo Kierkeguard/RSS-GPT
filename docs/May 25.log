@@ -3885,3 +3885,25 @@ Existing_entries: 637
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-06-06 12:48:44.774407
+------------------------------------------------------
+Started: 2025-06-06 14:23:10.515100
+Existing_entries: 637
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Taking A Fresh Look At Supervision And Regulation, Federal Reserve Vice Chair For Supervision Michelle W. Bowman, At The Georgetown University Mcdonough School Of Business Psaros Center For Financial Markets And Policy, Washington, D.C.](http://www.mondovisione.com/media-and-resources/news/taking-a-fresh-look-at-supervision-and-regulation-federal-reserve-vice-chair-fo-202566/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Revised Lists Of The Moscow Exchange Indices Announced](http://www.mondovisione.com/media-and-resources/news/revised-lists-of-the-moscow-exchange-indices-announced-202566/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Initial Access Document On BME Scaleup From Gesrenta BCN SOCIMI](http://www.mondovisione.com/media-and-resources/news/new-initial-access-document-on-bme-scaleup-from-gesrenta-bcn-socimi-202566/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority To Lift Ban On Crypto ETNs To Support UK Growth And Competitiveness](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-to-lift-ban-on-crypto-etns-to-support-uk-growth-a-202566/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Giocamondo Study lists On Euronext](http://www.mondovisione.com/media-and-resources/news/giocamondo-study-lists-on-euronext-202566/)
+Append: [London Stock Exchange Group PLC Transactions In Own Securities](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-transactions-in-own-securities-202566/)
+append_entries: 6
+Finish: 2025-06-06 14:23:11.485993
