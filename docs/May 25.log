@@ -4148,3 +4148,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Santander Partners With Worldpay To Support Business Banking And Corporate Customers](http://www.mondovisione.com/media-and-resources/news/santander-partners-with-worldpay-to-support-business-banking-and-corporate-custo-202569/)
 append_entries: 2
 Finish: 2025-06-09 08:34:09.506321
+------------------------------------------------------
+Started: 2025-06-09 10:26:48.346831
+Existing_entries: 662
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-06-09 10:26:49.322889
