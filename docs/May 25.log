@@ -4197,3 +4197,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [FTSE SET Index Series June 2025 Semi-Annual Review](http://www.mondovisione.com/media-and-resources/news/ftse-set-index-series-june-2025-semi-annual-review-202569/)
 append_entries: 5
 Finish: 2025-06-09 14:24:36.812488
+------------------------------------------------------
+Started: 2025-06-09 16:31:19.897886
+Existing_entries: 673
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cboe Successfully Completes Migration Of Cboe Digital Exchange Futures To Cboe Futures Exchange](http://www.mondovisione.com/media-and-resources/news/cboe-successfully-completes-migration-of-cboe-digital-exchange-futures-to-cboe-f-202569/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Exchange Group - Holiday Schedule - Juneteenth National Independence Day 2025](http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-holiday-schedule-juneteenth-national-independence-day-20-202569/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Thomas Murray Launches Digital Asset Custodian Risk Monitoring Service For Financial Institutions](http://www.mondovisione.com/media-and-resources/news/thomas-murray-launches-digital-asset-custodian-risk-monitoring-service-for-finan-202569/)
+append_entries: 3
+Finish: 2025-06-09 16:31:21.405394
