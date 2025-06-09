@@ -4136,3 +4136,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SET Grooms Learning Facilitators Through An Educational Bootcamp To Integrate Financial And Investment Knowledge Into The Education System](http://www.mondovisione.com/media-and-resources/news/set-grooms-learning-facilitators-through-an-educational-bootcamp-to-integrate-fi-202569/)
 append_entries: 2
 Finish: 2025-06-09 06:36:21.352759
+------------------------------------------------------
+Started: 2025-06-09 08:34:08.433766
+Existing_entries: 660
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Allows Firms To Experiment With AI Alongside NVIDIA](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-allows-firms-to-experiment-with-ai-alongside-nvid-202569/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Santander Partners With Worldpay To Support Business Banking And Corporate Customers](http://www.mondovisione.com/media-and-resources/news/santander-partners-with-worldpay-to-support-business-banking-and-corporate-custo-202569/)
+append_entries: 2
+Finish: 2025-06-09 08:34:09.506321
