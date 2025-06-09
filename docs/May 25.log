@@ -4124,3 +4124,15 @@ Existing_entries: 658
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-06-09 04:35:12.176343
+------------------------------------------------------
+Started: 2025-06-09 06:36:20.033916
+Existing_entries: 658
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SGX Group And B3 Usher In Round-The-Clock Liquidity With First FX Futures Corridor Between Singapore And Brazil](http://www.mondovisione.com/media-and-resources/news/sgx-group-and-b3-usher-in-round-the-clock-liquidity-with-first-fx-futures-corrid-202569/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SET Grooms Learning Facilitators Through An Educational Bootcamp To Integrate Financial And Investment Knowledge Into The Education System](http://www.mondovisione.com/media-and-resources/news/set-grooms-learning-facilitators-through-an-educational-bootcamp-to-integrate-fi-202569/)
+append_entries: 2
+Finish: 2025-06-09 06:36:21.352759
