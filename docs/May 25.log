@@ -4154,3 +4154,25 @@ Existing_entries: 662
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-06-09 10:26:49.322889
+------------------------------------------------------
+Started: 2025-06-09 12:50:00.692106
+Existing_entries: 662
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LSEG To Power A5X, Brazil’s Next Generation Derivatives Exchange](http://www.mondovisione.com/media-and-resources/news/lseg-to-power-a5x-brazils-next-generation-derivatives-exchange-202569/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SET To Implement Revised Criteria For Securities Eligible For Purchase By High-Frequency Trading (HFT) Investors, Effective July 7, 2025](http://www.mondovisione.com/media-and-resources/news/set-to-implement-revised-criteria-for-securities-eligible-for-purchase-by-high-f-202569/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The WFE Warns Against Regulatory Erosion That Could Undermine UK Public Markets And Investor Protections](http://www.mondovisione.com/media-and-resources/news/the-wfe-warns-against-regulatory-erosion-that-could-undermine-uk-public-markets-202569/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LCH Limited Signs MoU With CMU OmniClear Limited](http://www.mondovisione.com/media-and-resources/news/lch-limited-signs-mou-with-cmu-omniclear-limited-202569/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FSB Appoints Randal K. Quarles To Lead G20 Strategic Review Of Implementation Monitoring](http://www.mondovisione.com/media-and-resources/news/fsb-appoints-randal-k-quarles-to-lead-g20-strategic-review-of-implementation-mo-202569/)
+Append: [SET Market Report For May 2025](http://www.mondovisione.com/media-and-resources/news/set-market-report-for-may-2025-202569/)
+append_entries: 6
+Finish: 2025-06-09 12:50:01.523117
