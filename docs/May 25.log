@@ -4245,3 +4245,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Remarks At The Final Crypto Task Force Roundtable: Where We Go From Here, SEC Commissioner Caroline A. Crenshaw, Washington D.C., June 9, 2025](http://www.mondovisione.com/media-and-resources/news/remarks-at-the-final-crypto-task-force-roundtable-where-we-go-from-here-sec-co-202569/)
 append_entries: 3
 Finish: 2025-06-09 20:26:59.557249
+------------------------------------------------------
+Started: 2025-06-09 22:23:16.856923
+Existing_entries: 683
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Remarks At The Roundtable On DeFi And The American Spirit, SEC Commissioner Mark T. Uyeda, Washington D.C., June 9, 2025](http://www.mondovisione.com/media-and-resources/news/remarks-at-the-roundtable-on-defi-and-the-american-spirit-sec-commissioner-mark-202569/)
+append_entries: 1
+Finish: 2025-06-09 22:23:18.569659
