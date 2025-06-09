@@ -4212,3 +4212,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Thomas Murray Launches Digital Asset Custodian Risk Monitoring Service For Financial Institutions](http://www.mondovisione.com/media-and-resources/news/thomas-murray-launches-digital-asset-custodian-risk-monitoring-service-for-finan-202569/)
 append_entries: 3
 Finish: 2025-06-09 16:31:21.405394
+------------------------------------------------------
+Started: 2025-06-09 18:32:54.942563
+Existing_entries: 676
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [DeFining The American Spirit, SEC Commissioner Hester M. Peirce, Washington D.C., June 9, 2025](http://www.mondovisione.com/media-and-resources/news/defining-the-american-spirit-sec-commissioner-hester-m-peirce-washington-dc-202569/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Acting Comptroller Of The Currency Releases Letter On Preemption](http://www.mondovisione.com/media-and-resources/news/us-acting-comptroller-of-the-currency-releases-letter-on-preemption-202569/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Financial Groups Urge Administration To Address Pattern Of Data Security Lapses At Regulators](http://www.mondovisione.com/media-and-resources/news/us-financial-groups-urge-administration-to-address-pattern-of-data-security-laps-202569/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Remarks At The Crypto Task Force Roundtable On Decentralized Finance, Paul S. Atkins, SEC Chairman, Washington D.C., June 9, 2025](http://www.mondovisione.com/media-and-resources/news/remarks-at-the-crypto-task-force-roundtable-on-decentralized-finance-paul-s-at-202569/)
+append_entries: 4
+Finish: 2025-06-09 18:32:56.705833
