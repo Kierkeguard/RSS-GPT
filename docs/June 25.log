@@ -136,3 +136,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [24 Exchange Announces Launch Date For First Stage Of 24X National Exchange, The First SEC-Approved 23/5 Stock Exchange - Trading On 24X National Exchange Set To Commence On September 29, 2025](http://www.mondovisione.com/media-and-resources/news/24-exchange-announces-launch-date-for-first-stage-of-24x-national-exchange-the-2025610/)
 append_entries: 5
 Finish: 2025-06-10 20:26:44.370939
+------------------------------------------------------
+Started: 2025-06-10 22:22:38.822108
+Existing_entries: 34
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Announces End-Of-Month Open Short Interest Positions In Nasdaq Stocks As Of Settlement Date May 30, 2025](http://www.mondovisione.com/media-and-resources/news/nasdaq-announces-end-of-month-open-short-interest-positions-in-nasdaq-stocks-as-2025610/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NYSE Group Consolidated Short Interest Report](http://www.mondovisione.com/media-and-resources/news/nyse-group-consolidated-short-interest-report-2025610/)
+append_entries: 2
+Finish: 2025-06-10 22:22:39.706819
