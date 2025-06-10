@@ -75,3 +75,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [TMX Group Equity Financing Statistics – May 2025](http://www.mondovisione.com/media-and-resources/news/tmx-group-equity-financing-statistics-may-2025-2025610/)
 append_entries: 1
 Finish: 2025-06-10 14:24:00.344092
+------------------------------------------------------
+Started: 2025-06-10 16:31:06.751674
+Existing_entries: 19
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [U.S. Treasury Department Disrupts Sham Overseas Charity Networks Funding Hamas And The PFLP](http://www.mondovisione.com/media-and-resources/news/us-treasury-department-disrupts-sham-overseas-charity-networks-funding-hamas-a-2025610/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Natasha Vij Greiner Will Conclude Her Tenure As SEC Director Of Investment Management](http://www.mondovisione.com/media-and-resources/news/natasha-vij-greiner-will-conclude-her-tenure-as-sec-director-of-investment-manag-2025610/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Miami International Holdings Reports Trading Results For May 2025; MIAX Exchange Group U.S. Multi-Listed Options Volume Surges 44.2% With Market Share At Record 17.4%](http://www.mondovisione.com/media-and-resources/news/miami-international-holdings-reports-trading-results-for-may-2025-miax-exchange-2025610/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC To Resume Processing Of Registration Applications From Swiss-Based Investment Advisers](http://www.mondovisione.com/media-and-resources/news/sec-to-resume-processing-of-registration-applications-from-swiss-based-investmen-2025610/)
+append_entries: 4
+Finish: 2025-06-10 16:31:07.770294
