@@ -24,3 +24,15 @@ Append: [US Financial Groups Urge Administration To Address Pattern Of Data Secu
 Append: [Remarks At The Crypto Task Force Roundtable On Decentralized Finance, Paul S. Atkins, SEC Chairman, Washington D.C., June 9, 2025](http://www.mondovisione.com/media-and-resources/news/remarks-at-the-crypto-task-force-roundtable-on-decentralized-finance-paul-s-at-202569/)
 append_entries: 10
 Finish: 2025-06-10 06:34:40.906755
+------------------------------------------------------
+Started: 2025-06-10 08:32:34.924141
+Existing_entries: 10
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Third Bridge Joins Aiera Consortium To Revolutionize Financial Research With AI](http://www.mondovisione.com/media-and-resources/news/third-bridge-joins-aiera-consortium-to-revolutionize-financial-research-with-ai-2025610/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euronext Announces Volumes For May 2025](http://www.mondovisione.com/media-and-resources/news/euronext-announces-volumes-for-may-2025-2025610/)
+append_entries: 2
+Finish: 2025-06-10 08:32:36.230996
