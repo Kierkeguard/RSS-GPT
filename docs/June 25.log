@@ -51,3 +51,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Nasdaq Dubai Welcomes Listing Of USD 500 Million AT1 Sukuk By Sharjah Islamic Bank](http://www.mondovisione.com/media-and-resources/news/nasdaq-dubai-welcomes-listing-of-usd-500-million-at1-sukuk-by-sharjah-islamic-ba-2025610/)
 append_entries: 3
 Finish: 2025-06-10 10:26:10.890183
+------------------------------------------------------
+Started: 2025-06-10 12:50:44.520785
+Existing_entries: 15
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Appoints Deputy Chief Executive To Manage Growing Remit, Support Growth And Drive Reform](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-appoints-deputy-chief-executive-to-manage-growing-2025610/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LTX, A Broadridge Company, Expands Generative AI Capabilities With BondGPT Intelligence](http://www.mondovisione.com/media-and-resources/news/ltx-a-broadridge-company-expands-generative-ai-capabilities-with-bondgpt-intel-2025610/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BME Growth Markets Companies Increase Their Turnover By 27.7% Compounded Annual Rate Over The Last Ten Years](http://www.mondovisione.com/media-and-resources/news/bme-growth-markets-companies-increase-their-turnover-by-277-compounded-annual-2025610/)
+append_entries: 3
+Finish: 2025-06-10 12:50:46.095115
