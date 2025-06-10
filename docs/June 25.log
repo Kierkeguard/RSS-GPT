@@ -36,3 +36,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Euronext Announces Volumes For May 2025](http://www.mondovisione.com/media-and-resources/news/euronext-announces-volumes-for-may-2025-2025610/)
 append_entries: 2
 Finish: 2025-06-10 08:32:36.230996
+------------------------------------------------------
+Started: 2025-06-10 10:26:09.696456
+Existing_entries: 12
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Global Investors Gather At London’s Guildhall To Rethink The Emerging Markets Narrative](http://www.mondovisione.com/media-and-resources/news/global-investors-gather-at-londons-guildhall-to-rethink-the-emerging-markets-na-2025610/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Rings Bell On New Type Of Private Stock Market In Growth Boost](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-rings-bell-on-new-type-of-private-stock-market-in-2025610/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Dubai Welcomes Listing Of USD 500 Million AT1 Sukuk By Sharjah Islamic Bank](http://www.mondovisione.com/media-and-resources/news/nasdaq-dubai-welcomes-listing-of-usd-500-million-at1-sukuk-by-sharjah-islamic-ba-2025610/)
+append_entries: 3
+Finish: 2025-06-10 10:26:10.890183
