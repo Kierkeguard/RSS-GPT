@@ -115,3 +115,24 @@ Append: [EBA Publishes No Action Letter On The Interplay Between Payment Service
 Append: [Euronext Announces June 2025 Quarterly Review Results Of The AEX® Family](http://www.mondovisione.com/media-and-resources/news/euronext-announces-june-2025-quarterly-review-results-of-the-aex-family-2025610/)
 append_entries: 6
 Finish: 2025-06-10 18:33:30.380196
+------------------------------------------------------
+Started: 2025-06-10 20:26:43.381783
+Existing_entries: 29
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX: New Rule 1327 In-Kind Exchange Of Options Positions And ETF Shares And UIT Units](http://www.mondovisione.com/media-and-resources/news/miax-new-rule-1327-in-kind-exchange-of-options-positions-and-etf-shares-and-uit-2025610/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Commissioner Johnson To Speak At The GBBC Blockchain Central DC Conference 2025](http://www.mondovisione.com/media-and-resources/news/cftc-commissioner-johnson-to-speak-at-the-gbbc-blockchain-central-dc-conference-2025610/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [EACH Calls For An SIU That Further Strengthens Capital Markets](http://www.mondovisione.com/media-and-resources/news/each-calls-for-an-siu-that-further-strengthens-capital-markets-2025610/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ISDA: Creating Value – IQ June 2025](http://www.mondovisione.com/media-and-resources/news/isda-creating-value-iq-june-2025-2025610/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [24 Exchange Announces Launch Date For First Stage Of 24X National Exchange, The First SEC-Approved 23/5 Stock Exchange - Trading On 24X National Exchange Set To Commence On September 29, 2025](http://www.mondovisione.com/media-and-resources/news/24-exchange-announces-launch-date-for-first-stage-of-24x-national-exchange-the-2025610/)
+append_entries: 5
+Finish: 2025-06-10 20:26:44.370939
