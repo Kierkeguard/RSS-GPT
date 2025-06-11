@@ -184,3 +184,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [New Zealand Financial Markets Authority: Ice Futures Europe Review](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-ice-futures-europe-review-2025611/)
 append_entries: 4
 Finish: 2025-06-11 06:34:48.856483
+------------------------------------------------------
+Started: 2025-06-11 08:32:07.319485
+Existing_entries: 40
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [KGI Securities Singapore Implements Scila Risk For True Real-Time, Multi-Asset Risk Management - Takes Quantum Leap By Replacing Two Legacy Systems Into One Single, Powerful Solution For Equities And Derivatives](http://www.mondovisione.com/media-and-resources/news/kgi-securities-singapore-implements-scila-risk-for-true-real-time-multi-asset-r-2025611/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Stockholm And Nasdaq Helsinki Welcome Summa Defence To Nasdaq First North](http://www.mondovisione.com/media-and-resources/news/nasdaq-stockholm-and-nasdaq-helsinki-welcome-summa-defence-to-nasdaq-first-north-2025611/)
+append_entries: 2
+Finish: 2025-06-11 08:32:08.383680
