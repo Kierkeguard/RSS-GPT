@@ -278,3 +278,15 @@ Append: [Interview: ISDA SIMM EU Regulatory Approval Requirements](http://www.mo
 Append: [Gesrenta BCN SOCIMI Joins BME Scaleup On June 13](http://www.mondovisione.com/media-and-resources/news/gesrenta-bcn-socimi-joins-bme-scaleup-on-june-13-2025611/)
 append_entries: 8
 Finish: 2025-06-11 18:34:10.578278
+------------------------------------------------------
+Started: 2025-06-11 20:25:20.732047
+Existing_entries: 62
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Announces Agenda And Panelists For Roundtable On Executive Compensation Disclosure Requirements](http://www.mondovisione.com/media-and-resources/news/sec-announces-agenda-and-panelists-for-roundtable-on-executive-compensation-disc-2025611/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Problem Form: Statement On Further Extension Of Compliance Date For Form PF, SEC Commissioner Hester M. Peirce, June 11, 2025](http://www.mondovisione.com/media-and-resources/news/problem-form-statement-on-further-extension-of-compliance-date-for-form-pf-sec-2025611/)
+append_entries: 2
+Finish: 2025-06-11 20:25:21.632767
