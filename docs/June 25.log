@@ -166,3 +166,21 @@ Existing_entries: 36
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-06-11 04:32:29.952767
+------------------------------------------------------
+Started: 2025-06-11 06:34:47.721884
+Existing_entries: 36
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Opening Remarks By Mr Leong Sing Chiong, Deputy Managing Director (Markets & Development), Monetary Authority Of Singapore, At The China-Singapore (Chongqing) Connectivity Initiative New International Land-Sea Trade Corridor (CCI-ILSTC) Trade And Financial Conference On 11 June 2025](http://www.mondovisione.com/media-and-resources/news/opening-remarks-by-mr-leong-sing-chiong-deputy-managing-director-markets-and-dev-2025611/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Opening Remarks At The ASIC Symposium On Australia’s Public And Private Markets, Address By ASIC Chair Joe Longo, 10 June 2025](http://www.mondovisione.com/media-and-resources/news/opening-remarks-at-the-asic-symposium-on-australias-public-and-private-markets-2025611/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Taiwan Futures Exchange Newsletter - June 2025](http://www.mondovisione.com/media-and-resources/news/taiwan-futures-exchange-newsletter-june-2025-2025611/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Zealand Financial Markets Authority: Ice Futures Europe Review](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-ice-futures-europe-review-2025611/)
+append_entries: 4
+Finish: 2025-06-11 06:34:48.856483
