@@ -196,3 +196,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Nasdaq Stockholm And Nasdaq Helsinki Welcome Summa Defence To Nasdaq First North](http://www.mondovisione.com/media-and-resources/news/nasdaq-stockholm-and-nasdaq-helsinki-welcome-summa-defence-to-nasdaq-first-north-2025611/)
 append_entries: 2
 Finish: 2025-06-11 08:32:08.383680
+------------------------------------------------------
+Started: 2025-06-11 10:26:10.040824
+Existing_entries: 42
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-06-11 10:26:10.727731
