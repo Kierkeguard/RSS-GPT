@@ -232,3 +232,25 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Mitsubishi HC Capital UK PLC (Trading As Novuna) Reports Profits Of £120.6m With Record New Business Volumes](http://www.mondovisione.com/media-and-resources/news/mitsubishi-hc-capital-uk-plc-trading-as-novuna-reports-profits-of-1206m-with-2025611/)
 append_entries: 5
 Finish: 2025-06-11 14:22:27.299548
+------------------------------------------------------
+Started: 2025-06-11 16:31:10.439152
+Existing_entries: 48
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FIA: Adoption Of Tokenisation Beneficial For Cleared Derivatives Industry - FIA Sees Collateral Mobility As Important Use Case For Blockchain Technology](http://www.mondovisione.com/media-and-resources/news/fia-adoption-of-tokenisation-beneficial-for-cleared-derivatives-industry-fia-2025611/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Treasury Secretary Scott Bessent's Statement Before The House Ways And Means Committee](http://www.mondovisione.com/media-and-resources/news/us-treasury-secretary-scott-bessents-statement-before-the-house-ways-and-means-2025611/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [PIABA Praises SEC Investor Advisory Committee For Tackling Forced Arbitration By RIAs — But Urges Stronger Action](http://www.mondovisione.com/media-and-resources/news/piaba-praises-sec-investor-advisory-committee-for-tackling-forced-arbitration-by-2025611/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ETFGI Reports That Assets Invested In The ETFs Industry In The United States Reached A New Record Of US$11.04 Trillion At The End Of May](http://www.mondovisione.com/media-and-resources/news/etfgi-reports-that-assets-invested-in-the-etfs-industry-in-the-united-states-rea-2025611/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Hilton Capital Management Launches Hilton BDC Corporate Bond ETF Tracking Solactive Hilton Capital BDC Corporate Bond TR Index](http://www.mondovisione.com/media-and-resources/news/hilton-capital-management-launches-hilton-bdc-corporate-bond-etf-tracking-solact-2025611/)
+Append: [Nine Wealth Management Achieves CISI Chartered Firm™ Status](http://www.mondovisione.com/media-and-resources/news/nine-wealth-management-achieves-cisi-chartered-firm-status-2025611/)
+append_entries: 6
+Finish: 2025-06-11 16:31:11.564201
