@@ -211,3 +211,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Nasdaq Stockholm Welcomes WisdomTree As New ETP provider](http://www.mondovisione.com/media-and-resources/news/nasdaq-stockholm-welcomes-wisdomtree-as-new-etp-provider-2025611/)
 append_entries: 1
 Finish: 2025-06-11 12:50:25.008530
+------------------------------------------------------
+Started: 2025-06-11 14:22:25.887542
+Existing_entries: 43
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Scope Prime Launches Strategic Partnership Programme - ZX Capital Markets First To Sign; Delivering Localised Access In MENA](http://www.mondovisione.com/media-and-resources/news/scope-prime-launches-strategic-partnership-programme-zx-capital-markets-first-2025611/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SET Announces Five Winning Research Papers For 2024/2025 SET Research Scholarship Project](http://www.mondovisione.com/media-and-resources/news/set-announces-five-winning-research-papers-for-20242025-set-research-scholarshi-2025611/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tehran Securities Exchange Bulletin May 2025](http://www.mondovisione.com/media-and-resources/news/tehran-securities-exchange-bulletin-may-2025-2025611/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ATFX Connect To Strengthen Its Prime Brokerage Services With Leading FX Prime Broker](http://www.mondovisione.com/media-and-resources/news/atfx-connect-to-strengthen-its-prime-brokerage-services-with-leading-fx-prime-br-2025611/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Mitsubishi HC Capital UK PLC (Trading As Novuna) Reports Profits Of £120.6m With Record New Business Volumes](http://www.mondovisione.com/media-and-resources/news/mitsubishi-hc-capital-uk-plc-trading-as-novuna-reports-profits-of-1206m-with-2025611/)
+append_entries: 5
+Finish: 2025-06-11 14:22:27.299548
