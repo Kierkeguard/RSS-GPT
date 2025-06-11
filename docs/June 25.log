@@ -148,3 +148,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [NYSE Group Consolidated Short Interest Report](http://www.mondovisione.com/media-and-resources/news/nyse-group-consolidated-short-interest-report-2025610/)
 append_entries: 2
 Finish: 2025-06-10 22:22:39.706819
+------------------------------------------------------
+Started: 2025-06-11 01:58:13.262206
+Existing_entries: 36
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-06-11 01:58:13.925652
