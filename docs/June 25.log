@@ -202,3 +202,12 @@ Existing_entries: 42
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-06-11 10:26:10.727731
+------------------------------------------------------
+Started: 2025-06-11 12:50:24.217190
+Existing_entries: 42
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Stockholm Welcomes WisdomTree As New ETP provider](http://www.mondovisione.com/media-and-resources/news/nasdaq-stockholm-welcomes-wisdomtree-as-new-etp-provider-2025611/)
+append_entries: 1
+Finish: 2025-06-11 12:50:25.008530
