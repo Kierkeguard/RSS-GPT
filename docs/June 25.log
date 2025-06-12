@@ -340,3 +340,21 @@ Append: [Nadex Product Schedule For The 2025 US Juneteenth Holiday On Thursday, 
 Append: [US Treasury Secretary Scott Bessent's Statement Before The Appropriations Subcommittee On Financial Services And General Government](http://www.mondovisione.com/media-and-resources/news/us-treasury-secretary-scott-bessents-statement-before-the-appropriations-subcom-2025612/)
 append_entries: 10
 Finish: 2025-06-12 06:35:04.661398
+------------------------------------------------------
+Started: 2025-06-12 08:31:53.277991
+Existing_entries: 74
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Helsinki Welcomes Toivo Group To Main Market](http://www.mondovisione.com/media-and-resources/news/nasdaq-helsinki-welcomes-toivo-group-to-main-market-2025612/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Customers Are Key – Super Trustees Need To Listen And Act Now - Keynote Address By ASIC Chair Joe Longo At The AmCham Regulator Luncheon Series In Sydney On 12 June 2025](http://www.mondovisione.com/media-and-resources/news/customers-are-key-super-trustees-need-to-listen-and-act-now-keynote-address-2025612/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Strengthening Our Fundamentals And Building Momentum To Deliver ASX’s Five Year Strategy](http://www.mondovisione.com/media-and-resources/news/strengthening-our-fundamentals-and-building-momentum-to-deliver-asxs-five-year-2025612/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Symposium Panel: Private Markets, Where To Now?](http://www.mondovisione.com/media-and-resources/news/asic-symposium-panel-private-markets-where-to-now-2025612/)
+append_entries: 4
+Finish: 2025-06-12 08:31:54.359190
