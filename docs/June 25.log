@@ -394,3 +394,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Cyprus Stock Exchange Bulletin - May 2025](http://www.mondovisione.com/media-and-resources/news/cyprus-stock-exchange-bulletin-may-2025-2025612/)
 append_entries: 1
 Finish: 2025-06-12 14:23:56.660251
+------------------------------------------------------
+Started: 2025-06-12 16:30:33.537810
+Existing_entries: 84
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Treasury Secretary Scott Bessent's Statement Before The Senate Finance Committee](http://www.mondovisione.com/media-and-resources/news/us-treasury-secretary-scott-bessents-statement-before-the-senate-finance-commit-2025612/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Wedbush Fund Advisers Launches Dan IVES Wedbush AI Revolution ETF, Tracking The Solactive Wedbush Artificial Intelligence Index](http://www.mondovisione.com/media-and-resources/news/wedbush-fund-advisers-launches-dan-ives-wedbush-ai-revolution-etf-tracking-the-2025612/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CUSIP Request Volumes For New Corporate And Municipal Securities Increase In May](http://www.mondovisione.com/media-and-resources/news/cusip-request-volumes-for-new-corporate-and-municipal-securities-increase-in-may-2025612/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [XM Responds To The Possibility Of Blocked Platform In Singapore](http://www.mondovisione.com/media-and-resources/news/xm-responds-to-the-possibility-of-blocked-platform-in-singapore-2025612/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SunTec And Curinos Announce Strategic Relationship To Help Banks Embed Market Intelligence Into Modern Deal Pricing And Account Analysis Workflows](http://www.mondovisione.com/media-and-resources/news/suntec-and-curinos-announce-strategic-relationship-to-help-banks-embed-market-in-2025612/)
+append_entries: 5
+Finish: 2025-06-12 16:30:34.564496
