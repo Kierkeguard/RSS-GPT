@@ -385,3 +385,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Securities Commission Malaysia’s Audit Oversight Board Suspends Chengco And Sanctions Auditors From Auditing](http://www.mondovisione.com/media-and-resources/news/securities-commission-malaysias-audit-oversight-board-suspends-chengco-and-sanc-2025612/)
 append_entries: 4
 Finish: 2025-06-12 12:49:41.021644
+------------------------------------------------------
+Started: 2025-06-12 14:23:55.335630
+Existing_entries: 83
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cyprus Stock Exchange Bulletin - May 2025](http://www.mondovisione.com/media-and-resources/news/cyprus-stock-exchange-bulletin-may-2025-2025612/)
+append_entries: 1
+Finish: 2025-06-12 14:23:56.660251
