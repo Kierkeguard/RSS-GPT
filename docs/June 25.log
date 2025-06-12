@@ -367,3 +367,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Nick Rustad Appointed Group Head, LCH SwapClear And Listed Rates](http://www.mondovisione.com/media-and-resources/news/nick-rustad-appointed-group-head-lch-swapclear-and-listed-rates-2025612/)
 append_entries: 1
 Finish: 2025-06-12 10:26:26.937489
+------------------------------------------------------
+Started: 2025-06-12 12:49:39.674045
+Existing_entries: 79
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Deutsche Börse Group: Business Indicators For May 2025](http://www.mondovisione.com/media-and-resources/news/deutsche-brse-group-business-indicators-for-may-2025-2025612/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FSB Plenary Meets In Madrid](http://www.mondovisione.com/media-and-resources/news/fsb-plenary-meets-in-madrid-2025612/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Dubai Welcomes ICBC’s Multi-Currency Green Bond Listings Totalling USD 1.72 Billion](http://www.mondovisione.com/media-and-resources/news/nasdaq-dubai-welcomes-icbcs-multi-currency-green-bond-listings-totalling-usd-1-2025612/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Securities Commission Malaysia’s Audit Oversight Board Suspends Chengco And Sanctions Auditors From Auditing](http://www.mondovisione.com/media-and-resources/news/securities-commission-malaysias-audit-oversight-board-suspends-chengco-and-sanc-2025612/)
+append_entries: 4
+Finish: 2025-06-12 12:49:41.021644
