@@ -500,3 +500,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Nasdaq Stockholm Welcomes Enity Holding AB To The Main Market](http://www.mondovisione.com/media-and-resources/news/nasdaq-stockholm-welcomes-enity-holding-ab-to-the-main-market-2025613/)
 append_entries: 1
 Finish: 2025-06-13 08:31:28.508854
+------------------------------------------------------
+Started: 2025-06-13 10:26:14.275362
+Existing_entries: 104
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Vantage Connect Clinches "Best Trade Execution" Title For Third Consecutive Year At 2025 Global Forex Awards - B2B](http://www.mondovisione.com/media-and-resources/news/vantage-connect-clinches-best-trade-execution-title-for-third-consecutive-year-2025613/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER Issues A Guide On Benchmarking Cybersecurity Investments In The EU Electricity Sector](http://www.mondovisione.com/media-and-resources/news/acer-issues-a-guide-on-benchmarking-cybersecurity-investments-in-the-eu-electric-2025613/)
+append_entries: 2
+Finish: 2025-06-13 10:26:15.264490
