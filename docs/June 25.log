@@ -512,3 +512,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ACER Issues A Guide On Benchmarking Cybersecurity Investments In The EU Electricity Sector](http://www.mondovisione.com/media-and-resources/news/acer-issues-a-guide-on-benchmarking-cybersecurity-investments-in-the-eu-electric-2025613/)
 append_entries: 2
 Finish: 2025-06-13 10:26:15.264490
+------------------------------------------------------
+Started: 2025-06-13 12:49:16.655558
+Existing_entries: 106
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Sentia Lists On Euronext](http://www.mondovisione.com/media-and-resources/news/sentia-lists-on-euronext-2025613/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group PLC Transactions In Own Securities](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-transactions-in-own-securities-2025613/)
+append_entries: 2
+Finish: 2025-06-13 12:49:20.125735
