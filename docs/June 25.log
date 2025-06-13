@@ -579,3 +579,12 @@ Append: [Athens Stock Exchange: Ascertainment Of Initial Fulfilment Of Listing R
 Append: [Euronext Announces June 2025 Quarterly Review Results Of The MIB ESG®](http://www.mondovisione.com/media-and-resources/news/euronext-announces-june-2025-quarterly-review-results-of-the-mib-esg-2025613/)
 append_entries: 9
 Finish: 2025-06-13 18:33:37.227344
+------------------------------------------------------
+Started: 2025-06-13 20:26:26.660675
+Existing_entries: 123
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Federal Reserve Board Announces That Results From Its Annual Bank Stress Test Will Be Released On Friday, June 27, At 4:30 P.M. EDT](http://www.mondovisione.com/media-and-resources/news/federal-reserve-board-announces-that-results-from-its-annual-bank-stress-test-wi-2025613/)
+append_entries: 1
+Finish: 2025-06-13 20:26:27.626516
