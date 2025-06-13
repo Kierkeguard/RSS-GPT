@@ -542,3 +542,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Statement On The UK Financial Conduct Authority’s Commitment To Growth](http://www.mondovisione.com/media-and-resources/news/statement-on-the-uk-financial-conduct-authoritys-commitment-to-growth-2025613/)
 append_entries: 4
 Finish: 2025-06-13 14:23:13.717539
+------------------------------------------------------
+Started: 2025-06-13 16:30:01.060875
+Existing_entries: 112
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Names Erik Hotmire As Chief External Affairs Officer And Director Of The Office Of Public Affairs](http://www.mondovisione.com/media-and-resources/news/sec-names-erik-hotmire-as-chief-external-affairs-officer-and-director-of-the-off-2025613/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Names Jamie Selway As Director Of Trading And Markets](http://www.mondovisione.com/media-and-resources/news/sec-names-jamie-selway-as-director-of-trading-and-markets-2025613/)
+append_entries: 2
+Finish: 2025-06-13 16:30:02.322126
