@@ -524,3 +524,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [London Stock Exchange Group PLC Transactions In Own Securities](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-transactions-in-own-securities-2025613/)
 append_entries: 2
 Finish: 2025-06-13 12:49:20.125735
+------------------------------------------------------
+Started: 2025-06-13 14:23:11.470141
+Existing_entries: 108
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Names Kurt Hohl As Chief Accountant](http://www.mondovisione.com/media-and-resources/news/sec-names-kurt-hohl-as-chief-accountant-2025613/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Brian Daly Named SEC Director Of Division Of Investment Management](http://www.mondovisione.com/media-and-resources/news/brian-daly-named-sec-director-of-division-of-investment-management-2025613/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Malawi Stock Exchange Weekly Summary Report, 13 June 2025](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-13-june-2025-2025613/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Statement On The UK Financial Conduct Authority’s Commitment To Growth](http://www.mondovisione.com/media-and-resources/news/statement-on-the-uk-financial-conduct-authoritys-commitment-to-growth-2025613/)
+append_entries: 4
+Finish: 2025-06-13 14:23:13.717539
