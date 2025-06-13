@@ -491,3 +491,12 @@ Append: [Press Conference By KATO Katsunobu, Japan Minister Of Finance And Minis
 Append: [CFTC Announces Additional Cost Savings From Office Leases - Plan Saves Millions Over Short And Long Term](http://www.mondovisione.com/media-and-resources/news/cftc-announces-additional-cost-savings-from-office-leases-plan-saves-millions-2025613/)
 append_entries: 6
 Finish: 2025-06-13 06:34:48.077514
+------------------------------------------------------
+Started: 2025-06-13 08:31:27.652089
+Existing_entries: 103
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Stockholm Welcomes Enity Holding AB To The Main Market](http://www.mondovisione.com/media-and-resources/news/nasdaq-stockholm-welcomes-enity-holding-ab-to-the-main-market-2025613/)
+append_entries: 1
+Finish: 2025-06-13 08:31:28.508854
