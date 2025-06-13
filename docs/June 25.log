@@ -469,3 +469,25 @@ Existing_entries: 97
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-06-13 04:31:24.570524
+------------------------------------------------------
+Started: 2025-06-13 06:34:47.262539
+Existing_entries: 97
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASX Group Executive Listings Departs](http://www.mondovisione.com/media-and-resources/news/asx-group-executive-listings-departs-2025613/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Malaysia’s Sustainability Reporting Aligns With Global ISSB Standards In IFRS Jurisdictional Profile](http://www.mondovisione.com/media-and-resources/news/malaysias-sustainability-reporting-aligns-with-global-issb-standards-in-ifrs-ju-2025613/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASX Completes The Sale Of Investment In Digital Asset](http://www.mondovisione.com/media-and-resources/news/asx-completes-the-sale-of-investment-in-digital-asset-2025613/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Zealand Financial Markets Authority  Consults On Class Exemption For Buy-Backs Of Quoted Debt Securities](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-consults-on-class-exemption-for-buy-bac-2025613/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Press Conference By KATO Katsunobu, Japan Minister Of Finance And Minister Of State For Financial Services - Iwaki Shinkumi Bank](http://www.mondovisione.com/media-and-resources/news/press-conference-by-kato-katsunobu-japan-minister-of-finance-and-minister-of-st-2025613/)
+Append: [CFTC Announces Additional Cost Savings From Office Leases - Plan Saves Millions Over Short And Long Term](http://www.mondovisione.com/media-and-resources/news/cftc-announces-additional-cost-savings-from-office-leases-plan-saves-millions-2025613/)
+append_entries: 6
+Finish: 2025-06-13 06:34:48.077514
