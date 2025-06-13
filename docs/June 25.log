@@ -588,3 +588,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Federal Reserve Board Announces That Results From Its Annual Bank Stress Test Will Be Released On Friday, June 27, At 4:30 P.M. EDT](http://www.mondovisione.com/media-and-resources/news/federal-reserve-board-announces-that-results-from-its-annual-bank-stress-test-wi-2025613/)
 append_entries: 1
 Finish: 2025-06-13 20:26:27.626516
+------------------------------------------------------
+Started: 2025-06-13 22:22:30.765946
+Existing_entries: 124
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-06-13 22:22:31.672358
