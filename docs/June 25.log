@@ -708,3 +708,12 @@ Existing_entries: 124
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-06-15 14:19:52.657299
+------------------------------------------------------
+Started: 2025-06-15 16:27:20.107723
+Existing_entries: 124
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NGX Group, Nigeria Securities And Exchange Commission Pursue Capital Market Diplomacy To Deepen Nigeria-China Financial Ties](http://www.mondovisione.com/media-and-resources/news/ngx-group-nigeria-securities-and-exchange-commission-pursue-capital-market-dipl-2025615/)
+append_entries: 1
+Finish: 2025-06-15 16:27:21.243620
