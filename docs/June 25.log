@@ -863,3 +863,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CFTC Swaps Report Update](http://www.mondovisione.com/media-and-resources/news/cftc-swaps-report-update-2025616/)
 append_entries: 1
 Finish: 2025-06-16 20:26:30.933715
+------------------------------------------------------
+Started: 2025-06-16 22:22:51.949902
+Existing_entries: 149
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Announces Results From 2025 Annual Meeting Of Shareholders](http://www.mondovisione.com/media-and-resources/news/nasdaq-announces-results-from-2025-annual-meeting-of-shareholders-2025616/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Acting Chairman Caroline D. Pham On Passing Of Former Chairman Bagley](http://www.mondovisione.com/media-and-resources/news/cftc-acting-chairman-caroline-d-pham-on-passing-of-former-chairman-bagley-2025616/)
+append_entries: 2
+Finish: 2025-06-16 22:22:52.990155
