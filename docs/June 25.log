@@ -816,3 +816,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ABN AMRO Joins CLSSettlement](http://www.mondovisione.com/media-and-resources/news/abn-amro-joins-clssettlement-2025616/)
 append_entries: 4
 Finish: 2025-06-16 12:51:22.160715
+------------------------------------------------------
+Started: 2025-06-16 14:24:38.711521
+Existing_entries: 140
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-06-16 14:24:39.598937
