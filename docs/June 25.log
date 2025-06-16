@@ -831,3 +831,26 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CFTC: Federal Court Orders Texas Firm To Pay Over $100 Million To Customers Defrauded In Cattle Fraud Scheme - Firm’s Co-Founders Ordered To Disgorge Over $2.2 Million In Unlawful Gains](http://www.mondovisione.com/media-and-resources/news/federal-court-orders-texas-firm-to-pay-over-100-million-to-customers-defrauded-2025616/)
 append_entries: 1
 Finish: 2025-06-16 16:30:54.910808
+------------------------------------------------------
+Started: 2025-06-16 18:33:56.816709
+Existing_entries: 141
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority: Upper Tribunal Ruling In The Case Of Craig Donaldson And David Arden](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-upper-tribunal-ruling-in-the-case-of-craig-donal-2025616/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The EBA Publishes Key Regulatory Products On Operational Risk Capital Requirements And Related Supervisory Reporting](http://www.mondovisione.com/media-and-resources/news/the-eba-publishes-key-regulatory-products-on-operational-risk-capital-requiremen-2025616/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MOEX Trade Terminals Update](http://www.mondovisione.com/media-and-resources/news/moex-trade-terminals-update-2025616/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [25 Years Of EEX: From A Local Power Trading Platform To A Global Commodity Exchange](http://www.mondovisione.com/media-and-resources/news/25-years-of-eex-from-a-local-power-trading-platform-to-a-global-commodity-excha-2025616/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Alexandra Wittmann And Guido Jestädt Join Wiener Börse AG's Supervisory Board](http://www.mondovisione.com/media-and-resources/news/alexandra-wittmann-and-guido-jestdt-join-wiener-brse-ags-supervisory-board-2025616/)
+Append: [ESMA’s Activities In 2024 Focused On Strengthening The EU Capital Markets And Putting Citizens And Businesses At The Heart Of It](http://www.mondovisione.com/media-and-resources/news/esmas-activities-in-2024-focused-on-strengthening-the-eu-capital-markets-and-pu-2025616/)
+Append: [The IBEX® Gender Equality Grows To 58 Components After The Entry Of Nine Companies And The Exit Of Eight](http://www.mondovisione.com/media-and-resources/news/the-ibex-gender-equality-grows-to-58-components-after-the-entry-of-nine-compani-2025616/)
+append_entries: 7
+Finish: 2025-06-16 18:33:57.750184
