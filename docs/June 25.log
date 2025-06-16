@@ -854,3 +854,12 @@ Append: [ESMA’s Activities In 2024 Focused On Strengthening The EU Capital Mar
 Append: [The IBEX® Gender Equality Grows To 58 Components After The Entry Of Nine Companies And The Exit Of Eight](http://www.mondovisione.com/media-and-resources/news/the-ibex-gender-equality-grows-to-58-components-after-the-entry-of-nine-compani-2025616/)
 append_entries: 7
 Finish: 2025-06-16 18:33:57.750184
+------------------------------------------------------
+Started: 2025-06-16 20:26:30.058507
+Existing_entries: 148
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Swaps Report Update](http://www.mondovisione.com/media-and-resources/news/cftc-swaps-report-update-2025616/)
+append_entries: 1
+Finish: 2025-06-16 20:26:30.933715
