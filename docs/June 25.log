@@ -765,3 +765,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [A New Lens On Regulation: The Modern Regulator Launches To Track The Evolving Landscape Of Regulation Across Australia, New Zealand, The UK And Beyond](http://www.mondovisione.com/media-and-resources/news/a-new-lens-on-regulation-the-modern-regulator-launches-to-track-the-evolving-la-2025616/)
 append_entries: 4
 Finish: 2025-06-16 06:36:40.551839
+------------------------------------------------------
+Started: 2025-06-16 08:33:21.468635
+Existing_entries: 129
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [World Federation Of Exchanges Releases Global Guidance On Managing Transitions To T+1 Settlement](http://www.mondovisione.com/media-and-resources/news/world-federation-of-exchanges-releases-global-guidance-on-managing-transitions-t-2025616/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FinTech And Diversity Champion Julia Streets Awarded MBE - Receives MBE For Services To Diversity And Inclusion In Entrepreneurship, Particularly In The Financial Services And Technology Sectors](http://www.mondovisione.com/media-and-resources/news/fintech-and-diversity-champion-julia-streets-awarded-mbe-receives-mbe-for-serv-2025616/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [GCEX Appoints Stanislav Bunimovich As Managing Director, APAC And Strategic Adviser To The CEO](http://www.mondovisione.com/media-and-resources/news/gcex-appoints-stanislav-bunimovich-as-managing-director-apac-and-strategic-advi-2025616/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euronext And Clearstream Launch Partnership To Further Strengthen Euronext Clearing’s Collateral Management Capabilities](http://www.mondovisione.com/media-and-resources/news/euronext-and-clearstream-launch-partnership-to-further-strengthen-euronext-clear-2025616/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group PLC Transactions In Own Securities](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-transactions-in-own-securities-2025616/)
+append_entries: 5
+Finish: 2025-06-16 08:33:24.831763
