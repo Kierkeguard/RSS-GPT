@@ -747,3 +747,21 @@ Existing_entries: 125
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-06-16 04:35:26.720670
+------------------------------------------------------
+Started: 2025-06-16 06:36:39.637058
+Existing_entries: 125
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASX Statement On ASIC Commencing Inquiry](http://www.mondovisione.com/media-and-resources/news/asx-statement-on-asic-commencing-inquiry-2025616/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Monetary Authority Of Singapore And Singapore FinTech Association Invite Nominations For 2025 Singapore FinTech Festival FinTech Excellence Awards](http://www.mondovisione.com/media-and-resources/news/monetary-authority-of-singapore-and-singapore-fintech-association-invite-nominat-2025616/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Launches Inquiry Into ASX](http://www.mondovisione.com/media-and-resources/news/asic-launches-inquiry-into-asx-2025616/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [A New Lens On Regulation: The Modern Regulator Launches To Track The Evolving Landscape Of Regulation Across Australia, New Zealand, The UK And Beyond](http://www.mondovisione.com/media-and-resources/news/a-new-lens-on-regulation-the-modern-regulator-launches-to-track-the-evolving-la-2025616/)
+append_entries: 4
+Finish: 2025-06-16 06:36:40.551839
