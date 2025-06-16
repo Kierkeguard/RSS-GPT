@@ -798,3 +798,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ETFGI Reports That Assets Invested In The ETFs Industry In Europe Reached A New Record Of US$2.61 Trillion At The End Of May](http://www.mondovisione.com/media-and-resources/news/etfgi-reports-that-assets-invested-in-the-etfs-industry-in-europe-reached-a-new-2025616/)
 append_entries: 2
 Finish: 2025-06-16 10:27:03.389552
+------------------------------------------------------
+Started: 2025-06-16 12:51:21.234222
+Existing_entries: 136
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Invest Hong Kong Fosters Mutual Engagement Through Successful Delegations To Gulf Cooperation Council Region](http://www.mondovisione.com/media-and-resources/news/invest-hong-kong-fosters-mutual-engagement-through-successful-delegations-to-gul-2025616/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ICE To Dual-List On NYSE Texas](http://www.mondovisione.com/media-and-resources/news/ice-to-dual-list-on-nyse-texas-2025616/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Calero Announces New Fully Automated Solution For Managing LSEG Entitlements - New Integration For Inventory Synchronisation And eBonding Capabilities Deliver Unparalleled Visibility And Fulfilment Capabilities For The Refinitiv Data Platform (Hosted)](http://www.mondovisione.com/media-and-resources/news/calero-announces-new-fully-automated-solution-for-managing-lseg-entitlements-n-2025616/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ABN AMRO Joins CLSSettlement](http://www.mondovisione.com/media-and-resources/news/abn-amro-joins-clssettlement-2025616/)
+append_entries: 4
+Finish: 2025-06-16 12:51:22.160715
