@@ -822,3 +822,12 @@ Existing_entries: 140
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-06-16 14:24:39.598937
+------------------------------------------------------
+Started: 2025-06-16 16:30:53.383359
+Existing_entries: 140
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC: Federal Court Orders Texas Firm To Pay Over $100 Million To Customers Defrauded In Cattle Fraud Scheme - Firm’s Co-Founders Ordered To Disgorge Over $2.2 Million In Unlawful Gains](http://www.mondovisione.com/media-and-resources/news/federal-court-orders-texas-firm-to-pay-over-100-million-to-customers-defrauded-2025616/)
+append_entries: 1
+Finish: 2025-06-16 16:30:54.910808
