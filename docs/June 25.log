@@ -893,3 +893,26 @@ Existing_entries: 151
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-06-17 04:32:07.000478
+------------------------------------------------------
+Started: 2025-06-17 06:34:54.751158
+Existing_entries: 151
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Malta's Financial Sector Grows Steadily As Malta Financial Services Authority Sharpens Oversight And Protection](http://www.mondovisione.com/media-and-resources/news/maltas-financial-sector-grows-steadily-as-malta-financial-services-authority-sh-2025617/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Iress Partners With interop.io To Deliver Future-Ready Trading Experiences](http://www.mondovisione.com/media-and-resources/news/iress-partners-with-interopio-to-deliver-future-ready-trading-experiences-2025617/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Trading Technologies Launches Pre-Trade Portfolio Risk Functionality For TT® Platform - New Offering Replicates Clearing House Methodologies To Mitigate Risk, Facilitate More Trading Opportunities](http://www.mondovisione.com/media-and-resources/news/trading-technologies-launches-pre-trade-portfolio-risk-functionality-for-tt-pla-2025617/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Publication Of "Japan Financial Services Agency Analytical Notes (2025.6) Vol.2 "](http://www.mondovisione.com/media-and-resources/news/publication-of-japan-financial-services-agency-analytical-notes-20256-vol2-2025617/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Publication Of "Japan Financial Services Agency Analytical Notes (2025.5)"](http://www.mondovisione.com/media-and-resources/news/publication-of-japan-financial-services-agency-analytical-notes-20255-2025617/)
+Append: [MarketAxess Becomes First Platform To Provide Fully Electronic Workflow For The Trading Of Indian Government Bonds To International Investors - Addition Of India Further Expands MarketAxess’ Leading Emerging Markets (EM) Offering](http://www.mondovisione.com/media-and-resources/news/marketaxess-becomes-first-platform-to-provide-fully-electronic-workflow-for-the-2025617/)
+Append: [US Federal Bank Regulatory Agencies Seek Comment To Address Payments And Check Fraud](http://www.mondovisione.com/media-and-resources/news/us-federal-bank-regulatory-agencies-seek-comment-to-address-payments-and-check-f-2025617/)
+append_entries: 7
+Finish: 2025-06-17 06:34:56.089350
