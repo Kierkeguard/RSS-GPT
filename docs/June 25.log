@@ -955,3 +955,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [TMX VettaFi Acquires ETF Stream](http://www.mondovisione.com/media-and-resources/news/tmx-vettafi-acquires-etf-stream-2025617/)
 append_entries: 1
 Finish: 2025-06-17 12:50:56.483779
+------------------------------------------------------
+Started: 2025-06-17 14:25:05.646882
+Existing_entries: 165
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Montréal Exchange To Launch FTSE Canada Bank Credit Index Futures -  A First-Of-Its Kind Credit Derivatives Product That Allows Market Participants To Manage Specific Canadian Credit Risk](http://www.mondovisione.com/media-and-resources/news/montral-exchange-to-launch-ftse-canada-bank-credit-index-futures-a-first-of-2025617/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FIA EPTA Elects New Chair, Vice Chair, Executive Committee Members](http://www.mondovisione.com/media-and-resources/news/fia-epta-elects-new-chair-vice-chair-executive-committee-members-2025617/)
+append_entries: 2
+Finish: 2025-06-17 14:25:06.950669
