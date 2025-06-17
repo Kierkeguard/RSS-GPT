@@ -946,3 +946,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SquaredFinancial Turns 20: A Milestone Of Trust, Growth, And Looking Ahead](http://www.mondovisione.com/media-and-resources/news/squaredfinancial-turns-20-a-milestone-of-trust-growth-and-looking-ahead-2025617/)
 append_entries: 2
 Finish: 2025-06-17 10:26:37.342319
+------------------------------------------------------
+Started: 2025-06-17 12:50:55.688281
+Existing_entries: 164
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TMX VettaFi Acquires ETF Stream](http://www.mondovisione.com/media-and-resources/news/tmx-vettafi-acquires-etf-stream-2025617/)
+append_entries: 1
+Finish: 2025-06-17 12:50:56.483779
