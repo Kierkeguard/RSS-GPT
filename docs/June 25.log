@@ -967,3 +967,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [FIA EPTA Elects New Chair, Vice Chair, Executive Committee Members](http://www.mondovisione.com/media-and-resources/news/fia-epta-elects-new-chair-vice-chair-executive-committee-members-2025617/)
 append_entries: 2
 Finish: 2025-06-17 14:25:06.950669
+------------------------------------------------------
+Started: 2025-06-17 16:31:29.131464
+Existing_entries: 167
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ICE Launches Average Prime Offer Rates (APOR) Index](http://www.mondovisione.com/media-and-resources/news/ice-launches-average-prime-offer-rates-apor-index-2025617/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [EEX Launches Biogas Production Certificates Registry In France](http://www.mondovisione.com/media-and-resources/news/eex-launches-biogas-production-certificates-registry-in-france-2025617/)
+append_entries: 2
+Finish: 2025-06-17 16:31:30.077001
