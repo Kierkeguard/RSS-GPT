@@ -1014,3 +1014,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CME Group Inc. Announces Second-Quarter 2025 Earnings Release, Conference Call](http://www.mondovisione.com/media-and-resources/news/cme-group-inc-announces-second-quarter-2025-earnings-release-conference-call-2025617/)
 append_entries: 1
 Finish: 2025-06-17 20:26:15.125564
+------------------------------------------------------
+Started: 2025-06-17 22:22:18.259939
+Existing_entries: 180
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Fiserv And Early Warning Services Collaborate On Paze To Provide Financial Institutions And Merchants Of All Sizes With A Convenient Digital Checkout Solution For Consumers - Integration With Paze Checkout Provides Additional Security Through A Tokenized Payment Experience Within Trusted Financial Institutions](http://www.mondovisione.com/media-and-resources/news/fiserv-and-early-warning-services-collaborate-on-paze-to-provide-financial-insti-2025617/)
+append_entries: 1
+Finish: 2025-06-17 22:22:19.060502
