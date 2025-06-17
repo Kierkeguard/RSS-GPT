@@ -1005,3 +1005,12 @@ Append: [ETFGI Reports That Assets Invested In The ETFs Industry In Canada Reach
 Append: [TNS Connects To MOON ATS And OTC Overnight To Expand Global 24x5 Market Data Access](http://www.mondovisione.com/media-and-resources/news/tns-connects-to-moon-ats-and-otc-overnight-to-expand-global-24x5-market-data-acc-2025617/)
 append_entries: 10
 Finish: 2025-06-17 18:34:31.941386
+------------------------------------------------------
+Started: 2025-06-17 20:26:14.034833
+Existing_entries: 179
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group Inc. Announces Second-Quarter 2025 Earnings Release, Conference Call](http://www.mondovisione.com/media-and-resources/news/cme-group-inc-announces-second-quarter-2025-earnings-release-conference-call-2025617/)
+append_entries: 1
+Finish: 2025-06-17 20:26:15.125564
