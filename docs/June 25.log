@@ -1098,3 +1098,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [DTCC Central Securities Depository Subsidiary Surpasses $100 Trillion In Assets Under Custody, Marking Historic Milestone](http://www.mondovisione.com/media-and-resources/news/dtcc-central-securities-depository-subsidiary-surpasses-100-trillion-in-assets-2025618/)
 append_entries: 2
 Finish: 2025-06-18 14:24:54.120044
+------------------------------------------------------
+Started: 2025-06-18 16:31:05.166193
+Existing_entries: 190
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Announces Departure Of David Saltiel](http://www.mondovisione.com/media-and-resources/news/sec-announces-departure-of-david-saltiel-2025618/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FIA Tech Launches New Data Service For IRS 871(M) For Exchange Traded Derivatives](http://www.mondovisione.com/media-and-resources/news/fia-tech-launches-new-data-service-for-irs-871m-for-exchange-traded-derivative-2025618/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New CISI And IEG Campus Partnership Heralds Learning And Career Boost For Malaysian And ASEAN Business And Finance Students](http://www.mondovisione.com/media-and-resources/news/new-cisi-and-ieg-campus-partnership-heralds-learning-and-career-boost-for-malays-2025618/)
+append_entries: 3
+Finish: 2025-06-18 16:31:06.087742
