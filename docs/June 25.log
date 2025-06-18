@@ -1053,3 +1053,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Shanghai Gold Exchange: Announcement Of Changing The Company Names Of Guotai Junan Securities Co., Ltd. And Haitong Securities Co., Ltd. Shanghai Pilot Free Trade Zone Branch](http://www.mondovisione.com/media-and-resources/news/shanghai-gold-exchange-announcement-of-changing-the-company-names-of-guotai-jun-2025618/)
 append_entries: 2
 Finish: 2025-06-18 06:35:01.844576
+------------------------------------------------------
+Started: 2025-06-18 08:32:08.185385
+Existing_entries: 183
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Mirae Asset Global Investments Launches MIRAE ASSET TIGER CHINA GLOBAL LEADERS TOP3 PLUS ETF, Tracking Solactive-KEDI China Global Leaders TOP3Plus Index](http://www.mondovisione.com/media-and-resources/news/mirae-asset-global-investments-launches-mirae-asset-tiger-china-global-leaders-t-2025618/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Stockholm Welcomes Sveafastigheter AB To The Main Market](http://www.mondovisione.com/media-and-resources/news/nasdaq-stockholm-welcomes-sveafastigheter-ab-to-the-main-market-2025618/)
+append_entries: 2
+Finish: 2025-06-18 08:32:08.995133
