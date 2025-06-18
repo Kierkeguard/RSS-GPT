@@ -1041,3 +1041,15 @@ Existing_entries: 181
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-06-18 04:32:45.504535
+------------------------------------------------------
+Started: 2025-06-18 06:35:00.729978
+Existing_entries: 181
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Zealand Financial Markets Authority: NZX Receives Positive Report Card](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-nzx-receives-positive-report-card-2025618/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Shanghai Gold Exchange: Announcement Of Changing The Company Names Of Guotai Junan Securities Co., Ltd. And Haitong Securities Co., Ltd. Shanghai Pilot Free Trade Zone Branch](http://www.mondovisione.com/media-and-resources/news/shanghai-gold-exchange-announcement-of-changing-the-company-names-of-guotai-jun-2025618/)
+append_entries: 2
+Finish: 2025-06-18 06:35:01.844576
