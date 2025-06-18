@@ -1086,3 +1086,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ESMA Appoints Ante Žigman To Its Management Board And Appoints New Chairs To Two Standing Committees](http://www.mondovisione.com/media-and-resources/news/esma-appoints-ante-igman-to-its-management-board-and-appoints-new-chairs-to-two-2025618/)
 append_entries: 2
 Finish: 2025-06-18 12:50:58.712187
+------------------------------------------------------
+Started: 2025-06-18 14:24:53.250282
+Existing_entries: 188
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [64th General Assembly Of The World Federation Of Exchanges To Be Hosted By Borsa Istanbul](http://www.mondovisione.com/media-and-resources/news/64th-general-assembly-of-the-world-federation-of-exchanges-to-be-hosted-by-bor-2025618/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [DTCC Central Securities Depository Subsidiary Surpasses $100 Trillion In Assets Under Custody, Marking Historic Milestone](http://www.mondovisione.com/media-and-resources/news/dtcc-central-securities-depository-subsidiary-surpasses-100-trillion-in-assets-2025618/)
+append_entries: 2
+Finish: 2025-06-18 14:24:54.120044
