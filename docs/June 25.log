@@ -1074,3 +1074,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CLS Appoints New Board Directors](http://www.mondovisione.com/media-and-resources/news/cls-appoints-new-board-directors-2025618/)
 append_entries: 1
 Finish: 2025-06-18 10:26:08.993233
+------------------------------------------------------
+Started: 2025-06-18 12:50:57.826497
+Existing_entries: 186
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Triodos Bank Lists On Euronext](http://www.mondovisione.com/media-and-resources/news/triodos-bank-lists-on-euronext-2025618/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESMA Appoints Ante Žigman To Its Management Board And Appoints New Chairs To Two Standing Committees](http://www.mondovisione.com/media-and-resources/news/esma-appoints-ante-igman-to-its-management-board-and-appoints-new-chairs-to-two-2025618/)
+append_entries: 2
+Finish: 2025-06-18 12:50:58.712187
