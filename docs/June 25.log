@@ -1295,3 +1295,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Amman Stock Exchange Weekly Summary](http://www.mondovisione.com/media-and-resources/news/amman-stock-exchange-weekly-summary-2025619/)
 append_entries: 4
 Finish: 2025-06-19 18:32:27.337617
+------------------------------------------------------
+Started: 2025-06-19 20:27:25.942956
+Existing_entries: 231
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Ontario Securities Commission Publishes Study On Canadian ETF Market](http://www.mondovisione.com/media-and-resources/news/ontario-securities-commission-publishes-study-on-canadian-etf-market-2025619/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Canadian Securities Administrators Revises “Venture Issuer” Definition And Codifies Form Of Proxy Requirement](http://www.mondovisione.com/media-and-resources/news/canadian-securities-administrators-revises-venture-issuer-definition-and-codif-2025619/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [B.C. Court Says Fraudster’s Financial Sanction Will Not Be Erased By Bankruptcy](http://www.mondovisione.com/media-and-resources/news/bc-court-says-fraudsters-financial-sanction-will-not-be-erased-by-bankruptcy-2025619/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Canadian Securities Regulators Launch Consultation On ETF Framework](http://www.mondovisione.com/media-and-resources/news/canadian-securities-regulators-launch-consultation-on-etf-framework-2025619/)
+append_entries: 4
+Finish: 2025-06-19 20:27:26.977444
