@@ -1268,3 +1268,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Zelig Advises Acin On Its Sale To CUBE](http://www.mondovisione.com/media-and-resources/news/zelig-advises-acin-on-its-sale-to-cube-2025619/)
 append_entries: 2
 Finish: 2025-06-19 14:23:04.984359
+------------------------------------------------------
+Started: 2025-06-19 16:30:04.170510
+Existing_entries: 226
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Virtualware Lists On Euronext Growth](http://www.mondovisione.com/media-and-resources/news/virtualware-lists-on-euronext-growth-2025619/)
+append_entries: 1
+Finish: 2025-06-19 16:30:05.729013
