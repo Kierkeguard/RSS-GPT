@@ -1238,3 +1238,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Validus Appoints New CTO Amidst Ongoing Global Expansion](http://www.mondovisione.com/media-and-resources/news/validus-appoints-new-cto-amidst-ongoing-global-expansion-2025619/)
 append_entries: 2
 Finish: 2025-06-19 10:26:02.471968
+------------------------------------------------------
+Started: 2025-06-19 12:50:01.558720
+Existing_entries: 220
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Exchange Of Letters Between The Bank Of England Governor And The UK Chancellor Regarding CPI Inflation - June 2025](http://www.mondovisione.com/media-and-resources/news/exchange-of-letters-between-the-bank-of-england-governor-and-the-uk-chancellor-r-2025619/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FSB Examines Vulnerabilities In Non-Bank Commercial Real Estate (CRE) Investors](http://www.mondovisione.com/media-and-resources/news/fsb-examines-vulnerabilities-in-non-bank-commercial-real-estate-cre-investors-2025619/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bank Of England: Bank Rate Maintained At 4.25% - June 2025](http://www.mondovisione.com/media-and-resources/news/bank-of-england-bank-rate-maintained-at-425-june-2025-2025619/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ETFGI Reports That Assets Invested In The Global ETFs Industry Reached A New Record Of US$16.27 Trillion At The End Of May](http://www.mondovisione.com/media-and-resources/news/etfgi-reports-that-assets-invested-in-the-global-etfs-industry-reached-a-new-rec-2025619/)
+append_entries: 4
+Finish: 2025-06-19 12:50:02.818996
