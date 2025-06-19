@@ -1199,3 +1199,24 @@ Existing_entries: 213
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-06-19 04:32:04.776492
+------------------------------------------------------
+Started: 2025-06-19 06:34:53.497900
+Existing_entries: 213
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SET Appoints Soravis Krairiksh As Senior Executive Vice President (Chief Markets Officer)](http://www.mondovisione.com/media-and-resources/news/set-appoints-soravis-krairiksh-as-senior-executive-vice-president-chief-markets-2025619/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [APAC Deal Landscape Shows Relative Resilience Amidst Global Downturn In Early 2025, Reveals GlobalData](http://www.mondovisione.com/media-and-resources/news/apac-deal-landscape-shows-relative-resilience-amidst-global-downturn-in-early-20-2025619/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [United States Files Civil Forfeiture Complaint Against $225M In Funds Involved In Cryptocurrency Investment Fraud Money Laundering](http://www.mondovisione.com/media-and-resources/news/united-states-files-civil-forfeiture-complaint-against-225m-in-funds-involved-i-2025619/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BC Securities Commission Reaches Settlement With Director Of B.C.-Based Cannabis Company](http://www.mondovisione.com/media-and-resources/news/bc-securities-commission-reaches-settlement-with-director-of-bc-based-cannabis-2025619/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Joint Investigation Disrupts Cryptocurrency Scam That Used Facebook Advertisements And Scam Websites, Recovering $140,000 And Freezing $300,000 In Stolen Funds](http://www.mondovisione.com/media-and-resources/news/joint-investigation-disrupts-cryptocurrency-scam-that-used-facebook-advertisemen-2025619/)
+append_entries: 5
+Finish: 2025-06-19 06:34:54.378075
