@@ -1226,3 +1226,15 @@ Existing_entries: 218
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-06-19 08:32:04.647047
+------------------------------------------------------
+Started: 2025-06-19 10:26:01.359958
+Existing_entries: 218
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Worldline Reveals Eight Critical Payment Trends Shaping The Future Of Mobility - Enhanced Payment Options, Changing Commuter Habits, Open Payment Systems And Artificial Intelligence Are Listed In A White Paper](http://www.mondovisione.com/media-and-resources/news/worldline-reveals-eight-critical-payment-trends-shaping-the-future-of-mobility-2025619/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Validus Appoints New CTO Amidst Ongoing Global Expansion](http://www.mondovisione.com/media-and-resources/news/validus-appoints-new-cto-amidst-ongoing-global-expansion-2025619/)
+append_entries: 2
+Finish: 2025-06-19 10:26:02.471968
