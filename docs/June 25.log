@@ -1256,3 +1256,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ETFGI Reports That Assets Invested In The Global ETFs Industry Reached A New Record Of US$16.27 Trillion At The End Of May](http://www.mondovisione.com/media-and-resources/news/etfgi-reports-that-assets-invested-in-the-global-etfs-industry-reached-a-new-rec-2025619/)
 append_entries: 4
 Finish: 2025-06-19 12:50:02.818996
+------------------------------------------------------
+Started: 2025-06-19 14:23:03.801504
+Existing_entries: 224
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Record Listing Numbers Secure Solid 2024 Revenues For LuxSE](http://www.mondovisione.com/media-and-resources/news/record-listing-numbers-secure-solid-2024-revenues-for-luxse-2025619/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Zelig Advises Acin On Its Sale To CUBE](http://www.mondovisione.com/media-and-resources/news/zelig-advises-acin-on-its-sale-to-cube-2025619/)
+append_entries: 2
+Finish: 2025-06-19 14:23:04.984359
