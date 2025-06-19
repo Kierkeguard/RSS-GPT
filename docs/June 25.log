@@ -1277,3 +1277,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Virtualware Lists On Euronext Growth](http://www.mondovisione.com/media-and-resources/news/virtualware-lists-on-euronext-growth-2025619/)
 append_entries: 1
 Finish: 2025-06-19 16:30:05.729013
+------------------------------------------------------
+Started: 2025-06-19 18:32:25.648896
+Existing_entries: 227
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Secures Convictions For Insider Dealing And Money Laundering Worth £1 Million](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-secures-convictions-for-insider-dealing-and-money-2025619/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESMA Consults On The Methodology For Computing EU Member States’ Market Capitalisation And Market Capitalisation Ratios](http://www.mondovisione.com/media-and-resources/news/esma-consults-on-the-methodology-for-computing-eu-member-states-market-capitali-2025619/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESMA Publishes The Final Report On The Active Account Requirement Under EMIR 3](http://www.mondovisione.com/media-and-resources/news/esma-publishes-the-final-report-on-the-active-account-requirement-under-emir-3-2025619/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Amman Stock Exchange Weekly Summary](http://www.mondovisione.com/media-and-resources/news/amman-stock-exchange-weekly-summary-2025619/)
+append_entries: 4
+Finish: 2025-06-19 18:32:27.337617
