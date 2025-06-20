@@ -1376,3 +1376,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [The Updated Coefficients For Moscow Exchange Indices To Come Into Force](http://www.mondovisione.com/media-and-resources/news/the-updated-coefficients-for-moscow-exchange-indices-to-come-into-force-2025620/)
 append_entries: 4
 Finish: 2025-06-20 08:31:42.279877
+------------------------------------------------------
+Started: 2025-06-20 10:25:53.560597
+Existing_entries: 244
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Puro.earth And CUR8 Partner To Accelerate Supplier Access to Offtake Financing And Scale Carbon Removal - New Partnership Enables Puro.earth Suppliers To Link Offtakes To CUR8 Financing Product](http://www.mondovisione.com/media-and-resources/news/puroearth-and-cur8-partner-to-accelerate-supplier-access-to-offtake-financing-a-2025620/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [84% Of The World’s Top Steel And Cement Emitters Cite Climate Measures, But Few Take Concrete Action - Clarity AI Analysis Reveals That, Despite Bold Targets, Companies In Two Sectors Responsible For Close To 15% Of Global CO₂ Emissions Show Limited Real-World Progress On Decarbonization](http://www.mondovisione.com/media-and-resources/news/84-of-the-worlds-top-steel-and-cement-emitters-cite-climate-measures-but-few-2025620/)
+append_entries: 2
+Finish: 2025-06-20 10:25:54.316681
