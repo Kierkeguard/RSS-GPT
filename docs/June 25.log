@@ -1388,3 +1388,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [84% Of The World’s Top Steel And Cement Emitters Cite Climate Measures, But Few Take Concrete Action - Clarity AI Analysis Reveals That, Despite Bold Targets, Companies In Two Sectors Responsible For Close To 15% Of Global CO₂ Emissions Show Limited Real-World Progress On Decarbonization](http://www.mondovisione.com/media-and-resources/news/84-of-the-worlds-top-steel-and-cement-emitters-cite-climate-measures-but-few-2025620/)
 append_entries: 2
 Finish: 2025-06-20 10:25:54.316681
+------------------------------------------------------
+Started: 2025-06-20 12:49:35.785727
+Existing_entries: 246
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Securities Commission Holds InvestSmart® In Pahang To Educate Investors And Improve Scam Awareness](http://www.mondovisione.com/media-and-resources/news/securities-commission-holds-investsmart-in-pahang-to-educate-investors-and-impr-2025620/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Speech, Dato’ Mohammad Faiz Azmi , Chairman, Securities Commission Malaysia, Bersama InvestSmart® @ Pahang 2025, 4:00 pm, 20 June 2025](http://www.mondovisione.com/media-and-resources/news/speech-dato-mohammad-faiz-azmi-chairman-securities-commission-malaysia-ber-2025620/)
+append_entries: 2
+Finish: 2025-06-20 12:49:36.729346
