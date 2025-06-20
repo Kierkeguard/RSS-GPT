@@ -1337,3 +1337,24 @@ Existing_entries: 235
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-06-20 04:31:32.753670
+------------------------------------------------------
+Started: 2025-06-20 06:34:36.099128
+Existing_entries: 235
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Press Conference By KATO Katsunobu, Japan Minister Of Finance And Minister Of State For Financial Services - Iwaki Shinkumi Bank](http://www.mondovisione.com/media-and-resources/news/press-conference-by-kato-katsunobu-japan-minister-of-finance-and-minister-of-st-2025620/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Japan Financial Services Agency: Release Of “2nd Scenario Analysis On Climate-Related Risks [Insurance Sector]”](http://www.mondovisione.com/media-and-resources/news/japan-financial-services-agency-release-of-2nd-scenario-analysis-on-climate-re-2025620/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Japan Exchange Group: Additional Contribution Associated With Extension Of Trust Period For Stock-Granting Trust In Stock Compensation Plan For Executives](http://www.mondovisione.com/media-and-resources/news/japan-exchange-group-additional-contribution-associated-with-extension-of-trust-2025620/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Japan Financial Services Agency: Release Of “Second Scenario Analysis On Climate-Related Risks (Banking Sector)”](http://www.mondovisione.com/media-and-resources/news/japan-financial-services-agency-release-of-second-scenario-analysis-on-climate-2025620/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Japan Financial Services Agency: Practices And Issues On Climate-Related Risk Management～ Building On "Supervisory Guidance On Climate-Related Risk Management And Client Engagement"](http://www.mondovisione.com/media-and-resources/news/japan-financial-services-agency-practices-and-issues-on-climate-related-risk-ma-2025620/)
+append_entries: 5
+Finish: 2025-06-20 06:34:36.868850
