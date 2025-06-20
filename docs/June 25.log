@@ -1424,3 +1424,25 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [HKEX Welcomes Government’s Re-Appointments To HKEX Risk Management Committee (Statutory)](http://www.mondovisione.com/media-and-resources/news/hkex-welcomes-governments-re-appointments-to-hkex-risk-management-committee-st-2025620/)
 append_entries: 4
 Finish: 2025-06-20 16:29:32.201206
+------------------------------------------------------
+Started: 2025-06-20 18:33:05.790080
+Existing_entries: 252
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The EBA Reviews Standardised Terminology In Relation To Payment Accounts And Concludes It Remains Fit-For-Purpose](http://www.mondovisione.com/media-and-resources/news/the-eba-reviews-standardised-terminology-in-relation-to-payment-accounts-and-con-2025620/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Central Banking In Extreme Adversity - Speech By Andrew Bailey, Governor, Bank Of England - Given At The 9th NBU-NBP Annual Research Conference, Kyiv](http://www.mondovisione.com/media-and-resources/news/central-banking-in-extreme-adversity-speech-by-andrew-bailey-governor-bank-o-2025620/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Borsa İstanbul Announces The Constituent Changes To The BIST Stock Indices For The Third Quarter Of 2025](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-announces-the-constituent-changes-to-the-bist-stock-indices-for-t-2025620/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bank Of England - Asset Purchase Facility: Gilt Sales – Market Notice 20 June 2025](http://www.mondovisione.com/media-and-resources/news/bank-of-england-asset-purchase-facility-gilt-sales-market-notice-20-june-20-2025620/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Borsa İstanbul: Re-Determination Of The New Market Segments Of The Shares In The Equity Market’s BIST Stars, BIST Main And BIST SubMarket](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-re-determination-of-the-new-market-segments-of-the-shares-in-the-2025620/)
+Append: [Dubai Financial Market Regulated Short Sell – Weekly Summary - 16th June 2025 To 20th June 2025](http://www.mondovisione.com/media-and-resources/news/dubai-financial-market-regulated-short-sell-weekly-summary-16th-june-2025-to-2025620/)
+append_entries: 6
+Finish: 2025-06-20 18:33:06.742167
