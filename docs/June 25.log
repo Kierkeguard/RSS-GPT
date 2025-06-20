@@ -1358,3 +1358,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Japan Financial Services Agency: Practices And Issues On Climate-Related Risk Management～ Building On "Supervisory Guidance On Climate-Related Risk Management And Client Engagement"](http://www.mondovisione.com/media-and-resources/news/japan-financial-services-agency-practices-and-issues-on-climate-related-risk-ma-2025620/)
 append_entries: 5
 Finish: 2025-06-20 06:34:36.868850
+------------------------------------------------------
+Started: 2025-06-20 08:31:41.259143
+Existing_entries: 240
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [American Century Investments Becomes New ETF Issuer At SIX Swiss Exchange](http://www.mondovisione.com/media-and-resources/news/american-century-investments-becomes-new-etf-issuer-at-six-swiss-exchange-2025620/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASEAN Capital Markets Forum (ACMF) Invites Public Feedback On The ASEAN Simplified ESG Disclosure Guide (ASEDG) For SMEs In Supply Chains Version 1](http://www.mondovisione.com/media-and-resources/news/asean-capital-markets-forum-acmf-invites-public-feedback-on-the-asean-simplifi-2025620/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bursa Malaysia Establishes Industry Working Group To Strengthen Cyber Resilience Across The Stockbroking Sector - Timeline Set For Industry-Wide Recommendation Paper](http://www.mondovisione.com/media-and-resources/news/bursa-malaysia-establishes-industry-working-group-to-strengthen-cyber-resilience-2025620/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Updated Coefficients For Moscow Exchange Indices To Come Into Force](http://www.mondovisione.com/media-and-resources/news/the-updated-coefficients-for-moscow-exchange-indices-to-come-into-force-2025620/)
+append_entries: 4
+Finish: 2025-06-20 08:31:42.279877
