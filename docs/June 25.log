@@ -1470,3 +1470,15 @@ Append: [Nigerian Exchange Weekly Market Report For The Week Ended 20 June 2025]
 Append: [Acting CFTC Chairman Pham To Receive Award At UK House Of Lords](http://www.mondovisione.com/media-and-resources/news/acting-cftc-chairman-pham-to-receive-award-at-uk-house-of-lords-2025620/)
 append_entries: 8
 Finish: 2025-06-20 20:26:11.279726
+------------------------------------------------------
+Started: 2025-06-20 22:22:31.026864
+Existing_entries: 266
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Treasury Department Announces New Appointments](http://www.mondovisione.com/media-and-resources/news/us-treasury-department-announces-new-appointments-2025620/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Commissioner Kristin N. Johnson’s Keynote Remarks At The CCP AGM 2025 - Addressing Cyber-Risks, Managing Critical Third-Party Relationships, And Reinforcing CCP Resilience](http://www.mondovisione.com/media-and-resources/news/cftc-commissioner-kristin-n-johnsons-keynote-remarks-at-the-ccp-agm-2025-add-2025620/)
+append_entries: 2
+Finish: 2025-06-20 22:22:32.204725
