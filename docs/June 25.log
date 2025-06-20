@@ -1400,3 +1400,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Speech, Dato’ Mohammad Faiz Azmi , Chairman, Securities Commission Malaysia, Bersama InvestSmart® @ Pahang 2025, 4:00 pm, 20 June 2025](http://www.mondovisione.com/media-and-resources/news/speech-dato-mohammad-faiz-azmi-chairman-securities-commission-malaysia-ber-2025620/)
 append_entries: 2
 Finish: 2025-06-20 12:49:36.729346
+------------------------------------------------------
+Started: 2025-06-20 14:22:48.430096
+Existing_entries: 248
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-06-20 14:22:49.331776
