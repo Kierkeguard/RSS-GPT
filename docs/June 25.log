@@ -1638,3 +1638,15 @@ Existing_entries: 270
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-06-23 04:37:13.149887
+------------------------------------------------------
+Started: 2025-06-23 06:36:47.289150
+Existing_entries: 270
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [JPX And STAC To Hold STAC Summit In Tokyo](http://www.mondovisione.com/media-and-resources/news/jpx-and-stac-to-hold-stac-summit-in-tokyo-2025623/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Regulatory Priorities In Financial Advice - Keynote Address By ASIC Commissioner Alan Kirkland At The Professional Planner Licensee Summit In The Blue Mountains On 23 June 2025](http://www.mondovisione.com/media-and-resources/news/regulatory-priorities-in-financial-advice-keynote-address-by-asic-commissioner-2025623/)
+append_entries: 2
+Finish: 2025-06-23 06:36:48.186292
