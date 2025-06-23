@@ -1766,3 +1766,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Federal Reserve Board Announces That Reputational Risk Will No Longer Be A Component Of Examination Programs In Its Supervision Of Banks](http://www.mondovisione.com/media-and-resources/news/federal-reserve-board-announces-that-reputational-risk-will-no-longer-be-a-compo-2025623/)
 append_entries: 2
 Finish: 2025-06-23 20:27:01.496331
+------------------------------------------------------
+Started: 2025-06-23 22:23:47.394522
+Existing_entries: 298
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cboe Global Markets Announces Date Of Second-Quarter 2025 Earnings Release And Conference Call](http://www.mondovisione.com/media-and-resources/news/cboe-global-markets-announces-date-of-second-quarter-2025-earnings-release-and-c-2025623/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Commitments Of Traders Reports Update](http://www.mondovisione.com/media-and-resources/news/cftc-commitments-of-traders-reports-update-2025623/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Staff Issues No-Action Letter Extension Regarding Non-U.S. Swap Dealers](http://www.mondovisione.com/media-and-resources/news/cftc-staff-issues-no-action-letter-extension-regarding-non-us-swap-dealers-2025623/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Swaps Report Update](http://www.mondovisione.com/media-and-resources/news/cftc-swaps-report-update-2025623/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Kevin Muhlendorf Named SEC Inspector General](http://www.mondovisione.com/media-and-resources/news/kevin-muhlendorf-named-sec-inspector-general-2025623/)
+append_entries: 5
+Finish: 2025-06-23 22:23:48.487258
