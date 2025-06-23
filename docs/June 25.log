@@ -1665,3 +1665,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Welcoming Remarks, Federal Reserve Governor Christopher J. Waller, At “Assessing The Effectiveness Of Monetary Policy During And After The COVID-19 Pandemic” 2025 IJCB Research Conference, Hosted By The Czech National Bank And The International Journal Of Central Banking, Prague, Czech Republic](http://www.mondovisione.com/media-and-resources/news/welcoming-remarks-federal-reserve-governor-christopher-j-waller-at-assessing-2025623/)
 append_entries: 3
 Finish: 2025-06-23 08:33:27.860214
+------------------------------------------------------
+Started: 2025-06-23 10:27:07.538182
+Existing_entries: 275
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ETFGI Reports That Assets Invested In Actively Managed ETFs Listed Globally Reached A New Record Of US$1.39 Trillion At The End Of May](http://www.mondovisione.com/media-and-resources/news/etfgi-reports-that-assets-invested-in-actively-managed-etfs-listed-globally-reac-2025623/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SET Continues New Breed Capital Market Financial Professionals Program To Cultivate Next-Generation Talents](http://www.mondovisione.com/media-and-resources/news/set-continues-new-breed-capital-market-financial-professionals-program-to-cult-2025623/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Broadridge Appoints Ken MacHarg As Managing Director, Global Head Of Futures And Options Trading](http://www.mondovisione.com/media-and-resources/news/broadridge-appoints-ken-macharg-as-managing-director-global-head-of-futures-and-2025623/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Amrize Lists On SIX Swiss Exchange](http://www.mondovisione.com/media-and-resources/news/amrize-lists-on-six-swiss-exchange-2025623/)
+append_entries: 4
+Finish: 2025-06-23 10:27:08.723859
