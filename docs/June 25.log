@@ -1689,3 +1689,25 @@ Existing_entries: 279
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-06-23 12:51:40.133861
+------------------------------------------------------
+Started: 2025-06-23 14:25:09.501418
+Existing_entries: 279
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Fiserv And PayPal Expand Partnership To Advance Stablecoin Payments - Two Firms Aim For Interoperability Between FIUSD And PayPal USD, Removing Friction And Driving Innovation Across Global Payments And Commerce Use Cases](http://www.mondovisione.com/media-and-resources/news/fiserv-and-paypal-expand-partnership-to-advance-stablecoin-payments-two-firms-2025623/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MTCM Securitization Architects Partners With Tokeny To Launch Dual-Format Issuance Framework Bridging Traditional And Digital Securities](http://www.mondovisione.com/media-and-resources/news/mtcm-securitization-architects-partners-with-tokeny-to-launch-dual-format-issuan-2025623/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Trading Technologies' TT® Trade Surveillance Captures 2025 Risk Technology Award For Trade Surveillance Product Of The Year](http://www.mondovisione.com/media-and-resources/news/trading-technologies-tt-trade-surveillance-captures-2025-risk-technology-award-2025623/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Fiserv Launches New FIUSD Stablecoin For Financial Institutions - Bank-Friendly Coin Will Allow Access To Digital Assets Through A Simple, Secure, And Scalable Platform](http://www.mondovisione.com/media-and-resources/news/fiserv-launches-new-fiusd-stablecoin-for-financial-institutions-bank-friendly-2025623/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NGX Group Chairman Calls For Regional Collaboration To Unlock West Africa’s Trade And Investment Potential At WAES 2025](http://www.mondovisione.com/media-and-resources/news/ngx-group-chairman-calls-for-regional-collaboration-to-unlock-west-africas-trad-2025623/)
+Append: [ICE First Look At Mortgage Performance: Delinquencies Held Steady In May But Continue To Trend Higher On An Annual Basis](http://www.mondovisione.com/media-and-resources/news/ice-first-look-at-mortgage-performance-delinquencies-held-steady-in-may-but-con-2025623/)
+append_entries: 6
+Finish: 2025-06-23 14:25:10.679634
