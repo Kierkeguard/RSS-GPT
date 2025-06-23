@@ -1754,3 +1754,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [BME Extends Trading Hours For IBEX 35® Futures Contracts As Of Today](http://www.mondovisione.com/media-and-resources/news/bme-extends-trading-hours-for-ibex-35-futures-contracts-as-of-today-2025623/)
 append_entries: 5
 Finish: 2025-06-23 18:34:08.784388
+------------------------------------------------------
+Started: 2025-06-23 20:27:00.257475
+Existing_entries: 296
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Welcoming Remarks, Federal Reserve Governor Adriana D. Kugler, At A Fed Listens Event Hosted By The Federal Reserve Bank Of New York, Schenectady, New York](http://www.mondovisione.com/media-and-resources/news/welcoming-remarks-federal-reserve-governor-adriana-d-kugler-at-a-fed-listens-2025623/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Federal Reserve Board Announces That Reputational Risk Will No Longer Be A Component Of Examination Programs In Its Supervision Of Banks](http://www.mondovisione.com/media-and-resources/news/federal-reserve-board-announces-that-reputational-risk-will-no-longer-be-a-compo-2025623/)
+append_entries: 2
+Finish: 2025-06-23 20:27:01.496331
