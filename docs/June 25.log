@@ -1650,3 +1650,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Regulatory Priorities In Financial Advice - Keynote Address By ASIC Commissioner Alan Kirkland At The Professional Planner Licensee Summit In The Blue Mountains On 23 June 2025](http://www.mondovisione.com/media-and-resources/news/regulatory-priorities-in-financial-advice-keynote-address-by-asic-commissioner-2025623/)
 append_entries: 2
 Finish: 2025-06-23 06:36:48.186292
+------------------------------------------------------
+Started: 2025-06-23 08:33:26.579955
+Existing_entries: 272
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Full Membership Of The Association Of National Numbering Agencies (ANNA) Reaches 115 As Torsten Ulrich And Laura Stanley Are Re-Elected As Chair And Vice-Chair Of The Board Of Directors - Ratified At ANNA’s General Meeting In Split, 19-20 June 2025](http://www.mondovisione.com/media-and-resources/news/full-membership-of-the-association-of-national-numbering-agencies-anna-reaches-2025623/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Vienna Stock Exchange: VÖNIX Austrian Sustainability Index Enters Its 21st Year With Two New Members](http://www.mondovisione.com/media-and-resources/news/vienna-stock-exchange-vnix-austrian-sustainability-index-enters-its-21st-year-2025623/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Welcoming Remarks, Federal Reserve Governor Christopher J. Waller, At “Assessing The Effectiveness Of Monetary Policy During And After The COVID-19 Pandemic” 2025 IJCB Research Conference, Hosted By The Czech National Bank And The International Journal Of Central Banking, Prague, Czech Republic](http://www.mondovisione.com/media-and-resources/news/welcoming-remarks-federal-reserve-governor-christopher-j-waller-at-assessing-2025623/)
+append_entries: 3
+Finish: 2025-06-23 08:33:27.860214
