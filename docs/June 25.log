@@ -1805,3 +1805,21 @@ Existing_entries: 303
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-06-24 04:33:20.302368
+------------------------------------------------------
+Started: 2025-06-24 06:35:57.699018
+Existing_entries: 303
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Wealthbrix Launches In DIFC With Eight-Figure Investment Backing, Experienced Board, And A Commitment To Elevate Regional Wealth Management](http://www.mondovisione.com/media-and-resources/news/wealthbrix-launches-in-difc-with-eight-figure-investment-backing-experienced-bo-2025624/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Warns Industry And Consumers Of Share Sale Fraud](http://www.mondovisione.com/media-and-resources/news/asic-warns-industry-and-consumers-of-share-sale-fraud-2025624/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC’s Division Of Market Oversight Seeks Public Comment On Proposed No-Action Position To MIAX Futures Exchange, LLC](http://www.mondovisione.com/media-and-resources/news/cftcs-division-of-market-oversight-seeks-public-comment-on-proposed-no-action-p-2025624/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Office Of The Comptroller Of The Currency Reports First Quarter 2025 Bank Trading Revenue](http://www.mondovisione.com/media-and-resources/news/us-office-of-the-comptroller-of-the-currency-reports-first-quarter-2025-bank-tra-2025624/)
+append_entries: 4
+Finish: 2025-06-24 06:35:58.515272
