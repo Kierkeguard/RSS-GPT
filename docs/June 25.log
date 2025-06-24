@@ -1869,3 +1869,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Miami International Holdings Announces $40 Million Investment From Warburg Pincus To Support Global Expansion - The Investment Follows A $100 Million Investment Led By Warburg Pincus' Capital Solutions Team In August 2024](http://www.mondovisione.com/media-and-resources/news/miami-international-holdings-announces-40-million-investment-from-warburg-pincu-2025624/)
 append_entries: 1
 Finish: 2025-06-24 12:51:06.166990
+------------------------------------------------------
+Started: 2025-06-24 14:25:03.135725
+Existing_entries: 319
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Global Association Of Central Counterparties – CCP Global - Annual General Meeting 2025](http://www.mondovisione.com/media-and-resources/news/the-global-association-of-central-counterparties-ccp-global-annual-general-m-2025624/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BIS Annual Economic Report 2025: The Next-Generation Monetary And Financial System](http://www.mondovisione.com/media-and-resources/news/bis-annual-economic-report-2025-the-next-generation-monetary-and-financial-syst-2025624/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Semiannual Monetary Policy Report To The Congress, Federal Reserve Chair Jerome H. Powell, Before The Committee On Financial Services, U.S. House Of Representatives](http://www.mondovisione.com/media-and-resources/news/semiannual-monetary-policy-report-to-the-congress-federal-reserve-chair-jerome-2025624/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BlockFills Adds Connectivity To Your Bourse, Bringing New Liquidity Opportunities To Brokerages, Institutional Market Participants](http://www.mondovisione.com/media-and-resources/news/blockfills-adds-connectivity-to-your-bourse-bringing-new-liquidity-opportunitie-2025624/)
+append_entries: 4
+Finish: 2025-06-24 14:25:04.215580
