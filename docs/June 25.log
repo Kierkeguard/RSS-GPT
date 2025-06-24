@@ -1860,3 +1860,12 @@ Append: [Securities Commission Malaysia Issues Product Governance Guidelines To 
 Append: [ZERO13 Showcases AI-Driven Green Real-World Assets Innovation At Landmark Businessabc AI Global Summit](http://www.mondovisione.com/media-and-resources/news/zero13-showcases-ai-driven-green-real-world-assets-innovation-at-landmark-busine-2025624/)
 append_entries: 9
 Finish: 2025-06-24 10:26:48.897430
+------------------------------------------------------
+Started: 2025-06-24 12:51:05.200589
+Existing_entries: 318
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Miami International Holdings Announces $40 Million Investment From Warburg Pincus To Support Global Expansion - The Investment Follows A $100 Million Investment Led By Warburg Pincus' Capital Solutions Team In August 2024](http://www.mondovisione.com/media-and-resources/news/miami-international-holdings-announces-40-million-investment-from-warburg-pincu-2025624/)
+append_entries: 1
+Finish: 2025-06-24 12:51:06.166990
