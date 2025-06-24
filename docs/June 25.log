@@ -1944,3 +1944,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [MIAX Exchange Group - Options Markets - Market For Underlying Security Used For Openings On MIAX Options, MIAX Pearl Options, MIAX Emerald Options And MIAX Sapphire Options For Newly Listed Symbols Effective Wednesday, June 25, 2025](http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-options-markets-market-for-underlying-security-used-for-2025624/)
 append_entries: 2
 Finish: 2025-06-24 20:27:10.933445
+------------------------------------------------------
+Started: 2025-06-24 22:22:55.470348
+Existing_entries: 338
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Continues Mortgage Rule Review To Boost Home Ownership And Support Growth](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-continues-mortgage-rule-review-to-boost-home-owne-2025624/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Opening Remarks, Federal Reserve Governor Michael S. Barr: At A Fed Listens Event Hosted By The Federal Reserve Bank Of Kansas City, Omaha, Nebraska](http://www.mondovisione.com/media-and-resources/news/opening-remarks-federal-reserve-governor-michael-s-barr-at-a-fed-listens-even-2025624/)
+append_entries: 2
+Finish: 2025-06-24 22:22:56.528089
