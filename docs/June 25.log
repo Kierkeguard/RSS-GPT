@@ -2070,3 +2070,28 @@ Existing_entries: 362
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-06-25 16:32:03.659354
+------------------------------------------------------
+Started: 2025-06-25 18:34:29.266502
+Existing_entries: 362
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Office Of The Investor Advocate Delivers To Congress Report On Objectives For Fiscal Year 2026](http://www.mondovisione.com/media-and-resources/news/sec-office-of-the-investor-advocate-delivers-to-congress-report-on-objectives-fo-2025625/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Acting Comptroller Of The US Currency Issues Statement On Proposal To Modify The Enhanced Supplementary Leverage Ratio](http://www.mondovisione.com/media-and-resources/news/acting-comptroller-of-the-us-currency-issues-statement-on-proposal-to-modify-the-2025625/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Regulators To Hold Outreach Event For Municipal Market Professionals](http://www.mondovisione.com/media-and-resources/news/us-regulators-to-hold-outreach-event-for-municipal-market-professionals-2025625/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Ontario Securities Commission Provides 3-year Funding To Prosper Canada](http://www.mondovisione.com/media-and-resources/news/ontario-securities-commission-provides-3-year-funding-to-prosper-canada-2025625/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Canadian Investment Regulatory Organization Releases 2025 Enforcement Report](http://www.mondovisione.com/media-and-resources/news/canadian-investment-regulatory-organization-releases-2025-enforcement-report-2025625/)
+Append: [ESMA Suggests Amendments To The DLT Pilot Regime To Make It Permanent](http://www.mondovisione.com/media-and-resources/news/esma-suggests-amendments-to-the-dlt-pilot-regime-to-make-it-permanent-2025625/)
+Append: [Finansinspektionen: Leonard Weber Landgren New Executive Director Of Insurance](http://www.mondovisione.com/media-and-resources/news/finansinspektionen-leonard-weber-landgren-new-executive-director-of-insurance-2025625/)
+Append: [ESMA Provides Guidance On A Key Tool For CCP Resolution](http://www.mondovisione.com/media-and-resources/news/esma-provides-guidance-on-a-key-tool-for-ccp-resolution-2025625/)
+Append: [Borsa Istanbul: BIST-KYD Corporate Eurobond Indices Periodic Review](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-bist-kyd-corporate-eurobond-indices-periodic-review-2025625/)
+append_entries: 9
+Finish: 2025-06-25 18:34:30.377414
