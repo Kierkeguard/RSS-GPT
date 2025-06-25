@@ -2095,3 +2095,18 @@ Append: [ESMA Provides Guidance On A Key Tool For CCP Resolution](http://www.mon
 Append: [Borsa Istanbul: BIST-KYD Corporate Eurobond Indices Periodic Review](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-bist-kyd-corporate-eurobond-indices-periodic-review-2025625/)
 append_entries: 9
 Finish: 2025-06-25 18:34:30.377414
+------------------------------------------------------
+Started: 2025-06-25 20:27:13.500099
+Existing_entries: 371
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Federal Bank Regulatory Agencies Release List Of Distressed Or Underserved Nonmetropolitan Middle-Income Geographies](http://www.mondovisione.com/media-and-resources/news/us-federal-bank-regulatory-agencies-release-list-of-distressed-or-underserved-no-2025625/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Announces Mid-Month Open Short Interest Positions In Nasdaq Stocks As Of Settlement Date June 13, 2025](http://www.mondovisione.com/media-and-resources/news/nasdaq-announces-mid-month-open-short-interest-positions-in-nasdaq-stocks-as-of-2025625/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NYSE Group Consolidated Short Interest Report](http://www.mondovisione.com/media-and-resources/news/nyse-group-consolidated-short-interest-report-2025625/)
+append_entries: 3
+Finish: 2025-06-25 20:27:14.457048
