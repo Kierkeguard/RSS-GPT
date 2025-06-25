@@ -2028,3 +2028,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [UK VC Funding Deal Volume And Value Down By 13% And 14% YoY During January-May 2025, Finds GlobalData](http://www.mondovisione.com/media-and-resources/news/uk-vc-funding-deal-volume-and-value-down-by-13-and-14-yoy-during-january-may-2-2025625/)
 append_entries: 4
 Finish: 2025-06-25 10:26:51.343372
+------------------------------------------------------
+Started: 2025-06-25 12:51:45.345756
+Existing_entries: 354
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Trading Technologies’ TT® Platform Wins Best Sell-Side OMS At TradingTech Insight USA Awards 2025 - Fifth Significant Award Win For Company In Past Five Weeks](http://www.mondovisione.com/media-and-resources/news/trading-technologies-tt-platform-wins-best-sell-side-oms-at-tradingtech-insigh-2025625/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Boerse Stuttgart Group Continues Its Strategic Leadership Reorganization](http://www.mondovisione.com/media-and-resources/news/boerse-stuttgart-group-continues-its-strategic-leadership-reorganization-2025625/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [DTCC Comment On Canadian Trade Reporting Rules Rewrite](http://www.mondovisione.com/media-and-resources/news/dtcc-comment-on-canadian-trade-reporting-rules-rewrite-2025625/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Quincy Data’s Precision Time Exchange Service Recognized As Best Time Stamping Measurement System By TradingTech Insight Awards](http://www.mondovisione.com/media-and-resources/news/quincy-datas-precision-time-exchange-service-recognized-as-best-time-stamping-m-2025625/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Truss Edge Adds Partnership Accounting Tool For Hedge Funds](http://www.mondovisione.com/media-and-resources/news/truss-edge-adds-partnership-accounting-tool-for-hedge-funds-2025625/)
+append_entries: 5
+Finish: 2025-06-25 12:51:46.456283
