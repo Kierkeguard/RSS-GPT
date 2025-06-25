@@ -2049,3 +2049,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Truss Edge Adds Partnership Accounting Tool For Hedge Funds](http://www.mondovisione.com/media-and-resources/news/truss-edge-adds-partnership-accounting-tool-for-hedge-funds-2025625/)
 append_entries: 5
 Finish: 2025-06-25 12:51:46.456283
+------------------------------------------------------
+Started: 2025-06-25 14:24:45.363327
+Existing_entries: 359
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Exegy Redefines Market Data With Nexus: One Platform, Zero Trade-Offs](http://www.mondovisione.com/media-and-resources/news/exegy-redefines-market-data-with-nexus-one-platform-zero-trade-offs-2025625/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Raymond James Ltd. Announces Strategic Investment In Next-Generation Wealth Management Platform - Raymond James Ltd Enters Into Agreement With FNZ To Accelerate Its Digital Transformation](http://www.mondovisione.com/media-and-resources/news/raymond-james-ltd-announces-strategic-investment-in-next-generation-wealth-mana-2025625/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CUR8 Launches ‘Virtual Carbon Removal Scientist’ To Help Corporate Sustainability Teams Tackle The Complexity Of Carbon Markets](http://www.mondovisione.com/media-and-resources/news/cur8-launches-virtual-carbon-removal-scientist-to-help-corporate-sustainabilit-2025625/)
+append_entries: 3
+Finish: 2025-06-25 14:24:46.446969

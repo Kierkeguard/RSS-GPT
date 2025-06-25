@@ -5,11 +5,86 @@
 <link>http://www.mondovisione.com/media-and-resources/news/</link>
 
 <item>
+<title>Exegy Redefines Market Data With Nexus: One Platform, Zero Trade-Offs</title>
+<link>http://www.mondovisione.com/media-and-resources/news/exegy-redefines-market-data-with-nexus-one-platform-zero-trade-offs-2025625/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/exegy-redefines-market-data-with-nexus-one-platform-zero-trade-offs-2025625/</guid>
+<content:encoded><![CDATA[
+
+<p><a class="safe---anchor---wc" href="https://click-783105.icptrack.com/icp/relay.php?r=59597334&amp;msgid=643025&amp;act=FNP7&amp;c=783105&amp;pid=4515587&amp;destination=https%3A%2F%2Fwww.exegy.com%2F&amp;cf=3638&amp;v=527f43e1b5610330d904e4ea41b6ea943cc4e23146431d00e8c58ff6417a967c" rel="noopener noreferrer nofollow" target="_blank">Exegy</a>, a leading provider of market data, trading technology and managed services for the capital markets, today announced the launch of&nbsp;<strong>Nexus</strong>, a breakthrough market data platform that eliminates the long-standing trade-offs between performance, scale, and cost.&nbsp;Built to meet the demands of today&rsquo;s high-volume, high-volatility trading environments, Nexus replaces fragmented, server-heavy feed handler deployments with efficient FPGA-based appliances and network interface cards. Nexus delivers consistent low-single-digit microsecond performance, consumes a single CPU core on client servers, and reduces datacenter footprint by more than 40%.</p>
+<p>&ldquo;Sustained volatility and high volumes present attractive trading opportunities to savvy firms with the strategies and moxie to capture them. Nexus offers them a transformative tool to conquer the unattractive compromises that they would otherwise have to make when building their trading platform,&rdquo; said&nbsp;<strong>David Taylor, CEO at Exegy.</strong>&nbsp;&ldquo;With Nexus, we leveraged our proven FPGA expertise to fundamentally reimagine market data processing along the full data path from raw tick to executed trade.&rdquo;</p>
+<p><strong>Key Features and Benefits of Nexus:</strong></p>
+<ul>
+<li><strong>Consistent Speed:&nbsp;</strong>Market data is delivered to software applications in ~2 microseconds, enabling trading strategies to react in under 3 microseconds with extremely low jitter</li>
+<li><strong>Future-proof Capacity:&nbsp;</strong>Market data is processed at line rate during a single hop through an FPGA while integrated Level 1 switching enables seamless scaling of appliances</li>
+<li><strong>Extreme Efficiency:&nbsp;</strong>Client servers allocate a single CPU core to consume normalized market data from an appliance that processes all feeds in a datacenter</li>
+<li><strong>Dramatic Cost Savings:&nbsp;</strong>Over 40% reductions in operating costs are achievable with lower datacenter footprint</li>
+<li><strong>Comprehensive Managed Services:&nbsp;</strong>FPGA-based appliances are fully managed, monitored, and updated by a global team of experts</li>
+<li><strong>Tick-to-Trade Integration:&nbsp;</strong>Seamless integration with FPGA tick-to-trade platform enables ultra-low latency strategies to respond to aggregated market data from multiple markets in under 350 nanoseconds</li>
+</ul>
+<p>In a return on investment analysis with a U.S. equities broker, Nexus delivered&nbsp;<strong>up to</strong>&nbsp;<strong>41% in infrastructure savings</strong>. Replacing traditional, software-based deployments with a managed FPGA-based Nexus appliance reduced server count from 32 to 22, cutting operational costs by&nbsp;<strong>36%</strong>, saving an estimated&nbsp;<strong>$1.4 million annually</strong>&nbsp;<strong>per site</strong>. When paired with Nexus SmartNICs to offload the API layer, server count dropped to 17, delivering close to&nbsp;<strong>$2</strong>&nbsp;<strong>million in annual savings</strong>, improved determinism, eliminated jitter, and reduced overall system complexity.</p>
+<p>Beyond market data normalization and distribution, Nexus integrates seamlessly into the broader trading stack, supporting both application-level consumption and execution workflows. It is fully compatible with Exegy&rsquo;s tick-to-trade and execution solutions,&nbsp;<a class="safe---anchor---wc" href="https://click-783105.icptrack.com/icp/relay.php?r=59597334&amp;msgid=643025&amp;act=FNP7&amp;c=783105&amp;pid=4515587&amp;destination=https%3A%2F%2Fwww.exegy.com%2Fproducts%2Fsrex%2F&amp;cf=3638&amp;v=bbd543840a5c5b447e31551f055831e7268290fbd9c264e9b54fd362f1fb55bb" rel="noopener noreferrer nofollow" target="_blank">SREX</a>&nbsp;and&nbsp;<a class="safe---anchor---wc" href="https://click-783105.icptrack.com/icp/relay.php?r=59597334&amp;msgid=643025&amp;act=FNP7&amp;c=783105&amp;pid=4515587&amp;destination=https%3A%2F%2Fwww.enyx.com%2Fnxaccess%2F%3F__hstc%3D180155771.f2c229e94f4bcba26bd6604e34f8ebfc.1750259857458.1750700576299.1750710201013.3%26__hssc%3D180155771.1.1750710201013%26__hsfp%3D3892574149&amp;cf=3638&amp;v=98727f31324b44104db071babd9053a4ef846882b6cb611aed03b0c76db12634" rel="noopener noreferrer nofollow" target="_blank">nxAccess</a>, enabling firms to build cohesive, high-performance trading infrastructures.</p>
+<p>For market makers and Smart Order Routers, Nexus also simplifies the deployment of large-scale FPGA environments. The platform delivers raw and normalized market data directly to FPGAs, enabling ultra-fast order routing to co-located exchanges or signal transmission to remote data centers over wireless networks. Initial deployments focus on equities and futures, with support for additional asset classes and features&mdash;such as fast-cancel or sweeping logic for agency brokers&mdash;planned for future releases.</p>
+<p><strong>Nexus is the result of an innovative effort to rethink how market data infrastructure should work in today&rsquo;s trading environment.</strong>&nbsp;Through extensive engagement with agency brokers, hedge funds, and market makers across the buy- and sell-side, Exegy validated core challenges&mdash;then pushed beyond them. The result is a platform shaped by industry insight but driven by Exegy&rsquo;s vision for scalable, next-generation market data delivery and proven expertise in harnessing FPGA technology to solve the most challenging performance problems in capital markets.</p>
+<p>&ldquo;Most firms still rely on disconnected systems to manage different market data workflows,&rdquo; said&nbsp;<strong>Laurent de Barry</strong>,&nbsp;<strong>VP, Ultra-Low Latency Trading Products at Exegy</strong>. &ldquo;This leads to unnecessary complexity, duplicated costs, and limited scalability. Instead of relying on traditional, server-heavy deployments, Nexus consolidates data infrastructure needs into a single, efficient, FPGA-powered platform that supports global market visibility. This gives a centralized, scalable delivery of market data with fewer servers, less power consumption and lower costs.&rdquo;</p>
+<p><strong>Nexus is now available for order</strong>, with production delivery scheduled for&nbsp;<strong>early Q4 2025</strong>. Early adopter clients have access to an integration environment that enables application development and testing with the production API. The appliance is delivered as a fully managed service, including deployment, monitoring, and support.&nbsp;</p>
+]]></content:encoded>
+<pubDate>Wed, 25 Jun 2025 14:52:47 GMT</pubDate>
+<pubDate>Wed, 25 Jun 2025 14:52:47 GMT</pubDate>
+</item>
+<item>
+<title>Raymond James Ltd. Announces Strategic Investment In Next-Generation Wealth Management Platform - Raymond James Ltd Enters Into Agreement With FNZ To Accelerate Its Digital Transformation</title>
+<link>http://www.mondovisione.com/media-and-resources/news/raymond-james-ltd-announces-strategic-investment-in-next-generation-wealth-mana-2025625/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/raymond-james-ltd-announces-strategic-investment-in-next-generation-wealth-mana-2025625/</guid>
+<content:encoded><![CDATA[
+
+<p><span style="text-decoration: underline;"><a class="safe---anchor---wc" href="https://url.uk.m.mimecastprotect.com/s/b4cgC3PwfmXx5l8tvu5hQOUyy/" rel="noopener noreferrer nofollow" target="_blank">Raymond James Ltd.</a></span>, the largest independent financial services firm in Canada, today announced a strategic partnership with&nbsp;<span style="text-decoration: underline;"><a class="safe---anchor---wc" href="https://url.uk.m.mimecastprotect.com/s/v09GC4PLfJz6pOjSjC2h4IHY2/" rel="noopener noreferrer nofollow" target="_blank">FNZ</a></span>, a global wealth management platform provider, to deliver its next-generation wealth management platform. Under the agreement, Raymond James Ltd. will make a significant investment to accelerate the digital transformation of its wealth management infrastructure and elevate the advisor and client experience nationwide.</p>
+<p>The partnership will see Raymond James Ltd. leverage FNZ&rsquo;s integrated, end-to-end wealth management platform&mdash;a deliberate and future-focused investment in modern infrastructure. Designed to deliver AI-powered capabilities, straight-through processing, and advanced digital capabilities, the FNZ platform will strengthen the Raymond James Ltd. unique value proposition.</p>
+<p>&ldquo;As a client-first organization, we took the time to engage with our advisors, branch associates and clients to define the future of wealth management,&rdquo; said&nbsp;<b>Jamie Coulter CEO, Raymond James Ltd</b>. &ldquo;This isn&rsquo;t just a technology upgrade&mdash;it&rsquo;s a quantum leap in the support we provide our advisors in their delivery of exceptional client service. We&rsquo;re listening, investing, and acting to deliver smarter, more connected experiences for our partners and clients.&rdquo;</p>
+<p>The new platform is built with a client-centric, digital-first design that improves efficiency, speed&nbsp;and personalization across the full wealth lifecycle. Advisors will gain a modern, intuitive operating environment, enabling more meaningful client engagements. Investors will benefit from improved digital experiences and real-time capabilities, all backed by the highest level of security and performance provided by the FNZ platform.</p>
+<p>This strategic investment strengthens Raymond James Ltd.&rsquo;s position as a premier destination for top-tier advisors across Canada, reinforcing its commitment to innovation, advisor enablement, and exceptional client service.</p>
+<p>FNZ partners with more than 650 financial institutions globally on behalf of 26 million end investors and administers with more than US$1.7 trillion in assets. FNZ&rsquo;s market-leading technology and infrastructure will significantly enhance Raymond James Ltd.&rsquo;s offering to advisors with greater flexibility to adapt quickly to changing markets, regulatory requirements, and investor expectations.</p>
+<p><b>Blythe Masters, Group CEO of FNZ, said:</b>&nbsp;&ldquo;We are delighted to partner with Raymond James Ltd. to deliver a next-generation wealth management platform that will transform the advisor and client experience across Canada. North America is a key market for FNZ, and this partnership reflects our long-term commitment to investing in the region.</p>
+<p>We&rsquo;re excited to bring this innovative platform to life and support Raymond James Ltd. in setting a new standard for wealth management in Canada.&rdquo;</p>
+<p>Positioning itself as a leader in financial technology and innovation, Raymond James expects to invest approximately US$1 billion globally in FY2025, with a strong emphasis on information security infrastructure including its dedicated Cyber Threat Center.</p>
+]]></content:encoded>
+<pubDate>Wed, 25 Jun 2025 13:59:07 GMT</pubDate>
+<pubDate>Wed, 25 Jun 2025 13:59:07 GMT</pubDate>
+</item>
+<item>
+<title>CUR8 Launches ‘Virtual Carbon Removal Scientist’ To Help Corporate Sustainability Teams Tackle The Complexity Of Carbon Markets</title>
+<link>http://www.mondovisione.com/media-and-resources/news/cur8-launches-virtual-carbon-removal-scientist-to-help-corporate-sustainabilit-2025625/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/cur8-launches-virtual-carbon-removal-scientist-to-help-corporate-sustainabilit-2025625/</guid>
+<content:encoded><![CDATA[
+
+<ul>
+<li>CUR8 unveils CUR8 Plan - a &lsquo;virtual carbon removal scientist&rsquo;, empowering corporate sustainability teams to build their carbon removal strategies, while eliminating the complexity, risk and access issues of the carbon removal market.</li>
+<li>Through the publicly available CUR8 Plan, CUR8 is bringing top tier carbon removal scientific expertise to every company in the world. Saving sustainability teams time and money - whilst giving CFOs confidence in the commercial impact of delivering lower carbon emissions.</li>
+<li>CUR8 Plan draws on data from over 1,000 global&nbsp;projects across 99+ countries &ndash; offering corporates a simplified route to customisable carbon removal strategies.</li>
+<li>
+<div>Launched during London Climate Action Week, CUR8 Plan complements the company&rsquo;s growing customer base, which include British Airways, Coca-Cola HBC and Standard Chartered.</div>
+</li>
+</ul>
+<p>CUR8, the market maker for carbon removals, today launched CUR8 Plan, the publicly available, expert-powered planning and strategy software that puts a world-class carbon removal scientist in every sustainability team. The product helps companies to overcome the complexity of integrating carbon removals into their sustainability strategies. CUR8 Plan replaces the need for expensive consultants or in-house experts, and was unveiled to industry and customers at CUR8&rsquo;s London Climate Action Week event held in central London on Monday 23 June.</p>
+<p>Despite more than 10,000 companies worldwide committing to SBTi targets, just over 200 are actually buying carbon removals. Today, sustainability teams at companies like Microsoft, Amazon and Shopify need to build large in-house specialist teams or hire consultants to get up the carbon removal knowledge curve and have confidence in their decisions. Faced with a maze of over 20 removal methods covering 1,000+ projects &ndash; each with different standards, quality metrics and unreliable data - teams need specialist carbon removal expertise that few can afford.</p>
+<p>CUR8 Plan changes this. Built on CUR8&rsquo;s Carbon Removal Intelligence Platform, it arms sustainability, procurement, and finance teams with the data, specialist scientific expertise, and AI powered tooling to translate climate ambition into a practical carbon removal strategy. CUR8 Plan allows users to build alignment and confidence in their strategies through modelling budgets, delivery risks, and alignment to established frameworks such as the Oxford Offsetting Principles, SBTi and more.</p>
+<p><b>Marta Krupinska</b>, Co-Founder and CEO of CUR8 said:</p>
+<div class="elementToProof">&ldquo;Our goal is to increase confidence and trust in carbon removal among sustainability teams. By allowing them to play around with the data set we&rsquo;ve been carefully building over the last 2.5 years, create their own portfolios and explore our scientific analysis, we are allowing sustainability teams to save time and money in developing this know-how in-house. Finally, we hope that the ability to generate a personalised business case will make a huge difference to securing budgets for carbon removal and bringing more buyers into the market, faster.&rdquo;</div>
+<div class="elementToProof"></div>
+<div class="elementToProof">
+<p>With a trillion-dollar carbon removals market taking shape, CUR8 Plan puts companies on the front foot. Corporates such as British Airways, Coca-Cola HBC, and Standard Chartered are already utilising CUR8&rsquo;s Intelligence Platform to discover, procure and manage high-quality carbon removals. Now with CUR8 Plan, this latest innovation further enhances CUR8&rsquo;s ability to help companies design actionable carbon removal strategies, as progress towards net zero goals.</p>
+<h4>Background:</h4>
+<p>Link to product:&nbsp;<span><span style="text-decoration: underline;"><a class="safe---anchor---wc x_x_OWAAutoLink" href="https://www.cur8.earth/plan" id="OWA5a725cc8-fa41-76d2-7098-bfbed0ca6eca" rel="noopener noreferrer nofollow" target="_blank" title="https://www.cur8.earth/plan">https://www.cur8.earth/plan</a></span></span></p>
+</div>
+]]></content:encoded>
+<pubDate>Wed, 25 Jun 2025 15:02:20 GMT</pubDate>
+<pubDate>Wed, 25 Jun 2025 15:02:20 GMT</pubDate>
+</item>
+
+<item>
 <title>Trading Technologies’ TT® Platform Wins Best Sell-Side OMS At TradingTech Insight USA Awards 2025 - Fifth Significant Award Win For Company In Past Five Weeks</title>
 <link>http://www.mondovisione.com/media-and-resources/news/trading-technologies-tt-platform-wins-best-sell-side-oms-at-tradingtech-insigh-2025625/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/trading-technologies-tt-platform-wins-best-sell-side-oms-at-tradingtech-insigh-2025625/</guid>
 <content:encoded><![CDATA[
-
 <p>Trading Technologies International, Inc. (TT), a global capital markets technology platform services provider, last night won the award for Best Sell-Side Order Management System (OMS) at the TradingTech Insight USA Awards for 2025, presented in New York. The honor is the fifth win for the company, platform and executives in the past five weeks.</p>
 <p>Alun Green, TT&rsquo;s EVP Managing Director, Futures &amp; Options, said: &ldquo;We're incredibly proud that TT OMS has earned recognition as a stand-out solution from the very institutions that rely on it daily. The expansion of the TT platform to deliver multi-asset functionality enables our clients to leverage sophisticated order management tools for high-, low- and no-touch workflows, across their global trading operations, complete with customized reporting and FIX or API-driven integrations. We're committed to continuously enhancing our offering, providing a cost-effective, comprehensive solution to address the evolving and complex requirements of the world&rsquo;s leading institutions.&rdquo;</p>
 <p>Angela Wilbraham, CEO of A-Team Group and host of the seventh annual TradingTech Insight Awards USA 2025, said: &ldquo;Congratulations to Trading Technologies for receiving the Best Sell-Side OMS award at this year's A-Team Group TradingTech Insight Awards USA2025. These awards celebrate outstanding trading solutions and services within capital markets, highlighting vendors that deliver exceptional trading infrastructure, technology and data solutions. We commend them for their success in winning this award amidst strong competition.&rdquo;</p>
@@ -18,14 +93,12 @@
 <p>Other recent awards for TT include Trade Surveillance Product of the Year from Risk.net, Best Derivatives Trading System from Markets Media, Best Execution Management System (EMS) Provider from WatersTechnology Asia, Derivatives Trading System of the Year from FOW and Transaction Cost Analysis (TCA) Provider of the Year from The TRADE.</p>
 ]]></content:encoded>
 <pubDate>Wed, 25 Jun 2025 13:17:59 GMT</pubDate>
-<pubDate>Wed, 25 Jun 2025 13:17:59 GMT</pubDate>
 </item>
 <item>
 <title>Boerse Stuttgart Group Continues Its Strategic Leadership Reorganization</title>
 <link>http://www.mondovisione.com/media-and-resources/news/boerse-stuttgart-group-continues-its-strategic-leadership-reorganization-2025625/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/boerse-stuttgart-group-continues-its-strategic-leadership-reorganization-2025625/</guid>
 <content:encoded><![CDATA[
-
 <p>Boerse Stuttgart Group is continuing to reshape its management team. Dr. Oliver Vins and Dr. Constantin Bettermann, who are already members of the Group Executive Committee, are joining the Group's Management Board, where they will take over the functions of Dr. Manfred Pumbo: Vins will become Chief Financial and Risk Officer, while Bettermann will become Chief Operating Officer. Stephan Simmang, who was previously a member of the Management Board at flatexDEGIRO and worked in senior positions at Goldman Sachs for many years, is also joining the Group's Management Board. He will become Chief Information Officer as the successor of Michael Jaeggi.</p>
 <p>Since April 1, Dr. Markus R&ouml;hrig is the Group's Chief Growth Officer. He was previously co-leading McKinsey's European Corporate and Investment Banking Practice. He is a member of the Group Executive Committee, which also includes Dragan Radanovic, Dr. Ulli Spankowski, Kirsten Weisbender and Sven Wilke, in addition to CEO Dr. Matthias Voelkel and the Group&lsquo;s new Management Board members.</p>
 <p>The handover in the Group&rsquo;s Management Board will take place shortly and step-by-step and is planned to be completed by the end of the year, subject to the approval of the supervisory authorities.</p>
@@ -36,20 +109,17 @@
 <p>Dr. Oliver Vins has been CFO and CRO of the digital business of Boerse Stuttgart Group since 2021. Previously, he was an entrepreneur: In 2013, he founded vaamo Finanz, which he led as co-CEO until he merged vaamo with asset manager Moneyfarm to become a member of its Executive Committee. Vins started his career at the international management consultancy McKinsey in the banking and private equity sector.</p>
 ]]></content:encoded>
 <pubDate>Wed, 25 Jun 2025 12:40:46 GMT</pubDate>
-<pubDate>Wed, 25 Jun 2025 12:40:46 GMT</pubDate>
 </item>
 <item>
 <title>DTCC Comment On Canadian Trade Reporting Rules Rewrite</title>
 <link>http://www.mondovisione.com/media-and-resources/news/dtcc-comment-on-canadian-trade-reporting-rules-rewrite-2025625/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/dtcc-comment-on-canadian-trade-reporting-rules-rewrite-2025625/</guid>
 <content:encoded><![CDATA[
-
 <p>Canada's Rewrite rules will take effect on July 25, 2025, introducing significant regulatory updates designed to align the country's trade reporting standards with global benchmarks. These changes aim to improve data quality, transparency, and consistency across the board.&nbsp;</p>
 <p>Michele Hillery, DTCC Managing Director and Head of Repository &amp; Derivatives Services, shared her thoughts on the impact of these updates:</p>
 <p class="xxxxmsonormal"><i><span lang="EN-US">&ldquo;With only one month remaining until the July 25, 2025, compliance date for the Canadian trade reporting rules rewrite, market participants are strongly encouraged to finalize</span></i><i><span lang="EN-US">&nbsp;</span></i><i><span lang="EN-US">their preparations. DTCC&rsquo;s Global Trade Repository (GTR) service continues to offer its simulator tool and end-to-end testing environment to assist firms in assessing their readiness. DTCC urges clients to complete User Acceptance Testing (UAT) for the new Common Data Elements (CDE) fields, validation changes and reporting updates to ensure full compliance with the Canadian rewrite.</span></i></p>
 <p class="xxxxmsonormal"><i><span lang="EN-US">As the industry leader in derivatives trade reporting across all thirteen Canadian provinces and territories, DTCC remains committed to supporting firms with</span></i><i><span lang="EN-US">&nbsp;</span></i><i><span lang="EN-US">production readiness for the Canadian rewrite. In addition, DTCC Consulting stands ready to support firms in the final weeks prior to go-live and is also available to assist with post compliance reviews and remediation efforts&rdquo;</span></i></p>
 ]]></content:encoded>
-<pubDate>Wed, 25 Jun 2025 12:09:44 GMT</pubDate>
 <pubDate>Wed, 25 Jun 2025 12:09:44 GMT</pubDate>
 </item>
 <item>
@@ -57,10 +127,8 @@
 <link>http://www.mondovisione.com/media-and-resources/news/quincy-datas-precision-time-exchange-service-recognized-as-best-time-stamping-m-2025625/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/quincy-datas-precision-time-exchange-service-recognized-as-best-time-stamping-m-2025625/</guid>
 <content:encoded><![CDATA[
-
 <p><span>Quincy Data, a global leader in high-performance financial market data distribution, has been named winner of the&nbsp;</span><span>TradingTech Insight USA Award for Best Time Stamping Measurement System</span><span>&nbsp;for its&nbsp;</span><span>Precision Time Exchange (PTX) service</span><span>.</span><br /><br /><span>PTX</span><span>&nbsp;delivers resilient, sub-nanosecond time synchronization across major North American trading venues, fully traceable to UTC(NIST). It offers a robust alternative to locally maintained GPS clocks, helping market participants address rising risks of interference and degradation in time signal reliability.</span><br /><br /><span>According to Mike Schonberg, Director of Market Data Technology,&nbsp;</span><em>&ldquo;Timestamping that is reliable, picosecond-precise, and accurately available across multiple venues is an exceptionally hard technical challenge. PTX solves it. It is a uniquely resilient service that can replace the in-house time transfer systems financial firms are currently forced to build, maintain, and improve themselves.&rdquo;</em><br /><br /><span>As uncertainty grows around the reliability of localized GPS infrastructure, time-sensitive institutions&mdash;including exchanges, ATSs, market makers, and data providers&mdash;are increasingly seeking dependable external time sources. PTX was engineered to support every major U.S. trading campus, enabling firms to avoid the burden of developing and managing their own precision timing systems. Firms prioritizing&nbsp;</span><span>resiliency</span><span>&nbsp;rely on PTX. Firms requiring&nbsp;</span><span>precision</span><span>&nbsp;rely on PTX. Firms demanding&nbsp;</span><span>traceability</span><span>&nbsp;rely on PTX. To explore how PTX can support your firm&rsquo;s timing needs, contact Quincy Data today.</span></p>
 ]]></content:encoded>
-<pubDate>Wed, 25 Jun 2025 11:43:31 GMT</pubDate>
 <pubDate>Wed, 25 Jun 2025 11:43:31 GMT</pubDate>
 </item>
 <item>
@@ -68,7 +136,6 @@
 <link>http://www.mondovisione.com/media-and-resources/news/truss-edge-adds-partnership-accounting-tool-for-hedge-funds-2025625/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/truss-edge-adds-partnership-accounting-tool-for-hedge-funds-2025625/</guid>
 <content:encoded><![CDATA[
-
 <ul>
 <li>Fund reporting tools designed specifically for partnerships</li>
 <li>Jurisdiction&nbsp;neutral</li>
@@ -82,9 +149,7 @@
 <p>The Truss Edge partnership accounting features are highly flexible and can be&nbsp;adapted to the needs of specific firms and investors.<br /><br />The Truss Edge team consists of highly experienced financial technology and&nbsp;securities professionals with long track records in the hedge funds sector and&nbsp;who work closely with our clients to ensure they maximise the reporting&nbsp;capabilities Safari offers.</p>
 ]]></content:encoded>
 <pubDate>Wed, 25 Jun 2025 11:47:11 GMT</pubDate>
-<pubDate>Wed, 25 Jun 2025 11:47:11 GMT</pubDate>
 </item>
-
 <item>
 <title>Exchange Data International (EDI) Partners With Ortex To Provide Advanced Short Interest Data</title>
 <link>http://www.mondovisione.com/media-and-resources/news/exchange-data-international-edi-partners-with-ortex-to-provide-advanced-short-2025625/</link>
