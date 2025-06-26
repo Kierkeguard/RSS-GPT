@@ -2169,3 +2169,18 @@ Existing_entries: 383
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-06-26 08:32:51.593959
+------------------------------------------------------
+Started: 2025-06-26 10:26:18.736701
+Existing_entries: 383
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [What Kind Of Market Do We Want To Be? Speech By Nikhil Rathi, UK Financial Conduct Authority Chief Executive At TheCityUK’s Annual Conference 2025](http://www.mondovisione.com/media-and-resources/news/what-kind-of-market-do-we-want-to-be-speech-by-nikhil-rathi-uk-financial-condu-2025626/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [KDPW And StaBillon Become Partners In The CSDonDLT Project](http://www.mondovisione.com/media-and-resources/news/kdpw-and-stabillon-become-partners-in-the-csdondlt-project-2025626/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Changes In The Madrid Stock Exchange General Index For The Second Half Of 2025](http://www.mondovisione.com/media-and-resources/news/changes-in-the-madrid-stock-exchange-general-index-for-the-second-half-of-2025-2025626/)
+append_entries: 3
+Finish: 2025-06-26 10:26:20.089955
