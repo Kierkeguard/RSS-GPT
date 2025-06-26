@@ -2154,3 +2154,12 @@ Append: [New Zealand Financial Markets Authority Cancels Filcare Services Limite
 Append: [SEC Extends Compliance Date To Help Broker-Dealers Fully Test And Implement Daily Reserve Computation Requirement](http://www.mondovisione.com/media-and-resources/news/sec-extends-compliance-date-to-help-broker-dealers-fully-test-and-implement-dail-2025626/)
 append_entries: 7
 Finish: 2025-06-26 04:33:48.563246
+------------------------------------------------------
+Started: 2025-06-26 06:35:57.039447
+Existing_entries: 382
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BPX Authorised To Operate UK Regulated Marketplace For Traditional And Tokenised Securities](http://www.mondovisione.com/media-and-resources/news/bpx-authorised-to-operate-uk-regulated-marketplace-for-traditional-and-tokenised-2025626/)
+append_entries: 1
+Finish: 2025-06-26 06:35:57.777901
