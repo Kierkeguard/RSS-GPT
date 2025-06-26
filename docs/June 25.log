@@ -2184,3 +2184,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Changes In The Madrid Stock Exchange General Index For The Second Half Of 2025](http://www.mondovisione.com/media-and-resources/news/changes-in-the-madrid-stock-exchange-general-index-for-the-second-half-of-2025-2025626/)
 append_entries: 3
 Finish: 2025-06-26 10:26:20.089955
+------------------------------------------------------
+Started: 2025-06-26 12:51:00.100000
+Existing_entries: 386
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority: Upper Tribunal Upholds Jes Staley Ban](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-upper-tribunal-upholds-jes-staley-ban-2025626/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [IETA Launches Report On The Evolution Of Global Response To CBAM](http://www.mondovisione.com/media-and-resources/news/ieta-launches-report-on-the-evolution-of-global-response-to-cbam-2025626/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Thai Capital Market Sector Launches Growth Initiatives To Boost Confidence And Sustainability](http://www.mondovisione.com/media-and-resources/news/thai-capital-market-sector-launches-growth-initiatives-to-boost-confidence-and-s-2025626/)
+append_entries: 3
+Finish: 2025-06-26 12:51:01.069434
