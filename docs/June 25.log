@@ -2131,3 +2131,26 @@ Existing_entries: 375
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-06-26 03:22:06.055032
+------------------------------------------------------
+Started: 2025-06-26 04:33:47.730536
+Existing_entries: 375
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Fintech Startup Lana Raises Funds To Back APAC Corporates In Cutting Energy And Carbon Costs - Liminal, A Venture Creation Group Founded By Temasek, And Twynam Investments Join Lana To Accelerate Energy Transition Financing](http://www.mondovisione.com/media-and-resources/news/fintech-startup-lana-raises-funds-to-back-apac-corporates-in-cutting-energy-and-2025626/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASX Welcomes ASIC Inquiry Panel Appointments](http://www.mondovisione.com/media-and-resources/news/asx-welcomes-asic-inquiry-panel-appointments-2025626/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tokyo Stock Exchange And KCJ GROUP: Limited-Time “Stock Exchange” Pavilion Coming Soon To KidZania Tokyo](http://www.mondovisione.com/media-and-resources/news/tokyo-stock-exchange-and-kcj-group-limited-time-stock-exchange-pavilion-comin-2025626/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Appoints Expert Panel For ASX Inquiry](http://www.mondovisione.com/media-and-resources/news/asic-appoints-expert-panel-for-asx-inquiry-2025626/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Monetary Authority of Singapore Response To Letter “Stronger Safeguards Needed For Inter-Bank Transfers” - The Straits Times, 20 June 2025](http://www.mondovisione.com/media-and-resources/news/monetary-authority-of-singapore-response-to-letter-stronger-safeguards-needed-f-2025626/)
+Append: [New Zealand Financial Markets Authority Cancels Filcare Services Limited’s Financial Advice Provider Licence](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-cancels-filcare-services-limiteds-finan-2025626/)
+Append: [SEC Extends Compliance Date To Help Broker-Dealers Fully Test And Implement Daily Reserve Computation Requirement](http://www.mondovisione.com/media-and-resources/news/sec-extends-compliance-date-to-help-broker-dealers-fully-test-and-implement-dail-2025626/)
+append_entries: 7
+Finish: 2025-06-26 04:33:48.563246
