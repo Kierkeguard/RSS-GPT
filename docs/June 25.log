@@ -2382,3 +2382,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Dalian Commodity Exchange: Notice On Listing And Trading Of Benzene Options](http://www.mondovisione.com/media-and-resources/news/dalian-commodity-exchange-notice-on-listing-and-trading-of-benzene-options-2025627/)
 append_entries: 2
 Finish: 2025-06-27 16:30:21.729306
+------------------------------------------------------
+Started: 2025-06-27 18:33:15.994295
+Existing_entries: 426
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Remarks By Acting CFTC Chairman Caroline D. Pham, 100 Impact Leaders Dinner And Annual Awards, Digital Assets Global Forum, UK House Of Lords](http://www.mondovisione.com/media-and-resources/news/remarks-by-acting-cftc-chairman-caroline-d-pham-100-impact-leaders-dinner-and-2025627/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [European Commission Approves Finansinspektionen’s Extension Of The Risk-Weight Floors](http://www.mondovisione.com/media-and-resources/news/european-commission-approves-finansinspektionens-extension-of-the-risk-weight-f-2025627/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Quest For Cheaper And Faster Cross-Border Payments: Regional And Global Solutions - Speech By Piero Cipollone, Member Of The Executive Board Of The ECB, At The BIS Annual General Meeting, Basel, 27 June 2025](http://www.mondovisione.com/media-and-resources/news/the-quest-for-cheaper-and-faster-cross-border-payments-regional-and-global-solu-2025627/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESMA: New Q&As Available](http://www.mondovisione.com/media-and-resources/news/esma-new-qandas-available-2025627/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESAs Launch Consultation On How To Integrate ESG Risks In The Financial Stress Tests For Banks And Insurers](http://www.mondovisione.com/media-and-resources/news/esas-launch-consultation-on-how-to-integrate-esg-risks-in-the-financial-stress-t-2025627/)
+append_entries: 5
+Finish: 2025-06-27 18:33:17.141603
