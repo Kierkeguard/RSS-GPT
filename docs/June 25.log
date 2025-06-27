@@ -2303,3 +2303,25 @@ Existing_entries: 411
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-06-27 04:32:47.291194
+------------------------------------------------------
+Started: 2025-06-27 06:35:24.126429
+Existing_entries: 411
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Gives Further Relief For Licensees Under The Reportable Situations Regime](http://www.mondovisione.com/media-and-resources/news/asic-gives-further-relief-for-licensees-under-the-reportable-situations-regime-2025627/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Zealand Financial Markets Authority: Former CBL Group CFO Ordered To Pay Penalty And Costs For Continuous Disclosure Breaches](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-former-cbl-group-cfo-ordered-to-pay-pen-2025627/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [JPX Releases Three Commercials](http://www.mondovisione.com/media-and-resources/news/jpx-releases-three-commercials-2025627/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Statement By The New Zealand Financial Markets Authority On Senior Trust Retirement Village Income Generator Limited](http://www.mondovisione.com/media-and-resources/news/statement-by-the-new-zealand-financial-markets-authority-on-senior-trust-retirem-2025627/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIFMA Consolidated Audit Trail (CAT) Reform Recommendations](http://www.mondovisione.com/media-and-resources/news/sifma-consolidated-audit-trail-cat-reform-recommendations-2025627/)
+Append: [Nadex Product Schedule For The 2025 US Fourth Of July Holiday](http://www.mondovisione.com/media-and-resources/news/nadex-product-schedule-for-the-2025-us-fourth-of-july-holiday-2025627/)
+append_entries: 6
+Finish: 2025-06-27 06:35:25.587010
