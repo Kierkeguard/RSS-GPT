@@ -2424,3 +2424,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [US Federal Agencies Issue Exemption Order To Customer Identification Program Requirements](http://www.mondovisione.com/media-and-resources/news/us-federal-agencies-issue-exemption-order-to-customer-identification-program-req-2025627/)
 append_entries: 5
 Finish: 2025-06-27 20:26:10.985594
+------------------------------------------------------
+Started: 2025-06-27 22:24:31.242105
+Existing_entries: 436
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Federal Reserve Board's Annual Bank Stress Test Showed That Large Banks Are Well Positioned To Weather A Severe Recession, While Staying Above Minimum Capital Requirements And Continuing To Lend To Households And Businesses](http://www.mondovisione.com/media-and-resources/news/federal-reserve-boards-annual-bank-stress-test-showed-that-large-banks-are-well-2025627/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NGX Group, Stakeholders Ready For Dangote Fertiliser Listing](http://www.mondovisione.com/media-and-resources/news/ngx-group-stakeholders-ready-for-dangote-fertiliser-listing-2025627/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Investigation Into John Wood Group](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-investigation-into-john-wood-group-2025627/)
+append_entries: 3
+Finish: 2025-06-27 22:24:32.488806
