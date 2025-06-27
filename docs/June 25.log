@@ -2337,3 +2337,18 @@ Existing_entries: 417
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-06-27 10:26:16.699678
+------------------------------------------------------
+Started: 2025-06-27 12:49:46.452052
+Existing_entries: 417
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bank Of England: Evaluation Of Horizon Scanning](http://www.mondovisione.com/media-and-resources/news/bank-of-england-evaluation-of-horizon-scanning-2025627/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Banking Sector In The EU Continues To Show Resilience In Capital, Liquidity And Profitability, But Geopolitical Events Could Pose Significant Challenges For The Industry](http://www.mondovisione.com/media-and-resources/news/the-banking-sector-in-the-eu-continues-to-show-resilience-in-capital-liquidity-2025627/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CUPULAS PROPERTIES SOCIMI S.A.U Joins BME Scaleup On June 30](http://www.mondovisione.com/media-and-resources/news/cupulas-properties-socimi-sau-joins-bme-scaleup-on-june-30-2025627/)
+append_entries: 3
+Finish: 2025-06-27 12:49:47.912519
