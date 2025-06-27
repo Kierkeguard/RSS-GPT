@@ -2352,3 +2352,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CUPULAS PROPERTIES SOCIMI S.A.U Joins BME Scaleup On June 30](http://www.mondovisione.com/media-and-resources/news/cupulas-properties-socimi-sau-joins-bme-scaleup-on-june-30-2025627/)
 append_entries: 3
 Finish: 2025-06-27 12:49:47.912519
+------------------------------------------------------
+Started: 2025-06-27 14:23:17.728652
+Existing_entries: 420
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Secures Guilty Plea From John Burford In £1m Investor Fraud Scheme](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-secures-guilty-plea-from-john-burford-in-1m-inve-2025627/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Europex: Call For Comprehensive Reset Of CACM 2.0](http://www.mondovisione.com/media-and-resources/news/europex-call-for-comprehensive-reset-of-cacm-20-2025627/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BNP Paribas Expands Its Securities Services Activity Through The Acquisition Of HSBC’s Custody And Depositary Bank Business In Germany](http://www.mondovisione.com/media-and-resources/news/bnp-paribas-expands-its-securities-services-activity-through-the-acquisition-of-2025627/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Malawi Stock Exchange Weekly Summary Report, 27 June 2025](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-27-june-2025-2025627/)
+append_entries: 4
+Finish: 2025-06-27 14:23:18.578366
