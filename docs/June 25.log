@@ -2457,3 +2457,15 @@ Existing_entries: 439
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-06-28 04:29:41.686945
+------------------------------------------------------
+Started: 2025-06-28 06:32:17.087229
+Existing_entries: 439
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Record Notional Value Of Shares Traded On The Nasdaq Closing Cross During The 2025 Russell US Indexes Reconstitution - Nasdaq Powers Technological Development Furthering Trading Growth](http://www.mondovisione.com/media-and-resources/news/record-notional-value-of-shares-traded-on-the-nasdaq-closing-cross-during-the-20-2025628/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Office Of The Comptroller Of The US Currency  Appoints Receiver For The Santa Anna National Bank, Santa Anna, Texas](http://www.mondovisione.com/media-and-resources/news/office-of-the-comptroller-of-the-us-currency-appoints-receiver-for-the-santa-an-2025628/)
+append_entries: 2
+Finish: 2025-06-28 06:32:18.487153
