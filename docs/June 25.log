@@ -2439,3 +2439,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [UK Financial Conduct Authority Investigation Into John Wood Group](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-investigation-into-john-wood-group-2025627/)
 append_entries: 3
 Finish: 2025-06-27 22:24:32.488806
+------------------------------------------------------
+Started: 2025-06-28 01:55:16.213107
+Existing_entries: 439
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-06-28 01:55:17.623291
