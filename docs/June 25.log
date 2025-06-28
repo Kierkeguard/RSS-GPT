@@ -2499,3 +2499,15 @@ Existing_entries: 441
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-06-28 16:27:52.485055
+------------------------------------------------------
+Started: 2025-06-28 18:30:43.762023
+Existing_entries: 441
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [G7 Reach Agreement On Global Minimum Tax - UK Businesses To Benefit As G7 Reach Agreement On Global Minimum Tax](http://www.mondovisione.com/media-and-resources/news/g7-reach-agreement-on-global-minimum-tax-uk-businesses-to-benefit-as-g7-reach-2025628/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [G7 Statement On Global Minimum Taxes](http://www.mondovisione.com/media-and-resources/news/g7-statement-on-global-minimum-taxes-2025628/)
+append_entries: 2
+Finish: 2025-06-28 18:30:45.081248
