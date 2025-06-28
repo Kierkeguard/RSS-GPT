@@ -2469,3 +2469,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Office Of The Comptroller Of The US Currency  Appoints Receiver For The Santa Anna National Bank, Santa Anna, Texas](http://www.mondovisione.com/media-and-resources/news/office-of-the-comptroller-of-the-us-currency-appoints-receiver-for-the-santa-an-2025628/)
 append_entries: 2
 Finish: 2025-06-28 06:32:18.487153
+------------------------------------------------------
+Started: 2025-06-28 08:28:43.245773
+Existing_entries: 441
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-06-28 08:28:44.154132
