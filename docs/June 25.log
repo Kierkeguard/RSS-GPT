@@ -2720,3 +2720,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [HKEX: Report On Initial Public Offering Applications, Delisting And Suspensions (June 2025)](http://www.mondovisione.com/media-and-resources/news/hkex-report-on-initial-public-offering-applications-delisting-and-suspensions-2025630/)
 append_entries: 5
 Finish: 2025-06-30 16:31:18.170617
+------------------------------------------------------
+Started: 2025-06-30 18:34:00.453655
+Existing_entries: 474
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Autorité des Marchés Financiers: Coming Into Force Of The Regulation Respecting Complaint Processing And Dispute Resolution In The Financial Sector](http://www.mondovisione.com/media-and-resources/news/autorit-des-marchs-financiers-coming-into-force-of-the-regulation-respecting-2025630/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The EBA And The ECB Support Harmonised Implementation Of Updated NACE Classification Across EU Reporting Frameworks](http://www.mondovisione.com/media-and-resources/news/the-eba-and-the-ecb-support-harmonised-implementation-of-updated-nace-classifica-2025630/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Montréal Exchange Interest Rate Derivative Trading Ceases At 13:30 Today, June 30, 2025 - Exchange's Markets Closed On July 1, 2025](http://www.mondovisione.com/media-and-resources/news/montral-exchange-interest-rate-derivative-trading-ceases-at-1330-today-june-3-2025630/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The EBA Provides Its Technical Advice To The European Commission On Fees To Validate Pro Forma Models Under The European Market Infrastructure Regulation](http://www.mondovisione.com/media-and-resources/news/the-eba-provides-its-technical-advice-to-the-european-commission-on-fees-to-vali-2025630/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ECB’s Governing Council Updates Its Monetary Policy Strategy](http://www.mondovisione.com/media-and-resources/news/ecbs-governing-council-updates-its-monetary-policy-strategy-2025630/)
+append_entries: 5
+Finish: 2025-06-30 18:34:01.315450
