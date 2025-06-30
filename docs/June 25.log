@@ -2681,3 +2681,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [HKEX Welcomes Launch Of 30-Year Swaps Trading In Northbound Swap Connect](http://www.mondovisione.com/media-and-resources/news/hkex-welcomes-launch-of-30-year-swaps-trading-in-northbound-swap-connect-2025630/)
 append_entries: 3
 Finish: 2025-06-30 12:51:01.508673
+------------------------------------------------------
+Started: 2025-06-30 14:24:18.228288
+Existing_entries: 465
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group To Launch FX Tape+ To Provide Centralized Reference Prices For The FX Market](http://www.mondovisione.com/media-and-resources/news/cme-group-to-launch-fx-tape-to-provide-centralized-reference-prices-for-the-fx-2025630/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER’s 2024 Performance Fostered Integration Of EU Energy Markets](http://www.mondovisione.com/media-and-resources/news/acers-2024-performance-fostered-integration-of-eu-energy-markets-2025630/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ICE's Natural Gas and Oil Markets At Record Open Interest](http://www.mondovisione.com/media-and-resources/news/ices-natural-gas-and-oil-markets-at-record-open-interest-2025630/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Liquidnet Strengthens US Equities Business With Key Hires - The Firm Taps Mark Turner, Hillary Budds And David Ramirez To Support Regional, High-Touch And Block Trading Expansion](http://www.mondovisione.com/media-and-resources/news/liquidnet-strengthens-us-equities-business-with-key-hires-the-firm-taps-mark-t-2025630/)
+append_entries: 4
+Finish: 2025-06-30 14:24:19.159962
