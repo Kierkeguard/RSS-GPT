@@ -2643,3 +2643,26 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Nasdaq Stockholm Welcomes Besqab AB To The Main Market](http://www.mondovisione.com/media-and-resources/news/nasdaq-stockholm-welcomes-besqab-ab-to-the-main-market-2025630/)
 append_entries: 3
 Finish: 2025-06-30 08:33:23.668960
+------------------------------------------------------
+Started: 2025-06-30 10:26:55.253567
+Existing_entries: 455
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UN FfD4 Conference In Seville: A Crucial Moment To Get Finance Flowing Towards Climate And Development Goals](http://www.mondovisione.com/media-and-resources/news/un-ffd4-conference-in-seville-a-crucial-moment-to-get-finance-flowing-towards-c-2025630/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Securities Commission Malaysia: Ex-Investment Banker Jailed Two Years, Fined RM1 Million For Securities Fraud - Additional 2-Year Jail Term For Unlicensed Capital Market Activities](http://www.mondovisione.com/media-and-resources/news/securities-commission-malaysia-ex-investment-banker-jailed-two-years-fined-rm1-2025630/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Islamic Property Finance Fintech Offa Continues Hiring Spree](http://www.mondovisione.com/media-and-resources/news/uk-islamic-property-finance-fintech-offa-continues-hiring-spree-2025630/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority: Once-In-A-Generation Advice Changes To Help Millions Navigate Their Financial Lives](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-once-in-a-generation-advice-changes-to-help-mill-2025630/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Trustly Reports Strong 2024 Financial Results, Driven By European And North American Growth](http://www.mondovisione.com/media-and-resources/news/trustly-reports-strong-2024-financial-results-driven-by-european-and-north-amer-2025630/)
+Append: [Capital.Com Expands Industry Engagement As It Joins Innovate Finance And The London Chamber Of Commerce And Industry - Memberships Signify Commitment To Actively Participate In The Development And Transformation Of The UK’s Financial And Technology Sectors](http://www.mondovisione.com/media-and-resources/news/capitalcom-expands-industry-engagement-as-it-joins-innovate-finance-and-the-lon-2025630/)
+Append: [BIS Latest Update - July 2025: Uncertainty, Financial Risks And Next-Generation Money](http://www.mondovisione.com/media-and-resources/news/bis-latest-update-july-2025-uncertainty-financial-risks-and-next-generation-2025630/)
+append_entries: 7
+Finish: 2025-06-30 10:26:56.325379
