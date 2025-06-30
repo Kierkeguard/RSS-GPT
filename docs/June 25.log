@@ -2741,3 +2741,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ECB’s Governing Council Updates Its Monetary Policy Strategy](http://www.mondovisione.com/media-and-resources/news/ecbs-governing-council-updates-its-monetary-policy-strategy-2025630/)
 append_entries: 5
 Finish: 2025-06-30 18:34:01.315450
+------------------------------------------------------
+Started: 2025-06-30 20:25:58.529410
+Existing_entries: 479
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Swaps Report Update](http://www.mondovisione.com/media-and-resources/news/cftc-swaps-report-update-2025630/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Office Of The Comptroller Of The US Currency Report Highlights Key Risks In Federal Banking System](http://www.mondovisione.com/media-and-resources/news/office-of-the-comptroller-of-the-us-currency-report-highlights-key-risks-in-fede-2025630/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ISDA Publishes Saudi Arabia Netting Opinions](http://www.mondovisione.com/media-and-resources/news/isda-publishes-saudi-arabia-netting-opinions-2025630/)
+append_entries: 3
+Finish: 2025-06-30 20:25:59.584460
