@@ -2699,3 +2699,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Liquidnet Strengthens US Equities Business With Key Hires - The Firm Taps Mark Turner, Hillary Budds And David Ramirez To Support Regional, High-Touch And Block Trading Expansion](http://www.mondovisione.com/media-and-resources/news/liquidnet-strengthens-us-equities-business-with-key-hires-the-firm-taps-mark-t-2025630/)
 append_entries: 4
 Finish: 2025-06-30 14:24:19.159962
+------------------------------------------------------
+Started: 2025-06-30 16:31:17.158040
+Existing_entries: 469
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Staff Issues Futures Commission Merchant FAQs](http://www.mondovisione.com/media-and-resources/news/cftc-staff-issues-futures-commission-merchant-faqs-2025630/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MNI Indicators: Chicago Business Barometer™ - Holds At 40.4 In June](http://www.mondovisione.com/media-and-resources/news/mni-indicators-chicago-business-barometer-holds-at-404-in-june-2025630/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NSE Indices Index Dashboard For The Month Ended June 2025](http://www.mondovisione.com/media-and-resources/news/nse-indices-index-dashboard-for-the-month-ended-june-2025-2025630/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Orbit And ISC Unveil Industry-Leading Al Solution To Simplify Regulatory Compliance For Investment Managers](http://www.mondovisione.com/media-and-resources/news/orbit-and-isc-unveil-industry-leading-al-solution-to-simplify-regulatory-complia-2025630/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX: Report On Initial Public Offering Applications, Delisting And Suspensions (June 2025)](http://www.mondovisione.com/media-and-resources/news/hkex-report-on-initial-public-offering-applications-delisting-and-suspensions-2025630/)
+append_entries: 5
+Finish: 2025-06-30 16:31:18.170617
