@@ -2666,3 +2666,18 @@ Append: [Capital.Com Expands Industry Engagement As It Joins Innovate Finance An
 Append: [BIS Latest Update - July 2025: Uncertainty, Financial Risks And Next-Generation Money](http://www.mondovisione.com/media-and-resources/news/bis-latest-update-july-2025-uncertainty-financial-risks-and-next-generation-2025630/)
 append_entries: 7
 Finish: 2025-06-30 10:26:56.325379
+------------------------------------------------------
+Started: 2025-06-30 12:51:00.566266
+Existing_entries: 462
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BBCE, Brazilian OTC Energy, Begins Settlement With Bradesco Bank](http://www.mondovisione.com/media-and-resources/news/bbce-brazilian-otc-energy-begins-settlement-with-bradesco-bank-2025630/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Blue Ocean Technologies Selects Eventus For Trade Surveillance - Leading After-Hours Equities Trading Venue To Leverage Validus Solution For Marketplace Protection](http://www.mondovisione.com/media-and-resources/news/blue-ocean-technologies-selects-eventus-for-trade-surveillance-leading-after-h-2025630/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX Welcomes Launch Of 30-Year Swaps Trading In Northbound Swap Connect](http://www.mondovisione.com/media-and-resources/news/hkex-welcomes-launch-of-30-year-swaps-trading-in-northbound-swap-connect-2025630/)
+append_entries: 3
+Finish: 2025-06-30 12:51:01.508673
