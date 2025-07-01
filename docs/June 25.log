@@ -2908,3 +2908,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Statement Of CFTC Commissioner Kristin N. Johnson Regarding CFTC Settlement With LJM Funds Management Ltd.](http://www.mondovisione.com/media-and-resources/news/statement-of-cftc-commissioner-kristin-n-johnson-regarding-cftc-settlement-with-202571/)
 append_entries: 5
 Finish: 2025-07-01 18:33:24.349629
+------------------------------------------------------
+Started: 2025-07-01 20:26:37.931551
+Existing_entries: 518
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Announces The Board Of Directors Of Its U.S. Exchanges](http://www.mondovisione.com/media-and-resources/news/nasdaq-announces-the-board-of-directors-of-its-us-exchanges-202571/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Exchange Group - Options Markets - Fee Change To Extend Historical Open-Close Report Data Discount](http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-options-markets-fee-change-to-extend-historical-open-clo-202571/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Moscow Exchange Trading Volumes In June 2025](http://www.mondovisione.com/media-and-resources/news/moscow-exchange-trading-volumes-in-june-2025-202571/)
+append_entries: 3
+Finish: 2025-07-01 20:26:39.017577
