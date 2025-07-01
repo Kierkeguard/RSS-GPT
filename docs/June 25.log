@@ -2865,3 +2865,25 @@ Append: [The New York Stock Exchange Leads Globally With Over $60BN In Total Cap
 Append: [Nasdaq Nordic And Baltic Markets Trading Statistics June 2025](http://www.mondovisione.com/media-and-resources/news/nasdaq-nordic-and-baltic-markets-trading-statistics-june-2025-202571/)
 append_entries: 9
 Finish: 2025-07-01 14:23:41.855501
+------------------------------------------------------
+Started: 2025-07-01 16:31:10.949053
+Existing_entries: 507
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC: Federal Court Orders Chicago Commodity Pool Operators, Owner, Former Chief Portfolio Manager To Pay More Than $6M In Fraud Action](http://www.mondovisione.com/media-and-resources/news/cftc-federal-court-orders-chicago-commodity-pool-operators-owner-former-chief-202571/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euronext Statement Regarding Recent Press Speculations - Hellenic Exchanges-Athens Stock Exchange S.A. (“ATHEX”)](http://www.mondovisione.com/media-and-resources/news/euronext-statement-regarding-recent-press-speculations-hellenic-exchanges-athe-202571/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NSE Indices Fixed Income Index Dashboard For The Month Ended June 2025](http://www.mondovisione.com/media-and-resources/news/nse-indices-fixed-income-index-dashboard-for-the-month-ended-june-2025-202571/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ECB Commits To Distributed Ledger Technology Settlement Plans With Dual-Track Strategy](http://www.mondovisione.com/media-and-resources/news/ecb-commits-to-distributed-ledger-technology-settlement-plans-with-dual-track-st-202571/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Joint Statement On The EU-U.S. Joint Financial Regulatory Forum](http://www.mondovisione.com/media-and-resources/news/joint-statement-on-the-eu-us-joint-financial-regulatory-forum-202571/)
+Append: [FSDV Lists On Euronext](http://www.mondovisione.com/media-and-resources/news/fsdv-lists-on-euronext-202571/)
+append_entries: 6
+Finish: 2025-07-01 16:31:11.942369
