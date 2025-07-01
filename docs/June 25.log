@@ -2887,3 +2887,24 @@ Append: [Joint Statement On The EU-U.S. Joint Financial Regulatory Forum](http:/
 Append: [FSDV Lists On Euronext](http://www.mondovisione.com/media-and-resources/news/fsdv-lists-on-euronext-202571/)
 append_entries: 6
 Finish: 2025-07-01 16:31:11.942369
+------------------------------------------------------
+Started: 2025-07-01 18:33:23.322227
+Existing_entries: 513
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Issues Revisited: Titles, Amendments To Rule 15c2-12 Undertakings And Voluntary, Dave A. Sanchez, Director, SEC Office Of Municipal Securities, Washington D.C., July 1, 2025](http://www.mondovisione.com/media-and-resources/news/issues-revisited-titles-amendments-to-rule-15c2-12-undertakings-and-voluntary-202571/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Statement By US Secretary Of The Treasury Scott Bessent On Passage Of The One, Big, Beautiful Bill In The Senate](http://www.mondovisione.com/media-and-resources/news/statement-by-us-secretary-of-the-treasury-scott-bessent-on-passage-of-the-one-b-202571/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New York Attorney General James Urges Congress To Update Cryptocurrency Legislation To Protect Investors - Federal Stablecoin Legislation Should Regulate Stablecoin Issuers Similar To Banks, Including FDIC Insurance On Stablecoin Deposits](http://www.mondovisione.com/media-and-resources/news/new-york-attorney-general-james-urges-congress-to-update-cryptocurrency-legislat-202571/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Office Of The Comptroller Of The US Currency Releases CRA Performance Evaluations For 22 National Banks And Federal Savings Associations](http://www.mondovisione.com/media-and-resources/news/office-of-the-comptroller-of-the-us-currency-releases-cra-performance-evaluation-202571/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Statement Of CFTC Commissioner Kristin N. Johnson Regarding CFTC Settlement With LJM Funds Management Ltd.](http://www.mondovisione.com/media-and-resources/news/statement-of-cftc-commissioner-kristin-n-johnson-regarding-cftc-settlement-with-202571/)
+append_entries: 5
+Finish: 2025-07-01 18:33:24.349629
