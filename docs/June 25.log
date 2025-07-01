@@ -2831,3 +2831,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [The World Federation Of Exchanges Calls For Greater Oversight As Private Market Growth Accelerates](http://www.mondovisione.com/media-and-resources/news/the-world-federation-of-exchanges-calls-for-greater-oversight-as-private-market-202571/)
 append_entries: 5
 Finish: 2025-07-01 10:27:09.088563
+------------------------------------------------------
+Started: 2025-07-01 12:51:02.846004
+Existing_entries: 497
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIX Exchanges Figures June 2025](http://www.mondovisione.com/media-and-resources/news/six-exchanges-figures-june-2025-202571/)
+append_entries: 1
+Finish: 2025-07-01 12:51:04.245605
