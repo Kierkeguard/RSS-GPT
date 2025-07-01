@@ -2777,3 +2777,27 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Montréal Exchange's Markets Closed Today, July 1, 2025](http://www.mondovisione.com/media-and-resources/news/montral-exchanges-markets-closed-today-july-1-2025-202571/)
 append_entries: 1
 Finish: 2025-07-01 04:40:40.162512
+------------------------------------------------------
+Started: 2025-07-01 06:36:15.991758
+Existing_entries: 483
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIX Completes Acquisition Of Aquis To Expand European Exchange Business](http://www.mondovisione.com/media-and-resources/news/six-completes-acquisition-of-aquis-to-expand-european-exchange-business-202571/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Regents Gate Capital Selects big xyt For Enhanced Trading Analytics](http://www.mondovisione.com/media-and-resources/news/regents-gate-capital-selects-big-xyt-for-enhanced-trading-analytics-202571/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tokyo Financial Exchange Trading Volume In June 2025](http://www.mondovisione.com/media-and-resources/news/tokyo-financial-exchange-trading-volume-in-june-2025-202571/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Renewal Of JPX Market Explorer – Making Corporate Analysis More Intuitive And Convenient](http://www.mondovisione.com/media-and-resources/news/renewal-of-jpx-market-explorer-making-corporate-analysis-more-intuitive-and-co-202571/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Japan Exchange Group: Status Of Acquisition Of Own Shares](http://www.mondovisione.com/media-and-resources/news/japan-exchange-group-status-of-acquisition-of-own-shares-202571/)
+Append: [New Zealand Financial Markets Authority: Spotlight On Cryptocurrencies](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-spotlight-on-cryptocurrencies-202571/)
+Append: [Key Regulatory And Enforcement Actions Taken By Monetary Authority Of Singapore In Q2 2025](http://www.mondovisione.com/media-and-resources/news/key-regulatory-and-enforcement-actions-taken-by-monetary-authority-of-singapore-202571/)
+Append: [New Zealand Financial Markets Authority Publishes Statement Of Performance Expectations For 2025/26](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-publishes-statement-of-performance-expec-202571/)
+append_entries: 8
+Finish: 2025-07-01 06:36:16.912594
