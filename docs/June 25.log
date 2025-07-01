@@ -2768,3 +2768,12 @@ Existing_entries: 482
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-07-01 02:10:33.229908
+------------------------------------------------------
+Started: 2025-07-01 04:40:39.405966
+Existing_entries: 482
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Montréal Exchange's Markets Closed Today, July 1, 2025](http://www.mondovisione.com/media-and-resources/news/montral-exchanges-markets-closed-today-july-1-2025-202571/)
+append_entries: 1
+Finish: 2025-07-01 04:40:40.162512
