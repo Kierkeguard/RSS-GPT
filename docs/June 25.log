@@ -2810,3 +2810,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Japan Exchange Group Trading Overview In June 2025 & First Half Of 2025 (January To June)](http://www.mondovisione.com/media-and-resources/news/japan-exchange-group-trading-overview-in-june-2025-and-first-half-of-2025-january-202571/)
 append_entries: 1
 Finish: 2025-07-01 08:33:02.132283
+------------------------------------------------------
+Started: 2025-07-01 10:27:08.146139
+Existing_entries: 492
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc - Total Voting Rights](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-total-voting-rights-202571/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Boerse Stuttgart Records June Turnover Of Around EUR 8,2 Billion - Strong Increases In Structured Securities, Equities And Exchange-Traded Products Compared To The Same Month Of The Previous Year](http://www.mondovisione.com/media-and-resources/news/boerse-stuttgart-records-june-turnover-of-around-eur-82-billion-strong-increa-202571/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NGX Reveals Results Of Half-Year Review Of Market Indices](http://www.mondovisione.com/media-and-resources/news/ngx-reveals-results-of-half-year-review-of-market-indices-202571/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Boerse Stuttgart Extends Trading Hours For Equities, Bonds, Funds And Exchange-Traded Products - Trading From 7:30 To 22:00 CET -- More Flexibility For Investors With High Trading Quality](http://www.mondovisione.com/media-and-resources/news/boerse-stuttgart-extends-trading-hours-for-equities-bonds-funds-and-exchange-t-202571/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The World Federation Of Exchanges Calls For Greater Oversight As Private Market Growth Accelerates](http://www.mondovisione.com/media-and-resources/news/the-world-federation-of-exchanges-calls-for-greater-oversight-as-private-market-202571/)
+append_entries: 5
+Finish: 2025-07-01 10:27:09.088563
