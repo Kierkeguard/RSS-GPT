@@ -2801,3 +2801,12 @@ Append: [Key Regulatory And Enforcement Actions Taken By Monetary Authority Of S
 Append: [New Zealand Financial Markets Authority Publishes Statement Of Performance Expectations For 2025/26](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-publishes-statement-of-performance-expec-202571/)
 append_entries: 8
 Finish: 2025-07-01 06:36:16.912594
+------------------------------------------------------
+Started: 2025-07-01 08:33:01.407191
+Existing_entries: 491
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Japan Exchange Group Trading Overview In June 2025 & First Half Of 2025 (January To June)](http://www.mondovisione.com/media-and-resources/news/japan-exchange-group-trading-overview-in-june-2025-and-first-half-of-2025-january-202571/)
+append_entries: 1
+Finish: 2025-07-01 08:33:02.132283
