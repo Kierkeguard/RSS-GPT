@@ -2923,3 +2923,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Moscow Exchange Trading Volumes In June 2025](http://www.mondovisione.com/media-and-resources/news/moscow-exchange-trading-volumes-in-june-2025-202571/)
 append_entries: 3
 Finish: 2025-07-01 20:26:39.017577
+------------------------------------------------------
+Started: 2025-07-01 22:22:45.417821
+Existing_entries: 521
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Crypto Asset Exchange-Traded Products, SEC Division Of Corporation Finance](http://www.mondovisione.com/media-and-resources/news/crypto-asset-exchange-traded-products-sec-division-of-corporation-finance-202571/)
+append_entries: 1
+Finish: 2025-07-01 22:22:46.612100
