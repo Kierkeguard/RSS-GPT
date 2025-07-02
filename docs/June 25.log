@@ -2932,3 +2932,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Crypto Asset Exchange-Traded Products, SEC Division Of Corporation Finance](http://www.mondovisione.com/media-and-resources/news/crypto-asset-exchange-traded-products-sec-division-of-corporation-finance-202571/)
 append_entries: 1
 Finish: 2025-07-01 22:22:46.612100
+------------------------------------------------------
+Started: 2025-07-02 01:59:07.957197
+Existing_entries: 522
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-07-02 01:59:09.160954
