@@ -2965,3 +2965,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Acting Comptroller Of The US Currency Discusses Importance Of Homeownership](http://www.mondovisione.com/media-and-resources/news/acting-comptroller-of-the-us-currency-discusses-importance-of-homeownership-202572/)
 append_entries: 3
 Finish: 2025-07-02 06:35:51.821940
+------------------------------------------------------
+Started: 2025-07-02 08:32:53.416455
+Existing_entries: 525
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-07-02 08:32:54.791887
