@@ -3017,3 +3017,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [June Sales At Small Businesses Rise From Last Year, But Consumers Pulled Back Compared To May](http://www.mondovisione.com/media-and-resources/news/june-sales-at-small-businesses-rise-from-last-year-but-consumers-pulled-back-co-202572/)
 append_entries: 1
 Finish: 2025-07-02 14:23:58.612270
+------------------------------------------------------
+Started: 2025-07-02 16:30:22.096087
+Existing_entries: 535
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group Completes First Delivery Cycle Of Hard Red Spring Wheat Futures](http://www.mondovisione.com/media-and-resources/news/cme-group-completes-first-delivery-cycle-of-hard-red-spring-wheat-futures-202572/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [OCC June 2025 Monthly Volume Data](http://www.mondovisione.com/media-and-resources/news/occ-june-2025-monthly-volume-data-202572/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [World Exchanges Meet In İstanbul](http://www.mondovisione.com/media-and-resources/news/world-exchanges-meet-in-istanbul-202572/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Non-Jordanian Ownership In Companies Listed On The Amman Stock Exchange Reached 47.7%, Of Which 32.8% For Institutional Investors](http://www.mondovisione.com/media-and-resources/news/non-jordanian-ownership-in-companies-listed-on-the-amman-stock-exchange-reached-202572/)
+append_entries: 4
+Finish: 2025-07-02 16:30:23.460070
