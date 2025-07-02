@@ -2950,3 +2950,18 @@ Existing_entries: 522
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-07-02 04:33:43.940879
+------------------------------------------------------
+Started: 2025-07-02 06:35:50.409474
+Existing_entries: 522
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [S&P Global Affirmed SIX Group’s ‘A’ Rating, Revised Outlook To Stable](http://www.mondovisione.com/media-and-resources/news/sandp-global-affirmed-six-groups-a-rating-revised-outlook-to-stable-202572/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NZX: Anna Scott Resigns From Smart](http://www.mondovisione.com/media-and-resources/news/nzx-anna-scott-resigns-from-smart-202572/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Acting Comptroller Of The US Currency Discusses Importance Of Homeownership](http://www.mondovisione.com/media-and-resources/news/acting-comptroller-of-the-us-currency-discusses-importance-of-homeownership-202572/)
+append_entries: 3
+Finish: 2025-07-02 06:35:51.821940
