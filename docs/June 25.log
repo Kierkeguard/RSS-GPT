@@ -3008,3 +3008,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [LSEG Data & Analytics Unveils Powerful New Analytics Feed To Decode Corporate Voice](http://www.mondovisione.com/media-and-resources/news/lseg-data-and-analytics-unveils-powerful-new-analytics-feed-to-decode-corporate-vo-202572/)
 append_entries: 3
 Finish: 2025-07-02 12:50:30.983088
+------------------------------------------------------
+Started: 2025-07-02 14:23:57.281096
+Existing_entries: 534
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [June Sales At Small Businesses Rise From Last Year, But Consumers Pulled Back Compared To May](http://www.mondovisione.com/media-and-resources/news/june-sales-at-small-businesses-rise-from-last-year-but-consumers-pulled-back-co-202572/)
+append_entries: 1
+Finish: 2025-07-02 14:23:58.612270
