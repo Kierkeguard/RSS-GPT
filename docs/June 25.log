@@ -2971,3 +2971,25 @@ Existing_entries: 525
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-07-02 08:32:54.791887
+------------------------------------------------------
+Started: 2025-07-02 10:26:40.330298
+Existing_entries: 525
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Global Firms Grapple With North American T+1: New Study Reveals Early Impacts - New Analysis From Vermiculus And GreySpark Partners Reveals Timing Misalignments, FX Friction, And Staffing Pressures As Firms In Europe And Asia Adapt To North America's Faster Settlement Cycle](http://www.mondovisione.com/media-and-resources/news/global-firms-grapple-with-north-american-t1-new-study-reveals-early-impacts-202572/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LuxSE Launches A New Innovative Transition Finance Gateway](http://www.mondovisione.com/media-and-resources/news/luxse-launches-a-new-innovative-transition-finance-gateway-202572/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESMA Finds Convergence Opportunities For Pre-Trade Controls](http://www.mondovisione.com/media-and-resources/news/esma-finds-convergence-opportunities-for-pre-trade-controls-202572/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Clarifies Expectations On Bullying, Harassment And Violence To Deepen Trust In Financial Services](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-clarifies-expectations-on-bullying-harassment-an-202572/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Exchanges Double Down On Sustainability Efforts Amid Global ESG Divergence: The WFE Publishes 11th Annual Sustainability Survey](http://www.mondovisione.com/media-and-resources/news/exchanges-double-down-on-sustainability-efforts-amid-global-esg-divergence-the-202572/)
+Append: [Building Tomorrow’s Markets: The Digitalisation Of Finance − Speech By Sasha Mills, Bank Of England, Executive Director, Financial Market Infrastructure, Given At UK Finance Digital Innovation Summit 2025](http://www.mondovisione.com/media-and-resources/news/building-tomorrows-markets-the-digitalisation-of-finance-speech-by-sasha-mil-202572/)
+append_entries: 6
+Finish: 2025-07-02 10:26:41.396446
