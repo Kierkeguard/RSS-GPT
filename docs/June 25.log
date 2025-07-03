@@ -3149,3 +3149,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [New Addition To The Vienna Stock Exchange: Start Of Trading For REPLOID Group AG](http://www.mondovisione.com/media-and-resources/news/new-addition-to-the-vienna-stock-exchange-start-of-trading-for-reploid-group-ag-202573/)
 append_entries: 3
 Finish: 2025-07-03 12:48:59.238148
+------------------------------------------------------
+Started: 2025-07-03 14:23:34.776740
+Existing_entries: 559
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-07-03 14:23:36.054205
