@@ -3155,3 +3155,21 @@ Existing_entries: 559
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-07-03 14:23:36.054205
+------------------------------------------------------
+Started: 2025-07-03 16:30:14.631471
+Existing_entries: 559
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Borsa İstanbul Announces The Constituent Changes To The BIST Buyback Index For July, 2025](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-announces-the-constituent-changes-to-the-bist-buyback-index-for-j-202573/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Amman Stock Exchange: 100% Compliance Percentage For Companies In Submitting Their Annual Sustainability Report For 2024 Within The Specified Period](http://www.mondovisione.com/media-and-resources/news/amman-stock-exchange-100-compliance-percentage-for-companies-in-submitting-the-202573/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Amman Stock Exchange Weekly Summary](http://www.mondovisione.com/media-and-resources/news/amman-stock-exchange-weekly-summary-202573/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Abu Dhabi Securities Exchange (ADX) Partners With HSBC And FAB To Launch MENA’s First Digital Bond](http://www.mondovisione.com/media-and-resources/news/abu-dhabi-securities-exchange-adx-partners-with-hsbc-and-fab-to-launch-menas-202573/)
+append_entries: 4
+Finish: 2025-07-03 16:30:15.679427
