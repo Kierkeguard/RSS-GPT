@@ -3173,3 +3173,27 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Abu Dhabi Securities Exchange (ADX) Partners With HSBC And FAB To Launch MENA’s First Digital Bond](http://www.mondovisione.com/media-and-resources/news/abu-dhabi-securities-exchange-adx-partners-with-hsbc-and-fab-to-launch-menas-202573/)
 append_entries: 4
 Finish: 2025-07-03 16:30:15.679427
+------------------------------------------------------
+Started: 2025-07-03 18:33:55.676584
+Existing_entries: 563
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cboe Global Markets Reports Trading Volume For June 2025](http://www.mondovisione.com/media-and-resources/news/cboe-global-markets-reports-trading-volume-for-june-2025-202573/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Canadian Securities Administrators Issues Guidance About Regulatory Concerns With Certain Asset Or Business Acquisitions](http://www.mondovisione.com/media-and-resources/news/canadian-securities-administrators-issues-guidance-about-regulatory-concerns-wit-202573/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TMX Group Limited Announces Release Date For Q2 2025 Financial Results And Analyst Conference Call](http://www.mondovisione.com/media-and-resources/news/tmx-group-limited-announces-release-date-for-q2-2025-financial-results-and-analy-202573/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [AMLA And ECB Sign Agreement On Cooperation](http://www.mondovisione.com/media-and-resources/news/amla-and-ecb-sign-agreement-on-cooperation-202573/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESMA Selects Ediphy (fairCT) To Become The First Consolidated Tape Provider For Bonds](http://www.mondovisione.com/media-and-resources/news/esma-selects-ediphy-fairct-to-become-the-first-consolidated-tape-provider-for-202573/)
+Append: [SoftwareOne Lists On Euronext](http://www.mondovisione.com/media-and-resources/news/softwareone-lists-on-euronext-202573/)
+Append: [ESAs Sign Memorandum Of Understanding With AMLA For Effective Cooperation And Information Exchange](http://www.mondovisione.com/media-and-resources/news/esas-sign-memorandum-of-understanding-with-amla-for-effective-cooperation-and-in-202573/)
+Append: [BME Welcomes Vols Partners As A New Member Of The Pre-Market Environment](http://www.mondovisione.com/media-and-resources/news/bme-welcomes-vols-partners-as-a-new-member-of-the-pre-market-environment-202573/)
+append_entries: 8
+Finish: 2025-07-03 18:33:56.811884
