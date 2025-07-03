@@ -3116,3 +3116,21 @@ Existing_entries: 552
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-07-03 08:32:04.915644
+------------------------------------------------------
+Started: 2025-07-03 10:26:46.420502
+Existing_entries: 552
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LME Data Highlights:  Q2 2025](http://www.mondovisione.com/media-and-resources/news/lme-data-highlights-q2-2025-202573/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [10th UK-Singapore Financial Dialogue July 2025: Joint Statement](http://www.mondovisione.com/media-and-resources/news/10th-uk-singapore-financial-dialogue-july-2025-joint-statement-202573/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Constantina Georgiadou Joins Rostro Group - Industry Expert Appointed As Head Of Public Relations And Communications](http://www.mondovisione.com/media-and-resources/news/constantina-georgiadou-joins-rostro-group-industry-expert-appointed-as-head-of-202573/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HANetf And REX Shares Launch The REX Tech Innovation Premium Income UCITS ETF, And REX Tech Innovation Income & Growth UCITS ETF, Both Tracking The Solactive US FANG Innovation Index](http://www.mondovisione.com/media-and-resources/news/hanetf-and-rex-shares-launch-the-rex-tech-innovation-premium-income-ucits-etf-a-202573/)
+append_entries: 4
+Finish: 2025-07-03 10:26:47.625166
