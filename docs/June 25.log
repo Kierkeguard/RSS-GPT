@@ -3134,3 +3134,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [HANetf And REX Shares Launch The REX Tech Innovation Premium Income UCITS ETF, And REX Tech Innovation Income & Growth UCITS ETF, Both Tracking The Solactive US FANG Innovation Index](http://www.mondovisione.com/media-and-resources/news/hanetf-and-rex-shares-launch-the-rex-tech-innovation-premium-income-ucits-etf-a-202573/)
 append_entries: 4
 Finish: 2025-07-03 10:26:47.625166
+------------------------------------------------------
+Started: 2025-07-03 12:48:58.045121
+Existing_entries: 556
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NGX Group Secures Funding Support from DEG Impulse To Advance Corporate Climate Action](http://www.mondovisione.com/media-and-resources/news/ngx-group-secures-funding-support-from-deg-impulse-to-advance-corporate-climate-202573/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Broadridge To Acquire Acolin, Accelerating Modernization And Transparency In Cross-Border Fund Distribution - Acquisition Will Enhance Broadridge’s Global Fund Distribution, Data And Regulatory Service Capabilities And Reinforce Its Role At The Intersection Of Funds And Distributors](http://www.mondovisione.com/media-and-resources/news/broadridge-to-acquire-acolin-accelerating-modernization-and-transparency-in-cro-202573/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Addition To The Vienna Stock Exchange: Start Of Trading For REPLOID Group AG](http://www.mondovisione.com/media-and-resources/news/new-addition-to-the-vienna-stock-exchange-start-of-trading-for-reploid-group-ag-202573/)
+append_entries: 3
+Finish: 2025-07-03 12:48:59.238148
