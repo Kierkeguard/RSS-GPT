@@ -3088,3 +3088,25 @@ Existing_entries: 546
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-07-03 04:35:11.920086
+------------------------------------------------------
+Started: 2025-07-03 06:36:02.894816
+Existing_entries: 546
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX Introduces Order Routing Service On Integrated Fund Platform](http://www.mondovisione.com/media-and-resources/news/hkex-introduces-order-routing-service-on-integrated-fund-platform-202573/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Fujitsu To Develop ETF Trading Platform Based On TSE’s CONNEQTOR And Provide It To Australian Securities Exchange](http://www.mondovisione.com/media-and-resources/news/fujitsu-to-develop-etf-trading-platform-based-on-tses-conneqtor-and-provide-it-202573/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Hong Kong Securities And Futures Commission Welcomes Launch Of Order Routing Service On Integrated Fund Platform](http://www.mondovisione.com/media-and-resources/news/hong-kong-securities-and-futures-commission-welcomes-launch-of-order-routing-ser-202573/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Kumul Consolidated Holdings And Papua New Guinea’s National Stock Exchange Sign MOU To Enhance Corporate Governance Of State-Owned Enterprises](http://www.mondovisione.com/media-and-resources/news/kumul-consolidated-holdings-and-papua-new-guineas-national-stock-exchange-sign-202573/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Releases Estimated Industry Funding Levies For 2024-25](http://www.mondovisione.com/media-and-resources/news/asic-releases-estimated-industry-funding-levies-for-2024-25-202573/)
+Append: [NZX Shareholder Metrics - June 2025](http://www.mondovisione.com/media-and-resources/news/nzx-shareholder-metrics-june-2025-202573/)
+append_entries: 6
+Finish: 2025-07-03 06:36:03.763898
