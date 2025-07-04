@@ -3227,3 +3227,26 @@ Existing_entries: 571
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-07-04 04:34:11.588004
+------------------------------------------------------
+Started: 2025-07-04 06:36:13.133099
+Existing_entries: 571
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SGX Securities Welcomes Info-Tech Systems Ltd. To Mainboard](http://www.mondovisione.com/media-and-resources/news/sgx-securities-welcomes-info-tech-systems-ltd-to-mainboard-202574/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASX Group Monthly Activity Report – June 2025](http://www.mondovisione.com/media-and-resources/news/asx-group-monthly-activity-report-june-2025-202574/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Releases June 2025 Financial Adviser Exam Results](http://www.mondovisione.com/media-and-resources/news/asic-releases-june-2025-financial-adviser-exam-results-202574/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Zealand Financial Markets Authority Investigation Into Senior Trust Capital Limited Ongoing](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-investigation-into-senior-trust-capital-202574/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIFMA Statement On Congressional Passage Of OBBB](http://www.mondovisione.com/media-and-resources/news/sifma-statement-on-congressional-passage-of-obbb-202574/)
+Append: [ISDA And Ant International Lead New Industry Report On Use Of Tokenized Bank Liabilities For FX Settlement And Cross-Border Payments Under Project Guardian](http://www.mondovisione.com/media-and-resources/news/isda-and-ant-international-lead-new-industry-report-on-use-of-tokenized-bank-lia-202574/)
+Append: [Statement By US Secretary Of The Treasury Scott Bessent On Passage Of The One, Big, Beautiful Bill](http://www.mondovisione.com/media-and-resources/news/statement-by-us-secretary-of-the-treasury-scott-bessent-on-passage-of-the-one-b-202574/)
+append_entries: 7
+Finish: 2025-07-04 06:36:14.080317
