@@ -64,3 +64,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Securities And Exchange Board Of India Expands Probe Into Jane Street's Alleged Market Manipulation](http://www.mondovisione.com/media-and-resources/news/securities-and-exchange-board-of-india-expands-probe-into-jane-streets-alleged-202574/)
 append_entries: 4
 Finish: 2025-07-04 16:29:15.669652
+------------------------------------------------------
+Started: 2025-07-04 18:32:30.578442
+Existing_entries: 20
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TMX Group Consolidated Trading Statistics – June 2025](http://www.mondovisione.com/media-and-resources/news/tmx-group-consolidated-trading-statistics-june-2025-202574/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Moscow Exchange: Updated Constituents List For OFZ Zero Coupon Yield Curve To Come Into Force On 15 July 2025](http://www.mondovisione.com/media-and-resources/news/moscow-exchange-updated-constituents-list-for-ofz-zero-coupon-yield-curve-to-co-202574/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority: Redinel Korfuzi And Oerta Korfuzi Sentenced To Combined 11 Years For £1m Insider Dealing And Money Laundering](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-redinel-korfuzi-and-oerta-korfuzi-sentenced-to-c-202574/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nigerian Exchange Weekly Market Report For The Week Ended 4 July 2025](http://www.mondovisione.com/media-and-resources/news/nigerian-exchange-weekly-market-report-for-the-week-ended-4-july-2025-202574/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The End Of The Road − Speech By Alan Taylor, Bank Of England, External Member Of The Monetary Policy Committee, Given At The London School Of Economics And Political Science](http://www.mondovisione.com/media-and-resources/news/the-end-of-the-road-speech-by-alan-taylor-bank-of-england-external-member-of-202574/)
+append_entries: 5
+Finish: 2025-07-04 18:32:31.483635
