@@ -3265,3 +3265,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Vienna Stock Exchange: Active Share Trading And Two New Listings In The First Half Of The Year](http://www.mondovisione.com/media-and-resources/news/vienna-stock-exchange-active-share-trading-and-two-new-listings-in-the-first-ha-202574/)
 append_entries: 3
 Finish: 2025-07-04 08:32:04.898481
+------------------------------------------------------
+Started: 2025-07-04 10:26:04.488059
+Existing_entries: 581
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-07-04 10:26:05.463927
