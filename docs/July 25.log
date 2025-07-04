@@ -46,3 +46,21 @@ Append: [BME Welcomes IZERTIS On Its Move From BME Growth To The Stock Exchange]
 Append: [Malawi Stock Exchange 2nd Quarter Market Performance Report - 2025](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-2nd-quarter-market-performance-report-2025-202574/)
 append_entries: 6
 Finish: 2025-07-04 14:23:00.889914
+------------------------------------------------------
+Started: 2025-07-04 16:29:14.547792
+Existing_entries: 16
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euronext Announces Volumes For June 2025](http://www.mondovisione.com/media-and-resources/news/euronext-announces-volumes-for-june-2025-202574/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority: Two Individuals Sentenced To A Combined 12 Years For £1.5m Crypto Fraud](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-two-individuals-sentenced-to-a-combined-12-years-202574/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Europex: The EU ETS Remains The Most Cost-Effective Tool To Achieve The 2040 Emissions Reduction Target](http://www.mondovisione.com/media-and-resources/news/europex-the-eu-ets-remains-the-most-cost-effective-tool-to-achieve-the-2040-emi-202574/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Securities And Exchange Board Of India Expands Probe Into Jane Street's Alleged Market Manipulation](http://www.mondovisione.com/media-and-resources/news/securities-and-exchange-board-of-india-expands-probe-into-jane-streets-alleged-202574/)
+append_entries: 4
+Finish: 2025-07-04 16:29:15.669652
