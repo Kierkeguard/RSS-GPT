@@ -3250,3 +3250,18 @@ Append: [ISDA And Ant International Lead New Industry Report On Use Of Tokenized
 Append: [Statement By US Secretary Of The Treasury Scott Bessent On Passage Of The One, Big, Beautiful Bill](http://www.mondovisione.com/media-and-resources/news/statement-by-us-secretary-of-the-treasury-scott-bessent-on-passage-of-the-one-b-202574/)
 append_entries: 7
 Finish: 2025-07-04 06:36:14.080317
+------------------------------------------------------
+Started: 2025-07-04 08:32:04.106172
+Existing_entries: 578
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Invest Hong Kong Strengthens Web3 And FinTech Ties Between Hong Kong And Japan](http://www.mondovisione.com/media-and-resources/news/invest-hong-kong-strengthens-web3-and-fintech-ties-between-hong-kong-and-japan-202574/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BMLL Wins ‘Best Market Data Provider’ At The Capital Markets Technology Awards APAC 2025](http://www.mondovisione.com/media-and-resources/news/bmll-wins-best-market-data-provider-at-the-capital-markets-technology-awards-a-202574/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Vienna Stock Exchange: Active Share Trading And Two New Listings In The First Half Of The Year](http://www.mondovisione.com/media-and-resources/news/vienna-stock-exchange-active-share-trading-and-two-new-listings-in-the-first-ha-202574/)
+append_entries: 3
+Finish: 2025-07-04 08:32:04.898481
