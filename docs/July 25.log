@@ -127,3 +127,12 @@ Existing_entries: 25
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-07-05 08:29:33.949893
+------------------------------------------------------
+Started: 2025-07-05 10:23:36.349680
+Existing_entries: 25
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [PNGX, CTSL And PNGHRI Empower Over 350 HR Professionals With Financial Literacy Training](http://www.mondovisione.com/media-and-resources/news/pngx-ctsl-and-pnghri-empower-over-350-hr-professionals-with-financial-literacy-202575/)
+append_entries: 1
+Finish: 2025-07-05 10:23:37.065458
