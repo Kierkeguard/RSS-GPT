@@ -259,3 +259,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ASIC Proposes To Remake Five Financial Reporting-Related Legislative Instruments](http://www.mondovisione.com/media-and-resources/news/asic-proposes-to-remake-five-financial-reporting-related-legislative-instruments-202577/)
 append_entries: 1
 Finish: 2025-07-07 06:37:17.013447
+------------------------------------------------------
+Started: 2025-07-07 08:34:22.172600
+Existing_entries: 27
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Sterling Trading Tech Wins Best Listed Derivatives Trading Platform In APAC - Recognized At The A-Team Capital Markets Technology Awards APAC 2025](http://www.mondovisione.com/media-and-resources/news/sterling-trading-tech-wins-best-listed-derivatives-trading-platform-in-apac-re-202577/)
+append_entries: 1
+Finish: 2025-07-07 08:34:23.353107
