@@ -286,3 +286,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Tehran Securities Exchange Bulletin - June 2025](http://www.mondovisione.com/media-and-resources/news/tehran-securities-exchange-bulletin-june-2025-202577/)
 append_entries: 4
 Finish: 2025-07-07 10:27:19.090844
+------------------------------------------------------
+Started: 2025-07-07 12:51:04.839508
+Existing_entries: 32
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MarketAxess Announces Trading Volume Statistics For June And Second Quarter 2025](http://www.mondovisione.com/media-and-resources/news/marketaxess-announces-trading-volume-statistics-for-june-and-second-quarter-2025-202577/)
+append_entries: 1
+Finish: 2025-07-07 12:51:06.798175
