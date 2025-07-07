@@ -310,3 +310,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Moscow Exchange: Changes To The Formula For Calculating Additional Fee](http://www.mondovisione.com/media-and-resources/news/moscow-exchange-changes-to-the-formula-for-calculating-additional-fee-202577/)
 append_entries: 3
 Finish: 2025-07-07 14:24:38.449431
+------------------------------------------------------
+Started: 2025-07-07 16:31:35.312260
+Existing_entries: 36
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tehran Securities Exchange Weekly Market Snapshot, 2 July 2025](http://www.mondovisione.com/media-and-resources/news/tehran-securities-exchange-weekly-market-snapshot-2-july-2025-202577/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER Suggests Including The Gradual Phase-Out Of Russian Gas Supply In ENTSOG’s Future Supply Outlooks](http://www.mondovisione.com/media-and-resources/news/acer-suggests-including-the-gradual-phase-out-of-russian-gas-supply-in-entsogs-202577/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Small Business Advisory Committee To Discuss Regulatory Framework For Finders And Continue Exploring Regulation A](http://www.mondovisione.com/media-and-resources/news/sec-small-business-advisory-committee-to-discuss-regulatory-framework-for-finder-202577/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Saudi Exchange Launches The Saudi Depositary Receipts (SDRs) For The First Time In The Saudi Capital Market](http://www.mondovisione.com/media-and-resources/news/saudi-exchange-launches-the-saudi-depositary-receipts-sdrs-for-the-first-time-202577/)
+append_entries: 4
+Finish: 2025-07-07 16:31:37.258480
