@@ -328,3 +328,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Saudi Exchange Launches The Saudi Depositary Receipts (SDRs) For The First Time In The Saudi Capital Market](http://www.mondovisione.com/media-and-resources/news/saudi-exchange-launches-the-saudi-depositary-receipts-sdrs-for-the-first-time-202577/)
 append_entries: 4
 Finish: 2025-07-07 16:31:37.258480
+------------------------------------------------------
+Started: 2025-07-07 18:34:17.368723
+Existing_entries: 40
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Office Of The Comptroller Of The Currency Allows National Banks And Federal Savings Associations In Texas Affected By Flooding To Close](http://www.mondovisione.com/media-and-resources/news/us-office-of-the-comptroller-of-the-currency-allows-national-banks-and-federal-s-202577/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Athens Stock Exchange: Commencement Of Trading For AEGEAN’s Corporate Bond](http://www.mondovisione.com/media-and-resources/news/athens-stock-exchange-commencement-of-trading-for-aegeans-corporate-bond-202577/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The EBA Consults On Draft Guidelines On Ancillary Services Undertakings](http://www.mondovisione.com/media-and-resources/news/the-eba-consults-on-draft-guidelines-on-ancillary-services-undertakings-202577/)
+append_entries: 3
+Finish: 2025-07-07 18:34:19.100699
