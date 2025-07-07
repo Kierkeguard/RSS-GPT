@@ -250,3 +250,12 @@ Existing_entries: 26
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-07-07 04:37:35.160371
+------------------------------------------------------
+Started: 2025-07-07 06:37:15.883092
+Existing_entries: 26
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Proposes To Remake Five Financial Reporting-Related Legislative Instruments](http://www.mondovisione.com/media-and-resources/news/asic-proposes-to-remake-five-financial-reporting-related-legislative-instruments-202577/)
+append_entries: 1
+Finish: 2025-07-07 06:37:17.013447
