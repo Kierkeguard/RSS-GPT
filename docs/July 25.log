@@ -295,3 +295,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [MarketAxess Announces Trading Volume Statistics For June And Second Quarter 2025](http://www.mondovisione.com/media-and-resources/news/marketaxess-announces-trading-volume-statistics-for-june-and-second-quarter-2025-202577/)
 append_entries: 1
 Finish: 2025-07-07 12:51:06.798175
+------------------------------------------------------
+Started: 2025-07-07 14:24:36.530625
+Existing_entries: 33
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TT® Trade Surveillance Captures Second Award Within Weeks For Best-In-Class Offering - Named Best Trade Surveillance Solution In A-Team Group's Capital Markets Technology Awards APAC 2025](http://www.mondovisione.com/media-and-resources/news/tt-trade-surveillance-captures-second-award-within-weeks-for-best-in-class-offe-202577/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tradeweb Reports June 2025 Total Trading Volume Of $52.0 Trillion And Average Daily Volume Of $2.4 Trillion - June 2025 ADV Up 25.9% YoY Second Quarter 2025 ADV Up 32.7% YoY](http://www.mondovisione.com/media-and-resources/news/tradeweb-reports-june-2025-total-trading-volume-of-520-trillion-and-average-da-202577/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Moscow Exchange: Changes To The Formula For Calculating Additional Fee](http://www.mondovisione.com/media-and-resources/news/moscow-exchange-changes-to-the-formula-for-calculating-additional-fee-202577/)
+append_entries: 3
+Finish: 2025-07-07 14:24:38.449431
