@@ -464,3 +464,21 @@ Existing_entries: 64
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-07-08 16:31:52.804607
+------------------------------------------------------
+Started: 2025-07-08 18:34:37.599332
+Existing_entries: 64
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Ontario Securities Commission Publishes Draft Action Plan For Truth And Reconciliation](http://www.mondovisione.com/media-and-resources/news/ontario-securities-commission-publishes-draft-action-plan-for-truth-and-reconcil-202578/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The EBA Launches Consultation On Its Draft Guidelines On Third-Party Risk Management With Regard To Non-ICT Related Services](http://www.mondovisione.com/media-and-resources/news/the-eba-launches-consultation-on-its-draft-guidelines-on-third-party-risk-manage-202578/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESMA Publishes Its First Climate Transition Plan](http://www.mondovisione.com/media-and-resources/news/esma-publishes-its-first-climate-transition-plan-202578/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [EEX EU ETS2 Futures Launched With First-Day Trade](http://www.mondovisione.com/media-and-resources/news/eex-eu-ets2-futures-launched-with-first-day-trade-202578/)
+append_entries: 4
+Finish: 2025-07-08 18:34:38.995635
