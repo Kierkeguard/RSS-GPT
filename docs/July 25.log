@@ -482,3 +482,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [EEX EU ETS2 Futures Launched With First-Day Trade](http://www.mondovisione.com/media-and-resources/news/eex-eu-ets2-futures-launched-with-first-day-trade-202578/)
 append_entries: 4
 Finish: 2025-07-08 18:34:38.995635
+------------------------------------------------------
+Started: 2025-07-08 20:27:05.073031
+Existing_entries: 68
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Financial Data For Futures Commission Merchants Update](http://www.mondovisione.com/media-and-resources/news/cftc-financial-data-for-futures-commission-merchants-update-202578/)
+append_entries: 1
+Finish: 2025-07-08 20:27:06.041120
