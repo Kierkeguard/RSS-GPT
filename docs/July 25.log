@@ -385,3 +385,26 @@ Existing_entries: 45
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-07-08 06:36:31.068680
+------------------------------------------------------
+Started: 2025-07-08 08:32:59.443961
+Existing_entries: 45
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Welcoming The European Investment Fund To The European Small & Mid-Cap Awards](http://www.mondovisione.com/media-and-resources/news/welcoming-the-european-investment-fund-to-the-european-small-and-mid-cap-awards-202578/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euronext Launches The First Phase Of Its Strategic Multi-Year Repo Expansion Initiative - This Initiative Expands Access, Improves Collateral Usage, And Positions Euronext As A Leading Central Counterparty (CCP) For European Repo Markets](http://www.mondovisione.com/media-and-resources/news/euronext-launches-the-first-phase-of-its-strategic-multi-year-repo-expansion-ini-202578/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Treasury And Payments Platform Finmo Secures UK EMI Licence, Expands Global Footprint](http://www.mondovisione.com/media-and-resources/news/treasury-and-payments-platform-finmo-secures-uk-emi-licence-expands-global-foot-202578/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Adhara And ioBuilders Merge To Create Leading Global Provider Of Blockchain-Based Software Products And Services For Financial Institutions](http://www.mondovisione.com/media-and-resources/news/adhara-and-iobuilders-merge-to-create-leading-global-provider-of-blockchain-base-202578/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Securities Commission Malaysia  And Durham University Sign MoU To Advance Islamic Capital Market Education  - Key Focus On Maqasid Al-Shariah Via ICM Summer School](http://www.mondovisione.com/media-and-resources/news/securities-commission-malaysia-and-durham-university-sign-mou-to-advance-islami-202578/)
+Append: [Japan Financial Services Agency: "Cold Calling" - Investors Alert](http://www.mondovisione.com/media-and-resources/news/japan-financial-services-agency-cold-calling-investors-alert-202578/)
+Append: [NZX 20 Contract Specification And CTAP: Notice Of Amendments](http://www.mondovisione.com/media-and-resources/news/nzx-20-contract-specification-and-ctap-notice-of-amendments-202578/)
+append_entries: 7
+Finish: 2025-07-08 08:33:00.873953
