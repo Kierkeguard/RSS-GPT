@@ -431,3 +431,18 @@ Append: [Liquidnet Advances Emerging Markets Strategy With New Hire - Michael Fi
 Append: [BNP Paribas Asset Management Launches First ETF With Solactive Tracking The Solactive €STR Overnight Total Return Index](http://www.mondovisione.com/media-and-resources/news/bnp-paribas-asset-management-launches-first-etf-with-solactive-tracking-the-sola-202578/)
 append_entries: 7
 Finish: 2025-07-08 10:26:26.810569
+------------------------------------------------------
+Started: 2025-07-08 12:51:10.171431
+Existing_entries: 59
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cboe Europe To Launch Pan-European EBBO Trading Solution For Retail Investors](http://www.mondovisione.com/media-and-resources/news/cboe-europe-to-launch-pan-european-ebbo-trading-solution-for-retail-investors-202578/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BRI Secures Global Recognition As Indonesia's Top Financial Institution In Fortune Southeast Asia 500](http://www.mondovisione.com/media-and-resources/news/bri-secures-global-recognition-as-indonesias-top-financial-institution-in-fortu-202578/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Taiwan Futures Exchange Newsletter - July 2025](http://www.mondovisione.com/media-and-resources/news/taiwan-futures-exchange-newsletter-july-2025-202578/)
+append_entries: 3
+Finish: 2025-07-08 12:51:11.444248
