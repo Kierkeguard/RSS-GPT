@@ -446,3 +446,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Taiwan Futures Exchange Newsletter - July 2025](http://www.mondovisione.com/media-and-resources/news/taiwan-futures-exchange-newsletter-july-2025-202578/)
 append_entries: 3
 Finish: 2025-07-08 12:51:11.444248
+------------------------------------------------------
+Started: 2025-07-08 14:23:34.661622
+Existing_entries: 62
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Dun & Bradstreet Global Survey Of 10,000 Executives Uncovers Intensifying Strategic Risks Across Supply Chains, Trade And Investment Flows  - Persistent Macroeconomic Uncertainty And Supply Chain Vulnerabilities Drive Decline In Business Confidence For A Third Consecutive Quarter](http://www.mondovisione.com/media-and-resources/news/dun-and-bradstreet-global-survey-of-10000-executives-uncovers-intensifying-strate-202578/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Sharks Are Coming: Clover & Sony Pictures Television Reveal Star-Studded Line Up For The First-Ever Live Clover x Shark Tank Summit In Las Vegas - Barbara Corcoran, Robert Herjavec, Daymond John, Kevin O’Leary And Daniel Lubetzky Join Previously Announced Speakers Mark Cuban, Tabitha Brown & Gary Vaynerchuk For The Three-Day Conference In September](http://www.mondovisione.com/media-and-resources/news/the-sharks-are-coming-clover-and-sony-pictures-television-reveal-star-studded-lin-202578/)
+append_entries: 2
+Finish: 2025-07-08 14:23:35.692306
