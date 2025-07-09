@@ -524,3 +524,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ASIC Proposes Updates To Product Disclosure Statements Regulatory Guide](http://www.mondovisione.com/media-and-resources/news/asic-proposes-updates-to-product-disclosure-statements-regulatory-guide-202579/)
 append_entries: 5
 Finish: 2025-07-09 06:36:15.129645
+------------------------------------------------------
+Started: 2025-07-09 08:32:59.741521
+Existing_entries: 76
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-07-09 08:33:00.817913
