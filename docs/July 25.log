@@ -503,3 +503,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Nasdaq Reports June 2025 Volumes And 2Q25 Statistics](http://www.mondovisione.com/media-and-resources/news/nasdaq-reports-june-2025-volumes-and-2q25-statistics-202578/)
 append_entries: 2
 Finish: 2025-07-08 22:23:52.209124
+------------------------------------------------------
+Started: 2025-07-09 06:36:13.728501
+Existing_entries: 71
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Change To The Executive Board Of SIX](http://www.mondovisione.com/media-and-resources/news/change-to-the-executive-board-of-six-202579/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Is Seeking Feedback On Its Proposal To Remake Six Sunsetting Legislative Instruments Which Provide Disclosure Relief.](http://www.mondovisione.com/media-and-resources/news/asic-is-seeking-feedback-on-its-proposal-to-remake-six-sunsetting-legislative-in-202579/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Shanghai Gold Exchange Monthly Report Of Data Highlights - June, 2025](http://www.mondovisione.com/media-and-resources/news/shanghai-gold-exchange-monthly-report-of-data-highlights-june-2025-202579/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Consults On Proposals To Facilitate Digital Disclosure](http://www.mondovisione.com/media-and-resources/news/asic-consults-on-proposals-to-facilitate-digital-disclosure-202579/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Proposes Updates To Product Disclosure Statements Regulatory Guide](http://www.mondovisione.com/media-and-resources/news/asic-proposes-updates-to-product-disclosure-statements-regulatory-guide-202579/)
+append_entries: 5
+Finish: 2025-07-09 06:36:15.129645
