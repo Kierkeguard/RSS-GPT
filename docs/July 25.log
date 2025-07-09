@@ -530,3 +530,18 @@ Existing_entries: 76
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-07-09 08:33:00.817913
+------------------------------------------------------
+Started: 2025-07-09 10:27:33.428929
+Existing_entries: 76
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The World Federation Of Exchanges Calls On UK To Remove VAT On Carbon Credits And Classify Them As Financial Instruments](http://www.mondovisione.com/media-and-resources/news/the-world-federation-of-exchanges-calls-on-uk-to-remove-vat-on-carbon-credits-an-202579/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Solactive Money Market Indices Underpin New Suite Of Overnight Rate ETFs Launched By UBS Asset Management](http://www.mondovisione.com/media-and-resources/news/solactive-money-market-indices-underpin-new-suite-of-overnight-rate-etfs-launche-202579/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Droit Adds 'Explore Mode' To Adept, Its Global Regulatory Decision-Making Platform - Droit Awarded Patent Approval For Regulatory Exploration Technology, Enabling Global Customer Base To Better Understand Obligations](http://www.mondovisione.com/media-and-resources/news/droit-adds-explore-mode-to-adept-its-global-regulatory-decision-making-platfo-202579/)
+append_entries: 3
+Finish: 2025-07-09 10:27:34.503199
