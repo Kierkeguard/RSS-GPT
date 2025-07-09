@@ -604,3 +604,25 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [The Bank Of England Fines Vocalink Limited £11,900,000 For A Compliance Failure](http://www.mondovisione.com/media-and-resources/news/the-bank-of-england-fines-vocalink-limited-11900000-for-a-compliance-failure-202579/)
 append_entries: 5
 Finish: 2025-07-09 16:31:08.550053
+------------------------------------------------------
+Started: 2025-07-09 18:35:10.118017
+Existing_entries: 94
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Minutes Of The Federal Open Market Committee, June 17–18, 2025](http://www.mondovisione.com/media-and-resources/news/minutes-of-the-federal-open-market-committee-june-1718-2025-202579/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Enchanting, But Not Magical: A Statement On The Tokenization Of Securities, SEC Commissioner Hester M. Peirce, July 9, 2025](http://www.mondovisione.com/media-and-resources/news/enchanting-but-not-magical-a-statement-on-the-tokenization-of-securities-sec-202579/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FINRA Publishes 2025 Industry Snapshot](http://www.mondovisione.com/media-and-resources/news/finra-publishes-2025-industry-snapshot-202579/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Global Patchwork Of Prudential Rules Undermines Resilience, Hurts Economic Growth](http://www.mondovisione.com/media-and-resources/news/global-patchwork-of-prudential-rules-undermines-resilience-hurts-economic-growt-202579/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Ontario Securities Commission Canadian Investment Regulatory Organization Report Highlights Sales Culture Concerns At Canada’s Largest Bank-Affiliated Dealers](http://www.mondovisione.com/media-and-resources/news/ontario-securities-commission-canadian-investment-regulatory-organization-report-202579/)
+Append: [Nodal Exchange Achieves Strong Performance In Power, Gas And Environmental Futures In The First Half Of 2025](http://www.mondovisione.com/media-and-resources/news/nodal-exchange-achieves-strong-performance-in-power-gas-and-environmental-futur-202579/)
+append_entries: 6
+Finish: 2025-07-09 18:35:11.229769
