@@ -626,3 +626,12 @@ Append: [Ontario Securities Commission Canadian Investment Regulatory Organizati
 Append: [Nodal Exchange Achieves Strong Performance In Power, Gas And Environmental Futures In The First Half Of 2025](http://www.mondovisione.com/media-and-resources/news/nodal-exchange-achieves-strong-performance-in-power-gas-and-environmental-futur-202579/)
 append_entries: 6
 Finish: 2025-07-09 18:35:11.229769
+------------------------------------------------------
+Started: 2025-07-09 20:27:09.131091
+Existing_entries: 100
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TMX Group Equity Financing Statistics - June 2025](http://www.mondovisione.com/media-and-resources/news/tmx-group-equity-financing-statistics-june-2025-202579/)
+append_entries: 1
+Finish: 2025-07-09 20:27:09.989266
