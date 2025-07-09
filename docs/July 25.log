@@ -583,3 +583,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [The EBA Consults To Amend Its Technical Standards On Own Funds And Eligible Liabilities](http://www.mondovisione.com/media-and-resources/news/the-eba-consults-to-amend-its-technical-standards-on-own-funds-and-eligible-liab-202579/)
 append_entries: 3
 Finish: 2025-07-09 14:24:20.294386
+------------------------------------------------------
+Started: 2025-07-09 16:31:07.434138
+Existing_entries: 89
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tariff Wars And Geopolitical Uncertainty Reshapes European CFOs Strategies, Lucanet CFO Panel Finds - Amid Global Volatility, CFO Experts Embrace Data-Driven Scenario Modelling, With 66% Prioritising Digital Transformation To Boost Resilience](http://www.mondovisione.com/media-and-resources/news/tariff-wars-and-geopolitical-uncertainty-reshapes-european-cfos-strategies-luca-202579/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Clarity AI Acquires Ecolytiq, Further Expanding Its AI Sustainability Solutions To End Consumers - The Acquisition Expands On Clarity AI’s Market Leading Climate Engagement Offering For Global Retail And Commercial Banking Financial Institutions](http://www.mondovisione.com/media-and-resources/news/clarity-ai-acquires-ecolytiq-further-expanding-its-ai-sustainability-solutions-202579/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BME Welcomes Cirsa](http://www.mondovisione.com/media-and-resources/news/bme-welcomes-cirsa-202579/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEMCO Technologies Lists On Euronext](http://www.mondovisione.com/media-and-resources/news/semco-technologies-lists-on-euronext-202579/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Bank Of England Fines Vocalink Limited £11,900,000 For A Compliance Failure](http://www.mondovisione.com/media-and-resources/news/the-bank-of-england-fines-vocalink-limited-11900000-for-a-compliance-failure-202579/)
+append_entries: 5
+Finish: 2025-07-09 16:31:08.550053
