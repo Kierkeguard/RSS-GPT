@@ -568,3 +568,18 @@ Append: [EnergyVision Lists On Euronext](http://www.mondovisione.com/media-and-r
 Append: [Tel Aviv Stock Exchange - Launching A Trading At Last (TAL) Trading Phase - TASE Continues To Upgrade The Israeli Capital Market And Align It With International Standards - Launching A Trading At Last (TAL) Trading Phase](http://www.mondovisione.com/media-and-resources/news/tel-aviv-stock-exchange-launching-a-trading-at-last-tal-trading-phase-tase-202579/)
 append_entries: 7
 Finish: 2025-07-09 12:51:12.434435
+------------------------------------------------------
+Started: 2025-07-09 14:24:18.837273
+Existing_entries: 86
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FSB Publishes Recommendations To Address Financial Stability Risks Created By Leverage In Nonbank Financial Intermediation](http://www.mondovisione.com/media-and-resources/news/fsb-publishes-recommendations-to-address-financial-stability-risks-created-by-le-202579/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ICE Sets New H1 Record With 1.2 Billion Contracts Traded](http://www.mondovisione.com/media-and-resources/news/ice-sets-new-h1-record-with-12-billion-contracts-traded-202579/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The EBA Consults To Amend Its Technical Standards On Own Funds And Eligible Liabilities](http://www.mondovisione.com/media-and-resources/news/the-eba-consults-to-amend-its-technical-standards-on-own-funds-and-eligible-liab-202579/)
+append_entries: 3
+Finish: 2025-07-09 14:24:20.294386
