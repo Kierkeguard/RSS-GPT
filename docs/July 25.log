@@ -767,3 +767,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Weathering The Storm: Stability In A Changing Climate - Speech By Sarah Breeden, Bank Of England, Deputy Governor, Financial Stability, Based On Remarks Given At The Chapman-Barrigan Lecture](http://www.mondovisione.com/media-and-resources/news/weathering-the-storm-stability-in-a-changing-climate-speech-by-sarah-breeden-2025710/)
 append_entries: 4
 Finish: 2025-07-10 18:34:27.356359
+------------------------------------------------------
+Started: 2025-07-10 20:27:09.147574
+Existing_entries: 125
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Federal Reserve Board Requests Comment On Targeted Proposal To Revise Its Supervisory Rating Framework For Large Bank Holding Companies To Address The "Well Managed" Status Of These Firms](http://www.mondovisione.com/media-and-resources/news/federal-reserve-board-requests-comment-on-targeted-proposal-to-revise-its-superv-2025710/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Demystifying The Federal Reserve's Balance Sheet, Federal Reserve Governor Christopher J. Waller, At The Federal Reserve Bank Of Dallas, Dallas, Texas](http://www.mondovisione.com/media-and-resources/news/demystifying-the-federal-reserves-balance-sheet-federal-reserve-governor-chris-2025710/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Canadian Investment Regulatory Organization Issues White Paper And Publishes Rule Amendment Proposals To Improve Account Transfers - Proposed Industry-Wide Technology Solution And Tighter Account Transfer Timelines Would Address Investor Frustration When Transferring Accounts](http://www.mondovisione.com/media-and-resources/news/anadian-investment-regulatory-organization-issues-white-paper-and-publishes-rule-2025710/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Canadian Securities Administrators Announces Final Amendments To Multilateral Instrument 13-102 System Fees](http://www.mondovisione.com/media-and-resources/news/canadian-securities-administrators-announces-final-amendments-to-multilateral-in-2025710/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Usman Asif Charged With Fraud And Contravening An Ontario Securities Commission Order](http://www.mondovisione.com/media-and-resources/news/usman-asif-charged-with-fraud-and-contravening-an-ontario-securities-commission-2025710/)
+append_entries: 5
+Finish: 2025-07-10 20:27:10.450452
