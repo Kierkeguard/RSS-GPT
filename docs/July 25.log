@@ -716,3 +716,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ESMA Identifies Opportunities To Strengthen MiCA Authorisations](http://www.mondovisione.com/media-and-resources/news/esma-identifies-opportunities-to-strengthen-mica-authorisations-2025710/)
 append_entries: 2
 Finish: 2025-07-10 12:52:00.374491
+------------------------------------------------------
+Started: 2025-07-10 14:25:23.964445
+Existing_entries: 114
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Closes 1,600 Websites As It Fights Financial Crime](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-closes-1600-websites-as-it-fights-financial-crim-2025710/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Miami International Holdings Reports Trading Results For June 2025; Market Share And Volume Records Reached Across Multiple Options And Futures Exchanges - MIAX Exchange Group Reaches Record 16.7% Options Market Share In Q2 2025](http://www.mondovisione.com/media-and-resources/news/miami-international-holdings-reports-trading-results-for-june-2025-market-share-2025710/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ICE To Expand NYSE Index Family With Launch Of U.S. Tech Index And Broader Range Of NYSE-Listed Indices](http://www.mondovisione.com/media-and-resources/news/ice-to-expand-nyse-index-family-with-launch-of-us-tech-index-and-broader-range-2025710/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority To Modernise Rules To Unlock Investment](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-to-modernise-rules-to-unlock-investment-2025710/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Invest Hong Kong Seminar Promotes In-Depth Exchanges Between FinTech Enterprises And Investment Community](http://www.mondovisione.com/media-and-resources/news/invest-hong-kong-seminar-promotes-in-depth-exchanges-between-fintech-enterprises-2025710/)
+append_entries: 5
+Finish: 2025-07-10 14:25:25.052005
