@@ -677,3 +677,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [New Zealand Financial Markets Authority Welcomes New Zealand Anti-Scam Alliance](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-welcomes-new-zealand-anti-scam-alliance-2025710/)
 append_entries: 3
 Finish: 2025-07-10 06:36:47.890867
+------------------------------------------------------
+Started: 2025-07-10 08:32:55.034236
+Existing_entries: 107
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TNS Expands 24x5 Trading Support With Market Data Connectivity To Bruce ATS](http://www.mondovisione.com/media-and-resources/news/tns-expands-24x5-trading-support-with-market-data-connectivity-to-bruce-ats-2025710/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group International Average Daily Volume Hits Record 9.2 Million Contracts In Q2 2025, Up 18% Year Over Year](http://www.mondovisione.com/media-and-resources/news/cme-group-international-average-daily-volume-hits-record-92-million-contracts-i-2025710/)
+append_entries: 2
+Finish: 2025-07-10 08:32:55.972533
