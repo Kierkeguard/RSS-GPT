@@ -689,3 +689,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CME Group International Average Daily Volume Hits Record 9.2 Million Contracts In Q2 2025, Up 18% Year Over Year](http://www.mondovisione.com/media-and-resources/news/cme-group-international-average-daily-volume-hits-record-92-million-contracts-i-2025710/)
 append_entries: 2
 Finish: 2025-07-10 08:32:55.972533
+------------------------------------------------------
+Started: 2025-07-10 10:27:04.549792
+Existing_entries: 109
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER: Drawbacks Of Introducing Peak-Shaving Products Under Normal Market Conditions Outweigh Potential Benefits](http://www.mondovisione.com/media-and-resources/news/acer-drawbacks-of-introducing-peak-shaving-products-under-normal-market-conditi-2025710/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Deutsche Börse Group Plans To Use Improved European Regulatory Environment To Reduce Regulatory Complexity](http://www.mondovisione.com/media-and-resources/news/deutsche-brse-group-plans-to-use-improved-european-regulatory-environment-to-re-2025710/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Worldline Partners With commercetools To Enhance Payment Solutions For e-Commerce Businesses](http://www.mondovisione.com/media-and-resources/news/worldline-partners-with-commercetools-to-enhance-payment-solutions-for-e-commerc-2025710/)
+append_entries: 3
+Finish: 2025-07-10 10:27:05.579751
