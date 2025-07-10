@@ -662,3 +662,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [New York Department Of Financial Services Superintendent Adrienne A. Harris And Five Other State Regulators Secure $4.2 Million Settlement From Wise US, Inc., For Inadequate Anti-Money Laundering Program - The New York Department Of Financial Services Partnered With Massachusetts, Texas, California, Minnesota, And Nebraska Regulators To Hold Wise Accountable For Compliance Failures](http://www.mondovisione.com/media-and-resources/news/new-york-department-of-financial-services-superintendent-adrienne-a-harris-and-2025710/)
 append_entries: 2
 Finish: 2025-07-10 04:36:20.826947
+------------------------------------------------------
+Started: 2025-07-10 06:36:46.969337
+Existing_entries: 104
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIX And Pictet Complete Pilot Project To Tokenize And Fractionalize Financial Assets, Enabling Increased Customisation](http://www.mondovisione.com/media-and-resources/news/six-and-pictet-complete-pilot-project-to-tokenize-and-fractionalize-financial-as-2025710/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Project Acacia: RBA And DFCRC Announce Chosen Industry Participants And ASIC Provides Regulatory Relief For Tokenised Asset Settlement Research Project](http://www.mondovisione.com/media-and-resources/news/project-acacia-rba-and-dfcrc-announce-chosen-industry-participants-and-asic-pro-2025710/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Zealand Financial Markets Authority Welcomes New Zealand Anti-Scam Alliance](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-welcomes-new-zealand-anti-scam-alliance-2025710/)
+append_entries: 3
+Finish: 2025-07-10 06:36:47.890867
