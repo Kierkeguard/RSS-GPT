@@ -650,3 +650,15 @@ Existing_entries: 102
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-07-10 02:01:37.236339
+------------------------------------------------------
+Started: 2025-07-10 04:36:19.633889
+Existing_entries: 102
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Issues Advisory On Referrals For Potential Criminal Enforcement](http://www.mondovisione.com/media-and-resources/news/cftc-issues-advisory-on-referrals-for-potential-criminal-enforcement-2025710/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New York Department Of Financial Services Superintendent Adrienne A. Harris And Five Other State Regulators Secure $4.2 Million Settlement From Wise US, Inc., For Inadequate Anti-Money Laundering Program - The New York Department Of Financial Services Partnered With Massachusetts, Texas, California, Minnesota, And Nebraska Regulators To Hold Wise Accountable For Compliance Failures](http://www.mondovisione.com/media-and-resources/news/new-york-department-of-financial-services-superintendent-adrienne-a-harris-and-2025710/)
+append_entries: 2
+Finish: 2025-07-10 04:36:20.826947
