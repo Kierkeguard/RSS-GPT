@@ -749,3 +749,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [GLEIF Confirms TradeGo As Qualified vLEI Issuer, Ushering In A New Era Of Trusted Digital Trade - TradeGo Integrates vLEI Credentials Into Blockchain-Based Solutions To Advance Cross-Border Commodity Trading, Shipping, And Payments](http://www.mondovisione.com/media-and-resources/news/gleif-confirms-tradego-as-qualified-vlei-issuer-ushering-in-a-new-era-of-truste-2025710/)
 append_entries: 2
 Finish: 2025-07-10 16:32:11.340403
+------------------------------------------------------
+Started: 2025-07-10 18:34:26.262942
+Existing_entries: 121
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIFMA Statement On Confirmation Of Jonathan Gould To Serve As Comptroller Of The Currency](http://www.mondovisione.com/media-and-resources/news/sifma-statement-on-confirmation-of-jonathan-gould-to-serve-as-comptroller-of-the-2025710/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euronext Deploys Its Solutions To Enhance The Financing Of European Aerospace And Defence Companies](http://www.mondovisione.com/media-and-resources/news/euronext-deploys-its-solutions-to-enhance-the-financing-of-european-aerospace-an-2025710/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Amman Stock Exchang Weekly Summary](http://www.mondovisione.com/media-and-resources/news/amman-stock-exchang-weekly-summary-2025710/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Weathering The Storm: Stability In A Changing Climate - Speech By Sarah Breeden, Bank Of England, Deputy Governor, Financial Stability, Based On Remarks Given At The Chapman-Barrigan Lecture](http://www.mondovisione.com/media-and-resources/news/weathering-the-storm-stability-in-a-changing-climate-speech-by-sarah-breeden-2025710/)
+append_entries: 4
+Finish: 2025-07-10 18:34:27.356359
