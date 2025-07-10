@@ -704,3 +704,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Worldline Partners With commercetools To Enhance Payment Solutions For e-Commerce Businesses](http://www.mondovisione.com/media-and-resources/news/worldline-partners-with-commercetools-to-enhance-payment-solutions-for-e-commerc-2025710/)
 append_entries: 3
 Finish: 2025-07-10 10:27:05.579751
+------------------------------------------------------
+Started: 2025-07-10 12:51:59.104500
+Existing_entries: 112
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Shifting Payment Landscape: What A Digital Euro Will Bring - Speech By Piero Cipollone, Member Of The Executive Board Of The ECB, At Banka Slovenije](http://www.mondovisione.com/media-and-resources/news/shifting-payment-landscape-what-a-digital-euro-will-bring-speech-by-piero-cip-2025710/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESMA Identifies Opportunities To Strengthen MiCA Authorisations](http://www.mondovisione.com/media-and-resources/news/esma-identifies-opportunities-to-strengthen-mica-authorisations-2025710/)
+append_entries: 2
+Finish: 2025-07-10 12:52:00.374491
