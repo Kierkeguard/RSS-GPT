@@ -737,3 +737,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Invest Hong Kong Seminar Promotes In-Depth Exchanges Between FinTech Enterprises And Investment Community](http://www.mondovisione.com/media-and-resources/news/invest-hong-kong-seminar-promotes-in-depth-exchanges-between-fintech-enterprises-2025710/)
 append_entries: 5
 Finish: 2025-07-10 14:25:25.052005
+------------------------------------------------------
+Started: 2025-07-10 16:32:10.072037
+Existing_entries: 119
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Basel Committee Shares Report On Interconnections Between Banks And Non-Bank Financial Intermediaries](http://www.mondovisione.com/media-and-resources/news/basel-committee-shares-report-on-interconnections-between-banks-and-non-bank-fin-2025710/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [GLEIF Confirms TradeGo As Qualified vLEI Issuer, Ushering In A New Era Of Trusted Digital Trade - TradeGo Integrates vLEI Credentials Into Blockchain-Based Solutions To Advance Cross-Border Commodity Trading, Shipping, And Payments](http://www.mondovisione.com/media-and-resources/news/gleif-confirms-tradego-as-qualified-vlei-issuer-ushering-in-a-new-era-of-truste-2025710/)
+append_entries: 2
+Finish: 2025-07-10 16:32:11.340403
