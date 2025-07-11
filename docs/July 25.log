@@ -857,3 +857,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ESMA: Investors Should Consider Risks Of Unregulated Products Offered By Regulated Crypto Assets Entities](http://www.mondovisione.com/media-and-resources/news/esma-investors-should-consider-risks-of-unregulated-products-offered-by-regulat-2025711/)
 append_entries: 2
 Finish: 2025-07-11 12:50:08.623543
+------------------------------------------------------
+Started: 2025-07-11 14:24:42.895182
+Existing_entries: 141
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [EACH’s Women In Clearing Series – Getting inspired By Babett Pavlics, Chief Executive Officer (CEO), KELER CCP](http://www.mondovisione.com/media-and-resources/news/eachs-women-in-clearing-series-getting-inspired-by-babett-pavlics-chief-exec-2025711/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Malawi Stock Exchange Weekly Summary Report, 11 July 2025](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-11-july-2025-2025711/)
+append_entries: 2
+Finish: 2025-07-11 14:24:43.836575
