@@ -890,3 +890,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Dubai Financial Market Regulated Short Sell – Weekly Summary - Summary Period  	: 7th July 2025 To 11th July 2025](http://www.mondovisione.com/media-and-resources/news/dubai-financial-market-regulated-short-sell-weekly-summary-summary-period-2025711/)
 append_entries: 3
 Finish: 2025-07-11 18:34:13.445124
+------------------------------------------------------
+Started: 2025-07-11 20:27:04.501838
+Existing_entries: 146
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Commitments Of Traders Reports Update](http://www.mondovisione.com/media-and-resources/news/cftc-commitments-of-traders-reports-update-2025711/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [U.S. Department Of The Treasury: Statement On The President’s Decision Prohibiting The Acquisition By Suirui Group Co., Ltd. Of Jupiter Systems, LLC](http://www.mondovisione.com/media-and-resources/news/us-department-of-the-treasury-statement-on-the-presidents-decision-prohibiti-2025711/)
+append_entries: 2
+Finish: 2025-07-11 20:27:05.663044
