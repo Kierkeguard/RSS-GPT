@@ -806,3 +806,15 @@ Existing_entries: 132
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-07-11 04:40:06.512552
+------------------------------------------------------
+Started: 2025-07-11 06:36:31.937126
+Existing_entries: 132
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Nordic Announces Amendments To Crypto Asset Listing Guidelines - Expanding The Scope Of Eligible Assets](http://www.mondovisione.com/media-and-resources/news/nasdaq-nordic-announces-amendments-to-crypto-asset-listing-guidelines-expandin-2025711/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Charges Georgia-Based First Liberty Building & Loan And Its Owner For Operating A $140 Million Ponzi Scheme](http://www.mondovisione.com/media-and-resources/news/sec-charges-georgia-based-first-liberty-building-and-loan-and-its-owner-for-operat-2025711/)
+append_entries: 2
+Finish: 2025-07-11 06:36:32.981605
