@@ -833,3 +833,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Buy Side Survey Reveals MiFID II Reversal As Europe Moves Back To CSAs](http://www.mondovisione.com/media-and-resources/news/buy-side-survey-reveals-mifid-ii-reversal-as-europe-moves-back-to-csas-2025711/)
 append_entries: 3
 Finish: 2025-07-11 08:33:02.681417
+------------------------------------------------------
+Started: 2025-07-11 10:26:33.077843
+Existing_entries: 137
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Knowledge And Competence Of Staff Providing Information On Crypto-Assets – ESMA Criteria Published](http://www.mondovisione.com/media-and-resources/news/knowledge-and-competence-of-staff-providing-information-on-crypto-assets-esma-2025711/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [AuditBoard Appoints Raul Villar Jr. As Chief Executive Officer](http://www.mondovisione.com/media-and-resources/news/auditboard-appoints-raul-villar-jr-as-chief-executive-officer-2025711/)
+append_entries: 2
+Finish: 2025-07-11 10:26:34.147619
