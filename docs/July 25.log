@@ -818,3 +818,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SEC Charges Georgia-Based First Liberty Building & Loan And Its Owner For Operating A $140 Million Ponzi Scheme](http://www.mondovisione.com/media-and-resources/news/sec-charges-georgia-based-first-liberty-building-and-loan-and-its-owner-for-operat-2025711/)
 append_entries: 2
 Finish: 2025-07-11 06:36:32.981605
+------------------------------------------------------
+Started: 2025-07-11 08:33:01.395889
+Existing_entries: 134
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cyprus Stock Exchange Monthly Bulletin - June 2025](http://www.mondovisione.com/media-and-resources/news/cyprus-stock-exchange-monthly-bulletin-june-2025-2025711/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Appoints Christian Sjöberg As President Of Nasdaq Clearing AB](http://www.mondovisione.com/media-and-resources/news/nasdaq-appoints-christian-sjberg-as-president-of-nasdaq-clearing-ab-2025711/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Buy Side Survey Reveals MiFID II Reversal As Europe Moves Back To CSAs](http://www.mondovisione.com/media-and-resources/news/buy-side-survey-reveals-mifid-ii-reversal-as-europe-moves-back-to-csas-2025711/)
+append_entries: 3
+Finish: 2025-07-11 08:33:02.681417
