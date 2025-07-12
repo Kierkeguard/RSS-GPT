@@ -920,3 +920,15 @@ Existing_entries: 148
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-07-12 04:35:05.628233
+------------------------------------------------------
+Started: 2025-07-12 06:33:48.556704
+Existing_entries: 148
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Acting Comptroller Of The US Currency Hood Congratulates Jonathan Gould On Senate Confirmation](http://www.mondovisione.com/media-and-resources/news/acting-comptroller-of-the-us-currency-hood-congratulates-jonathan-gould-on-senat-2025712/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Closer Links With Ukraine: ACER-NEURC (Ukrainian Regulator) Workshop In Ljubljana](http://www.mondovisione.com/media-and-resources/news/closer-links-with-ukraine-acer-neurc-ukrainian-regulator-workshop-in-ljubljan-2025712/)
+append_entries: 2
+Finish: 2025-07-12 06:33:49.890278
