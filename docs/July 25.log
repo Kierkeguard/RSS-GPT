@@ -1088,3 +1088,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Signicat Strengthens Market Position With NFC Identity Verification Leader Inverid](http://www.mondovisione.com/media-and-resources/news/signicat-strengthens-market-position-with-nfc-identity-verification-leader-inver-2025714/)
 append_entries: 3
 Finish: 2025-07-14 08:36:16.504297
+------------------------------------------------------
+Started: 2025-07-14 10:28:00.418696
+Existing_entries: 156
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LSEG Global Cloud Survey: Financial Services Firms Embrace Cloud To Drive Competitiveness](http://www.mondovisione.com/media-and-resources/news/lseg-global-cloud-survey-financial-services-firms-embrace-cloud-to-drive-compet-2025714/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FSB Roadmap For Addressing Financial Risks From Climate Change: 2025 Update](http://www.mondovisione.com/media-and-resources/news/fsb-roadmap-for-addressing-financial-risks-from-climate-change-2025-update-2025714/)
+append_entries: 2
+Finish: 2025-07-14 10:28:01.489387
