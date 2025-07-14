@@ -1179,3 +1179,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [HCLTech Delivers Healthy Revenue Growth Of 3.7% YoY In Q1 FY26 -  New Deal Win TCV At $1.8 Billion](http://www.mondovisione.com/media-and-resources/news/hcltech-delivers-healthy-revenue-growth-of-37-yoy-in-q1-fy26-new-deal-win-t-2025714/)
 append_entries: 4
 Finish: 2025-07-14 20:28:12.205352
+------------------------------------------------------
+Started: 2025-07-14 22:23:59.294280
+Existing_entries: 175
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [With Intelligence Ranks Top Institutional Investment Consultants - NEPC And Meketa Investment Group Close Most Mandates, NEPC And Mercer Close Highest Value Of Investor Mandates](http://www.mondovisione.com/media-and-resources/news/with-intelligence-ranks-top-institutional-investment-consultants-nepc-and-meke-2025714/)
+append_entries: 1
+Finish: 2025-07-14 22:24:01.014438
