@@ -1073,3 +1073,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [New Zealand Financial Markets Authority: Review Of Access To Financial Advice For New Zealand](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-review-of-access-to-financial-advice-fo-2025714/)
 append_entries: 2
 Finish: 2025-07-14 06:38:40.148855
+------------------------------------------------------
+Started: 2025-07-14 08:36:15.391111
+Existing_entries: 153
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Digital Assets Breakthrough: Aberdeen Investments, Lloyds Banking Group And Archax Complete Uk-First Use Of Digital Assets](http://www.mondovisione.com/media-and-resources/news/digital-assets-breakthrough-aberdeen-investments-lloyds-banking-group-and-arch-2025714/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Eurex Expands Global Index Derivatives Suite With First Futures On The MSCI Korea Index](http://www.mondovisione.com/media-and-resources/news/eurex-expands-global-index-derivatives-suite-with-first-futures-on-the-msci-kore-2025714/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Signicat Strengthens Market Position With NFC Identity Verification Leader Inverid](http://www.mondovisione.com/media-and-resources/news/signicat-strengthens-market-position-with-nfc-identity-verification-leader-inver-2025714/)
+append_entries: 3
+Finish: 2025-07-14 08:36:16.504297
