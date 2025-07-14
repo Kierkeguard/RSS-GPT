@@ -1061,3 +1061,15 @@ Existing_entries: 151
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-07-14 04:45:21.292732
+------------------------------------------------------
+Started: 2025-07-14 06:38:38.797536
+Existing_entries: 151
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Press Conference By KATO Katsunobu, Japan Minister Of Finance And Minister Of State For Financial Services - 25th Anniversary Of The Establishment Of The Financial Services Agency](http://www.mondovisione.com/media-and-resources/news/press-conference-by-kato-katsunobu-japan-minister-of-finance-and-minister-of-st-2025714/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Zealand Financial Markets Authority: Review Of Access To Financial Advice For New Zealand](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-review-of-access-to-financial-advice-fo-2025714/)
+append_entries: 2
+Finish: 2025-07-14 06:38:40.148855
