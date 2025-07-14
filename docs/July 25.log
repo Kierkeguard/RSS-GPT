@@ -1139,3 +1139,25 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [First Moore Global Thrive Index Shows Mid-Market Upbeat - 2,000-Plus Business Leaders Surveyed Show Resounding Optimism On Economic Prospects](http://www.mondovisione.com/media-and-resources/news/first-moore-global-thrive-index-shows-mid-market-upbeat-2000-plus-business-le-2025714/)
 append_entries: 4
 Finish: 2025-07-14 16:32:33.546294
+------------------------------------------------------
+Started: 2025-07-14 18:37:25.117830
+Existing_entries: 165
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Federal Bank Regulatory Agencies Issue Joint Statement On Risk-Management Considerations For Crypto-Asset Safekeeping](http://www.mondovisione.com/media-and-resources/news/us-federal-bank-regulatory-agencies-issue-joint-statement-on-risk-management-con-2025714/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CalPERS Announces Preliminary 11.6% Return For 2024-25 Fiscal Year](http://www.mondovisione.com/media-and-resources/news/calpers-announces-preliminary-116-return-for-2024-25-fiscal-year-2025714/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Mid-Year SIFMA Economist Roundtable Survey Forecasts 0.9% Real GDP Growth In 2025 And Rate Cuts By End Of 2025](http://www.mondovisione.com/media-and-resources/news/mid-year-sifma-economist-roundtable-survey-forecasts-09-real-gdp-growth-in-202-2025714/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Alberta Securities Commission Permanently Bans Raymond Cawaling And RTAX Financial Corp. For Contravening Alberta Securities Laws](http://www.mondovisione.com/media-and-resources/news/lberta-securities-commission-permanently-bans-raymond-cawaling-and-rtax-financia-2025714/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Digital Euro: Legal Tender In The Digital Age - Introductory Statement By Piero Cipollone, Member Of The Executive Board Of The ECB, At The Committee On Economic And Monetary Affairs Of The European Parliament](http://www.mondovisione.com/media-and-resources/news/the-digital-euro-legal-tender-in-the-digital-age-introductory-statement-by-pi-2025714/)
+Append: [Remarks By Commissioner Dombrovskis On The Digital Euro Before The European Parliament's Committee On Economic And Monetary Affairs](http://www.mondovisione.com/media-and-resources/news/remarks-by-commissioner-dombrovskis-on-the-digital-euro-before-the-european-parl-2025714/)
+append_entries: 6
+Finish: 2025-07-14 18:37:26.543274
