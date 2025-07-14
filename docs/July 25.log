@@ -1115,3 +1115,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ETFGI Reports That The ETFs Industry In Europe Reach A New Record For Assets Under Management And Net Inflows At The End Of The First Half Of 2025](http://www.mondovisione.com/media-and-resources/news/etfgi-reports-that-the-etfs-industry-in-europe-reach-a-new-record-for-assets-und-2025714/)
 append_entries: 3
 Finish: 2025-07-14 12:52:35.269339
+------------------------------------------------------
+Started: 2025-07-14 14:25:51.111390
+Existing_entries: 161
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-07-14 14:25:52.335464
