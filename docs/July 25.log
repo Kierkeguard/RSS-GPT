@@ -1121,3 +1121,21 @@ Existing_entries: 161
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-07-14 14:25:52.335464
+------------------------------------------------------
+Started: 2025-07-14 16:32:32.261719
+Existing_entries: 161
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ETFGI Reports That Assets Invested In The ETFs Industry In The United States Reached A New Record Of US$11.54 Trillion At The End Of June](http://www.mondovisione.com/media-and-resources/news/etfgi-reports-that-assets-invested-in-the-etfs-industry-in-the-united-states-rea-2025714/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [XTransfer: Pioneering AI-Driven Transformation In B2B Foreign Trade Payment](http://www.mondovisione.com/media-and-resources/news/xtransfer-pioneering-ai-driven-transformation-in-b2b-foreign-trade-payment-2025714/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Clover Enhances All-In-One Platform With Homebase, Empowering Small Businesses With Integrated Workforce Management](http://www.mondovisione.com/media-and-resources/news/clover-enhances-all-in-one-platform-with-homebase-empowering-small-businesses-w-2025714/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [First Moore Global Thrive Index Shows Mid-Market Upbeat - 2,000-Plus Business Leaders Surveyed Show Resounding Optimism On Economic Prospects](http://www.mondovisione.com/media-and-resources/news/first-moore-global-thrive-index-shows-mid-market-upbeat-2000-plus-business-le-2025714/)
+append_entries: 4
+Finish: 2025-07-14 16:32:33.546294
