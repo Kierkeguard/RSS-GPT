@@ -1100,3 +1100,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [FSB Roadmap For Addressing Financial Risks From Climate Change: 2025 Update](http://www.mondovisione.com/media-and-resources/news/fsb-roadmap-for-addressing-financial-risks-from-climate-change-2025-update-2025714/)
 append_entries: 2
 Finish: 2025-07-14 10:28:01.489387
+------------------------------------------------------
+Started: 2025-07-14 12:52:34.391010
+Existing_entries: 158
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Fiserv To Release Second Quarter Earnings Results On July 23, 2025](http://www.mondovisione.com/media-and-resources/news/fiserv-to-release-second-quarter-earnings-results-on-july-23-2025-2025714/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [AuditBoard And Deloitte Join Forces: New Alliance Offers Individual Support And Tailored GRC Solutions For Joint Clients](http://www.mondovisione.com/media-and-resources/news/auditboard-and-deloitte-join-forces-new-alliance-offers-individual-support-and-2025714/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ETFGI Reports That The ETFs Industry In Europe Reach A New Record For Assets Under Management And Net Inflows At The End Of The First Half Of 2025](http://www.mondovisione.com/media-and-resources/news/etfgi-reports-that-the-etfs-industry-in-europe-reach-a-new-record-for-assets-und-2025714/)
+append_entries: 3
+Finish: 2025-07-14 12:52:35.269339
