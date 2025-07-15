@@ -1322,3 +1322,12 @@ Append: [Authority For Anti-Money Laundering And Countering The Financing Of Ter
 Append: [ESAs Publish A Guide On DORA Oversight Activities](http://www.mondovisione.com/media-and-resources/news/esas-publish-a-guide-on-dora-oversight-activities-2025715/)
 append_entries: 7
 Finish: 2025-07-15 18:37:06.886294
+------------------------------------------------------
+Started: 2025-07-15 20:28:21.191486
+Existing_entries: 206
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Testimony Of Walt Lukke, President And CEO Of FIA, US Senate Committee On Agriculture, Nutrition And Forestry, Stakeholder Perspectives On Federal Oversight Of Digital Commodities, July 15, 2025](http://www.mondovisione.com/media-and-resources/news/testimony-of-walt-lukke-president-and-ceo-of-fia-us-senate-committee-on-agricu-2025715/)
+append_entries: 1
+Finish: 2025-07-15 20:28:22.304960
