@@ -1287,3 +1287,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [BioCatch Posts Record Q2, Surpassing $160 Million In ARR - Three Of The Four Largest U.S. Banks Now BioCatch Customers, As World’s Leading Banks Continue To Recognize Behavior As Foundational To Financial Crime Prevention](http://www.mondovisione.com/media-and-resources/news/biocatch-posts-record-q2-surpassing-160-million-in-arr-three-of-the-four-lar-2025715/)
 append_entries: 2
 Finish: 2025-07-15 14:23:51.443357
+------------------------------------------------------
+Started: 2025-07-15 16:32:36.633054
+Existing_entries: 197
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SET To Escalate Market Surveillance Measure On DV8 To Level 2, Additionally Implementing Net Settlement Prohibition And Auction Matching Method](http://www.mondovisione.com/media-and-resources/news/set-to-escalate-market-surveillance-measure-on-dv8-to-level-2-additionally-impl-2025715/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tehran Securities Exchange Holds Annual General Assembly](http://www.mondovisione.com/media-and-resources/news/tehran-securities-exchange-holds-annual-general-assembly-2025715/)
+append_entries: 2
+Finish: 2025-07-15 16:32:38.565862
