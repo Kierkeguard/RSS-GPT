@@ -1331,3 +1331,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Testimony Of Walt Lukke, President And CEO Of FIA, US Senate Committee On Agriculture, Nutrition And Forestry, Stakeholder Perspectives On Federal Oversight Of Digital Commodities, July 15, 2025](http://www.mondovisione.com/media-and-resources/news/testimony-of-walt-lukke-president-and-ceo-of-fia-us-senate-committee-on-agricu-2025715/)
 append_entries: 1
 Finish: 2025-07-15 20:28:22.304960
+------------------------------------------------------
+Started: 2025-07-15 22:25:00.100562
+Existing_entries: 207
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-07-15 22:25:01.033774
