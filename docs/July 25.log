@@ -1218,3 +1218,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Office Of The Comptroller Of The US Currency Advances Key Priorities Under Acting Comptroller Rodney E. Hood](http://www.mondovisione.com/media-and-resources/news/office-of-the-comptroller-of-the-us-currency-advances-key-priorities-under-actin-2025715/)
 append_entries: 4
 Finish: 2025-07-15 06:37:57.500111
+------------------------------------------------------
+Started: 2025-07-15 08:34:02.997074
+Existing_entries: 180
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euroclear To Deliver Post-Trade Infrastructure Connecting All 27 EU Markets In All Financial Asset Classes](http://www.mondovisione.com/media-and-resources/news/euroclear-to-deliver-post-trade-infrastructure-connecting-all-27-eu-markets-in-a-2025715/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Rydoo Acquires Semine, A European Leader In Accounts Payable Automation](http://www.mondovisione.com/media-and-resources/news/rydoo-acquires-semine-a-european-leader-in-accounts-payable-automation-2025715/)
+append_entries: 2
+Finish: 2025-07-15 08:34:04.294472
