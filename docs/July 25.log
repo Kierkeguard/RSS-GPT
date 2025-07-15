@@ -1200,3 +1200,21 @@ Existing_entries: 176
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-07-15 04:41:55.053082
+------------------------------------------------------
+Started: 2025-07-15 06:37:56.564852
+Existing_entries: 176
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIGMA AI Closes On Investment From Trading Technologies To Build TT AI And Innovation Hub](http://www.mondovisione.com/media-and-resources/news/sigma-ai-closes-on-investment-from-trading-technologies-to-build-tt-ai-and-innov-2025715/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SGX Securities Welcomes China Medical System Holdings Limited To Mainboard](http://www.mondovisione.com/media-and-resources/news/sgx-securities-welcomes-china-medical-system-holdings-limited-to-mainboard-2025715/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Shenzhen Stock Exchange Market Bulletin July 11, 2025, Issue 20](http://www.mondovisione.com/media-and-resources/news/shenzhen-stock-exchange-market-bulletin-july-11-2025-issue-20-2025715/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Office Of The Comptroller Of The US Currency Advances Key Priorities Under Acting Comptroller Rodney E. Hood](http://www.mondovisione.com/media-and-resources/news/office-of-the-comptroller-of-the-us-currency-advances-key-priorities-under-actin-2025715/)
+append_entries: 4
+Finish: 2025-07-15 06:37:57.500111
