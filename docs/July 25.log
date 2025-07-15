@@ -1275,3 +1275,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ETFGI Reports Assets Invested In The ETFs Industry In Asia Pacific (Ex-Japan) Reached A New Record Of US$1.37 Trillion At The End Of First Half Of 2025](http://www.mondovisione.com/media-and-resources/news/etfgi-reports-assets-invested-in-the-etfs-industry-in-asia-pacific-ex-japan-re-2025715/)
 append_entries: 5
 Finish: 2025-07-15 12:53:06.076594
+------------------------------------------------------
+Started: 2025-07-15 14:23:49.960386
+Existing_entries: 195
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Welcoming Remarks, Federal Reserve Vice Chair For Supervision Michelle W. Bowman, At "Unleashing A Financially Inclusive Future," The Second Annual Financial Inclusion Conference Hosted By The Federal Reserve Board, Washington, D.C. (Via Prerecorded Video)](http://www.mondovisione.com/media-and-resources/news/welcoming-remarks-federal-reserve-vice-chair-for-supervision-michelle-w-bowman-2025715/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BioCatch Posts Record Q2, Surpassing $160 Million In ARR - Three Of The Four Largest U.S. Banks Now BioCatch Customers, As World’s Leading Banks Continue To Recognize Behavior As Foundational To Financial Crime Prevention](http://www.mondovisione.com/media-and-resources/news/biocatch-posts-record-q2-surpassing-160-million-in-arr-three-of-the-four-lar-2025715/)
+append_entries: 2
+Finish: 2025-07-15 14:23:51.443357
