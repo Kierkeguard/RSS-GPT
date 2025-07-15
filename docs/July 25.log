@@ -1299,3 +1299,26 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Tehran Securities Exchange Holds Annual General Assembly](http://www.mondovisione.com/media-and-resources/news/tehran-securities-exchange-holds-annual-general-assembly-2025715/)
 append_entries: 2
 Finish: 2025-07-15 16:32:38.565862
+------------------------------------------------------
+Started: 2025-07-15 18:37:05.944252
+Existing_entries: 199
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Expanding Financial Inclusion, Federal Reserve Governor Michael S. Barr, At "Unleashing A Financially Inclusive Future," The Second Annual Financial Inclusion Conference Hosted By The Federal Reserve Board, Washington, D.C.](http://www.mondovisione.com/media-and-resources/news/expanding-financial-inclusion-federal-reserve-governor-michael-s-barr-at-unl-2025715/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Canadian Securities Administrators Consults On Proposed Process Refinements And Oversight For A Dispute Resolution Service For Investor Complaints](http://www.mondovisione.com/media-and-resources/news/canadian-securities-administrators-consults-on-proposed-process-refinements-and-2025715/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CalPERS Announces New Pharmacy Benefits Contract With CVS Caremark To Foster Affordability And Improve Quality - New Agreement Aims To Address Rising Prescription Drug Costs While Improving Quality For CalPERS Members](http://www.mondovisione.com/media-and-resources/news/calpers-announces-new-pharmacy-benefits-contract-with-cvs-caremark-to-foster-aff-2025715/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CalPERS Announces Health Plan Premiums For 2026](http://www.mondovisione.com/media-and-resources/news/calpers-announces-health-plan-premiums-for-2026-2025715/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bank Of England: Minutes Of The London FXJSC Main Committee Meeting - 13 March 2025](http://www.mondovisione.com/media-and-resources/news/bank-of-england-minutes-of-the-london-fxjsc-main-committee-meeting-13-march-2-2025715/)
+Append: [Authority For Anti-Money Laundering And Countering The Financing Of Terrorism Expects High Standards Against Financial Crime In Crypto Sector](http://www.mondovisione.com/media-and-resources/news/authority-for-anti-money-laundering-and-countering-the-financing-of-terrorism-ex-2025715/)
+Append: [ESAs Publish A Guide On DORA Oversight Activities](http://www.mondovisione.com/media-and-resources/news/esas-publish-a-guide-on-dora-oversight-activities-2025715/)
+append_entries: 7
+Finish: 2025-07-15 18:37:06.886294
