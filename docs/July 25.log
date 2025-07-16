@@ -1441,3 +1441,25 @@ Existing_entries: 229
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-07-16 16:33:11.132614
+------------------------------------------------------
+Started: 2025-07-16 18:36:31.789665
+Existing_entries: 229
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ECB Publishes Third Progress Report On The Digital Euro Preparation Phase](http://www.mondovisione.com/media-and-resources/news/ecb-publishes-third-progress-report-on-the-digital-euro-preparation-phase-2025716/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority: Overseas Recognition Regimes Memorandum Of Understanding](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-overseas-recognition-regimes-memorandum-of-under-2025716/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [EBA Publishes Handbook On Simulation Exercises For Resolution Authorities](http://www.mondovisione.com/media-and-resources/news/eba-publishes-handbook-on-simulation-exercises-for-resolution-authorities-2025716/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tecno Lists On Euronext](http://www.mondovisione.com/media-and-resources/news/tecno-lists-on-euronext-2025716/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Getting Liquidity Where It Is Needed − Speech By Nathanaël Benjamin, Bank Of England Executive Director, Financial Stability Strategy And Risk, Given At OMFIF Economic And Monetary Policy Institute](http://www.mondovisione.com/media-and-resources/news/getting-liquidity-where-it-is-needed-speech-by-nathanal-benjamin-bank-of-eng-2025716/)
+Append: [Euronext Lisbon Welcomes New Treasury Bonds Issue Dedicated To Retail Investors](http://www.mondovisione.com/media-and-resources/news/euronext-lisbon-welcomes-new-treasury-bonds-issue-dedicated-to-retail-investors-2025716/)
+append_entries: 6
+Finish: 2025-07-16 18:36:32.800165
