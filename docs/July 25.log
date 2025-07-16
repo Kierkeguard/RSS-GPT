@@ -1478,3 +1478,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ISDA Launches Notices Hub And Protocol To Streamline Delivery And Receipt Of Critical Notices](http://www.mondovisione.com/media-and-resources/news/isda-launches-notices-hub-and-protocol-to-streamline-delivery-and-receipt-of-cri-2025716/)
 append_entries: 3
 Finish: 2025-07-16 20:28:10.448348
+------------------------------------------------------
+Started: 2025-07-16 22:24:50.878343
+Existing_entries: 238
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Acting CFTC Chairman Caroline D. Pham Lauds Actions To Clarify Whistleblower Protections For CFTC Staff](http://www.mondovisione.com/media-and-resources/news/acting-cftc-chairman-caroline-d-pham-lauds-actions-to-clarify-whistleblower-pro-2025716/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Acting CFTC Chairman Pham To Speak At 10th Christie’s Art+Tech Summit](http://www.mondovisione.com/media-and-resources/news/acting-cftc-chairman-pham-to-speak-at-10th-christies-arttech-summit-2025716/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Interactive Brokers Unveils Investment Themes Tool To Turn Market Trends Into Smarter Trades - New Discovery Feature Helps Investors Quickly Explore Market Trends, Compare Companies, And Find Opportunities](http://www.mondovisione.com/media-and-resources/news/interactive-brokers-unveils-investment-themes-tool-to-turn-market-trends-into-sm-2025716/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New CISI Financial Services Learning Alliance Aimed At Boosting Growth In The UK Economy For The Next Generation](http://www.mondovisione.com/media-and-resources/news/new-cisi-financial-services-learning-alliance-aimed-at-boosting-growth-in-the-uk-2025716/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Booms And Busts And the Regulatory Cycle, Federal Reserve Governor Michael S. Barr, At The Brookings Institution, Washington, D.C.](http://www.mondovisione.com/media-and-resources/news/booms-and-busts-and-the-regulatory-cycle-federal-reserve-governor-michael-s-ba-2025716/)
+append_entries: 5
+Finish: 2025-07-16 22:24:52.109855
