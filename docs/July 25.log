@@ -1463,3 +1463,18 @@ Append: [Getting Liquidity Where It Is Needed − Speech By Nathanaël Benjamin,
 Append: [Euronext Lisbon Welcomes New Treasury Bonds Issue Dedicated To Retail Investors](http://www.mondovisione.com/media-and-resources/news/euronext-lisbon-welcomes-new-treasury-bonds-issue-dedicated-to-retail-investors-2025716/)
 append_entries: 6
 Finish: 2025-07-16 18:36:32.800165
+------------------------------------------------------
+Started: 2025-07-16 20:28:09.398020
+Existing_entries: 235
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Federal Bank Regulatory Agencies Issue Joint Proposal To Rescind 2023 Community Reinvestment Act Final Rule](http://www.mondovisione.com/media-and-resources/news/us-federal-bank-regulatory-agencies-issue-joint-proposal-to-rescind-2023-communi-2025716/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FINRA Foundation Releases Sixth Wave Of The National Financial Capability Study - Findings Reveal Decline In U.S. Adults’ Ability To Make Ends Meet And Save For Emergencies, More Households Strained By Increased Costs, And The Struggle Of The Middle-Income Group - Also, 20% Of U.S. Adults Interested In Getting Financial Advice From Artificial Intelligence](http://www.mondovisione.com/media-and-resources/news/finra-foundation-releases-sixth-wave-of-the-national-financial-capability-study-2025716/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ISDA Launches Notices Hub And Protocol To Streamline Delivery And Receipt Of Critical Notices](http://www.mondovisione.com/media-and-resources/news/isda-launches-notices-hub-and-protocol-to-streamline-delivery-and-receipt-of-cri-2025716/)
+append_entries: 3
+Finish: 2025-07-16 20:28:10.448348
