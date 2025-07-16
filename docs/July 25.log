@@ -1355,3 +1355,21 @@ Existing_entries: 207
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-07-16 06:37:47.239549
+------------------------------------------------------
+Started: 2025-07-16 08:33:57.404287
+Existing_entries: 207
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Hong Kong’s AUM Grew 13% With 81% Increase In Fund Inflows: Hong Kong Securities And Futures Commission's (2024 Survey On Asset And Wealth Management Business](http://www.mondovisione.com/media-and-resources/news/hong-kongs-aum-grew-13-with-81-increase-in-fund-inflows-hong-kong-securities-2025716/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Jonathan V. Gould Takes Office As The 32nd Comptroller Of The US Currency](http://www.mondovisione.com/media-and-resources/news/jonathan-v-gould-takes-office-as-the-32nd-comptroller-of-the-us-currency-2025716/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIFMA Testimony Before The House Financial Services Committee Hearing “Dodd-Frank Turns 15: Lessons Learned And The Road Ahead”](http://www.mondovisione.com/media-and-resources/news/sifma-testimony-before-the-house-financial-services-committee-hearing-dodd-fran-2025716/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Statement Regarding Tenure Of Erica Williams At The PCAOB](http://www.mondovisione.com/media-and-resources/news/sec-statement-regarding-tenure-of-erica-williams-at-the-pcaob-2025716/)
+append_entries: 4
+Finish: 2025-07-16 08:33:58.711091
