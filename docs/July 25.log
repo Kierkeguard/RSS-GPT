@@ -1532,3 +1532,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Old Flames, SEC Commissioner Hester M. Peirce, London, England, July 16, 2025](http://www.mondovisione.com/media-and-resources/news/old-flames-sec-commissioner-hester-m-peirce-london-england-july-16-2025-2025717/)
 append_entries: 5
 Finish: 2025-07-17 06:37:29.945579
+------------------------------------------------------
+Started: 2025-07-17 08:34:06.252834
+Existing_entries: 248
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Derivatives Service Bureau Announces Key Initiatives For 2026 In Industry Consultation Final Report - The Report Outlines Industry Feedback And Next Steps On Proposals For 2026 Focusing On The Principles Of Fair Allocation Of Costs And Data Access](http://www.mondovisione.com/media-and-resources/news/derivatives-service-bureau-announces-key-initiatives-for-2026-in-industry-consul-2025717/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [PNGX Welcomes Papua New Guinea Ministerial Support For The Public Capital Market](http://www.mondovisione.com/media-and-resources/news/pngx-welcomes-papua-new-guinea-ministerial-support-for-the-public-capital-market-2025717/)
+append_entries: 2
+Finish: 2025-07-17 08:34:07.068943
