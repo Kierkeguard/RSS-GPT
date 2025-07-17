@@ -1553,3 +1553,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [An Open Letter From The World Federation Of Exchanges - Revitalising Public Markets: A Global Imperative For Growth](http://www.mondovisione.com/media-and-resources/news/an-open-letter-from-the-world-federation-of-exchanges-revitalising-public-mark-2025717/)
 append_entries: 1
 Finish: 2025-07-17 10:28:31.028617
+------------------------------------------------------
+Started: 2025-07-17 12:52:49.830309
+Existing_entries: 251
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FESE: Launch Of The European Small And Mid-Cap Awards 2025](http://www.mondovisione.com/media-and-resources/news/fese-launch-of-the-european-small-and-mid-cap-awards-2025-2025717/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority: Seven Crypto ATMs Seized And Two Arrested On Suspicion Of Running Illegal Cryptoasset Exchange](http://www.mondovisione.com/media-and-resources/news/seven-crypto-atms-seized-and-two-arrested-on-suspicion-of-running-illegal-crypto-2025717/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Initial Access Document On BME Scaleup From Inmobiliaria Marbella SOCIMI](http://www.mondovisione.com/media-and-resources/news/new-initial-access-document-on-bme-scaleup-from-inmobiliaria-marbella-socimi-2025717/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Liquidity Program For EURO STOXX 50 Index Options Off To A Flying Start](http://www.mondovisione.com/media-and-resources/news/new-liquidity-program-for-euro-stoxx-50-index-options-off-to-a-flying-start-2025717/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BME: The Companies Of The IBEX 35® Reduce Their Treasury Stock After Increasing Their Amortizations By 20.4% To A New Record](http://www.mondovisione.com/media-and-resources/news/bme-the-companies-of-the-ibex-35-reduce-their-treasury-stock-after-increasing-2025717/)
+append_entries: 5
+Finish: 2025-07-17 12:52:50.687104
