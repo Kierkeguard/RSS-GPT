@@ -1544,3 +1544,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [PNGX Welcomes Papua New Guinea Ministerial Support For The Public Capital Market](http://www.mondovisione.com/media-and-resources/news/pngx-welcomes-papua-new-guinea-ministerial-support-for-the-public-capital-market-2025717/)
 append_entries: 2
 Finish: 2025-07-17 08:34:07.068943
+------------------------------------------------------
+Started: 2025-07-17 10:28:30.065566
+Existing_entries: 250
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [An Open Letter From The World Federation Of Exchanges - Revitalising Public Markets: A Global Imperative For Growth](http://www.mondovisione.com/media-and-resources/news/an-open-letter-from-the-world-federation-of-exchanges-revitalising-public-mark-2025717/)
+append_entries: 1
+Finish: 2025-07-17 10:28:31.028617
