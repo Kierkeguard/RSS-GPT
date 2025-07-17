@@ -1622,3 +1622,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CCP Global Clearing Report 2024 Published](http://www.mondovisione.com/media-and-resources/news/ccp-global-clearing-report-2024-published-2025717/)
 append_entries: 2
 Finish: 2025-07-17 20:27:46.157941
+------------------------------------------------------
+Started: 2025-07-17 22:24:38.808138
+Existing_entries: 264
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MarketAxess To Host Conference Call Announcing Second Quarter 2025 Financial Results On Wednesday, August 6, 2025](http://www.mondovisione.com/media-and-resources/news/marketaxess-to-host-conference-call-announcing-second-quarter-2025-financial-res-2025717/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Statement On Passage Of The GENIUS Act By The House Of Representatives, Paul S. Atkins, SEC Chairman, July 17, 2025](http://www.mondovisione.com/media-and-resources/news/statement-on-passage-of-the-genius-act-by-the-house-of-representatives-paul-s-2025717/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [EBA Publishes Handbook On Simulation Exercises For Resolution Authorities](http://www.mondovisione.com/media-and-resources/news/eba-publishes-handbook-on-simulation-exercises-for-resolution-authorities-2025717/)
+append_entries: 3
+Finish: 2025-07-17 22:24:40.128580
