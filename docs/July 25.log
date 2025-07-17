@@ -1574,3 +1574,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [BME: The Companies Of The IBEX 35® Reduce Their Treasury Stock After Increasing Their Amortizations By 20.4% To A New Record](http://www.mondovisione.com/media-and-resources/news/bme-the-companies-of-the-ibex-35-reduce-their-treasury-stock-after-increasing-2025717/)
 append_entries: 5
 Finish: 2025-07-17 12:52:50.687104
+------------------------------------------------------
+Started: 2025-07-17 14:23:42.191009
+Existing_entries: 256
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-07-17 14:23:43.418816
