@@ -1580,3 +1580,15 @@ Existing_entries: 256
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-07-17 14:23:43.418816
+------------------------------------------------------
+Started: 2025-07-17 16:32:41.629933
+Existing_entries: 256
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [A View Of The Housing Market And U.S. Economic Outlook, Federal Reserve Governor Adriana D. Kugler, At The Housing Partnership Network Symposium, Washington, D.C.](http://www.mondovisione.com/media-and-resources/news/a-view-of-the-housing-market-and-us-economic-outlook-federal-reserve-governor-2025717/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Amman Stock Exchange Weekly Summary](http://www.mondovisione.com/media-and-resources/news/mman-stock-exchange-weekly-summary-2025717/)
+append_entries: 2
+Finish: 2025-07-17 16:32:42.641003
