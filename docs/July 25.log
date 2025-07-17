@@ -1499,3 +1499,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Booms And Busts And the Regulatory Cycle, Federal Reserve Governor Michael S. Barr, At The Brookings Institution, Washington, D.C.](http://www.mondovisione.com/media-and-resources/news/booms-and-busts-and-the-regulatory-cycle-federal-reserve-governor-michael-s-ba-2025716/)
 append_entries: 5
 Finish: 2025-07-16 22:24:52.109855
+------------------------------------------------------
+Started: 2025-07-17 02:05:36.135012
+Existing_entries: 243
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-07-17 02:05:37.258760
