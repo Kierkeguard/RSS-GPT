@@ -1592,3 +1592,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Amman Stock Exchange Weekly Summary](http://www.mondovisione.com/media-and-resources/news/mman-stock-exchange-weekly-summary-2025717/)
 append_entries: 2
 Finish: 2025-07-17 16:32:42.641003
+------------------------------------------------------
+Started: 2025-07-17 18:37:03.608230
+Existing_entries: 258
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [AI: A Fed Policymaker's View, Federal Reserve Governor Lisa D. Cook, At The National Bureau Of Economic Research, Summer Institute 2025: Digital Economics And Artificial Intelligence, Cambridge, Massachusetts](http://www.mondovisione.com/media-and-resources/news/ai-a-fed-policymakers-view-federal-reserve-governor-lisa-d-cook-at-the-nati-2025717/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Office Of The Comptroller Of The US Currency Announces Enforcement Actions For July 2025](http://www.mondovisione.com/media-and-resources/news/office-of-the-comptroller-of-the-us-currency-announces-enforcement-actions-for-j-2025717/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Alberta Securities Commission Alleges Breach Of Alberta Securities Laws By Crypto Asset Trading Platform Catalx CTS Ltd. And Its CEO And CFO](http://www.mondovisione.com/media-and-resources/news/alberta-securities-commission-alleges-breach-of-alberta-securities-laws-by-crypt-2025717/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Marjorie Ngwenya Reappointed To The UK Prudential Regulation Committee](http://www.mondovisione.com/media-and-resources/news/marjorie-ngwenya-reappointed-to-the-uk-prudential-regulation-committee-2025717/)
+append_entries: 4
+Finish: 2025-07-17 18:37:04.585075
