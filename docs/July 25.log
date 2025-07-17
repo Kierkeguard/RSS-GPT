@@ -1610,3 +1610,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Marjorie Ngwenya Reappointed To The UK Prudential Regulation Committee](http://www.mondovisione.com/media-and-resources/news/marjorie-ngwenya-reappointed-to-the-uk-prudential-regulation-committee-2025717/)
 append_entries: 4
 Finish: 2025-07-17 18:37:04.585075
+------------------------------------------------------
+Started: 2025-07-17 20:27:45.223710
+Existing_entries: 262
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [With Intelligence Quarterly Hedge Fund Data Tracker – Inflows Top $30bn In 1st Half](http://www.mondovisione.com/media-and-resources/news/with-intelligence-quarterly-hedge-fund-data-tracker-inflows-top-30bn-in-1st-h-2025717/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CCP Global Clearing Report 2024 Published](http://www.mondovisione.com/media-and-resources/news/ccp-global-clearing-report-2024-published-2025717/)
+append_entries: 2
+Finish: 2025-07-17 20:27:46.157941
