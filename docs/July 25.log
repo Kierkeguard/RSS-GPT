@@ -1511,3 +1511,24 @@ Existing_entries: 243
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-07-17 04:40:48.960708
+------------------------------------------------------
+Started: 2025-07-17 06:37:28.831368
+Existing_entries: 243
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [A Global Endorsement Of Emirati Regulatory Leadership: Waleed Al Awadhi Elected Chair of IOSCO’s Africa And Middle East Regional Committee](http://www.mondovisione.com/media-and-resources/news/a-global-endorsement-of-emirati-regulatory-leadership-waleed-al-awadhi-elected-2025717/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Cancels Seven Australian Credit Licences And Suspends One Australian Credit Licence](http://www.mondovisione.com/media-and-resources/news/asic-cancels-seven-australian-credit-licences-and-suspends-one-australian-credit-2025717/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Japan Securities And Exchange Surveillance Commission: Filing A Criminal Charge Of Insider Trading Of istyle Inc. Shares](http://www.mondovisione.com/media-and-resources/news/japan-securities-and-exchange-surveillance-commission-filing-a-criminal-charge-2025717/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Pursues Licensees After Financial Advisers Gave Advice While Unregistered](http://www.mondovisione.com/media-and-resources/news/asic-pursues-licensees-after-financial-advisers-gave-advice-while-unregistered-2025717/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Old Flames, SEC Commissioner Hester M. Peirce, London, England, July 16, 2025](http://www.mondovisione.com/media-and-resources/news/old-flames-sec-commissioner-hester-m-peirce-london-england-july-16-2025-2025717/)
+append_entries: 5
+Finish: 2025-07-17 06:37:29.945579
