@@ -1743,3 +1743,21 @@ Existing_entries: 285
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-07-18 20:27:17.831778
+------------------------------------------------------
+Started: 2025-07-18 22:24:36.087962
+Existing_entries: 285
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Smart Start: Statement On The GENIUS Act, SEC Commissioner Hester M. Peirce, July 18, 2025](http://www.mondovisione.com/media-and-resources/news/smart-start-statement-on-the-genius-act-sec-commissioner-hester-m-peirce-jul-2025718/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Statement On President Trump Signing The GENIUS Act Into Law, Paul S. Atkins, SEC Chairman, July 18, 2025](http://www.mondovisione.com/media-and-resources/news/statement-on-president-trump-signing-the-genius-act-into-law-paul-s-atkins-se-2025718/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Commitments Of Traders Reports Update](http://www.mondovisione.com/media-and-resources/news/cftc-commitments-of-traders-reports-update-2025718/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Commissioner Johnson Hosted The Regulators’ Roundtable: Financial Markets Innovation And Supervision Of Emergent Technology In London](http://www.mondovisione.com/media-and-resources/news/cftc-commissioner-johnson-hosted-the-regulators-roundtable-financial-markets-i-2025718/)
+append_entries: 4
+Finish: 2025-07-18 22:24:37.191144
