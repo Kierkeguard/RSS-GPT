@@ -1697,3 +1697,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Malawi Stock Exchange Weekly Summary Report 18 July 2025](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-18-july-2025-2025718/)
 append_entries: 1
 Finish: 2025-07-18 14:25:06.915347
+------------------------------------------------------
+Started: 2025-07-18 16:32:57.181760
+Existing_entries: 273
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Trading Technologies Wins Waters Rankings Award For Best Algorithmic Trading Provider For Third Consecutive Uear](http://www.mondovisione.com/media-and-resources/news/trading-technologies-wins-waters-rankings-award-for-best-algorithmic-trading-pro-2025718/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFFEX: Notice On Listing Of New Equity Index Futures And Options Contracts](http://www.mondovisione.com/media-and-resources/news/cffex-notice-on-listing-of-new-equity-index-futures-and-options-contracts-2025718/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFFEX: Notice On Delivery Of Equity Index Futures And Options Contracts](http://www.mondovisione.com/media-and-resources/news/cffex-notice-on-delivery-of-equity-index-futures-and-options-contracts-2025718/)
+append_entries: 3
+Finish: 2025-07-18 16:32:58.498813
