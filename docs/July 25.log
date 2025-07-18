@@ -1679,3 +1679,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Euroclear Reports Robust H1 2025 Results](http://www.mondovisione.com/media-and-resources/news/euroclear-reports-robust-h1-2025-results-2025718/)
 append_entries: 2
 Finish: 2025-07-18 10:27:39.455400
+------------------------------------------------------
+Started: 2025-07-18 12:54:09.036445
+Existing_entries: 271
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority: Protections To Help Buy Now Pay Later Borrowers Navigate Their Financial Lives](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-protections-to-help-buy-now-pay-later-borrowers-2025718/)
+append_entries: 1
+Finish: 2025-07-18 12:54:10.256948
