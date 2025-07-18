@@ -1661,3 +1661,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [The Case For Cutting Now, Federal Reserve Governor Christopher J. Waller, At The Money Marketeers Of New York University, New York, New York](http://www.mondovisione.com/media-and-resources/news/the-case-for-cutting-now-federal-reserve-governor-christopher-j-waller-at-the-2025718/)
 append_entries: 2
 Finish: 2025-07-18 06:37:21.892806
+------------------------------------------------------
+Started: 2025-07-18 08:33:44.900153
+Existing_entries: 269
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-07-18 08:33:46.296146
