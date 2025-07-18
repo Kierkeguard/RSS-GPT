@@ -1667,3 +1667,15 @@ Existing_entries: 269
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-07-18 08:33:46.296146
+------------------------------------------------------
+Started: 2025-07-18 10:27:38.186853
+Existing_entries: 269
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER Reports On Gas Developments And On Energy Retail Markets - LNG Surge And Storage Recovery Improve Europe’s Short-Term Gas Outlook](http://www.mondovisione.com/media-and-resources/news/acer-reports-on-gas-developments-and-on-energy-retail-markets-lng-surge-and-st-2025718/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euroclear Reports Robust H1 2025 Results](http://www.mondovisione.com/media-and-resources/news/euroclear-reports-robust-h1-2025-results-2025718/)
+append_entries: 2
+Finish: 2025-07-18 10:27:39.455400
