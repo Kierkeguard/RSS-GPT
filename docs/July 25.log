@@ -1794,3 +1794,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Comptroller Of The US Currency Issues Statement On Enactment Of GENIUS Act](http://www.mondovisione.com/media-and-resources/news/comptroller-of-the-us-currency-issues-statement-on-enactment-of-genius-act-2025719/)
 append_entries: 3
 Finish: 2025-07-19 08:30:49.903482
+------------------------------------------------------
+Started: 2025-07-19 10:26:03.678860
+Existing_entries: 292
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-07-19 10:26:04.505609
