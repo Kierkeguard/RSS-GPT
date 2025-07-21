@@ -1950,3 +1950,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [The Association Of National Numbering Agencies (ANNA) Wins ‘Best Reference Data Provider’ At The WatersTechnology Rankings Awards 2025](http://www.mondovisione.com/media-and-resources/news/the-association-of-national-numbering-agencies-anna-wins-best-reference-data-2025721/)
 append_entries: 2
 Finish: 2025-07-21 10:28:45.455451
+------------------------------------------------------
+Started: 2025-07-21 12:54:23.202069
+Existing_entries: 298
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Verafin Announces Launch Of Its Agentic AI Workforce, Delivering A Step Change In AML Compliance Efficiency - Suite Of Digital Workers Will Automate Resource-Intensive Workflows, Empowering Banks To More Effectively Fight Financial Crime](http://www.mondovisione.com/media-and-resources/news/nasdaq-verafin-announces-launch-of-its-agentic-ai-workforce-delivering-a-step-c-2025721/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESAs Publish Guide On DORA Oversight Activities](http://www.mondovisione.com/media-and-resources/news/esas-publish-guide-on-dora-oversight-activities-2025721/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bank Of England And UK Financial Conduct Authority – Memorandum Of Understanding On The Supervision Of Financial Market Infrastructure - Joint Statement From The Bank Of England And Financial Conduct Authority](http://www.mondovisione.com/media-and-resources/news/bank-of-england-and-uk-financial-conduct-authority-memorandum-of-understanding-2025721/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Thomson Reuters Corp To Join The Nasdaq-100 Index® Beginning July 28, 2025](http://www.mondovisione.com/media-and-resources/news/thomson-reuters-corp-to-join-the-nasdaq-100-index-beginning-july-28-2025-2025721/)
+append_entries: 4
+Finish: 2025-07-21 12:54:24.279919
