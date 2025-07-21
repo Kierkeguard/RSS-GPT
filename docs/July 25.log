@@ -2019,3 +2019,24 @@ Existing_entries: 311
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-07-21 20:28:01.346069
+------------------------------------------------------
+Started: 2025-07-21 22:25:13.687352
+Existing_entries: 311
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Helps People Navigate Their Financial Lives With Simplified Mortgage Rules](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-helps-people-navigate-their-financial-lives-with-2025721/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Announces George Botic To Serve As Acting Chair Of The Public Company Accounting Oversight Board](http://www.mondovisione.com/media-and-resources/news/sec-announces-george-botic-to-serve-as-acting-chair-of-the-public-company-accoun-2025721/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Announces Roundtable On Trade-Through Prohibitions](http://www.mondovisione.com/media-and-resources/news/sec-announces-roundtable-on-trade-through-prohibitions-2025721/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Transcend Appoints Sandeep Arora As Chief Operating Officer - Former Citi Executive Appointed To Accelerate Growth And Strategic Execution](http://www.mondovisione.com/media-and-resources/news/transcend-appoints-sandeep-arora-as-chief-operating-officer-former-citi-execut-2025721/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Swaps Report Update](http://www.mondovisione.com/media-and-resources/news/cftc-swaps-report-update-2025721/)
+append_entries: 5
+Finish: 2025-07-21 22:25:14.826121
