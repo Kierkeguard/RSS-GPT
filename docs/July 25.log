@@ -1917,3 +1917,12 @@ Existing_entries: 293
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-07-21 04:48:23.967980
+------------------------------------------------------
+Started: 2025-07-21 06:38:14.977518
+Existing_entries: 293
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Dubai Financial Market Regulated Short Sell – Weekly Summary - 14th July 2025 To 18th July 2025](http://www.mondovisione.com/media-and-resources/news/dubai-financial-market-regulated-short-sell-weekly-summary-14th-july-2025-to-2025721/)
+append_entries: 1
+Finish: 2025-07-21 06:38:16.106848
