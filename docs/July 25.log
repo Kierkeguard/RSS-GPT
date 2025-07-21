@@ -1974,3 +1974,21 @@ Existing_entries: 302
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-07-21 14:26:59.542831
+------------------------------------------------------
+Started: 2025-07-21 16:32:46.216341
+Existing_entries: 302
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Acting CFTC Chairman Pham To Speak At Out East Summit](http://www.mondovisione.com/media-and-resources/news/acting-cftc-chairman-pham-to-speak-at-out-east-summit-2025721/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Treasury Announces Postponement And Reopening Of Investment Adviser Rule](http://www.mondovisione.com/media-and-resources/news/us-treasury-announces-postponement-and-reopening-of-investment-adviser-rule-2025721/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Clover Expands Support To Healthcare With Announcement Of Clover PracticePay™ Powered By Rectangle Health, A Seamless, Modern Payment Solution For Providers - New Platform Designed To Promote Compliance With HIPAA Requirements And Address Rising Demand For Digital Payment Experiences For Healthcare Providers](http://www.mondovisione.com/media-and-resources/news/clover-expands-support-to-healthcare-with-announcement-of-clover-practicepay-po-2025721/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ICE Integrates NatureAlpha’s Nature And Biodiversity Data Into ICE’s Climate Analytics Platform](http://www.mondovisione.com/media-and-resources/news/ice-integrates-naturealphas-nature-and-biodiversity-data-into-ices-climate-ana-2025721/)
+append_entries: 4
+Finish: 2025-07-21 16:32:47.525116
