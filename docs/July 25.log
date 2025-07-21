@@ -1938,3 +1938,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Monetary Authority Of Singapore Appoints First Batch Of EQDP Asset Managers - Commits S$50 Million To Boost Equity Research And Product Listings - And Outlines Proposals To Enhance Investor Recourse](http://www.mondovisione.com/media-and-resources/news/monetary-authority-of-singapore-appoints-first-batch-of-eqdp-asset-managers-co-2025721/)
 append_entries: 2
 Finish: 2025-07-21 08:37:12.993833
+------------------------------------------------------
+Started: 2025-07-21 10:28:44.670643
+Existing_entries: 296
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Securities Commission Malaysia: MyCIF Surpasses RM1 Billion Co-Investment Mark, Driving MSME Growth In Malaysia](http://www.mondovisione.com/media-and-resources/news/securities-commission-malaysia-mycif-surpasses-rm1-billion-co-investment-mark-2025721/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Association Of National Numbering Agencies (ANNA) Wins ‘Best Reference Data Provider’ At The WatersTechnology Rankings Awards 2025](http://www.mondovisione.com/media-and-resources/news/the-association-of-national-numbering-agencies-anna-wins-best-reference-data-2025721/)
+append_entries: 2
+Finish: 2025-07-21 10:28:45.455451
