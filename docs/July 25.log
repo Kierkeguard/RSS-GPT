@@ -2150,3 +2150,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Statement On The Departure Of PCAOB Chair Erica Y. Williams, SEC Commissioner Caroline A. Crenshaw, July 22, 2025](http://www.mondovisione.com/media-and-resources/news/statement-on-the-departure-of-pcaob-chair-erica-y-williams-sec-commissioner-ca-2025722/)
 append_entries: 2
 Finish: 2025-07-22 16:33:44.203924
+------------------------------------------------------
+Started: 2025-07-22 18:37:11.356181
+Existing_entries: 340
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Remarks At The Small Business Capital Formation Advisory Committee Meeting, Paul S. Atkins, SEC Chairman, July 22, 2025](http://www.mondovisione.com/media-and-resources/news/remarks-at-the-small-business-capital-formation-advisory-committee-meeting-paul-2025722/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bank Of England: Results Of The Foreign Exchange Joint Standing Committee (FXJSC) Turnover Survey For April 2025](http://www.mondovisione.com/media-and-resources/news/bank-of-england-results-of-the-foreign-exchange-joint-standing-committee-fxjsc-2025722/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bank Of England And UK Financial Conduct Authority Update On Memorandum Of Understanding For Supervision Of Market Infrastructure](http://www.mondovisione.com/media-and-resources/news/bank-of-england-and-uk-financial-conduct-authority-update-on-memorandum-of-under-2025722/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Inmobiliaria Marbella SOCIMI Joins BME Scaleup On July 24](http://www.mondovisione.com/media-and-resources/news/inmobiliaria-marbella-socimi-joins-bme-scaleup-on-july-24-2025722/)
+append_entries: 4
+Finish: 2025-07-22 18:37:12.513509
