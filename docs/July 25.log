@@ -2052,3 +2052,12 @@ Existing_entries: 316
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-07-22 04:42:17.593365
+------------------------------------------------------
+Started: 2025-07-22 06:37:52.637907
+Existing_entries: 316
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Probes Debt Management And Credit Repair Services](http://www.mondovisione.com/media-and-resources/news/asic-probes-debt-management-and-credit-repair-services-2025722/)
+append_entries: 1
+Finish: 2025-07-22 06:37:53.692060
