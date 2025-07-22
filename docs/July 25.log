@@ -2126,3 +2126,15 @@ Append: [Energy Trading In Brazil Reaches R$49 Billion In 1S2025](http://www.mon
 Append: [Exchange Data International Releases Mid-Year 2025 IPO Market Report Highlighting Resurgence In Global Listings](http://www.mondovisione.com/media-and-resources/news/exchange-data-international-releases-mid-year-2025-ipo-market-report-highlightin-2025722/)
 append_entries: 6
 Finish: 2025-07-22 12:54:23.996893
+------------------------------------------------------
+Started: 2025-07-22 14:24:56.429420
+Existing_entries: 336
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Toronto Stock Exchange, TSX Venture Exchange, TSX Alpha Exchange And Montréal Exchange Closed For Civic Holiday](http://www.mondovisione.com/media-and-resources/news/toronto-stock-exchange-tsx-venture-exchange-tsx-alpha-exchange-and-montral-ex-2025722/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Opening Remarks, Federal Reserve Chair Jerome H. Powell, At The Integrated Review Of The Capital Framework For Large Banks Conference, Federal Reserve Board, Washington, D.C.](http://www.mondovisione.com/media-and-resources/news/opening-remarks-federal-reserve-chair-jerome-h-powell-at-the-integrated-revie-2025722/)
+append_entries: 2
+Finish: 2025-07-22 14:24:57.384222
