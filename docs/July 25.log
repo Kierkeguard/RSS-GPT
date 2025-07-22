@@ -2138,3 +2138,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Opening Remarks, Federal Reserve Chair Jerome H. Powell, At The Integrated Review Of The Capital Framework For Large Banks Conference, Federal Reserve Board, Washington, D.C.](http://www.mondovisione.com/media-and-resources/news/opening-remarks-federal-reserve-chair-jerome-h-powell-at-the-integrated-revie-2025722/)
 append_entries: 2
 Finish: 2025-07-22 14:24:57.384222
+------------------------------------------------------
+Started: 2025-07-22 16:33:43.364175
+Existing_entries: 338
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Finders/Seekers: Exemption Features, SEC Commissioner Hester M. Peirce, Washington D.C., July 22, 2025](http://www.mondovisione.com/media-and-resources/news/findersseekers-exemption-features-sec-commissioner-hester-m-peirce-washingt-2025722/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Statement On The Departure Of PCAOB Chair Erica Y. Williams, SEC Commissioner Caroline A. Crenshaw, July 22, 2025](http://www.mondovisione.com/media-and-resources/news/statement-on-the-departure-of-pcaob-chair-erica-y-williams-sec-commissioner-ca-2025722/)
+append_entries: 2
+Finish: 2025-07-22 16:33:44.203924
