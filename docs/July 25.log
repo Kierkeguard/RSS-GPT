@@ -2168,3 +2168,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Inmobiliaria Marbella SOCIMI Joins BME Scaleup On July 24](http://www.mondovisione.com/media-and-resources/news/inmobiliaria-marbella-socimi-joins-bme-scaleup-on-july-24-2025722/)
 append_entries: 4
 Finish: 2025-07-22 18:37:12.513509
+------------------------------------------------------
+Started: 2025-07-22 20:28:29.730138
+Existing_entries: 344
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group And Nasdaq Extend Exclusive Nasdaq-100 Futures License Through 2039](http://www.mondovisione.com/media-and-resources/news/cme-group-and-nasdaq-extend-exclusive-nasdaq-100-futures-license-through-2039-2025722/)
+append_entries: 1
+Finish: 2025-07-22 20:28:30.670214
