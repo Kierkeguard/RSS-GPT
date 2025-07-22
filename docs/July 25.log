@@ -2086,3 +2086,21 @@ Append: [NZX 2025 Interim Results Announcement Date](http://www.mondovisione.com
 Append: [US Treasury Secretary Scott Bessent Remarks At The Federal Reserve Capital Conference](http://www.mondovisione.com/media-and-resources/news/us-treasury-secretary-scott-bessent-remarks-at-the-federal-reserve-capital-confe-2025722/)
 append_entries: 9
 Finish: 2025-07-22 08:35:01.443002
+------------------------------------------------------
+Started: 2025-07-22 10:28:46.058469
+Existing_entries: 326
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ETFGI Reports That Assets Invested In The Actively Managed ETFs Listed Globally Reached A New Record Of US$1.48 Trillion At The End Of June](http://www.mondovisione.com/media-and-resources/news/etfgi-reports-that-assets-invested-in-the-actively-managed-etfs-listed-globally-2025722/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New WFE Research Reveals What Drives Sustainability Progress At Global Exchanges](http://www.mondovisione.com/media-and-resources/news/new-wfe-research-reveals-what-drives-sustainability-progress-at-global-exchanges-2025722/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CLS Unveils Redesigned CLSClearedFX Service; LCH First CCP To Go Live](http://www.mondovisione.com/media-and-resources/news/cls-unveils-redesigned-clsclearedfx-service-lch-first-ccp-to-go-live-2025722/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [GlobalData Announces Top M&A Financial And Legal Advisers In Financial Services Sector For H1 2025](http://www.mondovisione.com/media-and-resources/news/globaldata-announces-top-manda-financial-and-legal-advisers-in-financial-services-2025722/)
+append_entries: 4
+Finish: 2025-07-22 10:28:47.355356
