@@ -2222,3 +2222,27 @@ Existing_entries: 348
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-07-23 10:28:33.157621
+------------------------------------------------------
+Started: 2025-07-23 12:54:39.000122
+Existing_entries: 348
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Fiserv Announces Strategic Relationship With TD - Agreement Expands Fiserv’s Canadian Presence And Empowers Merchants With Clover](http://www.mondovisione.com/media-and-resources/news/fiserv-announces-strategic-relationship-with-td-agreement-expands-fiservs-can-2025723/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group Inc. Reports All-Time Record Revenue, Adjusted Operating Income, Adjusted Net Income And Adjusted Earnings Per Share For Q2 2025](http://www.mondovisione.com/media-and-resources/news/cme-group-inc-reports-all-time-record-revenue-adjusted-operating-income-adjus-2025723/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Two SET Governors Elected In The Meeting Of The SET Members](http://www.mondovisione.com/media-and-resources/news/two-set-governors-elected-in-the-meeting-of-the-set-members-2025723/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Fiserv Reports Second Quarter 2025 Results](http://www.mondovisione.com/media-and-resources/news/fiserv-reports-second-quarter-2025-results-2025723/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The EBA Publishes Report On Direct Provision Of Banking Services From Third Countries](http://www.mondovisione.com/media-and-resources/news/the-eba-publishes-report-on-direct-provision-of-banking-services-from-third-coun-2025723/)
+Append: [Siren And Flashpoint Partner In Response To Growing Hybrid Threats](http://www.mondovisione.com/media-and-resources/news/siren-and-flashpoint-partner-in-response-to-growing-hybrid-threats-2025723/)
+Append: [Broadridge Appoints Munish Gautam As Global Head Of Trading Platforms Product Management](http://www.mondovisione.com/media-and-resources/news/broadridge-appoints-munish-gautam-as-global-head-of-trading-platforms-product-ma-2025723/)
+Append: [Coinshares Asset Management Becomes First Continental European Regulated Asset Manager To Receive MiCA Authorisation - First Major European Asset Manager To Combine MiCA, MiFID, And AIFM Authorisations - Creating New Investment Possibilities Across €33 Trillion European Asset Management Market](http://www.mondovisione.com/media-and-resources/news/coinshares-asset-management-becomes-first-continental-european-regulated-asset-m-2025723/)
+append_entries: 8
+Finish: 2025-07-23 12:54:39.974374
