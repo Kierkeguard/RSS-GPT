@@ -2270,3 +2270,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Finansinspektionen Analysis 49: Increased Concentration In Trading On The Swedish Bond Markets](http://www.mondovisione.com/media-and-resources/news/finansinspektionen-analysis-49-increased-concentration-in-trading-on-the-swedis-2025723/)
 append_entries: 2
 Finish: 2025-07-23 18:36:45.595192
+------------------------------------------------------
+Started: 2025-07-23 20:28:35.409545
+Existing_entries: 358
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Office Of The Comptroller Of The US Currency: Kate Tyrrell Named Chief Of Staff And Senior Deputy Comptroller](http://www.mondovisione.com/media-and-resources/news/office-of-the-comptroller-of-the-us-currency-kate-tyrrell-named-chief-of-staff-2025723/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Canadian Securities Regulators Publish Canadian Investment Regulatory Organization Oversight Review Report](http://www.mondovisione.com/media-and-resources/news/canadian-securities-regulators-publish-canadian-investment-regulatory-organizati-2025723/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Ontario Securities Commission: Stéphane Gagnon Sentenced To Five Years And Ordered To Pay Over $7.75 Million](http://www.mondovisione.com/media-and-resources/news/ontario-securities-commission-stphane-gagnon-sentenced-to-five-years-and-order-2025723/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ISDA derivatiViews: Strengthening DC Governance](http://www.mondovisione.com/media-and-resources/news/isda-derivativiews-strengthening-dc-governance-2025723/)
+append_entries: 4
+Finish: 2025-07-23 20:28:36.198399
