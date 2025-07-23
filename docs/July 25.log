@@ -2258,3 +2258,15 @@ Existing_entries: 356
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-07-23 16:33:39.062731
+------------------------------------------------------
+Started: 2025-07-23 18:36:44.606136
+Existing_entries: 356
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [John Hurley Confirmed By The United States Senate - Will Serve As Under Secretary For Terrorism And Financial Intelligence At The U.S. Department Of The Treasury](http://www.mondovisione.com/media-and-resources/news/john-hurley-confirmed-by-the-united-states-senate-will-serve-as-under-secretar-2025723/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Finansinspektionen Analysis 49: Increased Concentration In Trading On The Swedish Bond Markets](http://www.mondovisione.com/media-and-resources/news/finansinspektionen-analysis-49-increased-concentration-in-trading-on-the-swedis-2025723/)
+append_entries: 2
+Finish: 2025-07-23 18:36:45.595192
