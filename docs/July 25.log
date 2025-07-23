@@ -2204,3 +2204,15 @@ Existing_entries: 346
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-07-23 06:38:15.455942
+------------------------------------------------------
+Started: 2025-07-23 08:35:10.534952
+Existing_entries: 346
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [DGCX Reports Strong H1 2025 Performance With Over 1 Million Contracts, Led By Increased Gold And INR Quanto Futures Demand](http://www.mondovisione.com/media-and-resources/news/dgcx-reports-strong-h1-2025-performance-with-over-1-million-contracts-led-by-in-2025723/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [AI: A Blueprint For Better Banking? Keynote Address By ASIC Chair Joe Longo At The ABA Banking Conference In Sydney On 23 July 2025](http://www.mondovisione.com/media-and-resources/news/ai-a-blueprint-for-better-banking-keynote-address-by-asic-chair-joe-longo-at-t-2025723/)
+append_entries: 2
+Finish: 2025-07-23 08:35:11.660109
