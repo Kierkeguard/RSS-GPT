@@ -2321,3 +2321,15 @@ Existing_entries: 367
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-07-24 04:42:58.130826
+------------------------------------------------------
+Started: 2025-07-24 06:38:31.961965
+Existing_entries: 367
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Opening Address, Dato’ Mohammad Faiz Azmi, Chairman, Securities Commission Malaysia, ASEAN Corporate Governance Conference 2025](http://www.mondovisione.com/media-and-resources/news/opening-address-dato-mohammad-faiz-azmi-chairman-securities-commission-malay-2025724/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Proposes Updates To Guidance For Industry Codes Of Conduct](http://www.mondovisione.com/media-and-resources/news/asic-proposes-updates-to-guidance-for-industry-codes-of-conduct-2025724/)
+append_entries: 2
+Finish: 2025-07-24 06:38:32.868477
