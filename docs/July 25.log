@@ -2333,3 +2333,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ASIC Proposes Updates To Guidance For Industry Codes Of Conduct](http://www.mondovisione.com/media-and-resources/news/asic-proposes-updates-to-guidance-for-industry-codes-of-conduct-2025724/)
 append_entries: 2
 Finish: 2025-07-24 06:38:32.868477
+------------------------------------------------------
+Started: 2025-07-24 08:34:35.247453
+Existing_entries: 369
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SoftSkillingIt Launches To Empower Global Workforce With Essential Skills For An AI-Driven Future](http://www.mondovisione.com/media-and-resources/news/softskillingit-launches-to-empower-global-workforce-with-essential-skills-for-an-2025724/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [GlobalData Announces Top M&A Financial And Legal Advisers In Power Sector In H1 2025](http://www.mondovisione.com/media-and-resources/news/globaldata-announces-top-manda-financial-and-legal-advisers-in-power-sector-in-h1-2025724/)
+append_entries: 2
+Finish: 2025-07-24 08:34:36.099805
