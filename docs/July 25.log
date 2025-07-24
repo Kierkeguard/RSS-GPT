@@ -2422,3 +2422,25 @@ Existing_entries: 388
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-07-24 18:37:04.509167
+------------------------------------------------------
+Started: 2025-07-24 20:26:35.427161
+Existing_entries: 388
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Options Exchange - Updated Interface Specifications For Increased Maximum Leg Ratios](http://www.mondovisione.com/media-and-resources/news/miax-options-exchange-updated-interface-specifications-for-increased-maximum-l-2025724/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Federal Court Orders UK Firms, Residents From China, Oklahoma To Pay $19M In CFTC Fraud Case](http://www.mondovisione.com/media-and-resources/news/federal-court-orders-uk-firms-residents-from-china-oklahoma-to-pay-19m-in-cft-2025724/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Q2/2025: Deutsche Börse Group Reports Further Secular Growth And Strong Operational Economies Of Scale](http://www.mondovisione.com/media-and-resources/news/q22025-deutsche-brse-group-reports-further-secular-growth-and-strong-operatio-2025724/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Canadian Securities Administrators Announces Exemptions For Investment Funds To Facilitate Access To The Bank Of Canada’s Contingent Term Repo Facility](http://www.mondovisione.com/media-and-resources/news/canadian-securities-administrators-announces-exemptions-for-investment-funds-to-2025724/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Ontario Securities Commission Publishes The RIE Division 2025 Annual Report](http://www.mondovisione.com/media-and-resources/news/ontario-securities-commission-publishes-the-rie-division-2025-annual-report-2025724/)
+Append: [Nasdaq Announces Semi-annual Changes To The OMX Helsinki 25® Index](http://www.mondovisione.com/media-and-resources/news/nasdaq-announces-semi-annual-changes-to-the-omx-helsinki-25-index-2025724/)
+append_entries: 6
+Finish: 2025-07-24 20:26:36.209927
