@@ -2444,3 +2444,18 @@ Append: [Ontario Securities Commission Publishes The RIE Division 2025 Annual Re
 Append: [Nasdaq Announces Semi-annual Changes To The OMX Helsinki 25® Index](http://www.mondovisione.com/media-and-resources/news/nasdaq-announces-semi-annual-changes-to-the-omx-helsinki-25-index-2025724/)
 append_entries: 6
 Finish: 2025-07-24 20:26:36.209927
+------------------------------------------------------
+Started: 2025-07-24 22:24:54.987962
+Existing_entries: 394
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NYSE Group Consolidated Short Interest Report](http://www.mondovisione.com/media-and-resources/news/nyse-group-consolidated-short-interest-report-2025724/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ETFGI: Korean Retail Investors Continue To Be Active Purchasers Of Overseas Listed ETFs In June](http://www.mondovisione.com/media-and-resources/news/etfgi-korean-retail-investors-continue-to-be-active-purchasers-of-overseas-list-2025724/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [smartTrade Technologies Accelerates Global Expansion With Strategic Appointment Of Christophe Montane As Chief Commercial Officer](http://www.mondovisione.com/media-and-resources/news/smarttrade-technologies-accelerates-global-expansion-with-strategic-appointment-2025724/)
+append_entries: 3
+Finish: 2025-07-24 22:24:55.948090
