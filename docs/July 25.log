@@ -2471,3 +2471,12 @@ Existing_entries: 397
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-07-25 04:42:15.974580
+------------------------------------------------------
+Started: 2025-07-25 06:38:30.681393
+Existing_entries: 397
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bursa Malaysia Recognised Among Top 50 ASEAN PLCs AND TOP 5 PLCs In Malaysia At The ASEAN Corporate Governance Awards](http://www.mondovisione.com/media-and-resources/news/bursa-malaysia-recognised-among-top-50-asean-plcs-and-top-5-plcs-in-malaysia-at-2025725/)
+append_entries: 1
+Finish: 2025-07-25 06:38:31.576022
