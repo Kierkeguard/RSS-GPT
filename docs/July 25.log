@@ -2516,3 +2516,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ECB Appoints Isabel Vansteenkiste As Counsellor To President Lagarde](http://www.mondovisione.com/media-and-resources/news/ecb-appoints-isabel-vansteenkiste-as-counsellor-to-president-lagarde-2025725/)
 append_entries: 3
 Finish: 2025-07-25 14:24:27.028518
+------------------------------------------------------
+Started: 2025-07-25 16:32:08.980997
+Existing_entries: 402
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FIA Hires New US Government Affairs Lead](http://www.mondovisione.com/media-and-resources/news/fia-hires-new-us-government-affairs-lead-2025725/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Announces Mid-Month Open Short Interest Positions In Nasdaq Stocks As Of Settlement Date July 15, 2025](http://www.mondovisione.com/media-and-resources/news/nasdaq-announces-mid-month-open-short-interest-positions-in-nasdaq-stocks-as-of-2025725/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Dalian Commodity Exchange: Announcement On The Promulgation Of Linear Low Density Polyethylene, Polyvinyl Chloride, And Polypropylene Monthly Average Price Futures Contracts And The Relevant Rules](http://www.mondovisione.com/media-and-resources/news/dalian-commodity-exchange-announcement-on-the-promulgation-of-linear-low-densit-2025725/)
+append_entries: 3
+Finish: 2025-07-25 16:32:10.362106
