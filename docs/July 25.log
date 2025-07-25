@@ -2501,3 +2501,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [HKEX Issuer Access Platform To Launch In 2026, Enhancing Issuer Communication And Market Transparency](http://www.mondovisione.com/media-and-resources/news/hkex-issuer-access-platform-to-launch-in-2026-enhancing-issuer-communication-an-2025725/)
 append_entries: 1
 Finish: 2025-07-25 12:52:49.870163
+------------------------------------------------------
+Started: 2025-07-25 14:24:25.954386
+Existing_entries: 399
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Malawi Stock Exchange Weekly Summary Report, 25 July 2025](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-25-july-2025-2025725/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [EBA Announces Date And Time Of The Publication Of The 2025 EU-Wide Stress Test Results](http://www.mondovisione.com/media-and-resources/news/eba-announces-date-and-time-of-the-publication-of-the-2025-eu-wide-stress-test-r-2025725/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ECB Appoints Isabel Vansteenkiste As Counsellor To President Lagarde](http://www.mondovisione.com/media-and-resources/news/ecb-appoints-isabel-vansteenkiste-as-counsellor-to-president-lagarde-2025725/)
+append_entries: 3
+Finish: 2025-07-25 14:24:27.028518
