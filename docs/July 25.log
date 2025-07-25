@@ -2492,3 +2492,12 @@ Existing_entries: 398
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-07-25 10:29:06.297091
+------------------------------------------------------
+Started: 2025-07-25 12:52:48.330984
+Existing_entries: 398
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX Issuer Access Platform To Launch In 2026, Enhancing Issuer Communication And Market Transparency](http://www.mondovisione.com/media-and-resources/news/hkex-issuer-access-platform-to-launch-in-2026-enhancing-issuer-communication-an-2025725/)
+append_entries: 1
+Finish: 2025-07-25 12:52:49.870163
