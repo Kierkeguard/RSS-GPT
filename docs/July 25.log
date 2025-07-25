@@ -2553,3 +2553,15 @@ Append: [Automation Is Top Priority For Finance Teams Amid Tariff Uncertainty, N
 Append: [Discontinuance Of UK Financial Conduct Authority Proceedings Against Tom Hayes And Revocation Of Carlo Palombo’s Prohibition Order](http://www.mondovisione.com/media-and-resources/news/discontinuance-of-uk-financial-conduct-authority-proceedings-against-tom-hayes-a-2025725/)
 append_entries: 6
 Finish: 2025-07-25 18:36:58.129334
+------------------------------------------------------
+Started: 2025-07-25 20:27:44.858525
+Existing_entries: 411
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Commitments Of Traders Reports Update](http://www.mondovisione.com/media-and-resources/news/cftc-commitments-of-traders-reports-update-2025725/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nigerian Exchange Weekly Market Report For The Week Ended 25 July 2025](http://www.mondovisione.com/media-and-resources/news/nigerian-exchange-weekly-market-report-for-the-week-ended-25-july-2025-2025725/)
+append_entries: 2
+Finish: 2025-07-25 20:27:45.736232
