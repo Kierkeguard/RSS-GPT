@@ -2531,3 +2531,25 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Dalian Commodity Exchange: Announcement On The Promulgation Of Linear Low Density Polyethylene, Polyvinyl Chloride, And Polypropylene Monthly Average Price Futures Contracts And The Relevant Rules](http://www.mondovisione.com/media-and-resources/news/dalian-commodity-exchange-announcement-on-the-promulgation-of-linear-low-densit-2025725/)
 append_entries: 3
 Finish: 2025-07-25 16:32:10.362106
+------------------------------------------------------
+Started: 2025-07-25 18:36:57.351411
+Existing_entries: 405
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bermuda Stock Exchange Will Be Closed For Bermuda “Cup Match” Public Holidays](http://www.mondovisione.com/media-and-resources/news/bermuda-stock-exchange-will-be-closed-for-bermuda-cup-match-public-holidays-2025725/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [H2O Deputy CEO Fined £1m And Banned From Financial Services For Deliberately Misleading UK Financial Conduct Authority](http://www.mondovisione.com/media-and-resources/news/h2o-deputy-ceo-fined-1m-and-banned-from-financial-services-for-deliberately-mis-2025725/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ADEC Innovations NV Lists On Euronext Access](http://www.mondovisione.com/media-and-resources/news/adec-innovations-nv-lists-on-euronext-access-2025725/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [S&P DJI Proposes Upgrading Greek Market To "Developed" Status](http://www.mondovisione.com/media-and-resources/news/sandp-dji-proposes-upgrading-greek-market-to-developed-status-2025725/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Automation Is Top Priority For Finance Teams Amid Tariff Uncertainty, New Data Reveals - One In Five Finance Leaders Identified Automation As An Investment Priority Over The Next 12-18 Months](http://www.mondovisione.com/media-and-resources/news/automation-is-top-priority-for-finance-teams-amid-tariff-uncertainty-new-data-r-2025725/)
+Append: [Discontinuance Of UK Financial Conduct Authority Proceedings Against Tom Hayes And Revocation Of Carlo Palombo’s Prohibition Order](http://www.mondovisione.com/media-and-resources/news/discontinuance-of-uk-financial-conduct-authority-proceedings-against-tom-hayes-a-2025725/)
+append_entries: 6
+Finish: 2025-07-25 18:36:58.129334
