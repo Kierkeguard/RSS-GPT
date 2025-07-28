@@ -2757,3 +2757,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [FSB Chair’s letter To G20 Finance Ministers And Central Bank Governors: July 2025](http://www.mondovisione.com/media-and-resources/news/fsb-chairs-letter-to-g20-finance-ministers-and-central-bank-governors-july-202-2025728/)
 append_entries: 2
 Finish: 2025-07-28 10:28:36.607551
+------------------------------------------------------
+Started: 2025-07-28 12:55:25.755018
+Existing_entries: 421
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Appoints Liam Coleman As Interim Chair Of The Financial Ombudsman Service](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-appoints-liam-coleman-as-interim-chair-of-the-fin-2025728/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Amman Stock Exchange Requests Listed Companies To File Interim Financial Statements Of The Second Quarter 2025 Before The End Of The Specified Date](http://www.mondovisione.com/media-and-resources/news/the-amman-stock-exchange-requests-listed-companies-to-file-interim-financial-sta-2025728/)
+append_entries: 2
+Finish: 2025-07-28 12:55:27.253784
