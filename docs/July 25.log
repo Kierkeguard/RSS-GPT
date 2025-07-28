@@ -2769,3 +2769,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [The Amman Stock Exchange Requests Listed Companies To File Interim Financial Statements Of The Second Quarter 2025 Before The End Of The Specified Date](http://www.mondovisione.com/media-and-resources/news/the-amman-stock-exchange-requests-listed-companies-to-file-interim-financial-sta-2025728/)
 append_entries: 2
 Finish: 2025-07-28 12:55:27.253784
+------------------------------------------------------
+Started: 2025-07-28 14:27:09.291931
+Existing_entries: 423
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Future-Ready Grids: ACER And CEER Set Out Blueprint For Distribution Planning](http://www.mondovisione.com/media-and-resources/news/future-ready-grids-acer-and-ceer-set-out-blueprint-for-distribution-planning-2025728/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Documentation On BME Scaleup By Saint Croix Holding Immobilier SOCIMI](http://www.mondovisione.com/media-and-resources/news/documentation-on-bme-scaleup-by-saint-croix-holding-immobilier-socimi-2025728/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Pet Service Holding NV lists On Euronext Growth](http://www.mondovisione.com/media-and-resources/news/pet-service-holding-nv-lists-on-euronext-growth-2025728/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The UK Prudential Regulation Authority Fines Barents Reinsurance S.A., London Branch £1,785,000 For Internal Controls, Governance And Reporting Failures](http://www.mondovisione.com/media-and-resources/news/the-uk-prudential-regulation-authority-fines-barents-reinsurance-sa-london-br-2025728/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [15 Years Of Trading Across Europe: The STOXX Europe 600 Story](http://www.mondovisione.com/media-and-resources/news/15-years-of-trading-across-europe-the-stoxx-europe-600-story-2025728/)
+append_entries: 5
+Finish: 2025-07-28 14:27:10.730934
