@@ -2802,3 +2802,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Dubai Financial Market Regulated Short Sell – Weekly Summary - Summary Period: 21st July 2025 To 25th July 2025](http://www.mondovisione.com/media-and-resources/news/dubai-financial-market-regulated-short-sell-weekly-summary-summary-period-2-2025728/)
 append_entries: 2
 Finish: 2025-07-28 16:34:06.748432
+------------------------------------------------------
+Started: 2025-07-28 18:38:24.216742
+Existing_entries: 430
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [EEX Publishes Revised 2025 And New 2026 Calendars For EUA Auctions](http://www.mondovisione.com/media-and-resources/news/eex-publishes-revised-2025-and-new-2026-calendars-for-eua-auctions-2025728/)
+append_entries: 1
+Finish: 2025-07-28 18:38:25.584244
