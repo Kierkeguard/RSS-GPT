@@ -2745,3 +2745,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Welcome Address, Dato’ Mohammad Faiz Azmi Chairman, Securities Commission Malaysia, Eco-Business Conference 2025, 10.30 Am, 28 July 202,5 Securities Commission Malaysia](http://www.mondovisione.com/media-and-resources/news/welcome-address-dato-mohammad-faiz-azmi-chairman-securities-commission-malays-2025728/)
 append_entries: 2
 Finish: 2025-07-28 08:36:35.538676
+------------------------------------------------------
+Started: 2025-07-28 10:28:35.387326
+Existing_entries: 419
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER Approves EU-Wide Methodology To Assess National Electricity Flexibility Needs](http://www.mondovisione.com/media-and-resources/news/acer-approves-eu-wide-methodology-to-assess-national-electricity-flexibility-nee-2025728/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FSB Chair’s letter To G20 Finance Ministers And Central Bank Governors: July 2025](http://www.mondovisione.com/media-and-resources/news/fsb-chairs-letter-to-g20-finance-ministers-and-central-bank-governors-july-202-2025728/)
+append_entries: 2
+Finish: 2025-07-28 10:28:36.607551
