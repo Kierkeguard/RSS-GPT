@@ -2733,3 +2733,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Investor Alert: ASIC Warns Investors Of Bitget’s Unlicensed Cryptocurrency Futures Products](http://www.mondovisione.com/media-and-resources/news/investor-alert-asic-warns-investors-of-bitgets-unlicensed-cryptocurrency-futur-2025728/)
 append_entries: 3
 Finish: 2025-07-28 06:40:25.118014
+------------------------------------------------------
+Started: 2025-07-28 08:36:34.774820
+Existing_entries: 417
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FNZ Announces Strategic Partnership With Microsoft To Accelerate The Transformation Of The Wealth Management Industry](http://www.mondovisione.com/media-and-resources/news/fnz-announces-strategic-partnership-with-microsoft-to-accelerate-the-transformat-2025728/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Welcome Address, Dato’ Mohammad Faiz Azmi Chairman, Securities Commission Malaysia, Eco-Business Conference 2025, 10.30 Am, 28 July 202,5 Securities Commission Malaysia](http://www.mondovisione.com/media-and-resources/news/welcome-address-dato-mohammad-faiz-azmi-chairman-securities-commission-malays-2025728/)
+append_entries: 2
+Finish: 2025-07-28 08:36:35.538676
