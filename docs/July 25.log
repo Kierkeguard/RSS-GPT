@@ -2811,3 +2811,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [EEX Publishes Revised 2025 And New 2026 Calendars For EUA Auctions](http://www.mondovisione.com/media-and-resources/news/eex-publishes-revised-2025-and-new-2026-calendars-for-eua-auctions-2025728/)
 append_entries: 1
 Finish: 2025-07-28 18:38:25.584244
+------------------------------------------------------
+Started: 2025-07-28 20:29:21.132966
+Existing_entries: 431
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Swaps Report Update](http://www.mondovisione.com/media-and-resources/news/cftc-swaps-report-update-2025728/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Economy Statement For The US Treasury Borrowing Advisory Committee](http://www.mondovisione.com/media-and-resources/news/economy-statement-for-the-us-treasury-borrowing-advisory-committee-2025728/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Treasury Announces Marketable Borrowing Estimates](http://www.mondovisione.com/media-and-resources/news/us-treasury-announces-marketable-borrowing-estimates-2025728/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [A Careless Use Of Innovative Compliance Products Can Lead To Money Laundering And Terrorism Financing Risks, The EBA Says In Its Opinion](http://www.mondovisione.com/media-and-resources/news/a-careless-use-of-innovative-compliance-products-can-lead-to-money-laundering-an-2025728/)
+append_entries: 4
+Finish: 2025-07-28 20:29:22.371419
