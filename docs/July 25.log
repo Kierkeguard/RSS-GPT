@@ -2790,3 +2790,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [15 Years Of Trading Across Europe: The STOXX Europe 600 Story](http://www.mondovisione.com/media-and-resources/news/15-years-of-trading-across-europe-the-stoxx-europe-600-story-2025728/)
 append_entries: 5
 Finish: 2025-07-28 14:27:10.730934
+------------------------------------------------------
+Started: 2025-07-28 16:34:05.291807
+Existing_entries: 428
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [DIFC Records Best Ever Performance For The First Half Of A Year - Results Fuel Dubai’s Economic Vision And Demonstrate Global Leadership In Financial Services And Innovation](http://www.mondovisione.com/media-and-resources/news/difc-records-best-ever-performance-for-the-first-half-of-a-year-results-fuel-d-2025728/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Dubai Financial Market Regulated Short Sell – Weekly Summary - Summary Period: 21st July 2025 To 25th July 2025](http://www.mondovisione.com/media-and-resources/news/dubai-financial-market-regulated-short-sell-weekly-summary-summary-period-2-2025728/)
+append_entries: 2
+Finish: 2025-07-28 16:34:06.748432
