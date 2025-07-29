@@ -2859,3 +2859,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ASIC: Banks To Put More Than $93 Million Back In The Pockets Of Low-Income Customers After Charging Excessive Fees](http://www.mondovisione.com/media-and-resources/news/asic-banks-to-put-more-than-93-million-back-in-the-pockets-of-low-income-custo-2025729/)
 append_entries: 2
 Finish: 2025-07-29 06:39:08.949043
+------------------------------------------------------
+Started: 2025-07-29 08:35:10.972005
+Existing_entries: 437
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Eurex Clearing Becomes First CCP Globally To Launch DLT-Enabled Collateral Mobilization Service](http://www.mondovisione.com/media-and-resources/news/eurex-clearing-becomes-first-ccp-globally-to-launch-dlt-enabled-collateral-mobil-2025729/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bursa Malaysia Announces RM125.5 Million Profit After Tax, Zakat And Minority Interest For The First Half Of 2025 - Declares Interim Dividend Of 14.0 Sen Per Share](http://www.mondovisione.com/media-and-resources/news/bursa-malaysia-announces-rm1255-million-profit-after-tax-zakat-and-minority-in-2025729/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASX: Webcast Details And Key Dates For 2025 Full-Year Results](http://www.mondovisione.com/media-and-resources/news/asx-webcast-details-and-key-dates-for-2025-full-year-results-2025729/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Borsa Istanbul: Regarding The Change In Price Margin In Real Estate Certificates](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-regarding-the-change-in-price-margin-in-real-estate-certificates-2025729/)
+append_entries: 4
+Finish: 2025-07-29 08:35:12.126411
