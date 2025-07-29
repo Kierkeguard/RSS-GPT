@@ -2895,3 +2895,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SIDC-CASI SRI Conference 2025 Propels ASEAN Collaboration And Talent Development In Sustainable Finance - Key highlights Include MoU With CASI And Launch Of CCMP SRI 2](http://www.mondovisione.com/media-and-resources/news/sidc-casi-sri-conference-2025-propels-asean-collaboration-and-talent-development-2025729/)
 append_entries: 4
 Finish: 2025-07-29 10:28:02.589441
+------------------------------------------------------
+Started: 2025-07-29 12:55:54.452794
+Existing_entries: 445
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Acts Over Alleged £23 Million Unauthorised Collective Investment Scheme](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-acts-over-alleged-23-million-unauthorised-coll-2025729/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ICE Mortgage Technology Allows Homeowners To Apply For Home Equity And Refinance Loans From The MSP Web And Mobile Consumer Interface](http://www.mondovisione.com/media-and-resources/news/ice-mortgage-technology-allows-homeowners-to-apply-for-home-equity-and-refinance-2025729/)
+append_entries: 2
+Finish: 2025-07-29 12:55:55.533810
