@@ -2847,3 +2847,15 @@ Existing_entries: 435
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-07-29 04:51:25.167026
+------------------------------------------------------
+Started: 2025-07-29 06:39:07.880484
+Existing_entries: 435
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Japan Financial Services Agency: Release Of “The Second Scenario Analysis On Climate-Related Risks (Banking Sector)”](http://www.mondovisione.com/media-and-resources/news/japan-financial-services-agency-release-of-the-second-scenario-analysis-on-cli-2025729/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC: Banks To Put More Than $93 Million Back In The Pockets Of Low-Income Customers After Charging Excessive Fees](http://www.mondovisione.com/media-and-resources/news/asic-banks-to-put-more-than-93-million-back-in-the-pockets-of-low-income-custo-2025729/)
+append_entries: 2
+Finish: 2025-07-29 06:39:08.949043
