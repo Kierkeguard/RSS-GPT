@@ -2919,3 +2919,18 @@ Existing_entries: 447
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-07-29 16:32:45.136587
+------------------------------------------------------
+Started: 2025-07-29 18:38:52.532428
+Existing_entries: 447
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Borsa Istanbul: Periodic Review For The BIST Sustainability Themed Debt Securities Indices Has Been Finalized](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-periodic-review-for-the-bist-sustainability-themed-debt-securiti-2025729/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [From Information To Transformation: Training Directors To Power Corporate Success, Keynote Speech At Hong Kong Chartered Governance Institute’s (HKCGI) 2025 Director Training Series, Dr Kelvin Wong Chairman, Hong Kong Securities And Futures Commission, 29 July 2025](http://www.mondovisione.com/media-and-resources/news/from-information-to-transformation-training-directors-to-power-corporate-succes-2025729/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Notice On Adjustments To Transaction Fees Of Zhengzhou Commodity Exchange Products](http://www.mondovisione.com/media-and-resources/news/notice-on-adjustments-to-transaction-fees-of-zhengzhou-commodity-exchange-produc-2025729/)
+append_entries: 3
+Finish: 2025-07-29 18:38:53.492239
