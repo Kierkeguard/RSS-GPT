@@ -2991,3 +2991,21 @@ Existing_entries: 463
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-07-30 04:49:17.996861
+------------------------------------------------------
+Started: 2025-07-30 06:39:55.153705
+Existing_entries: 463
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Japan Exchange Group, Inc. And Consolidated Subsidiaries Consolidated Financial Results For The Three Months Ended June 30, 2025 (Based On IFRS), Unaudited](http://www.mondovisione.com/media-and-resources/news/japan-exchange-group-inc-and-consolidated-subsidiaries-consolidated-financial-2025730/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Seeks Feedback On Proposed Updates To Conflicts Management Guidance](http://www.mondovisione.com/media-and-resources/news/asic-seeks-feedback-on-proposed-updates-to-conflicts-management-guidance-2025730/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Monetary Authority Of Singapore Monetary Policy Statement - July 2025](http://www.mondovisione.com/media-and-resources/news/monetary-authority-of-singapore-monetary-policy-statement-july-2025-2025730/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Forward Together: Addressing Misconduct In Financial Services - Keynote Address By ASIC Chair Joe Longo At The FSC Symposium 'Shaping Advice In A Time Of Change' On 30 July 2025](http://www.mondovisione.com/media-and-resources/news/forward-together-addressing-misconduct-in-financial-services-keynote-address-2025730/)
+append_entries: 4
+Finish: 2025-07-30 06:39:56.449431
