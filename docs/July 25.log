@@ -3105,3 +3105,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Statement On The President’s Working Group Recommendations, Paul S. Atkins, SEC Chairman, July 30, 2025](http://www.mondovisione.com/media-and-resources/news/statement-on-the-presidents-working-group-recommendations-paul-s-atkins-sec-2025730/)
 append_entries: 1
 Finish: 2025-07-30 20:27:12.683523
+------------------------------------------------------
+Started: 2025-07-30 22:25:07.983522
+Existing_entries: 485
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BlackRock And Standard Chartered Execute First Indian Government Bond Trade Electronically Via MarketAxess](http://www.mondovisione.com/media-and-resources/news/blackrock-and-standard-chartered-execute-first-indian-government-bond-trade-elec-2025730/)
+append_entries: 1
+Finish: 2025-07-30 22:25:09.365887
