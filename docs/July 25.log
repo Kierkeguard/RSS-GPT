@@ -3027,3 +3027,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [US Treasury Department Announces New Appointments](http://www.mondovisione.com/media-and-resources/news/us-treasury-department-announces-new-appointments-2025730/)
 append_entries: 4
 Finish: 2025-07-30 08:35:44.800291
+------------------------------------------------------
+Started: 2025-07-30 10:28:15.760608
+Existing_entries: 471
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BISON Expands Its Portfolio Again And Now Offers Over 30 Cryptocurrencies - Six New Coins At BISON: Focus On Innovation, Community, And Real-World Applications](http://www.mondovisione.com/media-and-resources/news/bison-expands-its-portfolio-again-and-now-offers-over-30-cryptocurrencies-six-2025730/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Group Managing Director/CEO Of Nigerian Exchange Grou Popoola Celebrates Chief Diana Chen, Highlights The Power Of Relationships And Networks](http://www.mondovisione.com/media-and-resources/news/group-managing-directorceo-of-nigerian-exchange-grou-popoola-celebrates-chief-d-2025730/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Registrations Now Open: ACER Webinar On Improving EU Scenario Development To Meet Future Energy Needs (11 September 2025)](http://www.mondovisione.com/media-and-resources/news/registrations-now-open-acer-webinar-on-improving-eu-scenario-development-to-mee-2025730/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Securities Commission Charges Former Unit Trust Consultant With Securities Fraud](http://www.mondovisione.com/media-and-resources/news/securities-commission-charges-former-unit-trust-consultant-with-securities-fraud-2025730/)
+append_entries: 4
+Finish: 2025-07-30 10:28:16.655699
