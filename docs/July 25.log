@@ -3069,3 +3069,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Trading Technologies And 7RIDGE Choose Thoma Bravo To Continue TT's Growth](http://www.mondovisione.com/media-and-resources/news/trading-technologies-and-7ridge-choose-thoma-bravo-to-continue-tts-growth-2025730/)
 append_entries: 2
 Finish: 2025-07-30 14:26:02.230246
+------------------------------------------------------
+Started: 2025-07-30 16:31:58.521780
+Existing_entries: 479
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Options Exchanges - OPRA Experienced A Dissemination Issue](http://www.mondovisione.com/media-and-resources/news/miax-options-exchanges-opra-experienced-a-dissemination-issue-2025730/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Staff Issues No-Action Letter On SEF Order Book](http://www.mondovisione.com/media-and-resources/news/cftc-staff-issues-no-action-letter-on-sef-order-book-2025730/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [EGX Launches A New Index For Low Volatility Stocks Under The Name “EGX35-LV Index”](http://www.mondovisione.com/media-and-resources/news/egx-launches-a-new-index-for-low-volatility-stocks-under-the-name-egx35-lv-inde-2025730/)
+append_entries: 3
+Finish: 2025-07-30 16:31:59.496736
