@@ -3057,3 +3057,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [The EBA Publishes Additional Data Guidance Ahead Of The Release Of Its 2025 EU-Wide Stress Test](http://www.mondovisione.com/media-and-resources/news/the-eba-publishes-additional-data-guidance-ahead-of-the-release-of-its-2025-eu-w-2025730/)
 append_entries: 2
 Finish: 2025-07-30 12:55:34.469948
+------------------------------------------------------
+Started: 2025-07-30 14:26:01.372757
+Existing_entries: 477
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Department Of The Treasury: Quarterly Refunding Statement Of Deputy Assistant Secretary For Federal Finance Brian Smith](http://www.mondovisione.com/media-and-resources/news/us-department-of-the-treasury-quarterly-refunding-statement-of-deputy-assistant-2025730/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Trading Technologies And 7RIDGE Choose Thoma Bravo To Continue TT's Growth](http://www.mondovisione.com/media-and-resources/news/trading-technologies-and-7ridge-choose-thoma-bravo-to-continue-tts-growth-2025730/)
+append_entries: 2
+Finish: 2025-07-30 14:26:02.230246
