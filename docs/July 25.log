@@ -3084,3 +3084,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [EGX Launches A New Index For Low Volatility Stocks Under The Name “EGX35-LV Index”](http://www.mondovisione.com/media-and-resources/news/egx-launches-a-new-index-for-low-volatility-stocks-under-the-name-egx35-lv-inde-2025730/)
 append_entries: 3
 Finish: 2025-07-30 16:31:59.496736
+------------------------------------------------------
+Started: 2025-07-30 18:37:35.658759
+Existing_entries: 482
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Federal Reserve Issues FOMC Statement](http://www.mondovisione.com/media-and-resources/news/federal-reserve-issues-fomc-statement-2025730/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Adam Cohen Named US Office Of The Comptroller Of The Currency Chief Counsel](http://www.mondovisione.com/media-and-resources/news/adam-cohen-named-us-office-of-the-comptroller-of-the-currency-chief-counsel-2025730/)
+append_entries: 2
+Finish: 2025-07-30 18:37:36.417755
