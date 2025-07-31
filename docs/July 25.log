@@ -3249,3 +3249,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SET Appoints Pannavadee Ladavalya Na Ayudhya As Senior Executive Vice President (Chief People Officer), Effective August 1, 2025](http://www.mondovisione.com/media-and-resources/news/set-appoints-pannavadee-ladavalya-na-ayudhya-as-senior-executive-vice-president-2025731/)
 append_entries: 5
 Finish: 2025-07-31 18:37:49.934445
+------------------------------------------------------
+Started: 2025-07-31 20:28:48.367771
+Existing_entries: 515
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Federal Reserve Board Joins Other Federal Financial Institution Regulatory Agencies In Providing Banks The Flexibility To Use An Alternative Method For Collecting Certain Customer Identification Information](http://www.mondovisione.com/media-and-resources/news/federal-reserve-board-joins-other-federal-financial-institution-regulatory-agenc-2025731/)
+append_entries: 1
+Finish: 2025-07-31 20:28:49.657402
