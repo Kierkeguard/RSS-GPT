@@ -3159,3 +3159,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ATHEX Board Announcement In Response To Euronext Offer](http://www.mondovisione.com/media-and-resources/news/athex-board-announcement-in-response-to-euronext-offer-2025731/)
 append_entries: 4
 Finish: 2025-07-31 08:35:35.664859
+------------------------------------------------------
+Started: 2025-07-31 10:28:57.409227
+Existing_entries: 493
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Malaysia Co-Investment Fund Reaches Out To MSMEs And Entrepreneurs In Sabah](http://www.mondovisione.com/media-and-resources/news/malaysia-co-investment-fund-reaches-out-to-msmes-and-entrepreneurs-in-sabah-2025731/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Braga Moro Lists On Euronext](http://www.mondovisione.com/media-and-resources/news/braga-moro-lists-on-euronext-2025731/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Seeks Improvement To Digital Loan Processes](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-seeks-improvement-to-digital-loan-processes-2025731/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TNS Expands Global Market Data Access With Connectivity To Six Latin American Exchanges](http://www.mondovisione.com/media-and-resources/news/tns-expands-global-market-data-access-with-connectivity-to-six-latin-american-ex-2025731/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Securities Commission Malaysia Launches Creche And Fitness Centre](http://www.mondovisione.com/media-and-resources/news/securities-commission-malaysia-launches-creche-and-fitness-centre-2025731/)
+append_entries: 5
+Finish: 2025-07-31 10:28:58.741155
