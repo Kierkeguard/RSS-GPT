@@ -3228,3 +3228,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Euronext Publishes Q2 2025 Results - Euronext’s Diversified Business Drives All-Time Record Results, Supported By Organic Growth, Favourable Market Conditions And Disciplined Capital Allocation](http://www.mondovisione.com/media-and-resources/news/euronext-publishes-q2-2025-results-euronexts-diversified-business-drives-all-2025731/)
 append_entries: 1
 Finish: 2025-07-31 16:33:37.700217
+------------------------------------------------------
+Started: 2025-07-31 18:37:48.568291
+Existing_entries: 510
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Options And MIAX Pearl Options- Options Regulatory Fee Reduction Between September 1, 2025 And December 31, 2025](http://www.mondovisione.com/media-and-resources/news/miax-options-and-miax-pearl-options-options-regulatory-fee-reduction-between-se-2025731/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [American Leadership In The Digital Finance Revolution, Paul S. Atkins, SEC Chairman, Washington D.C., July 31, 2025](http://www.mondovisione.com/media-and-resources/news/american-leadership-in-the-digital-finance-revolution-paul-s-atkins-sec-chair-2025731/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ISDA Board Appoints New Chair](http://www.mondovisione.com/media-and-resources/news/isda-board-appoints-new-chair-2025731/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Canadian Securities Administrators Appoints New Investor Advisory Panel Chair And Vice-Chair](http://www.mondovisione.com/media-and-resources/news/canadian-securities-administrators-appoints-new-investor-advisory-panel-chair-an-2025731/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SET Appoints Pannavadee Ladavalya Na Ayudhya As Senior Executive Vice President (Chief People Officer), Effective August 1, 2025](http://www.mondovisione.com/media-and-resources/news/set-appoints-pannavadee-ladavalya-na-ayudhya-as-senior-executive-vice-president-2025731/)
+append_entries: 5
+Finish: 2025-07-31 18:37:49.934445
