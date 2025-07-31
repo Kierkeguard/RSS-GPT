@@ -3258,3 +3258,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Federal Reserve Board Joins Other Federal Financial Institution Regulatory Agencies In Providing Banks The Flexibility To Use An Alternative Method For Collecting Certain Customer Identification Information](http://www.mondovisione.com/media-and-resources/news/federal-reserve-board-joins-other-federal-financial-institution-regulatory-agenc-2025731/)
 append_entries: 1
 Finish: 2025-07-31 20:28:49.657402
+------------------------------------------------------
+Started: 2025-07-31 22:25:24.256499
+Existing_entries: 516
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [StoneX Completes Acquisition Of R.J. O’Brien, Becoming The Largest Non-Bank FCM In The United States And Enhancing Global Multi-Asset Capabilities - The Most Significant Acquisition In StoneX History Unites Two Of The Most Well-Respected Names In The Futures Industry, Combining 200+ Years Of Derivatives Expertise](http://www.mondovisione.com/media-and-resources/news/stonex-completes-acquisition-of-rj-obrien-becoming-the-largest-non-bank-fcm-2025731/)
+append_entries: 1
+Finish: 2025-07-31 22:25:25.544602
