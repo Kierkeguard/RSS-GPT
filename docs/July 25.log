@@ -3219,3 +3219,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [AuditBoard Research Finds Only 25 Per Cent Of Businesses Report Having Fully Implemented AI Governance Programmes - Report Reveals That While The Majority Of Companies Are Leveraging AI, Governance Continues To Lag, Leaving Them Vulnerable](http://www.mondovisione.com/media-and-resources/news/auditboard-research-finds-only-25-per-cent-of-businesses-report-having-fully-imp-2025731/)
 append_entries: 3
 Finish: 2025-07-31 14:26:53.725454
+------------------------------------------------------
+Started: 2025-07-31 16:33:35.526166
+Existing_entries: 509
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euronext Publishes Q2 2025 Results - Euronext’s Diversified Business Drives All-Time Record Results, Supported By Organic Growth, Favourable Market Conditions And Disciplined Capital Allocation](http://www.mondovisione.com/media-and-resources/news/euronext-publishes-q2-2025-results-euronexts-diversified-business-drives-all-2025731/)
+append_entries: 1
+Finish: 2025-07-31 16:33:37.700217
