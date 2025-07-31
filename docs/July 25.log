@@ -3141,3 +3141,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Acting CFTC Chairman Pham Lauds Presidential Working Group Recommendations To Usher In Golden Age Of Crypto In The U.S.](http://www.mondovisione.com/media-and-resources/news/acting-cftc-chairman-pham-lauds-presidential-working-group-recommendations-to-us-2025731/)
 append_entries: 3
 Finish: 2025-07-31 06:38:40.560414
+------------------------------------------------------
+Started: 2025-07-31 08:35:34.616234
+Existing_entries: 489
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Ultumus Selects BMLL To Make Best-In-Class Global ETF Data And Analytics Available To Market Participants Worldwide - Collaboration Drives Measurable ETF Spread Improvements For A Leading European ETF Issuer](http://www.mondovisione.com/media-and-resources/news/ultumus-selects-bmll-to-make-best-in-class-global-etf-data-and-analytics-availab-2025731/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc Interim Results For Six Months Ended 30 June 2025 - Strong Growth And Margin Progression, AEPS +20%, Significant Shareholder Returns. 2025 Margin Guidance Improved, New £1 Billion Share Buyback In H2](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-interim-results-for-six-months-ended-30-june-202-2025731/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euronext To Launch Voluntary Share Exchange Offer For All ATHEX Shares](http://www.mondovisione.com/media-and-resources/news/euronext-to-launch-voluntary-share-exchange-offer-for-all-athex-shares-2025731/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ATHEX Board Announcement In Response To Euronext Offer](http://www.mondovisione.com/media-and-resources/news/athex-board-announcement-in-response-to-euronext-offer-2025731/)
+append_entries: 4
+Finish: 2025-07-31 08:35:35.664859
