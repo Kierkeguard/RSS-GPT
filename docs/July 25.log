@@ -3126,3 +3126,18 @@ Existing_entries: 486
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-07-31 04:47:36.379853
+------------------------------------------------------
+Started: 2025-07-31 06:38:39.249677
+Existing_entries: 486
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASX Chief Compliance Officer To Resign](http://www.mondovisione.com/media-and-resources/news/asx-chief-compliance-officer-to-resign-2025731/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Zealand Financial Markets Authority: Southern Cross Travel Insurance Admits To Making Misleading Statements And Pays More Than $1million](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-southern-cross-travel-insurance-admits-2025731/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Acting CFTC Chairman Pham Lauds Presidential Working Group Recommendations To Usher In Golden Age Of Crypto In The U.S.](http://www.mondovisione.com/media-and-resources/news/acting-cftc-chairman-pham-lauds-presidential-working-group-recommendations-to-us-2025731/)
+append_entries: 3
+Finish: 2025-07-31 06:38:40.560414
