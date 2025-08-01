@@ -3373,3 +3373,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [J.P. Morgan Asset Management Selects Solactive As New Administrator For Carbon Transition Index Ahead Of EU BMR Deadline](http://www.mondovisione.com/media-and-resources/news/jp-morgan-asset-management-selects-solactive-as-new-administrator-for-carbon-t-202581/)
 append_entries: 4
 Finish: 2025-08-01 14:26:43.185829
+------------------------------------------------------
+Started: 2025-08-01 16:33:43.942760
+Existing_entries: 541
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Deutsche Börse Cash Market Trading Volumes In July 2025](http://www.mondovisione.com/media-and-resources/news/deutsche-brse-cash-market-trading-volumes-in-july-2025-202581/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Nordic And Baltic Markets Trading Statistics July 2025](http://www.mondovisione.com/media-and-resources/news/nasdaq-nordic-and-baltic-markets-trading-statistics-july-2025-202581/)
+append_entries: 2
+Finish: 2025-08-01 16:33:44.893711
