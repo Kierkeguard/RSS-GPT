@@ -3279,3 +3279,24 @@ Existing_entries: 517
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-08-01 04:56:25.132831
+------------------------------------------------------
+Started: 2025-08-01 06:40:38.501153
+Existing_entries: 517
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX: Appointment To Mainland China Advisory Group](http://www.mondovisione.com/media-and-resources/news/hkex-appointment-to-mainland-china-advisory-group-202581/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Montréal Exchange Interest Rate Derivative Trading Ceases At 13:30 Today, August 1, 2025 - Exchange's Markets Closed On August 4, 2025](http://www.mondovisione.com/media-and-resources/news/montral-exchange-interest-rate-derivative-trading-ceases-at-1330-today-august-202581/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Staff Issues No-Action Letter Regarding Swap Data Error Correction Notification Requirements](http://www.mondovisione.com/media-and-resources/news/cftc-staff-issues-no-action-letter-regarding-swap-data-error-correction-notifica-202581/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TMX Group Limited Increases Dividend By 10% To $0.22 Per Common Share](http://www.mondovisione.com/media-and-resources/news/tmx-group-limited-increases-dividend-by-10-to-022-per-common-share-202581/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TMX Group Limited Reports Results For Second Quarter Of 2025](http://www.mondovisione.com/media-and-resources/news/tmx-group-limited-reports-results-for-second-quarter-of-2025-202581/)
+append_entries: 5
+Finish: 2025-08-01 06:40:39.662958
