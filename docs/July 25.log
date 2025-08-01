@@ -3318,3 +3318,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ASX Launches Morning And Evening Peak Electricity Contracts](http://www.mondovisione.com/media-and-resources/news/asx-launches-morning-and-evening-peak-electricity-contracts-202581/)
 append_entries: 4
 Finish: 2025-08-01 08:35:11.359270
+------------------------------------------------------
+Started: 2025-08-01 10:28:35.256480
+Existing_entries: 526
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Liberis Announces Rob Fairfield As Chief Executive Officer](http://www.mondovisione.com/media-and-resources/news/liberis-announces-rob-fairfield-as-chief-executive-officer-202581/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BIS Latest Update: Stablecoins, Private Credit And Tokenisation](http://www.mondovisione.com/media-and-resources/news/bis-latest-update-stablecoins-private-credit-and-tokenisation-202581/)
+append_entries: 2
+Finish: 2025-08-01 10:28:36.439229
