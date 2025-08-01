@@ -3355,3 +3355,21 @@ Append: [Boerse Stuttgart Records July Turnover Of Around EUR 9,3 Billion - Stro
 Append: [HKEX Concludes Consultation On IPO Price Discovery And Open Market Requirements - Launches Further Consultation On Ongoing Public Float Proposals](http://www.mondovisione.com/media-and-resources/news/hkex-concludes-consultation-on-ipo-price-discovery-and-open-market-requirements-202581/)
 append_entries: 9
 Finish: 2025-08-01 12:54:38.014596
+------------------------------------------------------
+Started: 2025-08-01 14:26:41.947959
+Existing_entries: 537
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Hashgraph Group Launches Its Self-Sovereign Identity Platform “IDTrust” To Power Digital Identity At Scale - Alongside Its SSI Platform Launch, THG Is Open-Sourcing Its Digital Identity SDK Via The Linux Foundation’s Project Hiero, Advancing Privacy, Interoperability, And Open Innovation](http://www.mondovisione.com/media-and-resources/news/the-hashgraph-group-launches-its-self-sovereign-identity-platform-idtrust-to-p-202581/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FESE Capital Markets Fact Sheet Q2 2025](http://www.mondovisione.com/media-and-resources/news/fese-capital-markets-fact-sheet-q2-2025-202581/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Malawi Stock Exchange Weekly Summary Report, 1 August 2025](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-1-august-2025-202581/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [J.P. Morgan Asset Management Selects Solactive As New Administrator For Carbon Transition Index Ahead Of EU BMR Deadline](http://www.mondovisione.com/media-and-resources/news/jp-morgan-asset-management-selects-solactive-as-new-administrator-for-carbon-t-202581/)
+append_entries: 4
+Finish: 2025-08-01 14:26:43.185829
