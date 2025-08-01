@@ -3385,3 +3385,26 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Nasdaq Nordic And Baltic Markets Trading Statistics July 2025](http://www.mondovisione.com/media-and-resources/news/nasdaq-nordic-and-baltic-markets-trading-statistics-july-2025-202581/)
 append_entries: 2
 Finish: 2025-08-01 16:33:44.893711
+------------------------------------------------------
+Started: 2025-08-01 18:37:26.110375
+Existing_entries: 543
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Reaction To Supreme Court Motor Finance Judgment](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-reaction-to-supreme-court-motor-finance-judgment-202581/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Moscow Exchange Trading Volumes In July 2025](http://www.mondovisione.com/media-and-resources/news/moscow-exchange-trading-volumes-in-july-2025-202581/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [On The Road: SEC Crypto Task Force To Host A Series Of Roundtables Across The U.S.](http://www.mondovisione.com/media-and-resources/news/on-the-road-sec-crypto-task-force-to-host-a-series-of-roundtables-across-the-u-202581/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Office Of The Comptroller Of The Currency Releases CRA Performance Evaluations For 15 National Banks And Federal Savings Associations](http://www.mondovisione.com/media-and-resources/news/us-office-of-the-comptroller-of-the-currency-releases-cra-performance-evaluation-202581/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nigerian Exchange Group: Weekly Market Report For The Week Ended 1 August 2025](http://www.mondovisione.com/media-and-resources/news/nigerian-exchange-group-weekly-market-report-for-the-week-ended-1-august-2025-202581/)
+Append: [The EBA Publishes The Results Of Its 2025 EU-Wide Stress Test](http://www.mondovisione.com/media-and-resources/news/the-eba-publishes-the-results-of-its-2025-eu-wide-stress-test-202581/)
+Append: [ESAs Launch Consultation On How To Integrate ESG Risks In The Financial Stress Tests For Banks And Insurers](http://www.mondovisione.com/media-and-resources/news/esas-launch-consultation-on-how-to-integrate-esg-risks-in-the-financial-stress-t-202581/)
+append_entries: 7
+Finish: 2025-08-01 18:37:27.112135
