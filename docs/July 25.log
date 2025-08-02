@@ -3441,3 +3441,15 @@ Existing_entries: 553
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-08-02 04:38:49.013366
+------------------------------------------------------
+Started: 2025-08-02 06:35:00.387496
+Existing_entries: 553
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Acting CFTC  Chairman Pham Announces CFTC Crypto Sprint](http://www.mondovisione.com/media-and-resources/news/acting-cftc-chairman-pham-announces-cftc-crypto-sprint-202582/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Unauthorized Largesse At Taxpayer Expense: Dissent From The Order Approving Plan Of Distribution With Respect To Barclays PLC And Barclays Bank PLC, SEC Commissioner Hester M. Peirce, Aug. 1, 2025](http://www.mondovisione.com/media-and-resources/news/unauthorized-largesse-at-taxpayer-expense-dissent-from-the-order-approving-plan-202582/)
+append_entries: 2
+Finish: 2025-08-02 06:35:01.671669
