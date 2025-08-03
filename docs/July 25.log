@@ -3540,3 +3540,12 @@ Existing_entries: 556
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-08-03 12:52:27.199851
+------------------------------------------------------
+Started: 2025-08-03 14:22:08.838157
+Existing_entries: 556
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority To Consult On Motor Finance Compensation Scheme](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-to-consult-on-motor-finance-compensation-scheme-202583/)
+append_entries: 1
+Finish: 2025-08-03 14:22:09.633800
