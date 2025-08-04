@@ -3675,3 +3675,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Non-Jordanian Ownership In Companies Listed On The Amman Stock Exchange Reached 47%, Of Which 32.5% For Institutional Investors](http://www.mondovisione.com/media-and-resources/news/non-jordanian-ownership-in-companies-listed-on-the-amman-stock-exchange-reached-202584/)
 append_entries: 3
 Finish: 2025-08-04 18:38:46.913267
+------------------------------------------------------
+Started: 2025-08-04 20:29:44.610311
+Existing_entries: 573
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Swaps Report Update](http://www.mondovisione.com/media-and-resources/news/cftc-swaps-report-update-202584/)
+append_entries: 1
+Finish: 2025-08-04 20:29:45.628131
