@@ -3624,3 +3624,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SmartSearch Integrates LSEG’s (London Stock Exchange Group) World-Check One Solution To Bolster Watchlist Screening Data Coverage - LSEG Joins Existing SmartSearch Provider Dow Jones Watchlist To Deliver Comprehensive Watchlist Data Coverage For Customers](http://www.mondovisione.com/media-and-resources/news/smartsearch-integrates-lsegs-london-stock-exchange-group-world-check-one-solu-202584/)
 append_entries: 1
 Finish: 2025-08-04 10:30:22.102246
+------------------------------------------------------
+Started: 2025-08-04 12:56:38.127069
+Existing_entries: 564
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group Reports Second-Highest July ADV Of 21.9 Million Contracts - Record Monthly ADV In Cryptocurrency Products](http://www.mondovisione.com/media-and-resources/news/cme-group-reports-second-highest-july-adv-of-219-million-contracts-record-mon-202584/)
+append_entries: 1
+Finish: 2025-08-04 12:56:39.614964
