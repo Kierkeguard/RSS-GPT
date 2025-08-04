@@ -3648,3 +3648,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Fiserv Small Business Index: Small Business Sales Tick Up In July, Driven By Higher Average Ticket Sizes](http://www.mondovisione.com/media-and-resources/news/fiserv-small-business-index-small-business-sales-tick-up-in-july-driven-by-hig-202584/)
 append_entries: 3
 Finish: 2025-08-04 14:29:53.275157
+------------------------------------------------------
+Started: 2025-08-04 16:35:23.678849
+Existing_entries: 568
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Montréal Exchange's Markets Closed Today, August 4, 2025](http://www.mondovisione.com/media-and-resources/news/montral-exchanges-markets-closed-today-august-4-2025-202584/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The EBA Publishes Key Regulatory Products On Operational Risk Losses Under The EU Banking Package Implementation](http://www.mondovisione.com/media-and-resources/news/the-eba-publishes-key-regulatory-products-on-operational-risk-losses-under-the-e-202584/)
+append_entries: 2
+Finish: 2025-08-04 16:35:24.437232
