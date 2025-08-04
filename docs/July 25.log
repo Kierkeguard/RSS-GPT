@@ -3603,3 +3603,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [New Zealand Financial Markets Authority - Climate-Related Disclosures: Insights From Our Reviews 2025](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-climate-related-disclosures-insights-202584/)
 append_entries: 4
 Finish: 2025-08-04 06:45:17.990789
+------------------------------------------------------
+Started: 2025-08-04 08:36:48.110409
+Existing_entries: 561
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc - Commencement Of Share Buyback Programme](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-commencement-of-share-buyback-programme-202584/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Pixelvest Fined RM3 Mln For Unlicensed Capital Market Activities, Director Sentenced To Three Years Jail - Director Also Jailed For Money Laundering offences](http://www.mondovisione.com/media-and-resources/news/pixelvest-fined-rm3-mln-for-unlicensed-capital-market-activities-director-sente-202584/)
+append_entries: 2
+Finish: 2025-08-04 08:36:49.347190
