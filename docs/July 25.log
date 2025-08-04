@@ -3684,3 +3684,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CFTC Swaps Report Update](http://www.mondovisione.com/media-and-resources/news/cftc-swaps-report-update-202584/)
 append_entries: 1
 Finish: 2025-08-04 20:29:45.628131
+------------------------------------------------------
+Started: 2025-08-04 22:25:57.176866
+Existing_entries: 574
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Acting CFTC Chairman Pham Launches Listed Spot Crypto Trading Initiative - Stakeholders Invited To Provide Public Input By August 18](http://www.mondovisione.com/media-and-resources/news/acting-cftc-chairman-pham-launches-listed-spot-crypto-trading-initiative-stake-202584/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NZX Shareholder Metrics - July 2025](http://www.mondovisione.com/media-and-resources/news/nzx-shareholder-metrics-july-2025-202584/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Reports July 2025 Volumes](http://www.mondovisione.com/media-and-resources/news/nasdaq-reports-july-2025-volumes-202584/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Equilend: Securities Lending Revenue Hits $1.24 Billion In July 2025, Up 47% Year–Over–Year - Global Equity Markets Drive Revenue Surge - Americas And APAC Lead Regional Growth](http://www.mondovisione.com/media-and-resources/news/equilend-securities-lending-revenue-hits-124-billion-in-july-2025-up-47-yea-202584/)
+append_entries: 4
+Finish: 2025-08-04 22:25:58.610935
