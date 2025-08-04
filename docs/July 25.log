@@ -3633,3 +3633,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CME Group Reports Second-Highest July ADV Of 21.9 Million Contracts - Record Monthly ADV In Cryptocurrency Products](http://www.mondovisione.com/media-and-resources/news/cme-group-reports-second-highest-july-adv-of-219-million-contracts-record-mon-202584/)
 append_entries: 1
 Finish: 2025-08-04 12:56:39.614964
+------------------------------------------------------
+Started: 2025-08-04 14:29:52.317164
+Existing_entries: 565
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIX Exchanges Figures July 2025](http://www.mondovisione.com/media-and-resources/news/six-exchanges-figures-july-2025-202584/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The New York Stock Exchange Appoints Bryan Daniel To Lead NYSE Texas And Announces Location Of NYSE Texas Headquarters](http://www.mondovisione.com/media-and-resources/news/the-new-york-stock-exchange-appoints-bryan-daniel-to-lead-nyse-texas-and-announc-202584/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Fiserv Small Business Index: Small Business Sales Tick Up In July, Driven By Higher Average Ticket Sizes](http://www.mondovisione.com/media-and-resources/news/fiserv-small-business-index-small-business-sales-tick-up-in-july-driven-by-hig-202584/)
+append_entries: 3
+Finish: 2025-08-04 14:29:53.275157
