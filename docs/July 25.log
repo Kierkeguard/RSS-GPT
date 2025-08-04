@@ -3585,3 +3585,21 @@ Existing_entries: 557
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-08-04 05:00:03.479996
+------------------------------------------------------
+Started: 2025-08-04 06:45:16.776904
+Existing_entries: 557
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Large Swedish Banks Show Resilience In The EBA’s Stress Test](http://www.mondovisione.com/media-and-resources/news/large-swedish-banks-show-resilience-in-the-ebas-stress-test-202584/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NZX Accredits New Depository Participant](http://www.mondovisione.com/media-and-resources/news/nzx-accredits-new-depository-participant-202584/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Publication Of Japan Exchange Group Working Paper, Vol.48 "Hypothetical Market Data Scenario Generation Using Generative AI"](http://www.mondovisione.com/media-and-resources/news/publication-of-japan-exchange-group-working-paper-vol48-hypothetical-market-d-202584/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Zealand Financial Markets Authority - Climate-Related Disclosures: Insights From Our Reviews 2025](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-climate-related-disclosures-insights-202584/)
+append_entries: 4
+Finish: 2025-08-04 06:45:17.990789
