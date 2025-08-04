@@ -3615,3 +3615,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Pixelvest Fined RM3 Mln For Unlicensed Capital Market Activities, Director Sentenced To Three Years Jail - Director Also Jailed For Money Laundering offences](http://www.mondovisione.com/media-and-resources/news/pixelvest-fined-rm3-mln-for-unlicensed-capital-market-activities-director-sente-202584/)
 append_entries: 2
 Finish: 2025-08-04 08:36:49.347190
+------------------------------------------------------
+Started: 2025-08-04 10:30:20.765033
+Existing_entries: 563
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SmartSearch Integrates LSEG’s (London Stock Exchange Group) World-Check One Solution To Bolster Watchlist Screening Data Coverage - LSEG Joins Existing SmartSearch Provider Dow Jones Watchlist To Deliver Comprehensive Watchlist Data Coverage For Customers](http://www.mondovisione.com/media-and-resources/news/smartsearch-integrates-lsegs-london-stock-exchange-group-world-check-one-solu-202584/)
+append_entries: 1
+Finish: 2025-08-04 10:30:22.102246
