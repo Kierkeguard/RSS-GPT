@@ -3660,3 +3660,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [The EBA Publishes Key Regulatory Products On Operational Risk Losses Under The EU Banking Package Implementation](http://www.mondovisione.com/media-and-resources/news/the-eba-publishes-key-regulatory-products-on-operational-risk-losses-under-the-e-202584/)
 append_entries: 2
 Finish: 2025-08-04 16:35:24.437232
+------------------------------------------------------
+Started: 2025-08-04 18:38:45.920520
+Existing_entries: 570
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Federal Reserve: Senior Loan Officer Opinion Survey On Bank Lending Practices](http://www.mondovisione.com/media-and-resources/news/federal-reserve-senior-loan-officer-opinion-survey-on-bank-lending-practices-202584/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Statistics From Nasdaq Nordic Exchange July 2025](http://www.mondovisione.com/media-and-resources/news/statistics-from-nasdaq-nordic-exchange-july-2025-202584/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Non-Jordanian Ownership In Companies Listed On The Amman Stock Exchange Reached 47%, Of Which 32.5% For Institutional Investors](http://www.mondovisione.com/media-and-resources/news/non-jordanian-ownership-in-companies-listed-on-the-amman-stock-exchange-reached-202584/)
+append_entries: 3
+Finish: 2025-08-04 18:38:46.913267
