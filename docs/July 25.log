@@ -3729,3 +3729,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Peanut Butter & Watermelon: Financial Privacy In The Digital Age Science Of Blockchain Conference, SEC Commissioner Hester M. Peirce, Washington D.C., Aug. 4, 2025](http://www.mondovisione.com/media-and-resources/news/peanut-butter-and-watermelon-financial-privacy-in-the-digital-age-science-of-bloc-202585/)
 append_entries: 3
 Finish: 2025-08-05 06:40:18.244955
+------------------------------------------------------
+Started: 2025-08-05 08:35:47.273047
+Existing_entries: 581
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Spanish Watchdog DGSFP Selects LSEG To Strengthen Industry Oversight](http://www.mondovisione.com/media-and-resources/news/spanish-watchdog-dgsfp-selects-lseg-to-strengthen-industry-oversight-202585/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Korean Investment Management Launches KIM ACE China AI Big Tech TOP2+Active ETF, Tracking The Solactive China AI Big Tech Top 2+ Index](http://www.mondovisione.com/media-and-resources/news/korean-investment-management-launches-kim-ace-china-ai-big-tech-top2active-etf-202585/)
+append_entries: 2
+Finish: 2025-08-05 08:35:48.755654
