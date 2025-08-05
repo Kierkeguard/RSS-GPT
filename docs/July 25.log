@@ -3702,3 +3702,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Equilend: Securities Lending Revenue Hits $1.24 Billion In July 2025, Up 47% Year–Over–Year - Global Equity Markets Drive Revenue Surge - Americas And APAC Lead Regional Growth](http://www.mondovisione.com/media-and-resources/news/equilend-securities-lending-revenue-hits-124-billion-in-july-2025-up-47-yea-202584/)
 append_entries: 4
 Finish: 2025-08-04 22:25:58.610935
+------------------------------------------------------
+Started: 2025-08-05 02:11:44.221941
+Existing_entries: 578
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-08-05 02:11:45.146094
