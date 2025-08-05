@@ -3798,3 +3798,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [MarketAxess Announces The Launch Of Mid-X In US Credit - Enhanced Mid-Point Matching Protocol Launching In September For US IG And HY Bonds](http://www.mondovisione.com/media-and-resources/news/marketaxess-announces-the-launch-of-mid-x-in-us-credit-enhanced-mid-point-matc-202585/)
 append_entries: 4
 Finish: 2025-08-05 16:28:08.541948
+------------------------------------------------------
+Started: 2025-08-05 18:40:14.602928
+Existing_entries: 594
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Statement On Certain Liquid Staking Activities, SEC Division Of Corporation Finance, Aug. 5, 2025](http://www.mondovisione.com/media-and-resources/news/statement-on-certain-liquid-staking-activities-sec-division-of-corporation-fina-202585/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Securities And Exchange Commission Division Of Corporation Finance Issues Staff Statement On Certain Liquid Staking Activities](http://www.mondovisione.com/media-and-resources/news/securities-and-exchange-commission-division-of-corporation-finance-issues-staff-202585/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Exuberance Factors To Boil Down Complexities And Anticipate The Future: By Kelvin To, Founder And President Of Data Boiler Technologies](http://www.mondovisione.com/media-and-resources/news/exuberance-factors-to-boil-down-complexities-and-anticipate-the-future-by-kelvi-202585/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tel-Aviv Stock Exchange Reports The Results Of The Financial Statements For The Second Quarter And The First Half Of 2025](http://www.mondovisione.com/media-and-resources/news/tel-aviv-stock-exchange-reports-the-results-of-the-financial-statements-for-the-202585/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The EBA Consults To Simplify And Streamline Its Technical Standards On Resolution Plans And On The Functioning Of Resolution Colleges](http://www.mondovisione.com/media-and-resources/news/the-eba-consults-to-simplify-and-streamline-its-technical-standards-on-resolutio-202585/)
+append_entries: 5
+Finish: 2025-08-05 18:40:15.628815
