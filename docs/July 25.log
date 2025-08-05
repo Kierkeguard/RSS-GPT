@@ -3741,3 +3741,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Korean Investment Management Launches KIM ACE China AI Big Tech TOP2+Active ETF, Tracking The Solactive China AI Big Tech Top 2+ Index](http://www.mondovisione.com/media-and-resources/news/korean-investment-management-launches-kim-ace-china-ai-big-tech-top2active-etf-202585/)
 append_entries: 2
 Finish: 2025-08-05 08:35:48.755654
+------------------------------------------------------
+Started: 2025-08-05 10:28:45.645263
+Existing_entries: 583
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Kitipong Urapeepatanapong Re-Elected As SET Chairperson](http://www.mondovisione.com/media-and-resources/news/kitipong-urapeepatanapong-re-elected-as-set-chairperson-202585/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Issues Fines Of Nearly £46m For Failures Managing The Woodford Equity Income Fund](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-issues-fines-of-nearly-46m-for-failures-managing-202585/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Saudi Ministry Of Finance Welcomes 2025 IMF Article IV Consultation Report](http://www.mondovisione.com/media-and-resources/news/saudi-ministry-of-finance-welcomes-2025-imf-article-iv-consultation-report-202585/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LSEG Expands Advanced Dealing Platform To Base Metals Markets](http://www.mondovisione.com/media-and-resources/news/lseg-expands-advanced-dealing-platform-to-base-metals-markets-202585/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ETFGI: High Net Worth And Corporate Investor Participation In The ETFs Industry In India Have More Than Doubled In The Past Five Years](http://www.mondovisione.com/media-and-resources/news/etfgi-high-net-worth-and-corporate-investor-participation-in-the-etfs-industry-202585/)
+append_entries: 5
+Finish: 2025-08-05 10:28:46.906230
