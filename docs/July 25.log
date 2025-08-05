@@ -3774,3 +3774,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [J.P. Morgan Mansart Launches iCubed Global Equity Select Fund Tracking The Solactive iCubed Global Sustainability Index](http://www.mondovisione.com/media-and-resources/news/jp-morgan-mansart-launches-icubed-global-equity-select-fund-tracking-the-solac-202585/)
 append_entries: 2
 Finish: 2025-08-05 12:56:47.604229
+------------------------------------------------------
+Started: 2025-08-05 14:29:44.162253
+Existing_entries: 590
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-08-05 14:29:45.666824
