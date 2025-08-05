@@ -3762,3 +3762,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ETFGI: High Net Worth And Corporate Investor Participation In The ETFs Industry In India Have More Than Doubled In The Past Five Years](http://www.mondovisione.com/media-and-resources/news/etfgi-high-net-worth-and-corporate-investor-participation-in-the-etfs-industry-202585/)
 append_entries: 5
 Finish: 2025-08-05 10:28:46.906230
+------------------------------------------------------
+Started: 2025-08-05 12:56:46.133689
+Existing_entries: 588
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LSEG Risk Intelligence: “One In 50” Short Documentary Exposes Financial And Emotional Toll Of Child Identity Theft](http://www.mondovisione.com/media-and-resources/news/lseg-risk-intelligence-one-in-50-short-documentary-exposes-financial-and-emot-202585/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [J.P. Morgan Mansart Launches iCubed Global Equity Select Fund Tracking The Solactive iCubed Global Sustainability Index](http://www.mondovisione.com/media-and-resources/news/jp-morgan-mansart-launches-icubed-global-equity-select-fund-tracking-the-solac-202585/)
+append_entries: 2
+Finish: 2025-08-05 12:56:47.604229
