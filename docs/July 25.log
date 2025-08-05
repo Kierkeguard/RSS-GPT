@@ -3780,3 +3780,21 @@ Existing_entries: 590
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-08-05 14:29:45.666824
+------------------------------------------------------
+Started: 2025-08-05 16:28:07.293245
+Existing_entries: 590
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cboe Surpasses 1,000 U.S. Listed ETFs As Demand For Innovative Products Drives Market Growth](http://www.mondovisione.com/media-and-resources/news/cboe-surpasses-1000-us-listed-etfs-as-demand-for-innovative-products-drives-m-202585/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Purdue University/CME Group Ag Economy Barometer: Farmer Sentiment Weakens, But Farmers Believe U.S. Policy Headed In Right Direction](http://www.mondovisione.com/media-and-resources/news/purdue-universitycme-group-ag-economy-barometer-farmer-sentiment-weakens-but-202585/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Intercontinental Exchange Reports July Statistics](http://www.mondovisione.com/media-and-resources/news/intercontinental-exchange-reports-july-statistics-202585/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MarketAxess Announces The Launch Of Mid-X In US Credit - Enhanced Mid-Point Matching Protocol Launching In September For US IG And HY Bonds](http://www.mondovisione.com/media-and-resources/news/marketaxess-announces-the-launch-of-mid-x-in-us-credit-enhanced-mid-point-matc-202585/)
+append_entries: 4
+Finish: 2025-08-05 16:28:08.541948
