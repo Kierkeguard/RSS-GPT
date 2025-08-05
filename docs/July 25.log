@@ -3840,3 +3840,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Staking Sequel – Comments On Division Of Corporation Finance’s Statement On Certain Liquid Staking Activities, SEC Commissioner Hester M. Peirce, Aug. 5, 2025](http://www.mondovisione.com/media-and-resources/news/staking-sequel-comments-on-division-of-corporation-finances-statement-on-cert-202585/)
 append_entries: 5
 Finish: 2025-08-05 20:27:09.603164
+------------------------------------------------------
+Started: 2025-08-05 22:26:29.545934
+Existing_entries: 604
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cboe Global Markets Reports Trading Volume For July 2025](http://www.mondovisione.com/media-and-resources/news/cboe-global-markets-reports-trading-volume-for-july-2025-202585/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Response To Staff Statement On Certain Liquid Staking Activities: Caveat Liquid Staker, SEC Commissioner Caroline A. Crenshaw, Aug. 5, 2025](http://www.mondovisione.com/media-and-resources/news/response-to-staff-statement-on-certain-liquid-staking-activities-caveat-liquid-202585/)
+append_entries: 2
+Finish: 2025-08-05 22:26:30.658691
