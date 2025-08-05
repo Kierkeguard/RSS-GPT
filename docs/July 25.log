@@ -3714,3 +3714,18 @@ Existing_entries: 578
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-08-05 04:52:29.741290
+------------------------------------------------------
+Started: 2025-08-05 06:40:17.132562
+Existing_entries: 578
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Proposes To Remake Relief Instrument For Managed Investment Product Consideration](http://www.mondovisione.com/media-and-resources/news/asic-proposes-to-remake-relief-instrument-for-managed-investment-product-conside-202585/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [JPX Monthly Headlines](http://www.mondovisione.com/media-and-resources/news/jpx-monthly-headlines-202585/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Peanut Butter & Watermelon: Financial Privacy In The Digital Age Science Of Blockchain Conference, SEC Commissioner Hester M. Peirce, Washington D.C., Aug. 4, 2025](http://www.mondovisione.com/media-and-resources/news/peanut-butter-and-watermelon-financial-privacy-in-the-digital-age-science-of-bloc-202585/)
+append_entries: 3
+Finish: 2025-08-05 06:40:18.244955
