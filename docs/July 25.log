@@ -3918,3 +3918,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [GCEX Launches XplorDigital App](http://www.mondovisione.com/media-and-resources/news/gcex-launches-xplordigital-app-202586/)
 append_entries: 5
 Finish: 2025-08-06 12:56:23.577252
+------------------------------------------------------
+Started: 2025-08-06 14:29:14.594661
+Existing_entries: 616
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Staff Issues FAQs To Help Broker-Dealers Implement Financial Responsibility Requirements Related To U.S. Treasury Clearing - SEC Commissioner Uyeda To Take Lead On U.S. Treasury Clearing Implementation](http://www.mondovisione.com/media-and-resources/news/staff-issues-faqs-to-help-broker-dealers-implement-financial-responsibility-requ-202586/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Mizuho Americas Joins ICE Clear Credit As Clearing Member](http://www.mondovisione.com/media-and-resources/news/mizuho-americas-joins-ice-clear-credit-as-clearing-member-202586/)
+append_entries: 2
+Finish: 2025-08-06 14:29:16.461377
