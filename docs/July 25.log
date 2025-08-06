@@ -3897,3 +3897,24 @@ Existing_entries: 611
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-08-06 10:28:54.972021
+------------------------------------------------------
+Started: 2025-08-06 12:56:20.688061
+Existing_entries: 611
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [DTCC Comment On HKMA OTC Derivatives Regulatory Reporting Rewrite Approaches](http://www.mondovisione.com/media-and-resources/news/dtcc-comment-on-hkma-otc-derivatives-regulatory-reporting-rewrite-approaches-202586/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tradeweb Reports July 2025 Total Trading Volume Of $55.0 Trillion And Average Daily Volume Of $2.4 Trillion - July 2025 ADV Up 30.7% YoY](http://www.mondovisione.com/media-and-resources/news/tradeweb-reports-july-2025-total-trading-volume-of-550-trillion-and-average-da-202586/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MarketAxess Reports Second Quarter 2025 Financial Results](http://www.mondovisione.com/media-and-resources/news/marketaxess-reports-second-quarter-2025-financial-results-202586/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MarketAxess Announces Trading Volume Statistics For July 2025 - 12% Growth In Total Credit ADV Driven By 21% Growth In Combined Emerging Markets And Eurobonds ADV](http://www.mondovisione.com/media-and-resources/news/marketaxess-announces-trading-volume-statistics-for-july-2025-12-growth-in-to-202586/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [GCEX Launches XplorDigital App](http://www.mondovisione.com/media-and-resources/news/gcex-launches-xplordigital-app-202586/)
+append_entries: 5
+Finish: 2025-08-06 12:56:23.577252
