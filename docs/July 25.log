@@ -3930,3 +3930,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Mizuho Americas Joins ICE Clear Credit As Clearing Member](http://www.mondovisione.com/media-and-resources/news/mizuho-americas-joins-ice-clear-credit-as-clearing-member-202586/)
 append_entries: 2
 Finish: 2025-08-06 14:29:16.461377
+------------------------------------------------------
+Started: 2025-08-06 16:34:09.217519
+Existing_entries: 618
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [July 2025 Figures At Eurex](http://www.mondovisione.com/media-and-resources/news/july-2025-figures-at-eurex-202586/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The EBA Issues A No-Action Letter On The Application Of ESG Disclosure Requirements And Updates The EBA ESG Risks Dashboard With December 2024 Data](http://www.mondovisione.com/media-and-resources/news/the-eba-issues-a-no-action-letter-on-the-application-of-esg-disclosure-requireme-202586/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The EBA Publishes Its Final Draft Technical Standards On The Equivalent Legal Mechanism For Unfinished Property Exposures Under The Standardised Approach For Credit Risk](http://www.mondovisione.com/media-and-resources/news/the-eba-publishes-its-final-draft-technical-standards-on-the-equivalent-legal-me-202586/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Otofarma Lists On Euronext](http://www.mondovisione.com/media-and-resources/news/otofarma-lists-on-euronext-202586/)
+append_entries: 4
+Finish: 2025-08-06 16:34:11.170036
