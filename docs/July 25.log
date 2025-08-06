@@ -3864,3 +3864,21 @@ Existing_entries: 606
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-08-06 04:50:38.156129
+------------------------------------------------------
+Started: 2025-08-06 06:40:47.076911
+Existing_entries: 606
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASX Public Statement Regarding TPG Telecom](http://www.mondovisione.com/media-and-resources/news/asx-public-statement-regarding-tpg-telecom-202586/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Taiwan Futures Exchange Newsletter - August 2025](http://www.mondovisione.com/media-and-resources/news/taiwan-futures-exchange-newsletter-august-2025-202586/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASX Group Monthly Activity Report - July 2025](http://www.mondovisione.com/media-and-resources/news/asx-group-monthly-activity-report-july-2025-202586/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Zealand Financial Markets Authority Warns Kiwibank For Overcharging Customers](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-warns-kiwibank-for-overcharging-customer-202586/)
+append_entries: 4
+Finish: 2025-08-06 06:40:48.405214
