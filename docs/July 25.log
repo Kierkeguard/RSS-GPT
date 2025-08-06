@@ -3960,3 +3960,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Bank Of England: Minutes Of The Meeting Of The Court Of Directors Held On 6 June 2025](http://www.mondovisione.com/media-and-resources/news/bank-of-england-minutes-of-the-meeting-of-the-court-of-directors-held-on-6-june-202586/)
 append_entries: 2
 Finish: 2025-08-06 18:37:05.954375
+------------------------------------------------------
+Started: 2025-08-06 20:28:36.554980
+Existing_entries: 624
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-08-06 20:28:39.063080
