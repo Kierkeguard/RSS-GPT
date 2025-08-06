@@ -3891,3 +3891,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [TP ICAP Group plc Interim Management Report For The Six Months Ended 30 June 2025](http://www.mondovisione.com/media-and-resources/news/tp-icap-group-plc-interim-management-report-for-the-six-months-ended-30-june-202-202586/)
 append_entries: 1
 Finish: 2025-08-06 08:35:43.714699
+------------------------------------------------------
+Started: 2025-08-06 10:28:53.533495
+Existing_entries: 611
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-08-06 10:28:54.972021
