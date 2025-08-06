@@ -3882,3 +3882,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [New Zealand Financial Markets Authority Warns Kiwibank For Overcharging Customers](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-warns-kiwibank-for-overcharging-customer-202586/)
 append_entries: 4
 Finish: 2025-08-06 06:40:48.405214
+------------------------------------------------------
+Started: 2025-08-06 08:35:42.859558
+Existing_entries: 610
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TP ICAP Group plc Interim Management Report For The Six Months Ended 30 June 2025](http://www.mondovisione.com/media-and-resources/news/tp-icap-group-plc-interim-management-report-for-the-six-months-ended-30-june-202-202586/)
+append_entries: 1
+Finish: 2025-08-06 08:35:43.714699
