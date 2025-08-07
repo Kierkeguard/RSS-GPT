@@ -54,4 +54,4 @@
 
 如果你觉得本项目有帮助，欢迎 star。
 
-- https://mondovisione.com/media-and-resources/news/rss/ -> https://Kierkeguard.github.io/RSS-GPT/July 25.xml
+- https://mondovisione.com/media-and-resources/news/rss/ -> https://Kierkeguard.github.io/RSS-GPT/August 25.xml
