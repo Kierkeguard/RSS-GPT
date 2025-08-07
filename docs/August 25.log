@@ -42,3 +42,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [OTP Bank Has Joined CLSSettlement As A Settlement Member](http://www.mondovisione.com/media-and-resources/news/otp-bank-has-joined-clssettlement-as-a-settlement-member-202587/)
 append_entries: 4
 Finish: 2025-08-07 10:28:18.047495
+------------------------------------------------------
+Started: 2025-08-07 12:55:51.429049
+Existing_entries: 14
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group Declares Quarterly Dividend](http://www.mondovisione.com/media-and-resources/news/cme-group-declares-quarterly-dividend-202587/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bank Of England: Bank Rate Reduced To 4% - August 2025](http://www.mondovisione.com/media-and-resources/news/bank-of-england-bank-rate-reduced-to-4-august-2025-202587/)
+append_entries: 2
+Finish: 2025-08-07 12:55:52.758060
