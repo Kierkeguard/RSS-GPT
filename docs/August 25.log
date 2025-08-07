@@ -105,3 +105,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [New York State Department Of Financial Services Superintendent Adrienne A. Harris Secures $48.5 Million Settlement With Paxos Trust Company For Anti-Money Laundering Deficiencies And Diligence Failures With Relation To Binance Partnership](http://www.mondovisione.com/media-and-resources/news/new-york-state-department-of-financial-services-superintendent-adrienne-a-harri-202587/)
 append_entries: 1
 Finish: 2025-08-07 20:29:00.876611
+------------------------------------------------------
+Started: 2025-08-07 22:26:06.529490
+Existing_entries: 25
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Federal Reserve Board Announces That It Is Seeking Individuals To Serve On Its Insurance Policy Advisory Committee](http://www.mondovisione.com/media-and-resources/news/federal-reserve-board-announces-that-it-is-seeking-individuals-to-serve-on-its-i-202587/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TMX Group Consolidated Trading Statistics – July 2025](http://www.mondovisione.com/media-and-resources/news/tmx-group-consolidated-trading-statistics-july-2025-202587/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Staff Issues No-Action Letter Regarding Event Contracts](http://www.mondovisione.com/media-and-resources/news/cftc-staff-issues-no-action-letter-regarding-event-contracts-202587/)
+append_entries: 3
+Finish: 2025-08-07 22:26:07.501977
