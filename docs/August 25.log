@@ -96,3 +96,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Bursa Malaysia And CGS International: Malaysia’s Islamic Finance Leadership Spotlighted Amid Growing Global Demand For Shariah-Compliant Investments - The 5th Invest Shariah Conference Explores Malaysia’s Position In Attracting Global Capital Flows And Driving Innovation In Shariah-Compliant Investments Landscape](http://www.mondovisione.com/media-and-resources/news/bursa-malaysia-and-cgs-international-malaysias-islamic-finance-leadership-spot-202587/)
 append_entries: 5
 Finish: 2025-08-07 18:39:13.642204
+------------------------------------------------------
+Started: 2025-08-07 20:28:59.301908
+Existing_entries: 24
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New York State Department Of Financial Services Superintendent Adrienne A. Harris Secures $48.5 Million Settlement With Paxos Trust Company For Anti-Money Laundering Deficiencies And Diligence Failures With Relation To Binance Partnership](http://www.mondovisione.com/media-and-resources/news/new-york-state-department-of-financial-services-superintendent-adrienne-a-harri-202587/)
+append_entries: 1
+Finish: 2025-08-07 20:29:00.876611
