@@ -54,3 +54,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Bank Of England: Bank Rate Reduced To 4% - August 2025](http://www.mondovisione.com/media-and-resources/news/bank-of-england-bank-rate-reduced-to-4-august-2025-202587/)
 append_entries: 2
 Finish: 2025-08-07 12:55:52.758060
+------------------------------------------------------
+Started: 2025-08-07 14:28:23.390875
+Existing_entries: 16
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CAIS And Solactive Debut Industry-First Index For Non-Traded Private Credit BDCs](http://www.mondovisione.com/media-and-resources/news/cais-and-solactive-debut-industry-first-index-for-non-traded-private-credit-bdcs-202587/)
+append_entries: 1
+Finish: 2025-08-07 14:28:24.272613
