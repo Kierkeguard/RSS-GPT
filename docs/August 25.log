@@ -75,3 +75,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CanDeal Data & Analytics’ Fixed Income Pricing And Reference Data Available Through Rimes](http://www.mondovisione.com/media-and-resources/news/candeal-data-and-analytics-fixed-income-pricing-and-reference-data-available-th-202587/)
 append_entries: 2
 Finish: 2025-08-07 16:34:18.863091
+------------------------------------------------------
+Started: 2025-08-07 18:39:12.108646
+Existing_entries: 19
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Secures Convictions Against Individual For £1.3m Ponzi Scheme](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-secures-convictions-against-individual-for-13m-202587/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [EEX To Launch Japanese Fiscal Year Futures In October](http://www.mondovisione.com/media-and-resources/news/eex-to-launch-japanese-fiscal-year-futures-in-october-202587/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The EBA Consults On Revised Guidelines On Internal Governance](http://www.mondovisione.com/media-and-resources/news/the-eba-consults-on-revised-guidelines-on-internal-governance-202587/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [EEX Group Monthly Volumes – July 2025](http://www.mondovisione.com/media-and-resources/news/eex-group-monthly-volumes-july-2025-202587/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bursa Malaysia And CGS International: Malaysia’s Islamic Finance Leadership Spotlighted Amid Growing Global Demand For Shariah-Compliant Investments - The 5th Invest Shariah Conference Explores Malaysia’s Position In Attracting Global Capital Flows And Driving Innovation In Shariah-Compliant Investments Landscape](http://www.mondovisione.com/media-and-resources/news/bursa-malaysia-and-cgs-international-malaysias-islamic-finance-leadership-spot-202587/)
+append_entries: 5
+Finish: 2025-08-07 18:39:13.642204
