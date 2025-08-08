@@ -132,3 +132,24 @@ Existing_entries: 28
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-08-08 04:50:26.964096
+------------------------------------------------------
+Started: 2025-08-08 06:40:19.775727
+Existing_entries: 28
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC: Reporting And Audit Update - Issue 1](http://www.mondovisione.com/media-and-resources/news/asic-reporting-and-audit-update-issue-1-202588/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Simpler, Faster, Greener: Bursa Malaysia Fully Transitions To Electronic Central Depository System (CDS) Account Statements And Notices Effective 25 August 2025](http://www.mondovisione.com/media-and-resources/news/simpler-faster-greener-bursa-malaysia-fully-transitions-to-electronic-central-202588/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Financial Advice Update – August 2025](http://www.mondovisione.com/media-and-resources/news/asic-financial-advice-update-august-2025-202588/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Comptroller Of The US Currency Gould Issues Statement On Executive Order “Guaranteeing Fair Banking For All Americans”](http://www.mondovisione.com/media-and-resources/news/comptroller-of-the-us-currency-gould-issues-statement-on-executive-order-guaran-202588/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIFMA Statement On Retirement Plan Executive Order](http://www.mondovisione.com/media-and-resources/news/sifma-statement-on-retirement-plan-executive-order-202588/)
+append_entries: 5
+Finish: 2025-08-08 06:40:20.878224
