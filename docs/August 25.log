@@ -201,3 +201,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [London Stock Exchange Group plc ("LSEG") Transactions In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transactions-in-own-shares-202588/)
 append_entries: 5
 Finish: 2025-08-08 14:26:50.395158
+------------------------------------------------------
+Started: 2025-08-08 16:30:36.822024
+Existing_entries: 41
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TransferMate Receives In-Principle Approval From Monetary Authority Of Singapore To Add Payment Services](http://www.mondovisione.com/media-and-resources/news/transfermate-receives-in-principle-approval-from-monetary-authority-of-singapore-202588/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The EBA Amends Technical Standards Specifying The Data Collection For The 2026 Benchmarking Exercise](http://www.mondovisione.com/media-and-resources/news/the-eba-amends-technical-standards-specifying-the-data-collection-for-the-2026-b-202588/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Rino Petino Lists On Euronext](http://www.mondovisione.com/media-and-resources/news/rino-petino-lists-on-euronext-202588/)
+append_entries: 3
+Finish: 2025-08-08 16:30:37.905303
