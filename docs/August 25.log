@@ -159,3 +159,18 @@ Existing_entries: 33
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-08-08 08:35:31.206296
+------------------------------------------------------
+Started: 2025-08-08 10:28:16.295233
+Existing_entries: 33
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX: Forfeiture Of Unclaimed First Interim Dividend For 2019](http://www.mondovisione.com/media-and-resources/news/hkex-forfeiture-of-unclaimed-first-interim-dividend-for-2019-202588/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER’s Latest REMIT Quarterly Is Out](http://www.mondovisione.com/media-and-resources/news/acers-latest-remit-quarterly-is-out-202588/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Securities Commission Malaysia: Unlicensed Futures Trader Jailed 20 Years, Fined RM9 Million For Defrauding Investors With Fictitious FCPO Investment Scheme](http://www.mondovisione.com/media-and-resources/news/securities-commission-malaysia-unlicensed-futures-trader-jailed-20-years-fined-202588/)
+append_entries: 3
+Finish: 2025-08-08 10:28:17.239131
