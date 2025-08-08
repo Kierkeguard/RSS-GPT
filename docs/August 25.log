@@ -174,3 +174,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Securities Commission Malaysia: Unlicensed Futures Trader Jailed 20 Years, Fined RM9 Million For Defrauding Investors With Fictitious FCPO Investment Scheme](http://www.mondovisione.com/media-and-resources/news/securities-commission-malaysia-unlicensed-futures-trader-jailed-20-years-fined-202588/)
 append_entries: 3
 Finish: 2025-08-08 10:28:17.239131
+------------------------------------------------------
+Started: 2025-08-08 12:54:56.624073
+Existing_entries: 36
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-08-08 12:54:57.468503
