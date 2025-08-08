@@ -180,3 +180,24 @@ Existing_entries: 36
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-08-08 12:54:57.468503
+------------------------------------------------------
+Started: 2025-08-08 14:26:47.777251
+Existing_entries: 36
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LSEG: Publication Of Supplement To Offering Circular](http://www.mondovisione.com/media-and-resources/news/lseg-publication-of-supplement-to-offering-circular-202588/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Malawi Stock Exchange Weekly Summary Report, 8 August 2025](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-8-august-2025-202588/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Vinext Lists On Euronext](http://www.mondovisione.com/media-and-resources/news/vinext-lists-on-euronext-202588/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The EBA Publishes Statement Confirming Its Response To The New European Commission’s Delegated Act Postponing The Market Risk Framework In The EU](http://www.mondovisione.com/media-and-resources/news/the-eba-publishes-statement-confirming-its-response-to-the-new-european-commissi-202588/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc ("LSEG") Transactions In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transactions-in-own-shares-202588/)
+append_entries: 5
+Finish: 2025-08-08 14:26:50.395158
