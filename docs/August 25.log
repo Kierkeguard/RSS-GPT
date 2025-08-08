@@ -216,3 +216,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Rino Petino Lists On Euronext](http://www.mondovisione.com/media-and-resources/news/rino-petino-lists-on-euronext-202588/)
 append_entries: 3
 Finish: 2025-08-08 16:30:37.905303
+------------------------------------------------------
+Started: 2025-08-08 18:34:49.023981
+Existing_entries: 44
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nigerian Exchange Group Weekly Market Report For The Week Ended 8 August 2025](http://www.mondovisione.com/media-and-resources/news/nigerian-exchange-group-weekly-market-report-for-the-week-ended-8-august-2025-202588/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Dubai Financial Market Regulated Short Sell – Weekly Summary: 04th August 2025 To 08th August 2025](http://www.mondovisione.com/media-and-resources/news/dubai-financial-market-regulated-short-sell-weekly-summary-04th-august-2025-t-202588/)
+append_entries: 2
+Finish: 2025-08-08 18:34:50.319381
