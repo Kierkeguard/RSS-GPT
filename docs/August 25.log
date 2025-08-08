@@ -228,3 +228,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Dubai Financial Market Regulated Short Sell – Weekly Summary: 04th August 2025 To 08th August 2025](http://www.mondovisione.com/media-and-resources/news/dubai-financial-market-regulated-short-sell-weekly-summary-04th-august-2025-t-202588/)
 append_entries: 2
 Finish: 2025-08-08 18:34:50.319381
+------------------------------------------------------
+Started: 2025-08-08 20:27:43.808072
+Existing_entries: 46
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Commitments Of Traders Reports Update](http://www.mondovisione.com/media-and-resources/news/cftc-commitments-of-traders-reports-update-202588/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ISX Financial EU PLC: Managing Director To Appeal Australian Civil Judgement And Orders](http://www.mondovisione.com/media-and-resources/news/isx-financial-eu-plc-managing-director-to-appeal-australian-civil-judgement-and-202588/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nodal Achieved Record Volume In Power For Calendar Month July 2025](http://www.mondovisione.com/media-and-resources/news/nodal-achieved-record-volume-in-power-for-calendar-month-july-2025-202588/)
+append_entries: 3
+Finish: 2025-08-08 20:27:45.058707
