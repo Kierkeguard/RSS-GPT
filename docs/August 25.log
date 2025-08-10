@@ -354,3 +354,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Qatar Stock Exchange - MSCI Index Review Results: August 2025](http://www.mondovisione.com/media-and-resources/news/qatar-stock-exchange-msci-index-review-results-august-2025-2025810/)
 append_entries: 1
 Finish: 2025-08-10 06:35:01.416421
+------------------------------------------------------
+Started: 2025-08-10 08:30:36.940434
+Existing_entries: 54
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-08-10 08:30:37.765121
