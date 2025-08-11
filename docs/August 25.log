@@ -492,3 +492,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [First-Quarter Of 2025 Supervisory Data Shows That The EU/EEA Banking Sector Remains Robust, Despite Increased Cost Of Risk, The EBA Risk Dashboard Finds](http://www.mondovisione.com/media-and-resources/news/first-quarter-of-2025-supervisory-data-shows-that-the-eueea-banking-sector-rema-2025811/)
 append_entries: 1
 Finish: 2025-08-11 18:37:29.148912
+------------------------------------------------------
+Started: 2025-08-11 20:25:43.000967
+Existing_entries: 66
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Swaps Report Update](http://www.mondovisione.com/media-and-resources/news/cftc-swaps-report-update-2025811/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TMX Group Equity Financing Statistics – July 2025](http://www.mondovisione.com/media-and-resources/news/tmx-group-equity-financing-statistics-july-2025-2025811/)
+append_entries: 2
+Finish: 2025-08-11 20:25:44.211116
