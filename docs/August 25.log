@@ -468,3 +468,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [UK Financial Conduct Authority Warns Consumers About Car Finance Scam Calls](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-warns-consumers-about-car-finance-scam-calls-2025811/)
 append_entries: 1
 Finish: 2025-08-11 14:26:34.739472
+------------------------------------------------------
+Started: 2025-08-11 16:33:10.274969
+Existing_entries: 62
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euronext Announces Volumes For July 2025](http://www.mondovisione.com/media-and-resources/news/euronext-announces-volumes-for-july-2025-2025811/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc ("LSEG") Transactions In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transactions-in-own-shares-2025811/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Shenzhen Stock Exchange Market Bulletin, August 08, 2025, Issue 23](http://www.mondovisione.com/media-and-resources/news/shenzhen-stock-exchange-market-bulletin-august-08-2025-issue-23-2025811/)
+append_entries: 3
+Finish: 2025-08-11 16:33:13.254006
