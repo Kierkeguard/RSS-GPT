@@ -483,3 +483,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Shenzhen Stock Exchange Market Bulletin, August 08, 2025, Issue 23](http://www.mondovisione.com/media-and-resources/news/shenzhen-stock-exchange-market-bulletin-august-08-2025-issue-23-2025811/)
 append_entries: 3
 Finish: 2025-08-11 16:33:13.254006
+------------------------------------------------------
+Started: 2025-08-11 18:37:26.895497
+Existing_entries: 65
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [First-Quarter Of 2025 Supervisory Data Shows That The EU/EEA Banking Sector Remains Robust, Despite Increased Cost Of Risk, The EBA Risk Dashboard Finds](http://www.mondovisione.com/media-and-resources/news/first-quarter-of-2025-supervisory-data-shows-that-the-eueea-banking-sector-rema-2025811/)
+append_entries: 1
+Finish: 2025-08-11 18:37:29.148912
