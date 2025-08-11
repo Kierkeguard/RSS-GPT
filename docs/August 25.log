@@ -459,3 +459,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [NGX Group Employees Volunteer To Tackle Child Malnutrition Through Project BLOOM](http://www.mondovisione.com/media-and-resources/news/ngx-group-employees-volunteer-to-tackle-child-malnutrition-through-project-bloom-2025811/)
 append_entries: 3
 Finish: 2025-08-11 12:54:23.658117
+------------------------------------------------------
+Started: 2025-08-11 14:26:33.634220
+Existing_entries: 61
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Warns Consumers About Car Finance Scam Calls](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-warns-consumers-about-car-finance-scam-calls-2025811/)
+append_entries: 1
+Finish: 2025-08-11 14:26:34.739472
