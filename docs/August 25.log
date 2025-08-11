@@ -429,3 +429,18 @@ Existing_entries: 55
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-08-11 08:36:00.673732
+------------------------------------------------------
+Started: 2025-08-11 10:28:37.269550
+Existing_entries: 55
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ICE Mortgage Monitor: Mortgage Lending Quietly Hits Highest Quarterly Volume Since 2022, Driven By Purchase And Cash-Out Refinance Loans - Cash-Out Refinances Buoyed By Tappable Equity Hitting Another Record High In Q2](http://www.mondovisione.com/media-and-resources/news/ice-mortgage-monitor-mortgage-lending-quietly-hits-highest-quarterly-volume-sin-2025811/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FTSE Mondo Visione Exchange Index Reports Mixed Performance In July 2025](http://www.mondovisione.com/media-and-resources/news/mondo-visione-exchange-index-reports-mixed-performance-in-july-2025-2025811/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Joint Committee on Climate Change Remains Committed To Advancing The Climate Agenda Through Coordinated And Collaborative Efforts](http://www.mondovisione.com/media-and-resources/news/the-joint-committee-on-climate-change-remains-committed-to-advancing-the-climate-2025811/)
+append_entries: 3
+Finish: 2025-08-11 10:28:38.513314
