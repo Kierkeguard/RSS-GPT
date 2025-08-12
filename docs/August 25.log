@@ -630,3 +630,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [FIX Publishes New Data Standards For European Capital Markets](http://www.mondovisione.com/media-and-resources/news/fix-publishes-new-data-standards-for-european-capital-markets-2025812/)
 append_entries: 2
 Finish: 2025-08-12 20:27:43.577231
+------------------------------------------------------
+Started: 2025-08-12 22:23:00.067859
+Existing_entries: 86
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-08-12 22:23:00.868877
