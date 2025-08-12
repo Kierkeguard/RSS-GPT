@@ -600,3 +600,21 @@ Existing_entries: 80
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-08-12 16:31:51.249019
+------------------------------------------------------
+Started: 2025-08-12 18:36:28.135037
+Existing_entries: 80
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SupTech Can Make Anti-Money Laundering And Countering The Financing Of Terrorism Supervision More Effective, The EBA Finds](http://www.mondovisione.com/media-and-resources/news/suptech-can-make-anti-money-laundering-and-countering-the-financing-of-terrorism-2025812/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LME And LME Clear Systems Data Centre Failover And Connectivity Test](http://www.mondovisione.com/media-and-resources/news/lme-and-lme-clear-systems-data-centre-failover-and-connectivity-test-2025812/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Dominates High-Value VC Investments In H1 2025 Globally, Leaves Peer Countries Far Behind, Finds GlobalData](http://www.mondovisione.com/media-and-resources/news/us-dominates-high-value-vc-investments-in-h1-2025-globally-leaves-peer-countrie-2025812/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Arabia Investments Holding (Demerging Company) And Arabia For Investment And Development (Spun-Off Company) To Remain In EGX Indices Following The De-Merger](http://www.mondovisione.com/media-and-resources/news/arabia-investments-holding-demerging-company-and-arabia-for-investment-and-dev-2025812/)
+append_entries: 4
+Finish: 2025-08-12 18:36:28.906448
