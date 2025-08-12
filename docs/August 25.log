@@ -540,3 +540,24 @@ Existing_entries: 70
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-08-12 06:36:58.807543
+------------------------------------------------------
+Started: 2025-08-12 08:32:41.836490
+Existing_entries: 70
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The World Federation Of Exchanges Calls For Global Tax Reform To Unlock Investment And Power Economic Growth](http://www.mondovisione.com/media-and-resources/news/the-world-federation-of-exchanges-calls-for-global-tax-reform-to-unlock-investme-2025812/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Friends Lists On Euronext](http://www.mondovisione.com/media-and-resources/news/friends-lists-on-euronext-2025812/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Securities Commission Malaysia Launches COFAR Challenge To Drive Climate Adaptation Solutions For Coastal Communities - Student Innovation To Tackle Climate Risks On Carey Island Through Real-World Adaptation Solutions](http://www.mondovisione.com/media-and-resources/news/securities-commission-malaysia-launches-cofar-challenge-to-drive-climate-adaptat-2025812/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER Grants Swedish And Lithuanian Regulators More Time To Decide On Electricity Cross-Zonal Risk Hedging Opportunities](http://www.mondovisione.com/media-and-resources/news/acer-grants-swedish-and-lithuanian-regulators-more-time-to-decide-on-electricity-2025812/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc ("LSEG")Transactions In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lsegtransactions-in-own-shares-2025812/)
+append_entries: 5
+Finish: 2025-08-12 08:32:47.084099
