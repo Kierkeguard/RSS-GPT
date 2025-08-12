@@ -573,3 +573,24 @@ Existing_entries: 75
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-08-12 12:51:34.861081
+------------------------------------------------------
+Started: 2025-08-12 14:24:51.925251
+Existing_entries: 75
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Toronto Stock Exchange, TSX Venture Exchange, TSX Alpha Exchange And Montréal Exchange Closed For Labour Day](http://www.mondovisione.com/media-and-resources/news/toronto-stock-exchange-tsx-venture-exchange-tsx-alpha-exchange-and-montral-ex-2025812/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ICE Launches Climate Risk Data And Analytics For Private Companies](http://www.mondovisione.com/media-and-resources/news/ice-launches-climate-risk-data-and-analytics-for-private-companies-2025812/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Digital Asset And Industry Working Group Complete Groundbreaking On-Chain US Treasury Financing On Canton Network](http://www.mondovisione.com/media-and-resources/news/digital-asset-and-industry-working-group-complete-groundbreaking-on-chain-us-tre-2025812/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Broadridge Partners with BMLL to Bring Advanced Pre-Trade Analytics to Global Trading Participants](http://www.mondovisione.com/media-and-resources/news/broadridge-partners-with-bmll-to-bring-advanced-pre-trade-analytics-to-global-tr-2025812/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX And Hong Kong Securities And Futures Commission Collaborate In Enforcement Action Against Two Former Listed Company Directors For Non-Cooperation In Investigations](http://www.mondovisione.com/media-and-resources/news/hkex-and-hong-kong-securities-and-futures-commission-collaborate-in-enforcement-2025812/)
+append_entries: 5
+Finish: 2025-08-12 14:24:55.035324
