@@ -618,3 +618,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Arabia Investments Holding (Demerging Company) And Arabia For Investment And Development (Spun-Off Company) To Remain In EGX Indices Following The De-Merger](http://www.mondovisione.com/media-and-resources/news/arabia-investments-holding-demerging-company-and-arabia-for-investment-and-dev-2025812/)
 append_entries: 4
 Finish: 2025-08-12 18:36:28.906448
+------------------------------------------------------
+Started: 2025-08-12 20:27:42.672571
+Existing_entries: 84
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Federal Court Orders New York Man To Pay Over $3.4 Million For Forex Fraud Scheme Following Summary Judgment Ruling - Federal Court Also Sanctioned The Defendant For His Misconduct In Filing Defamatory And False Allegations Against The CFTC And Threatening CFTC Counsel](http://www.mondovisione.com/media-and-resources/news/federal-court-orders-new-york-man-to-pay-over-34-million-for-forex-fraud-schem-2025812/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FIX Publishes New Data Standards For European Capital Markets](http://www.mondovisione.com/media-and-resources/news/fix-publishes-new-data-standards-for-european-capital-markets-2025812/)
+append_entries: 2
+Finish: 2025-08-12 20:27:43.577231
