@@ -669,3 +669,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ASIC Remakes Incidental Retail Cover Legislative Instrument](http://www.mondovisione.com/media-and-resources/news/asic-remakes-incidental-retail-cover-legislative-instrument-2025813/)
 append_entries: 3
 Finish: 2025-08-13 06:37:08.453718
+------------------------------------------------------
+Started: 2025-08-13 08:33:23.211583
+Existing_entries: 89
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Beeks Launches Market Edge Intelligence™ AI Solution To Transform Trading Intelligence](http://www.mondovisione.com/media-and-resources/news/beeks-launches-market-edge-intelligence-ai-solution-to-transform-trading-intell-2025813/)
+append_entries: 1
+Finish: 2025-08-13 08:33:24.103853
