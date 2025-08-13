@@ -654,3 +654,18 @@ Existing_entries: 86
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-08-13 04:34:27.896836
+------------------------------------------------------
+Started: 2025-08-13 06:37:07.515719
+Existing_entries: 86
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC To Review Superannuation Investment Requirements](http://www.mondovisione.com/media-and-resources/news/asic-to-review-superannuation-investment-requirements-2025813/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Speech By New Zealand Financial Markets Authority Executive Director, Licensing And Conduct Supervision, Clare Bolingford To The Future Of Financial Services Conference - Balancing Innovation, Conduct And Confidence – What’s Next For Regulation In Aotearoa’s Financial Services Sector](http://www.mondovisione.com/media-and-resources/news/speech-by-new-zealand-financial-markets-authority-executive-director-licensing-2025813/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Remakes Incidental Retail Cover Legislative Instrument](http://www.mondovisione.com/media-and-resources/news/asic-remakes-incidental-retail-cover-legislative-instrument-2025813/)
+append_entries: 3
+Finish: 2025-08-13 06:37:08.453718
