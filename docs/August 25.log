@@ -699,3 +699,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Orange Middle East And Africa, The Hashgraph Association, And Dar Blockchain Join forces For The Hedera Africa Hackathon Competition](http://www.mondovisione.com/media-and-resources/news/orange-middle-east-and-africa-the-hashgraph-association-and-dar-blockchain-joi-2025813/)
 append_entries: 1
 Finish: 2025-08-13 12:52:44.505329
+------------------------------------------------------
+Started: 2025-08-13 14:25:27.568565
+Existing_entries: 93
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-08-13 14:25:32.090313
