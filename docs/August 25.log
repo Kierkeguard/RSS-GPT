@@ -705,3 +705,15 @@ Existing_entries: 93
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-08-13 14:25:32.090313
+------------------------------------------------------
+Started: 2025-08-13 16:26:47.872570
+Existing_entries: 93
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Launches New Statistics And Data Visualizations Webpage](http://www.mondovisione.com/media-and-resources/news/sec-launches-new-statistics-and-data-visualizations-webpage-2025813/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Zhengzhou Commodity Exchange: Notice On Market Risk](http://www.mondovisione.com/media-and-resources/news/zhengzhou-commodity-exchange-notice-on-market-risk-2025813/)
+append_entries: 2
+Finish: 2025-08-13 16:26:52.301707
