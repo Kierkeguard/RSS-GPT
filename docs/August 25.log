@@ -843,3 +843,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Bursa Malaysia Announces The Appointment Of A New Independent Non-Executive Director](http://www.mondovisione.com/media-and-resources/news/bursa-malaysia-announces-the-appointment-of-a-new-independent-non-executive-dire-2025814/)
 append_entries: 3
 Finish: 2025-08-14 18:35:58.092430
+------------------------------------------------------
+Started: 2025-08-14 20:27:26.234736
+Existing_entries: 111
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group Interest Rate Futures Open Interest Sets New Record Of 40 Million Contracts](http://www.mondovisione.com/media-and-resources/news/cme-group-interest-rate-futures-open-interest-sets-new-record-of-40-million-cont-2025814/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC: Founder And Owner Of Washington-Based Water Machine Manufacturer And Two Companies Charged In $275 Million Fraud Scheme - Portfolio Manager Also Charged With Fraud In Connection With Private Fund’s Investments In The Scheme](http://www.mondovisione.com/media-and-resources/news/sec-founder-and-owner-of-washington-based-water-machine-manufacturer-and-two-co-2025814/)
+append_entries: 2
+Finish: 2025-08-14 20:27:27.908864
