@@ -855,3 +855,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SEC: Founder And Owner Of Washington-Based Water Machine Manufacturer And Two Companies Charged In $275 Million Fraud Scheme - Portfolio Manager Also Charged With Fraud In Connection With Private Fund’s Investments In The Scheme](http://www.mondovisione.com/media-and-resources/news/sec-founder-and-owner-of-washington-based-water-machine-manufacturer-and-two-co-2025814/)
 append_entries: 2
 Finish: 2025-08-14 20:27:27.908864
+------------------------------------------------------
+Started: 2025-08-14 22:23:15.472698
+Existing_entries: 113
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cboe Global Markets Declares Increased Third-Quarter 2025 Dividend](http://www.mondovisione.com/media-and-resources/news/cboe-global-markets-declares-increased-third-quarter-2025-dividend-2025814/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group Opens Registration For 22nd Annual Global University Trading Challenge](http://www.mondovisione.com/media-and-resources/news/cme-group-opens-registration-for-22nd-annual-global-university-trading-challenge-2025814/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Justice Department Announces Seizure Of Over $2.8 Million In Cryptocurrency, Cash, And other Assets](http://www.mondovisione.com/media-and-resources/news/us-justice-department-announces-seizure-of-over-28-million-in-cryptocurrency-2025814/)
+append_entries: 3
+Finish: 2025-08-14 22:23:16.246747
