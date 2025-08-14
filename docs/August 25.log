@@ -762,3 +762,21 @@ Existing_entries: 96
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-08-14 06:37:39.504029
+------------------------------------------------------
+Started: 2025-08-14 08:33:50.958311
+Existing_entries: 96
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LME Welcomes Optiver As Category 4 Member](http://www.mondovisione.com/media-and-resources/news/lme-welcomes-optiver-as-category-4-member-2025814/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [iShares Becomes New Crypto ETP Issuer At SIX Swiss Exchange](http://www.mondovisione.com/media-and-resources/news/ishares-becomes-new-crypto-etp-issuer-at-six-swiss-exchange-2025814/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASX FY25 Results – Market Announcement](http://www.mondovisione.com/media-and-resources/news/asx-fy25-results-market-announcement-2025814/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [“Advancing Our Corporate Governance Journey – Looking Inward, Outward, And Forward” – Remarks By Mr Lim Tuang Lee, Assistant Managing Director (Capital Markets), Monetary Authority Of Singapore, At The Singapore Governance And Transparency Index Forum 2025 On 13 August 2025](http://www.mondovisione.com/media-and-resources/news/advancing-our-corporate-governance-journey-looking-inward-outward-and-forwa-2025814/)
+append_entries: 4
+Finish: 2025-08-14 08:33:54.826955
