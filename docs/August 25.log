@@ -792,3 +792,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ACER Endorses The 2024 European Resource Adequacy Assessment (ERAA), Confirming Its Relevance For EU Energy Security](http://www.mondovisione.com/media-and-resources/news/acer-endorses-the-2024-european-resource-adequacy-assessment-eraa-confirming-2025814/)
 append_entries: 2
 Finish: 2025-08-14 10:27:47.050618
+------------------------------------------------------
+Started: 2025-08-14 12:53:13.261541
+Existing_entries: 102
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-08-14 12:53:17.606056
