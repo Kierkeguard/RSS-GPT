@@ -780,3 +780,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [“Advancing Our Corporate Governance Journey – Looking Inward, Outward, And Forward” – Remarks By Mr Lim Tuang Lee, Assistant Managing Director (Capital Markets), Monetary Authority Of Singapore, At The Singapore Governance And Transparency Index Forum 2025 On 13 August 2025](http://www.mondovisione.com/media-and-resources/news/advancing-our-corporate-governance-journey-looking-inward-outward-and-forwa-2025814/)
 append_entries: 4
 Finish: 2025-08-14 08:33:54.826955
+------------------------------------------------------
+Started: 2025-08-14 10:27:43.041699
+Existing_entries: 100
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ETFGI Reports European ETF Industry Surges To Record US$2.76 Trillion In Assets – Highest YTD Inflows Ever At US$207 Billion](http://www.mondovisione.com/media-and-resources/news/etfgi-reports-european-etf-industry-surges-to-record-us276-trillion-in-assets-2025814/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER Endorses The 2024 European Resource Adequacy Assessment (ERAA), Confirming Its Relevance For EU Energy Security](http://www.mondovisione.com/media-and-resources/news/acer-endorses-the-2024-european-resource-adequacy-assessment-eraa-confirming-2025814/)
+append_entries: 2
+Finish: 2025-08-14 10:27:47.050618
