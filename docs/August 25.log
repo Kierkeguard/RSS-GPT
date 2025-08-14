@@ -828,3 +828,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [The Results Of The Quarterly Review Of Qatar Stock Exchange Indices For September 2025](http://www.mondovisione.com/media-and-resources/news/the-results-of-the-quarterly-review-of-qatar-stock-exchange-indices-for-septembe-2025814/)
 append_entries: 3
 Finish: 2025-08-14 16:32:15.092417
+------------------------------------------------------
+Started: 2025-08-14 18:35:57.068108
+Existing_entries: 108
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Moscow Exchange: Updated Constituents List For OFZ Zero Coupon Yield Curve To Come Into Force On 15 August 2025](http://www.mondovisione.com/media-and-resources/news/moscow-exchange-updated-constituents-list-for-ofz-zero-coupon-yield-curve-to-c-2025814/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Canadian Securities Administrators Release 2024-2025 Year In Review](http://www.mondovisione.com/media-and-resources/news/canadian-securities-administrators-release-2024-2025-year-in-review-2025814/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bursa Malaysia Announces The Appointment Of A New Independent Non-Executive Director](http://www.mondovisione.com/media-and-resources/news/bursa-malaysia-announces-the-appointment-of-a-new-independent-non-executive-dire-2025814/)
+append_entries: 3
+Finish: 2025-08-14 18:35:58.092430
