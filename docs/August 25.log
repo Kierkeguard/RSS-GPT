@@ -798,3 +798,18 @@ Existing_entries: 102
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-08-14 12:53:17.606056
+------------------------------------------------------
+Started: 2025-08-14 14:24:54.186741
+Existing_entries: 102
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Deutsche Börse Group: Business Indicators For July 2025](http://www.mondovisione.com/media-and-resources/news/deutsche-brse-group-business-indicators-for-july-2025-2025814/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group Foundation Awards $360k In Scholarships To First Generation College Students In Illinois - More Than $4.3 Million In Scholarships Granted Since 2019](http://www.mondovisione.com/media-and-resources/news/cme-group-foundation-awards-360k-in-scholarships-to-first-generation-college-st-2025814/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc ("LSEG") Transactions In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transactions-in-own-shares-2025814/)
+append_entries: 3
+Finish: 2025-08-14 14:25:00.551398
