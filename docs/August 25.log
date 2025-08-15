@@ -882,3 +882,21 @@ Existing_entries: 116
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-08-15 04:34:37.952426
+------------------------------------------------------
+Started: 2025-08-15 06:36:43.290239
+Existing_entries: 116
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Hong Kong Securities And Futures Commission Elaborates On Robust Custody Standards For Virtual Asset Trading Platforms To Safeguard Client Virtual Assets](http://www.mondovisione.com/media-and-resources/news/hong-kong-securities-and-futures-commission-elaborates-on-robust-custody-standar-2025815/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Press Conference By KATO Katsunobu, Japan Minister Of Finance And Minister Of State For Financial Services - Long-Term Credit Bank Of Japan](http://www.mondovisione.com/media-and-resources/news/press-conference-by-kato-katsunobu-japan-minister-of-finance-and-minister-of-st-2025815/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SGX Securities Welcomes Dezign Format Group Limited To Catalist](http://www.mondovisione.com/media-and-resources/news/sgx-securities-welcomes-dezign-format-group-limited-to-catalist-2025815/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ICE Index Serves As Benchmark For Taiwan’s First Multi-Asset ETF Issued By KGI SITE](http://www.mondovisione.com/media-and-resources/news/ice-index-serves-as-benchmark-for-taiwans-first-multi-asset-etf-issued-by-kgi-s-2025815/)
+append_entries: 4
+Finish: 2025-08-15 06:36:44.157895
