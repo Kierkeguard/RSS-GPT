@@ -870,3 +870,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [US Justice Department Announces Seizure Of Over $2.8 Million In Cryptocurrency, Cash, And other Assets](http://www.mondovisione.com/media-and-resources/news/us-justice-department-announces-seizure-of-over-28-million-in-cryptocurrency-2025814/)
 append_entries: 3
 Finish: 2025-08-14 22:23:16.246747
+------------------------------------------------------
+Started: 2025-08-15 02:01:03.755890
+Existing_entries: 116
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-08-15 02:01:04.790610
