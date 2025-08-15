@@ -924,3 +924,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ACER Finds Croatian Gas Tariff Methodologies Largely In Line, While Finland Has Yet To Address Gaps](http://www.mondovisione.com/media-and-resources/news/acer-finds-croatian-gas-tariff-methodologies-largely-in-line-while-finland-has-2025815/)
 append_entries: 2
 Finish: 2025-08-15 12:49:28.175438
+------------------------------------------------------
+Started: 2025-08-15 14:23:44.874875
+Existing_entries: 122
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Malawi Stock Exchange Weekly Summary Report - 15 August 2025](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-15-august-2025-2025815/)
+append_entries: 1
+Finish: 2025-08-15 14:23:45.821496
