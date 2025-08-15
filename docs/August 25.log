@@ -951,3 +951,25 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CFFEX: Notice On Listing Of New Equity Index Futures And Options Contracts](http://www.mondovisione.com/media-and-resources/news/cffex-notice-on-listing-of-new-equity-index-futures-and-options-contracts-2025815/)
 append_entries: 4
 Finish: 2025-08-15 16:30:16.025316
+------------------------------------------------------
+Started: 2025-08-15 18:35:23.786972
+Existing_entries: 127
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Acting CFTC Chairman Pham To Speak At WebX2025](http://www.mondovisione.com/media-and-resources/news/acting-chairman-pham-to-speak-at-webx2025-2025815/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Federal Reserve Board Announces It Will Sunset Its Novel Activities Supervision Program And Return To Monitoring Banks' Novel Activities Through The Normal Supervisory Process](http://www.mondovisione.com/media-and-resources/news/federal-reserve-board-announces-it-will-sunset-its-novel-activities-supervision-2025815/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nigerian Exchange Weekly Market Report For The Week Ended 15 August 2025](http://www.mondovisione.com/media-and-resources/news/nigerian-exchange-weekly-market-report-for-the-week-ended-15-august-2025-2025815/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Dubai Financial Market Regulated Short Sell – Weekly Summary Summary Period - 11th August 2025 To 15th August 2025](http://www.mondovisione.com/media-and-resources/news/dubai-financial-market-regulated-short-sell-weekly-summary-summary-period-11-2025815/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Emirates NBD Secures Approval To Become The UAE’s First General Clearing Member For Equity Markets - New Capability Via ADX Allows The Bank To Offer Enhanced Tools, Products And Credit Facilities To Trading Members](http://www.mondovisione.com/media-and-resources/news/emirates-nbd-secures-approval-to-become-the-uaes-first-general-clearing-member-2025815/)
+Append: [London Stock Exchange Group plc ("LSEG") Transactions In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transactions-in-own-shares-2025815/)
+append_entries: 6
+Finish: 2025-08-15 18:35:28.140145
