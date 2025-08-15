@@ -973,3 +973,12 @@ Append: [Emirates NBD Secures Approval To Become The UAE’s First General Clear
 Append: [London Stock Exchange Group plc ("LSEG") Transactions In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transactions-in-own-shares-2025815/)
 append_entries: 6
 Finish: 2025-08-15 18:35:28.140145
+------------------------------------------------------
+Started: 2025-08-15 20:26:29.588668
+Existing_entries: 133
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Acting CFTC Chairman Pham To Speak At The Blockchain Leaders Summit Tokyo 2025](http://www.mondovisione.com/media-and-resources/news/acting-cftc-chairman-pham-to-speak-at-the-blockchain-leaders-summit-tokyo-2025-2025815/)
+append_entries: 1
+Finish: 2025-08-15 20:26:32.600727
