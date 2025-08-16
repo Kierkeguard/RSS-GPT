@@ -1027,3 +1027,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [US Office Of The Comptroller Of The Currency Bank Accounting Advisory Series Updated](http://www.mondovisione.com/media-and-resources/news/us-office-of-the-comptroller-of-the-currency-bank-accounting-advisory-series-upd-2025816/)
 append_entries: 2
 Finish: 2025-08-16 06:33:53.161930
+------------------------------------------------------
+Started: 2025-08-16 08:29:42.461485
+Existing_entries: 139
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-08-16 08:29:43.794408
