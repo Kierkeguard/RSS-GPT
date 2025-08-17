@@ -1138,3 +1138,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Qatar Stock Exchange Listed Companies Reported QR 26.67 billion Net Profits In The First Half Of 2025](http://www.mondovisione.com/media-and-resources/news/qatar-stock-exchange-listed-companies-reported-qr-2667-billion-net-profits-in-t-2025817/)
 append_entries: 1
 Finish: 2025-08-17 18:33:01.332507
+------------------------------------------------------
+Started: 2025-08-17 20:26:15.945364
+Existing_entries: 142
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-08-17 20:26:16.917031
