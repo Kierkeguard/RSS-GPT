@@ -1105,3 +1105,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Miami International Holdings Announces Exercise Of Underwriters' Over-Allotment Option And Closing Of Initial Public Offering](http://www.mondovisione.com/media-and-resources/news/miami-international-holdings-announces-exercise-of-underwriters-over-allotment-2025817/)
 append_entries: 1
 Finish: 2025-08-17 08:30:42.169938
+------------------------------------------------------
+Started: 2025-08-17 10:24:09.963394
+Existing_entries: 141
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-08-17 10:24:10.940386
