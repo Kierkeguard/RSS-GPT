@@ -1192,3 +1192,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Bank Mizrahi Tefahot Launches Tailor-Made Market Making Program For Its Shares](http://www.mondovisione.com/media-and-resources/news/bank-mizrahi-tefahot-launches-tailor-made-market-making-program-for-its-shares-2025818/)
 append_entries: 2
 Finish: 2025-08-18 10:28:28.522293
+------------------------------------------------------
+Started: 2025-08-18 12:53:51.019200
+Existing_entries: 146
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ETFGI Reports That Assets Invested In The ETFs Industry In Asia Pacific (Ex-Japan) Hit A New Record Of 1.41 Trillion US Dollars With Strong July Inflows](http://www.mondovisione.com/media-and-resources/news/etfgi-reports-that-assets-invested-in-the-etfs-industry-in-asia-pacific-ex-japa-2025818/)
+append_entries: 1
+Finish: 2025-08-18 12:53:54.043912
