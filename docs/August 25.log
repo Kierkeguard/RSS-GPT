@@ -1201,3 +1201,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ETFGI Reports That Assets Invested In The ETFs Industry In Asia Pacific (Ex-Japan) Hit A New Record Of 1.41 Trillion US Dollars With Strong July Inflows](http://www.mondovisione.com/media-and-resources/news/etfgi-reports-that-assets-invested-in-the-etfs-industry-in-asia-pacific-ex-japa-2025818/)
 append_entries: 1
 Finish: 2025-08-18 12:53:54.043912
+------------------------------------------------------
+Started: 2025-08-18 14:26:01.327778
+Existing_entries: 147
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Archax And Stellar Cement Strategic Collaboration For Tokenised RWAs - Stellar Invests In Archax, As Part Of Closer Collaboration](http://www.mondovisione.com/media-and-resources/news/archax-and-stellar-cement-strategic-collaboration-for-tokenised-rwas-stellar-i-2025818/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cboe Appoints Prashant Bhatia To Lead Enterprise Strategy & Corporate Development](http://www.mondovisione.com/media-and-resources/news/cboe-appoints-prashant-bhatia-to-lead-enterprise-strategy-and-corporate-developmen-2025818/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Record First Half At ICE Bonds For Corporate And Municipal Bond Trading - Registers First Spread-Based Click-To-Trade Corporate Bond Order](http://www.mondovisione.com/media-and-resources/news/record-first-half-at-ice-bonds-for-corporate-and-municipal-bond-trading-regist-2025818/)
+append_entries: 3
+Finish: 2025-08-18 14:26:04.308420
