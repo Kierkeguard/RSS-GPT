@@ -1252,3 +1252,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [The EBA Publishes Its Final Standards For Off-Balance Sheet Items Conversion Factors](http://www.mondovisione.com/media-and-resources/news/the-eba-publishes-its-final-standards-for-off-balance-sheet-items-conversion-fac-2025818/)
 append_entries: 5
 Finish: 2025-08-18 18:36:22.087740
+------------------------------------------------------
+Started: 2025-08-18 20:25:10.476324
+Existing_entries: 158
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Swaps Report Update](http://www.mondovisione.com/media-and-resources/news/cftc-swaps-report-update-2025818/)
+append_entries: 1
+Finish: 2025-08-18 20:25:11.465569
