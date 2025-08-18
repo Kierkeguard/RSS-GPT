@@ -1168,3 +1168,15 @@ Existing_entries: 142
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-08-18 06:39:52.051974
+------------------------------------------------------
+Started: 2025-08-18 08:35:01.313725
+Existing_entries: 142
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Securities Commission Malaysia’s Audit Oversight Board Prohibits Audit Partner from Auditing for One Year](http://www.mondovisione.com/media-and-resources/news/securities-commission-malaysias-audit-oversight-board-prohibits-audit-partner-f-2025818/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Thailand Securities And Exchange Commission And SET Jointly Establish “Six Pillars Of Standard Knowledge For Directors” As New Benchmark For Corporate Governance Excellence](http://www.mondovisione.com/media-and-resources/news/thailand-securities-and-exchange-commission-and-set-jointly-establish-six-pilla-2025818/)
+append_entries: 2
+Finish: 2025-08-18 08:35:02.264748
