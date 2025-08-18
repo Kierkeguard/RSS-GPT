@@ -1180,3 +1180,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Thailand Securities And Exchange Commission And SET Jointly Establish “Six Pillars Of Standard Knowledge For Directors” As New Benchmark For Corporate Governance Excellence](http://www.mondovisione.com/media-and-resources/news/thailand-securities-and-exchange-commission-and-set-jointly-establish-six-pilla-2025818/)
 append_entries: 2
 Finish: 2025-08-18 08:35:02.264748
+------------------------------------------------------
+Started: 2025-08-18 10:28:24.518638
+Existing_entries: 144
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc ("LSEG") Transactions In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transactions-in-own-shares-2025818/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bank Mizrahi Tefahot Launches Tailor-Made Market Making Program For Its Shares](http://www.mondovisione.com/media-and-resources/news/bank-mizrahi-tefahot-launches-tailor-made-market-making-program-for-its-shares-2025818/)
+append_entries: 2
+Finish: 2025-08-18 10:28:28.522293
