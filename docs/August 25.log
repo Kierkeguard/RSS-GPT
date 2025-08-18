@@ -1231,3 +1231,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Hong Kong Securities And Futures Commission Bans Zhu Hong For 12 Months And Fines Her $400,000 For Fund Management Failures](http://www.mondovisione.com/media-and-resources/news/hong-kong-securities-and-futures-commission-bans-zhu-hong-for-12-months-and-fine-2025818/)
 append_entries: 3
 Finish: 2025-08-18 16:32:15.436671
+------------------------------------------------------
+Started: 2025-08-18 18:36:20.708035
+Existing_entries: 153
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [U.S. Department Of The Treasury Issues Request For Comment Related To The Guiding And Establishing National Innovation For U.S. Stablecoins (GENIUS) Act](http://www.mondovisione.com/media-and-resources/news/us-department-of-the-treasury-issues-request-for-comment-related-to-the-guidi-2025818/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIFMA Updates Model Bond Purchase Agreements For Negotiated Municipal Securities Underwritings](http://www.mondovisione.com/media-and-resources/news/sifma-updates-model-bond-purchase-agreements-for-negotiated-municipal-securities-2025818/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Canadian Investment Regulatory Organization Detects Cybersecurity Threat](http://www.mondovisione.com/media-and-resources/news/canadian-investment-regulatory-organization-detects-cybersecurity-threat-2025818/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIFMA Fixed Income Market Close Recommendation In The U.S., The U.K., And Japan For U.S. Labor Day Holiday](http://www.mondovisione.com/media-and-resources/news/sifma-fixed-income-market-close-recommendation-in-the-us-the-uk-and-japan-2025818/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The EBA Publishes Its Final Standards For Off-Balance Sheet Items Conversion Factors](http://www.mondovisione.com/media-and-resources/news/the-eba-publishes-its-final-standards-for-off-balance-sheet-items-conversion-fac-2025818/)
+append_entries: 5
+Finish: 2025-08-18 18:36:22.087740
