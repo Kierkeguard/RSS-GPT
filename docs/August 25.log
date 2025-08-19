@@ -1336,3 +1336,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ICE Announces Its Treasury Clearing Application And Rulebook Have Been Published By The U.S. Securities And Exchange Commission](http://www.mondovisione.com/media-and-resources/news/ice-announces-its-treasury-clearing-application-and-rulebook-have-been-published-2025819/)
 append_entries: 3
 Finish: 2025-08-19 14:23:34.082933
+------------------------------------------------------
+Started: 2025-08-19 16:30:06.554619
+Existing_entries: 166
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-08-19 16:30:09.882323
