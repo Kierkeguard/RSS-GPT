@@ -1342,3 +1342,15 @@ Existing_entries: 166
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-08-19 16:30:09.882323
+------------------------------------------------------
+Started: 2025-08-19 18:31:58.073589
+Existing_entries: 166
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Sample Data Available For JPX Market Innovation & Research Customized Data On Director And Auditor Skills Of Listed Companies](http://www.mondovisione.com/media-and-resources/news/sample-data-available-for-jpx-market-innovation-and-research-customized-data-on-di-2025819/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Japan Financial Services Agency: The First Meeting Of The Working Group On Corporate Disclosure Of The Financial System Council](http://www.mondovisione.com/media-and-resources/news/japan-financial-services-agency-the-first-meeting-of-the-working-group-on-corpo-2025819/)
+append_entries: 2
+Finish: 2025-08-19 18:32:01.864911
