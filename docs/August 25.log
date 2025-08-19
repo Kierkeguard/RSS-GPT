@@ -1291,3 +1291,21 @@ Existing_entries: 159
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-08-19 06:35:59.351321
+------------------------------------------------------
+Started: 2025-08-19 08:31:42.854905
+Existing_entries: 159
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FNZ Launches Advisor AI To Redefine Advisor Productivity And Scale Personalized Advice](http://www.mondovisione.com/media-and-resources/news/fnz-launches-advisor-ai-to-redefine-advisor-productivity-and-scale-personalized-2025819/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Moscow Exchange: Non-Backward-Compatible Changes To FAST Spectra 8.6](http://www.mondovisione.com/media-and-resources/news/moscow-exchange-non-backward-compatible-changes-to-fast-spectra-86-2025819/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [GCEX Appoints Kevin Gillespie To Drive Sales & Business Development For UK/EMEA](http://www.mondovisione.com/media-and-resources/news/gcex-appoints-kevin-gillespie-to-drive-sales-and-business-development-for-ukemea-2025819/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc ("LSEG") Transactions In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transactions-in-own-shares-2025819/)
+append_entries: 4
+Finish: 2025-08-19 08:31:47.934194
