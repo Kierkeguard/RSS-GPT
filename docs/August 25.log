@@ -1354,3 +1354,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Japan Financial Services Agency: The First Meeting Of The Working Group On Corporate Disclosure Of The Financial System Council](http://www.mondovisione.com/media-and-resources/news/japan-financial-services-agency-the-first-meeting-of-the-working-group-on-corpo-2025819/)
 append_entries: 2
 Finish: 2025-08-19 18:32:01.864911
+------------------------------------------------------
+Started: 2025-08-19 20:25:56.602921
+Existing_entries: 168
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Joint Trades Call For Recalibration Of Cryptoasset Prudential Standards And Highlight DLT’s Transformative Role In Capital Markets](http://www.mondovisione.com/media-and-resources/news/joint-trades-call-for-recalibration-of-cryptoasset-prudential-standards-and-high-2025819/)
+append_entries: 1
+Finish: 2025-08-19 20:25:59.658630
