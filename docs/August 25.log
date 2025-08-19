@@ -1321,3 +1321,18 @@ Existing_entries: 163
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-08-19 12:48:24.592132
+------------------------------------------------------
+Started: 2025-08-19 14:23:30.789070
+Existing_entries: 163
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TMX Group CEO John Mckenzie To Present At The 2025 Scotiabank Financials Summit](http://www.mondovisione.com/media-and-resources/news/tmx-group-ceo-john-mckenzie-to-present-at-the-2025-scotiabank-financials-summit-2025819/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Broadridge Acquires Signal, Accelerating Global Digital Communications Expansion](http://www.mondovisione.com/media-and-resources/news/broadridge-acquires-signal-accelerating-global-digital-communications-expansion-2025819/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ICE Announces Its Treasury Clearing Application And Rulebook Have Been Published By The U.S. Securities And Exchange Commission](http://www.mondovisione.com/media-and-resources/news/ice-announces-its-treasury-clearing-application-and-rulebook-have-been-published-2025819/)
+append_entries: 3
+Finish: 2025-08-19 14:23:34.082933
