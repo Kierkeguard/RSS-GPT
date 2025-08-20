@@ -1438,3 +1438,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [HKEX 2025 Interim Results](http://www.mondovisione.com/media-and-resources/news/hkex-2025-interim-results-2025820/)
 append_entries: 5
 Finish: 2025-08-20 12:49:50.240742
+------------------------------------------------------
+Started: 2025-08-20 14:24:27.418420
+Existing_entries: 178
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Public Warned Of Impersonation Scams Carried Out In The Name Of Hong Kong Securities And Futures Commission](http://www.mondovisione.com/media-and-resources/news/public-warned-of-impersonation-scams-carried-out-in-the-name-of-hong-kong-securi-2025820/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Japan Financial Services Agency: Publication Of The Report On The Working Group On Improving Internal Audits Of Financial Institutions (2025)](http://www.mondovisione.com/media-and-resources/news/japan-financial-services-agency-publication-of-the-report-on-the-working-group-2025820/)
+append_entries: 2
+Finish: 2025-08-20 14:24:28.157140
