@@ -1396,3 +1396,12 @@ Existing_entries: 170
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-08-20 06:36:01.639258
+------------------------------------------------------
+Started: 2025-08-20 08:31:39.646142
+Existing_entries: 170
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The World Federation Of Exchanges Launches The Exchange Manifesto To Champion Exchanges As Drivers Of Prosperity](http://www.mondovisione.com/media-and-resources/news/the-world-federation-of-exchanges-launches-the-exchange-manifesto-to-champion-ex-2025820/)
+append_entries: 1
+Finish: 2025-08-20 08:31:42.786509
