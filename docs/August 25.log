@@ -1450,3 +1450,25 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Japan Financial Services Agency: Publication Of The Report On The Working Group On Improving Internal Audits Of Financial Institutions (2025)](http://www.mondovisione.com/media-and-resources/news/japan-financial-services-agency-publication-of-the-report-on-the-working-group-2025820/)
 append_entries: 2
 Finish: 2025-08-20 14:24:28.157140
+------------------------------------------------------
+Started: 2025-08-20 16:29:01.655080
+Existing_entries: 180
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Interactive Brokers Launches Connections Tool For Smarter Investment Discovery - A New Feature That Helps Investors Explore Connected Products, Strategies, And Market Themes With Greater Clarity](http://www.mondovisione.com/media-and-resources/news/interactive-brokers-launches-connections-tool-for-smarter-investment-discovery-2025820/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Technological Advancements In Payments, Federal Reserve Governor Christopher J. Waller, At The Wyoming Blockchain Symposium 2025, Teton Village, Wyoming](http://www.mondovisione.com/media-and-resources/news/technological-advancements-in-payments-federal-reserve-governor-christopher-j-2025820/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESMA And The European Environment Agency Signed A Memorandum Of Understanding To Strengthen Their Cooperation In Sustainable Finance Area](http://www.mondovisione.com/media-and-resources/news/esma-and-the-european-environment-agency-signed-a-memorandum-of-understanding-to-2025820/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Themes ETFs Launches Themes Humanoid Robotics ETF Tracking The Solactive Global Humanoid Robotics Index](http://www.mondovisione.com/media-and-resources/news/themes-etfs-launches-themes-humanoid-robotics-etf-tracking-the-solactive-global-2025820/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CMB.TECH Lists On Euronext](http://www.mondovisione.com/media-and-resources/news/cmbtech-lists-on-euronext-2025820/)
+Append: [ETFGI Reports U.S. ETF Industry Surges To Record 11.81 Trillion US Dollars In AUM Amid Unprecedented 678 Billion US Dollar YTD Net Inflows](http://www.mondovisione.com/media-and-resources/news/etfgi-reports-us-etf-industry-surges-to-record-1181-trillion-us-dollars-in-au-2025820/)
+append_entries: 6
+Finish: 2025-08-20 16:29:03.568053
