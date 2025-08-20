@@ -1487,3 +1487,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Minutes Of The Federal Open Market Committee, July 29–30, 2025](http://www.mondovisione.com/media-and-resources/news/minutes-of-the-federal-open-market-committee-july-2930-2025-2025820/)
 append_entries: 1
 Finish: 2025-08-20 20:26:12.842768
+------------------------------------------------------
+Started: 2025-08-20 22:20:59.090820
+Existing_entries: 187
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group And FanDuel Partner To Develop Innovative Event Contracts Platform](http://www.mondovisione.com/media-and-resources/news/cme-group-and-fanduel-partner-to-develop-innovative-event-contracts-platform-2025820/)
+append_entries: 1
+Finish: 2025-08-20 22:21:00.242134
