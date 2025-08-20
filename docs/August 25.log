@@ -1405,3 +1405,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [The World Federation Of Exchanges Launches The Exchange Manifesto To Champion Exchanges As Drivers Of Prosperity](http://www.mondovisione.com/media-and-resources/news/the-world-federation-of-exchanges-launches-the-exchange-manifesto-to-champion-ex-2025820/)
 append_entries: 1
 Finish: 2025-08-20 08:31:42.786509
+------------------------------------------------------
+Started: 2025-08-20 10:25:58.851754
+Existing_entries: 171
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [JP Jenkins Appoints Martin Graham As Chairman - Markets Technology Expert To Lead UK’s Largest Venue For Unlisted Assets](http://www.mondovisione.com/media-and-resources/news/jp-jenkins-appoints-martin-graham-as-chairman-markets-technology-expert-to-lea-2025820/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Droit Achieves ISO/IEC 27018:2019 Certification For Personal Data Protection In Public Clouds - Long With Recertification Of Both ISO/IEC 27001 And ISO/IEC 27017, Droit Offers Enhanced Levels Of Confidence In Cloud Security](http://www.mondovisione.com/media-and-resources/news/droit-achieves-isoiec-270182019-certification-for-personal-data-protection-in-2025820/)
+append_entries: 2
+Finish: 2025-08-20 10:26:00.069651
