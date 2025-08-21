@@ -1583,3 +1583,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [London Stock Exchange Group plc ("LSEG") Transactions In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transactions-in-own-shares-2025821/)
 append_entries: 2
 Finish: 2025-08-21 18:32:27.976992
+------------------------------------------------------
+Started: 2025-08-21 20:25:28.132467
+Existing_entries: 197
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Names Judge Margaret Ryan As Director Of The Division Of Enforcement](http://www.mondovisione.com/media-and-resources/news/sec-names-judge-margaret-ryan-as-director-of-the-division-of-enforcement-2025821/)
+append_entries: 1
+Finish: 2025-08-21 20:25:31.863349
