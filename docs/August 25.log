@@ -1571,3 +1571,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CUSIP Request Volumes For New Corporate Securities Increase In July - Municipal Request Volume Slows For Second Consecutive Month](http://www.mondovisione.com/media-and-resources/news/cusip-request-volumes-for-new-corporate-securities-increase-in-july-municipal-2025821/)
 append_entries: 1
 Finish: 2025-08-21 16:39:09.612913
+------------------------------------------------------
+Started: 2025-08-21 18:32:20.838117
+Existing_entries: 195
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [OCC Announces Enforcement Actions For August 2025](http://www.mondovisione.com/media-and-resources/news/occ-announces-enforcement-actions-for-august-2025-2025821/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc ("LSEG") Transactions In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transactions-in-own-shares-2025821/)
+append_entries: 2
+Finish: 2025-08-21 18:32:27.976992
