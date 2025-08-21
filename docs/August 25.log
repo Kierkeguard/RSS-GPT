@@ -1553,3 +1553,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [New Data Reinforces ASIC’s Focus On Consumer And Retail Investor Protection](http://www.mondovisione.com/media-and-resources/news/new-data-reinforces-asics-focus-on-consumer-and-retail-investor-protection-2025821/)
 append_entries: 5
 Finish: 2025-08-21 12:49:04.954071
+------------------------------------------------------
+Started: 2025-08-21 14:24:05.198926
+Existing_entries: 193
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FNZ Reaches Record Milestone Of US$2 Trillion In Assets On Platform](http://www.mondovisione.com/media-and-resources/news/fnz-reaches-record-milestone-of-us2-trillion-in-assets-on-platform-2025821/)
+append_entries: 1
+Finish: 2025-08-21 14:24:06.117710
