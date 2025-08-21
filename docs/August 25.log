@@ -1562,3 +1562,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [FNZ Reaches Record Milestone Of US$2 Trillion In Assets On Platform](http://www.mondovisione.com/media-and-resources/news/fnz-reaches-record-milestone-of-us2-trillion-in-assets-on-platform-2025821/)
 append_entries: 1
 Finish: 2025-08-21 14:24:06.117710
+------------------------------------------------------
+Started: 2025-08-21 16:39:08.160865
+Existing_entries: 194
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CUSIP Request Volumes For New Corporate Securities Increase In July - Municipal Request Volume Slows For Second Consecutive Month](http://www.mondovisione.com/media-and-resources/news/cusip-request-volumes-for-new-corporate-securities-increase-in-july-municipal-2025821/)
+append_entries: 1
+Finish: 2025-08-21 16:39:09.612913
