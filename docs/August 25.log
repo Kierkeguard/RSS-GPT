@@ -1532,3 +1532,24 @@ Existing_entries: 188
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-08-21 10:25:26.440291
+------------------------------------------------------
+Started: 2025-08-21 12:49:04.005872
+Existing_entries: 188
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Scammers On Notice As ASIC Steps Up Action To Protect Consumers From Online Investment Scams](http://www.mondovisione.com/media-and-resources/news/scammers-on-notice-as-asic-steps-up-action-to-protect-consumers-from-online-inve-2025821/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [JPX Market Innovation & Research: Seeking Participants For Limited Early Trial Of New Datasets On Snowflake](http://www.mondovisione.com/media-and-resources/news/jpx-market-innovation-and-research-seeking-participants-for-limited-early-trial-o-2025821/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Hong Kong Securities And Futures Commission And Hong Kong Monetary Authority To Co-Organise Hong Kong Fixed Income And Currency Forum 2025](http://www.mondovisione.com/media-and-resources/news/hong-kong-securities-and-futures-commission-and-hong-kong-monetary-authority-to-2025821/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Securities Commission Malaysia’s Audit Oversight Board: Audit Firms To Strengthen Capacity For Sustained Quality Improvements](http://www.mondovisione.com/media-and-resources/news/securities-commission-malaysias-audit-oversight-board-audit-firms-to-strengthe-2025821/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Data Reinforces ASIC’s Focus On Consumer And Retail Investor Protection](http://www.mondovisione.com/media-and-resources/news/new-data-reinforces-asics-focus-on-consumer-and-retail-investor-protection-2025821/)
+append_entries: 5
+Finish: 2025-08-21 12:49:04.954071
