@@ -1646,3 +1646,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Pirum Appoints Ben Challice As CEO](http://www.mondovisione.com/media-and-resources/news/pirum-appoints-ben-challice-as-ceo-2025822/)
 append_entries: 5
 Finish: 2025-08-22 08:31:19.099285
+------------------------------------------------------
+Started: 2025-08-22 10:24:56.976434
+Existing_entries: 204
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Miami International Holdings Added To FTSE Mondo Visione Exchanges Index Following NYSE Listing](http://www.mondovisione.com/media-and-resources/news/miami-international-holdings-added-to-ftse-mondo-visione-exchanges-index-followi-2025822/)
+append_entries: 1
+Finish: 2025-08-22 10:24:58.114834
