@@ -1667,3 +1667,24 @@ Existing_entries: 205
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-08-22 14:22:49.765433
+------------------------------------------------------
+Started: 2025-08-22 16:28:51.935358
+Existing_entries: 205
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Federal Open Market Committee Announces Approval Of Updates To Its Statement On Longer-Run Goals And Monetary Policy Strategy](http://www.mondovisione.com/media-and-resources/news/federal-open-market-committee-announces-approval-of-updates-to-its-statement-on-2025822/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Monetary Policy And The Fed’s Framework Review, Federal Reserve Chair Jerome H. Powell, At “Labor Markets In Transition: Demographics, Productivity, And Macroeconomic Policy,” An Economic Symposium Sponsored By The Federal Reserve Bank Of Kansas City, Jackson Hole, Wyoming](http://www.mondovisione.com/media-and-resources/news/monetary-policy-and-the-feds-framework-review-federal-reserve-chair-jerome-h-2025822/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Dubai Financial Market Regulated Short Sell – Weekly Summary - Summary Period: 18th August 2025 To 22nd August 2025](http://www.mondovisione.com/media-and-resources/news/dubai-financial-market-regulated-short-sell-weekly-summary-summary-period-1-2025822/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TMX Group CFO David Arnold To Present At The Barclays Global Financial Services Conference](http://www.mondovisione.com/media-and-resources/news/tmx-group-cfo-david-arnold-to-present-at-the-barclays-global-financial-services-2025822/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Malawi Stock Exchange Weekly Summary Report - 22 August 2025](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-22-august-2025-2025822/)
+append_entries: 5
+Finish: 2025-08-22 16:28:53.232470
