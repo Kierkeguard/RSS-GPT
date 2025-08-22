@@ -1715,3 +1715,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CFTC Commitments Of Traders Reports Update](http://www.mondovisione.com/media-and-resources/news/cftc-commitments-of-traders-reports-update-2025822/)
 append_entries: 1
 Finish: 2025-08-22 20:25:33.570466
+------------------------------------------------------
+Started: 2025-08-22 22:21:28.984394
+Existing_entries: 215
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-08-22 22:21:31.920889
