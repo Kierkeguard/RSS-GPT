@@ -1616,3 +1616,12 @@ Existing_entries: 198
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-08-22 04:27:22.510389
+------------------------------------------------------
+Started: 2025-08-22 06:35:23.224291
+Existing_entries: 198
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Acting CFTC Chairman Pham Announces Next Crypto Sprint Initiative](http://www.mondovisione.com/media-and-resources/news/acting-cftc-chairman-pham-announces-next-crypto-sprint-initiative-2025822/)
+append_entries: 1
+Finish: 2025-08-22 06:35:27.047976
