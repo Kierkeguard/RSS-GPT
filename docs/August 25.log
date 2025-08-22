@@ -1688,3 +1688,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Malawi Stock Exchange Weekly Summary Report - 22 August 2025](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-22-august-2025-2025822/)
 append_entries: 5
 Finish: 2025-08-22 16:28:53.232470
+------------------------------------------------------
+Started: 2025-08-22 18:32:43.050278
+Existing_entries: 210
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nigerian Exchange Group Weekly Market Report For The Week Ended 22 August 2025](http://www.mondovisione.com/media-and-resources/news/nigerian-exchange-group-weekly-market-report-for-the-week-ended-22-august-2025-2025822/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc ("LSEG") Transactions In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transactions-in-own-shares-2025822/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bursa Malaysia And Malaysian Palm Oil Council Co-Host East Malaysia Palm Oil Forum 2025 In Sabah - Forum Showcases Southeast Asia’s Leadership In Sustainable Palm Oil And    Malaysia’s Global Competitiveness](http://www.mondovisione.com/media-and-resources/news/bursa-malaysia-and-malaysian-palm-oil-council-co-host-east-malaysia-palm-oil-for-2025822/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [JPX Market Innovation & Research Adds “Margin Trading Outstanding (Issues Subject To Daily Publication)” To J-Quants API Data Service](http://www.mondovisione.com/media-and-resources/news/jpx-market-innovation-and-research-adds-margin-trading-outstanding-issues-subjec-2025822/)
+append_entries: 4
+Finish: 2025-08-22 18:32:47.847444
