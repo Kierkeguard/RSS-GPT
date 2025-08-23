@@ -1745,3 +1745,12 @@ Existing_entries: 215
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-08-23 06:31:58.627594
+------------------------------------------------------
+Started: 2025-08-23 08:27:28.860579
+Existing_entries: 215
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Airline And Former Director Pay $100,000 To The BC Securities Commission](http://www.mondovisione.com/media-and-resources/news/airline-and-former-director-pay-100000-to-the-bc-securities-commission-2025823/)
+append_entries: 1
+Finish: 2025-08-23 08:27:31.724647
