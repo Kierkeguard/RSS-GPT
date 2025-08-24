@@ -1844,3 +1844,12 @@ Existing_entries: 216
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-08-24 16:26:59.206609
+------------------------------------------------------
+Started: 2025-08-24 18:30:53.630296
+Existing_entries: 216
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Qatar Stock Exchange: FTSE Global Equity Index Series September 2025 Semi-Annual Review Changes](http://www.mondovisione.com/media-and-resources/news/qatar-stock-exchange-ftse-global-equity-index-series-september-2025-semi-annual-2025824/)
+append_entries: 1
+Finish: 2025-08-24 18:30:54.544656
