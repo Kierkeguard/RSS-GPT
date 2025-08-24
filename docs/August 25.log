@@ -1853,3 +1853,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Qatar Stock Exchange: FTSE Global Equity Index Series September 2025 Semi-Annual Review Changes](http://www.mondovisione.com/media-and-resources/news/qatar-stock-exchange-ftse-global-equity-index-series-september-2025-semi-annual-2025824/)
 append_entries: 1
 Finish: 2025-08-24 18:30:54.544656
+------------------------------------------------------
+Started: 2025-08-24 20:24:24.649717
+Existing_entries: 217
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-08-24 20:24:25.587396
