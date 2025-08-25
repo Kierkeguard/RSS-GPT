@@ -1883,3 +1883,15 @@ Existing_entries: 217
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-08-25 04:31:32.664434
+------------------------------------------------------
+Started: 2025-08-25 06:37:32.153211
+Existing_entries: 217
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tehran Securities Exchange Pioneers New Financing Tool For Knowledge-Based Entities - “Project Company” Is Introduced As A Financing Tool For Knowledge-Based Sector](http://www.mondovisione.com/media-and-resources/news/tehran-securities-exchange-pioneers-new-financing-tool-for-knowledge-based-entit-2025825/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Zealand Financial Markets Authority - Shadow Insider Trading: Regulatory Expectations And Emerging Conduct Risk](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-shadow-insider-trading-regulatory-exp-2025825/)
+append_entries: 2
+Finish: 2025-08-25 06:37:33.512092
