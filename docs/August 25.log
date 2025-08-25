@@ -1916,3 +1916,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ICE First Look At Mortgage Performance: Delinquencies Ease In July As Foreclosure Activity Edges Higher](http://www.mondovisione.com/media-and-resources/news/ice-first-look-at-mortgage-performance-delinquencies-ease-in-july-as-foreclosur-2025825/)
 append_entries: 1
 Finish: 2025-08-25 12:50:32.052857
+------------------------------------------------------
+Started: 2025-08-25 14:24:39.721717
+Existing_entries: 220
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Exchange Group - Holiday Schedule - Labor Day 2025](http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-holiday-schedule-labor-day-2025-2025825/)
+append_entries: 1
+Finish: 2025-08-25 14:24:40.615384
