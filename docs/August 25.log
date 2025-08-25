@@ -1958,3 +1958,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CalPERS Announces Candidate Forum For 2025 Member-At-Large Board Election](http://www.mondovisione.com/media-and-resources/news/calpers-announces-candidate-forum-for-2025-member-at-large-board-election-2025825/)
 append_entries: 2
 Finish: 2025-08-25 18:34:17.776853
+------------------------------------------------------
+Started: 2025-08-25 20:26:07.406182
+Existing_entries: 228
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Swaps Report Update](http://www.mondovisione.com/media-and-resources/news/cftc-swaps-report-update-2025825/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX; SEC Approval - FINRA Rule Change To Amend The Codes Of Arbitration Procedure To Make Changes To The Arbitrator List Selection Process](http://www.mondovisione.com/media-and-resources/news/miax-sec-approval-finra-rule-change-to-amend-the-codes-of-arbitration-procedu-2025825/)
+append_entries: 2
+Finish: 2025-08-25 20:26:08.557509
