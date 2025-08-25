@@ -1946,3 +1946,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Hong Kong Securities And Futures Commission: Wong Pak Ming To Stand Trial For Insider Dealing After Pleading Not Guilty](http://www.mondovisione.com/media-and-resources/news/hong-kong-securities-and-futures-commission-wong-pak-ming-to-stand-trial-for-in-2025825/)
 append_entries: 5
 Finish: 2025-08-25 16:30:19.294166
+------------------------------------------------------
+Started: 2025-08-25 18:34:17.007176
+Existing_entries: 226
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC: Section 6(b) Filing Fee Rate Advisory For Fiscal Year 2026](http://www.mondovisione.com/media-and-resources/news/sec-section-6b-filing-fee-rate-advisory-for-fiscal-year-2026-2025825/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CalPERS Announces Candidate Forum For 2025 Member-At-Large Board Election](http://www.mondovisione.com/media-and-resources/news/calpers-announces-candidate-forum-for-2025-member-at-large-board-election-2025825/)
+append_entries: 2
+Finish: 2025-08-25 18:34:17.776853
