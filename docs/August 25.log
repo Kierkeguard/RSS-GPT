@@ -2109,3 +2109,12 @@ Append: [EquiLend Onboards EFG Hermes As First Saudi Arabia-Based Client On NGT 
 Append: [Five ‘C’s For Central Bank Research − Speech By Catherine L. Mann, Bank Of England Member Of The Monetary Policy Committee - Given At The Future Of Central Banking Conference On The Occasion Of The 100th Anniversary, Banco De México](http://www.mondovisione.com/media-and-resources/news/five-cs-for-central-bank-research-speech-by-catherine-l-mann-bank-of-engla-2025826/)
 append_entries: 7
 Finish: 2025-08-26 20:25:30.745600
+------------------------------------------------------
+Started: 2025-08-26 22:21:23.904090
+Existing_entries: 257
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Announces Mid-Month Open Short Interest Positions In Nasdaq Stocks As Of Settlement Date August 15, 2025](http://www.mondovisione.com/media-and-resources/news/nasdaq-announces-mid-month-open-short-interest-positions-in-nasdaq-stocks-as-of-2025826/)
+append_entries: 1
+Finish: 2025-08-26 22:21:24.690225
