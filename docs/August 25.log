@@ -2056,3 +2056,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [London Stock Exchange’s New Private Securities Market Receives PISCES Approval Notice By The UK Financial Conduct Authority](http://www.mondovisione.com/media-and-resources/news/london-stock-exchanges-new-private-securities-market-receives-pisces-approval-n-2025826/)
 append_entries: 2
 Finish: 2025-08-26 12:51:38.811670
+------------------------------------------------------
+Started: 2025-08-26 14:22:34.977156
+Existing_entries: 246
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tehran Securities Exchange Weekly Market Snapshot - 20 August 2025](http://www.mondovisione.com/media-and-resources/news/tehran-securities-exchange-weekly-market-snapshot-20-august-2025-2025826/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US VC Funding Value Surges 75% YoY During January-July 2025, Finds GlobalData](http://www.mondovisione.com/media-and-resources/news/us-vc-funding-value-surges-75-yoy-during-january-july-2025-finds-globaldata-2025826/)
+append_entries: 2
+Finish: 2025-08-26 14:22:36.012808
