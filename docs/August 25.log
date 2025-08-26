@@ -2068,3 +2068,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [US VC Funding Value Surges 75% YoY During January-July 2025, Finds GlobalData](http://www.mondovisione.com/media-and-resources/news/us-vc-funding-value-surges-75-yoy-during-january-july-2025-finds-globaldata-2025826/)
 append_entries: 2
 Finish: 2025-08-26 14:22:36.012808
+------------------------------------------------------
+Started: 2025-08-26 16:28:43.865029
+Existing_entries: 248
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Reem Finance Signs Agreements With ADX To Enhance Investor Participation In UAE Capital Markets - The Agreement Support Reem Finance’s Strategic Transformation Journey - Aligned With ADX’s Mission To Broaden Market Access And Participation - Partnership Marks The First Step In A Broader Journey, Highlighting Reem Finance’s Transformation Into A Digital Community Bank And Boosting IPO Access And Market Liquidity](http://www.mondovisione.com/media-and-resources/news/reem-finance-signs-agreements-with-adx-to-enhance-investor-participation-in-uae-2025826/)
+append_entries: 1
+Finish: 2025-08-26 16:28:44.984748
