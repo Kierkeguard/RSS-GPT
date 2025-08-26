@@ -2086,3 +2086,26 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [The EBA Updates Data Used For The Identification Of Global Systemically Important Institutions (G-SIIs)](http://www.mondovisione.com/media-and-resources/news/the-eba-updates-data-used-for-the-identification-of-global-systemically-importan-2025826/)
 append_entries: 1
 Finish: 2025-08-26 18:32:28.921359
+------------------------------------------------------
+Started: 2025-08-26 20:25:29.692418
+Existing_entries: 250
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NYSE Group Consolidated Short Interest Report](http://www.mondovisione.com/media-and-resources/news/nyse-group-consolidated-short-interest-report-2025826/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Commissioner Kristin Johnson Announces Departure From CFTC](http://www.mondovisione.com/media-and-resources/news/commissioner-kristin-johnson-announces-departure-from-cftc-2025826/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Exchange Group - Options Markets - Market For Underlying Security Used For Openings On MIAX Options, MIAX Pearl Options, MIAX Emerald Options, And MIAX Sapphire Options For Newly Listed Symbols Effective Wednesday, August 27, 2025](http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-options-markets-market-for-underlying-security-used-for-2025826/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ISDA, SIFMA And FIA Comments On Enhanced Supplementary Leverage Ratio Reforms](http://www.mondovisione.com/media-and-resources/news/isda-sifma-and-fia-comments-on-enhanced-supplementary-leverage-ratio-reforms-2025826/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Exchange Group - Options Markets - New Listings Effective For August 27, 2025](http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-options-markets-new-listings-effective-for-august-27-20-2025826/)
+Append: [EquiLend Onboards EFG Hermes As First Saudi Arabia-Based Client On NGT Trading Platform - Milestone Deal Marks EquiLend’s Expansion Into The Kingdom With Full-Suite Automation Adoption](http://www.mondovisione.com/media-and-resources/news/equilend-onboards-efg-hermes-as-first-saudi-arabia-based-client-on-ngt-trading-p-2025826/)
+Append: [Five ‘C’s For Central Bank Research − Speech By Catherine L. Mann, Bank Of England Member Of The Monetary Policy Committee - Given At The Future Of Central Banking Conference On The Occasion Of The 100th Anniversary, Banco De México](http://www.mondovisione.com/media-and-resources/news/five-cs-for-central-bank-research-speech-by-catherine-l-mann-bank-of-engla-2025826/)
+append_entries: 7
+Finish: 2025-08-26 20:25:30.745600
