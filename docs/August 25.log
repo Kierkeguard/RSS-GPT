@@ -2012,3 +2012,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Borsa Istanbul: Announcement Regarding The Update Of BIST Market Cap Weighted Stock Indices Methodology](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-announcement-regarding-the-update-of-bist-market-cap-weighted-st-2025826/)
 append_entries: 4
 Finish: 2025-08-26 06:36:04.574329
+------------------------------------------------------
+Started: 2025-08-26 08:32:35.448940
+Existing_entries: 234
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-08-26 08:32:37.878484
