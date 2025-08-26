@@ -2044,3 +2044,15 @@ Append: [iFAST Global Bank Unveils Commercial Banking Suite With Multi-Currency 
 Append: [CoinShares Fund Flows - Fears Over FED Action Prompt Largest Outflows Since March Of US$1.43bn](http://www.mondovisione.com/media-and-resources/news/coinshares-fund-flows-fears-over-fed-action-prompt-largest-outflows-since-marc-2025826/)
 append_entries: 10
 Finish: 2025-08-26 10:25:58.551954
+------------------------------------------------------
+Started: 2025-08-26 12:51:37.512977
+Existing_entries: 244
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SET Continues The ESG DNA Project For The Second Year, Expanding Sustainability Education To 190,000 Employees](http://www.mondovisione.com/media-and-resources/news/set-continues-the-esg-dna-project-for-the-second-year-expanding-sustainability-2025826/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange’s New Private Securities Market Receives PISCES Approval Notice By The UK Financial Conduct Authority](http://www.mondovisione.com/media-and-resources/news/london-stock-exchanges-new-private-securities-market-receives-pisces-approval-n-2025826/)
+append_entries: 2
+Finish: 2025-08-26 12:51:38.811670
