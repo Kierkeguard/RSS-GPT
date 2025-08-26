@@ -1994,3 +1994,21 @@ Existing_entries: 230
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-08-26 04:28:09.198953
+------------------------------------------------------
+Started: 2025-08-26 06:36:00.592864
+Existing_entries: 230
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK VC Funding Faces Headwinds But Retains Global Relevance Amid Market Volatility, Reveals GlobalData](http://www.mondovisione.com/media-and-resources/news/uk-vc-funding-faces-headwinds-but-retains-global-relevance-amid-market-volatilit-2025826/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc ("LSEG") Transactions In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transactions-in-own-shares-2025826/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Capital Market Integrity As Cornerstone Of Hong Kong As International Financial Centre - Hong Kong Bar Association-World Justice Project Conference 2025 - Dr Kelvin Wong, Chairman, Hong Kong Securities And Futures Commission, 26 August 2025](http://www.mondovisione.com/media-and-resources/news/capital-market-integrity-as-cornerstone-of-hong-kong-as-international-financial-2025826/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Borsa Istanbul: Announcement Regarding The Update Of BIST Market Cap Weighted Stock Indices Methodology](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-announcement-regarding-the-update-of-bist-market-cap-weighted-st-2025826/)
+append_entries: 4
+Finish: 2025-08-26 06:36:04.574329
