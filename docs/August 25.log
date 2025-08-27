@@ -2160,3 +2160,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [London Stock Exchange Group plc ("LSEG") Transactions In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transactions-in-own-shares-2025827/)
 append_entries: 1
 Finish: 2025-08-27 08:30:53.542479
+------------------------------------------------------
+Started: 2025-08-27 10:23:40.338956
+Existing_entries: 262
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Thailand Focus 2025: Beyond The Challenges Showcases Thailand’s Investment Allure To Global Investors](http://www.mondovisione.com/media-and-resources/news/thailand-focus-2025-beyond-the-challenges-showcases-thailands-investment-allur-2025827/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Almost 5,000 Fake UK Financial Conduct Authority Scams Reported In First 6 Months Of 2025](http://www.mondovisione.com/media-and-resources/news/almost-5000-fake-uk-financial-conduct-authority-scams-reported-in-first-6-month-2025827/)
+append_entries: 2
+Finish: 2025-08-27 10:23:43.411645
