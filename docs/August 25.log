@@ -2229,3 +2229,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Bermuda Stock Exchange Will Be Closed For Bermuda Labour Day Public Holiday](http://www.mondovisione.com/media-and-resources/news/bermuda-stock-exchange-will-be-closed-for-bermuda-labour-day-public-holiday-2025827/)
 append_entries: 3
 Finish: 2025-08-27 18:31:41.220759
+------------------------------------------------------
+Started: 2025-08-27 20:25:20.310049
+Existing_entries: 275
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-08-27 20:25:21.549319
