@@ -2118,3 +2118,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Nasdaq Announces Mid-Month Open Short Interest Positions In Nasdaq Stocks As Of Settlement Date August 15, 2025](http://www.mondovisione.com/media-and-resources/news/nasdaq-announces-mid-month-open-short-interest-positions-in-nasdaq-stocks-as-of-2025826/)
 append_entries: 1
 Finish: 2025-08-26 22:21:24.690225
+------------------------------------------------------
+Started: 2025-08-27 01:49:29.625600
+Existing_entries: 258
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-08-27 01:49:30.903332
