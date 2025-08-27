@@ -2184,3 +2184,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [UK Financial Conduct Authority Seeks Boost To Workplace Savings To Help People Navigate Their Financial Lives](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-seeks-boost-to-workplace-savings-to-help-people-n-2025827/)
 append_entries: 2
 Finish: 2025-08-27 12:47:59.247842
+------------------------------------------------------
+Started: 2025-08-27 14:22:21.890894
+Existing_entries: 266
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Enhances Market Oversight With Advanced Surveillance Technology Platform  - Nasdaq’s Surveillance Technology Delivers Cross-Market Monitoring, Analytics, And Fraud Detection Across Traditional And Digital Asset Classes](http://www.mondovisione.com/media-and-resources/news/cftc-enhances-market-oversight-with-advanced-surveillance-technology-platform-2025827/)
+append_entries: 1
+Finish: 2025-08-27 14:22:25.074895
