@@ -2172,3 +2172,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Almost 5,000 Fake UK Financial Conduct Authority Scams Reported In First 6 Months Of 2025](http://www.mondovisione.com/media-and-resources/news/almost-5000-fake-uk-financial-conduct-authority-scams-reported-in-first-6-month-2025827/)
 append_entries: 2
 Finish: 2025-08-27 10:23:43.411645
+------------------------------------------------------
+Started: 2025-08-27 12:47:56.255979
+Existing_entries: 264
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Announces 2026 Investor Day](http://www.mondovisione.com/media-and-resources/news/nasdaq-announces-2026-investor-day-2025827/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Seeks Boost To Workplace Savings To Help People Navigate Their Financial Lives](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-seeks-boost-to-workplace-savings-to-help-people-n-2025827/)
+append_entries: 2
+Finish: 2025-08-27 12:47:59.247842
