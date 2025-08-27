@@ -2214,3 +2214,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Amman Stock Exchange: A Public Holiday On The Occasion Of The Prophet Mohammed’s Birth](http://www.mondovisione.com/media-and-resources/news/amman-stock-exchange-a-public-holiday-on-the-occasion-of-the-prophet-mohammeds-2025827/)
 append_entries: 5
 Finish: 2025-08-27 16:29:16.529240
+------------------------------------------------------
+Started: 2025-08-27 18:31:39.746848
+Existing_entries: 272
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Ontario Securities Commission: Jimmy Delinis Charged With Securities Fraud](http://www.mondovisione.com/media-and-resources/news/ontario-securities-commission-jimmy-delinis-charged-with-securities-fraud-2025827/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Ontario Securities Commission Files Bankruptcy Applications For David And Natasha Sharpe Of Bridging Finance Inc.](http://www.mondovisione.com/media-and-resources/news/ontario-securities-commission-files-bankruptcy-applications-for-david-and-natash-2025827/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bermuda Stock Exchange Will Be Closed For Bermuda Labour Day Public Holiday](http://www.mondovisione.com/media-and-resources/news/bermuda-stock-exchange-will-be-closed-for-bermuda-labour-day-public-holiday-2025827/)
+append_entries: 3
+Finish: 2025-08-27 18:31:41.220759
