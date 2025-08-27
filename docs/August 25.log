@@ -2151,3 +2151,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ASIC Moves To Modernise Trading System Rules To Keep Pace With Technology And AI](http://www.mondovisione.com/media-and-resources/news/asic-moves-to-modernise-trading-system-rules-to-keep-pace-with-technology-and-ai-2025827/)
 append_entries: 3
 Finish: 2025-08-27 06:33:35.486555
+------------------------------------------------------
+Started: 2025-08-27 08:30:48.462131
+Existing_entries: 261
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc ("LSEG") Transactions In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transactions-in-own-shares-2025827/)
+append_entries: 1
+Finish: 2025-08-27 08:30:53.542479
