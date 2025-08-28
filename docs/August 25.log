@@ -2286,3 +2286,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [MNI Indicators: MNI China Money Market Index™ – July Conditions Steady](http://www.mondovisione.com/media-and-resources/news/mni-indicators-mni-china-money-market-index-july-conditions-steady-2025828/)
 append_entries: 2
 Finish: 2025-08-28 08:30:40.199492
+------------------------------------------------------
+Started: 2025-08-28 10:24:51.553153
+Existing_entries: 280
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Stability Matters: Latest News From The FSB - August 2025](http://www.mondovisione.com/media-and-resources/news/stability-matters-latest-news-from-the-fsb-august-2025-2025828/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc ("LSEG") Transactions In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transactions-in-own-shares-2025828/)
+append_entries: 2
+Finish: 2025-08-28 10:24:55.009623
