@@ -2328,3 +2328,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [U.S. Department Of The Treasury: FinCEN Issues Advisory And Financial Trend Analysis On Chinese Money Laundering Networks](http://www.mondovisione.com/media-and-resources/news/us-department-of-the-treasury-fincen-issues-advisory-and-financial-trend-anal-2025828/)
 append_entries: 1
 Finish: 2025-08-28 14:23:08.514584
+------------------------------------------------------
+Started: 2025-08-28 16:29:05.889242
+Existing_entries: 288
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX: SEC Approval - Amended Codes Of Arbitration Procedure To Add FINRA Rules 12808 And 13808 (Accelerated Processing) For Qualified Parties](http://www.mondovisione.com/media-and-resources/news/miax-sec-approval-amended-codes-of-arbitration-procedure-to-add-finra-rules-1-2025828/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Amman Stock Exchange Weekly Summary](http://www.mondovisione.com/media-and-resources/news/amman-stock-exchange-weekly-summary-2025828/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Dubai Financial Market: Public Holiday On The Occasion Of The Prophet Mohammed’s Birth](http://www.mondovisione.com/media-and-resources/news/dubai-financial-market-public-holiday-on-the-occasion-of-the-prophet-mohammeds-2025828/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Ingenico Appoints Joanne Bennett As New Chief Financial Officer](http://www.mondovisione.com/media-and-resources/news/ingenico-appoints-joanne-bennett-as-new-chief-financial-officer-2025828/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Saxo Bank Announces H1 2025 Results With Steady Growth In Net Profits And A Record Number Of Clients](http://www.mondovisione.com/media-and-resources/news/saxo-bank-announces-h1-2025-results-with-steady-growth-in-net-profits-and-a-reco-2025828/)
+append_entries: 5
+Finish: 2025-08-28 16:29:07.028301
