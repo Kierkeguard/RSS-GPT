@@ -2319,3 +2319,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [UK Financial Conduct Authority: Investigation Into Drax Group](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-investigation-into-drax-group-2025828/)
 append_entries: 5
 Finish: 2025-08-28 12:48:17.064458
+------------------------------------------------------
+Started: 2025-08-28 14:23:06.328042
+Existing_entries: 287
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [U.S. Department Of The Treasury: FinCEN Issues Advisory And Financial Trend Analysis On Chinese Money Laundering Networks](http://www.mondovisione.com/media-and-resources/news/us-department-of-the-treasury-fincen-issues-advisory-and-financial-trend-anal-2025828/)
+append_entries: 1
+Finish: 2025-08-28 14:23:08.514584
