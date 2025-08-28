@@ -2259,3 +2259,18 @@ Existing_entries: 275
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-08-28 04:27:31.317093
+------------------------------------------------------
+Started: 2025-08-28 06:34:40.752527
+Existing_entries: 275
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nadex Product Schedule For The 2025 US Labor Day Holiday](http://www.mondovisione.com/media-and-resources/news/nadex-product-schedule-for-the-2025-us-labor-day-holiday-2025828/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Announces Agenda And Panelists For Roundtable On Trade-Through Prohibitions](http://www.mondovisione.com/media-and-resources/news/sec-announces-agenda-and-panelists-for-roundtable-on-trade-through-prohibitions-2025828/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Office Of The Comptroller Of The Currency Issues Fourth Quarter 2025 And First Quarter 2026 CRA Evaluation Schedule](http://www.mondovisione.com/media-and-resources/news/us-office-of-the-comptroller-of-the-currency-issues-fourth-quarter-2025-and-firs-2025828/)
+append_entries: 3
+Finish: 2025-08-28 06:34:41.978635
