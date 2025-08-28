@@ -2367,3 +2367,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Canadian Securities Administrators Adopts Expedited Shelf Prospectus Regime For Well-Known Seasoned Issuers](http://www.mondovisione.com/media-and-resources/news/canadian-securities-administrators-adopts-expedited-shelf-prospectus-regime-for-2025828/)
 append_entries: 4
 Finish: 2025-08-28 18:32:52.997999
+------------------------------------------------------
+Started: 2025-08-28 20:25:07.343800
+Existing_entries: 297
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-08-28 20:25:08.770261
