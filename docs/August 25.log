@@ -2274,3 +2274,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [US Office Of The Comptroller Of The Currency Issues Fourth Quarter 2025 And First Quarter 2026 CRA Evaluation Schedule](http://www.mondovisione.com/media-and-resources/news/us-office-of-the-comptroller-of-the-currency-issues-fourth-quarter-2025-and-firs-2025828/)
 append_entries: 3
 Finish: 2025-08-28 06:34:41.978635
+------------------------------------------------------
+Started: 2025-08-28 08:30:39.228489
+Existing_entries: 278
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC And APRA Host Superannuation CEOs To Discuss Governance, Risk, And Expenditure Practices](http://www.mondovisione.com/media-and-resources/news/asic-and-apra-host-superannuation-ceos-to-discuss-governance-risk-and-expendit-2025828/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MNI Indicators: MNI China Money Market Index™ – July Conditions Steady](http://www.mondovisione.com/media-and-resources/news/mni-indicators-mni-china-money-market-index-july-conditions-steady-2025828/)
+append_entries: 2
+Finish: 2025-08-28 08:30:40.199492
