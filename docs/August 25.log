@@ -2349,3 +2349,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Saxo Bank Announces H1 2025 Results With Steady Growth In Net Profits And A Record Number Of Clients](http://www.mondovisione.com/media-and-resources/news/saxo-bank-announces-h1-2025-results-with-steady-growth-in-net-profits-and-a-reco-2025828/)
 append_entries: 5
 Finish: 2025-08-28 16:29:07.028301
+------------------------------------------------------
+Started: 2025-08-28 18:32:51.547755
+Existing_entries: 293
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Acting CFTC Chairman Pham Announces FBOT Advisory To Provide Regulatory Clarity For Non-U.S. Exchanges](http://www.mondovisione.com/media-and-resources/news/acting-cftc-chairman-pham-announces-fbot-advisory-to-provide-regulatory-clarity-2025828/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Alberta Securities Commission: Craig Michael Thompson, Black Box Management Corp., And Invader Management Ltd. Ordered To Pay Nearly $9m For Running A Ponzi Scheme](http://www.mondovisione.com/media-and-resources/news/alberta-securities-commission-craig-michael-thompson-black-box-management-corp-2025828/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Platts, CME Group Announce Screen-Based Price Assessment Tool For Aluminum Midwest Premium](http://www.mondovisione.com/media-and-resources/news/platts-cme-group-announce-screen-based-price-assessment-tool-for-aluminum-midwe-2025828/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Canadian Securities Administrators Adopts Expedited Shelf Prospectus Regime For Well-Known Seasoned Issuers](http://www.mondovisione.com/media-and-resources/news/canadian-securities-administrators-adopts-expedited-shelf-prospectus-regime-for-2025828/)
+append_entries: 4
+Finish: 2025-08-28 18:32:52.997999
