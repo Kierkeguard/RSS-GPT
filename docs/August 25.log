@@ -2397,3 +2397,21 @@ Existing_entries: 297
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-08-29 04:27:49.343582
+------------------------------------------------------
+Started: 2025-08-29 06:33:59.416971
+Existing_entries: 297
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Japan Financial Services Agency: Stewardship Code : 344 Institutional Investors Have Signed Up To The Principles For Responsible Institutional Investors As Of June 30, 2025](http://www.mondovisione.com/media-and-resources/news/japan-financial-services-agency-stewardship-code-344-institutional-investors-2025829/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Montréal Exchange Interest Rate Derivative Trading Ceases At 13:30 Today, August 29, 2025 - Exchange's Markets Closed September 1, 2025](http://www.mondovisione.com/media-and-resources/news/montral-exchange-interest-rate-derivative-trading-ceases-at-1330-today-august-2025829/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Let’s Get On With It, Federal Reserve Governor Christopher J. Waller, At The Economic Club Of Miami, Miami, Florida](http://www.mondovisione.com/media-and-resources/news/lets-get-on-with-it-federal-reserve-governor-christopher-j-waller-at-the-eco-2025829/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Borsa Istanbul: Announcement On Procedure For Theoretical/Reference Price Calculations In Cases Of Corporate Actions](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-announcement-on-procedure-for-theoreticalreference-price-calcul-2025829/)
+append_entries: 4
+Finish: 2025-08-29 06:34:00.381703
