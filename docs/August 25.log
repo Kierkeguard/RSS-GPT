@@ -2439,3 +2439,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [The World Federation Of Exchanges Publishes A Call For Papers For WFEClear 2026](http://www.mondovisione.com/media-and-resources/news/the-world-federation-of-exchanges-publishes-a-call-for-papers-for-wfeclear-2026-2025829/)
 append_entries: 1
 Finish: 2025-08-29 10:24:08.853348
+------------------------------------------------------
+Started: 2025-08-29 12:46:49.455172
+Existing_entries: 305
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NSE Indices Index Dashboard For The Month Ended August 2025](http://www.mondovisione.com/media-and-resources/news/nse-indices-index-dashboard-for-the-month-ended-august-2025-2025829/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX Report On Initial Public Offering Applications, Delisting And Suspensions - August 2025](http://www.mondovisione.com/media-and-resources/news/hkex-report-on-initial-public-offering-applications-delisting-and-suspensions-2025829/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [mai-Listed Companies Post H1/2025 Total Sales Of THB 100.87 Billion And Net Profit Of THB 3.2 Billion](http://www.mondovisione.com/media-and-resources/news/mai-listed-companies-post-h12025-total-sales-of-thb-10087-billion-and-net-prof-2025829/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Thai Listed Companies Sustain Profit Growth For H1/2025 Amid Revenue Softening, Driven By Gains On Business Restructuring And Investments](http://www.mondovisione.com/media-and-resources/news/august-29-2025-thai-listed-companies-sustain-profit-growth-for-h12025-amid-2025829/)
+append_entries: 4
+Finish: 2025-08-29 12:46:54.247258
