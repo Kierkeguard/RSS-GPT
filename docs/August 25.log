@@ -2430,3 +2430,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [London Stock Exchange Group plc ("LSEG") Transactions In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transactions-in-own-shares-2025829/)
 append_entries: 3
 Finish: 2025-08-29 08:30:26.701620
+------------------------------------------------------
+Started: 2025-08-29 10:24:04.984266
+Existing_entries: 304
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The World Federation Of Exchanges Publishes A Call For Papers For WFEClear 2026](http://www.mondovisione.com/media-and-resources/news/the-world-federation-of-exchanges-publishes-a-call-for-papers-for-wfeclear-2026-2025829/)
+append_entries: 1
+Finish: 2025-08-29 10:24:08.853348
