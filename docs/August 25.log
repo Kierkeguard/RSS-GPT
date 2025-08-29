@@ -2469,3 +2469,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Malawi Stock Exchange Weekly Summary Report, 29 August 2025](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-29-august-2025-2025829/)
 append_entries: 2
 Finish: 2025-08-29 14:21:37.472090
+------------------------------------------------------
+Started: 2025-08-29 16:28:19.773344
+Existing_entries: 311
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nigerian Exchange Weekly Report For 29 August 2025](http://www.mondovisione.com/media-and-resources/news/nigerian-exchange-weekly-report-for-29-august-2025-2025829/)
+append_entries: 1
+Finish: 2025-08-29 16:28:20.757780
