@@ -2502,3 +2502,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CFTC Commitments Of Traders Reports Update](http://www.mondovisione.com/media-and-resources/news/cftc-commitments-of-traders-reports-update-2025829/)
 append_entries: 1
 Finish: 2025-08-29 20:24:15.523418
+------------------------------------------------------
+Started: 2025-08-29 22:20:56.686348
+Existing_entries: 316
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Options And MIAX Emerald Options - Member Guidance Regarding Order Unbundling](http://www.mondovisione.com/media-and-resources/news/miax-options-and-miax-emerald-options-member-guidance-regarding-order-unbundli-2025829/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Federal Reserve Board Announces Final Individual Capital Requirements For Large Banks, Effective On October 1](http://www.mondovisione.com/media-and-resources/news/federal-reserve-board-announces-final-individual-capital-requirements-for-large-2025829/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Preliminary Annual Report On U.S. Portfolio Holdings Of Foreign Securities At Year-End 2024](http://www.mondovisione.com/media-and-resources/news/preliminary-annual-report-on-us-portfolio-holdings-of-foreign-securities-at-ye-2025829/)
+append_entries: 3
+Finish: 2025-08-29 22:20:57.811597
