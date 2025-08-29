@@ -2493,3 +2493,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Borsa Istanbul: Regarding The Amendments To Be Made To The Equity-Based Circuit Breaker System, Market-Wide Circuit Breaker System And The Uptick Rule Applied To Short Selling Transactions](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-regarding-the-amendments-to-be-made-to-the-equity-based-circuit-2025829/)
 append_entries: 3
 Finish: 2025-08-29 18:29:29.123628
+------------------------------------------------------
+Started: 2025-08-29 20:24:14.270288
+Existing_entries: 315
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Commitments Of Traders Reports Update](http://www.mondovisione.com/media-and-resources/news/cftc-commitments-of-traders-reports-update-2025829/)
+append_entries: 1
+Finish: 2025-08-29 20:24:15.523418
