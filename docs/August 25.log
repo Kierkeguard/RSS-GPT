@@ -2478,3 +2478,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Nigerian Exchange Weekly Report For 29 August 2025](http://www.mondovisione.com/media-and-resources/news/nigerian-exchange-weekly-report-for-29-august-2025-2025829/)
 append_entries: 1
 Finish: 2025-08-29 16:28:20.757780
+------------------------------------------------------
+Started: 2025-08-29 18:29:28.205828
+Existing_entries: 312
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NYSE Member Firms Report Second Quarter Results](http://www.mondovisione.com/media-and-resources/news/nyse-member-firms-report-second-quarter-results-2025829/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The EBA Responds To The European Parliament’s Observations Made In The 2023 Discharge Report](http://www.mondovisione.com/media-and-resources/news/the-eba-responds-to-the-european-parliaments-observations-made-in-the-2023-disc-2025829/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Borsa Istanbul: Regarding The Amendments To Be Made To The Equity-Based Circuit Breaker System, Market-Wide Circuit Breaker System And The Uptick Rule Applied To Short Selling Transactions](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-regarding-the-amendments-to-be-made-to-the-equity-based-circuit-2025829/)
+append_entries: 3
+Finish: 2025-08-29 18:29:29.123628
