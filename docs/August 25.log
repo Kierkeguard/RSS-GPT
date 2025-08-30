@@ -2541,3 +2541,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Nadex Self-Certifies Derivatives Contract (Industry Event – Live Presentations – Statistics)](http://www.mondovisione.com/media-and-resources/news/nadex-self-certifies-derivatives-contract-industry-event-live-presentations-2025830/)
 append_entries: 2
 Finish: 2025-08-30 04:25:59.468888
+------------------------------------------------------
+Started: 2025-08-30 06:30:08.152494
+Existing_entries: 321
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-08-30 06:30:09.264606
