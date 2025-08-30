@@ -2529,3 +2529,15 @@ Existing_entries: 319
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-08-30 02:58:58.921169
+------------------------------------------------------
+Started: 2025-08-30 04:25:58.123000
+Existing_entries: 319
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Office Of The Comptroller Of The Currency Decreases The September 30, 2025, Assessment Rates For National Banks And Federal Savings Associations](http://www.mondovisione.com/media-and-resources/news/us-office-of-the-comptroller-of-the-currency-decreases-the-september-30-2025-a-2025830/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nadex Self-Certifies Derivatives Contract (Industry Event – Live Presentations – Statistics)](http://www.mondovisione.com/media-and-resources/news/nadex-self-certifies-derivatives-contract-industry-event-live-presentations-2025830/)
+append_entries: 2
+Finish: 2025-08-30 04:25:59.468888
