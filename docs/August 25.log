@@ -2649,3 +2649,18 @@ Existing_entries: 323
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-08-31 14:19:04.944267
+------------------------------------------------------
+Started: 2025-08-31 16:25:54.584832
+Existing_entries: 323
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Qatar Stock Exchange: QE Index, QE Al Rayan Islamic Index And QE All Share Constituents September 1st, 2025](http://www.mondovisione.com/media-and-resources/news/qatar-stock-exchange-qe-index-qe-al-rayan-islamic-index-and-qe-all-share-const-2025831/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Amman Stock Exchange: The New Trading Hours](http://www.mondovisione.com/media-and-resources/news/amman-stock-exchange-the-new-trading-hours-2025831/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Prophet Mohamed's Birthday (Mawled El Nabi) Holiday At EGX](http://www.mondovisione.com/media-and-resources/news/prophet-mohameds-birthday-mawled-el-nabi-holiday-at-egx-2025831/)
+append_entries: 3
+Finish: 2025-08-31 16:25:55.472758
