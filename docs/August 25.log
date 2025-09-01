@@ -2718,3 +2718,25 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [BTIG Begins Offering Access To Tokyo Stock Exchange’s CONNEQTOR Platform](http://www.mondovisione.com/media-and-resources/news/btig-begins-offering-access-to-tokyo-stock-exchanges-conneqtor-platform-202591/)
 append_entries: 3
 Finish: 2025-09-01 08:33:25.090523
+------------------------------------------------------
+Started: 2025-09-01 10:26:29.706596
+Existing_entries: 330
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Boerse Stuttgart Records August Turnover Of Around - EUR 8,1 Billion - Increase In Equities Compared To The Same Month Of The Previous Year](http://www.mondovisione.com/media-and-resources/news/boerse-stuttgart-records-august-turnover-of-around-eur-81-billion-increase-202591/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIX Exchanges Figures August 2025](http://www.mondovisione.com/media-and-resources/news/six-exchanges-figures-august-2025-202591/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX Introduces Enhancements To Margin Collateral Arrangements](http://www.mondovisione.com/media-and-resources/news/hkex-introduces-enhancements-to-margin-collateral-arrangements-202591/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Worldline Appoints New Chief People Officer](http://www.mondovisione.com/media-and-resources/news/worldline-appoints-new-chief-people-officer-202591/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BIS Latest Update - September 2025: Central Bank Mandates, Money Laundering And Tariffs](http://www.mondovisione.com/media-and-resources/news/bis-latest-update-september-2025-central-bank-mandates-money-laundering-and-202591/)
+Append: [Lunate Launches Boreas Solactive Quantum Computing UCITS ETF, the First Thematic ETF To List On ADX, Tracking The Solactive Developed Quantum Computing Index](http://www.mondovisione.com/media-and-resources/news/lunate-launches-boreas-solactive-quantum-computing-ucits-etf-the-first-thematic-202591/)
+append_entries: 6
+Finish: 2025-09-01 10:26:30.675720
