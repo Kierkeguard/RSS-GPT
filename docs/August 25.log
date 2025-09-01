@@ -2703,3 +2703,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [New Zealand Financial Markets Authority: NZ IFRS 17 Insurance Contracts Thematic Review Insights](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-nz-ifrs-17-insurance-contracts-themati-202591/)
 append_entries: 1
 Finish: 2025-09-01 06:37:12.795926
+------------------------------------------------------
+Started: 2025-09-01 08:33:24.117110
+Existing_entries: 327
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Japan Exchange Group Trading Overview In August 2025](http://www.mondovisione.com/media-and-resources/news/japan-exchange-group-trading-overview-in-august-2025-202591/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tokyo Financial Exchange Trading Volume In August 2025](http://www.mondovisione.com/media-and-resources/news/tokyo-financial-exchange-trading-volume-in-august-2025-202591/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BTIG Begins Offering Access To Tokyo Stock Exchange’s CONNEQTOR Platform](http://www.mondovisione.com/media-and-resources/news/btig-begins-offering-access-to-tokyo-stock-exchanges-conneqtor-platform-202591/)
+append_entries: 3
+Finish: 2025-09-01 08:33:25.090523
