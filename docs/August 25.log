@@ -2782,3 +2782,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Deutsche Börse  Cash Market Trading Volumes In August 2025](http://www.mondovisione.com/media-and-resources/news/deutsche-brse-cash-market-trading-volumes-in-august-2025-202591/)
 append_entries: 5
 Finish: 2025-09-01 16:27:53.137714
+------------------------------------------------------
+Started: 2025-09-01 18:31:14.833106
+Existing_entries: 344
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [His Majesty’s Treasury, The Bank Of England And UK Prudential Regulation Authority: Memorandum Of Understanding On Financial Crisis Management](http://www.mondovisione.com/media-and-resources/news/his-majestys-treasury-the-bank-of-england-and-uk-prudential-regulation-authori-202591/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [EIB Global And AfricaGrow: Strengthening Africa’s Venture Capital Landscape: Oxford University Hosts Leading VC Fund Managers](http://www.mondovisione.com/media-and-resources/news/eib-global-and-africagrow-strengthening-africas-venture-capital-landscape-oxf-202591/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc - Total Voting Rights](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-total-voting-rights-202591/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [EEX Launches CBAM Reference Price To Support Transparency On Carbon Markets](http://www.mondovisione.com/media-and-resources/news/eex-launches-cbam-reference-price-to-support-transparency-on-carbon-markets-202591/)
+append_entries: 4
+Finish: 2025-09-01 18:31:15.714900
