@@ -2740,3 +2740,18 @@ Append: [BIS Latest Update - September 2025: Central Bank Mandates, Money Launde
 Append: [Lunate Launches Boreas Solactive Quantum Computing UCITS ETF, the First Thematic ETF To List On ADX, Tracking The Solactive Developed Quantum Computing Index](http://www.mondovisione.com/media-and-resources/news/lunate-launches-boreas-solactive-quantum-computing-ucits-etf-the-first-thematic-202591/)
 append_entries: 6
 Finish: 2025-09-01 10:26:30.675720
+------------------------------------------------------
+Started: 2025-09-01 12:50:00.340012
+Existing_entries: 336
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Nordic And Baltic Markets: Trading Statistics August 2025](http://www.mondovisione.com/media-and-resources/news/nasdaq-nordic-and-baltic-markets-trading-statistics-august-2025-202591/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NSE Indices Fixed Income Index Dashboard For The Month Ended August 2025](http://www.mondovisione.com/media-and-resources/news/nse-indices-fixed-income-index-dashboard-for-the-month-ended-august-2025-202591/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LuxSE And 2X Global Release New Study On Gender-Focused Bond Market](http://www.mondovisione.com/media-and-resources/news/luxse-and-2x-global-release-new-study-on-gender-focused-bond-market-202591/)
+append_entries: 3
+Finish: 2025-09-01 12:50:01.381628
