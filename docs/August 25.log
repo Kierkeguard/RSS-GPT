@@ -2761,3 +2761,24 @@ Existing_entries: 339
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-09-01 14:22:12.178754
+------------------------------------------------------
+Started: 2025-09-01 16:27:52.320162
+Existing_entries: 339
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Moscow Exchange Trading Volumes In August 2025](http://www.mondovisione.com/media-and-resources/news/moscow-exchange-trading-volumes-in-august-2025-202591/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority: West Brothers Sentenced For Insider Trading And Forced To Pay £280,000](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-west-brothers-sentenced-for-insider-trading-and-202591/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Finansinspektionen Analysis 46: Poor Profitability For Consumers From Autocalls](http://www.mondovisione.com/media-and-resources/news/finansinspektionen-analysis-46-poor-profitability-for-consumers-from-autocalls-202591/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Statistics From Nasdaq Nordic Exchange August 2025](http://www.mondovisione.com/media-and-resources/news/statistics-from-nasdaq-nordic-exchange-august-2025-202591/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Deutsche Börse  Cash Market Trading Volumes In August 2025](http://www.mondovisione.com/media-and-resources/news/deutsche-brse-cash-market-trading-volumes-in-august-2025-202591/)
+append_entries: 5
+Finish: 2025-09-01 16:27:53.137714
