@@ -24,3 +24,15 @@ Append: [UK Financial Conduct Authority: West Brothers Sentenced For Insider Tra
 Append: [EIB Global And AfricaGrow: Strengthening Africa’s Venture Capital Landscape: Oxford University Hosts Leading VC Fund Managers](http://www.mondovisione.com/media-and-resources/news/eib-global-and-africagrow-strengthening-africas-venture-capital-landscape-oxf-202591/)
 append_entries: 10
 Finish: 2025-09-02 08:31:04.118872
+------------------------------------------------------
+Started: 2025-09-02 10:24:41.304662
+Existing_entries: 10
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Vontobel Lists Structured Securities In Easy Euwax Trading Segment - High Trading Quality And Transparency Without Exchange Transaction Fees For Around 260,000 Products](http://www.mondovisione.com/media-and-resources/news/vontobel-lists-structured-securities-in-easy-euwax-trading-segment-high-tradin-202592/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Dubai Welcomes Binghatti Holding’s USD 500 Million Sukuk Listing](http://www.mondovisione.com/media-and-resources/news/nasdaq-dubai-welcomes-binghatti-holdings-usd-500-million-sukuk-listing-202592/)
+append_entries: 2
+Finish: 2025-09-02 10:24:44.176455
