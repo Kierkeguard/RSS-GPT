@@ -36,3 +36,27 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Nasdaq Dubai Welcomes Binghatti Holding’s USD 500 Million Sukuk Listing](http://www.mondovisione.com/media-and-resources/news/nasdaq-dubai-welcomes-binghatti-holdings-usd-500-million-sukuk-listing-202592/)
 append_entries: 2
 Finish: 2025-09-02 10:24:44.176455
+------------------------------------------------------
+Started: 2025-09-02 12:49:09.810773
+Existing_entries: 12
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [DTCC Comment On Hong Kong Monetary Authority OTC Derivatives Regulatory Reporting Rewrite](http://www.mondovisione.com/media-and-resources/news/dtcc-comment-on-hong-kong-monetary-authority-otc-derivatives-regulatory-reportin-202592/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Gemini Announces Launch Of Initial Public Offering](http://www.mondovisione.com/media-and-resources/news/gemini-announces-launch-of-initial-public-offering-202592/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TMGX Launches Dedicated Green Finance Insurance Platform To Accelerate Sustainable Investment And Lending](http://www.mondovisione.com/media-and-resources/news/tmgx-launches-dedicated-green-finance-insurance-platform-to-accelerate-sustainab-202592/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Vermiculus And GreySpark Publish Insight Report On Unlocking Efficiency In Collateral Management Through Tokenization](http://www.mondovisione.com/media-and-resources/news/vermiculus-and-greyspark-publish-insight-report-on-unlocking-efficiency-in-colla-202592/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Celebrating 25 Years Of The FESE De la Vega Prize](http://www.mondovisione.com/media-and-resources/news/celebrating-25-years-of-the-fese-de-la-vega-prize-202592/)
+Append: [CoinShares Fund Flows - August Was One Of The Strongest Months Of The Year](http://www.mondovisione.com/media-and-resources/news/coinshares-fund-flows-august-was-one-of-the-strongest-months-of-the-year-202592/)
+Append: [Court Of Appeal Rules In Favour Of Securities Commission Malaysia In Insider Trading Civil Appeal - Patimas Computers Former Executive Director Fails In Bid To Overturn High Court Judgment](http://www.mondovisione.com/media-and-resources/news/court-of-appeal-rules-in-favour-of-securities-commission-malaysia-in-insider-tra-202592/)
+Append: [Nature Is A Growing Focus For Finance, Says World Federation Of Exchanges](http://www.mondovisione.com/media-and-resources/news/nature-is-a-growing-focus-for-finance-says-world-federation-of-exchanges-202592/)
+append_entries: 8
+Finish: 2025-09-02 12:49:10.811523
