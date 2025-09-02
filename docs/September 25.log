@@ -106,3 +106,12 @@ Append: [Nadex Amends Website To Reflect ISVs And TSPs](http://www.mondovisione.
 Append: [The UK Payment Systems Regulator Annual Report And Accounts 2024 To 2025](http://www.mondovisione.com/media-and-resources/news/the-uk-payment-systems-regulator-annual-report-and-accounts-2024-to-2025-202592/)
 append_entries: 6
 Finish: 2025-09-02 18:30:28.917079
+------------------------------------------------------
+Started: 2025-09-02 20:22:24.050684
+Existing_entries: 30
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Swaps Report Update](http://www.mondovisione.com/media-and-resources/news/cftc-swaps-report-update-202592/)
+append_entries: 1
+Finish: 2025-09-02 20:22:24.905115
