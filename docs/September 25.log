@@ -84,3 +84,25 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [UK Government: Proposed Amendments To The Money Laundering Regulations - Draft SI And Policy Note](http://www.mondovisione.com/media-and-resources/news/uk-government-proposed-amendments-to-the-money-laundering-regulations-draft-s-202592/)
 append_entries: 1
 Finish: 2025-09-02 16:28:40.965571
+------------------------------------------------------
+Started: 2025-09-02 18:30:27.933714
+Existing_entries: 24
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Vienna Stock Exchange: STRABAG And PORR Enter The ATX](http://www.mondovisione.com/media-and-resources/news/vienna-stock-exchange-strabag-and-porr-enter-the-atx-202592/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ISDA The Swap - Episode 51: Trading Places](http://www.mondovisione.com/media-and-resources/news/isda-the-swap-episode-51-trading-places-202592/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Ontario Securities Commission: New Framework For Distributing Disgorged Funds Collected To Harmed Investors Comes Into Force](http://www.mondovisione.com/media-and-resources/news/ontario-securities-commission-new-framework-for-distributing-disgorged-funds-co-202592/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Moscow Exchange: Concentration Limits Per Issuer On Securities Market](http://www.mondovisione.com/media-and-resources/news/moscow-exchange-concentration-limits-per-issuer-on-securities-market-202592/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nadex Amends Website To Reflect ISVs And TSPs](http://www.mondovisione.com/media-and-resources/news/nadex-amends-website-to-reflect-isvs-and-tsps-202592/)
+Append: [The UK Payment Systems Regulator Annual Report And Accounts 2024 To 2025](http://www.mondovisione.com/media-and-resources/news/the-uk-payment-systems-regulator-annual-report-and-accounts-2024-to-2025-202592/)
+append_entries: 6
+Finish: 2025-09-02 18:30:28.917079
