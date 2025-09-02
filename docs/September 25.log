@@ -60,3 +60,18 @@ Append: [Court Of Appeal Rules In Favour Of Securities Commission Malaysia In In
 Append: [Nature Is A Growing Focus For Finance, Says World Federation Of Exchanges](http://www.mondovisione.com/media-and-resources/news/nature-is-a-growing-focus-for-finance-says-world-federation-of-exchanges-202592/)
 append_entries: 8
 Finish: 2025-09-02 12:49:10.811523
+------------------------------------------------------
+Started: 2025-09-02 14:23:12.527909
+Existing_entries: 20
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: ["Life Is Better With Options": Cboe Launches New Global Ad Campaign Spotlighting The Power Of Options](http://www.mondovisione.com/media-and-resources/news/life-is-better-with-options-cboe-launches-new-global-ad-campaign-spotlighting-202592/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Purdue University-CME Group Ag Economy Barometer Index: Farmer Sentiment Weakens As Producer Confidence In Future Wanes](http://www.mondovisione.com/media-and-resources/news/purdue-university-cme-group-ag-economy-barometer-index-farmer-sentiment-weakens-202592/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Fiserv Small Business Index Holds Steady In August As Consumer Resilience Meets Spending Caution - Fiserv Small Business Index Remains At 149](http://www.mondovisione.com/media-and-resources/news/fiserv-small-business-index-holds-steady-in-august-as-consumer-resilience-meets-202592/)
+append_entries: 3
+Finish: 2025-09-02 14:23:13.619334
