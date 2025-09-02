@@ -115,3 +115,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CFTC Swaps Report Update](http://www.mondovisione.com/media-and-resources/news/cftc-swaps-report-update-202592/)
 append_entries: 1
 Finish: 2025-09-02 20:22:24.905115
+------------------------------------------------------
+Started: 2025-09-02 22:18:45.978601
+Existing_entries: 31
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MarketAxess To Participate In The Barclays Global Financial Services Conference](http://www.mondovisione.com/media-and-resources/news/marketaxess-to-participate-in-the-barclays-global-financial-services-conference-202592/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC And CFTC Staff Issue Joint Statement On Trading Of Certain Spot Crypto Asset Products](http://www.mondovisione.com/media-and-resources/news/sec-and-cftc-staff-issue-joint-statement-on-trading-of-certain-spot-crypto-asset-202592/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC-CFTC Joint Staff Statement (Project Crypto-Crypto Sprint)](http://www.mondovisione.com/media-and-resources/news/sec-cftc-joint-staff-statement-project-crypto-crypto-sprint-202592/)
+append_entries: 3
+Finish: 2025-09-02 22:18:46.778488
