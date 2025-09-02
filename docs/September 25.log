@@ -75,3 +75,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Fiserv Small Business Index Holds Steady In August As Consumer Resilience Meets Spending Caution - Fiserv Small Business Index Remains At 149](http://www.mondovisione.com/media-and-resources/news/fiserv-small-business-index-holds-steady-in-august-as-consumer-resilience-meets-202592/)
 append_entries: 3
 Finish: 2025-09-02 14:23:13.619334
+------------------------------------------------------
+Started: 2025-09-02 16:28:39.948832
+Existing_entries: 23
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Government: Proposed Amendments To The Money Laundering Regulations - Draft SI And Policy Note](http://www.mondovisione.com/media-and-resources/news/uk-government-proposed-amendments-to-the-money-laundering-regulations-draft-s-202592/)
+append_entries: 1
+Finish: 2025-09-02 16:28:40.965571
