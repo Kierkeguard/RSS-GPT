@@ -2830,3 +2830,15 @@ Existing_entries: 348
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-09-02 04:28:24.080728
+------------------------------------------------------
+Started: 2025-09-02 06:35:32.408018
+Existing_entries: 348
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bursa Malaysia Welcomes UBS Securities As First Foreign Broker Offering Islamic Stockbroking Services  - Milestone Strengthens Malaysia’s Leadership In Islamic Capital Markets And  Expands Investor Access To Shariah-Compliant Investing](http://www.mondovisione.com/media-and-resources/news/bursa-malaysia-welcomes-ubs-securities-as-first-foreign-broker-offering-islamic-202592/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC: Societe Generale Securities Australia Fined $3.88 Million For Market Gatekeeper Failures](http://www.mondovisione.com/media-and-resources/news/asic-societe-generale-securities-australia-fined-388-million-for-market-gatek-202592/)
+append_entries: 2
+Finish: 2025-09-02 06:35:33.402812
