@@ -193,3 +193,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CME Group Reports Second-Highest August ADV Of 28.1 Million Contracts -  Record Monthly ADV In Cryptocurrency Products](http://www.mondovisione.com/media-and-resources/news/cme-group-reports-second-highest-august-adv-of-281-million-contracts-record-202593/)
 append_entries: 1
 Finish: 2025-09-03 12:46:07.631613
+------------------------------------------------------
+Started: 2025-09-03 14:22:01.983325
+Existing_entries: 41
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [OCC August 2025 Monthly Volume Data](http://www.mondovisione.com/media-and-resources/news/occ-august-2025-monthly-volume-data-202593/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Global X Selects ICE Indices For Four New ETFs In Canada](http://www.mondovisione.com/media-and-resources/news/global-x-selects-ice-indices-for-four-new-etfs-in-canada-202593/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Verafin And BioCatch Form Strategic Partnership To Accelerate The Global Fight Against Financial Crime - Partnership Combines Industry-Leading Consortium Data And Behavioral Intelligence To Bolster Financial Institutions’ Defense Against Fraud](http://www.mondovisione.com/media-and-resources/news/nasdaq-verafin-and-biocatch-form-strategic-partnership-to-accelerate-the-global-202593/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FICC Submits Rule Filing With The SEC For Approval To Offer New “Collateral-in-Lieu” Service As Part Of Its Sponsored General Collateral Offering](http://www.mondovisione.com/media-and-resources/news/ficc-submits-rule-filing-with-the-sec-for-approval-to-offer-new-collateral-in-l-202593/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FNZ Appoints Ryan Beach As Group Head Of North America And Peter Hiom As Group Head Of Markets](http://www.mondovisione.com/media-and-resources/news/fnz-appoints-ryan-beach-as-group-head-of-north-america-and-peter-hiom-as-group-h-202593/)
+append_entries: 5
+Finish: 2025-09-03 14:22:06.462334
