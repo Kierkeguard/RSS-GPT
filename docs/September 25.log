@@ -148,3 +148,18 @@ Existing_entries: 34
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-09-03 04:26:24.915801
+------------------------------------------------------
+Started: 2025-09-03 06:32:16.682798
+Existing_entries: 34
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SGX Securities Welcomes The Listing Of SPDR J.P. Morgan Saudi Arabia Aggregate Bond UCITS ETF](http://www.mondovisione.com/media-and-resources/news/sgx-securities-welcomes-the-listing-of-spdr-jp-morgan-saudi-arabia-aggregate-b-202593/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Slashes Red Tape And Calls For Further Regulatory Simplification Proposals](http://www.mondovisione.com/media-and-resources/news/asic-slashes-red-tape-and-calls-for-further-regulatory-simplification-proposals-202593/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Office Of the Comptroller Of The Currency Releases CRA Performance Evaluations For 11 National Banks And Federal Savings Associations](http://www.mondovisione.com/media-and-resources/news/us-office-of-the-comptroller-of-the-currency-releases-cra-performance-evaluation-202593/)
+append_entries: 3
+Finish: 2025-09-03 06:32:17.682320
