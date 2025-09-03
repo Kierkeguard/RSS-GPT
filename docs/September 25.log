@@ -214,3 +214,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [FNZ Appoints Ryan Beach As Group Head Of North America And Peter Hiom As Group Head Of Markets](http://www.mondovisione.com/media-and-resources/news/fnz-appoints-ryan-beach-as-group-head-of-north-america-and-peter-hiom-as-group-h-202593/)
 append_entries: 5
 Finish: 2025-09-03 14:22:06.462334
+------------------------------------------------------
+Started: 2025-09-03 16:28:14.954576
+Existing_entries: 46
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Federal Reserve Board Announces It Will Host A Conference On Payments Innovation On Tuesday, October 21](http://www.mondovisione.com/media-and-resources/news/federal-reserve-board-announces-it-will-host-a-conference-on-payments-innovation-202593/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Borsa İstanbul Announces The Constituent Changes To The BIST Buyback Index For September, 2025](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-announces-the-constituent-changes-to-the-bist-buyback-index-for-s-202593/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Non-Jordanian Ownership In Companies Listed On The  Amman Stock Exchange Reached 46.8%, Of Which 32.4% For Institutional Investors](http://www.mondovisione.com/media-and-resources/news/non-jordanian-ownership-in-companies-listed-on-the-amman-stock-exchange-reached-202593/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UAE Financial Markets To Close For Prophet Mohammad’s Birthday On Friday, September 5](http://www.mondovisione.com/media-and-resources/news/uae-financial-markets-to-close-for-prophet-mohammads-birthday-on-friday-septem-202593/)
+append_entries: 4
+Finish: 2025-09-03 16:28:16.035410
