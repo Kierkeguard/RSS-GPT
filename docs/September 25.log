@@ -253,3 +253,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [August 2025 Figures At Eurex](http://www.mondovisione.com/media-and-resources/news/august-2025-figures-at-eurex-202593/)
 append_entries: 5
 Finish: 2025-09-03 18:31:26.068799
+------------------------------------------------------
+Started: 2025-09-03 20:24:26.411598
+Existing_entries: 55
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Charges Pennsylvania Resident And His Companies With $770 Million Ponzi Scheme](http://www.mondovisione.com/media-and-resources/news/sec-charges-pennsylvania-resident-and-his-companies-with-770-million-ponzi-sche-202593/)
+append_entries: 1
+Finish: 2025-09-03 20:24:27.363387
