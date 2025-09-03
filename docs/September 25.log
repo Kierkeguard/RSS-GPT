@@ -262,3 +262,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SEC Charges Pennsylvania Resident And His Companies With $770 Million Ponzi Scheme](http://www.mondovisione.com/media-and-resources/news/sec-charges-pennsylvania-resident-and-his-companies-with-770-million-ponzi-sche-202593/)
 append_entries: 1
 Finish: 2025-09-03 20:24:27.363387
+------------------------------------------------------
+Started: 2025-09-03 22:19:57.506981
+Existing_entries: 56
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Farewell Address Of CFTC Commissioner Kristin N. Johnson](http://www.mondovisione.com/media-and-resources/news/farewell-address-of-cftc-commissioner-kristin-n-johnson-202593/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Financial Stability Oversight Council Meeting](http://www.mondovisione.com/media-and-resources/news/us-financial-stability-oversight-council-meeting-202593/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cboe Global Markets To Present At The Barclays Global Financial Services Conference On September 8](http://www.mondovisione.com/media-and-resources/news/cboe-global-markets-to-present-at-the-barclays-global-financial-services-confere-202593/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Reports August 2025 Volumes](http://www.mondovisione.com/media-and-resources/news/nasdaq-reports-august-2025-volumes-202593/)
+append_entries: 4
+Finish: 2025-09-03 22:19:58.624061
