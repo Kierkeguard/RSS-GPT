@@ -130,3 +130,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SEC-CFTC Joint Staff Statement (Project Crypto-Crypto Sprint)](http://www.mondovisione.com/media-and-resources/news/sec-cftc-joint-staff-statement-project-crypto-crypto-sprint-202592/)
 append_entries: 3
 Finish: 2025-09-02 22:18:46.778488
+------------------------------------------------------
+Started: 2025-09-03 01:43:05.589309
+Existing_entries: 34
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-09-03 01:43:06.569870
