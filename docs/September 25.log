@@ -232,3 +232,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [UAE Financial Markets To Close For Prophet Mohammad’s Birthday On Friday, September 5](http://www.mondovisione.com/media-and-resources/news/uae-financial-markets-to-close-for-prophet-mohammads-birthday-on-friday-septem-202593/)
 append_entries: 4
 Finish: 2025-09-03 16:28:16.035410
+------------------------------------------------------
+Started: 2025-09-03 18:31:25.076725
+Existing_entries: 50
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Staff Issues No-Action Letter Regarding Event Contracts](http://www.mondovisione.com/media-and-resources/news/cftc-staff-issues-no-action-letter-regarding-event-contracts-202593/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Revised Lists Of The Moscow Exchange Indices Announced](http://www.mondovisione.com/media-and-resources/news/revised-lists-of-the-moscow-exchange-indices-announced-202593/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FTSE UK Index Series – Quarterly Review September 2025](http://www.mondovisione.com/media-and-resources/news/ftse-uk-index-series-quarterly-review-september-2025-202593/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FESE - Vacancy: Communications Officer](http://www.mondovisione.com/media-and-resources/news/fese-vacancy-communications-officer-202593/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [August 2025 Figures At Eurex](http://www.mondovisione.com/media-and-resources/news/august-2025-figures-at-eurex-202593/)
+append_entries: 5
+Finish: 2025-09-03 18:31:26.068799
