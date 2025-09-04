@@ -331,3 +331,25 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SET Market Report For August 2025](http://www.mondovisione.com/media-and-resources/news/set-market-report-for-august-2025-202594/)
 append_entries: 2
 Finish: 2025-09-04 08:29:00.287471
+------------------------------------------------------
+Started: 2025-09-04 10:23:07.406101
+Existing_entries: 67
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Buy Side Investment Research Spend Remains Flat Despite AUM Growth – Substantive Research Survey](http://www.mondovisione.com/media-and-resources/news/buy-side-investment-research-spend-remains-flat-despite-aum-growth-substantive-202594/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Eurex Launches Credit Index Derivatives Partnership Program With Leading Financial Institutions](http://www.mondovisione.com/media-and-resources/news/eurex-launches-credit-index-derivatives-partnership-program-with-leading-financi-202594/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BME Launches European-Style Cash-Settled Options](http://www.mondovisione.com/media-and-resources/news/bme-launches-european-style-cash-settled-options-202594/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Boerse Stuttgart Group Launches First Digital Pan-European  Settlement Platform For Tokenized Assets: Seturion](http://www.mondovisione.com/media-and-resources/news/boerse-stuttgart-group-launches-first-digital-pan-european-settlement-platform-202594/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Eurex: FX Market Targets Listed Efficiencies With Options Push](http://www.mondovisione.com/media-and-resources/news/eurex-fx-market-targets-listed-efficiencies-with-options-push-202594/)
+Append: [London Stock Exchange Group plc ("LSEG") Transactions In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transactions-in-own-shares-202594/)
+append_entries: 6
+Finish: 2025-09-04 10:23:16.372966
