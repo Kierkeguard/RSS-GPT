@@ -319,3 +319,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SIFMA’s Peter Ryan And Charles DeSimone - Modern Markets, Enduring Protections: Protecting Investors In Tokenized Securities](http://www.mondovisione.com/media-and-resources/news/sifmas-peter-ryan-and-charles-desimone-modern-markets-enduring-protections-202594/)
 append_entries: 5
 Finish: 2025-09-04 06:32:45.551716
+------------------------------------------------------
+Started: 2025-09-04 08:28:59.435124
+Existing_entries: 65
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Vienna Stock Exchange: New Composition Of CEE Benchmark Indices](http://www.mondovisione.com/media-and-resources/news/vienna-stock-exchange-new-composition-of-cee-benchmark-indices-202594/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SET Market Report For August 2025](http://www.mondovisione.com/media-and-resources/news/set-market-report-for-august-2025-202594/)
+append_entries: 2
+Finish: 2025-09-04 08:29:00.287471
