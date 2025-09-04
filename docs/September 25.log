@@ -298,3 +298,24 @@ Existing_entries: 60
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-09-04 04:26:21.284850
+------------------------------------------------------
+Started: 2025-09-04 06:32:44.765451
+Existing_entries: 60
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASX Group Monthly Activity Report - August 2025](http://www.mondovisione.com/media-and-resources/news/asx-group-monthly-activity-report-august-2025-202594/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Hong Kong Securities And Futures Commission-Hong Kong Monetary Authority Joint Survey Shows Record Investment Product Sales And Market Participation In 2024](http://www.mondovisione.com/media-and-resources/news/hong-kong-securities-and-futures-commission-hong-kong-monetary-authority-joint-s-202594/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Proposes Changes To Its Listing Standards](http://www.mondovisione.com/media-and-resources/news/nasdaq-proposes-changes-to-its-listing-standards-202594/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Financial Stability Oversight Council To Meet September 10](http://www.mondovisione.com/media-and-resources/news/us-financial-stability-oversight-council-to-meet-september-10-202594/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIFMA’s Peter Ryan And Charles DeSimone - Modern Markets, Enduring Protections: Protecting Investors In Tokenized Securities](http://www.mondovisione.com/media-and-resources/news/sifmas-peter-ryan-and-charles-desimone-modern-markets-enduring-protections-202594/)
+append_entries: 5
+Finish: 2025-09-04 06:32:45.551716
