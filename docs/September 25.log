@@ -424,3 +424,21 @@ Append: [Juniper Square Announces Strategic Investment From Nasdaq Ventures to A
 Append: [Acting CFTC Chairman Pham Statement On Spring 2025 Unified Agenda](http://www.mondovisione.com/media-and-resources/news/acting-cftc-chairman-pham-statement-on-spring-2025-unified-agenda-202594/)
 append_entries: 7
 Finish: 2025-09-04 20:23:55.008259
+------------------------------------------------------
+Started: 2025-09-04 22:20:17.124151
+Existing_entries: 88
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Acting CFTC  Chairman Pham Announces Successful Completion of Enforcement Sprint - Sprint Initiative Involved 10 Firms; Applied Recent Self-Reporting & Cooperation Matrix](http://www.mondovisione.com/media-and-resources/news/acting-cftc-chairman-pham-announces-successful-completion-of-enforcement-sprint-202594/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq CFO Sarah Youngwood To Present At Barclays Annual Global Financial Services Conference](http://www.mondovisione.com/media-and-resources/news/nasdaq-cfo-sarah-youngwood-to-present-at-barclays-annual-global-financial-servic-202594/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cboe Global Markets Reports Trading Volume For August 2025](http://www.mondovisione.com/media-and-resources/news/cboe-global-markets-reports-trading-volume-for-august-2025-202594/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Quarterly Adjustment Of GPW Benchmark Indices](http://www.mondovisione.com/media-and-resources/news/quarterly-adjustment-of-gpw-benchmark-indices-202594/)
+append_entries: 4
+Finish: 2025-09-04 22:20:18.278792
