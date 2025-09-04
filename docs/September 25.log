@@ -386,3 +386,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CME Leading Financial Institutions To Join BrokerTec Chicago For First Day Of Trading](http://www.mondovisione.com/media-and-resources/news/cme-leading-financial-institutions-to-join-brokertec-chicago-for-first-day-of-tr-202594/)
 append_entries: 4
 Finish: 2025-09-04 14:21:33.667813
+------------------------------------------------------
+Started: 2025-09-04 16:28:42.115085
+Existing_entries: 80
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-09-04 16:28:43.367337
