@@ -353,3 +353,18 @@ Append: [Eurex: FX Market Targets Listed Efficiencies With Options Push](http://
 Append: [London Stock Exchange Group plc ("LSEG") Transactions In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transactions-in-own-shares-202594/)
 append_entries: 6
 Finish: 2025-09-04 10:23:16.372966
+------------------------------------------------------
+Started: 2025-09-04 12:43:55.790217
+Existing_entries: 73
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FTSE Russell Straits Times Index (STI) Quarterly Review](http://www.mondovisione.com/media-and-resources/news/ftse-russell-straits-times-index-sti-quarterly-review-202594/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Puro.earth Secures €11 M Series B Financing Led By Nasdaq With Participation From Fortum Innovation & Venturing To Strengthen Its Supplier Infrastructure](http://www.mondovisione.com/media-and-resources/news/puroearth-secures-11-m-series-b-financing-led-by-nasdaq-with-participation-fro-202594/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [S-RM Announces New Partnership With RingStone To Deliver Combined Technology And Cyber Due Diligence Services](http://www.mondovisione.com/media-and-resources/news/s-rm-announces-new-partnership-with-ringstone-to-deliver-combined-technology-and-202594/)
+append_entries: 3
+Finish: 2025-09-04 12:43:56.641322
