@@ -392,3 +392,12 @@ Existing_entries: 80
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-09-04 16:28:43.367337
+------------------------------------------------------
+Started: 2025-09-04 18:31:31.983472
+Existing_entries: 80
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Baker Tilly Establishes UAE Presence At DIFC To Drive Regional Growth](http://www.mondovisione.com/media-and-resources/news/baker-tilly-establishes-uae-presence-at-difc-to-drive-regional-growth-202594/)
+append_entries: 1
+Finish: 2025-09-04 18:31:32.897235
