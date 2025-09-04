@@ -368,3 +368,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [S-RM Announces New Partnership With RingStone To Deliver Combined Technology And Cyber Due Diligence Services](http://www.mondovisione.com/media-and-resources/news/s-rm-announces-new-partnership-with-ringstone-to-deliver-combined-technology-and-202594/)
 append_entries: 3
 Finish: 2025-09-04 12:43:56.641322
+------------------------------------------------------
+Started: 2025-09-04 14:21:32.963279
+Existing_entries: 76
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER Will Consult On Amendments To The REMIT Market Participant Registration Format And The CEREMP Platform](http://www.mondovisione.com/media-and-resources/news/acer-will-consult-on-amendments-to-the-remit-market-participant-registration-for-202594/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Intercontinental Exchange Reports August Statistics](http://www.mondovisione.com/media-and-resources/news/intercontinental-exchange-reports-august-statistics-202594/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Statement On The Spring 2025 Regulatory Agenda By SEC Chairman Paul S. Atkins](http://www.mondovisione.com/media-and-resources/news/statement-on-the-spring-2025-regulatory-agenda-by-sec-chairman-paul-s-atkins-202594/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Leading Financial Institutions To Join BrokerTec Chicago For First Day Of Trading](http://www.mondovisione.com/media-and-resources/news/cme-leading-financial-institutions-to-join-brokertec-chicago-for-first-day-of-tr-202594/)
+append_entries: 4
+Finish: 2025-09-04 14:21:33.667813
