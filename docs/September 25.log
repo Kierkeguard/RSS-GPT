@@ -454,3 +454,12 @@ Existing_entries: 92
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-09-05 03:01:15.387094
+------------------------------------------------------
+Started: 2025-09-05 04:27:14.466700
+Existing_entries: 92
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIFMA’s Private Markets Valuation Roundtable, SEC Commissioner Mark T. Uyeda, Washington D.C., Sept. 4, 2025](http://www.mondovisione.com/media-and-resources/news/sifmas-private-markets-valuation-roundtable-sec-commissioner-mark-t-uyeda-wa-202595/)
+append_entries: 1
+Finish: 2025-09-05 04:27:15.416655
