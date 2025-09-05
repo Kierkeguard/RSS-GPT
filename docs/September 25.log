@@ -463,3 +463,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SIFMA’s Private Markets Valuation Roundtable, SEC Commissioner Mark T. Uyeda, Washington D.C., Sept. 4, 2025](http://www.mondovisione.com/media-and-resources/news/sifmas-private-markets-valuation-roundtable-sec-commissioner-mark-t-uyeda-wa-202595/)
 append_entries: 1
 Finish: 2025-09-05 04:27:15.416655
+------------------------------------------------------
+Started: 2025-09-05 06:33:14.996905
+Existing_entries: 93
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Releases August 2025 Financial Adviser Exam Results](http://www.mondovisione.com/media-and-resources/news/asic-releases-august-2025-financial-adviser-exam-results-202595/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Industry Groups Call On Congress To Renew Critical Cybersecurity Law Before September 30 Expiration](http://www.mondovisione.com/media-and-resources/news/us-industry-groups-call-on-congress-to-renew-critical-cybersecurity-law-before-s-202595/)
+append_entries: 2
+Finish: 2025-09-05 06:33:16.268998
