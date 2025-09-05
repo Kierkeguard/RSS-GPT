@@ -527,3 +527,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Joint Statement From The Chairman Of The SEC And Acting Chairman Of The CFTC - Chairman Paul S. Atkins, U.S. Securities And Exchange Commission, And Acting Chairman Caroline D. Pham, U.S. Commodity Futures Trading Commission](http://www.mondovisione.com/media-and-resources/news/joint-statement-from-the-chairman-of-the-sec-and-acting-chairman-of-the-cftc-c-202595/)
 append_entries: 1
 Finish: 2025-09-05 14:20:54.873867
+------------------------------------------------------
+Started: 2025-09-05 16:26:15.844345
+Existing_entries: 105
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC And CFTC Issue Joint Statement On Regulatory Harmonization Efforts: Will Co-Host Roundtable Sept. 29](http://www.mondovisione.com/media-and-resources/news/sec-and-cftc-issue-joint-statement-on-regulatory-harmonization-efforts-will-co-202595/)
+append_entries: 1
+Finish: 2025-09-05 16:26:17.348470
