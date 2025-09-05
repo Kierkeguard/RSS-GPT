@@ -568,3 +568,12 @@ Append: [SIX: Index Adjustments On The Occasion Of The Ordinary Index Review](ht
 Append: [EEX Group Monthly Volumes – August 2025](http://www.mondovisione.com/media-and-resources/news/eex-group-monthly-volumes-august-2025-202595/)
 append_entries: 10
 Finish: 2025-09-05 20:24:23.119011
+------------------------------------------------------
+Started: 2025-09-05 22:20:29.018960
+Existing_entries: 116
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Issues Policy Statement On Referrals For Potential Criminal Enforcement](http://www.mondovisione.com/media-and-resources/news/cftc-issues-policy-statement-on-referrals-for-potential-criminal-enforcement-202595/)
+append_entries: 1
+Finish: 2025-09-05 22:20:30.123397
