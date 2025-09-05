@@ -496,3 +496,25 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ACER: Meeting 70% Grid Capacity Rule Could Have Avoided Electricity Price Spikes In South-East Europe](http://www.mondovisione.com/media-and-resources/news/acer-meeting-70-grid-capacity-rule-could-have-avoided-electricity-price-spikes-202595/)
 append_entries: 1
 Finish: 2025-09-05 10:23:47.792437
+------------------------------------------------------
+Started: 2025-09-05 12:45:18.589138
+Existing_entries: 98
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tradeweb Reports August 2025 Total Trading Volume Of $54.1 Trillion And Average Daily Volume Of $2.5 Trillion - August 2025 ADV Up 11.3% YoY](http://www.mondovisione.com/media-and-resources/news/tradeweb-reports-august-2025-total-trading-volume-of-541-trillion-and-average-202595/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Moscow Exchange: Concentration Limits Per Issuer On Securities Market](http://www.mondovisione.com/media-and-resources/news/moscow-exchange-concentration-limits-per-issuer-on-securities-market-202595/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group Inc. Announces Third-Quarter 2025 Earnings Release, Conference Call](http://www.mondovisione.com/media-and-resources/news/cme-group-inc-announces-third-quarter-2025-earnings-release-conference-call-202595/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MarketAxess Announces Trading Volume Statistics For August 2025](http://www.mondovisione.com/media-and-resources/news/marketaxess-announces-trading-volume-statistics-for-august-2025-202595/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Fiserv Continues European Growth By Closing Acquisition Of AIB Merchant Services](http://www.mondovisione.com/media-and-resources/news/fiserv-continues-european-growth-by-closing-acquisition-of-aib-merchant-services-202595/)
+Append: [UK Financial Conduct Authority Seeks Views On Proposals To Provide Fair Access To The London Stock Exchange’s Data Centre Rooftop](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-seeks-views-on-proposals-to-provide-fair-access-t-202595/)
+append_entries: 6
+Finish: 2025-09-05 12:45:22.603366
