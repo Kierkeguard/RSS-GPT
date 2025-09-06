@@ -607,3 +607,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Nadex Amends Cronos Touch Bracket Contracts Minimum Tick Size](http://www.mondovisione.com/media-and-resources/news/nadex-amends-cronos-touch-bracket-contracts-minimum-tick-size-202596/)
 append_entries: 2
 Finish: 2025-09-06 06:29:43.244398
+------------------------------------------------------
+Started: 2025-09-06 08:24:58.619698
+Existing_entries: 119
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-09-06 08:24:59.755258
