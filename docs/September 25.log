@@ -577,3 +577,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CFTC Issues Policy Statement On Referrals For Potential Criminal Enforcement](http://www.mondovisione.com/media-and-resources/news/cftc-issues-policy-statement-on-referrals-for-potential-criminal-enforcement-202595/)
 append_entries: 1
 Finish: 2025-09-05 22:20:30.123397
+------------------------------------------------------
+Started: 2025-09-06 01:42:45.493868
+Existing_entries: 117
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-09-06 01:42:46.244558
