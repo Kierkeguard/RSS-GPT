@@ -709,3 +709,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Eric Joins ISSA](http://www.mondovisione.com/media-and-resources/news/eric-joins-issa-202597/)
 append_entries: 1
 Finish: 2025-09-07 14:18:06.126442
+------------------------------------------------------
+Started: 2025-09-07 16:24:33.773192
+Existing_entries: 121
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-09-07 16:24:34.914891
