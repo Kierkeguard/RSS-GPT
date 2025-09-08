@@ -817,3 +817,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Desjardins Investments Expands ETF Offering With Launch Of Desjardins American Mid Cap Equity Index ETF, Tracking The Solactive GBS United States 400 CAD Index (CA NTR)](http://www.mondovisione.com/media-and-resources/news/desjardins-investments-expands-etf-offering-with-launch-of-desjardins-american-m-202598/)
 append_entries: 2
 Finish: 2025-09-08 14:23:47.765049
+------------------------------------------------------
+Started: 2025-09-08 16:28:40.727374
+Existing_entries: 133
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euronext Announces Volumes For August 2025](http://www.mondovisione.com/media-and-resources/news/euronext-announces-volumes-for-august-2025-202598/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CoinShares To Go Public In The U.S. Through US$1.2 Billion Business Combination](http://www.mondovisione.com/media-and-resources/news/coinshares-to-go-public-in-the-us-through-us12-billion-business-combination-202598/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER Welcomes Updates To ENTSO-E’s Transparency Platform Manual](http://www.mondovisione.com/media-and-resources/news/acer-welcomes-updates-to-entso-es-transparency-platform-manual-202598/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Dubai Solidifies Position As Middle East, Africa And South Asia’s Global Private Wealth Hub Amidst Capital Shift To Private Markets, DIFC Report Reveals](http://www.mondovisione.com/media-and-resources/news/dubai-solidifies-position-as-middle-east-africa-and-south-asias-global-private-202598/)
+append_entries: 4
+Finish: 2025-09-08 16:28:42.038009
