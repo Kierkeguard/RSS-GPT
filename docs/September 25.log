@@ -805,3 +805,15 @@ Existing_entries: 131
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-09-08 12:49:44.137135
+------------------------------------------------------
+Started: 2025-09-08 14:23:46.349474
+Existing_entries: 131
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Miami International Holdings Reports Trading Results For August 2025](http://www.mondovisione.com/media-and-resources/news/miami-international-holdings-reports-trading-results-for-august-2025-202598/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Desjardins Investments Expands ETF Offering With Launch Of Desjardins American Mid Cap Equity Index ETF, Tracking The Solactive GBS United States 400 CAD Index (CA NTR)](http://www.mondovisione.com/media-and-resources/news/desjardins-investments-expands-etf-offering-with-launch-of-desjardins-american-m-202598/)
+append_entries: 2
+Finish: 2025-09-08 14:23:47.765049
