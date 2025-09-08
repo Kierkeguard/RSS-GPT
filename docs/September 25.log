@@ -757,3 +757,24 @@ Existing_entries: 121
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-09-08 06:35:16.808701
+------------------------------------------------------
+Started: 2025-09-08 08:32:16.406504
+Existing_entries: 121
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Samsung Securities Launches Two ETNs Tracking Solactive China Mobility Top 5 Hedged To KRW Index And AI Tech Top 5 Hedged To KRW Index In First Collaboration With Solactive](http://www.mondovisione.com/media-and-resources/news/samsung-securities-launches-two-etns-tracking-solactive-china-mobility-top-5-hed-202598/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Zealand Financial Markets Authority: ANZ Admits To Making Misleading Statements And Makes Payment Of $3.25 Million](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-anz-admits-to-making-misleading-stateme-202598/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Monetary Authority Of Singapore: Green Investments Partnership, A Blended Finance Fund Under Singapore’s FAST-P initiative, Achieves First Close With US$510 Million In Committed Capital](http://www.mondovisione.com/media-and-resources/news/monetary-authority-of-singapore-green-investments-partnership-a-blended-financ-202598/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Update - Dividend/Distribution - ASX](http://www.mondovisione.com/media-and-resources/news/update-dividenddistribution-asx-202598/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NZX - Prescribed Person Trading Settings: Notice Of Amendments](http://www.mondovisione.com/media-and-resources/news/nzx-prescribed-person-trading-settings-notice-of-amendments-202598/)
+append_entries: 5
+Finish: 2025-09-08 08:32:17.210706
