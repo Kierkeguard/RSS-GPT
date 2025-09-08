@@ -857,3 +857,15 @@ Append: [EACH Calls For A Balanced And Proportionate Approach In ESMA’s EMIR 3
 Append: [Quoreka Resets Executive Team To Supercharge Customer-Centricity And Usher In A New Era Of E/CTRM Innovation - Hope Best Appointed Chief Customer Officer And Rahul Jain Named Chief Technology Officer](http://www.mondovisione.com/media-and-resources/news/quoreka-resets-executive-team-to-supercharge-customer-centricity-and-usher-in-a-202598/)
 append_entries: 6
 Finish: 2025-09-08 18:33:05.976257
+------------------------------------------------------
+Started: 2025-09-08 20:24:58.410085
+Existing_entries: 143
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Crypto Task Force To Host Roundtable On Financial Surveillance And Privacy](http://www.mondovisione.com/media-and-resources/news/sec-crypto-task-force-to-host-roundtable-on-financial-surveillance-and-privacy-202598/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Swaps Report Update](http://www.mondovisione.com/media-and-resources/news/cftc-swaps-report-update-202598/)
+append_entries: 2
+Finish: 2025-09-08 20:24:59.395319
