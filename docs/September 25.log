@@ -962,3 +962,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Nordea ETF ICAV Becomes New ETF Issuer At SIX Swiss Exchange](http://www.mondovisione.com/media-and-resources/news/nordea-etf-icav-becomes-new-etf-issuer-at-six-swiss-exchange-202599/)
 append_entries: 2
 Finish: 2025-09-09 12:50:14.852037
+------------------------------------------------------
+Started: 2025-09-09 14:20:35.672528
+Existing_entries: 162
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [24X National Exchange Partners With TNS To Provide Market Data Connectivity Across 23/5 Trading In U.S. Equities](http://www.mondovisione.com/media-and-resources/news/24x-national-exchange-partners-with-tns-to-provide-market-data-connectivity-acro-202599/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group Launches Analytics To Empower Volatility Traders In Increasingly Active Options Market](http://www.mondovisione.com/media-and-resources/news/cme-group-launches-analytics-to-empower-volatility-traders-in-increasingly-activ-202599/)
+append_entries: 2
+Finish: 2025-09-09 14:20:36.792472
