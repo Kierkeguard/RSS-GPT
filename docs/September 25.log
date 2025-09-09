@@ -905,3 +905,26 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Australian Securities And Investment Commission Signs MoU With The International Financial Services Centres Authority](http://www.mondovisione.com/media-and-resources/news/australian-securities-and-investment-commission-signs-mou-with-the-international-202599/)
 append_entries: 2
 Finish: 2025-09-09 06:34:40.578739
+------------------------------------------------------
+Started: 2025-09-09 08:31:18.955849
+Existing_entries: 147
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [AutoRek ARIA: Multi-Skilled AI Agent Launches For Financial Reconciliation Operations](http://www.mondovisione.com/media-and-resources/news/autorek-aria-multi-skilled-ai-agent-launches-for-financial-reconciliation-opera-202599/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LSEG Launches REDI On Workspace, Integrating Execution, Content And Analytics For Smarter Trading](http://www.mondovisione.com/media-and-resources/news/lseg-launches-redi-on-workspace-integrating-execution-content-and-analytics-fo-202599/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Taiwan Futures Exchange Newsletter - September 2025](http://www.mondovisione.com/media-and-resources/news/taiwan-futures-exchange-newsletter-september-2025-202599/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CoinShares Fund Flows - Minor Outflows As Weak Payrolls Did Not Seem To Bolster Sentiment](http://www.mondovisione.com/media-and-resources/news/coinshares-fund-flows-minor-outflows-as-weak-payrolls-did-not-seem-to-bolster-202599/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Ping An Of China Partners With Solactive AG To Launch Ping An East-West Select ETF, Tracking The Solactive Global Pacific Select HKD Index](http://www.mondovisione.com/media-and-resources/news/ping-an-of-china-partners-with-solactive-ag-to-launch-ping-an-east-west-select-e-202599/)
+Append: [Thunes Launches Real-Time Payments Into Morocco - Members Of Thunes' Direct Global Network Can Now Offer Real-Time Payments To Bank Accounts In Morocco, Meeting Consumer Demand For Faster Cross-Border Commerce](http://www.mondovisione.com/media-and-resources/news/thunes-launches-real-time-payments-into-morocco-members-of-thunes-direct-glob-202599/)
+Append: [London Stock Exchange Group plc ("LSEG") Transactions In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transactions-in-own-shares-202599/)
+append_entries: 7
+Finish: 2025-09-09 08:31:23.831881
