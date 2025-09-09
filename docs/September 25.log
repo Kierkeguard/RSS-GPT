@@ -983,3 +983,26 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Cboe Plans to Launch Continuous Futures For Bitcoin And Ether, Beginning November 10](http://www.mondovisione.com/media-and-resources/news/cboe-plans-to-launch-continuous-futures-for-bitcoin-and-ether-beginning-novembe-202599/)
 append_entries: 1
 Finish: 2025-09-09 16:28:57.905809
+------------------------------------------------------
+Started: 2025-09-09 18:29:19.838343
+Existing_entries: 165
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Toronto Stock Exchange Announces The 2025 TSX30™, Showcasing The Companies Contributing To Canada's Economic Transformation](http://www.mondovisione.com/media-and-resources/news/toronto-stock-exchange-announces-the-2025-tsx30-showcasing-the-companies-contr-202599/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Sanctions Colorado Trader And Illinois Company To Pay $200,000 For Spoofing](http://www.mondovisione.com/media-and-resources/news/cftc-sanctions-colorado-trader-and-illinois-company-to-pay-200000-for-spoofing-202599/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nodal Achieved Growth In Power And Environmental Markets In August 2025](http://www.mondovisione.com/media-and-resources/news/nodal-achieved-growth-in-power-and-environmental-markets-in-august-2025-202599/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Issues Withdrawal Of Operational Resilience Framework Proposed Rules](http://www.mondovisione.com/media-and-resources/news/cftc-issues-withdrawal-of-operational-resilience-framework-proposed-rules-202599/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The ESAs Note Greater Effort From Financial Market Participants In Their Disclosure Of Principal Adverse Impacts](http://www.mondovisione.com/media-and-resources/news/the-esas-note-greater-effort-from-financial-market-participants-in-their-disclos-202599/)
+Append: [Bill Ackman Rings The Opening Bell At TASE In Support Of Israel's Economy: A Voice For Israel, A Leader In The Market Bill Ackman Rings The Opening Bell At The Tel Aviv Stock Exchange (TASE) In Support Of Israel's Economy: “Owning An Exchange Is Like Owning A Royalty On The Success Of A Country”](http://www.mondovisione.com/media-and-resources/news/bill-ackman-rings-the-opening-bell-at-tase-in-support-of-israels-economy-a-voi-202599/)
+Append: [ESMA: Heightened Geopolitical Uncertainties Drive Risks](http://www.mondovisione.com/media-and-resources/news/esma-heightened-geopolitical-uncertainties-drive-risks-202599/)
+append_entries: 7
+Finish: 2025-09-09 18:29:21.133370
