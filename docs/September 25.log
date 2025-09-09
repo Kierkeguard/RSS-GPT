@@ -928,3 +928,25 @@ Append: [Thunes Launches Real-Time Payments Into Morocco - Members Of Thunes' Di
 Append: [London Stock Exchange Group plc ("LSEG") Transactions In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transactions-in-own-shares-202599/)
 append_entries: 7
 Finish: 2025-09-09 08:31:23.831881
+------------------------------------------------------
+Started: 2025-09-09 10:25:17.864483
+Existing_entries: 154
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER To Decide On Amending The Maximum And Minimum Clearing Prices For The European Day-Ahead And Intraday Electricity Markets](http://www.mondovisione.com/media-and-resources/news/acer-to-decide-on-amending-the-maximum-and-minimum-clearing-prices-for-the-europ-202599/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Dubai Welcomes Republic Of Indonesia’s Two Sukuk Listings Equals To USD 2.2 Billion](http://www.mondovisione.com/media-and-resources/news/nasdaq-dubai-welcomes-republic-of-indonesias-two-sukuk-listings-equals-to-usd-2-202599/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Broadridge Ranked #3 In The 2025 IDC FinTech Rankings Top 100, Wins Capital Markets Transformation Award - Broadridge Remains In The Top Three Ranking For Third Consecutive Year](http://www.mondovisione.com/media-and-resources/news/broadridge-ranked-3-in-the-2025-idc-fintech-rankings-top-100-wins-capital-mark-202599/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FIA Urges ESMA Not To Mandate Overly Prescriptive Margin Transparency Requirements For Clearing Member Firms](http://www.mondovisione.com/media-and-resources/news/fia-urges-esma-not-to-mandate-overly-prescriptive-margin-transparency-requiremen-202599/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [DiffusionData Releases Diffusion 6.12](http://www.mondovisione.com/media-and-resources/news/diffusiondata-releases-diffusion-612-202599/)
+Append: ["Europe’s Liquidity Challenge: Intra-Market Fragmentation" Says Oliver Wyman's Report - Liquidity Fragmentation In Europe Emerges From Intra-Market Rather Than Cross-Market Fragmentation](http://www.mondovisione.com/media-and-resources/news/europes-liquidity-challenge-intra-market-fragmentation-says-oliver-wymans-r-202599/)
+append_entries: 6
+Finish: 2025-09-09 10:25:19.161765
