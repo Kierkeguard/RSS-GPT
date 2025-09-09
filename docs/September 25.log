@@ -950,3 +950,15 @@ Append: [DiffusionData Releases Diffusion 6.12](http://www.mondovisione.com/medi
 Append: ["Europe’s Liquidity Challenge: Intra-Market Fragmentation" Says Oliver Wyman's Report - Liquidity Fragmentation In Europe Emerges From Intra-Market Rather Than Cross-Market Fragmentation](http://www.mondovisione.com/media-and-resources/news/europes-liquidity-challenge-intra-market-fragmentation-says-oliver-wymans-r-202599/)
 append_entries: 6
 Finish: 2025-09-09 10:25:19.161765
+------------------------------------------------------
+Started: 2025-09-09 12:50:13.879139
+Existing_entries: 160
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BlockFills, QIS Risk Collaborate In Providing Comprehensive Portfolio Visibility And Sophisticated Risk Analysis In Active Options* Environment](http://www.mondovisione.com/media-and-resources/news/blockfills-qis-risk-collaborate-in-providing-comprehensive-portfolio-visibility-202599/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nordea ETF ICAV Becomes New ETF Issuer At SIX Swiss Exchange](http://www.mondovisione.com/media-and-resources/news/nordea-etf-icav-becomes-new-etf-issuer-at-six-swiss-exchange-202599/)
+append_entries: 2
+Finish: 2025-09-09 12:50:14.852037
