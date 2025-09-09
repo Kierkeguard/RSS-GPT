@@ -974,3 +974,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CME Group Launches Analytics To Empower Volatility Traders In Increasingly Active Options Market](http://www.mondovisione.com/media-and-resources/news/cme-group-launches-analytics-to-empower-volatility-traders-in-increasingly-activ-202599/)
 append_entries: 2
 Finish: 2025-09-09 14:20:36.792472
+------------------------------------------------------
+Started: 2025-09-09 16:28:56.893678
+Existing_entries: 164
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cboe Plans to Launch Continuous Futures For Bitcoin And Ether, Beginning November 10](http://www.mondovisione.com/media-and-resources/news/cboe-plans-to-launch-continuous-futures-for-bitcoin-and-ether-beginning-novembe-202599/)
+append_entries: 1
+Finish: 2025-09-09 16:28:57.905809
