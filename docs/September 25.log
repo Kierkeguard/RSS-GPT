@@ -893,3 +893,15 @@ Existing_entries: 145
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-09-09 04:27:46.548047
+------------------------------------------------------
+Started: 2025-09-09 06:34:39.509281
+Existing_entries: 145
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SGX Securities Welcomes MetaOptics Ltd To Catalist](http://www.mondovisione.com/media-and-resources/news/sgx-securities-welcomes-metaoptics-ltd-to-catalist-202599/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Australian Securities And Investment Commission Signs MoU With The International Financial Services Centres Authority](http://www.mondovisione.com/media-and-resources/news/australian-securities-and-investment-commission-signs-mou-with-the-international-202599/)
+append_entries: 2
+Finish: 2025-09-09 06:34:40.578739
