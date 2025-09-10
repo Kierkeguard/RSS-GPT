@@ -1136,3 +1136,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Keynote Address At The Inaugural OECD Roundtable On Global Financial Markets, Paul S. Atkins, SEC Chairman, Paris, France, Sept. 10, 2025](http://www.mondovisione.com/media-and-resources/news/keynote-address-at-the-inaugural-oecd-roundtable-on-global-financial-markets-pa-2025910/)
 append_entries: 2
 Finish: 2025-09-10 14:21:15.539732
+------------------------------------------------------
+Started: 2025-09-10 16:28:49.986668
+Existing_entries: 198
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [James Moloney Named Director Of Division Of Corporation Finance](http://www.mondovisione.com/media-and-resources/news/james-moloney-named-director-of-division-of-corporation-finance-2025910/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cboe Plans To Launch Cash-Settled Futures And Options On New Index Tracking Tech And Growth-Orientated U.S. Stocks](http://www.mondovisione.com/media-and-resources/news/cboe-plans-to-launch-cash-settled-futures-and-options-on-new-index-tracking-tech-2025910/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority: First Court Appearance For Three ‘Finfluencers’ Charged In FCA-Led Global Crackdown On Illegal Promotions](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-first-court-appearance-for-three-finfluencers-2025910/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Black Manta Capital Partners Partners With Canton Network And Launches First European Security Token Offering (RWA) On The Institutional Blockchain](http://www.mondovisione.com/media-and-resources/news/black-manta-capital-partners-partners-with-canton-network-and-launches-first-eur-2025910/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Cuts More Data Reporting To Benefit 11,000 Firms](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-cuts-more-data-reporting-to-benefit-11000-firms-2025910/)
+append_entries: 5
+Finish: 2025-09-10 16:28:51.332111
