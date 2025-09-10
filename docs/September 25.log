@@ -1124,3 +1124,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [European Investment Bank Appoints Marek Mora As New Vice-President](http://www.mondovisione.com/media-and-resources/news/european-investment-bank-appoints-marek-mora-as-new-vice-president-2025910/)
 append_entries: 5
 Finish: 2025-09-10 12:45:51.032462
+------------------------------------------------------
+Started: 2025-09-10 14:21:14.246322
+Existing_entries: 196
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Starting From September 16, 2025, The Process Of Publishing Trading And End Of Day Index Data Will Be Changed On The Moscow Exchange](http://www.mondovisione.com/media-and-resources/news/starting-from-september-16-2025-the-process-of-publishing-trading-and-end-of-d-2025910/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Keynote Address At The Inaugural OECD Roundtable On Global Financial Markets, Paul S. Atkins, SEC Chairman, Paris, France, Sept. 10, 2025](http://www.mondovisione.com/media-and-resources/news/keynote-address-at-the-inaugural-oecd-roundtable-on-global-financial-markets-pa-2025910/)
+append_entries: 2
+Finish: 2025-09-10 14:21:15.539732
