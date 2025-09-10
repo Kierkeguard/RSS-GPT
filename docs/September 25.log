@@ -1157,3 +1157,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [UK Financial Conduct Authority Cuts More Data Reporting To Benefit 11,000 Firms](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-cuts-more-data-reporting-to-benefit-11000-firms-2025910/)
 append_entries: 5
 Finish: 2025-09-10 16:28:51.332111
+------------------------------------------------------
+Started: 2025-09-10 18:32:03.979572
+Existing_entries: 203
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Fiserv Ranked No. 1 In IDC FinTech Rankings Top 100 For Third Consecutive Year - IDC Financial Insights Ranks Top Enterprises Worldwide Serving The Financial Services Industry](http://www.mondovisione.com/media-and-resources/news/fiserv-ranked-no-1-in-idc-fintech-rankings-top-100-for-third-consecutive-year-2025910/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euronext Announces September 2025 Results Of The OBX® Family](http://www.mondovisione.com/media-and-resources/news/euronext-announces-september-2025-results-of-the-obx-family-2025910/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bank Of England: Minutes Of The Money Market Committee Meeting – June 2025](http://www.mondovisione.com/media-and-resources/news/bank-of-england-minutes-of-the-money-market-committee-meeting-june-2025-2025910/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euronext Announces September 2025 Quarterly Review Results Of The BEL® Family Indices](http://www.mondovisione.com/media-and-resources/news/euronext-announces-september-2025-quarterly-review-results-of-the-bel-family-in-2025910/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euronext Announces September 2025 Quarterly Review Results Of The PSI®](http://www.mondovisione.com/media-and-resources/news/euronext-announces-september-2025-quarterly-review-results-of-the-psi-2025910/)
+append_entries: 5
+Finish: 2025-09-10 18:32:05.206619
