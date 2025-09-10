@@ -1178,3 +1178,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Euronext Announces September 2025 Quarterly Review Results Of The PSI®](http://www.mondovisione.com/media-and-resources/news/euronext-announces-september-2025-quarterly-review-results-of-the-psi-2025910/)
 append_entries: 5
 Finish: 2025-09-10 18:32:05.206619
+------------------------------------------------------
+Started: 2025-09-10 20:24:47.661670
+Existing_entries: 208
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Announces End-Of-Month Open Short Interest Positions In Nasdaq Stocks As Of Settlement Date August 29, 2025](http://www.mondovisione.com/media-and-resources/news/nasdaq-announces-end-of-month-open-short-interest-positions-in-nasdaq-stocks-as-2025910/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NYSE Group Consolidated Short Interest Report](http://www.mondovisione.com/media-and-resources/news/nyse-group-consolidated-short-interest-report-2025910/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Exchange Group - Moment Of Silence On Thursday, September 11, 2025](http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-moment-of-silence-on-thursday-september-11-2025-2025910/)
+append_entries: 3
+Finish: 2025-09-10 20:24:48.844661
