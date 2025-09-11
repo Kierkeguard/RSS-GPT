@@ -1346,3 +1346,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SIFMA Statement On Accounting Matters Related To Treasury Clearing](http://www.mondovisione.com/media-and-resources/news/sifma-statement-on-accounting-matters-related-to-treasury-clearing-2025911/)
 append_entries: 2
 Finish: 2025-09-11 20:20:58.124743
+------------------------------------------------------
+Started: 2025-09-11 22:20:06.602418
+Existing_entries: 242
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Robinhood Markets, Inc. Reports August 2025 Operating Data](http://www.mondovisione.com/media-and-resources/news/robinhood-markets-inc-reports-august-2025-operating-data-2025911/)
+append_entries: 1
+Finish: 2025-09-11 22:20:07.836459
