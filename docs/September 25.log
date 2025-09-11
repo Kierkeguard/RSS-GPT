@@ -1217,3 +1217,27 @@ Existing_entries: 211
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-09-11 04:27:08.388247
+------------------------------------------------------
+Started: 2025-09-11 06:33:54.157523
+Existing_entries: 211
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Issues New Financial Advice-Related Legislative Instrument](http://www.mondovisione.com/media-and-resources/news/asic-issues-new-financial-advice-related-legislative-instrument-2025911/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Press Conference By KATO Katsunobu, Japan Minister Of Finance And Minister Of State For Financial Services - Japan Financial Services Agency](http://www.mondovisione.com/media-and-resources/news/press-conference-by-kato-katsunobu-japan-minister-of-finance-and-minister-of-st-2025911/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NewZealand Financial Markets Authority - Consultation: Proposed Class Exemption For Entities Incorporated In Foreign Jurisdictions From New Zealand Climate Reporting Duties](http://www.mondovisione.com/media-and-resources/news/newzealand-financial-markets-authority-consultation-proposed-class-exemption-2025911/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Treasury Secretary Scott Bessent Remarks At The US Financial Stability Oversight Council](http://www.mondovisione.com/media-and-resources/news/us-treasury-secretary-scott-bessent-remarks-at-the-financial-stability-oversight-2025911/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Readout: US Financial Stability Oversight Council Meeting On September 10, 2025](http://www.mondovisione.com/media-and-resources/news/readout-us-financial-stability-oversight-council-meeting-on-september-10-2025-2025911/)
+Append: [CFTC Withdraws Guidance Regarding Listing Voluntary Carbon Credit Derivative Contracts](http://www.mondovisione.com/media-and-resources/news/cftc-withdraws-guidance-regarding-listing-voluntary-carbon-credit-derivative-con-2025911/)
+Append: [Comptroller Of The US Currency Issues Statement At US Financial Stability Oversight Council Meeting](http://www.mondovisione.com/media-and-resources/news/comptroller-of-the-us-currency-issues-statement-at-financial-stability-oversight-2025911/)
+Append: [US Financial Stability Oversight Council Meeting - Wednesday, September 10, 2025](http://www.mondovisione.com/media-and-resources/news/us-financial-stability-oversight-council-meeting-wednesday-september-10-2025-2025911/)
+append_entries: 8
+Finish: 2025-09-11 06:33:55.372648
