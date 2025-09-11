@@ -1297,3 +1297,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Moscow Exchange: Changes In The Publication Of Index Totals On 16th September 2025](http://www.mondovisione.com/media-and-resources/news/moscow-exchange-changes-in-the-publication-of-index-totals-on-16th-september-20-2025911/)
 append_entries: 3
 Finish: 2025-09-11 14:21:54.227690
+------------------------------------------------------
+Started: 2025-09-11 16:27:50.660115
+Existing_entries: 231
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [DTCC Comments On SIFMA’s Accounting Committee Working Group ACS Model Review](http://www.mondovisione.com/media-and-resources/news/dtcc-comments-on-sifmas-accounting-committee-working-group-acs-model-review-2025911/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ADX Welcomes The Listing Of Orascom Construction, Demonstrating The Appeal Of Abu Dhabi’s Capital Markets](http://www.mondovisione.com/media-and-resources/news/adx-welcomes-the-listing-of-orascom-construction-demonstrating-the-appeal-of-ab-2025911/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Borsa İstanbul’s Opening Bell Rang For Dof Robotik Sanayi A.Ş.](http://www.mondovisione.com/media-and-resources/news/borsa-istanbuls-opening-bell-rang-for-dof-robotik-sanayi-a-2025911/)
+append_entries: 3
+Finish: 2025-09-11 16:27:51.983379
