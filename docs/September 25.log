@@ -1334,3 +1334,15 @@ Append: [Euronext Announces 2025 Annual Review Results Of The CAC® Family](http
 Append: [Monetary Policy Statement Press Conference: Christine Lagarde, President Of The ECB, Luis De Guindos, Vice-President Of The ECB](http://www.mondovisione.com/media-and-resources/news/monetary-policy-statement-press-conference-christine-lagarde-president-of-the-2025911/)
 append_entries: 6
 Finish: 2025-09-11 18:28:06.898546
+------------------------------------------------------
+Started: 2025-09-11 20:20:57.192850
+Existing_entries: 240
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Autorité Des Marchés Financiers And Office Of The Superintendent Of Financial Institutions Release Their Report On Financial Institution Resilience To Climate Risks](http://www.mondovisione.com/media-and-resources/news/autorit-des-marchs-financiers-and-office-of-the-superintendent-of-financial-i-2025911/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIFMA Statement On Accounting Matters Related To Treasury Clearing](http://www.mondovisione.com/media-and-resources/news/sifma-statement-on-accounting-matters-related-to-treasury-clearing-2025911/)
+append_entries: 2
+Finish: 2025-09-11 20:20:58.124743
