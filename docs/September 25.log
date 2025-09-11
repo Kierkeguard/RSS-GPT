@@ -1312,3 +1312,25 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Borsa İstanbul’s Opening Bell Rang For Dof Robotik Sanayi A.Ş.](http://www.mondovisione.com/media-and-resources/news/borsa-istanbuls-opening-bell-rang-for-dof-robotik-sanayi-a-2025911/)
 append_entries: 3
 Finish: 2025-09-11 16:27:51.983379
+------------------------------------------------------
+Started: 2025-09-11 18:28:05.460787
+Existing_entries: 234
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Moscow Exchange: Updated Constituents List For OFZ Zero Coupon Yield Curve To Come Into Force On 15 September 2025](http://www.mondovisione.com/media-and-resources/news/moscow-exchange-updated-constituents-list-for-ofz-zero-coupon-yield-curve-to-c-2025911/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [EACH’s Women In Clearing Series – Getting Inspired By Fiona Van Echelpoel, Deputy Director General, DG Market Infrastructure & Payments, European Central Bank (ECB)](http://www.mondovisione.com/media-and-resources/news/eachs-women-in-clearing-series-getting-inspired-by-fiona-van-echelpoel-deput-2025911/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euronext Announces September 2025 Quarterly Review Results Of The CAC 40 ESG®](http://www.mondovisione.com/media-and-resources/news/euronext-announces-september-2025-quarterly-review-results-of-the-cac-40-esg-2025911/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euronext Announces September 2025 Quarterly Review Results Of The ISEQ® Family](http://www.mondovisione.com/media-and-resources/news/euronext-announces-september-2025-quarterly-review-results-of-the-iseq-family-2025911/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euronext Announces 2025 Annual Review Results Of The CAC® Family](http://www.mondovisione.com/media-and-resources/news/euronext-announces-2025-annual-review-results-of-the-cac-family-2025911/)
+Append: [Monetary Policy Statement Press Conference: Christine Lagarde, President Of The ECB, Luis De Guindos, Vice-President Of The ECB](http://www.mondovisione.com/media-and-resources/news/monetary-policy-statement-press-conference-christine-lagarde-president-of-the-2025911/)
+append_entries: 6
+Finish: 2025-09-11 18:28:06.898546
