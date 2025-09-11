@@ -1247,3 +1247,26 @@ Existing_entries: 219
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-09-11 08:29:32.187738
+------------------------------------------------------
+Started: 2025-09-11 10:22:50.703707
+Existing_entries: 219
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Showing Financial Crime The Red Card - Speech By Steve Smart, UK Financial Conduct Authority Joint Executive Director Of Enforcement And Market Oversight, At The 1LoD Financial Crime Summit](http://www.mondovisione.com/media-and-resources/news/showing-financial-crime-the-red-card-speech-by-steve-smart-uk-financial-condu-2025911/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESMA: Updated 2025 IFRS Taxonomy Introduced Into The European Single Electronic Format](http://www.mondovisione.com/media-and-resources/news/esma-updated-2025-ifrs-taxonomy-introduced-into-the-european-single-electronic-2025911/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [GLEIF Confirms TOPPAN Edge As First Japanese Qualified vLEI Issuer - TOPPAN Edge Will Equip Organizations With vLEI Credentials To Promote Digitally Trusted Global Value Chains Across Manufacturing And Finance](http://www.mondovisione.com/media-and-resources/news/gleif-confirms-toppan-edge-as-first-japanese-qualified-vlei-issuer-toppan-edge-2025911/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [World Federation Of Exchanges Highlights Key Considerations For 24/7 Trading](http://www.mondovisione.com/media-and-resources/news/world-federation-of-exchanges-highlights-key-considerations-for-247-trading-2025911/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ING Launches Global Investment Centre To Unify Investment Expertise](http://www.mondovisione.com/media-and-resources/news/ing-launches-global-investment-centre-to-unify-investment-expertise-2025911/)
+Append: [InTick Awarded ISO/IEC 27001:2022 Certification](http://www.mondovisione.com/media-and-resources/news/intick-awarded-isoiec-270012022-certification-2025911/)
+Append: [London Stock Exchange Group plc ("LSEG") Transactions In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transactions-in-own-shares-2025911/)
+append_entries: 7
+Finish: 2025-09-11 10:22:57.692511
