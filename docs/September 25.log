@@ -1282,3 +1282,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [More Than 350,000 European Companies To Get Energy Efficiency Support Under Major EU Financing Initiative](http://www.mondovisione.com/media-and-resources/news/more-than-350000-european-companies-to-get-energy-efficiency-support-under-majo-2025911/)
 append_entries: 2
 Finish: 2025-09-11 12:44:53.758651
+------------------------------------------------------
+Started: 2025-09-11 14:21:53.316797
+Existing_entries: 228
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Moscow Exchange: Trading Was Resumed On The Derivatives Market](http://www.mondovisione.com/media-and-resources/news/moscow-exchange-trading-was-resumed-on-the-derivatives-market-2025911/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Moscow Exchange: Temporary Suspension Of Trading On Derivatives market.](http://www.mondovisione.com/media-and-resources/news/moscow-exchange-temporary-suspension-of-trading-on-derivatives-market-2025911/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Moscow Exchange: Changes In The Publication Of Index Totals On 16th September 2025](http://www.mondovisione.com/media-and-resources/news/moscow-exchange-changes-in-the-publication-of-index-totals-on-16th-september-20-2025911/)
+append_entries: 3
+Finish: 2025-09-11 14:21:54.227690
