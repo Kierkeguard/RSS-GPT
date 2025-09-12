@@ -1367,3 +1367,18 @@ Existing_entries: 243
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-09-12 02:57:18.864736
+------------------------------------------------------
+Started: 2025-09-12 04:25:30.009754
+Existing_entries: 243
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Gemini Announces Pricing Of Initial Public Offering](http://www.mondovisione.com/media-and-resources/news/gemini-announces-pricing-of-initial-public-offering-2025912/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Staff Withdraws Guidance On DCO Recovery Plans And Wind-down Plans](http://www.mondovisione.com/media-and-resources/news/cftc-staff-withdraws-guidance-on-dco-recovery-plans-and-wind-down-plans-2025912/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Investor Advisory Committee To Host Panels To Discuss Reconsideration Of The Eligibility Criteria And Regulatory Treatment Of Foreign Private Issuers - Committee To Also Discuss Potential Recommendation Regarding Retail Investor Access To Private Market Assets](http://www.mondovisione.com/media-and-resources/news/sec-investor-advisory-committee-to-host-panels-to-discuss-reconsideration-of-the-2025912/)
+append_entries: 3
+Finish: 2025-09-12 04:25:31.140785
