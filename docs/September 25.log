@@ -1433,3 +1433,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Malawi Stock Exchange Weekly Summary Report, 12 September 2025](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-12-september-2025-2025912/)
 append_entries: 1
 Finish: 2025-09-12 14:21:10.738511
+------------------------------------------------------
+Started: 2025-09-12 16:24:04.835606
+Existing_entries: 253
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority  Launches £1 Million Campaign To Raise Awareness Of Motor Finance Compensation Scheme](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-launches-1-million-campaign-to-raise-awareness-2025912/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Zhengzhou Commodity Exchange,: Announcement On Adjustments To Maximum Size Of One Trading Order For Option Products](http://www.mondovisione.com/media-and-resources/news/zhengzhou-commodity-exchange-announcement-on-adjustments-to-maximum-size-of-on-2025912/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Shanghai Gold Exchange: Announcement On Switchover To Disaster Recovery Data Center](http://www.mondovisione.com/media-and-resources/news/shanghai-gold-exchange-announcement-on-switchover-to-disaster-recovery-data-cen-2025912/)
+append_entries: 3
+Finish: 2025-09-12 16:24:09.953973
