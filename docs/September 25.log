@@ -1382,3 +1382,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SEC Investor Advisory Committee To Host Panels To Discuss Reconsideration Of The Eligibility Criteria And Regulatory Treatment Of Foreign Private Issuers - Committee To Also Discuss Potential Recommendation Regarding Retail Investor Access To Private Market Assets](http://www.mondovisione.com/media-and-resources/news/sec-investor-advisory-committee-to-host-panels-to-discuss-reconsideration-of-the-2025912/)
 append_entries: 3
 Finish: 2025-09-12 04:25:31.140785
+------------------------------------------------------
+Started: 2025-09-12 06:33:31.127476
+Existing_entries: 246
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc ("LSEG") Transactions In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transactions-in-own-shares-2025912/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euronext To Join The CAC 40® Index -  Euronext Celebrates Recognition Of Strong Market Performance And Shareholder Value Creation Since The IPO In 2014](http://www.mondovisione.com/media-and-resources/news/euronext-to-join-the-cac-40-index-euronext-celebrates-recognition-of-strong-2025912/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Proposes To Remake Relief Instrument For Non-Cash Payment Facility Exemptions](http://www.mondovisione.com/media-and-resources/news/asic-proposes-to-remake-relief-instrument-for-non-cash-payment-facility-exemptio-2025912/)
+append_entries: 3
+Finish: 2025-09-12 06:33:40.388560
