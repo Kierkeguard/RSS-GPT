@@ -1484,3 +1484,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Gov. Gavin Newsom Appoints Lisa Middleton To The CalPERS Board Of Administration](http://www.mondovisione.com/media-and-resources/news/gov-gavin-newsom-appoints-lisa-middleton-to-the-calpers-board-of-administration-2025912/)
 append_entries: 2
 Finish: 2025-09-12 20:23:49.478602
+------------------------------------------------------
+Started: 2025-09-12 22:19:24.816170
+Existing_entries: 266
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Joint Statement From US Treasury Secretary Bessent And Ambassador Greer On Emergency G7 Finance Call](http://www.mondovisione.com/media-and-resources/news/joint-statement-from-us-treasury-secretary-bessent-and-ambassador-greer-on-emerg-2025912/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Staff Issues No-Action Letter To UBS Europe SE Concerning Provision Of Affiliate Support Activities](http://www.mondovisione.com/media-and-resources/news/cftc-staff-issues-no-action-letter-to-ubs-europe-se-concerning-provision-of-affi-2025912/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nigerian Exchange Weekly Market Report For The Week Ended 12 September 2025](http://www.mondovisione.com/media-and-resources/news/nigerian-exchange-weekly-market-report-for-the-week-ended-12-september-2025-2025912/)
+append_entries: 3
+Finish: 2025-09-12 22:19:26.258696
