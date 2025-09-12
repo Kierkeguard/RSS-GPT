@@ -1415,3 +1415,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [The IBEX® ESG Index Welcomes Grupo Catalana Occidente, Grenergy, And HBX Group](http://www.mondovisione.com/media-and-resources/news/the-ibex-esg-index-welcomes-grupo-catalana-occidente-grenergy-and-hbx-group-2025912/)
 append_entries: 1
 Finish: 2025-09-12 10:23:57.049409
+------------------------------------------------------
+Started: 2025-09-12 12:43:56.867288
+Existing_entries: 251
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Deutsche Börse Group: Business Indicators For August 2025](http://www.mondovisione.com/media-and-resources/news/deutsche-brse-group-business-indicators-for-august-2025-2025912/)
+append_entries: 1
+Finish: 2025-09-12 12:44:02.283781
