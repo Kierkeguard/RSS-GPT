@@ -1397,3 +1397,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ASIC Proposes To Remake Relief Instrument For Non-Cash Payment Facility Exemptions](http://www.mondovisione.com/media-and-resources/news/asic-proposes-to-remake-relief-instrument-for-non-cash-payment-facility-exemptio-2025912/)
 append_entries: 3
 Finish: 2025-09-12 06:33:40.388560
+------------------------------------------------------
+Started: 2025-09-12 08:28:40.379841
+Existing_entries: 249
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIX And The swissSPTC Collaborate To Facilitate An Efficient Transition To T+1 Settlement Cycle In Switzerland And Liechtenstein](http://www.mondovisione.com/media-and-resources/news/six-and-the-swisssptc-collaborate-to-facilitate-an-efficient-transition-to-t1-s-2025912/)
+append_entries: 1
+Finish: 2025-09-12 08:28:45.952406
