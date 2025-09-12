@@ -1424,3 +1424,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Deutsche Börse Group: Business Indicators For August 2025](http://www.mondovisione.com/media-and-resources/news/deutsche-brse-group-business-indicators-for-august-2025-2025912/)
 append_entries: 1
 Finish: 2025-09-12 12:44:02.283781
+------------------------------------------------------
+Started: 2025-09-12 14:21:05.075312
+Existing_entries: 252
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Malawi Stock Exchange Weekly Summary Report, 12 September 2025](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-12-september-2025-2025912/)
+append_entries: 1
+Finish: 2025-09-12 14:21:10.738511
