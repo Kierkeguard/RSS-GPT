@@ -1355,3 +1355,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Robinhood Markets, Inc. Reports August 2025 Operating Data](http://www.mondovisione.com/media-and-resources/news/robinhood-markets-inc-reports-august-2025-operating-data-2025911/)
 append_entries: 1
 Finish: 2025-09-11 22:20:07.836459
+------------------------------------------------------
+Started: 2025-09-12 01:42:29.936787
+Existing_entries: 243
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-09-12 01:42:30.760018
