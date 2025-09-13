@@ -1532,3 +1532,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Moscow Exchange: Temporary Suspension Of Trading On Securities Market](http://www.mondovisione.com/media-and-resources/news/moscow-exchange-temporary-suspension-of-trading-on-securities-market-2025913/)
 append_entries: 1
 Finish: 2025-09-13 08:25:46.380172
+------------------------------------------------------
+Started: 2025-09-13 10:20:14.841476
+Existing_entries: 270
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-09-13 10:20:16.081998
