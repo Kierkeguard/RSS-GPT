@@ -1538,3 +1538,18 @@ Existing_entries: 270
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-09-13 10:20:16.081998
+------------------------------------------------------
+Started: 2025-09-13 12:40:15.400631
+Existing_entries: 270
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Moscow Exchange: Trading Was Resumed On The Securities Market](http://www.mondovisione.com/media-and-resources/news/moscow-exchange-trading-was-resumed-on-the-securities-market-2025913/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tehran Securities Exchange Bulletin - August 2025](http://www.mondovisione.com/media-and-resources/news/tehran-securities-exchange-bulletin-august-2025-2025913/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tehran Securities Exchange Weekly Market Snapshot, 9 Sept 2025](http://www.mondovisione.com/media-and-resources/news/tehran-securities-exchange-weekly-market-snapshot-9-sept-2025-2025913/)
+append_entries: 3
+Finish: 2025-09-13 12:40:16.344888
