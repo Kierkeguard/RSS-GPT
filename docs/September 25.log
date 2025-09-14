@@ -1619,3 +1619,12 @@ Existing_entries: 273
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-09-14 10:19:41.035331
+------------------------------------------------------
+Started: 2025-09-14 12:39:43.179198
+Existing_entries: 273
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Online Meeting Of FEAS WG Highlights Tehran Securities Exchange’s Digital Surveillance Innovation](http://www.mondovisione.com/media-and-resources/news/online-meeting-of-feas-wg-highlights-tehran-securities-exchanges-digital-survei-2025914/)
+append_entries: 1
+Finish: 2025-09-14 12:39:44.500217
