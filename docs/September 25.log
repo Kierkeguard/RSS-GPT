@@ -1628,3 +1628,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Online Meeting Of FEAS WG Highlights Tehran Securities Exchange’s Digital Surveillance Innovation](http://www.mondovisione.com/media-and-resources/news/online-meeting-of-feas-wg-highlights-tehran-securities-exchanges-digital-survei-2025914/)
 append_entries: 1
 Finish: 2025-09-14 12:39:44.500217
+------------------------------------------------------
+Started: 2025-09-14 14:17:50.589112
+Existing_entries: 274
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Lord Hammond to Step Down From Copper Board Amid U.S. Expansion Plans](http://www.mondovisione.com/media-and-resources/news/lord-hammond-to-step-down-from-copper-board-amid-us-expansion-plans-2025914/)
+append_entries: 1
+Finish: 2025-09-14 14:17:51.601950
