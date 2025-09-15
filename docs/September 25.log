@@ -1729,3 +1729,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ETFGI Reports Assets Invested In ETFs In The United States Reached A New All-Time High Of US$12.19 Trillion At The End Of August](http://www.mondovisione.com/media-and-resources/news/etfgi-reports-assets-invested-in-etfs-in-the-united-states-reached-a-new-all-tim-2025915/)
 append_entries: 2
 Finish: 2025-09-15 12:48:55.719608
+------------------------------------------------------
+Started: 2025-09-15 14:22:52.717613
+Existing_entries: 285
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The BIS Quarterly Review  - September 2025](http://www.mondovisione.com/media-and-resources/news/the-bis-quarterly-review-september-2025-2025915/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [EBA Issues Revised List Of ITS Validation Rules](http://www.mondovisione.com/media-and-resources/news/eba-issues-revised-list-of-its-validation-rules-2025915/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BME Hosts The 52nd General Assembly And Annual Meeting Of FIAB In Madrid Starting Tomorrow](http://www.mondovisione.com/media-and-resources/news/bme-hosts-the-52nd-general-assembly-and-annual-meeting-of-fiab-in-madrid-startin-2025915/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euronext Sustainability Week 2025: Driving Europe’s Sustainable And Strategic Resilience Forward](http://www.mondovisione.com/media-and-resources/news/euronext-sustainability-week-2025-driving-europes-sustainable-and-strategic-re-2025915/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group PLC: Block Listing Six Monthly Return](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-block-listing-six-monthly-return-2025915/)
+append_entries: 5
+Finish: 2025-09-15 14:22:54.580334
