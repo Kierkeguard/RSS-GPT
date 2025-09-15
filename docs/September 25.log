@@ -1765,3 +1765,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Zoë Balkwell Joins Pirum To Lead Pre-Trade And Trading Solutions](http://www.mondovisione.com/media-and-resources/news/zo-balkwell-joins-pirum-to-lead-pre-trade-and-trading-solutions-2025915/)
 append_entries: 3
 Finish: 2025-09-15 16:29:06.221320
+------------------------------------------------------
+Started: 2025-09-15 18:32:32.284900
+Existing_entries: 293
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [José Manuel Campa Resigns As Chairperson Of The EBA](http://www.mondovisione.com/media-and-resources/news/jos-manuel-campa-resigns-as-chairperson-of-the-eba-2025915/)
+append_entries: 1
+Finish: 2025-09-15 18:32:33.300361
