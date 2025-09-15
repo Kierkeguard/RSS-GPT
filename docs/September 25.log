@@ -1750,3 +1750,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [London Stock Exchange Group PLC: Block Listing Six Monthly Return](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-block-listing-six-monthly-return-2025915/)
 append_entries: 5
 Finish: 2025-09-15 14:22:54.580334
+------------------------------------------------------
+Started: 2025-09-15 16:29:04.776328
+Existing_entries: 290
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Worldline Appoints New Chief Financial Officer](http://www.mondovisione.com/media-and-resources/news/worldline-appoints-new-chief-financial-officer-2025915/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Twelve Outstanding Companies Have Been Shortlisted For This Year’s European Small And Mid-Cap Awards](http://www.mondovisione.com/media-and-resources/news/twelve-outstanding-companies-have-been-shortlisted-for-this-years-european-smal-2025915/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Zoë Balkwell Joins Pirum To Lead Pre-Trade And Trading Solutions](http://www.mondovisione.com/media-and-resources/news/zo-balkwell-joins-pirum-to-lead-pre-trade-and-trading-solutions-2025915/)
+append_entries: 3
+Finish: 2025-09-15 16:29:06.221320
