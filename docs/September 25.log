@@ -1717,3 +1717,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Everest Group Names Broadridge BPO As A Leader In 2025 Capital Markets Operations Services PEAK Matrix® Assessment - Leaders Recognition Highlights Broadridge’s Successful Accelerated Strategy To Invest In Technology And Innovation To Drive Business Value For Its BPO Clients Across Capital Markets, Wealth And Asset Management](http://www.mondovisione.com/media-and-resources/news/everest-group-names-broadridge-bpo-as-a-leader-in-2025-capital-markets-operation-2025915/)
 append_entries: 1
 Finish: 2025-09-15 10:24:42.515512
+------------------------------------------------------
+Started: 2025-09-15 12:48:51.826776
+Existing_entries: 283
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Z/Yen Welcomes The Focus On AI Assurance In New Government Roadmap](http://www.mondovisione.com/media-and-resources/news/zyen-welcomes-the-focus-on-ai-assurance-in-new-government-roadmap-2025915/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ETFGI Reports Assets Invested In ETFs In The United States Reached A New All-Time High Of US$12.19 Trillion At The End Of August](http://www.mondovisione.com/media-and-resources/news/etfgi-reports-assets-invested-in-etfs-in-the-united-states-reached-a-new-all-tim-2025915/)
+append_entries: 2
+Finish: 2025-09-15 12:48:55.719608
