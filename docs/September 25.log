@@ -1774,3 +1774,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [José Manuel Campa Resigns As Chairperson Of The EBA](http://www.mondovisione.com/media-and-resources/news/jos-manuel-campa-resigns-as-chairperson-of-the-eba-2025915/)
 append_entries: 1
 Finish: 2025-09-15 18:32:33.300361
+------------------------------------------------------
+Started: 2025-09-15 20:24:18.597429
+Existing_entries: 294
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Swaps Report Update](http://www.mondovisione.com/media-and-resources/news/cftc-swaps-report-update-2025915/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ISDA derivatiViews: Recognition Of Cross-product Netting Is Critical](http://www.mondovisione.com/media-and-resources/news/isda-derivativiews-recognition-of-cross-product-netting-is-critical-2025915/)
+append_entries: 2
+Finish: 2025-09-15 20:24:19.571909
