@@ -1685,3 +1685,26 @@ Existing_entries: 275
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-09-15 06:36:09.568994
+------------------------------------------------------
+Started: 2025-09-15 08:30:51.060506
+Existing_entries: 275
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cyprus Stock Exchange Bulletin For August  2025](http://www.mondovisione.com/media-and-resources/news/cyprus-stock-exchange-bulletin-for-august-2025-2025915/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LSEG Launches Digital Markets Infrastructure Platform For Private Funds, And Facilitates First Transaction](http://www.mondovisione.com/media-and-resources/news/lseg-launches-digital-markets-infrastructure-platform-for-private-funds-and-fac-2025915/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc ("LSEG") Transactions In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transactions-in-own-shares-2025915/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Press Conference On $240 Million Penalty Against ANZ For Widespread Misconduct](http://www.mondovisione.com/media-and-resources/news/asic-press-conference-on-240-million-penalty-against-anz-for-widespread-miscond-2025915/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Zealand Financial Markets Authority: Clients And Subscribers Of Former NZ Financial Adviser Warned To Check Bank Statements](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-clients-and-subscribers-of-former-nz-fi-2025915/)
+Append: [ASIC: ANZ Admits Widespread Misconduct And Agrees To Pay $240 Million In Penalties](http://www.mondovisione.com/media-and-resources/news/asic-anz-admits-widespread-misconduct-and-agrees-to-pay-240-million-in-penalti-2025915/)
+Append: [ASIC Remakes Relief Instrument For Deposit Product Disclosure](http://www.mondovisione.com/media-and-resources/news/asic-remakes-relief-instrument-for-deposit-product-disclosure-2025915/)
+append_entries: 7
+Finish: 2025-09-15 08:30:57.031090
