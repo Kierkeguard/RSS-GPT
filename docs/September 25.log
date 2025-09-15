@@ -1786,3 +1786,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ISDA derivatiViews: Recognition Of Cross-product Netting Is Critical](http://www.mondovisione.com/media-and-resources/news/isda-derivativiews-recognition-of-cross-product-netting-is-critical-2025915/)
 append_entries: 2
 Finish: 2025-09-15 20:24:19.571909
+------------------------------------------------------
+Started: 2025-09-15 22:19:45.549131
+Existing_entries: 296
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Gemini Announces Closing Of Initial Public Offering And Full Exercise Of Underwriters' Option To Purchase Additional Shares](http://www.mondovisione.com/media-and-resources/news/gemini-announces-closing-of-initial-public-offering-and-full-exercise-of-underwr-2025915/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Withdraws Parts 37 And 38 Proposed Rule](http://www.mondovisione.com/media-and-resources/news/cftc-withdraws-parts-37-and-38-proposed-rule-2025915/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Obtains Court Order To Return $750,000 To Voyager Victims In Fraud Action](http://www.mondovisione.com/media-and-resources/news/cftc-obtains-court-order-to-return-750000-to-voyager-victims-in-fraud-action-2025915/)
+append_entries: 3
+Finish: 2025-09-15 22:19:46.569151
