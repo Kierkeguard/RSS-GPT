@@ -1918,3 +1918,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [New Dubai Financial Services Authority Thematic Review: High-Growth Firms](http://www.mondovisione.com/media-and-resources/news/new-dubai-financial-services-authority-thematic-review-high-growth-firms-2025916/)
 append_entries: 2
 Finish: 2025-09-16 18:32:17.241235
+------------------------------------------------------
+Started: 2025-09-16 20:24:40.088259
+Existing_entries: 318
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Obtains $6.9M Restitution Order Against Three Individuals, Three Florida Firms In Metals Fraud Case - Court Also Orders Four Defendants To Pay $11.5M Civil Monetary Penalty](http://www.mondovisione.com/media-and-resources/news/cftc-obtains-69m-restitution-order-against-three-individuals-three-florida-fi-2025916/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FINRA Announces Launch Of Crypto And Blockchain Education Program - New Educational Initiative Provides Member Firms With Essential Knowledge On Crypto Assets And Blockchain Technology](http://www.mondovisione.com/media-and-resources/news/finra-announces-launch-of-crypto-and-blockchain-education-program-new-educatio-2025916/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ISDA Derivatives Trading And Treasury Forum, London, September 16, 2025, Opening Remarks, Scott O’Malia, ISDA Chief Executive Officer](http://www.mondovisione.com/media-and-resources/news/isda-derivatives-trading-and-treasury-forum-london-september-16-2025-opening-2025916/)
+append_entries: 3
+Finish: 2025-09-16 20:24:40.907668
