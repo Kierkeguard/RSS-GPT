@@ -1861,3 +1861,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [AuditBoard Report: The Biggest Productivity Challenge Is Unmanaged Culture - 80 Per Cent Of Respondents Agree Culture Is Essential To Governance, Yet Ownership Is Rarely Defined](http://www.mondovisione.com/media-and-resources/news/auditboard-report-the-biggest-productivity-challenge-is-unmanaged-culture-80-2025916/)
 append_entries: 4
 Finish: 2025-09-16 10:23:53.179597
+------------------------------------------------------
+Started: 2025-09-16 12:47:50.174576
+Existing_entries: 307
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-09-16 12:47:51.504928
