@@ -1933,3 +1933,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ISDA Derivatives Trading And Treasury Forum, London, September 16, 2025, Opening Remarks, Scott O’Malia, ISDA Chief Executive Officer](http://www.mondovisione.com/media-and-resources/news/isda-derivatives-trading-and-treasury-forum-london-september-16-2025-opening-2025916/)
 append_entries: 3
 Finish: 2025-09-16 20:24:40.907668
+------------------------------------------------------
+Started: 2025-09-16 22:19:53.683465
+Existing_entries: 321
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC To Host Webinar For Large Firms On Regulation S-P](http://www.mondovisione.com/media-and-resources/news/sec-to-host-webinar-for-large-firms-on-regulation-s-p-2025916/)
+append_entries: 1
+Finish: 2025-09-16 22:19:54.467351
