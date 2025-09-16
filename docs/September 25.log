@@ -1801,3 +1801,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CFTC Obtains Court Order To Return $750,000 To Voyager Victims In Fraud Action](http://www.mondovisione.com/media-and-resources/news/cftc-obtains-court-order-to-return-750000-to-voyager-victims-in-fraud-action-2025915/)
 append_entries: 3
 Finish: 2025-09-15 22:19:46.569151
+------------------------------------------------------
+Started: 2025-09-16 01:43:59.505741
+Existing_entries: 299
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-09-16 01:44:00.529565
