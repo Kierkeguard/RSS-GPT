@@ -1825,3 +1825,21 @@ Existing_entries: 299
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-09-16 06:34:20.730470
+------------------------------------------------------
+Started: 2025-09-16 08:31:04.228930
+Existing_entries: 299
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MOEX Trade Terminals Update](http://www.mondovisione.com/media-and-resources/news/moex-trade-terminals-update-2025916/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cboe Europe Derivatives To Launch FLEX Options In Europe, Expanding Risk Management Toolkit For European Investors](http://www.mondovisione.com/media-and-resources/news/cboe-europe-derivatives-to-launch-flex-options-in-europe-expanding-risk-managem-2025916/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Publishes FAQs About Auditing And Assurance Requirements For Sustainability Reports](http://www.mondovisione.com/media-and-resources/news/asic-publishes-faqs-about-auditing-and-assurance-requirements-for-sustainability-2025916/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Keynote Speech By Tan Boon Gin, CEO Of Singapore Exchange Regulation (SGX RegCo), At The REIT Association Of Singapore Annual Conference 2025](http://www.mondovisione.com/media-and-resources/news/keynote-speech-by-tan-boon-gin-ceo-of-singapore-exchange-regulation-sgx-regco-2025916/)
+append_entries: 4
+Finish: 2025-09-16 08:31:05.232085
