@@ -1867,3 +1867,24 @@ Existing_entries: 307
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-09-16 12:47:51.504928
+------------------------------------------------------
+Started: 2025-09-16 14:23:03.851020
+Existing_entries: 307
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Announces Four New Members Of Investor Advisory Committee](http://www.mondovisione.com/media-and-resources/news/sec-announces-four-new-members-of-investor-advisory-committee-2025916/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Miami International Holdings Launches Next-Generation Options Trading Floor In Miami](http://www.mondovisione.com/media-and-resources/news/miami-international-holdings-launches-next-generation-options-trading-floor-in-m-2025916/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ORQO Group Launches As Unified Digital Asset Management Platform - New Entity Integrates $370M In Assets Across TradFi And DeFi, Launching Global Headquarters In Abu Dhabi](http://www.mondovisione.com/media-and-resources/news/orqo-group-launches-as-unified-digital-asset-management-platform-new-entity-in-2025916/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TradingKey Launches World's First Stock Scoring, Disrupting $270B Retail Investor Market With Wall Street-Level Analysis](http://www.mondovisione.com/media-and-resources/news/tradingkey-launches-worlds-first-stock-scoring-disrupting-270b-retail-investo-2025916/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Clarity AI And SESAMm Partner To Expand ESG Controversy Detection Across Private Markets](http://www.mondovisione.com/media-and-resources/news/clarity-ai-and-sesamm-partner-to-expand-esg-controversy-detection-across-priva-2025916/)
+append_entries: 5
+Finish: 2025-09-16 14:23:04.617675
