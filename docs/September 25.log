@@ -1843,3 +1843,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Keynote Speech By Tan Boon Gin, CEO Of Singapore Exchange Regulation (SGX RegCo), At The REIT Association Of Singapore Annual Conference 2025](http://www.mondovisione.com/media-and-resources/news/keynote-speech-by-tan-boon-gin-ceo-of-singapore-exchange-regulation-sgx-regco-2025916/)
 append_entries: 4
 Finish: 2025-09-16 08:31:05.232085
+------------------------------------------------------
+Started: 2025-09-16 10:23:51.898735
+Existing_entries: 303
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The World Federation Of Exchanges Launches New Educational Programme For Emerging & Developing Markets](http://www.mondovisione.com/media-and-resources/news/the-world-federation-of-exchanges-launches-new-educational-programme-for-emergin-2025916/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Broadridge Appoints Michael McPolin As Head Of International Market Advocacy](http://www.mondovisione.com/media-and-resources/news/broadridge-appoints-michael-mcpolin-as-head-of-international-market-advocacy-2025916/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [GLEIF Announces Partnership With The IOTA Foundation To Promote The Digitalization Of Global Trade](http://www.mondovisione.com/media-and-resources/news/gleif-announces-partnership-with-the-iota-foundation-to-promote-the-digitalizati-2025916/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [AuditBoard Report: The Biggest Productivity Challenge Is Unmanaged Culture - 80 Per Cent Of Respondents Agree Culture Is Essential To Governance, Yet Ownership Is Rarely Defined](http://www.mondovisione.com/media-and-resources/news/auditboard-report-the-biggest-productivity-challenge-is-unmanaged-culture-80-2025916/)
+append_entries: 4
+Finish: 2025-09-16 10:23:53.179597
