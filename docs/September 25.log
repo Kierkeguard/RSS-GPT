@@ -1988,3 +1988,12 @@ Append: [ASIC Appoints New Chairs And Members To The Markets Disciplinary Panel]
 Append: [Joint Press Release By Singapore Police Force, Monetary Authority Of Singapore, Infocomm Media Development Authority And Government Technology Agency Of Singaporeh On Restricting Access To Facilities For Scam Mules](http://www.mondovisione.com/media-and-resources/news/joint-press-release-by-singapore-police-force-monetary-authority-of-singapore-2025917/)
 append_entries: 6
 Finish: 2025-09-17 08:30:19.795106
+------------------------------------------------------
+Started: 2025-09-17 10:23:35.425852
+Existing_entries: 328
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FNZ And AJ Bell Extend Long-Term Partnership With New 10-Year Agreement](http://www.mondovisione.com/media-and-resources/news/fnz-and-aj-bell-extend-long-term-partnership-with-new-10-year-agreement-2025917/)
+append_entries: 1
+Finish: 2025-09-17 10:23:38.573622
