@@ -2085,3 +2085,18 @@ Append: [CFTC Sanctions Trading Firm $212,500 For Wash Sales](http://www.mondovi
 Append: [New York State Department Of Financial Services Superintendent Adrienne A. Harris Extends Blockchain Analytics Guidance To New York State Banking Organizations](http://www.mondovisione.com/media-and-resources/news/new-york-state-department-of-financial-services-superintendent-adrienne-a-harri-2025917/)
 append_entries: 6
 Finish: 2025-09-17 20:24:29.125640
+------------------------------------------------------
+Started: 2025-09-17 22:18:43.306353
+Existing_entries: 353
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Staying In Our Lane: Statement On Two Recommendations From The Division Of Corporation Finance, SEC Commissioner Hester M. Peirce, Sept. 17, 2025](http://www.mondovisione.com/media-and-resources/news/staying-in-our-lane-statement-on-two-recommendations-from-the-division-of-corpo-2025917/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Issues Policy Statement Clarifying that Mandatory Arbitration Provisions Will Not Affect Effectiveness Of Registration Statements](http://www.mondovisione.com/media-and-resources/news/sec-issues-policy-statement-clarifying-that-mandatory-arbitration-provisions-wil-2025917/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Obtains $1.2M For Fraud Victims, $2.8M Overall From Florida Commodity Firm, Owner](http://www.mondovisione.com/media-and-resources/news/cftc-obtains-12m-for-fraud-victims-28m-overall-from-florida-commodity-firm-2025917/)
+append_entries: 3
+Finish: 2025-09-17 22:18:44.954626
