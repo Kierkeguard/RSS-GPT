@@ -1997,3 +1997,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [FNZ And AJ Bell Extend Long-Term Partnership With New 10-Year Agreement](http://www.mondovisione.com/media-and-resources/news/fnz-and-aj-bell-extend-long-term-partnership-with-new-10-year-agreement-2025917/)
 append_entries: 1
 Finish: 2025-09-17 10:23:38.573622
+------------------------------------------------------
+Started: 2025-09-17 12:47:52.558697
+Existing_entries: 329
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Exchange Data International Expands Global Market Data Delivery To Seven Daily Feeds](http://www.mondovisione.com/media-and-resources/news/exchange-data-international-expands-global-market-data-delivery-to-seven-daily-f-2025917/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Shares Proposals To Promote Good Business Practices Amongst Crypto Firms](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-shares-proposals-to-promote-good-business-practic-2025917/)
+append_entries: 2
+Finish: 2025-09-17 12:47:55.610979
