@@ -2038,3 +2038,28 @@ Existing_entries: 338
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-09-17 16:28:58.731528
+------------------------------------------------------
+Started: 2025-09-17 18:32:42.632142
+Existing_entries: 338
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Federal Reserve Issues FOMC Statement](http://www.mondovisione.com/media-and-resources/news/federal-reserve-issues-fomc-statement-2025917/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Federal Reserve Board And Federal Open Market Committee Release Economic Projections From The September 16-17 FOMC Meeting](http://www.mondovisione.com/media-and-resources/news/federal-reserve-board-and-federal-open-market-committee-release-economic-project-2025917/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC And CFTC Extend Form PF Compliance Date To Oct. 1, 2026](http://www.mondovisione.com/media-and-resources/news/sec-and-cftc-extend-form-pf-compliance-date-to-oct-1-2026-2025917/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bank Of England - Minutes: CBDC Academic Advisory Group – March 2025](http://www.mondovisione.com/media-and-resources/news/bank-of-england-minutes-cbdc-academic-advisory-group-march-2025-2025917/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Finansinspektionen Extends The Risk-Weight Floors For Swedish Mortgages And Commercial Real Estate](http://www.mondovisione.com/media-and-resources/news/finansinspektionen-extends-the-risk-weight-floors-for-swedish-mortgages-and-comm-2025917/)
+Append: [Rebalancing Risk To Facilitate Innovation And Growth - Speech By Kate Collyer, UK Financial Conduct Authority Chief Economist, At Warwick Business School, Financial Regulation In Support Of The UK's Growth](http://www.mondovisione.com/media-and-resources/news/rebalancing-risk-to-facilitate-innovation-and-growth-speech-by-kate-collyer-u-2025917/)
+Append: [CME Group To Launch Options On Solana And XRP Futures](http://www.mondovisione.com/media-and-resources/news/cme-group-to-launch-options-on-solana-and-xrp-futures-2025917/)
+Append: [Tel Aviv Stock Exchange Launches Two New Equity Indices TA-Infrastructure And TA-Defense](http://www.mondovisione.com/media-and-resources/news/tel-aviv-stock-exchange-launches-two-new-equity-indices-ta-infrastructure-and-ta-2025917/)
+Append: [ATHEX Sustainability Summit 2025](http://www.mondovisione.com/media-and-resources/news/athex-sustainability-summit-2025-2025917/)
+append_entries: 9
+Finish: 2025-09-17 18:32:43.714162
