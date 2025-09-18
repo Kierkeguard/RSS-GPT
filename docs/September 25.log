@@ -2147,3 +2147,25 @@ Existing_entries: 363
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-09-18 08:29:52.219357
+------------------------------------------------------
+Started: 2025-09-18 10:23:34.230875
+Existing_entries: 363
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority: Communities Use Rules To Successfully Maintain Access To Cash](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-communities-use-rules-to-successfully-maintain-a-2025918/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [AUMOVIO SE New In The Prime Standard Of The Frankfurt Stock Exchange](http://www.mondovisione.com/media-and-resources/news/aumovio-se-new-in-the-prime-standard-of-the-frankfurt-stock-exchange-2025918/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX Signs MOU With Abu Dhabi Securities Exchange To Strengthen Market Connectivity](http://www.mondovisione.com/media-and-resources/news/hkex-signs-mou-with-abu-dhabi-securities-exchange-to-strengthen-market-connectiv-2025918/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC And APRA Host Superannuation CEOs To Discuss High-Risk Superannuation Switching](http://www.mondovisione.com/media-and-resources/news/asic-and-apra-host-superannuation-ceos-to-discuss-high-risk-superannuation-switc-2025918/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Parliamentary Joint Committee On Corporations And Financial Services, Opening Statement, 18 September 2025 - Opening Statement By ASIC Chair Joe Longo At The Parliamentary Joint Committee On Corporations And Financial Services, Inquiry Into The Oversight Of ASIC, The Takeovers Panel And The Corporations Legislation, Public Hearing On 18 September 2025](http://www.mondovisione.com/media-and-resources/news/parliamentary-joint-committee-on-corporations-and-financial-services-opening-st-2025918/)
+Append: [Regulatory Guide Reissued On Auditor Reporting Obligations To ASIC](http://www.mondovisione.com/media-and-resources/news/regulatory-guide-reissued-on-auditor-reporting-obligations-to-asic-2025918/)
+append_entries: 6
+Finish: 2025-09-18 10:23:35.174962
