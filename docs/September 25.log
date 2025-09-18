@@ -2199,3 +2199,15 @@ Existing_entries: 377
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-09-18 14:22:33.775703
+------------------------------------------------------
+Started: 2025-09-18 16:27:57.004491
+Existing_entries: 377
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Remarks At The Investor Advisory Committee Meeting, Paul S. Atkins, SEC Chairman, Sept. 18, 2025](http://www.mondovisione.com/media-and-resources/news/remarks-at-the-investor-advisory-committee-meeting-paul-s-atkins-sec-chairman-2025918/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER: Electricity System Operators’ Bidding Zone Study Significantly Underestimates The Benefits Of Reshaping Europe’s Bidding Zones](http://www.mondovisione.com/media-and-resources/news/acer-electricity-system-operators-bidding-zone-study-significantly-underestima-2025918/)
+append_entries: 2
+Finish: 2025-09-18 16:27:57.912510
