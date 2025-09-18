@@ -2251,3 +2251,21 @@ Append: [US Office Of The Comptroller Of The Currency Announces Updates To Organ
 Append: [CUSIP Request Volumes For New Corporate Securities Slow In August - Municipal Request Volumes Rise](http://www.mondovisione.com/media-and-resources/news/cusip-request-volumes-for-new-corporate-securities-slow-in-august-municipal-re-2025918/)
 append_entries: 6
 Finish: 2025-09-18 20:25:07.693680
+------------------------------------------------------
+Started: 2025-09-18 22:18:13.566358
+Existing_entries: 389
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Let Them Ride: Remarks At The Meeting Of The SEC Investor Advisory Committee, SEC Commissioner Hester M. Peirce, Washington D.C., Sept. 18, 2025](http://www.mondovisione.com/media-and-resources/news/let-them-ride-remarks-at-the-meeting-of-the-sec-investor-advisory-committee-se-2025918/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Lord Hill of Oareford Elected To Board Of Directors Of Intercontinental Exchange](http://www.mondovisione.com/media-and-resources/news/lord-hill-of-oareford-elected-to-board-of-directors-of-intercontinental-exchange-2025918/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Treasury International Capital Data For July](http://www.mondovisione.com/media-and-resources/news/treasury-international-capital-data-for-july-2025918/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Remarks At The Roundtable On Trade-Through Prohibitions, Paul S. Atkins, SEC Chairman, Sept. 18, 2025](http://www.mondovisione.com/media-and-resources/news/remarks-at-the-roundtable-on-trade-through-prohibitions-paul-s-atkins-sec-cha-2025918/)
+append_entries: 4
+Finish: 2025-09-18 22:18:15.023202
