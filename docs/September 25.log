@@ -2118,3 +2118,26 @@ Existing_entries: 356
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-09-18 04:27:29.792454
+------------------------------------------------------
+Started: 2025-09-18 06:33:55.132804
+Existing_entries: 356
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Waystone Joins SIX Swiss Exchange As New Issuer And Launches The Bellevue Healthcare ETF](http://www.mondovisione.com/media-and-resources/news/waystone-joins-six-swiss-exchange-as-new-issuer-and-launches-the-bellevue-health-2025918/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Singapore FinTech Festival Celebrates Its 10th Anniversary - Shaping The Next Decade Of Growth Through AI, Tokenisation And Quantum In Financial Services](http://www.mondovisione.com/media-and-resources/news/singapore-fintech-festival-celebrates-its-10th-anniversary-shaping-the-next-de-2025918/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SGX Group Wins “Clearing House Of The Year” At FOW Asia-Pacific Awards](http://www.mondovisione.com/media-and-resources/news/sgx-group-wins-clearing-house-of-the-year-at-fow-asia-pacific-awards-2025918/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Supports Innovation Through Exemptions For Distributors Of Australian Stablecoin](http://www.mondovisione.com/media-and-resources/news/asic-supports-innovation-through-exemptions-for-distributors-of-australian-stabl-2025918/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [A Special Generic: Statement On Commission Approval Of Generic Listing Standards For Commodity-Based ETPs, SEC Commissioner Hester M. Peirce, Sept. 17, 2025](http://www.mondovisione.com/media-and-resources/news/a-special-generic-statement-on-commission-approval-of-generic-listing-standards-2025918/)
+Append: [Passing The Buck On Reviewing Proposals To List And Trade Digital Asset ETPs, SEC Commissioner Caroline A. Crenshaw, Sept. 17, 2025](http://www.mondovisione.com/media-and-resources/news/passing-the-buck-on-reviewing-proposals-to-list-and-trade-digital-asset-etps-se-2025918/)
+Append: [SEC Approves Generic Listing Standards For Commodity-Based Trust Shares](http://www.mondovisione.com/media-and-resources/news/sec-approves-generic-listing-standards-for-commodity-based-trust-shares-2025918/)
+append_entries: 7
+Finish: 2025-09-18 06:33:56.441516
