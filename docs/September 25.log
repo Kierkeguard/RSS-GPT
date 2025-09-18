@@ -2211,3 +2211,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ACER: Electricity System Operators’ Bidding Zone Study Significantly Underestimates The Benefits Of Reshaping Europe’s Bidding Zones](http://www.mondovisione.com/media-and-resources/news/acer-electricity-system-operators-bidding-zone-study-significantly-underestima-2025918/)
 append_entries: 2
 Finish: 2025-09-18 16:27:57.912510
+------------------------------------------------------
+Started: 2025-09-18 18:33:07.588477
+Existing_entries: 379
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Regulating for growth – the future is now - Speech by Jessica Rusu, UK Financial Conduct Authority chief data, information and intelligence officer, delivered at Merchant Taylors’ Hall, Future of Fintech 2025](http://www.mondovisione.com/media-and-resources/news/regulating-for-growth-the-future-is-now-speech-by-jessica-rusu-uk-financial-2025918/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FIAB Renews its Governing Bodies After Strengthening Ties at the Ibero-American Stock Exchanges Summit Held in Madrid](http://www.mondovisione.com/media-and-resources/news/fiab-renews-its-governing-bodies-after-strengthening-ties-at-the-ibero-american-2025918/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Amman Stock Exchange Weekly Summary](http://www.mondovisione.com/media-and-resources/news/amman-stock-exchange-weekly-summary-2025918/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Borsa Istanbul: Announcement Regarding Silver Custody Fees](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-announcement-regarding-silver-custody-fees-2025918/)
+append_entries: 4
+Finish: 2025-09-18 18:33:08.821225
