@@ -2329,3 +2329,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [London Stock Exchange Group plc ("LSEG") Transactions In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transactions-in-own-shares-2025919/)
 append_entries: 4
 Finish: 2025-09-19 08:30:02.049700
+------------------------------------------------------
+Started: 2025-09-19 10:24:31.410019
+Existing_entries: 403
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Securities Commission Malaysia Issues Guidelines To Establish Malaysia’s First Social Exchange](http://www.mondovisione.com/media-and-resources/news/securities-commission-malaysia-issues-guidelines-to-establish-malaysias-first-s-2025919/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority: Over 270,000 Motorists To Receive £200m In Motor Insurance Compensation After Insurers Improve Their Claims Processes](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-over-270000-motorists-to-receive-200m-in-motor-2025919/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER Proposes Improvements To The European Grids Legal Framework](http://www.mondovisione.com/media-and-resources/news/acer-proposes-improvements-to-the-european-grids-legal-framework-2025919/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [DiffusionData Wins “Best Data Ops Solution Provider” At The 2025 Data Management Insight Awards USA](http://www.mondovisione.com/media-and-resources/news/diffusiondata-wins-best-data-ops-solution-provider-at-the-2025-data-management-2025919/)
+append_entries: 4
+Finish: 2025-09-19 10:24:37.581261
