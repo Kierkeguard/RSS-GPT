@@ -2382,3 +2382,26 @@ Existing_entries: 414
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-09-19 16:27:20.476390
+------------------------------------------------------
+Started: 2025-09-19 18:31:40.661458
+Existing_entries: 414
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority: Individual Fined For Data Protection Breach And Acquitted Of Fraud Offence](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-individual-fined-for-data-protection-breach-and-2025919/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Exchange Group - Options Markets - Market For Underlying Security Used For Openings on MIAX Options, MIAX Pearl Options, MIAX Emerald Options, And MIAX Sapphire Options For Newly Listed Symbols Effective Monday, September 22, 2025](http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-options-markets-market-for-underlying-security-used-for-2025919/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nigerian Exchange Weekly Summary Statistics For The Week Ended 19 September 2025](http://www.mondovisione.com/media-and-resources/news/nigerian-exchange-weekly-summary-statistics-for-the-week-ended-19-september-2025-2025919/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Federal Reserve Board Publishes Agenda For Its Community Bank Conference, Which Will Take Place On Thursday, October 9](http://www.mondovisione.com/media-and-resources/news/federal-reserve-board-publishes-agenda-for-its-community-bank-conference-which-2025919/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Acting CFTC Chairman Pham Announces New Leadership, Members Of Global Markets Advisory Committee And Subcommittees](http://www.mondovisione.com/media-and-resources/news/acting-cftc-chairman-pham-announces-new-leadership-members-of-global-markets-ad-2025919/)
+Append: [European Supervisors Tell Financial Institutions To Stay Alert To Stability Risks In Uncertain And Volatile Times](http://www.mondovisione.com/media-and-resources/news/european-supervisors-tell-financial-institutions-to-stay-alert-to-stability-risk-2025919/)
+Append: [Dubai Financial Market Regulated Short Sell – Weekly Summary: 15th September 2025 To 19th September 2025](http://www.mondovisione.com/media-and-resources/news/dubai-financial-market-regulated-short-sell-weekly-summary-15th-september-202-2025919/)
+append_entries: 7
+Finish: 2025-09-19 18:31:42.174453
