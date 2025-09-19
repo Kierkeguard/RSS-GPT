@@ -2281,3 +2281,15 @@ Existing_entries: 393
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-09-19 03:03:08.942524
+------------------------------------------------------
+Started: 2025-09-19 04:26:45.496169
+Existing_entries: 393
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [U.S. Department Of The Treasury Seeks Public Comment On Implementation Of The GENIUS Act](http://www.mondovisione.com/media-and-resources/news/us-department-of-the-treasury-seeks-public-comment-on-implementation-of-the-ge-2025919/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [U.S. Department Of Justice: BofA Securities Inc. Resolves Criminal Investigation With Justice Department Pursuant To Part I Of The Criminal Division’s Corporate Enforcement And Voluntary Self-Disclosure Policy](http://www.mondovisione.com/media-and-resources/news/us-department-of-justice-bofa-securities-inc-resolves-criminal-investigation-w-2025919/)
+append_entries: 2
+Finish: 2025-09-19 04:26:46.545491
