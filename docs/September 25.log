@@ -2405,3 +2405,18 @@ Append: [European Supervisors Tell Financial Institutions To Stay Alert To Stabi
 Append: [Dubai Financial Market Regulated Short Sell – Weekly Summary: 15th September 2025 To 19th September 2025](http://www.mondovisione.com/media-and-resources/news/dubai-financial-market-regulated-short-sell-weekly-summary-15th-september-202-2025919/)
 append_entries: 7
 Finish: 2025-09-19 18:31:42.174453
+------------------------------------------------------
+Started: 2025-09-19 20:24:08.967067
+Existing_entries: 421
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Commitments Of Traders Reports Update](http://www.mondovisione.com/media-and-resources/news/cftc-commitments-of-traders-reports-update-2025919/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Statement On Jury’s Verdict In Trial Of Steven M. Gallagher, Margaret Ryan, Director, SEC Division Of Enforcement, Sept. 19, 2025](http://www.mondovisione.com/media-and-resources/news/statement-on-jurys-verdict-in-trial-of-steven-m-gallagher-margaret-ryan-dire-2025919/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Autobahn And Private Markets Remarks At Better Markets Academic Advisory Board Annual Conference, SEC Commissioner Caroline A. Crenshaw, Washington D.C., Sept. 19, 2025](http://www.mondovisione.com/media-and-resources/news/the-autobahn-and-private-markets-remarks-at-better-markets-academic-advisory-boa-2025919/)
+append_entries: 3
+Finish: 2025-09-19 20:24:10.472104
