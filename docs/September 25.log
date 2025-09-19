@@ -2293,3 +2293,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [U.S. Department Of Justice: BofA Securities Inc. Resolves Criminal Investigation With Justice Department Pursuant To Part I Of The Criminal Division’s Corporate Enforcement And Voluntary Self-Disclosure Policy](http://www.mondovisione.com/media-and-resources/news/us-department-of-justice-bofa-securities-inc-resolves-criminal-investigation-w-2025919/)
 append_entries: 2
 Finish: 2025-09-19 04:26:46.545491
+------------------------------------------------------
+Started: 2025-09-19 06:34:15.204470
+Existing_entries: 395
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASX 2025 AGM - Notice Of Meeting](http://www.mondovisione.com/media-and-resources/news/asx-2025-agm-notice-of-meeting-2025919/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SGX Securities Welcomes AvePoint To Mainboard](http://www.mondovisione.com/media-and-resources/news/sgx-securities-welcomes-avepoint-to-mainboard-2025919/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Chair Joe Longo Not Seeking Reappointment](http://www.mondovisione.com/media-and-resources/news/asic-chair-joe-longo-not-seeking-reappointment-2025919/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Zealand Financial Markets Authority: Court Case Provides Clarity Around Wholesale Investor Rules](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-court-case-provides-clarity-around-whol-2025919/)
+append_entries: 4
+Finish: 2025-09-19 06:34:16.567750
