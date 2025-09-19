@@ -2353,3 +2353,26 @@ Existing_entries: 407
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-09-19 12:47:34.364508
+------------------------------------------------------
+Started: 2025-09-19 14:21:26.230270
+Existing_entries: 407
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Chancellor Meets European finance Ministers In Copenhagen To Unlock Economic Growth](http://www.mondovisione.com/media-and-resources/news/uk-chancellor-meets-european-finance-ministers-in-copenhagen-to-unlock-economic-2025919/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER Amends The Harmonised Allocation Rules For Long-Term Electricity Transmission Rights](http://www.mondovisione.com/media-and-resources/news/acer-amends-the-harmonised-allocation-rules-for-long-term-electricity-transmissi-2025919/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Roundtable On Trade-Through Prohibitions, Jamie Selway, Director, SEC Division Of Trading And Markets, Sept. 18, 2025](http://www.mondovisione.com/media-and-resources/news/roundtable-on-trade-through-prohibitions-jamie-selway-director-sec-division-o-2025919/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Malawi Stock Exchange Weekly Summary Report, 19 September 2025](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-19-september-2025-2025919/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BMLL Wins ‘Best Analytics Data Provider’ At The Data Management Insight Awards USA 2025](http://www.mondovisione.com/media-and-resources/news/bmll-wins-best-analytics-data-provider-at-the-data-management-insight-awards-u-2025919/)
+Append: [HMT Open Letters Between The Governor Of The Bank Of England And The Chancellor Of The Exchequer](http://www.mondovisione.com/media-and-resources/news/hmt-open-letters-between-the-governor-of-the-bank-of-england-and-the-chancellor-2025919/)
+Append: [EDI Wins Best Corporate Actions Data Provider USA 2025](http://www.mondovisione.com/media-and-resources/news/edi-wins-best-corporate-actions-data-provider-usa-2025-2025919/)
+append_entries: 7
+Finish: 2025-09-19 14:21:27.410921
