@@ -2444,3 +2444,12 @@ Existing_entries: 424
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-09-20 04:26:00.427788
+------------------------------------------------------
+Started: 2025-09-20 06:30:54.487544
+Existing_entries: 424
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Acting CFTC Chairman Caroline D. Pham To Speak At Digital Asset Events In Seoul](http://www.mondovisione.com/media-and-resources/news/acting-cftc-chairman-caroline-d-pham-to-speak-at-digital-asset-events-in-seoul-2025920/)
+append_entries: 1
+Finish: 2025-09-20 06:30:55.999171
