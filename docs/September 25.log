@@ -2707,3 +2707,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SEC: Small Business Forum Report To Congress Highlights Recommendations To Improve Capital Raising](http://www.mondovisione.com/media-and-resources/news/sec-small-business-forum-report-to-congress-highlights-recommendations-to-impro-2025922/)
 append_entries: 3
 Finish: 2025-09-22 20:24:47.294759
+------------------------------------------------------
+Started: 2025-09-22 22:20:43.900919
+Existing_entries: 449
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-09-22 22:20:44.871673
