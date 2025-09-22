@@ -2623,3 +2623,12 @@ Append: [ASIC: Advancing Australia’s Public And Private Markets: Progress Upda
 Append: [New Zealand Financial Markets Authority: Catalist Market Operator Obligations Review](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-catalist-market-operator-obligations-re-2025922/)
 append_entries: 7
 Finish: 2025-09-22 08:32:00.826766
+------------------------------------------------------
+Started: 2025-09-22 10:26:07.089920
+Existing_entries: 433
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Beeks Secures TMX Datalinx As A Significant Exchange Cloud® Client](http://www.mondovisione.com/media-and-resources/news/beeks-secures-tmx-datalinx-as-a-significant-exchange-cloud-client-2025922/)
+append_entries: 1
+Finish: 2025-09-22 10:26:08.420868
