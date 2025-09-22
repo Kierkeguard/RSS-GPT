@@ -2692,3 +2692,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Euronext Launches An Innovative Suite Of Fixed Income Derivatives On Main European Government Bonds](http://www.mondovisione.com/media-and-resources/news/euronext-launches-an-innovative-suite-of-fixed-income-derivatives-on-main-europe-2025922/)
 append_entries: 5
 Finish: 2025-09-22 18:30:59.416628
+------------------------------------------------------
+Started: 2025-09-22 20:24:46.175720
+Existing_entries: 446
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Swaps Report Update](http://www.mondovisione.com/media-and-resources/news/cftc-swaps-report-update-2025922/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Shield And PwC UK Forge Strategic Collaboration To Deliver Future-Ready Communications Compliance - Collaboration Brings Together Shield’s AI-First Platform With PwC’s Surveillance Expertise To Deliver Measurable Compliance Outcomes](http://www.mondovisione.com/media-and-resources/news/shield-and-pwc-uk-forge-strategic-collaboration-to-deliver-future-ready-communic-2025922/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC: Small Business Forum Report To Congress Highlights Recommendations To Improve Capital Raising](http://www.mondovisione.com/media-and-resources/news/sec-small-business-forum-report-to-congress-highlights-recommendations-to-impro-2025922/)
+append_entries: 3
+Finish: 2025-09-22 20:24:47.294759
