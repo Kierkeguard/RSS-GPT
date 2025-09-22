@@ -2656,3 +2656,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Boosting Collaboration Between UK And U.S. Financial Systems To Drive Innovation And Growth In Global Markets](http://www.mondovisione.com/media-and-resources/news/boosting-collaboration-between-uk-and-us-financial-systems-to-drive-innovation-2025922/)
 append_entries: 2
 Finish: 2025-09-22 14:24:10.988634
+------------------------------------------------------
+Started: 2025-09-22 16:30:36.550255
+Existing_entries: 438
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Hong Kong Fixed Income And Currency Forum 2025 To Be Held Virtually Due To Super Typhoon Ragasa](http://www.mondovisione.com/media-and-resources/news/hong-kong-fixed-income-and-currency-forum-2025-to-be-held-virtually-due-to-super-2025922/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ADX Lists Region’s First Thematic ETF, Offering Investors Access To Pioneers In Quantum Computing](http://www.mondovisione.com/media-and-resources/news/adx-lists-regions-first-thematic-etf-offering-investors-access-to-pioneers-in-2025922/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Hong Kong Securities And Futures Commission Consults On Extending Investor Identification Regime To Exchange-Traded Derivatives In Hong Kong](http://www.mondovisione.com/media-and-resources/news/hong-kong-securities-and-futures-commission-consults-on-extending-investor-ident-2025922/)
+append_entries: 3
+Finish: 2025-09-22 16:30:38.246376
