@@ -2600,3 +2600,26 @@ Existing_entries: 426
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-09-22 06:36:00.019771
+------------------------------------------------------
+Started: 2025-09-22 08:31:59.486781
+Existing_entries: 426
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Vienna Stock Exchange: New Index Compositions In The ATX, ATX Global Players And ATX Family](http://www.mondovisione.com/media-and-resources/news/vienna-stock-exchange-new-index-compositions-in-the-atx-atx-global-players-and-2025922/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Masaar: Dubai Financial Services Authority Welcomes 2025 Cohort Of Its Graduate Programme, Helping To Foster The UAE’s Next Generation Of Regulatory Leaders](http://www.mondovisione.com/media-and-resources/news/masaar-dubai-financial-services-authority-welcomes-2025-cohort-of-its-graduate-2025922/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tokyo Stock Exchange: New Infrastructure Supporting The Evolution Of The ETF Market  - Launch Of ETF Creation And Redemption Platform “CredNex”](http://www.mondovisione.com/media-and-resources/news/tokyo-stock-exchange-new-infrastructure-supporting-the-evolution-of-the-etf-mar-2025922/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Signals Opportunity For Industry To Lift Private Credit Standards](http://www.mondovisione.com/media-and-resources/news/asic-signals-opportunity-for-industry-to-lift-private-credit-standards-2025922/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SGX Indices Launches iEdge Singapore Next 50 Indices To Broaden Visibility Of Listed Companies](http://www.mondovisione.com/media-and-resources/news/sgx-indices-launches-iedge-singapore-next-50-indices-to-broaden-visibility-of-li-2025922/)
+Append: [ASIC: Advancing Australia’s Public And Private Markets: Progress Update](http://www.mondovisione.com/media-and-resources/news/asic-advancing-australias-public-and-private-markets-progress-update-2025922/)
+Append: [New Zealand Financial Markets Authority: Catalist Market Operator Obligations Review](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-catalist-market-operator-obligations-re-2025922/)
+append_entries: 7
+Finish: 2025-09-22 08:32:00.826766
