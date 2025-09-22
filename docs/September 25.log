@@ -2644,3 +2644,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [View Agenda & Register To Join ETFGI At The 6th Annual ETFGI Global ETFs Insights Summit - Middle East/ GCC On October 7th In Abu Dhabi At ADGM](http://www.mondovisione.com/media-and-resources/news/view-agenda-and-register-to-join-etfgi-at-the-6th-annual-etfgi-global-etfs-insight-2025922/)
 append_entries: 2
 Finish: 2025-09-22 12:49:21.953401
+------------------------------------------------------
+Started: 2025-09-22 14:24:09.460991
+Existing_entries: 436
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TMX Group Limited Announces Release Date For Q3 2025 Financial Results And Analyst Conference Call](http://www.mondovisione.com/media-and-resources/news/tmx-group-limited-announces-release-date-for-q3-2025-financial-results-and-analy-2025922/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Boosting Collaboration Between UK And U.S. Financial Systems To Drive Innovation And Growth In Global Markets](http://www.mondovisione.com/media-and-resources/news/boosting-collaboration-between-uk-and-us-financial-systems-to-drive-innovation-2025922/)
+append_entries: 2
+Finish: 2025-09-22 14:24:10.988634
