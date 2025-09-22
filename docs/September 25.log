@@ -2671,3 +2671,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Hong Kong Securities And Futures Commission Consults On Extending Investor Identification Regime To Exchange-Traded Derivatives In Hong Kong](http://www.mondovisione.com/media-and-resources/news/hong-kong-securities-and-futures-commission-consults-on-extending-investor-ident-2025922/)
 append_entries: 3
 Finish: 2025-09-22 16:30:38.246376
+------------------------------------------------------
+Started: 2025-09-22 18:30:58.157291
+Existing_entries: 441
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Acting CFTC Chairman Caroline D. Pham To Keynote At Hashed Global Crypto Policy Symposium](http://www.mondovisione.com/media-and-resources/news/acting-cftc-chairman-caroline-d-pham-to-keynote-at-hashed-global-crypto-policy-2025922/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nonmonetary Forces And Appropriate Monetary Policy Federal Reserve Governor Stephen I. Miran, At The Economic Club Of New York, New York, New York](http://www.mondovisione.com/media-and-resources/news/nonmonetary-forces-and-appropriate-monetary-policy-federal-reserve-governor-step-2025922/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Staff Extends No-Action Position For Certain Package Transactions From The Trade Execution Requirement For Swaps](http://www.mondovisione.com/media-and-resources/news/cftc-staff-extends-no-action-position-for-certain-package-transactions-from-the-2025922/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Prudential Regulation Authority Proposes Reduced Reporting Requirements For Banks](http://www.mondovisione.com/media-and-resources/news/uk-prudential-regulation-authority-proposes-reduced-reporting-requirements-for-b-2025922/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euronext Launches An Innovative Suite Of Fixed Income Derivatives On Main European Government Bonds](http://www.mondovisione.com/media-and-resources/news/euronext-launches-an-innovative-suite-of-fixed-income-derivatives-on-main-europe-2025922/)
+append_entries: 5
+Finish: 2025-09-22 18:30:59.416628
