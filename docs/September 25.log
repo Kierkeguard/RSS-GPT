@@ -2632,3 +2632,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Beeks Secures TMX Datalinx As A Significant Exchange Cloud® Client](http://www.mondovisione.com/media-and-resources/news/beeks-secures-tmx-datalinx-as-a-significant-exchange-cloud-client-2025922/)
 append_entries: 1
 Finish: 2025-09-22 10:26:08.420868
+------------------------------------------------------
+Started: 2025-09-22 12:49:20.587332
+Existing_entries: 434
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Global Markets React To Fed Signals As FTSE Mondo Visione Index Dips Slightly In August](http://www.mondovisione.com/media-and-resources/news/global-markets-react-to-fed-signals-as-ftse-mondo-visione-index-dips-slightly-in-2025922/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [View Agenda & Register To Join ETFGI At The 6th Annual ETFGI Global ETFs Insights Summit - Middle East/ GCC On October 7th In Abu Dhabi At ADGM](http://www.mondovisione.com/media-and-resources/news/view-agenda-and-register-to-join-etfgi-at-the-6th-annual-etfgi-global-etfs-insight-2025922/)
+append_entries: 2
+Finish: 2025-09-22 12:49:21.953401
