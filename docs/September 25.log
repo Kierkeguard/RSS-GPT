@@ -2806,3 +2806,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [MarketAxess Launches Axess IQ Connect, A Mobile Fixed-Income Workflow Solution For Private Banks And Wealth Managers - Provides On-The-Go Access To Real-Time Market Insights, Including Pricing And Liquidity Indications](http://www.mondovisione.com/media-and-resources/news/marketaxess-launches-axess-iq-connect-a-mobile-fixed-income-workflow-solution-f-2025923/)
 append_entries: 2
 Finish: 2025-09-23 14:23:08.731349
+------------------------------------------------------
+Started: 2025-09-23 16:29:15.357200
+Existing_entries: 466
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [DMIST Publishes Final Standard For Position Transfers](http://www.mondovisione.com/media-and-resources/news/dmist-publishes-final-standard-for-position-transfers-2025923/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Orbit Flex Brings Hedge Fund-Level Investment Research And AI To All Investors - New Model Democratizes Access To Financial Research, Widening Use Of Exclusive Financial Data And Workflows On Orbit Insight](http://www.mondovisione.com/media-and-resources/news/orbit-flex-brings-hedge-fund-level-investment-research-and-ai-to-all-investors-2025923/)
+append_entries: 2
+Finish: 2025-09-23 16:29:16.294546
