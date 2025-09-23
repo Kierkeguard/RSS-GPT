@@ -2824,3 +2824,21 @@ Existing_entries: 468
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-09-23 18:33:29.356467
+------------------------------------------------------
+Started: 2025-09-23 20:25:20.686154
+Existing_entries: 468
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Acting CFTC Chairman Pham Launches Tokenized Collateral And Stablecoins Initiative - Stakeholders Invited To Provide Public Input By October 20](http://www.mondovisione.com/media-and-resources/news/acting-cftc-chairman-pham-launches-tokenized-collateral-and-stablecoins-initiati-2025923/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [On QT − Remarks By Huw Pill, Bank Of England, Given At The Inaugural Pictet Research Institute Symposium 2025](http://www.mondovisione.com/media-and-resources/news/on-qt-remarks-by-huw-pill-bank-of-england-given-at-the-inaugural-pictet-rese-2025923/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [American Life & Security Corp. Launches New Nasdaq Intraday Volatility Control Index Crediting Option For American Select FIA](http://www.mondovisione.com/media-and-resources/news/american-life-and-security-corp-launches-new-nasdaq-intraday-volatility-control-i-2025923/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bank of England Foreign Currency Reserves – Market Notice 23 September 2025](http://www.mondovisione.com/media-and-resources/news/bank-of-england-foreign-currency-reserves-market-notice-23-september-2025-2025923/)
+append_entries: 4
+Finish: 2025-09-23 20:25:21.495219
