@@ -2749,3 +2749,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Clearstream Reinforces Commitment To Europe By Rebranding Its Germany-Based CSD To Clearstream Europe](http://www.mondovisione.com/media-and-resources/news/clearstream-reinforces-commitment-to-europe-by-rebranding-its-germany-based-csd-2025923/)
 append_entries: 1
 Finish: 2025-09-23 08:30:10.965026
+------------------------------------------------------
+Started: 2025-09-23 10:24:12.816826
+Existing_entries: 451
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Confidence Dividend: Tackling Financial Crime To Strengthen Markets - Speech By Therese Chambers, UK Financial Conduct Authority Joint Executive Director Of Enforcement And Market Oversight, Delivered At AFME's European Compliance And Legal Conference 2025](http://www.mondovisione.com/media-and-resources/news/the-confidence-dividend-tackling-financial-crime-to-strengthen-markets-speech-2025923/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Market Data Delivery Shift To Cloud Reaches New Heights, According To New Study: SIX And Crisil Coalition Greenwich](http://www.mondovisione.com/media-and-resources/news/market-data-delivery-shift-to-cloud-reaches-new-heights-according-to-new-study-2025923/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LSEG And Databricks Partner To Bring AI-Ready Financial Data Natively To Databricks For Analytics, AI Apps And Agents - With Databricks Agent Bricks, Financial Teams Can Build Governed AI Agents On Their Enterprise Data And LSEG’s Industry-Leading Data](http://www.mondovisione.com/media-and-resources/news/lseg-and-databricks-partner-to-bring-ai-ready-financial-data-natively-to-databri-2025923/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Boerse Stuttgart Digital Advances Its European Expansion Through Market Entry In Spain](http://www.mondovisione.com/media-and-resources/news/boerse-stuttgart-digital-advances-its-european-expansion-through-market-entry-in-2025923/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc ("LSEG") Transactions In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transactions-in-own-shares-2025923/)
+append_entries: 5
+Finish: 2025-09-23 10:24:16.171948
