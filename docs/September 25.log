@@ -2740,3 +2740,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SGX Commodities Wins Commodity Exchange Of The Year Award Once Again](http://www.mondovisione.com/media-and-resources/news/sgx-commodities-wins-commodity-exchange-of-the-year-award-once-again-2025923/)
 append_entries: 1
 Finish: 2025-09-23 06:34:40.404888
+------------------------------------------------------
+Started: 2025-09-23 08:30:09.954145
+Existing_entries: 450
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Clearstream Reinforces Commitment To Europe By Rebranding Its Germany-Based CSD To Clearstream Europe](http://www.mondovisione.com/media-and-resources/news/clearstream-reinforces-commitment-to-europe-by-rebranding-its-germany-based-csd-2025923/)
+append_entries: 1
+Finish: 2025-09-23 08:30:10.965026
