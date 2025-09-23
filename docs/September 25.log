@@ -2731,3 +2731,12 @@ Existing_entries: 449
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-09-23 04:27:00.003418
+------------------------------------------------------
+Started: 2025-09-23 06:34:38.730889
+Existing_entries: 449
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SGX Commodities Wins Commodity Exchange Of The Year Award Once Again](http://www.mondovisione.com/media-and-resources/news/sgx-commodities-wins-commodity-exchange-of-the-year-award-once-again-2025923/)
+append_entries: 1
+Finish: 2025-09-23 06:34:40.404888
