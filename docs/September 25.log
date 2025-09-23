@@ -2794,3 +2794,15 @@ Append: [US VC Funding Value Soars 64% YoY Even As Deal Volume Dips 5% During Ja
 Append: [Deutsche Börse Group Integrates Social Media Intelligence Into Market Surveillance Technology](http://www.mondovisione.com/media-and-resources/news/deutsche-brse-group-integrates-social-media-intelligence-into-market-surveillan-2025923/)
 append_entries: 8
 Finish: 2025-09-23 12:47:16.786466
+------------------------------------------------------
+Started: 2025-09-23 14:23:07.761663
+Existing_entries: 464
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Views On The Economy And Monetary Policy, Federal Reserve Vice Chair For Supervision Michelle W. Bowman, At The 2025 Kentucky Bankers Association Annual Convention, Asheville, North Carolina](http://www.mondovisione.com/media-and-resources/news/views-on-the-economy-and-monetary-policy-federal-reserve-vice-chair-for-supervi-2025923/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MarketAxess Launches Axess IQ Connect, A Mobile Fixed-Income Workflow Solution For Private Banks And Wealth Managers - Provides On-The-Go Access To Real-Time Market Insights, Including Pricing And Liquidity Indications](http://www.mondovisione.com/media-and-resources/news/marketaxess-launches-axess-iq-connect-a-mobile-fixed-income-workflow-solution-f-2025923/)
+append_entries: 2
+Finish: 2025-09-23 14:23:08.731349
