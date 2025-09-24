@@ -3007,3 +3007,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Q2 2025 Supervisory Data Indicate Improvements In ROE Despite Continued Tightening Of Net Interest Margins In EU/EEA Banks](http://www.mondovisione.com/media-and-resources/news/q2-2025-supervisory-data-indicate-improvements-in-roe-despite-continued-tighteni-2025924/)
 append_entries: 5
 Finish: 2025-09-24 20:26:08.819948
+------------------------------------------------------
+Started: 2025-09-24 22:20:54.592379
+Existing_entries: 503
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Announces Mid-Month Open Short Interest Positions In Nasdaq Stocks As Of Settlement Date September 15, 2025](http://www.mondovisione.com/media-and-resources/news/nasdaq-announces-mid-month-open-short-interest-positions-in-nasdaq-stocks-as-of-2025924/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NYSE Group Consolidated Short Interest Report](http://www.mondovisione.com/media-and-resources/news/nyse-group-consolidated-short-interest-report-2025924/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Issues Proposal To Revise Business Conduct And Swap Documentation Requirements For Swap Dealers And Major Swap Participants](http://www.mondovisione.com/media-and-resources/news/cftc-issues-proposal-to-revise-business-conduct-and-swap-documentation-requireme-2025924/)
+append_entries: 3
+Finish: 2025-09-24 22:20:55.456764
