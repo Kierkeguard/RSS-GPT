@@ -2941,3 +2941,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Vienna Stock Exchange: ETF Offering More Than Doubled In 2025](http://www.mondovisione.com/media-and-resources/news/vienna-stock-exchange-etf-offering-more-than-doubled-in-2025-2025924/)
 append_entries: 2
 Finish: 2025-09-24 12:48:01.486193
+------------------------------------------------------
+Started: 2025-09-24 14:20:25.009891
+Existing_entries: 489
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-09-24 14:20:27.757455
