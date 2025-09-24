@@ -2986,3 +2986,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ATHEX Small Cap Conference 2025](http://www.mondovisione.com/media-and-resources/news/athex-small-cap-conference-2025-2025924/)
 append_entries: 5
 Finish: 2025-09-24 18:30:57.567849
+------------------------------------------------------
+Started: 2025-09-24 20:26:07.711275
+Existing_entries: 498
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Agenda, Panelists For SEC-CFTC Roundtable On Regulatory Harmonization Efforts Announced](http://www.mondovisione.com/media-and-resources/news/agenda-panelists-for-sec-cftc-roundtable-on-regulatory-harmonization-efforts-an-2025924/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Announces Departure Of Chief Operating Officer Ken Johnson](http://www.mondovisione.com/media-and-resources/news/sec-announces-departure-of-chief-operating-officer-ken-johnson-2025924/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Office Of The Comptroller Of The Currency Reports Mortgage Performance For Second Quarter Of 2025](http://www.mondovisione.com/media-and-resources/news/us-office-of-the-comptroller-of-the-currency-reports-mortgage-performance-for-se-2025924/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Ontario Securities Commission Virtual Roundtable For Draft Action Plan For Truth And Reconciliation](http://www.mondovisione.com/media-and-resources/news/ontario-securities-commission-virtual-roundtable-for-draft-action-plan-for-truth-2025924/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Q2 2025 Supervisory Data Indicate Improvements In ROE Despite Continued Tightening Of Net Interest Margins In EU/EEA Banks](http://www.mondovisione.com/media-and-resources/news/q2-2025-supervisory-data-indicate-improvements-in-roe-despite-continued-tighteni-2025924/)
+append_entries: 5
+Finish: 2025-09-24 20:26:08.819948
