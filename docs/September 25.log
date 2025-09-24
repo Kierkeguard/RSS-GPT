@@ -2911,3 +2911,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ASIC Reduces Complaints Reporting Frequency For Small Banks](http://www.mondovisione.com/media-and-resources/news/asic-reduces-complaints-reporting-frequency-for-small-banks-2025924/)
 append_entries: 2
 Finish: 2025-09-24 08:31:26.239533
+------------------------------------------------------
+Started: 2025-09-24 10:23:59.460062
+Existing_entries: 483
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Eurex And Premialab Bring Quantitative Investment Strategies (QIS) To The Futures Market](http://www.mondovisione.com/media-and-resources/news/eurex-and-premialab-bring-quantitative-investment-strategies-qis-to-the-future-2025924/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TransFICC Announces Strategic Sourcing Agreement With Wells Fargo](http://www.mondovisione.com/media-and-resources/news/transficc-announces-strategic-sourcing-agreement-with-wells-fargo-2025924/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MNI Indicators: MNI China Money Market Index™ – September Conditions Steady](http://www.mondovisione.com/media-and-resources/news/mni-indicators-mni-china-money-market-index-september-conditions-steady-2025924/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SET To List The First Leveraged And Inverse ETFs](http://www.mondovisione.com/media-and-resources/news/set-to-list-the-first-leveraged-and-inverse-etfs-2025924/)
+append_entries: 4
+Finish: 2025-09-24 10:24:01.759483
