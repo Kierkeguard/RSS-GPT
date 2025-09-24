@@ -2965,3 +2965,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Municipal Bond Data Firm Spline Data Launches Primary Market Analytics Platform - Spline Data’s Third Major Data Product Produces Machine-Learning-Derived New Issue Scales On Demand](http://www.mondovisione.com/media-and-resources/news/municipal-bond-data-firm-spline-data-launches-primary-market-analytics-platform-2025924/)
 append_entries: 4
 Finish: 2025-09-24 16:29:58.610244
+------------------------------------------------------
+Started: 2025-09-24 18:30:56.356114
+Existing_entries: 493
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Announces Agenda, Panelists For SEC-CFTC Roundtable On Regulatory Harmonization Efforts](http://www.mondovisione.com/media-and-resources/news/sec-announces-agenda-panelists-for-sec-cftc-roundtable-on-regulatory-harmonizat-2025924/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Ontario Securities Commission Analysis Finds No Significant Market Disruption After Move To T+1 Settlement Window](http://www.mondovisione.com/media-and-resources/news/ontario-securities-commission-analysis-finds-no-significant-market-disruption-af-2025924/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority: Update On Appointing A Bond Consolidated Tape Provider](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-update-on-appointing-a-bond-consolidated-tape-pr-2025924/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Borsa Istanbul: Implementation Of Dynamic Price Limits In Warrant And Certificate Trading](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-implementation-of-dynamic-price-limits-in-warrant-and-certific-2025924/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ATHEX Small Cap Conference 2025](http://www.mondovisione.com/media-and-resources/news/athex-small-cap-conference-2025-2025924/)
+append_entries: 5
+Finish: 2025-09-24 18:30:57.567849
