@@ -2947,3 +2947,21 @@ Existing_entries: 489
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-09-24 14:20:27.757455
+------------------------------------------------------
+Started: 2025-09-24 16:29:55.682442
+Existing_entries: 489
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Jon Kroeper Named Deputy Director Of The Division Of Trading And Markets](http://www.mondovisione.com/media-and-resources/news/jon-kroeper-named-deputy-director-of-the-division-of-trading-and-markets-2025924/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ICE First Look At Mortgage Performance: Delinquencies Up On Calendar Effect - Foreclosure Activity Slowly Trending Higher](http://www.mondovisione.com/media-and-resources/news/ice-first-look-at-mortgage-performance-delinquencies-up-on-calendar-effect-for-2025924/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Over A Third Of Corporate Capital Expenditure Now Aligned To Sustainability Goals, As Firms Embed Net Zero Into Business Strategy - Independent Study By Risilience Shows More Than Half Of Large Businesses Now Have Detailed Decarbonization Roadmaps, Nearly Nine In Ten Are Increasing Investment, And Boards Are Treating Climate And Nature Risk As Core Strategic Priorities](http://www.mondovisione.com/media-and-resources/news/over-a-third-of-corporate-capital-expenditure-now-aligned-to-sustainability-goal-2025924/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Municipal Bond Data Firm Spline Data Launches Primary Market Analytics Platform - Spline Data’s Third Major Data Product Produces Machine-Learning-Derived New Issue Scales On Demand](http://www.mondovisione.com/media-and-resources/news/municipal-bond-data-firm-spline-data-launches-primary-market-analytics-platform-2025924/)
+append_entries: 4
+Finish: 2025-09-24 16:29:58.610244
