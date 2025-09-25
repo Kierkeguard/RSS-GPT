@@ -3070,3 +3070,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Announcement Of The 2025 “Tokyo Stock Exchange Asia Startup Hub” Supported Companies](http://www.mondovisione.com/media-and-resources/news/announcement-of-the-2025-today-tokyo-stock-exchange-asia-startup-hub-supporte-2025925/)
 append_entries: 5
 Finish: 2025-09-25 06:34:53.094517
+------------------------------------------------------
+Started: 2025-09-25 08:30:44.248496
+Existing_entries: 514
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Clearstream And Euroclear To Digitize Eurobond Market](http://www.mondovisione.com/media-and-resources/news/clearstream-and-euroclear-to-digitize-eurobond-market-2025925/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Venture Capital Market Contracts But Retains Global Standing In 2025, Finds GlobalData](http://www.mondovisione.com/media-and-resources/news/uk-venture-capital-market-contracts-but-retains-global-standing-in-2025-finds-g-2025925/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc ("LSEG") Transactions In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transactions-in-own-shares-2025925/)
+append_entries: 3
+Finish: 2025-09-25 08:30:47.240989
