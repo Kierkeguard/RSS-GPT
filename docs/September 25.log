@@ -3108,3 +3108,18 @@ Append: [Allianz Appoints BNP Paribas As Asset Servicing Partner In The UK](http
 Append: [TRG Screen Delivers AI Innovation To Simplify Exchange Compliance Complexity](http://www.mondovisione.com/media-and-resources/news/trg-screen-delivers-ai-innovation-to-simplify-exchange-compliance-complexity-2025925/)
 append_entries: 7
 Finish: 2025-09-25 10:24:41.041556
+------------------------------------------------------
+Started: 2025-09-25 12:49:45.604479
+Existing_entries: 524
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Dubai Welcomes Arada’s USD 450 Million Oversubscribed Sukuk, Highlighting Strong Investor Demand](http://www.mondovisione.com/media-and-resources/news/nasdaq-dubai-welcomes-aradas-usd-450-million-oversubscribed-sukuk-highlighting-2025925/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [GCEX Group Acquires GlobalBlock To Accelerate Growth Amongst Wealth & Asset Managers](http://www.mondovisione.com/media-and-resources/news/gcex-group-acquires-globalblock-to-accelerate-growth-amongst-wealth-and-asset-mana-2025925/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Inaugural UK-Australia Joint Financial Regulatory Forum](http://www.mondovisione.com/media-and-resources/news/inaugural-uk-australia-joint-financial-regulatory-forum-2025925/)
+append_entries: 3
+Finish: 2025-09-25 12:49:46.650771
