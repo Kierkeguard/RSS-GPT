@@ -3135,3 +3135,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [LSEG Board Appointment: Confirmation Of Start Date](http://www.mondovisione.com/media-and-resources/news/lseg-board-appointment-confirmation-of-start-date-2025925/)
 append_entries: 2
 Finish: 2025-09-25 14:23:35.457470
+------------------------------------------------------
+Started: 2025-09-25 16:28:58.496527
+Existing_entries: 529
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [From Crypto-Enabled Money Laundering To Online Recruitment Of Minors: European Police Chiefs Tackle Criminal Threats](http://www.mondovisione.com/media-and-resources/news/from-crypto-enabled-money-laundering-to-online-recruitment-of-minors-european-p-2025925/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESMA Provides Updated Instructions For Weekly Commodity Derivative Position Reporting](http://www.mondovisione.com/media-and-resources/news/esma-provides-updated-instructions-for-weekly-commodity-derivative-position-repo-2025925/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority: Tax-Free Pension Lump Sums And Cancellation Rights](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-tax-free-pension-lump-sums-and-cancellation-righ-2025925/)
+append_entries: 3
+Finish: 2025-09-25 16:28:59.679601
