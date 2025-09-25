@@ -3034,3 +3034,18 @@ Existing_entries: 506
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-09-25 03:04:15.722554
+------------------------------------------------------
+Started: 2025-09-25 04:27:18.653069
+Existing_entries: 506
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FIC Vision: Triple Wins For Hong Kong As International Financial Centre - Welcoming Remarks At The Hong Kong Fixed Income And  Currency Forum 2025, Dr Kelvin Wong, Chairman, Hong Kong  Securities And Futures Commission, 25 September 2025](http://www.mondovisione.com/media-and-resources/news/fic-vision-triple-wins-for-hong-kong-as-international-financial-centre-welcom-2025925/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Proposes Extending Stablecoin Distribution Exemption](http://www.mondovisione.com/media-and-resources/news/asic-proposes-extending-stablecoin-distribution-exemption-2025925/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Report From FINRA Board Of Governors Meeting – September 2025: Board Approved Amendments For Pattern Day Trading Rules, And Received Updates On FINRA Forward, Consolidated Audit Trail And Cybersecurity](http://www.mondovisione.com/media-and-resources/news/report-from-finra-board-of-governors-meeting-september-2025-board-approved-am-2025925/)
+append_entries: 3
+Finish: 2025-09-25 04:27:19.545505
