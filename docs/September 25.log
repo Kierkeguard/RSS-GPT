@@ -3085,3 +3085,26 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [London Stock Exchange Group plc ("LSEG") Transactions In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transactions-in-own-shares-2025925/)
 append_entries: 3
 Finish: 2025-09-25 08:30:47.240989
+------------------------------------------------------
+Started: 2025-09-25 10:24:39.114876
+Existing_entries: 517
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nine Major European Banks Join Forces To Issue Stablecoin](http://www.mondovisione.com/media-and-resources/news/nine-major-european-banks-join-forces-to-issue-stablecoin-2025925/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Global Financial Centres Index 38 - Leading Financial Centres In Close Competition](http://www.mondovisione.com/media-and-resources/news/global-financial-centres-index-38-leading-financial-centres-in-close-competiti-2025925/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [StoneX Payments And Hana Bank Deepen Partnership To Strengthen Cross-Border Payment Capabilities](http://www.mondovisione.com/media-and-resources/news/stonex-payments-and-hana-bank-deepen-partnership-to-strengthen-cross-border-paym-2025925/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tradu Launches Expanded Integration With TradingView](http://www.mondovisione.com/media-and-resources/news/tradu-launches-expanded-integration-with-tradingview-2025925/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Broadridge Successfully Delivers ISO 20022 Cash Messaging Capabilities For Its Post-Trade Clients](http://www.mondovisione.com/media-and-resources/news/broadridge-successfully-delivers-iso-20022-cash-messaging-capabilities-for-its-p-2025925/)
+Append: [Allianz Appoints BNP Paribas As Asset Servicing Partner In The UK](http://www.mondovisione.com/media-and-resources/news/allianz-appoints-bnp-paribas-as-asset-servicing-partner-in-the-uk-2025925/)
+Append: [TRG Screen Delivers AI Innovation To Simplify Exchange Compliance Complexity](http://www.mondovisione.com/media-and-resources/news/trg-screen-delivers-ai-innovation-to-simplify-exchange-compliance-complexity-2025925/)
+append_entries: 7
+Finish: 2025-09-25 10:24:41.041556
