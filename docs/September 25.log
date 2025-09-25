@@ -3123,3 +3123,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Inaugural UK-Australia Joint Financial Regulatory Forum](http://www.mondovisione.com/media-and-resources/news/inaugural-uk-australia-joint-financial-regulatory-forum-2025925/)
 append_entries: 3
 Finish: 2025-09-25 12:49:46.650771
+------------------------------------------------------
+Started: 2025-09-25 14:23:34.581302
+Existing_entries: 527
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CoinShares Fund Flows - Positive Response To The “Hawkish Cut” By The FED Last Week](http://www.mondovisione.com/media-and-resources/news/coinshares-fund-flows-positive-response-to-the-hawkish-cut-by-the-fed-last-w-2025925/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LSEG Board Appointment: Confirmation Of Start Date](http://www.mondovisione.com/media-and-resources/news/lseg-board-appointment-confirmation-of-start-date-2025925/)
+append_entries: 2
+Finish: 2025-09-25 14:23:35.457470
