@@ -3194,3 +3194,12 @@ Append: [US Office Of The Comptroller Of The Currency Reports Second Quarter 202
 Append: [ISDA Wins GlobalCapital’s Industry Association Of The Year And Digital Solution Of The Year Awards](http://www.mondovisione.com/media-and-resources/news/isda-wins-globalcapitals-industry-association-of-the-year-and-digital-solution-2025925/)
 append_entries: 6
 Finish: 2025-09-25 20:25:27.580702
+------------------------------------------------------
+Started: 2025-09-25 22:19:10.948973
+Existing_entries: 544
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Fiserv Expands Advisory Services For Financial Institutions With Acquisition Of Smith Consulting Group - Adding Dedicated In-Market Consulting Resources, With An Emphasis On Supporting Core Transformation](http://www.mondovisione.com/media-and-resources/news/fiserv-expands-advisory-services-for-financial-institutions-with-acquisition-of-2025925/)
+append_entries: 1
+Finish: 2025-09-25 22:19:12.146775
