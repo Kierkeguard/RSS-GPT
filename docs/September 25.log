@@ -3221,3 +3221,15 @@ Existing_entries: 545
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-09-26 04:27:16.850876
+------------------------------------------------------
+Started: 2025-09-26 06:33:52.205247
+Existing_entries: 545
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX And The Community Chest Launch First-Ever Charity Relay In Central](http://www.mondovisione.com/media-and-resources/news/hkex-and-the-community-chest-launch-first-ever-charity-relay-in-central-2025926/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NZX FY25 Interim Dividend: AUD FX Rate](http://www.mondovisione.com/media-and-resources/news/nzx-fy25-interim-dividend-aud-fx-rate-2025926/)
+append_entries: 2
+Finish: 2025-09-26 06:33:53.516750
