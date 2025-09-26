@@ -3317,3 +3317,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Prelude Lists On Euronext](http://www.mondovisione.com/media-and-resources/news/prelude-lists-on-euronext-2025926/)
 append_entries: 5
 Finish: 2025-09-26 18:30:44.783564
+------------------------------------------------------
+Started: 2025-09-26 20:24:12.951015
+Existing_entries: 563
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Statement On Concept Release On Residential Mortgage-Backed Securities Disclosures And Enhancements To Asset-Backed Securities Registration, Paul S. Atkins, SEC Chairman, Sept. 26, 2025](http://www.mondovisione.com/media-and-resources/news/statement-on-concept-release-on-residential-mortgage-backed-securities-disclosur-2025926/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Commitments Of Traders Reports Update](http://www.mondovisione.com/media-and-resources/news/cftc-commitments-of-traders-reports-update-2025926/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Seeks Public Comment to Improve Rules on Residential Mortgage-Backed Securities and Asset-Backed Securities](http://www.mondovisione.com/media-and-resources/news/sec-seeks-public-comment-to-improve-rules-on-residential-mortgage-backed-securit-2025926/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Thoughts On Monetary Policy Decisionmaking And Challenges Ahead, Federal Reserve Vice Chair For Supervision Michelle W. Bowman At The Forecasters Club Of New York Luncheon, New York, New York](http://www.mondovisione.com/media-and-resources/news/thoughts-on-monetary-policy-decisionmaking-and-challenges-ahead-federal-reserve-2025926/)
+append_entries: 4
+Finish: 2025-09-26 20:24:14.263739
