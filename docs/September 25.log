@@ -3335,3 +3335,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Thoughts On Monetary Policy Decisionmaking And Challenges Ahead, Federal Reserve Vice Chair For Supervision Michelle W. Bowman At The Forecasters Club Of New York Luncheon, New York, New York](http://www.mondovisione.com/media-and-resources/news/thoughts-on-monetary-policy-decisionmaking-and-challenges-ahead-federal-reserve-2025926/)
 append_entries: 4
 Finish: 2025-09-26 20:24:14.263739
+------------------------------------------------------
+Started: 2025-09-26 22:19:55.769640
+Existing_entries: 567
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Statement On The Concept Release On Residential Mortgage-Backed Securities Disclosures And Enhancements To Asset-Backed Securities Registration, SEC Commissioner Mark T. Uyeda, Sept. 26, 2025](http://www.mondovisione.com/media-and-resources/news/statement-on-the-concept-release-on-residential-mortgage-backed-securities-discl-2025926/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Statement On Concept Release Relating To Asset-Backed Securities, SEC Commissioner Caroline A. Crenshaw, Sept. 26, 2025](http://www.mondovisione.com/media-and-resources/news/statement-on-concept-release-relating-to-asset-backed-securities-sec-commission-2025926/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Narrowly Then Broadly: Statement On Concept Release On Residential Mortgage-Backed Securities Disclosures And Enhancements To Asset-Backed Securities Registration, SEC Commissioner Hester M. Peirce, Sept. 26, 2025](http://www.mondovisione.com/media-and-resources/news/narrowly-then-broadly-statement-on-concept-release-on-residential-mortgage-back-2025926/)
+append_entries: 3
+Finish: 2025-09-26 22:19:57.327177
