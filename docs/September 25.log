@@ -3296,3 +3296,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ADX Leads Global Investor Roadshow To New York With Listed Companies To Showcase Abu Dhabi As A Global Financial Center](http://www.mondovisione.com/media-and-resources/news/adx-leads-global-investor-roadshow-to-new-york-with-listed-companies-to-showcase-2025926/)
 append_entries: 5
 Finish: 2025-09-26 16:28:38.906385
+------------------------------------------------------
+Started: 2025-09-26 18:30:43.696424
+Existing_entries: 558
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nigerian Exchange Weekly Market Report For The Week Ended 26 September 2025](http://www.mondovisione.com/media-and-resources/news/nigerian-exchange-weekly-market-report-for-the-week-ended-26-september-2025-2025926/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bees, Ts, And NFTs: Remarks At The Coin Center Dinner, SEC Commissioner Hester M. Peirce, Washington D.C., Sept. 26, 2025](http://www.mondovisione.com/media-and-resources/news/bees-ts-and-nfts-remarks-at-the-coin-center-dinner-sec-commissioner-hester-m-2025926/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Canadian Investment Regulatory Organization Elects 12 Board Directors](http://www.mondovisione.com/media-and-resources/news/canadian-investment-regulatory-organization-elects-12-board-directors-2025926/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ECB Presents Findings From Digital Euro Innovation Platform And Announces Second Round Of Experimentation](http://www.mondovisione.com/media-and-resources/news/ecb-presents-findings-from-digital-euro-innovation-platform-and-announces-second-2025926/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Prelude Lists On Euronext](http://www.mondovisione.com/media-and-resources/news/prelude-lists-on-euronext-2025926/)
+append_entries: 5
+Finish: 2025-09-26 18:30:44.783564
