@@ -3266,3 +3266,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [London Stock Exchange Group plc ("LSEG") Transactions In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transactions-in-own-shares-2025926/)
 append_entries: 5
 Finish: 2025-09-26 12:48:35.582262
+------------------------------------------------------
+Started: 2025-09-26 14:21:00.518254
+Existing_entries: 552
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Malawi Stock Exchange Weekly Summary Report, 26 September 2025](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-26-september-2025-2025926/)
+append_entries: 1
+Finish: 2025-09-26 14:21:04.053125
