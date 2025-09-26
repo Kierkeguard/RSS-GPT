@@ -3233,3 +3233,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [NZX FY25 Interim Dividend: AUD FX Rate](http://www.mondovisione.com/media-and-resources/news/nzx-fy25-interim-dividend-aud-fx-rate-2025926/)
 append_entries: 2
 Finish: 2025-09-26 06:33:53.516750
+------------------------------------------------------
+Started: 2025-09-26 08:31:04.151864
+Existing_entries: 547
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-09-26 08:31:05.292835
