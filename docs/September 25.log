@@ -3245,3 +3245,24 @@ Existing_entries: 547
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-09-26 10:24:29.212084
+------------------------------------------------------
+Started: 2025-09-26 12:48:30.166748
+Existing_entries: 547
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Registrations Open: ACER Webinar On New Methodology For Cost Efficiency Comparison Of EU Gas TSOs](http://www.mondovisione.com/media-and-resources/news/registrations-open-acer-webinar-on-new-methodology-for-cost-efficiency-comparis-2025926/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX: Forfeiture Of Unclaimed First Interim Dividend For 2019](http://www.mondovisione.com/media-and-resources/news/hkex-forfeiture-of-unclaimed-first-interim-dividend-for-2019-2025926/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority: Beware Of High-Risk Investments From Unregulated Firms](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-beware-of-high-risk-investments-from-unregulated-2025926/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Stockholm Welcomes NOBA Bank Group AB To The Main Market](http://www.mondovisione.com/media-and-resources/news/nasdaq-stockholm-welcomes-noba-bank-group-ab-to-the-main-market-2025926/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc ("LSEG") Transactions In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transactions-in-own-shares-2025926/)
+append_entries: 5
+Finish: 2025-09-26 12:48:35.582262
