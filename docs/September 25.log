@@ -3479,3 +3479,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Tehran Securities Exchange Weekly Market Snapshot - Week Ended 24 September 2025](http://www.mondovisione.com/media-and-resources/news/tehran-securities-exchange-weekly-market-snapshot-week-ended-24-september-2025-2025928/)
 append_entries: 1
 Finish: 2025-09-28 16:24:59.464663
+------------------------------------------------------
+Started: 2025-09-28 18:28:59.358693
+Existing_entries: 571
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Steel Producer At Tehran Securities Exchange Bell-Ringing Ceremony](http://www.mondovisione.com/media-and-resources/news/steel-producer-at-tehran-securities-exchange-bell-ringing-ceremony-2025928/)
+append_entries: 1
+Finish: 2025-09-28 18:29:00.535743
