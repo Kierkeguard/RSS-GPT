@@ -3581,3 +3581,25 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Merck Selects Broadridge To Transform Treasury Operations With Real-Time Account Visibility - Global Science And Technology Company Joins Swift Pilot Programme, Leveraging Broadridge's API Orchestration Capabilities For On-Demand Account Visibility Across 400+ Accounts](http://www.mondovisione.com/media-and-resources/news/merck-selects-broadridge-to-transform-treasury-operations-with-real-time-account-2025929/)
 append_entries: 4
 Finish: 2025-09-29 14:23:41.714088
+------------------------------------------------------
+Started: 2025-09-29 16:23:41.246938
+Existing_entries: 583
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CoinShares Fund Flows - Stronger Macro Data Dented Sentiment With US$812m Outflows](http://www.mondovisione.com/media-and-resources/news/coinshares-fund-flows-stronger-macro-data-dented-sentiment-with-us812m-outflo-2025929/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Stability Matters - Latest News From The FSB](http://www.mondovisione.com/media-and-resources/news/stability-matters-latest-news-from-the-fsb-2025929/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Statement Of The United States Department Of The Treasury, The Swiss Federal Department Of Finance And The Swiss National Bank On Macroeconomic And Foreign Exchange Matters](http://www.mondovisione.com/media-and-resources/news/statement-of-the-united-states-department-of-the-treasury-the-swiss-federal-dep-2025929/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Fiserv Signs Definitive Agreement to Acquire StoneCastle Cash Management](http://www.mondovisione.com/media-and-resources/news/fiserv-signs-definitive-agreement-to-acquire-stonecastle-cash-management-2025929/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Next Frontier of Payments Innovation, Federal Reserve Governor Christopher J. Waller, At Sibos 2025, Frankfurt, Germany](http://www.mondovisione.com/media-and-resources/news/the-next-frontier-of-payments-innovation-federal-reserve-governor-christopher-j-2025929/)
+Append: [CISI Future Foundation Boosts UK Financial Literacy With £952,600 Grant Across 14 Charities](http://www.mondovisione.com/media-and-resources/news/cisi-future-foundation-boosts-uk-financial-literacy-with-952600-grant-across-1-2025929/)
+append_entries: 6
+Finish: 2025-09-29 16:23:42.442686
