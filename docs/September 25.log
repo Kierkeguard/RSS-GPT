@@ -3530,3 +3530,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [McKay Brothers Launches Fastest Private Transport For Crypto & FX Trading Between London And Singapore](http://www.mondovisione.com/media-and-resources/news/mckay-brothers-launches-fastest-private-transport-for-crypto-and-fx-trading-betwee-2025929/)
 append_entries: 2
 Finish: 2025-09-29 06:36:37.392980
+------------------------------------------------------
+Started: 2025-09-29 08:33:38.150899
+Existing_entries: 574
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Monetary Authority Of Singapore And Industry Partners Publish Technical Report On Proof-Of-Concept Sandbox For Quantum-Safe Communications Within The Financial Sector](http://www.mondovisione.com/media-and-resources/news/monetary-authority-of-singapore-and-industry-partners-publish-technical-report-o-2025929/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Remakes Relief Instrument For Managed Investment Product Consideration](http://www.mondovisione.com/media-and-resources/news/asic-remakes-relief-instrument-for-managed-investment-product-consideration-2025929/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SGX Securities Welcomes The Listing Of LionGlobal Short Duration Bond Fund (Active ETF SGD Class)](http://www.mondovisione.com/media-and-resources/news/sgx-securities-welcomes-the-listing-of-lionglobal-short-duration-bond-fund-acti-2025929/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASX Expands Debt Market Data Products](http://www.mondovisione.com/media-and-resources/news/asx-expands-debt-market-data-products-2025929/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Monetary Authority Of Singapore Appoints New Chief Sustainability Officer](http://www.mondovisione.com/media-and-resources/news/onetary-authority-of-singapore-appoints-new-chief-sustainability-officer-2025929/)
+append_entries: 5
+Finish: 2025-09-29 08:33:39.203889
