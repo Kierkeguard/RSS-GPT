@@ -3518,3 +3518,15 @@ Existing_entries: 572
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-09-29 04:28:27.742331
+------------------------------------------------------
+Started: 2025-09-29 06:36:36.218573
+Existing_entries: 572
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Finance Executives Optimistic Despite Expectation Of Long-Term Market Uncertainty, SIX Study Reveals](http://www.mondovisione.com/media-and-resources/news/finance-executives-optimistic-despite-expectation-of-long-term-market-uncertaint-2025929/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [McKay Brothers Launches Fastest Private Transport For Crypto & FX Trading Between London And Singapore](http://www.mondovisione.com/media-and-resources/news/mckay-brothers-launches-fastest-private-transport-for-crypto-and-fx-trading-betwee-2025929/)
+append_entries: 2
+Finish: 2025-09-29 06:36:37.392980
