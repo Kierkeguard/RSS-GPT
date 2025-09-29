@@ -3603,3 +3603,18 @@ Append: [The Next Frontier of Payments Innovation, Federal Reserve Governor Chri
 Append: [CISI Future Foundation Boosts UK Financial Literacy With £952,600 Grant Across 14 Charities](http://www.mondovisione.com/media-and-resources/news/cisi-future-foundation-boosts-uk-financial-literacy-with-952600-grant-across-1-2025929/)
 append_entries: 6
 Finish: 2025-09-29 16:23:42.442686
+------------------------------------------------------
+Started: 2025-09-29 18:33:35.197847
+Existing_entries: 589
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The EBA launches its 2025 EU-wide transparency exercise](http://www.mondovisione.com/media-and-resources/news/the-eba-launches-its-2025-eu-wide-transparency-exercise-2025929/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Dellia Group Lists On Euronext](http://www.mondovisione.com/media-and-resources/news/dellia-group-lists-on-euronext-2025929/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Initial Access Document On BME Growth From Treelogic](http://www.mondovisione.com/media-and-resources/news/new-initial-access-document-on-bme-growth-from-treelogic-2025929/)
+append_entries: 3
+Finish: 2025-09-29 18:33:36.295766
