@@ -3563,3 +3563,21 @@ Existing_entries: 579
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-09-29 12:50:41.153564
+------------------------------------------------------
+Started: 2025-09-29 14:23:40.822451
+Existing_entries: 579
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group Files to Expand FICC Cross-Margining to End User Clients](http://www.mondovisione.com/media-and-resources/news/cme-group-files-to-expand-ficc-cross-margining-to-end-user-clients-2025929/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LCH SwapClear Welcomes ICBC (Asia) As member](http://www.mondovisione.com/media-and-resources/news/lch-swapclear-welcomes-icbc-asia-as-member-2025929/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LSEG Partners With Reuters To Launch AI-Driven News Format For Reliable Earnings Intelligence On Thousands Of Companies](http://www.mondovisione.com/media-and-resources/news/lseg-partners-with-reuters-to-launch-ai-driven-news-format-for-reliable-earnings-2025929/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Merck Selects Broadridge To Transform Treasury Operations With Real-Time Account Visibility - Global Science And Technology Company Joins Swift Pilot Programme, Leveraging Broadridge's API Orchestration Capabilities For On-Demand Account Visibility Across 400+ Accounts](http://www.mondovisione.com/media-and-resources/news/merck-selects-broadridge-to-transform-treasury-operations-with-real-time-account-2025929/)
+append_entries: 4
+Finish: 2025-09-29 14:23:41.714088
