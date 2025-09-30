@@ -3730,3 +3730,15 @@ Existing_entries: 614
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-09-30 14:22:47.780136
+------------------------------------------------------
+Started: 2025-09-30 16:29:31.382204
+Existing_entries: 614
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Amman Stock Exchange Indices Quarterly Review](http://www.mondovisione.com/media-and-resources/news/the-amman-stock-exchange-indices-quarterly-review-2025930/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [China's First Foreign-Invested Consumer REITs Project Listed On Shanghai Stock Exchange](http://www.mondovisione.com/media-and-resources/news/chinas-first-foreign-invested-consumer-reits-project-listed-on-shanghai-stock-e-2025930/)
+append_entries: 2
+Finish: 2025-09-30 16:29:32.798926
