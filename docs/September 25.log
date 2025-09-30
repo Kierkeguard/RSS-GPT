@@ -3668,3 +3668,26 @@ Existing_entries: 602
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-09-30 04:27:38.842452
+------------------------------------------------------
+Started: 2025-09-30 06:35:14.504244
+Existing_entries: 602
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Montréal Exchange Interest Rate Derivative Market Closed Today, September 30, 2025](http://www.mondovisione.com/media-and-resources/news/montral-exchange-interest-rate-derivative-market-closed-today-september-30-2-2025930/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Treasury Department Announces New Appointment](http://www.mondovisione.com/media-and-resources/news/us-treasury-department-announces-new-appointment-2025930/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Regulatory Disruption: Remarks At The SEC-CFTC Roundtable On Regulatory Harmonization Efforts, SEC Commissioner Mark T. Uyeda, SEC-CFTC Roundtable On Regulatory Harmonization Efforts, Sept. 29, 2025](http://www.mondovisione.com/media-and-resources/news/regulatory-disruption-remarks-at-the-sec-cftc-roundtable-on-regulatory-harmoniz-2025930/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Working Together Is Working Better, Remarks Of Acting CFTC Chairman Caroline D. Pham, SEC-CFTC Joint Roundtable On Regulatory Harmonization Efforts](http://www.mondovisione.com/media-and-resources/news/working-together-is-working-better-remarks-of-acting-cftc-chairman-caroline-d-2025930/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Deep In: Statement On DoubleZero No-Action Letter, SEC Commissioner Hester M. Peirce, Sept. 29, 2025](http://www.mondovisione.com/media-and-resources/news/deep-in-statement-on-doublezero-no-action-letter-sec-commissioner-hester-m-pe-2025930/)
+Append: [Nasdaq To Hold Third Quarter 2025 Investor Conference Call](http://www.mondovisione.com/media-and-resources/news/nasdaq-to-hold-third-quarter-2025-investor-conference-call-2025930/)
+Append: [CFTC Swaps Report Update](http://www.mondovisione.com/media-and-resources/news/cftc-swaps-report-update-2025930/)
+append_entries: 7
+Finish: 2025-09-30 06:35:15.737998
