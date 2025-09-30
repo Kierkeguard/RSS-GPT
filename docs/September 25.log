@@ -3742,3 +3742,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [China's First Foreign-Invested Consumer REITs Project Listed On Shanghai Stock Exchange](http://www.mondovisione.com/media-and-resources/news/chinas-first-foreign-invested-consumer-reits-project-listed-on-shanghai-stock-e-2025930/)
 append_entries: 2
 Finish: 2025-09-30 16:29:32.798926
+------------------------------------------------------
+Started: 2025-09-30 18:30:54.790393
+Existing_entries: 616
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cboe Announces Derivatives And Data Vantage Leadership Appointments](http://www.mondovisione.com/media-and-resources/news/cboe-announces-derivatives-and-data-vantage-leadership-appointments-2025930/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ICE’s Total Futures Markets At Record Open Interest With Record Commodity And Energy Futures Open Interest - Record Open Interest Across Natural Gas, Oil, TTF And Brent Futures](http://www.mondovisione.com/media-and-resources/news/ices-total-futures-markets-at-record-open-interest-with-record-commodity-and-en-2025930/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Markbass Lists On Euronext](http://www.mondovisione.com/media-and-resources/news/markbass-lists-on-euronext-2025930/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACE Digital Lists On Euronext Growth](http://www.mondovisione.com/media-and-resources/news/ace-digital-lists-on-euronext-growth-2025930/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Japan Financial Services Agency: Trends In High-Speed Trading](http://www.mondovisione.com/media-and-resources/news/japan-financial-services-agency-trends-in-high-speed-trading-2025930/)
+append_entries: 5
+Finish: 2025-09-30 18:30:55.611887
