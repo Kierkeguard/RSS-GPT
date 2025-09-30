@@ -3691,3 +3691,24 @@ Append: [Nasdaq To Hold Third Quarter 2025 Investor Conference Call](http://www.
 Append: [CFTC Swaps Report Update](http://www.mondovisione.com/media-and-resources/news/cftc-swaps-report-update-2025930/)
 append_entries: 7
 Finish: 2025-09-30 06:35:15.737998
+------------------------------------------------------
+Started: 2025-09-30 08:32:14.867402
+Existing_entries: 609
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LSEG Launches World-Check On Demand - A New Era Of Real-Time Risk Intelligence](http://www.mondovisione.com/media-and-resources/news/lseg-launches-world-check-on-demand-a-new-era-of-real-time-risk-intelligence-2025930/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Axxion S.A. Becomes New ETF Issuer At SIX Swiss Exchange](http://www.mondovisione.com/media-and-resources/news/axxion-sa-becomes-new-etf-issuer-at-six-swiss-exchange-2025930/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euronext Launches Euronext ETF Europe, The First Fully Integrated European Marketplace For ETFs](http://www.mondovisione.com/media-and-resources/news/euronext-launches-euronext-etf-europe-the-first-fully-integrated-european-marke-2025930/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX To Introduce Pop Mart Stock Options](http://www.mondovisione.com/media-and-resources/news/hkex-to-introduce-pop-mart-stock-options-2025930/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Main Issues Raised By The Japan Financial Services AgencyAt Opinion Exchange Meetings With Relevant Associations In The Financial Sector](http://www.mondovisione.com/media-and-resources/news/the-main-issues-raised-by-the-japan-financial-services-agencyat-opinion-exchange-2025930/)
+append_entries: 5
+Finish: 2025-09-30 08:32:16.400325
