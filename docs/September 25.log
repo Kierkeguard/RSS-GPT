@@ -3812,3 +3812,24 @@ Existing_entries: 630
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-10-01 04:27:02.923846
+------------------------------------------------------
+Started: 2025-10-01 06:34:59.835041
+Existing_entries: 630
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Singapore Strengthens Position As Third Largest Global FX Centre](http://www.mondovisione.com/media-and-resources/news/singapore-strengthens-position-as-third-largest-global-fx-centre-2025101/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Announces Departure Of Director Of Office Of The Advocate For Small Business Capital Formation Stacey Bowers](http://www.mondovisione.com/media-and-resources/news/sec-announces-departure-of-director-of-office-of-the-advocate-for-small-business-2025101/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Staff Issues Advisory On Certain Contract Markets](http://www.mondovisione.com/media-and-resources/news/cftc-staff-issues-advisory-on-certain-contract-markets-2025101/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bermuda Stock Exchange Advises Of Amended Trading And Settlement Due To Hurricane Activity](http://www.mondovisione.com/media-and-resources/news/bermuda-stock-exchange-advises-of-amended-trading-and-settlement-due-to-hurrican-2025101/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Staff Issues No-Action Letter Regarding Electricity Binary Options](http://www.mondovisione.com/media-and-resources/news/cftc-staff-issues-no-action-letter-regarding-electricity-binary-options-2025101/)
+append_entries: 5
+Finish: 2025-10-01 06:35:01.038339
