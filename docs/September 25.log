@@ -3869,3 +3869,25 @@ Existing_entries: 637
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-10-01 16:29:26.306503
+------------------------------------------------------
+Started: 2025-10-01 18:33:10.431415
+Existing_entries: 637
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LSEG Introduces World-Check Verify, Powered By AWS: Instant, Embedded Screening For Frictionless Payments And Compliance](http://www.mondovisione.com/media-and-resources/news/lseg-introduces-world-check-verify-powered-by-aws-instant-embedded-screening-2025101/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Amman Stock Exchange (ASE) Announces The Re-Publication Of The Trading Data Of Government Bonds Traded At The Central Bank Of Jordan (CBJ)](http://www.mondovisione.com/media-and-resources/news/the-amman-stock-exchange-ase-announces-the-re-publication-of-the-trading-data-2025101/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Ignyte And Binance Forge Alliance To Supercharge Blockchain Innovation](http://www.mondovisione.com/media-and-resources/news/ignyte-and-binance-forge-alliance-to-supercharge-blockchain-innovation-2025101/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIX Exchanges Figures September 2025](http://www.mondovisione.com/media-and-resources/news/six-exchanges-figures-september-2025-2025101/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Trading Overview In September 2025& First Half Of FY2025 (April To September)](http://www.mondovisione.com/media-and-resources/news/trading-overview-in-september-2025and-first-half-of-fy2025-april-to-september-2025101/)
+Append: [Key Regulatory And Enforcement Actions Taken By Monetary Authority Of Singapore In Q3 2025](http://www.mondovisione.com/media-and-resources/news/key-regulatory-and-enforcement-actions-taken-by-monetary-authority-of-singapore-2025101/)
+append_entries: 6
+Finish: 2025-10-01 18:33:11.420478
