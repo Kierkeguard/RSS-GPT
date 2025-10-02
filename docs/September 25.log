@@ -3986,3 +3986,15 @@ Existing_entries: 656
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-10-02 16:28:04.227195
+------------------------------------------------------
+Started: 2025-10-02 18:32:22.083113
+Existing_entries: 656
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ADX Roadshow In New York With Morgan Stanley Draws Strong Global Interest In Abu Dhabi Securities - 15 Leading Abu Dhabi Blue-Chip Companies Engaged With Top U.S. Institutional Investors Managing In Excess Of USD 10 Billion In Assets Under Management (AUM)](http://www.mondovisione.com/media-and-resources/news/adx-roadshow-in-new-york-with-morgan-stanley-draws-strong-global-interest-in-abu-2025102/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Non-Jordanian Ownership In Companies Listed On The Amman Stock Exchange Reached 46.6%, Of Which 32.4% For Institutional Investors](http://www.mondovisione.com/media-and-resources/news/non-jordanian-ownership-in-companies-listed-on-the-amman-stock-exchange-reached-2025102/)
+append_entries: 2
+Finish: 2025-10-02 18:32:23.125671
