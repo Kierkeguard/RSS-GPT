@@ -3956,3 +3956,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Robinhood Markets, Inc. To Announce Third Quarter 2025 Results On November 5, 2025](http://www.mondovisione.com/media-and-resources/news/robinhood-markets-inc-to-announce-third-quarter-2025-results-on-november-5-20-2025102/)
 append_entries: 3
 Finish: 2025-10-02 06:33:38.123831
+------------------------------------------------------
+Started: 2025-10-02 08:29:43.728689
+Existing_entries: 656
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-10-02 08:29:45.021496
