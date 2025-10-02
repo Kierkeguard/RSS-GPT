@@ -3941,3 +3941,18 @@ Existing_entries: 653
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-10-02 04:26:48.573713
+------------------------------------------------------
+Started: 2025-10-02 06:33:37.233115
+Existing_entries: 653
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [JPX Monthly Headlines - September 2025](http://www.mondovisione.com/media-and-resources/news/jpx-monthly-headlines-september-2025-2025102/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SET Unveils 19 CEO Finalists For SET Awards 2025 With Winners To Be Announced On October 30](http://www.mondovisione.com/media-and-resources/news/set-unveils-19-ceo-finalists-for-set-awards-2025-with-winners-to-be-announced-on-2025102/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Robinhood Markets, Inc. To Announce Third Quarter 2025 Results On November 5, 2025](http://www.mondovisione.com/media-and-resources/news/robinhood-markets-inc-to-announce-third-quarter-2025-results-on-november-5-20-2025102/)
+append_entries: 3
+Finish: 2025-10-02 06:33:38.123831
