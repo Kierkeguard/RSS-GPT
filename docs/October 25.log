@@ -24,3 +24,12 @@ Append: [Euronext Reaffirms Its Support For European Strategic Autonomy By Signi
 Append: [CME Group Reports Second-Highest Q3 And September ADV - Record Quarterly Cryptocurrency ADV Of 340,000 Contracts](http://www.mondovisione.com/media-and-resources/news/cme-group-reports-second-highest-q3-and-september-adv-record-quarterly-cryptoc-2025102/)
 append_entries: 10
 Finish: 2025-10-03 08:28:34.897124
+------------------------------------------------------
+Started: 2025-10-03 10:23:21.051869
+Existing_entries: 10
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Vienna Stock Exchange Q3: Equity Turnover Up, ATX Maintains Strong Momentum](http://www.mondovisione.com/media-and-resources/news/vienna-stock-exchange-q3-equity-turnover-up-atx-maintains-strong-momentum-2025103/)
+append_entries: 1
+Finish: 2025-10-03 10:23:22.125878
