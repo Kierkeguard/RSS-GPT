@@ -66,3 +66,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Bank of England: Minutes Of The Meeting Of The Court Of Directors Held On 24 July 2025](http://www.mondovisione.com/media-and-resources/news/bank-of-england-minutes-of-the-meeting-of-the-court-of-directors-held-on-24-jul-2025103/)
 append_entries: 4
 Finish: 2025-10-03 14:20:36.768784
+------------------------------------------------------
+Started: 2025-10-03 16:27:11.028728
+Existing_entries: 18
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nigerian Exchange Weekly Market Report For The Week Ended 3 October 2025](http://www.mondovisione.com/media-and-resources/news/nigerian-exchange-weekly-market-report-for-the-week-ended-3-october-2025-2025103/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Malawi Stock Exchange Weekly Summary Report, 3 October 2025](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-3-october-2025-2025103/)
+append_entries: 2
+Finish: 2025-10-03 16:27:11.998086
