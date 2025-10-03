@@ -4040,3 +4040,15 @@ Existing_entries: 666
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-10-03 02:59:38.330629
+------------------------------------------------------
+Started: 2025-10-03 04:26:41.014194
+Existing_entries: 666
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NZX Shareholder Metrics - September 2025](http://www.mondovisione.com/media-and-resources/news/nzx-shareholder-metrics-september-2025-2025103/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Malaysia Advisory Committee On Sustainability Reporting Issues Illustrative Sustainability Reports To Guide Companies On ISSB Standards](http://www.mondovisione.com/media-and-resources/news/the-malaysia-advisory-committee-on-sustainability-reporting-issues-illustrative-2025103/)
+append_entries: 2
+Finish: 2025-10-03 04:26:41.937380
