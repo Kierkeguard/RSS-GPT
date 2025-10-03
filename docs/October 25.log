@@ -107,3 +107,12 @@ Existing_entries: 27
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-10-03 20:23:52.733075
+------------------------------------------------------
+Started: 2025-10-03 22:19:25.527438
+Existing_entries: 27
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cboe Global Markets Reports Trading Volume For September 2025](http://www.mondovisione.com/media-and-resources/news/cboe-global-markets-reports-trading-volume-for-september-2025-2025103/)
+append_entries: 1
+Finish: 2025-10-03 22:19:27.037775
