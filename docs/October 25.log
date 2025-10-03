@@ -78,3 +78,26 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Malawi Stock Exchange Weekly Summary Report, 3 October 2025](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-3-october-2025-2025103/)
 append_entries: 2
 Finish: 2025-10-03 16:27:11.998086
+------------------------------------------------------
+Started: 2025-10-03 18:31:26.482290
+Existing_entries: 20
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Economic Outlook And The Fed’s Monetary Policy Framework, Federal Reserve Vice Chair Philip N. Jefferson, At The Drexel Economic Forum, Drexel University LeBow College Of Business, Philadelphia, Pennsylvania](http://www.mondovisione.com/media-and-resources/news/economic-outlook-and-the-feds-monetary-policy-framework-federal-reserve-vice-c-2025103/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [What They Are Saying: Elected Officials, Advocates, And The Financial Services Industry Celebrate New York State Department Of Financial Services Superintendent Harris’s Accomplishments During Her Four Years Of Service](http://www.mondovisione.com/media-and-resources/news/what-they-are-saying-elected-officials-advocates-and-the-financial-services-i-2025103/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Financial And Consumer Affairs Authority Of Saskatchewan And Canadian Investment Regulatory Organization Announce Effective Date For Authorization Of Registration Authority](http://www.mondovisione.com/media-and-resources/news/the-financial-and-consumer-affairs-authority-of-saskatchewan-and-canadian-invest-2025103/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Basel Committee Reports Further Progress On Basel III Implementation](http://www.mondovisione.com/media-and-resources/news/basel-committee-reports-further-progress-on-basel-iii-implementation-2025103/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESMA 2026 Work Programme – Advancing On More Integrated, Accessible And Competitive Financial Markets In The EU](http://www.mondovisione.com/media-and-resources/news/esma-2026-work-programme-advancing-on-more-integrated-accessible-and-competit-2025103/)
+Append: [Monetary Policy And Financial Stability: Past Lessons For Future Resilience - Keynote Speech By Christine Lagarde, President Of The ECB, At The Farewell Symposium For DNB President Klaas Knot, “Europe In The World - Challenges And Opportunities” - Amsterdam, 3 October 2025](http://www.mondovisione.com/media-and-resources/news/monetary-policy-and-financial-stability-past-lessons-for-future-resilience-ke-2025103/)
+Append: [Challenges To Financial Stability - Speech By Andrew Bailey, Governor, Bank Of England, Given At The Klaas Knot Farewell Symposium](http://www.mondovisione.com/media-and-resources/news/challenges-to-financial-stability-speech-by-andrew-bailey-governor-bank-of-e-2025103/)
+append_entries: 7
+Finish: 2025-10-03 18:31:27.904160
