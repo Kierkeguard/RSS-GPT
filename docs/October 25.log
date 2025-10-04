@@ -116,3 +116,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Cboe Global Markets Reports Trading Volume For September 2025](http://www.mondovisione.com/media-and-resources/news/cboe-global-markets-reports-trading-volume-for-september-2025-2025103/)
 append_entries: 1
 Finish: 2025-10-03 22:19:27.037775
+------------------------------------------------------
+Started: 2025-10-04 01:40:20.129968
+Existing_entries: 28
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-10-04 01:40:21.184096
