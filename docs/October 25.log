@@ -239,3 +239,12 @@ Existing_entries: 29
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-10-05 14:18:01.975696
+------------------------------------------------------
+Started: 2025-10-05 16:24:39.266014
+Existing_entries: 29
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [South Kaveh Steel Rang Tehran Securities Exchange Opening Bell](http://www.mondovisione.com/media-and-resources/news/south-kaveh-steel-rang-tehran-securities-exchange-opening-bell-2025105/)
+append_entries: 1
+Finish: 2025-10-05 16:24:40.402633
