@@ -305,3 +305,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [New Zealand Financial Markets Authority: Former Financial Adviser Sentenced For “Gross Breach Of Trust”](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-former-financial-adviser-sentenced-for-2025106/)
 append_entries: 5
 Finish: 2025-10-06 06:34:38.361968
+------------------------------------------------------
+Started: 2025-10-06 08:30:35.454396
+Existing_entries: 35
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc ("LSEG") Transactions In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transactions-in-own-shares-2025106/)
+append_entries: 1
+Finish: 2025-10-06 08:30:36.567951
