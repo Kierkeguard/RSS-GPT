@@ -360,3 +360,24 @@ Existing_entries: 48
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-10-06 14:22:42.265757
+------------------------------------------------------
+Started: 2025-10-06 16:28:17.305473
+Existing_entries: 48
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority: Daniel Pugh Sentenced To 7 And A Half Years In Prison For £1.3m Ponzi Scheme](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-daniel-pugh-sentenced-to-7-and-a-half-years-in-p-2025106/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TRG Screen Acquires Crizit To Expand Leadership In Reference Data Optimization - Combination Creates Integrated Platform That Monitors, Analyzes, And Automatically Optimizes Reference Data Consumption](http://www.mondovisione.com/media-and-resources/news/trg-screen-acquires-crizit-to-expand-leadership-in-reference-data-optimization-2025106/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Treasury Department Announces Frank Bisignano As Chief Executive Officer Of The IRS](http://www.mondovisione.com/media-and-resources/news/us-treasury-department-announces-frank-bisignano-as-chief-executive-officer-of-t-2025106/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CISI CEO Celebrates Importance Of Financial Services For Kingdom Of Saudi Arabia Vision 2030 And Synergies With UK’s Modern Industrial Strategy](http://www.mondovisione.com/media-and-resources/news/cisi-ceo-celebrates-importance-of-financial-services-for-kingdom-of-saudi-arabia-2025106/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tradeweb Reports Record September 2025 Total Trading Volume Of $63.7 Trillion And Record Average Daily Volume Of $2.9 Trillion - September 2025 ADV Up 10.0% YoY - Third Quarter 2025 ADV Up 11.8% YoY](http://www.mondovisione.com/media-and-resources/news/tradeweb-reports-record-september-2025-total-trading-volume-of-637-trillion-an-2025106/)
+append_entries: 5
+Finish: 2025-10-06 16:28:18.285307
