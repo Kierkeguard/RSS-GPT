@@ -314,3 +314,28 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [London Stock Exchange Group plc ("LSEG") Transactions In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transactions-in-own-shares-2025106/)
 append_entries: 1
 Finish: 2025-10-06 08:30:36.567951
+------------------------------------------------------
+Started: 2025-10-06 10:25:39.668313
+Existing_entries: 36
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ICE Mortgage Monitor: Falling Rates Lead To Best Homebuying Affordability In 2.5 Years - Home Prices Begin To Firm As Affordability Improves And Inventory Tightens](http://www.mondovisione.com/media-and-resources/news/ice-mortgage-monitor-falling-rates-lead-to-best-homebuying-affordability-in-25-2025106/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER Invites Energy Market Associations To Help Shape REMIT Implementation](http://www.mondovisione.com/media-and-resources/news/acer-invites-energy-market-associations-to-help-shape-remit-implementation-2025106/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [EU Supervisory Authorities Warn Consumers Of Risks And Limited Protection For Certain Crypto-Assets And Providers](http://www.mondovisione.com/media-and-resources/news/eu-supervisory-authorities-warn-consumers-of-risks-and-limited-protection-for-ce-2025106/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [September 2025 Figures At Eurex](http://www.mondovisione.com/media-and-resources/news/september-2025-figures-at-eurex-2025106/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority: Regulators Join Forces To Tackle Poor Claims Management Practices](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-regulators-join-forces-to-tackle-poor-claims-man-2025106/)
+Append: [Spanish Stock Exchange Opens The Session With A Bell Ringing For Financial Literacy - The Event Took Place At The Barcelona Stock Exchange](http://www.mondovisione.com/media-and-resources/news/spanish-stock-exchange-opens-the-session-with-a-bell-ringing-for-financial-liter-2025106/)
+Append: [The Conduct Of Monetary Policy: Keynote Speech By Philip R. Lane, Member Of The Executive Board Of The ECB, At The ECB Conference On Monetary Policy 2025: Bridging Science And Practice, Frankfurt am Main, 6 October 2025](http://www.mondovisione.com/media-and-resources/news/the-conduct-of-monetary-policy-keynote-speech-by-philip-r-lane-member-of-the-2025106/)
+Append: [Exchanges Across The Globe Ring The Bell For Financial Literacy](http://www.mondovisione.com/media-and-resources/news/exchanges-across-the-globe-ring-the-bell-for-financial-literacy-2025106/)
+Append: [Schroders Becomes New ETF Issuer At SIX Swiss Exchange](http://www.mondovisione.com/media-and-resources/news/schroders-becomes-new-etf-issuer-at-six-swiss-exchange-2025106/)
+append_entries: 9
+Finish: 2025-10-06 10:25:41.136709
