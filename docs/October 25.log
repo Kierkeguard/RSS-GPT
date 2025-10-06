@@ -402,3 +402,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [TMX Group Consolidated Trading Statistics - September 2025](http://www.mondovisione.com/media-and-resources/news/tmx-group-consolidated-trading-statistics-september-2025-2025106/)
 append_entries: 1
 Finish: 2025-10-06 20:24:53.297252
+------------------------------------------------------
+Started: 2025-10-06 22:19:57.927359
+Existing_entries: 56
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BGC Group Announces Acquisition Of Macro Hive To Expand Agency Business - Acquisition Adds AI-Powered Data Analytics To BGC’s Global Platform Servicing Institutional Clients](http://www.mondovisione.com/media-and-resources/news/bgc-group-announces-acquisition-of-macro-hive-to-expand-agency-business-acquis-2025106/)
+append_entries: 1
+Finish: 2025-10-06 22:19:58.603072
