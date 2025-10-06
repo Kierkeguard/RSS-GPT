@@ -354,3 +354,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [IOSCO Announces Start Of 9th Edition Of World Investor Week, 6-12 October 2025](http://www.mondovisione.com/media-and-resources/news/iosco-announces-start-of-9th-edition-of-world-investor-week-6-12-october-2025-2025106/)
 append_entries: 3
 Finish: 2025-10-06 12:49:30.279426
+------------------------------------------------------
+Started: 2025-10-06 14:22:41.356848
+Existing_entries: 48
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-10-06 14:22:42.265757
