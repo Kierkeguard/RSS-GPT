@@ -381,3 +381,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Tradeweb Reports Record September 2025 Total Trading Volume Of $63.7 Trillion And Record Average Daily Volume Of $2.9 Trillion - September 2025 ADV Up 10.0% YoY - Third Quarter 2025 ADV Up 11.8% YoY](http://www.mondovisione.com/media-and-resources/news/tradeweb-reports-record-september-2025-total-trading-volume-of-637-trillion-an-2025106/)
 append_entries: 5
 Finish: 2025-10-06 16:28:18.285307
+------------------------------------------------------
+Started: 2025-10-06 18:33:34.012135
+Existing_entries: 53
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Office Of The Comptroller Of The Currency Announces Actions To Reduce Regulatory Burden For Community Banks](http://www.mondovisione.com/media-and-resources/news/us-office-of-the-comptroller-of-the-currency-announces-actions-to-reduce-regulat-2025106/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Finansinspektionen Reciprocates The Norwegian Risk Weight Floors](http://www.mondovisione.com/media-and-resources/news/finansinspektionen-reciprocates-the-norwegian-risk-weight-floors-2025106/)
+append_entries: 2
+Finish: 2025-10-06 18:33:35.144064
