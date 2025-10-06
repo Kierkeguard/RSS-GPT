@@ -284,3 +284,24 @@ Existing_entries: 30
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-10-06 04:26:32.652810
+------------------------------------------------------
+Started: 2025-10-06 06:34:37.195680
+Existing_entries: 30
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Thai Fiscal Policy Office, Thai Securities And Exchange Commission , SET And Federation Of Thai Capital Market Organizations Launch Initiative To Boost Thai Capital Market Attractiveness With Four Key Measures](http://www.mondovisione.com/media-and-resources/news/thai-fiscal-policy-office-thai-securities-and-exchange-commission-set-and-fed-2025106/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euronext Announces The Launch Of The Voluntary Exchange Offer For All ATHEX Shares](http://www.mondovisione.com/media-and-resources/news/euronext-announces-the-launch-of-the-voluntary-exchange-offer-for-all-athex-shar-2025106/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Zealand Financial Markets Authority: IAG To Make Pecuniary Penalty Payment Of $19.5 Million For Widespread Failures](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-iag-to-make-pecuniary-penalty-payment-o-2025106/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Zealand Financial Markets Authority: Pump And Dump Scam Nets Kiwi Investors](http://www.mondovisione.com/media-and-resources/news/financial-markets-authority-pump-and-dump-scam-nets-kiwi-investors-2025106/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Zealand Financial Markets Authority: Former Financial Adviser Sentenced For “Gross Breach Of Trust”](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-former-financial-adviser-sentenced-for-2025106/)
+append_entries: 5
+Finish: 2025-10-06 06:34:38.361968
