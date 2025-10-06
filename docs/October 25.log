@@ -393,3 +393,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Finansinspektionen Reciprocates The Norwegian Risk Weight Floors](http://www.mondovisione.com/media-and-resources/news/finansinspektionen-reciprocates-the-norwegian-risk-weight-floors-2025106/)
 append_entries: 2
 Finish: 2025-10-06 18:33:35.144064
+------------------------------------------------------
+Started: 2025-10-06 20:24:52.244541
+Existing_entries: 55
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TMX Group Consolidated Trading Statistics - September 2025](http://www.mondovisione.com/media-and-resources/news/tmx-group-consolidated-trading-statistics-september-2025-2025106/)
+append_entries: 1
+Finish: 2025-10-06 20:24:53.297252
