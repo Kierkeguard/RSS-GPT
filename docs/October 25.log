@@ -429,3 +429,24 @@ Existing_entries: 57
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-10-07 04:27:12.069987
+------------------------------------------------------
+Started: 2025-10-07 06:33:52.808855
+Existing_entries: 57
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Approves Cboe’s Listing Application To Bolster Competition In Public Markets](http://www.mondovisione.com/media-and-resources/news/asic-approves-cboes-listing-application-to-bolster-competition-in-public-market-2025107/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tokyo Stock Exchange: Applications For "SX Brands 2026"](http://www.mondovisione.com/media-and-resources/news/tokyo-stock-exchange-applications-for-sx-brands-2026-2025107/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Malaysia PM To Open Global Islamic Finance Forum 2025, 13-15 Oct In KL As Industry Targets US$7.5 Trillion In Assets](http://www.mondovisione.com/media-and-resources/news/malaysia-pm-to-open-global-islamic-finance-forum-2025-13-15-oct-in-kl-as-indust-2025107/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASX Group Monthly Activity Report – September 2025](http://www.mondovisione.com/media-and-resources/news/asx-group-monthly-activity-report-september-2025-2025107/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Finds Many Auditors Failing To Demonstrate Compliance With Auditor Independence Obligations](http://www.mondovisione.com/media-and-resources/news/asic-finds-many-auditors-failing-to-demonstrate-compliance-with-auditor-independ-2025107/)
+append_entries: 5
+Finish: 2025-10-07 06:33:54.090497
