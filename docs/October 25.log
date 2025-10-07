@@ -459,3 +459,26 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [London Stock Exchange Group plc ("LSEG") Transactions In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transactions-in-own-shares-2025107/)
 append_entries: 1
 Finish: 2025-10-07 08:30:46.021131
+------------------------------------------------------
+Started: 2025-10-07 10:24:03.537436
+Existing_entries: 63
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SmartSearch Acquires Credas, Accelerating UK Growth In Digital KYC & AML Compliance](http://www.mondovisione.com/media-and-resources/news/smartsearch-acquires-credas-accelerating-uk-growth-in-digital-kyc-and-aml-complia-2025107/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [DataBP Announces Selection By EuroCTP To Support Licensing Administration For Its Consolidated Tape Initiative](http://www.mondovisione.com/media-and-resources/news/databp-announces-selection-by-euroctp-to-support-licensing-administration-for-it-2025107/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ING Appoints Gary Prince As Head Of Financial Markets, UK](http://www.mondovisione.com/media-and-resources/news/ing-appoints-gary-prince-as-head-of-financial-markets-uk-2025107/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SET Market Report For September 2025](http://www.mondovisione.com/media-and-resources/news/set-market-report-for-september-2025-2025107/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Moscow Exchange Trading Schedule For 2026](http://www.mondovisione.com/media-and-resources/news/moscow-exchange-trading-schedule-for-2026-2025107/)
+Append: [Keynote Address, Dato’ Mohammad Faiz Azmi, Chairman, Securities Commission Malaysia, Road To Belém: Accelerating Climate Action In Sarawak, 7 October 2025, 8.45 AM, Sheraton Kuching, Sarawak](http://www.mondovisione.com/media-and-resources/news/keynote-address-dato-mohammad-faiz-azmi-chairman-securities-commission-malay-2025107/)
+Append: [Swiss Finance & Property Group Modernizes Investment Operations With Broadridge’s Front-To-Back Platform](http://www.mondovisione.com/media-and-resources/news/swiss-finance-and-property-group-modernizes-investment-operations-with-broadridge-2025107/)
+append_entries: 7
+Finish: 2025-10-07 10:24:04.274538
