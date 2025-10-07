@@ -558,3 +558,15 @@ Append: [Bank Of England - Minutes: CBDC Academic Advisory Group - June 2025](ht
 Append: [Welcome Remarks, Federal Reserve Vice Chair For Supervision Michelle W. Bowman, At The 2025 Community Banking Research Conference, St. Louis, Missouri (Via Pre-Recorded Video)](http://www.mondovisione.com/media-and-resources/news/welcome-remarks-federal-reserve-vice-chair-for-supervision-michelle-w-bowman-2025107/)
 append_entries: 7
 Finish: 2025-10-07 20:24:48.402578
+------------------------------------------------------
+Started: 2025-10-07 22:20:25.893510
+Existing_entries: 90
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FTSE Russell Upgrades The Greek Capital Market To “Developed Market” Status](http://www.mondovisione.com/media-and-resources/news/ftse-russell-upgrades-the-greek-capital-market-to-developed-market-status-2025107/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Reports September 2025 Volumes And 3Q25 Statistics](http://www.mondovisione.com/media-and-resources/news/nasdaq-reports-september-2025-volumes-and-3q25-statistics-2025107/)
+append_entries: 2
+Finish: 2025-10-07 22:20:26.800421
