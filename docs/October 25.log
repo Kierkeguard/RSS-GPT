@@ -411,3 +411,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [BGC Group Announces Acquisition Of Macro Hive To Expand Agency Business - Acquisition Adds AI-Powered Data Analytics To BGC’s Global Platform Servicing Institutional Clients](http://www.mondovisione.com/media-and-resources/news/bgc-group-announces-acquisition-of-macro-hive-to-expand-agency-business-acquis-2025106/)
 append_entries: 1
 Finish: 2025-10-06 22:19:58.603072
+------------------------------------------------------
+Started: 2025-10-07 01:44:45.885138
+Existing_entries: 57
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-10-07 01:44:46.882117
