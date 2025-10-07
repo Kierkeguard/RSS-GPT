@@ -520,3 +520,18 @@ Existing_entries: 80
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-10-07 16:28:33.842719
+------------------------------------------------------
+Started: 2025-10-07 18:33:43.644961
+Existing_entries: 80
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euronext Announces Volumes For September 2025](http://www.mondovisione.com/media-and-resources/news/euronext-announces-volumes-for-september-2025-2025107/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [EEX Group Monthly Volumes – September 2025](http://www.mondovisione.com/media-and-resources/news/eex-group-monthly-volumes-september-2025-2025107/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The EBA Launches Selection Procedure To Appoint New Chairperson](http://www.mondovisione.com/media-and-resources/news/the-eba-launches-selection-procedure-to-appoint-new-chairperson-2025107/)
+append_entries: 3
+Finish: 2025-10-07 18:33:44.639709
