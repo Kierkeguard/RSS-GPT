@@ -661,3 +661,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Bank Of England: Financial Policy Committee Record – October 2025](http://www.mondovisione.com/media-and-resources/news/bank-of-england-financial-policy-committee-record-october-2025-2025108/)
 append_entries: 5
 Finish: 2025-10-08 12:49:03.468817
+------------------------------------------------------
+Started: 2025-10-08 14:23:54.372122
+Existing_entries: 109
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-10-08 14:23:55.892946
