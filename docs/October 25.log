@@ -640,3 +640,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Scope Markets Sees Significant Demand From Dubai Continuing - The CFD Broker Notches Up Another Year Of Success In The UAE, Securing Multiple Award Wins](http://www.mondovisione.com/media-and-resources/news/scope-markets-sees-significant-demand-from-dubai-continuing-the-cfd-broker-not-2025108/)
 append_entries: 4
 Finish: 2025-10-08 10:24:00.687008
+------------------------------------------------------
+Started: 2025-10-08 12:49:02.005571
+Existing_entries: 104
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Dubai Welcomes Emirates Islamic’s USD 500 Million Sustainability-Linked Financing Sukuk](http://www.mondovisione.com/media-and-resources/news/nasdaq-dubai-welcomes-emirates-islamics-usd-500-million-sustainability-linked-f-2025108/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Eventus Launches Frank AI, New Technology Purpose-Built For Financial Compliance, Surveillance Analytics - Deterministic AI Approach Brings Secure, Repeatable, Transparent Results Critical To Regulatory Compliance](http://www.mondovisione.com/media-and-resources/news/eventus-launches-frank-ai-new-technology-purpose-built-for-financial-compliance-2025108/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [S-RM Launches Perspecta Diligence: AI-Enabled Due Diligence With Expert Human Assurance](http://www.mondovisione.com/media-and-resources/news/s-rm-launches-perspecta-diligence-ai-enabled-due-diligence-with-expert-human-as-2025108/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [EEX’s Nordic Power Liquidity Programme Drives Volume Growth In First Month](http://www.mondovisione.com/media-and-resources/news/eexs-nordic-power-liquidity-programme-drives-volume-growth-in-first-month-2025108/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bank Of England: Financial Policy Committee Record – October 2025](http://www.mondovisione.com/media-and-resources/news/bank-of-england-financial-policy-committee-record-october-2025-2025108/)
+append_entries: 5
+Finish: 2025-10-08 12:49:03.468817
