@@ -676,3 +676,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [“Community Banking: The Cornerstone Of Building Communities” Speech By  Federal Reserve Governor Michael S. Barr At The 2025 Community Banking Research Conference, St. Louis, Missouri](http://www.mondovisione.com/media-and-resources/news/community-banking-the-cornerstone-of-building-communities-speech-by-federal-2025108/)
 append_entries: 1
 Finish: 2025-10-08 16:28:47.561696
+------------------------------------------------------
+Started: 2025-10-08 18:33:44.700851
+Existing_entries: 110
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BME: ULMA Renews Its Confidence In The MARF With A New Bond Issue](http://www.mondovisione.com/media-and-resources/news/bme-ulma-renews-its-confidence-in-the-marf-with-a-new-bond-issue-2025108/)
+append_entries: 1
+Finish: 2025-10-08 18:33:45.620841
