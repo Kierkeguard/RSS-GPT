@@ -622,3 +622,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [London Stock Exchange Group plc ("LSEG") Transactions In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transactions-in-own-shares-2025108/)
 append_entries: 2
 Finish: 2025-10-08 08:31:09.770110
+------------------------------------------------------
+Started: 2025-10-08 10:23:59.477919
+Existing_entries: 100
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESMA: Updated Standard Market Size (SMS) For The New Quoting Obligations Of Systematic Internalisers (SIs)](http://www.mondovisione.com/media-and-resources/news/esma-updated-standard-market-size-sms-for-the-new-quoting-obligations-of-syst-2025108/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Securities Commission Malaysia Opens Applications For Capital Market Programme for Returning Women](http://www.mondovisione.com/media-and-resources/news/securities-commission-malaysia-opens-applications-for-capital-market-programme-f-2025108/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Oxford Risk Partners With Aviva Investors To Risk Map Multi-Asset Fund Ranges](http://www.mondovisione.com/media-and-resources/news/oxford-risk-partners-with-aviva-investors-to-risk-map-multi-asset-fund-ranges-2025108/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Scope Markets Sees Significant Demand From Dubai Continuing - The CFD Broker Notches Up Another Year Of Success In The UAE, Securing Multiple Award Wins](http://www.mondovisione.com/media-and-resources/news/scope-markets-sees-significant-demand-from-dubai-continuing-the-cfd-broker-not-2025108/)
+append_entries: 4
+Finish: 2025-10-08 10:24:00.687008
