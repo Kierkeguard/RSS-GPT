@@ -570,3 +570,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Nasdaq Reports September 2025 Volumes And 3Q25 Statistics](http://www.mondovisione.com/media-and-resources/news/nasdaq-reports-september-2025-volumes-and-3q25-statistics-2025107/)
 append_entries: 2
 Finish: 2025-10-07 22:20:26.800421
+------------------------------------------------------
+Started: 2025-10-08 01:45:06.081790
+Existing_entries: 92
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-10-08 01:45:07.251149
