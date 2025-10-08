@@ -685,3 +685,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [BME: ULMA Renews Its Confidence In The MARF With A New Bond Issue](http://www.mondovisione.com/media-and-resources/news/bme-ulma-renews-its-confidence-in-the-marf-with-a-new-bond-issue-2025108/)
 append_entries: 1
 Finish: 2025-10-08 18:33:45.620841
+------------------------------------------------------
+Started: 2025-10-08 20:24:59.442339
+Existing_entries: 111
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Office Of The Comptroller Of The Currency Designates Jennifer Crosthwaite As Senior National Bank Examiner](http://www.mondovisione.com/media-and-resources/news/us-office-of-the-comptroller-of-the-currency-designates-jennifer-crosthwaite-as-2025108/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Ontario Securities Commission Takes Action To Increase Transparency And Encourage Compliance In The Exempt Market – Introduces AFS Non-Delivery List And Focused Compliance Examinations](http://www.mondovisione.com/media-and-resources/news/ontario-securities-commission-takes-action-to-increase-transparency-and-encourag-2025108/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CalPERS Hires June Kim As Deputy Chief Investment Officer For Public Markets - Kim Brings Nearly Three Decades Of Investment Experience To CalPERS](http://www.mondovisione.com/media-and-resources/news/calpers-hires-june-kim-as-deputy-chief-investment-officer-for-public-markets-k-2025108/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FINRA Foundation And AFCPE® Present The 2025 FINRA Foundation Military Spouse Fellows - Fellowship Program Provides Military Spouses With Best-In-Class Financial Counseling Training And Enriching Career Opportunities](http://www.mondovisione.com/media-and-resources/news/finra-foundation-and-afcpe-present-the-2025-finra-foundation-military-spouse-fe-2025108/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Amman Stock Exchange Participates With A Number Of Global Exchanges In The Events Of The World Investor Week 2025](http://www.mondovisione.com/media-and-resources/news/the-amman-stock-exchange-participates-with-a-number-of-global-exchanges-in-the-e-2025108/)
+append_entries: 5
+Finish: 2025-10-08 20:25:00.867689
