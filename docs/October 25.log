@@ -588,3 +588,25 @@ Existing_entries: 92
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-10-08 04:27:02.982725
+------------------------------------------------------
+Started: 2025-10-08 06:34:27.158359
+Existing_entries: 92
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Annual Forum To Focus On The Challenges Of A Rapidly Evolving Economy As It Returns To Melbourne In November](http://www.mondovisione.com/media-and-resources/news/asic-annual-forum-to-focus-on-the-challenges-of-a-rapidly-evolving-economy-as-it-2025108/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Zealand Financial Markets Authority Appoints Dr Philip Stevens As Chief Economist](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-appoints-dr-philip-stevens-as-chief-econ-2025108/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [United States Department of the Treasury: Jonathan McKernan Confirmed By The United States Senate](http://www.mondovisione.com/media-and-resources/news/united-states-department-of-the-treasury-jonathan-mckernan-confirmed-by-the-uni-2025108/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FTSE Russell Index Announcement: FTSE Equity Country Classification – September 2025 Annual Announcement](http://www.mondovisione.com/media-and-resources/news/ftse-russell-index-announcement-ftse-equity-country-classification-september-2025108/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Federal Agencies Issue Proposal To Focus Supervision On Material Financial Risks](http://www.mondovisione.com/media-and-resources/news/us-federal-agencies-issue-proposal-to-focus-supervision-on-material-financial-ri-2025108/)
+Append: [US Federal Agencies Issue Proposal To Prohibit Use Of Reputation Risk By Regulators](http://www.mondovisione.com/media-and-resources/news/us-federal-agencies-issue-proposal-to-prohibit-use-of-reputation-risk-by-regulat-2025108/)
+append_entries: 6
+Finish: 2025-10-08 06:34:28.283612
