@@ -706,3 +706,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [The Amman Stock Exchange Participates With A Number Of Global Exchanges In The Events Of The World Investor Week 2025](http://www.mondovisione.com/media-and-resources/news/the-amman-stock-exchange-participates-with-a-number-of-global-exchanges-in-the-e-2025108/)
 append_entries: 5
 Finish: 2025-10-08 20:25:00.867689
+------------------------------------------------------
+Started: 2025-10-08 22:20:54.984294
+Existing_entries: 116
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-10-08 22:20:55.882410
