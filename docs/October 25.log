@@ -844,3 +844,15 @@ Append: [European System Of Central Banks Renews Statements Of Commitment To FX 
 Append: [ESMA Consults On CCP Participation Requirements](http://www.mondovisione.com/media-and-resources/news/esma-consults-on-ccp-participation-requirements-2025109/)
 append_entries: 6
 Finish: 2025-10-09 18:32:21.673043
+------------------------------------------------------
+Started: 2025-10-09 20:25:30.716676
+Existing_entries: 142
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Stingray Security Named As ScamShield: Investor Protection Challenge Winner](http://www.mondovisione.com/media-and-resources/news/stingray-security-named-as-scamshield-investor-protection-challenge-winner-2025109/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Canadian Securities Regulators Provide Temporary Relief From Requirements For Delivering Proxy-Related Materials During Postal Suspension](http://www.mondovisione.com/media-and-resources/news/canadian-securities-regulators-provide-temporary-relief-from-requirements-for-de-2025109/)
+append_entries: 2
+Finish: 2025-10-09 20:25:31.784694
