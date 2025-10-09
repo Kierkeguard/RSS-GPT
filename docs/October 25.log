@@ -807,3 +807,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Loomis Sayles Selects ICE Climate To Advance Climate Risk Integration Across Global Fixed Income & Equity Portfolios](http://www.mondovisione.com/media-and-resources/news/loomis-sayles-selects-ice-climate-to-advance-climate-risk-integration-across-glo-2025109/)
 append_entries: 4
 Finish: 2025-10-09 14:23:15.930444
+------------------------------------------------------
+Started: 2025-10-09 16:30:42.571260
+Existing_entries: 133
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Interactive Brokers Expands Tax Planning Suite With New Professional Tools - New Features Help Investors Estimate, Plan, And Manage Tax Obligations](http://www.mondovisione.com/media-and-resources/news/interactive-brokers-expands-tax-planning-suite-with-new-professional-tools-n-2025109/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK-Switzerland Financial Dialogue Joint Statement - October 2025: Financial Dialogue Between Switzerland And The United Kingdom Of Great Britain And Ireland (UK) On 9 October 2025 In Berne](http://www.mondovisione.com/media-and-resources/news/uk-switzerland-financial-dialogue-joint-statement-october-2025-financial-dial-2025109/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Digitisation Taskforce: Terms Of Reference For Dematerialisation Market Action Taskforce (DEMAT)](http://www.mondovisione.com/media-and-resources/news/uk-digitisation-taskforce-terms-of-reference-for-dematerialisation-market-actio-2025109/)
+append_entries: 3
+Finish: 2025-10-09 16:30:43.438918
