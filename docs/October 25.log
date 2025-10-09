@@ -789,3 +789,21 @@ Existing_entries: 129
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-10-09 12:49:16.795842
+------------------------------------------------------
+Started: 2025-10-09 14:23:14.958362
+Existing_entries: 129
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Federal Reserve Vice Chair For Supervision Michelle W. Bowman, At The Community Bank Conference, Hosted By The Board Of Governors Of The Federal Reserve System, Washington, D.C.](http://www.mondovisione.com/media-and-resources/news/federal-reserve-vice-chair-for-supervision-michelle-w-bowman-at-the-community-2025109/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Welcoming Remarks, Federal Reserve Chair Jerome H. Powell, At The Community Bank Conference, Federal Reserve Board, Washington, D.C. (Via Pre-Recorded Video)](http://www.mondovisione.com/media-and-resources/news/welcoming-remarks-federal-reserve-chair-jerome-h-powell-at-the-community-bank-2025109/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Whitepaper For Nifty 500](http://www.mondovisione.com/media-and-resources/news/whitepaper-for-nifty-500-2025109/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Loomis Sayles Selects ICE Climate To Advance Climate Risk Integration Across Global Fixed Income & Equity Portfolios](http://www.mondovisione.com/media-and-resources/news/loomis-sayles-selects-ice-climate-to-advance-climate-risk-integration-across-glo-2025109/)
+append_entries: 4
+Finish: 2025-10-09 14:23:15.930444
