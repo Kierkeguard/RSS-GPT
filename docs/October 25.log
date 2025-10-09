@@ -822,3 +822,25 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [UK Digitisation Taskforce: Terms Of Reference For Dematerialisation Market Action Taskforce (DEMAT)](http://www.mondovisione.com/media-and-resources/news/uk-digitisation-taskforce-terms-of-reference-for-dematerialisation-market-actio-2025109/)
 append_entries: 3
 Finish: 2025-10-09 16:30:43.438918
+------------------------------------------------------
+Started: 2025-10-09 18:32:20.439132
+Existing_entries: 136
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Remarks By US Secretary Of The Treasury Scott Bessent Before The Fed Community Bank Conference](http://www.mondovisione.com/media-and-resources/news/remarks-by-us-secretary-of-the-treasury-scott-bessent-before-the-fed-community-b-2025109/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TMX Group Equity Financing Statistics - September 2025](http://www.mondovisione.com/media-and-resources/news/tmx-group-equity-financing-statistics-september-2025-2025109/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Economic Outlook And Monetary Policy, Federal Reserve Governor Michael S. Barr, At The Economic Club Of Minnesota Luncheon, Golden Valley, Minnesota](http://www.mondovisione.com/media-and-resources/news/the-economic-outlook-and-monetary-policy-federal-reserve-governor-michael-s-ba-2025109/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Supervisors Should Learn From Recent Cases To Prevent Financial Crime In Crypto Firms, The EBA Says](http://www.mondovisione.com/media-and-resources/news/supervisors-should-learn-from-recent-cases-to-prevent-financial-crime-in-crypto-2025109/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [European System Of Central Banks Renews Statements Of Commitment To FX Global Code](http://www.mondovisione.com/media-and-resources/news/european-system-of-central-banks-renews-statements-of-commitment-to-fx-global-co-2025109/)
+Append: [ESMA Consults On CCP Participation Requirements](http://www.mondovisione.com/media-and-resources/news/esma-consults-on-ccp-participation-requirements-2025109/)
+append_entries: 6
+Finish: 2025-10-09 18:32:21.673043
