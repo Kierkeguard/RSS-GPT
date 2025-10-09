@@ -745,3 +745,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Shenzhen Stock Exchange Market Bulletin - 26 September, 2025, Issue 26](http://www.mondovisione.com/media-and-resources/news/shenzhen-stock-exchange-market-bulletin-26-september-2025-issue-26-2025109/)
 append_entries: 3
 Finish: 2025-10-09 06:34:58.884800
+------------------------------------------------------
+Started: 2025-10-09 08:30:59.990205
+Existing_entries: 119
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Taiwan Futures Exchange Newsletter - October 2025](http://www.mondovisione.com/media-and-resources/news/taiwan-futures-exchange-newsletter-october-2025-2025109/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Minutes Of The Federal Open Market Committee, September 16–17, 2025](http://www.mondovisione.com/media-and-resources/news/minutes-of-the-federal-open-market-committee-september-1617-2025-2025109/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Shield Sets New Industry Standard For Data Integrity With Customer Visibility At Every Stage - Native AI-Powered Platform Delivers Zero Gap Data Integrity With Unprecedented Visibility And Accessibility Throughout The Entire Data Lifecycle](http://www.mondovisione.com/media-and-resources/news/shield-sets-new-industry-standard-for-data-integrity-with-customer-visibility-at-2025109/)
+append_entries: 3
+Finish: 2025-10-09 08:31:01.237803
