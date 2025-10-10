@@ -939,3 +939,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [FSB Outlines Next Steps For Authorities On AI Monitoring](http://www.mondovisione.com/media-and-resources/news/fsb-outlines-next-steps-for-authorities-on-ai-monitoring-20251010/)
 append_entries: 2
 Finish: 2025-10-10 10:24:30.593306
+------------------------------------------------------
+Started: 2025-10-10 12:47:28.069037
+Existing_entries: 159
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ETFGI Research Reports Europe’s ETF Industry Surpassed $3 Trillion Milestone For The First Time At End Of September](http://www.mondovisione.com/media-and-resources/news/etfgi-research-reports-europes-etf-industry-surpassed-3-trillion-milestone-for-20251010/)
+append_entries: 1
+Finish: 2025-10-10 12:47:29.337080
