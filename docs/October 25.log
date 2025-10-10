@@ -927,3 +927,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [London Stock Exchange Group plc ("LSEG") Transactions In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transactions-in-own-shares-20251010/)
 append_entries: 2
 Finish: 2025-10-10 08:30:22.778493
+------------------------------------------------------
+Started: 2025-10-10 10:24:29.595134
+Existing_entries: 157
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TP ICAP's Fusion Digital Assets Surpasses $1 Billion In Monthly Traded Volume](http://www.mondovisione.com/media-and-resources/news/tp-icaps-fusion-digital-assets-surpasses-1-billion-in-monthly-traded-volume-20251010/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FSB Outlines Next Steps For Authorities On AI Monitoring](http://www.mondovisione.com/media-and-resources/news/fsb-outlines-next-steps-for-authorities-on-ai-monitoring-20251010/)
+append_entries: 2
+Finish: 2025-10-10 10:24:30.593306
