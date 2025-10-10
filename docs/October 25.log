@@ -972,3 +972,26 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Circular Of Shanghai International Energy Exchange On Adjusting The Trading Margin Rates And Price Limits Of Certain Future Contracts](http://www.mondovisione.com/media-and-resources/news/circular-of-shanghai-international-energy-exchange-on-adjusting-the-trading-marg-20251010/)
 append_entries: 3
 Finish: 2025-10-10 16:28:43.835008
+------------------------------------------------------
+Started: 2025-10-10 18:32:23.996065
+Existing_entries: 164
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [S&P Global And CME Group Complete Sale Of OSTTRA To KKR](http://www.mondovisione.com/media-and-resources/news/sandp-global-and-cme-group-complete-sale-of-osttra-to-kkr-20251010/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nigerian Exchange Weekly Market Report For The Week Ended 10 October 2025](http://www.mondovisione.com/media-and-resources/news/nigerian-exchange-weekly-market-report-for-the-week-ended-10-october-2025-20251010/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Bermuda Stock Exchange And Butterfield Ring The Bell For Financial Literacy](http://www.mondovisione.com/media-and-resources/news/the-bermuda-stock-exchange-and-butterfield-ring-the-bell-for-financial-literacy-20251010/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bank Of England: Minutes Of The Securities Lending Committee Meeting – September 2025](http://www.mondovisione.com/media-and-resources/news/bank-of-england-minutes-of-the-securities-lending-committee-meeting-september-20251010/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The EBA Commission’s Proposed Changes To The Technical Standards On Liquidity Requirements Of The Reserve Of Assets Under MiCA](http://www.mondovisione.com/media-and-resources/news/the-eba-commissions-proposed-changes-to-the-technical-standards-on-liquidity-re-20251010/)
+Append: [EEX AG Concludes Full Acquisition Of GET Baltic](http://www.mondovisione.com/media-and-resources/news/eex-ag-concludes-full-acquisition-of-get-baltic-20251010/)
+Append: [Borsa Istanbul: Announcement Regarding Changes To The BIST Leveraged And Short Indices Methodology](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-announcement-regarding-changes-to-the-bist-leveraged-and-short-i-20251010/)
+append_entries: 7
+Finish: 2025-10-10 18:32:24.921218
