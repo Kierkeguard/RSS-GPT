@@ -948,3 +948,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ETFGI Research Reports Europe’s ETF Industry Surpassed $3 Trillion Milestone For The First Time At End Of September](http://www.mondovisione.com/media-and-resources/news/etfgi-research-reports-europes-etf-industry-surpassed-3-trillion-milestone-for-20251010/)
 append_entries: 1
 Finish: 2025-10-10 12:47:29.337080
+------------------------------------------------------
+Started: 2025-10-10 14:22:16.271643
+Existing_entries: 160
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Malawi Stock Exchange Weekly Summary Report, 10 October 2025](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-10-october-2025-20251010/)
+append_entries: 1
+Finish: 2025-10-10 14:22:17.630616
