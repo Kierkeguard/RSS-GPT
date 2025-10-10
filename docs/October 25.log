@@ -915,3 +915,15 @@ Append: [Keynote Address At The John L. Weinberg Center For Corporate Governance
 Append: [Comptroller Of The US Currency Issues Statement On Federal Reserve Board’s Action To Provide Clarity On Capital Instruments For Mutual Banking Organizations](http://www.mondovisione.com/media-and-resources/news/comptroller-of-the-us-currency-issues-statement-on-federal-reserve-boards-actio-20251010/)
 append_entries: 7
 Finish: 2025-10-10 06:34:17.660132
+------------------------------------------------------
+Started: 2025-10-10 08:30:21.766259
+Existing_entries: 155
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Helsinki Welcomes Posti Group To Main Market](http://www.mondovisione.com/media-and-resources/news/nasdaq-helsinki-welcomes-posti-group-to-main-market-20251010/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc ("LSEG") Transactions In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transactions-in-own-shares-20251010/)
+append_entries: 2
+Finish: 2025-10-10 08:30:22.778493
