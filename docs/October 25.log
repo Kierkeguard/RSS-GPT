@@ -892,3 +892,26 @@ Existing_entries: 148
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-10-10 04:26:59.334375
+------------------------------------------------------
+Started: 2025-10-10 06:34:16.403705
+Existing_entries: 148
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Publication Of "Japan Financial Services Agency Analytical Notes (2025.6) Vol.3"](http://www.mondovisione.com/media-and-resources/news/publication-of-japan-financial-services-agency-analytical-notes-20256-vol3-20251010/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Flags Risks In Offshore Outsourcing After Review Identifies Governance Gaps](http://www.mondovisione.com/media-and-resources/news/asic-flags-risks-in-offshore-outsourcing-after-review-identifies-governance-gaps-20251010/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Montréal Exchange Interest Rate Derivative Trading Ceases At 13:30 Today, October 10, 2025 - Exchange's Markets Closed On October 13, 2025](http://www.mondovisione.com/media-and-resources/news/montral-exchange-interest-rate-derivative-trading-ceases-at-1330-today-octobe-20251010/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Publication Of "Japan Financial Services Agency Analytical Notes (2025.10)"](http://www.mondovisione.com/media-and-resources/news/publication-of-japan-financial-services-agency-analytical-notes-202510-20251010/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Rebuilding After The Storm - Remarks By ASIC Commissioner Alan Kirkland At The Insurance Council Of Australia Annual Conference On 10 October 2025.](http://www.mondovisione.com/media-and-resources/news/rebuilding-after-the-storm-remarks-by-asic-commissioner-alan-kirkland-at-the-i-20251010/)
+Append: [Keynote Address At The John L. Weinberg Center For Corporate Governance’s 25th Anniversary Gala, Paul S. Atkins, Chairman, SEC, Newark, DE, Oct. 9, 2025](http://www.mondovisione.com/media-and-resources/news/keynote-address-at-the-john-l-weinberg-center-for-corporate-governances-25th-a-20251010/)
+Append: [Comptroller Of The US Currency Issues Statement On Federal Reserve Board’s Action To Provide Clarity On Capital Instruments For Mutual Banking Organizations](http://www.mondovisione.com/media-and-resources/news/comptroller-of-the-us-currency-issues-statement-on-federal-reserve-boards-actio-20251010/)
+append_entries: 7
+Finish: 2025-10-10 06:34:17.660132
