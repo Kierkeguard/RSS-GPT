@@ -957,3 +957,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Malawi Stock Exchange Weekly Summary Report, 10 October 2025](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-10-october-2025-20251010/)
 append_entries: 1
 Finish: 2025-10-10 14:22:17.630616
+------------------------------------------------------
+Started: 2025-10-10 16:28:42.666310
+Existing_entries: 161
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group Metals Complex Reaches All-Time Daily Volume Record - Driven By Heightened Activity In Gold And Silver](http://www.mondovisione.com/media-and-resources/news/cme-group-metals-complex-reaches-all-time-daily-volume-record-driven-by-height-20251010/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Circular Of Shanghai International Energy Exchange On Adjusting The Trading Limit Of Containerized Freight Index (Europe Service) Futures Contracts](http://www.mondovisione.com/media-and-resources/news/circular-of-shanghai-international-energy-exchange-on-adjusting-the-trading-limi-20251010/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Circular Of Shanghai International Energy Exchange On Adjusting The Trading Margin Rates And Price Limits Of Certain Future Contracts](http://www.mondovisione.com/media-and-resources/news/circular-of-shanghai-international-energy-exchange-on-adjusting-the-trading-marg-20251010/)
+append_entries: 3
+Finish: 2025-10-10 16:28:43.835008
