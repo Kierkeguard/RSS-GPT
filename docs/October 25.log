@@ -1055,3 +1055,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Tehran Securities Exchange Bulletin - September 2025](http://www.mondovisione.com/media-and-resources/news/tehran-securities-exchange-bulletin-september-2025-20251011/)
 append_entries: 1
 Finish: 2025-10-11 14:17:55.641124
+------------------------------------------------------
+Started: 2025-10-11 16:24:34.574433
+Existing_entries: 173
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-10-11 16:24:35.642685
