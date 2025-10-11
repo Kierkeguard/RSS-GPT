@@ -1046,3 +1046,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Tehran Securities Exchange Weekly Market Snapshot, 8 October 2025](http://www.mondovisione.com/media-and-resources/news/tehran-securities-exchange-weekly-market-snapshot-8-october-2025-20251011/)
 append_entries: 1
 Finish: 2025-10-11 12:40:55.718916
+------------------------------------------------------
+Started: 2025-10-11 14:17:54.914377
+Existing_entries: 172
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tehran Securities Exchange Bulletin - September 2025](http://www.mondovisione.com/media-and-resources/news/tehran-securities-exchange-bulletin-september-2025-20251011/)
+append_entries: 1
+Finish: 2025-10-11 14:17:55.641124
