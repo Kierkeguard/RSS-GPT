@@ -1136,3 +1136,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Three Decades After Flotation: Pars Darou Celebrates 30 Years On Tehran Securities Exchange](http://www.mondovisione.com/media-and-resources/news/three-decades-after-flotation-pars-darou-celebrates-30-years-on-tehran-securiti-20251012/)
 append_entries: 1
 Finish: 2025-10-12 16:25:11.706063
+------------------------------------------------------
+Started: 2025-10-12 18:29:03.499595
+Existing_entries: 174
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-10-12 18:29:04.416153
