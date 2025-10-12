@@ -1127,3 +1127,12 @@ Existing_entries: 173
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-10-12 14:18:53.897171
+------------------------------------------------------
+Started: 2025-10-12 16:25:10.577541
+Existing_entries: 173
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Three Decades After Flotation: Pars Darou Celebrates 30 Years On Tehran Securities Exchange](http://www.mondovisione.com/media-and-resources/news/three-decades-after-flotation-pars-darou-celebrates-30-years-on-tehran-securiti-20251012/)
+append_entries: 1
+Finish: 2025-10-12 16:25:11.706063
