@@ -1172,3 +1172,12 @@ Existing_entries: 174
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-10-13 04:27:35.370064
+------------------------------------------------------
+Started: 2025-10-13 06:36:03.716509
+Existing_entries: 174
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [DFSA Connect: New Digital Services Streamline Regulatory Approvals Processes, Enabling Firms To Set Up And Grow Their Businesses More Seamlessly Within The DIFC](http://www.mondovisione.com/media-and-resources/news/dfsa-connect-new-digital-services-streamline-regulatory-approvals-processes-en-20251013/)
+append_entries: 1
+Finish: 2025-10-13 06:36:04.716905
