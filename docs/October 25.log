@@ -1234,3 +1234,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Decision By The Disciplinary Committee Of Nasdaq Stockholm Regarding Hedera Group AB (publ)](http://www.mondovisione.com/media-and-resources/news/decision-by-the-disciplinary-committee-of-nasdaq-stockholm-regarding-hedera-grou-20251013/)
 append_entries: 2
 Finish: 2025-10-13 14:24:21.353941
+------------------------------------------------------
+Started: 2025-10-13 16:29:09.215816
+Existing_entries: 186
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The EBA Updates List Of Third-Country Groups And Branches Operating In The European Union And The European Economic Area](http://www.mondovisione.com/media-and-resources/news/the-eba-updates-list-of-third-country-groups-and-branches-operating-in-the-europ-20251013/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESMA Proposes Key Reforms To Settlement Discipline, Supporting The Transition To T+1](http://www.mondovisione.com/media-and-resources/news/esma-proposes-key-reforms-to-settlement-discipline-supporting-the-transition-to-20251013/)
+append_entries: 2
+Finish: 2025-10-13 16:29:10.105251
