@@ -1222,3 +1222,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [DTCC Comment On T+1 Implementation](http://www.mondovisione.com/media-and-resources/news/dtcc-comment-on-t1-implementation-20251013/)
 append_entries: 1
 Finish: 2025-10-13 12:49:22.159848
+------------------------------------------------------
+Started: 2025-10-13 14:24:19.912008
+Existing_entries: 184
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MQube Becomes First Fintech In Europe To Tokenise Mortgage Debt On The Blockchain](http://www.mondovisione.com/media-and-resources/news/mqube-becomes-first-fintech-in-europe-to-tokenise-mortgage-debt-on-the-blockchai-20251013/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Decision By The Disciplinary Committee Of Nasdaq Stockholm Regarding Hedera Group AB (publ)](http://www.mondovisione.com/media-and-resources/news/decision-by-the-disciplinary-committee-of-nasdaq-stockholm-regarding-hedera-grou-20251013/)
+append_entries: 2
+Finish: 2025-10-13 14:24:21.353941
