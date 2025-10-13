@@ -1270,3 +1270,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Montréal Exchange's Markets Closed Today, October 13, 2025](http://www.mondovisione.com/media-and-resources/news/montral-exchanges-markets-closed-today-october-13-2025-20251013/)
 append_entries: 3
 Finish: 2025-10-13 20:25:16.494760
+------------------------------------------------------
+Started: 2025-10-13 22:20:24.006795
+Existing_entries: 192
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-10-13 22:20:25.025551
