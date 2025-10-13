@@ -1181,3 +1181,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [DFSA Connect: New Digital Services Streamline Regulatory Approvals Processes, Enabling Firms To Set Up And Grow Their Businesses More Seamlessly Within The DIFC](http://www.mondovisione.com/media-and-resources/news/dfsa-connect-new-digital-services-streamline-regulatory-approvals-processes-en-20251013/)
 append_entries: 1
 Finish: 2025-10-13 06:36:04.716905
+------------------------------------------------------
+Started: 2025-10-13 08:33:40.985309
+Existing_entries: 175
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LSEG And Microsoft Transform Access To AI-Ready Financial Data In Customer Workflows - Enabling Agentic Workflows Across Every Layer Of A Financial Institution’s Operations](http://www.mondovisione.com/media-and-resources/news/lseg-and-microsoft-transform-access-to-ai-ready-financial-data-in-customer-workf-20251013/)
+append_entries: 1
+Finish: 2025-10-13 08:33:41.862135
