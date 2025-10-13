@@ -1190,3 +1190,26 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [LSEG And Microsoft Transform Access To AI-Ready Financial Data In Customer Workflows - Enabling Agentic Workflows Across Every Layer Of A Financial Institution’s Operations](http://www.mondovisione.com/media-and-resources/news/lseg-and-microsoft-transform-access-to-ai-ready-financial-data-in-customer-workf-20251013/)
 append_entries: 1
 Finish: 2025-10-13 08:33:41.862135
+------------------------------------------------------
+Started: 2025-10-13 10:27:09.479500
+Existing_entries: 176
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX Announces Senior Appointments](http://www.mondovisione.com/media-and-resources/news/hkex-announces-senior-appointments-20251013/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Incomplete Reform Implementation Leaves Financial System Vulnerable To Shocks, Warns FSB Chair](http://www.mondovisione.com/media-and-resources/news/incomplete-reform-implementation-leaves-financial-system-vulnerable-to-shocks-w-20251013/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Broadridge’s Distributed Ledger Repo Platform Processes $339 Billion In Average Daily Trade Volumes In September - September 2025 ADV Up 650% Year‑Over‑Year, Highlighting Rapid Growth In Tokenized Real‑Asset Settlement](http://www.mondovisione.com/media-and-resources/news/broadridges-distributed-ledger-repo-platform-processes-339-billion-in-average-20251013/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX Advances Commodities Business With New Dubai Subsidiary](http://www.mondovisione.com/media-and-resources/news/hkex-advances-commodities-business-with-new-dubai-subsidiary-20251013/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Boerse Stuttgart Digital And DekaBank Expand Their Partnership In Crypto Trading](http://www.mondovisione.com/media-and-resources/news/boerse-stuttgart-digital-and-dekabank-expand-their-partnership-in-crypto-trading-20251013/)
+Append: [LME Drives Forward Sustainable Metal Premium Pricing Plans](http://www.mondovisione.com/media-and-resources/news/lme-drives-forward-sustainable-metal-premium-pricing-plans-20251013/)
+Append: [LME’s 2026 Market Overhaul To Test Brokers’ Technology Readiness - Sinara Warns Firms Must Modernise Trading Workflows Or Risk Falling Behind](http://www.mondovisione.com/media-and-resources/news/lmes-2026-market-overhaul-to-test-brokers-technology-readiness-sinara-warns-20251013/)
+append_entries: 7
+Finish: 2025-10-13 10:27:11.486044
