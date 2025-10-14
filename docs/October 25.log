@@ -1303,3 +1303,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Australia's Openmarkets Group Appoints Eventus To Implement Best-In-Class Trade Surveillance Solution - Move To Validus Platform To Meet Openmarkets Goals As Firm Continues Expansion](http://www.mondovisione.com/media-and-resources/news/australias-openmarkets-group-appoints-eventus-to-implement-best-in-class-trade-20251014/)
 append_entries: 3
 Finish: 2025-10-14 04:27:36.813114
+------------------------------------------------------
+Started: 2025-10-14 06:34:04.406702
+Existing_entries: 195
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX To Introduce Hang Seng Biotech Index Futures](http://www.mondovisione.com/media-and-resources/news/hkex-to-introduce-hang-seng-biotech-index-futures-20251014/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Shanghai Gold Exchange Data Highlights - Volume & Amount - September 2025](http://www.mondovisione.com/media-and-resources/news/shanghai-gold-exchange-data-highlights-volume-and-amount-september-2025-20251014/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Protecting Financial Futures: ASIC's Priorities In Credit - Keynote Address By ASIC Commissioner Alan Kirkland At Credit Law 2025, 14 October 2025](http://www.mondovisione.com/media-and-resources/news/protecting-financial-futures-asics-priorities-in-credit-keynote-address-by-a-20251014/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Monetary Authority of Singapore Monetary Policy Statement - October 2025](http://www.mondovisione.com/media-and-resources/news/monetary-authority-of-singapore-monetary-policy-statement-october-2025-20251014/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Sends Clear Message To Super Trustees Amid Glaring Retirement Communications Gaps](http://www.mondovisione.com/media-and-resources/news/asic-sends-clear-message-to-super-trustees-amid-glaring-retirement-communication-20251014/)
+append_entries: 5
+Finish: 2025-10-14 06:34:05.785276
