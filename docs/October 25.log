@@ -1382,3 +1382,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ESMA Announces 2025 European Common Enforcement Priorities And Results Of Fact-Finding On Materiality Considerations In Sustainability Reporting](http://www.mondovisione.com/media-and-resources/news/esma-announces-2025-european-common-enforcement-priorities-and-results-of-fact-f-20251014/)
 append_entries: 3
 Finish: 2025-10-14 14:24:05.850688
+------------------------------------------------------
+Started: 2025-10-14 16:29:22.792160
+Existing_entries: 212
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FCA Secures US$101m Redress For BlueCrest investors](http://www.mondovisione.com/media-and-resources/news/fca-secures-us101m-redress-for-bluecrest-investors-20251014/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Deutsche Börse Group: Business Indicators For September 2025](http://www.mondovisione.com/media-and-resources/news/deutsche-brse-group-business-indicators-for-september-2025-20251014/)
+append_entries: 2
+Finish: 2025-10-14 16:29:23.784192
