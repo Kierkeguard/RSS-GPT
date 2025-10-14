@@ -1367,3 +1367,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Axes Falling On Bond Trading: FIX Trading Community](http://www.mondovisione.com/media-and-resources/news/axes-falling-on-bond-trading-fix-trading-community-20251014/)
 append_entries: 2
 Finish: 2025-10-14 12:51:19.289551
+------------------------------------------------------
+Started: 2025-10-14 14:24:05.055354
+Existing_entries: 209
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Supports Tokenisation To Boost Efficiency And Innovation In Asset Management](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-supports-tokenisation-to-boost-efficiency-and-inn-20251014/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Successful Start To EEX Japanese Power Fiscal Year Futures Trading](http://www.mondovisione.com/media-and-resources/news/successful-start-to-eex-japanese-power-fiscal-year-futures-trading-20251014/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESMA Announces 2025 European Common Enforcement Priorities And Results Of Fact-Finding On Materiality Considerations In Sustainability Reporting](http://www.mondovisione.com/media-and-resources/news/esma-announces-2025-european-common-enforcement-priorities-and-results-of-fact-f-20251014/)
+append_entries: 3
+Finish: 2025-10-14 14:24:05.850688
