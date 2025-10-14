@@ -1288,3 +1288,18 @@ Existing_entries: 192
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-10-14 03:03:38.872648
+------------------------------------------------------
+Started: 2025-10-14 04:27:35.625494
+Existing_entries: 192
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tradeweb Appoints Rich Chun As Head Of Asia](http://www.mondovisione.com/media-and-resources/news/tradeweb-appoints-rich-chun-as-head-of-asia-20251014/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Opening Remarks, Dato’ Mohammad Faiz Azmi, Chairman, Securities Commission Malaysia, Climate Adaptation And Resilience Conference, 14 October 2025, 9.30am](http://www.mondovisione.com/media-and-resources/news/opening-remarks-dato-mohammad-faiz-azmi-chairman-securities-commission-malay-20251014/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Australia's Openmarkets Group Appoints Eventus To Implement Best-In-Class Trade Surveillance Solution - Move To Validus Platform To Meet Openmarkets Goals As Firm Continues Expansion](http://www.mondovisione.com/media-and-resources/news/australias-openmarkets-group-appoints-eventus-to-implement-best-in-class-trade-20251014/)
+append_entries: 3
+Finish: 2025-10-14 04:27:36.813114
