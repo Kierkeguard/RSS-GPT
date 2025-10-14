@@ -1400,3 +1400,26 @@ Existing_entries: 214
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-10-14 18:33:39.171539
+------------------------------------------------------
+Started: 2025-10-14 20:25:08.734894
+Existing_entries: 214
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group Announces First Trades Of Options On Solana And XRP Futures](http://www.mondovisione.com/media-and-resources/news/cme-group-announces-first-trades-of-options-on-solana-and-xrp-futures-20251014/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Understanding The Fed’s Balance Sheet, Federal Reserve Chair Jerome H. Powell, At The 67th Annual Meeting Of The National Association For Business Economics, Philadelphia, Pennsylvania](http://www.mondovisione.com/media-and-resources/news/understanding-the-feds-balance-sheet-federal-reserve-chair-jerome-h-powell-a-20251014/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Canadian Securities Administrators Extends Comment Period For Consultation On The Exchange-Traded Fund Regulatory Framework](http://www.mondovisione.com/media-and-resources/news/canadian-securities-administrators-extends-comment-period-for-consultation-on-th-20251014/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Interactive Brokers Launches Enhanced Version Of IBKR Desktop With One-Click, Instant Order Placement - Active Traders Benefit From Market Intelligence, Product Discovery, And Execution Tools In A Modern, Scalable Interface](http://www.mondovisione.com/media-and-resources/news/interactive-brokers-launches-enhanced-version-of-ibkr-desktop-with-one-click-in-20251014/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Moscow Exchange: Updated Constituents List For OFZ Zero Coupon Yield Curve To Come Into Force On 15 October 2025](http://www.mondovisione.com/media-and-resources/news/moscow-exchange-updated-constituents-list-for-ofz-zero-coupon-yield-curve-to-c-20251014/)
+Append: [Diversion Ahead − Speech By Alan Taylor, Bank Of England, External Member Of The Monetary Policy Committee, Given At King’s College, Cambridge](http://www.mondovisione.com/media-and-resources/news/diversion-ahead-speech-by-alan-taylor-bank-of-england-external-member-of-the-20251014/)
+Append: [The EBA Finds That White Labelling Is Widely Used In Banking And Payments](http://www.mondovisione.com/media-and-resources/news/the-eba-finds-that-white-labelling-is-widely-used-in-banking-and-payments-20251014/)
+append_entries: 7
+Finish: 2025-10-14 20:25:09.878108
