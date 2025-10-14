@@ -1355,3 +1355,15 @@ Append: [CoinShares Fund Flows: Digital Assets Show Resilience With Inflows Of U
 Append: [Cyprus Stock Exchange Monthly Bulletin For September 2025](http://www.mondovisione.com/media-and-resources/news/cyprus-stock-exchange-monthly-bulletin-for-september-2025-20251014/)
 append_entries: 6
 Finish: 2025-10-14 10:24:57.270150
+------------------------------------------------------
+Started: 2025-10-14 12:51:17.959688
+Existing_entries: 207
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIX Lands Seven-Year Strategic Partnership With Barclays](http://www.mondovisione.com/media-and-resources/news/six-lands-seven-year-strategic-partnership-with-barclays-20251014/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Axes Falling On Bond Trading: FIX Trading Community](http://www.mondovisione.com/media-and-resources/news/axes-falling-on-bond-trading-fix-trading-community-20251014/)
+append_entries: 2
+Finish: 2025-10-14 12:51:19.289551
