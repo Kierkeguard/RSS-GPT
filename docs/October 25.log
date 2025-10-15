@@ -1500,3 +1500,15 @@ Existing_entries: 230
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-10-15 14:24:24.917905
+------------------------------------------------------
+Started: 2025-10-15 16:26:01.114769
+Existing_entries: 230
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LME Clear Introduces Triparty Agent For Clearing Members](http://www.mondovisione.com/media-and-resources/news/lme-clear-introduces-triparty-agent-for-clearing-members-20251015/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [From Open Data To AI: UAE Securities And Commodities Authority Highlights The Future Of Regulatory Services At GITEX Global 2025](http://www.mondovisione.com/media-and-resources/news/from-open-data-to-ai-uae-securities-and-commodities-authority-highlights-the-fu-20251015/)
+append_entries: 2
+Finish: 2025-10-15 16:26:02.174128
