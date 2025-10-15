@@ -1470,3 +1470,15 @@ Append: [New Zealand Financial Markets Authority: OCR Pass Through Transparency 
 Append: [BC Securities Commission: Victims Of U.S.-Based DFRF Fraud Can Seek Compensation With U.S. Authorities](http://www.mondovisione.com/media-and-resources/news/bc-securities-commission-victims-of-us-based-dfrf-fraud-can-seek-compensation-20251015/)
 append_entries: 7
 Finish: 2025-10-15 06:34:38.245917
+------------------------------------------------------
+Started: 2025-10-15 08:32:21.213197
+Existing_entries: 228
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BETTER FINANCE & FESE Joint Statement: Call To Action For The Market Integration Package](http://www.mondovisione.com/media-and-resources/news/better-finance-and-fese-joint-statement-call-to-action-for-the-market-integration-20251015/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc ("LSEG") Transactions In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transactions-in-own-shares-20251015/)
+append_entries: 2
+Finish: 2025-10-15 08:32:22.002328
