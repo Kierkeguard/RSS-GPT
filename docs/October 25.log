@@ -1561,3 +1561,12 @@ Append: [UK Prudential Regulation Authority And UK Financial Conduct Authority A
 Append: [AMLA Expects High Standards Against Financial Crime In Crypto Sector](http://www.mondovisione.com/media-and-resources/news/amla-expects-high-standards-against-financial-crime-in-crypto-sector-20251015/)
 append_entries: 8
 Finish: 2025-10-15 20:26:29.784055
+------------------------------------------------------
+Started: 2025-10-15 22:19:49.787395
+Existing_entries: 249
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [EquiLend And ISLA Americas Release 2025 Latin America Securities Finance User Guide - Comprehensive New Edition Highlights Growth Opportunities And Evolving Regulation Across Six Latin American Securities Finance Markets](http://www.mondovisione.com/media-and-resources/news/equilend-and-isla-americas-release-2025-latin-america-securities-finance-user-gu-20251015/)
+append_entries: 1
+Finish: 2025-10-15 22:19:50.663890
