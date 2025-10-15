@@ -1482,3 +1482,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [London Stock Exchange Group plc ("LSEG") Transactions In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transactions-in-own-shares-20251015/)
 append_entries: 2
 Finish: 2025-10-15 08:32:22.002328
+------------------------------------------------------
+Started: 2025-10-15 10:26:18.388494
+Existing_entries: 230
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-10-15 10:26:19.396976
