@@ -1447,3 +1447,26 @@ Existing_entries: 221
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-10-15 04:27:18.498406
+------------------------------------------------------
+Started: 2025-10-15 06:34:37.048739
+Existing_entries: 221
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [24X National Exchange Opens For Trading As First SEC-Approved 23/5 Stock Exchange - Historic Exchange Now Delivers Extended Hours Trading In U.S. Equities To Global Investors](http://www.mondovisione.com/media-and-resources/news/24x-national-exchange-opens-for-trading-as-first-sec-approved-235-stock-exchang-20251015/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group Expands Into The Middle East With Dubai International Financial Centre Office Opening](http://www.mondovisione.com/media-and-resources/news/cme-group-expands-into-the-middle-east-with-dubai-international-financial-centre-20251015/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Securities Commission Malaysia And TERAJU Move To Boost Capital Market Access For Bumiputera MSME And MTC](http://www.mondovisione.com/media-and-resources/news/securities-commission-malaysia-and-teraju-move-to-boost-capital-market-access-fo-20251015/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Joint Statement By Commercial Affairs Department, Singapore Police Force (CAD) & Monetary Authority Of Singapore (MAS) - Civil Penalty Action Taken Against Tan Tee Beng For Insider Trading](http://www.mondovisione.com/media-and-resources/news/joint-statement-by-commercial-affairs-department-singapore-police-force-cad-and-20251015/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Updates Guidance On Communicating Audit Findings To Directors, Audit Committees And Senior Managers](http://www.mondovisione.com/media-and-resources/news/asic-updates-guidance-on-communicating-audit-findings-to-directors-audit-commit-20251015/)
+Append: [New Zealand Financial Markets Authority: OCR Pass Through Transparency - Delivering Transparency On The Pace At Which Financial Institutions Respond To Changes In The Official Cash Rate](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-ocr-pass-through-transparency-deliver-20251015/)
+Append: [BC Securities Commission: Victims Of U.S.-Based DFRF Fraud Can Seek Compensation With U.S. Authorities](http://www.mondovisione.com/media-and-resources/news/bc-securities-commission-victims-of-us-based-dfrf-fraud-can-seek-compensation-20251015/)
+append_entries: 7
+Finish: 2025-10-15 06:34:38.245917
