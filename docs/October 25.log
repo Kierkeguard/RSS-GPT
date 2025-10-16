@@ -1712,3 +1712,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [FESE Statistics And Listed Equity Data Released For September 2025](http://www.mondovisione.com/media-and-resources/news/fese-statistics-and-listed-equity-data-released-for-september-2025-20251016/)
 append_entries: 3
 Finish: 2025-10-16 20:25:33.743674
+------------------------------------------------------
+Started: 2025-10-16 22:18:19.414942
+Existing_entries: 276
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MarketAxess To Host Conference Call Announcing Third Quarter 2025 Financial Results On Friday, November 7, 2025](http://www.mondovisione.com/media-and-resources/news/marketaxess-to-host-conference-call-announcing-third-quarter-2025-financial-resu-20251016/)
+append_entries: 1
+Finish: 2025-10-16 22:18:20.562277
