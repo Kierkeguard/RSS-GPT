@@ -1676,3 +1676,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Welcome Remarks, Federal Reserve Vice Chair For Supervision Michelle W. Bowman, At The 2025 Federal Reserve Stress Testing Research Conference, Boston, Massachusetts (Via Pre-Recorded Video)](http://www.mondovisione.com/media-and-resources/news/welcome-remarks-federal-reserve-vice-chair-for-supervision-michelle-w-bowman-20251016/)
 append_entries: 1
 Finish: 2025-10-16 16:30:02.483021
+------------------------------------------------------
+Started: 2025-10-16 18:33:16.463035
+Existing_entries: 268
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Report Shows Importance Of Derivatives To Japan’s Asset Management Ambitions](http://www.mondovisione.com/media-and-resources/news/new-report-shows-importance-of-derivatives-to-japans-asset-management-ambitions-20251016/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESAs’ Joint Committee Publishes Work Programme For 2026](http://www.mondovisione.com/media-and-resources/news/esas-joint-committee-publishes-work-programme-for-2026-20251016/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Fjord Defence Group Lists On Euronext Oslo Børs](http://www.mondovisione.com/media-and-resources/news/fjord-defence-group-lists-on-euronext-oslo-brs-20251016/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The BME Pre Market Environment Welcomes Alfred Smart And Mectech Catalonia SL](http://www.mondovisione.com/media-and-resources/news/the-bme-pre-market-environment-welcomes-alfred-smart-and-mectech-catalonia-sl-20251016/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ATHEX Sustainability Summit 2025: A Dialogue Platform For The Green Transition](http://www.mondovisione.com/media-and-resources/news/athex-sustainability-summit-2025-a-dialogue-platform-for-the-green-transition-20251016/)
+append_entries: 5
+Finish: 2025-10-16 18:33:17.647365
