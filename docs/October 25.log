@@ -1597,3 +1597,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Statement Regarding Minimum Pricing Increments And Access Fee Caps, Paul S. Atkins, Chairman, SEC](http://www.mondovisione.com/media-and-resources/news/statement-regarding-minimum-pricing-increments-and-access-fee-caps-paul-s-atki-20251016/)
 append_entries: 1
 Finish: 2025-10-16 06:34:21.604546
+------------------------------------------------------
+Started: 2025-10-16 08:32:41.739486
+Existing_entries: 251
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Finansinspektionen: Zimpler Receives A Remark And An Administrative Fine](http://www.mondovisione.com/media-and-resources/news/finansinspektionen-zimpler-receives-a-remark-and-an-administrative-fine-20251016/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASX To Implement Recommendations From Independent Panel Review On The Process For Developing Corporate Governance Principles And Recommendations](http://www.mondovisione.com/media-and-resources/news/asx-to-implement-recommendations-from-independent-panel-review-on-the-process-fo-20251016/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Improving Consumer Outcomes Is Everyone’s Job - Keynote Address By ASIC Commissioner Alan Kirkland At The Institute Of Managed Account Professionals Independent Thought Conference In Sydney On 15 October 2025](http://www.mondovisione.com/media-and-resources/news/improving-consumer-outcomes-is-everyones-job-keynote-address-by-asic-commissi-20251016/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SGX Securities Welcomes Soon Hock Enterprise Holding Limited To Mainboard](http://www.mondovisione.com/media-and-resources/news/sgx-securities-welcomes-soon-hock-enterprise-holding-limited-to-mainboard-20251016/)
+append_entries: 4
+Finish: 2025-10-16 08:32:42.792228
