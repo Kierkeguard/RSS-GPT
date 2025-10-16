@@ -1667,3 +1667,12 @@ Append: [GLEIF Confirms The Shanghai Electronic Certification Authority As China
 Append: [Rostro Group Strengthens Internal Structure, Prepares For Aggressive Growth](http://www.mondovisione.com/media-and-resources/news/rostro-group-strengthens-internal-structure-prepares-for-aggressive-growth-20251016/)
 append_entries: 6
 Finish: 2025-10-16 14:23:54.521456
+------------------------------------------------------
+Started: 2025-10-16 16:30:01.198136
+Existing_entries: 267
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Welcome Remarks, Federal Reserve Vice Chair For Supervision Michelle W. Bowman, At The 2025 Federal Reserve Stress Testing Research Conference, Boston, Massachusetts (Via Pre-Recorded Video)](http://www.mondovisione.com/media-and-resources/news/welcome-remarks-federal-reserve-vice-chair-for-supervision-michelle-w-bowman-20251016/)
+append_entries: 1
+Finish: 2025-10-16 16:30:02.483021
