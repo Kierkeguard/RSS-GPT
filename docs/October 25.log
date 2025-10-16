@@ -1588,3 +1588,12 @@ Existing_entries: 250
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-10-16 04:27:02.624283
+------------------------------------------------------
+Started: 2025-10-16 06:34:20.592066
+Existing_entries: 250
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Statement Regarding Minimum Pricing Increments And Access Fee Caps, Paul S. Atkins, Chairman, SEC](http://www.mondovisione.com/media-and-resources/news/statement-regarding-minimum-pricing-increments-and-access-fee-caps-paul-s-atki-20251016/)
+append_entries: 1
+Finish: 2025-10-16 06:34:21.604546
