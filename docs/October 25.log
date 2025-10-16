@@ -1697,3 +1697,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ATHEX Sustainability Summit 2025: A Dialogue Platform For The Green Transition](http://www.mondovisione.com/media-and-resources/news/athex-sustainability-summit-2025-a-dialogue-platform-for-the-green-transition-20251016/)
 append_entries: 5
 Finish: 2025-10-16 18:33:17.647365
+------------------------------------------------------
+Started: 2025-10-16 20:25:32.471855
+Existing_entries: 273
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Federal Bank Regulatory Agencies Announce Withdrawal Of Principles For Climate-Related Financial Risk Management](http://www.mondovisione.com/media-and-resources/news/us-federal-bank-regulatory-agencies-announce-withdrawal-of-principles-for-climat-20251016/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Office Of The Comptroller Of The Currency Announces Enforcement Actions For October 2025](http://www.mondovisione.com/media-and-resources/news/us-office-of-the-comptroller-of-the-currency-announces-enforcement-actions-for-o-20251016/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FESE Statistics And Listed Equity Data Released For September 2025](http://www.mondovisione.com/media-and-resources/news/fese-statistics-and-listed-equity-data-released-for-september-2025-20251016/)
+append_entries: 3
+Finish: 2025-10-16 20:25:33.743674
