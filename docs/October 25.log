@@ -1630,3 +1630,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [New Smart CEO & NZX-Group Executive Appointments Announced](http://www.mondovisione.com/media-and-resources/news/new-smart-ceo-and-nzx-group-executive-appointments-announced-20251016/)
 append_entries: 3
 Finish: 2025-10-16 10:26:15.892000
+------------------------------------------------------
+Started: 2025-10-16 12:50:39.512976
+Existing_entries: 258
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FTSE Mondo Visione Exchanges Index Decreases 3.1% In September Amidst Global Market Volatility](http://www.mondovisione.com/media-and-resources/news/ftse-mondo-visione-exchanges-index-decreases-31-in-september-amidst-global-mar-20251016/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [IOSCO Reviews Implementation Of Recommendations For Crypto And Digital Asset Markets](http://www.mondovisione.com/media-and-resources/news/iosco-reviews-implementation-of-recommendations-for-crypto-and-digital-asset-mar-20251016/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Absa Africa Financial Markets Index 2025: Progress Despite Global Headwinds - African Countries Are Resilient Against Difficult Conditions](http://www.mondovisione.com/media-and-resources/news/absa-africa-financial-markets-index-2025-progress-despite-global-headwinds-af-20251016/)
+append_entries: 3
+Finish: 2025-10-16 12:50:40.985914
