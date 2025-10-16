@@ -1615,3 +1615,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SGX Securities Welcomes Soon Hock Enterprise Holding Limited To Mainboard](http://www.mondovisione.com/media-and-resources/news/sgx-securities-welcomes-soon-hock-enterprise-holding-limited-to-mainboard-20251016/)
 append_entries: 4
 Finish: 2025-10-16 08:32:42.792228
+------------------------------------------------------
+Started: 2025-10-16 10:26:14.862480
+Existing_entries: 255
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc ("LSEG") Transactions In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transactions-in-own-shares-20251016/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [DIFC And The Institute Of International Finance Partner For The Inaugural Dubai Future Finance Week](http://www.mondovisione.com/media-and-resources/news/difc-and-the-institute-of-international-finance-partner-for-the-inaugural-dubai-20251016/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Smart CEO & NZX-Group Executive Appointments Announced](http://www.mondovisione.com/media-and-resources/news/new-smart-ceo-and-nzx-group-executive-appointments-announced-20251016/)
+append_entries: 3
+Finish: 2025-10-16 10:26:15.892000
