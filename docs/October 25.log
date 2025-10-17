@@ -1763,3 +1763,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [GlobalData Announces Top M&A Financial And Legal Advisers In South & Central America For Q1-Q3 2025](http://www.mondovisione.com/media-and-resources/news/globaldata-announces-top-manda-financial-and-legal-advisers-in-south-and-central-ame-20251017/)
 append_entries: 2
 Finish: 2025-10-17 08:31:18.650060
+------------------------------------------------------
+Started: 2025-10-17 10:24:58.016053
+Existing_entries: 281
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority: Banks Need To Help 'Break The Spell' Of Romance Scams](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-banks-need-to-help-break-the-spell-of-romance-20251017/)
+append_entries: 1
+Finish: 2025-10-17 10:24:59.790743
