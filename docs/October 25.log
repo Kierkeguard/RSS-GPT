@@ -1739,3 +1739,15 @@ Existing_entries: 277
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-10-17 04:27:59.464053
+------------------------------------------------------
+Started: 2025-10-17 06:33:38.461844
+Existing_entries: 277
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ISDA Derivatives Trading Forum Tokyo: Scott O’Malia, ISDA Chief Executive Officer, Opening Remarks](http://www.mondovisione.com/media-and-resources/news/isda-derivatives-trading-forum-tokyo-scott-omalia-isda-chief-executive-office-20251017/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NZX Business Continuity And Disaster Recovery Requirements: Notice Of Rule And Procedure Amendments](http://www.mondovisione.com/media-and-resources/news/nzx-business-continuity-and-disaster-recovery-requirements-notice-of-rule-and-p-20251017/)
+append_entries: 2
+Finish: 2025-10-17 06:33:39.625554

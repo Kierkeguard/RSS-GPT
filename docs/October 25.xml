@@ -4,6 +4,87 @@
 <title>News Articles</title>
 <link>http://www.mondovisione.com/media-and-resources/news/</link>
 
+<item>
+<title>ISDA Derivatives Trading Forum Tokyo: Scott O’Malia, ISDA Chief Executive Officer, Opening Remarks</title>
+<link>http://www.mondovisione.com/media-and-resources/news/isda-derivatives-trading-forum-tokyo-scott-omalia-isda-chief-executive-office-20251017/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/isda-derivatives-trading-forum-tokyo-scott-omalia-isda-chief-executive-office-20251017/</guid>
+<content:encoded><![CDATA[
+
+<p>Good afternoon, and welcome to the ISDA Derivatives Trading Forum. It&rsquo;s great to be back in Tokyo, and I&rsquo;d like to begin by thanking our sponsors &ndash; Mizuho, MUFG, Nomura and OSTTRA. We really appreciate your support.</p>
+<p>This has been a very special year for ISDA as we celebrate our 40<sup>th</sup>&nbsp;anniversary. We&rsquo;ve been reflecting on ISDA&rsquo;s remarkable journey since 1985, when a small group of dealers got together to develop a common terminology for the swaps market. They recognized the need for greater consistency and efficiency to alleviate the document backlog and unlock the potential of the derivatives market. Their vision set the vital foundations of ISDA and enabled the market to evolve and grow around the world.</p>
+<p>The initial group of dealers was mainly based in New York, but it wasn&rsquo;t long before ISDA became well established here in Japan. In the 1990s, members of ISDA&rsquo;s Japan Committee worked to develop a Japanese language version of the ISDA Master Agreement. They also advocated for the legal recognition of close-out netting, which resulted in key reforms being passed in 1998. Their commitment and diligence led to the development of a strong and vibrant Japanese derivatives market.</p>
+<p>ISDA has changed almost beyond recognition since those early days. Our suite of documentation now spans thousands of standard agreements, definitions, confirmation templates and protocols. This robust legal framework has created certainty and stability for market participants, enabling the derivatives market to grow at scale.</p>
+<p>Throughout its history, ISDA has maintained its commitment to consistency and efficiency. This has been the key to the success of our legal documentation work. It extends to the regulatory framework, and we advocate tirelessly for rules that are appropriate, risk-sensitive and aligned with global standards. It&rsquo;s also the basis of our digital transformation work, as we advance a set of industry solutions to bring greater automation to key processes.</p>
+<p>In these remarks, I&rsquo;ll talk about three key areas where ISDA is now working to bring greater consistency and efficiency. First, the exchange of collateral. Second, the close-out framework for derivatives. And third, the completion of Basel III.</p>
+<p><span>Collateral</span></p>
+<p>I&rsquo;ll start with collateral.</p>
+<p>The implementation of margin requirements for non-cleared derivatives has been one of the most significant changes in derivatives markets since the financial crisis. At the end of last year, leading derivatives participants had collected $1.5 trillion of initial margin (IM) and variation margin (VM) &ndash; up 6.4% on the previous year. That&rsquo;s a huge safety buffer that has been built into the derivatives market to mitigate counterparty credit risk.</p>
+<p>But recent experience has shown that reducing counterparty risk has increased vulnerability to liquidity risk. During successive market shocks, firms have had to generate large amounts of cash to meet a spike in margin calls. In these scenarios, liquidity can suddenly drain out of markets, jeopardizing financial stability.</p>
+<p>Steps are being taken to mitigate this issue, with many firms looking at alternatives to cash and government securities to meet their VM requirements. Cash already represents a declining share of total VM received, falling from 80% in 2020 to 68% in 2024, according to the ISDA Margin Survey. But there are certain economic, capital and operational constraints that prevent some counterparties from holding anything other than cash or government securities.</p>
+<p>Money market funds, for example, could be an attractive asset to post as collateral, but the current workflow requires collateral to be posted as cash and then transformed by the custodian, which can lead to increased liquidity and operational risks. Gold could also be a viable alternative to cash, but the challenges of physical delivery mean this hasn&rsquo;t so far been possible.</p>
+<p>Tokenization has the potential to alleviate some of these challenges. Once tokenized on a shared ledger, a money market fund could be much more efficiently mobilized as collateral and shares could be directly posted and returned, without any need for liquidation within the collateral management workflow. The tokenization of gold could also remove the operational challenges, allowing the instant transfer of holdings of gold as collateral.</p>
+<p>ISDA is now working with stakeholders across financial markets to enable the adoption of tokenization and we&rsquo;re focusing on the key legal, regulatory and operational challenges.</p>
+<p>ISDA will target two key areas. First, we&rsquo;ll work to establish clear and consistent legal and regulatory frameworks. This includes making sure derivatives transactions on tokenized assets are underpinned by robust documentation and legal opinions. We&rsquo;ll also seek regulatory certainty that tokenized assets will be permitted as collateral under the margin rules.</p>
+<p>Second, we&rsquo;ll work to establish interoperability, underpinned by common data models, smart contract standards and messaging protocols. We&rsquo;ll look to leverage the Common Domain Model to establish common data standards and avoid technological fragmentation.</p>
+<p>The tokenization of assets is a very exciting prospect that could improve the timeliness and efficiency of collateral management, bringing greater choice and flexibility for market participants. There&rsquo;s still some way to go, but we&rsquo;ll be working hard to overcome the hurdles and realize the potential of this powerful technology in derivatives markets.</p>
+<p><span>Notices Hub</span></p>
+<p>I&rsquo;ll now turn to the close-out framework.</p>
+<p>I mentioned earlier that the drive for consistency and efficiency lies at the heart of ISDA&rsquo;s powerful set of mutualized solutions, which are moving clunky, manual processes into the digital age.</p>
+<p>One example is Digital Regulatory Reporting (DRR), which dramatically reduces the risk of inaccurate or incomplete reporting by converting an industry interpretation of reporting rules into unambiguous code. The ISDA DRR enabled market participants to implement updates to reporting rules in Japan last year with an unprecedented degree of consistency and efficiency. But we didn&rsquo;t stop there. Last month, we extended the initiative to support rule updates in Hong Kong &ndash; the eighth set of reporting requirements available on the ISDA DRR &ndash; and we&rsquo;re seeing increased adoption of this game-changing offering.</p>
+<p>We&rsquo;re also now bringing greater consistency and efficiency to the process of closing out derivatives trades. Up until now, critical termination-related notices had to be delivered by certain prescribed methods using the counterparty&rsquo;s address as listed in the ISDA Master Agreement. Physical delivery of notices has led to all sorts of problems over the years, with delays and uncertainty leading to serious economic consequences.</p>
+<p>That all changed with the launch of the ISDA Notices Hub in July. With this new online platform, users can instantaneously deliver and receive notices from anywhere in the world, while also maintaining updated address details for those counterparty relationships where physical delivery of notices continues. At a stroke, the Notices Hub reduces the inefficiencies, risks and costs of physical delivery.</p>
+<p>I&rsquo;m pleased to say that more than 140 buy- and sell-side entities have now adhered to the ISDA 2025 Notices Hub Protocol, which provides the legal framework to allow delivery of notices via the platform. The Notices Hub is a vital step forward in modernizing the close-out process for derivatives trades and we&rsquo;re seeing widespread interest in accessing it. If you&rsquo;d like to join this growing universe of adopters, our team is available to help you with the onboarding process.</p>
+<p><span>Basel III</span></p>
+<p>Before finishing, I&rsquo;ll briefly touch on Basel III.</p>
+<p>ISDA&rsquo;s position on the global capital framework has never wavered. We believe capital requirements must be appropriate and risk-sensitive to support deep and liquid markets. If capital requirements are set too high, this can lead to reduced access to funding, a lack of hedging solutions and increased vulnerability to external shocks. It&rsquo;s also important that the rules are as consistent as possible across borders. A lack of alignment creates added complexity for globally active banks, making it more difficult for them to effectively manage their risk and service their clients.</p>
+<p>Here in Japan, the Basel III package has now been fully implemented, and the new market risk capital rules &ndash; the Fundamental Review of the Trading Book (FRTB) &ndash; have applied to all banks since March 31. We commend the Japanese Financial Services Agency (FSA) for its pragmatic approach by making certain targeted adjustments where necessary. For example, the treatment of sovereign exposures for the default risk charge was modified under the FRTB internal models approach &ndash; an important step that recognizes the lower risk of highly rated sovereigns and makes internal models a more viable option for banks.</p>
+<p>We would urge policymakers in other jurisdictions to adopt this kind of pragmatism as they finalize and implement the FRTB rules. One of the key features of the FRTB is a much higher bar for the use of internal models. We know from our engagement with the market that this will lead to increased reliance on standardized capital models, and regulators should be mindful of the impact of this transition.</p>
+<p>The design and calibration of the FRTB standardized approach will inflict the highest capital increases on those banks with large, diversified portfolios. Given the importance of portfolio diversification to maintain market resilience, this is a concern. We think regulators should be mindful of the impact of a broad-based shift to standardized capital models and consider how the high bar for the use of internal models could be appropriately lowered. Without corrective action by regulators, internal models will likely fade away, which would lead to disproportionate capital requirements and diminished market resilience.</p>
+<p>It&rsquo;s not too late to address this issue. In the EU, implementation of the FRTB has been delayed until the start of 2027 and further changes are being considered. In the UK, the Prudential Regulation Authority recently completed a consultation on a set of changes to Basel 3.1, which include a delay to the FRTB internal models approach until the start of 2028. And in the US, it&rsquo;s unclear when regulators will publish their revised Basel III endgame proposals, although engagement with US agencies has begun.</p>
+<p>ISDA will continue to engage with policymakers and market participants in pursuit of a capital framework that is both consistent and efficient, with the right incentives in place for the use of internal models. We must get this right.</p>
+<p><span>Conclusion &nbsp;</span></p>
+<p>I started these remarks by reflecting on ISDA&rsquo;s 40<sup>th</sup>&nbsp;anniversary celebrations and our enduring commitment to consistency and efficiency. It&rsquo;s there in everything we&rsquo;ve achieved over the years, from the drafting of the very first standard documents to more recent achievements, such as the retirement of LIBOR.</p>
+<p>It underpins the work we&rsquo;re now doing to enable the adoption of tokenization in derivatives markets, it&rsquo;s the driving force behind our digital solutions, including the ISDA Notices Hub, and it&rsquo;s the foundation of our Basel III advocacy. As we continue our anniversary celebrations and look ahead to the future, you can count on ISDA to maintain its focus on consistency and efficiency in everything we do.</p>
+<p>I&rsquo;d like to finish by thanking our sponsors, speakers and delegates. I hope you find the event interesting, and I look forward to celebrating all that ISDA has achieved in Japan at our 40<sup>th</sup>&nbsp;anniversary reception this evening.</p>
+<p>Thank you.</p>
+]]></content:encoded>
+<pubDate>Fri, 17 Oct 2025 05:33:07 GMT</pubDate>
+<pubDate>Fri, 17 Oct 2025 05:33:07 GMT</pubDate>
+</item>
+<item>
+<title>NZX Business Continuity And Disaster Recovery Requirements: Notice Of Rule And Procedure Amendments</title>
+<link>http://www.mondovisione.com/media-and-resources/news/nzx-business-continuity-and-disaster-recovery-requirements-notice-of-rule-and-p-20251017/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/nzx-business-continuity-and-disaster-recovery-requirements-notice-of-rule-and-p-20251017/</guid>
+<content:encoded><![CDATA[
+
+<p>Earlier this year, NZX and NZX Clearing consulted on changes to its regulatory settings in relation to the requirements placed on participants when developing business continuity plans and disaster recovery arrangements. NZX and NZX Clearing have now obtained all necessary regulatory approvals and wish to notify the market of changes to the following rules:</p>
+<ul>
+<li>NZX Participant Rules </li>
+<li>NZX Derivatives Market Rules </li>
+<li>NZC Clearing &amp; Settlement Rules </li>
+</ul>
+<p>(together the <b>Rules</b>)</p>
+<table cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td height="0" width="3"></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><br clear="ALL" /> The changes also include consequential amendments to the Derivatives Market Procedures and Clearing &amp; Settlement Procedures (together the <b>Procedures</b>), removing the existing BCP requirements. &nbsp;</p>
+<p>The updated Rules and Procedures will become effective on Monday 17 November 2025.</p>
+<p>NZX is also releasing a new Business Continuity and Disaster Recovery Guidance Note to assist participants in interpreting and meeting their obligations under the Rules. &nbsp;</p>
+<h1>Amendments</h1>
+<p>A mark-up of the amendments to the Rules and Procedures described above, along with the new Business Continuity and Disaster Recovery Guidance Note, are available at the link below: &nbsp;</p>
+<p><a href="https://www.nzx.com/regulation/nzx-rules-guidance/upcoming-rules-guidance-changes">NZX, New Zealand's Exchange</a><a href="https://www.nzx.com/regulation/nzx-rules-guidance/upcoming-rules-guidance-changes">- </a><a href="https://www.nzx.com/regulation/nzx-rules-guidance/upcoming-rules-guidance-changes">Upcoming Rules &amp; Guidance Changes</a></p>
+]]></content:encoded>
+<pubDate>Fri, 17 Oct 2025 06:45:48 GMT</pubDate>
+<pubDate>Fri, 17 Oct 2025 06:45:48 GMT</pubDate>
+</item>
 
 <item>
 <title>MarketAxess To Host Conference Call Announcing Third Quarter 2025 Financial Results On Friday, November 7, 2025</title>
