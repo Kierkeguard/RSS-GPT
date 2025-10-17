@@ -1772,3 +1772,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [UK Financial Conduct Authority: Banks Need To Help 'Break The Spell' Of Romance Scams](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-banks-need-to-help-break-the-spell-of-romance-20251017/)
 append_entries: 1
 Finish: 2025-10-17 10:24:59.790743
+------------------------------------------------------
+Started: 2025-10-17 12:49:03.323717
+Existing_entries: 282
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SET Seeks Feedback On Enhanced Listed Company Rules To Boost Transparency, Align With International Standards And Streamline Regulatory Overlap With Thailand SEC](http://www.mondovisione.com/media-and-resources/news/set-seeks-feedback-on-enhanced-listed-company-rules-to-boost-transparency-align-20251017/)
+append_entries: 1
+Finish: 2025-10-17 12:49:04.887553
