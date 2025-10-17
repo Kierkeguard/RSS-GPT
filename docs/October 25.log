@@ -1790,3 +1790,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Malawi Stock Exchange Weekly Summary Report,17 October 2025](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report17-october-2025-20251017/)
 append_entries: 1
 Finish: 2025-10-17 14:22:33.726131
+------------------------------------------------------
+Started: 2025-10-17 16:28:37.117856
+Existing_entries: 284
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-10-17 16:28:38.221817
