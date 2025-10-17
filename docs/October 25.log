@@ -1781,3 +1781,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SET Seeks Feedback On Enhanced Listed Company Rules To Boost Transparency, Align With International Standards And Streamline Regulatory Overlap With Thailand SEC](http://www.mondovisione.com/media-and-resources/news/set-seeks-feedback-on-enhanced-listed-company-rules-to-boost-transparency-align-20251017/)
 append_entries: 1
 Finish: 2025-10-17 12:49:04.887553
+------------------------------------------------------
+Started: 2025-10-17 14:22:32.649612
+Existing_entries: 283
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Malawi Stock Exchange Weekly Summary Report,17 October 2025](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report17-october-2025-20251017/)
+append_entries: 1
+Finish: 2025-10-17 14:22:33.726131
