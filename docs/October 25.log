@@ -1948,3 +1948,10 @@ Existing_entries: 291
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-10-19 12:42:30.366290
+------------------------------------------------------
+Started: 2025-10-19 14:18:52.193018
+Existing_entries: 291
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Feed error: <unknown>:15:6: mismatched tag
+append_entries: 0
+error when rendering xml, skip docs/October 25
