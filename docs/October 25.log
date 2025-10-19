@@ -1961,3 +1961,12 @@ Existing_entries: 291
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-10-19 16:25:51.975768
+------------------------------------------------------
+Started: 2025-10-19 18:29:50.149918
+Existing_entries: 291
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nigerian Exchange Group: Project BLOOM Scales Up Impact With Second Outreach in Ajegunle, Lagos](http://www.mondovisione.com/media-and-resources/news/nigerian-exchange-group-project-bloom-scales-up-impact-with-second-outreach-in-20251019/)
+append_entries: 1
+Finish: 2025-10-19 18:29:51.545354
