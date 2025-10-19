@@ -1976,3 +1976,12 @@ Existing_entries: 292
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-10-19 20:23:50.581724
+------------------------------------------------------
+Started: 2025-10-19 22:20:37.808029
+Existing_entries: 292
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Saudi Arabia Capital Market Authority Opens Registration For The 16th Batch Of The Graduate Development Program](http://www.mondovisione.com/media-and-resources/news/the-saudi-arabia-capital-market-authority-opens-registration-for-the-16th-batch-20251019/)
+append_entries: 1
+Finish: 2025-10-19 22:20:38.727225
