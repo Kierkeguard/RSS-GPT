@@ -2072,3 +2072,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CISI Appoints Rosie Glazebrook, Susan Daniel MCSI And Nick Garnish, Chartered MCSI To The Board](http://www.mondovisione.com/media-and-resources/news/cisi-appoints-rosie-glazebrook-susan-daniel-mcsi-and-nick-garnish-chartered-mc-20251020/)
 append_entries: 2
 Finish: 2025-10-20 16:29:38.695180
+------------------------------------------------------
+Started: 2025-10-20 18:34:52.202154
+Existing_entries: 304
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Continuity In An Extended Team: Europex Elects New Leadership For 2026-2028 Mandate](http://www.mondovisione.com/media-and-resources/news/continuity-in-an-extended-team-europex-elects-new-leadership-for-2026-2028-m-20251020/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Dubai Advances Position As Middle East, Africa And South Asia’s Leading Global Financial Centre](http://www.mondovisione.com/media-and-resources/news/dubai-advances-position-as-middle-east-africa-and-south-asias-leading-global-f-20251020/)
+append_entries: 2
+Finish: 2025-10-20 18:34:53.083080
