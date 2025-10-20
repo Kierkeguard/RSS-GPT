@@ -2102,3 +2102,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [US–UK Financial Giants Call For Fast-Track Regulatory Reform To Power Jobs, Growth And Innovation](http://www.mondovisione.com/media-and-resources/news/usuk-financial-giants-call-for-fast-track-regulatory-reform-to-power-jobs-grow-20251020/)
 append_entries: 4
 Finish: 2025-10-20 20:26:50.059812
+------------------------------------------------------
+Started: 2025-10-20 22:21:01.894528
+Existing_entries: 310
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Exchange Group - Options Markets - New Listings Effective For October 21, 2025](http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-options-markets-new-listings-effective-for-october-21-2-20251020/)
+append_entries: 1
+Finish: 2025-10-20 22:21:03.161535
