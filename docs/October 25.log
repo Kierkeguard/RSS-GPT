@@ -2003,3 +2003,18 @@ Existing_entries: 293
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-10-20 04:29:10.680420
+------------------------------------------------------
+Started: 2025-10-20 06:35:48.475126
+Existing_entries: 293
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Consults On Extending Relief For Litigation Funding Arrangements And Conditional Costs Schemes](http://www.mondovisione.com/media-and-resources/news/asic-consults-on-extending-relief-for-litigation-funding-arrangements-and-condit-20251020/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [JPX Celebrates 40 Years Of Japanese Government Bond Futures](http://www.mondovisione.com/media-and-resources/news/jpx-celebrates-40-years-of-japanese-government-bond-futures-20251020/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Japan Financial Services Agency: Policy Approaches To Strengthen Cyber Security In The Financial Sector](http://www.mondovisione.com/media-and-resources/news/japan-financial-services-agency-policy-approaches-to-strengthen-cyber-security-20251020/)
+append_entries: 3
+Finish: 2025-10-20 06:35:49.519183
