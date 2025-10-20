@@ -2018,3 +2018,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Japan Financial Services Agency: Policy Approaches To Strengthen Cyber Security In The Financial Sector](http://www.mondovisione.com/media-and-resources/news/japan-financial-services-agency-policy-approaches-to-strengthen-cyber-security-20251020/)
 append_entries: 3
 Finish: 2025-10-20 06:35:49.519183
+------------------------------------------------------
+Started: 2025-10-20 08:31:53.845220
+Existing_entries: 296
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-10-20 08:31:54.832723
