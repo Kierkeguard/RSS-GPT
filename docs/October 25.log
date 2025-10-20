@@ -2060,3 +2060,15 @@ Existing_entries: 302
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-10-20 14:23:01.369804
+------------------------------------------------------
+Started: 2025-10-20 16:29:37.433936
+Existing_entries: 302
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Versana Launches Syndicated Loan Market’s First Cashless Roll Solution With J.P. Morgan Leading Adoption](http://www.mondovisione.com/media-and-resources/news/versana-launches-syndicated-loan-markets-first-cashless-roll-solution-with-jp-20251020/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CISI Appoints Rosie Glazebrook, Susan Daniel MCSI And Nick Garnish, Chartered MCSI To The Board](http://www.mondovisione.com/media-and-resources/news/cisi-appoints-rosie-glazebrook-susan-daniel-mcsi-and-nick-garnish-chartered-mc-20251020/)
+append_entries: 2
+Finish: 2025-10-20 16:29:38.695180
