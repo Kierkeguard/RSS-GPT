@@ -2024,3 +2024,24 @@ Existing_entries: 296
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-10-20 08:31:54.832723
+------------------------------------------------------
+Started: 2025-10-20 10:26:12.335527
+Existing_entries: 296
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group Metals Complex Reaches All-Time Daily Volume Record](http://www.mondovisione.com/media-and-resources/news/cme-group-metals-complex-reaches-all-time-daily-volume-record-20251020/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [World Bank Group And International Monetary Fund 2025 Annual Meetings, Development Committee: UK Governors' Statement](http://www.mondovisione.com/media-and-resources/news/world-bank-group-and-international-monetary-fund-2025-annual-meetings-developme-20251020/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Stable Amid Volatility: Bitcoin Now On Par With Gold Among German Investors](http://www.mondovisione.com/media-and-resources/news/stable-amid-volatility-bitcoin-now-on-par-with-gold-among-german-investors-20251020/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TKMS AG & Co. KGaA New In The Prime Standard Of The Frankfurt Stock Exchange](http://www.mondovisione.com/media-and-resources/news/tkms-ag-and-co-kgaa-new-in-the-prime-standard-of-the-frankfurt-stock-exchange-20251020/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc ("LSEG") Transactions In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transactions-in-own-shares-20251020/)
+append_entries: 5
+Finish: 2025-10-20 10:26:13.446370
