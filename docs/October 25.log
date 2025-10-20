@@ -2045,3 +2045,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [London Stock Exchange Group plc ("LSEG") Transactions In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transactions-in-own-shares-20251020/)
 append_entries: 5
 Finish: 2025-10-20 10:26:13.446370
+------------------------------------------------------
+Started: 2025-10-20 12:50:14.210163
+Existing_entries: 301
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Japan And The UK: Shared Growth, Shared Future - Speech By Nikhil Rathi, UK Financial Conduct Authority Chief Executive At Japan Weeks' Opening Reception](http://www.mondovisione.com/media-and-resources/news/japan-and-the-uk-shared-growth-shared-future-speech-by-nikhil-rathi-uk-fina-20251020/)
+append_entries: 1
+Finish: 2025-10-20 12:50:15.154136
