@@ -2084,3 +2084,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Dubai Advances Position As Middle East, Africa And South Asia’s Leading Global Financial Centre](http://www.mondovisione.com/media-and-resources/news/dubai-advances-position-as-middle-east-africa-and-south-asias-leading-global-f-20251020/)
 append_entries: 2
 Finish: 2025-10-20 18:34:53.083080
+------------------------------------------------------
+Started: 2025-10-20 20:26:48.851450
+Existing_entries: 306
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Exchange Group - Options Markets - Market For Underlying Security Used For Openings On MIAX Options, MIAX Pearl Options, MIAX Emerald Options, And MIAX Sapphire Options For Newly Listed Symbols Effective Tuesday, October 21, 2025](http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-options-markets-market-for-underlying-security-used-for-20251020/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Moscow Exchange: Concentration Limits Per Issuer On Securities Market](http://www.mondovisione.com/media-and-resources/news/moscow-exchange-concentration-limits-per-issuer-on-securities-market-20251020/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Ontario Securities Commission Enforcing Compliance With Director And Officer Bans](http://www.mondovisione.com/media-and-resources/news/ontario-securities-commission-enforcing-compliance-with-director-and-officer-ban-20251020/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US–UK Financial Giants Call For Fast-Track Regulatory Reform To Power Jobs, Growth And Innovation](http://www.mondovisione.com/media-and-resources/news/usuk-financial-giants-call-for-fast-track-regulatory-reform-to-power-jobs-grow-20251020/)
+append_entries: 4
+Finish: 2025-10-20 20:26:50.059812
