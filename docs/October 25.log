@@ -2197,3 +2197,25 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [KB Asset Management Announces KB RISE Global Game Tech TOP3 Plus ETF, Tracking The Solactive-KEDI Global Game Tech TOP3 Plus Index](http://www.mondovisione.com/media-and-resources/news/kb-asset-management-announces-kb-rise-global-game-tech-top3-plus-etf-tracking-t-20251021/)
 append_entries: 2
 Finish: 2025-10-21 16:29:57.413637
+------------------------------------------------------
+Started: 2025-10-21 18:33:39.122344
+Existing_entries: 323
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [VISTA Investor Survey Finds High Satisfaction And Trust, Industry Mandate Clear As Generational Divide Redefines The Future Of Advice](http://www.mondovisione.com/media-and-resources/news/vista-investor-survey-finds-high-satisfaction-and-trust-industry-mandate-clear-20251021/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Ontario Securities Commission Investor Warnings And Alerts For September 30 – October 21, 2025](http://www.mondovisione.com/media-and-resources/news/ontario-securities-commission-investor-warnings-and-alerts-for-september-30-oc-20251021/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Canadian Securities Administrators Clarifies Requirements For Delivering Proxy-Related Materials During Canada Post Labour Dispute](http://www.mondovisione.com/media-and-resources/news/canadian-securities-administrators-clarifies-requirements-for-delivering-proxy-r-20251021/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ISDA And Tokenovate Launch Taskforce To Develop Smart Contract Framework Within The CDM](http://www.mondovisione.com/media-and-resources/news/isda-and-tokenovate-launch-taskforce-to-develop-smart-contract-framework-within-20251021/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Advancing Settlement: Central Bank Money For The Next Era Of Payments − Speech By Victoria Cleland, Bank Of England, Executive Director, Payments - Given At The Bank Of England And Bank For International Settlements Innovation Hub’s DLT Innovation Challenge Showcase  Given At The Bank Of England And Bank For International Settlements Innovation Hub’s DLT Innovation Challenge Showcase](http://www.mondovisione.com/media-and-resources/news/advancing-settlement-central-bank-money-for-the-next-era-of-payments-speech-b-20251021/)
+Append: [Do The Right Thing: Part II - Speech By Therese Chambers, Joint Executive Director Of Enforcement And Market Oversight, UK Financial Conduct Authority, Delivered At The City & Financial Global FCA Investigations And Enforcement Summit](http://www.mondovisione.com/media-and-resources/news/do-the-right-thing-part-ii-speech-by-therese-chambers-joint-executive-direct-20251021/)
+append_entries: 6
+Finish: 2025-10-21 18:33:39.987911
