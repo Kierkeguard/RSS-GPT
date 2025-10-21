@@ -2162,3 +2162,26 @@ Existing_entries: 314
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-10-21 12:51:19.713107
+------------------------------------------------------
+Started: 2025-10-21 14:22:04.037125
+Existing_entries: 314
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LME Appoints Stephen Higgins As Non-Executive Director](http://www.mondovisione.com/media-and-resources/news/lme-appoints-stephen-higgins-as-non-executive-director-20251021/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Embracing New Technologies And Players In Payments, Federal Reserve Governor Christopher J. Waller, At The Payments Innovation Conference, Federal Reserve Board, Washington, D.C.](http://www.mondovisione.com/media-and-resources/news/embracing-new-technologies-and-players-in-payments-federal-reserve-governor-chr-20251021/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CoinShares Fund Flows: Ethereum Investors Buy The Dip, Offset By Bitcoin Outflows](http://www.mondovisione.com/media-and-resources/news/coinshares-fund-flows-ethereum-investors-buy-the-dip-offset-by-bitcoin-outflow-20251021/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Announces Quarterly Dividend Of $0.27 Per Share](http://www.mondovisione.com/media-and-resources/news/nasdaq-announces-quarterly-dividend-of-027-per-share-20251021/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Reports Third Quarter 2025 Results - Surpassing $1 Billion In Solutions Quarterly Revenue And $3 Billion In ARR](http://www.mondovisione.com/media-and-resources/news/nasdaq-reports-third-quarter-2025-results-surpassing-1-billion-in-solutions-q-20251021/)
+Append: [Miami International Holdings Announces Date Of Third Quarter 2025 Earnings Release And Conference Call](http://www.mondovisione.com/media-and-resources/news/miami-international-holdings-announces-date-of-third-quarter-2025-earnings-relea-20251021/)
+Append: [Puro.earth Integrates CCS+ Initiative Carbon Removal Methodologies](http://www.mondovisione.com/media-and-resources/news/puroearth-integrates-ccs-initiative-carbon-removal-methodologies-20251021/)
+append_entries: 7
+Finish: 2025-10-21 14:22:05.701899
