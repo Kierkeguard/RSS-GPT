@@ -2129,3 +2129,15 @@ Existing_entries: 311
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-10-21 04:27:31.360621
+------------------------------------------------------
+Started: 2025-10-21 06:34:35.076459
+Existing_entries: 311
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ISDA Derivatives Trading Forum Sydney: Scott O’Malia, ISDA Chief Executive Officer, Opening Remarks](http://www.mondovisione.com/media-and-resources/news/isda-derivatives-trading-forum-sydney-scott-omalia-isda-chief-executive-offic-20251021/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Golden Mean: Navigating Fast-Evolving Capital Markets Through Balanced Regulation - Keynote Speech At The International Conference Of Legal Regulators 2025 - Dr Kelvin Wong, Chairman, Hong Kong Securities And Futures Commission](http://www.mondovisione.com/media-and-resources/news/the-golden-mean-navigating-fast-evolving-capital-markets-through-balanced-regul-20251021/)
+append_entries: 2
+Finish: 2025-10-21 06:34:36.023325
