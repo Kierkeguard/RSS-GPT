@@ -2286,3 +2286,21 @@ Append: [Japan Financial Services Agency Signs Memorandum Of Cooperation In The 
 Append: [Hong Kong Securities And Futures Commission: Court Verdict On Money Laundering Of Listed Company Funds](http://www.mondovisione.com/media-and-resources/news/hong-kong-securities-and-futures-commission-court-verdict-on-money-laundering-o-20251022/)
 append_entries: 6
 Finish: 2025-10-22 10:26:36.463312
+------------------------------------------------------
+Started: 2025-10-22 12:51:51.644375
+Existing_entries: 336
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Open Interest Across ICE’s Global Futures And Options Markets Reaches A Record 107 Million Contracts - Record Open Interest Across Commodities, Energy, Oil, Brent And TTF Futures](http://www.mondovisione.com/media-and-resources/news/open-interest-across-ices-global-futures-and-options-markets-reaches-a-record-1-20251022/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group Inc. Announces Third-Quarter 2025 Financial Results](http://www.mondovisione.com/media-and-resources/news/cme-group-inc-announces-third-quarter-2025-financial-results-20251022/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The World Federation Of Exchanges Elects Nine New Board Members](http://www.mondovisione.com/media-and-resources/news/the-world-federation-of-exchanges-elects-nine-new-board-members-20251022/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Registrations Are Open For The ACER And European Commission's Workshop: REMIT Implementation Updates (28 November 2025)](http://www.mondovisione.com/media-and-resources/news/registrations-are-open-for-the-acer-and-european-commissions-workshop-remit-i-20251022/)
+append_entries: 4
+Finish: 2025-10-22 12:51:53.469477
