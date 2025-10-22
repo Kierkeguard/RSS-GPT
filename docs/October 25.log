@@ -2349,3 +2349,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ESMA Finds EU Carbon Markets Functioning Smoothly In New Report](http://www.mondovisione.com/media-and-resources/news/esma-finds-eu-carbon-markets-functioning-smoothly-in-new-report-20251022/)
 append_entries: 5
 Finish: 2025-10-22 18:35:31.012126
+------------------------------------------------------
+Started: 2025-10-22 20:27:12.069071
+Existing_entries: 349
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Equity Trading On Nigerian Exchange Surges 115% As Reforms Draw foreign, Domestic Investors](http://www.mondovisione.com/media-and-resources/news/equity-trading-on-nigerian-exchange-surges-115-as-reforms-draw-foreign-domesti-20251022/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FIA Announces Startups Selected For 2025 Innovators Pavilion](http://www.mondovisione.com/media-and-resources/news/fia-announces-startups-selected-for-2025-innovators-pavilion-20251022/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Brief Remarks, Federal Governor Michael S. Barr, At The Opportunity Finance Network Conference, Washington, D.C. (Via Pre-Recorded Video)](http://www.mondovisione.com/media-and-resources/news/brief-remarks-federal-governor-michael-s-barr-at-the-opportunity-finance-netw-20251022/)
+append_entries: 3
+Finish: 2025-10-22 20:27:18.529829
