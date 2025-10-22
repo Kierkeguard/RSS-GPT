@@ -2328,3 +2328,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Trading Central Partners With Solactive To Unveil Regional Quant Indices](http://www.mondovisione.com/media-and-resources/news/trading-central-partners-with-solactive-to-unveil-regional-quant-indices-20251022/)
 append_entries: 4
 Finish: 2025-10-22 16:31:57.593170
+------------------------------------------------------
+Started: 2025-10-22 18:35:29.573525
+Existing_entries: 344
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIFMA’s Board Of Directors Announces Newly Elected Officers](http://www.mondovisione.com/media-and-resources/news/sifmas-board-of-directors-announces-newly-elected-officers-20251022/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Ontario Securities Commission Releases Findings On Digital Engagement Practices In Online Investing](http://www.mondovisione.com/media-and-resources/news/ontario-securities-commission-releases-findings-on-digital-engagement-practices-20251022/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Canadian Securities Administrators Reminds Crypto-Backed Lending Platforms Of Potential Regulatory Requirements, And Cautions Investors Over Risks](http://www.mondovisione.com/media-and-resources/news/canadian-securities-administrators-reminds-crypto-backed-lending-platforms-of-po-20251022/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The AML/CFT Colleges Framework Is Maturing, The EBA Finds](http://www.mondovisione.com/media-and-resources/news/the-amlcft-colleges-framework-is-maturing-the-eba-finds-20251022/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESMA Finds EU Carbon Markets Functioning Smoothly In New Report](http://www.mondovisione.com/media-and-resources/news/esma-finds-eu-carbon-markets-functioning-smoothly-in-new-report-20251022/)
+append_entries: 5
+Finish: 2025-10-22 18:35:31.012126
