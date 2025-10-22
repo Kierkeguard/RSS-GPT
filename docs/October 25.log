@@ -2364,3 +2364,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Brief Remarks, Federal Governor Michael S. Barr, At The Opportunity Finance Network Conference, Washington, D.C. (Via Pre-Recorded Video)](http://www.mondovisione.com/media-and-resources/news/brief-remarks-federal-governor-michael-s-barr-at-the-opportunity-finance-netw-20251022/)
 append_entries: 3
 Finish: 2025-10-22 20:27:18.529829
+------------------------------------------------------
+Started: 2025-10-22 22:18:12.656960
+Existing_entries: 352
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Exchange Group - Options Exchanges - Data Discrepancies Resolved](http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-options-exchanges-data-discrepancies-resolved-20251022/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Federal Reserve Governor Michael S. Barr, At The Crossing The Credit Barrier: Advancing Access And Creating Opportunities Conference, St. Louis, Missouri (Via Pre-Recorded Video)](http://www.mondovisione.com/media-and-resources/news/federal-reserve-governor-michael-s-barr-at-the-crossing-the-credit-barrier-ad-20251022/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Hardwiring Finance Into National Security - Speech By Nikhil Rathi, Uk Financial Conduct Authority Chief Executive At The Corporation Of The City Of London’s Annual City Dinner](http://www.mondovisione.com/media-and-resources/news/hardwiring-finance-into-national-security-speech-by-nikhil-rathi-uk-financial-20251022/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Exchange Group - Options Exchanges - Please Route Away](http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-options-exchanges-please-route-away-20251022/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Exchange Group - Options Exchanges - Investigating Data Discrepancies](http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-options-exchanges-investigating-data-discrepancies-20251022/)
+append_entries: 5
+Finish: 2025-10-22 22:18:13.667288
