@@ -2255,3 +2255,12 @@ Existing_entries: 329
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-10-22 06:35:54.664850
+------------------------------------------------------
+Started: 2025-10-22 08:34:09.076115
+Existing_entries: 329
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Amman Stock Exchange: Amending The Directives For Listing Securities And The Directives Of The Over-The-Counter Market](http://www.mondovisione.com/media-and-resources/news/amman-stock-exchange-amending-the-directives-for-listing-securities-and-the-dir-20251022/)
+append_entries: 1
+Finish: 2025-10-22 08:34:10.340820
