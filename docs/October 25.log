@@ -2310,3 +2310,21 @@ Existing_entries: 340
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-10-22 14:26:02.041228
+------------------------------------------------------
+Started: 2025-10-22 16:31:56.117033
+Existing_entries: 340
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Biotech Venture Financing Upturn Of 70.9% QoQ In Q3 2025 Signals Potential Recovery, Reveals GlobalData](http://www.mondovisione.com/media-and-resources/news/biotech-venture-financing-upturn-of-709-qoq-in-q3-2025-signals-potential-recov-20251022/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Additional Speakers Announced - Register Now For The 6th Annual ETFGI Global ETFs Insights Summit - U.S. On Nov 5 In New York City.](http://www.mondovisione.com/media-and-resources/news/additional-speakers-announced-register-now-for-the-6th-annual-etfgi-global-etf-20251022/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Farrer Capital Management Selects TS Imagine to Power Order, Execution, Portfolio and Risk Management](http://www.mondovisione.com/media-and-resources/news/farrer-capital-management-selects-ts-imagine-to-power-order-execution-portfoli-20251022/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Trading Central Partners With Solactive To Unveil Regional Quant Indices](http://www.mondovisione.com/media-and-resources/news/trading-central-partners-with-solactive-to-unveil-regional-quant-indices-20251022/)
+append_entries: 4
+Finish: 2025-10-22 16:31:57.593170
