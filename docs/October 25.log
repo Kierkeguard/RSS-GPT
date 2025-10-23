@@ -2500,3 +2500,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Jack Rawlings ACSI Announced As New President Of The CISI Essex Branch Committee](http://www.mondovisione.com/media-and-resources/news/jack-rawlings-acsi-announced-as-new-president-of-the-cisi-essex-branch-committee-20251023/)
 append_entries: 4
 Finish: 2025-10-23 16:30:03.111977
+------------------------------------------------------
+Started: 2025-10-23 18:34:04.387561
+Existing_entries: 378
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Trump Pardons Binance Co-founder Changpeng Zhao, Criticising Biden's Crypto Stance](http://www.mondovisione.com/media-and-resources/news/trump-pardons-binance-co-founder-changpeng-zhao-criticising-bidens-crypto-stan-20251023/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [World Exchanges Convened In İstanbul - Borsa İstanbul Hosts The 64th World Federation Of Exchanges General Assembly And Annual Meeting](http://www.mondovisione.com/media-and-resources/news/world-exchanges-convened-in-istanbul-borsa-istanbul-hosts-the-64th-world-feder-20251023/)
+append_entries: 2
+Finish: 2025-10-23 18:34:05.413620
