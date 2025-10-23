@@ -2467,3 +2467,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [GlobalData Announces Top M&A Financial And Legal Advisers In Construction Sector For Q1-Q3 2025](http://www.mondovisione.com/media-and-resources/news/globaldata-announces-top-manda-financial-and-legal-advisers-in-construction-sector-20251023/)
 append_entries: 3
 Finish: 2025-10-23 12:51:21.277223
+------------------------------------------------------
+Started: 2025-10-23 14:24:24.223099
+Existing_entries: 371
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [tZERO And Archax Team Up To Expand Global Distribution And Cross-List Digital Assets - Bridging US, UK, And European Markets To Deliver Liquidity And Investor Connectivity](http://www.mondovisione.com/media-and-resources/news/tzero-and-archax-team-up-to-expand-global-distribution-and-cross-list-digital-as-20251023/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Financial Stability And Growth: The Financial Policy Committee’s Mandate And The Question Of Balance − Speech By Jonathan Hall, Bank Of England, External Member Of The Financial Policy Committee, Given At The Confederation Of British Industry](http://www.mondovisione.com/media-and-resources/news/financial-stability-and-growth-the-financial-policy-committees-mandate-and-the-20251023/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Unlocking Green Growth: Why The UK Is The Smart Bet For Sustainable Finance - Speech By Ashley Alder, UK Financial Conduct Authority Chair, At Climate Financial Risk Forum's Symposium, London](http://www.mondovisione.com/media-and-resources/news/unlocking-green-growth-why-the-uk-is-the-smart-bet-for-sustainable-finance-sp-20251023/)
+append_entries: 3
+Finish: 2025-10-23 14:24:25.387402
