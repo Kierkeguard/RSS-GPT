@@ -2425,3 +2425,18 @@ Append: [ASIC Chair To Release Markets Roadmap At National Press Club](http://ww
 Append: [ASX AGM Addresses Including FY26 Expense Guidance Commentary](http://www.mondovisione.com/media-and-resources/news/asx-agm-addresses-including-fy26-expense-guidance-commentary-20251023/)
 append_entries: 6
 Finish: 2025-10-23 06:35:01.748220
+------------------------------------------------------
+Started: 2025-10-23 08:32:19.993880
+Existing_entries: 363
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Vienna Stock Exchange: More Swiss Shares And Thyssenkrupp Subsidiary New To The Global Market](http://www.mondovisione.com/media-and-resources/news/vienna-stock-exchange-more-swiss-shares-and-thyssenkrupp-subsidiary-new-to-the-20251023/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [AiMi Launches Fully Agentic Workflow For Managing Mandatory Market And Vendor Change  - Latest Version Of AiMi’s Platform Provides An End-To-End Intelligent Workflow To Streamline Trading And Data Operations](http://www.mondovisione.com/media-and-resources/news/aimi-launches-fully-agentic-workflow-for-managing-mandatory-market-and-vendor-ch-20251023/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc ("LSEG") Transactions In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transactions-in-own-shares-20251023/)
+append_entries: 3
+Finish: 2025-10-23 08:32:21.383267
