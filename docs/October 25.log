@@ -2452,3 +2452,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [GlobalData Announces Top M&A Financial And Legal Advisers In Oil & Gas Sector For Q1-Q3 2025](http://www.mondovisione.com/media-and-resources/news/globaldata-announces-top-manda-financial-and-legal-advisers-in-oil-and-gas-sector-fo-20251023/)
 append_entries: 2
 Finish: 2025-10-23 10:25:57.248817
+------------------------------------------------------
+Started: 2025-10-23 12:51:20.381884
+Existing_entries: 368
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Raen Trading Partners With Trading Technologies To Bring Institutional-Grade Tools To Aspiring Traders](http://www.mondovisione.com/media-and-resources/news/raen-trading-partners-with-trading-technologies-to-bring-institutional-grade-too-20251023/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [AuditBoard Announces Acquisition Of FairNow To Expand AI Governance Capabilities](http://www.mondovisione.com/media-and-resources/news/auditboard-announces-acquisition-of-fairnow-to-expand-ai-governance-capabilities-20251023/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [GlobalData Announces Top M&A Financial And Legal Advisers In Construction Sector For Q1-Q3 2025](http://www.mondovisione.com/media-and-resources/news/globaldata-announces-top-manda-financial-and-legal-advisers-in-construction-sector-20251023/)
+append_entries: 3
+Finish: 2025-10-23 12:51:21.277223
