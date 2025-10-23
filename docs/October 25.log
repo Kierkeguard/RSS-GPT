@@ -2512,3 +2512,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [World Exchanges Convened In İstanbul - Borsa İstanbul Hosts The 64th World Federation Of Exchanges General Assembly And Annual Meeting](http://www.mondovisione.com/media-and-resources/news/world-exchanges-convened-in-istanbul-borsa-istanbul-hosts-the-64th-world-feder-20251023/)
 append_entries: 2
 Finish: 2025-10-23 18:34:05.413620
+------------------------------------------------------
+Started: 2025-10-23 20:25:17.734085
+Existing_entries: 380
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Federal Reserve And FDIC Release Public Sections Of Resolution Plans For Several Large Banking Organizations](http://www.mondovisione.com/media-and-resources/news/federal-reserve-and-fdic-release-public-sections-of-resolution-plans-for-several-20251023/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Canadian Securities Regulators Propose Semi-Annual Financial Reporting Pilot](http://www.mondovisione.com/media-and-resources/news/canadian-securities-regulators-propose-semi-annual-financial-reporting-pilot-20251023/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Alberta Securities Commission Connect 2025 Explores Alberta’s Role Within Canada’s Capital Markets](http://www.mondovisione.com/media-and-resources/news/alberta-securities-commission-connect-2025-explores-albertas-role-within-canada-20251023/)
+append_entries: 3
+Finish: 2025-10-23 20:25:18.960236
