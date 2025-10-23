@@ -2385,3 +2385,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [MIAX Exchange Group - Options Exchanges - Investigating Data Discrepancies](http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-options-exchanges-investigating-data-discrepancies-20251022/)
 append_entries: 5
 Finish: 2025-10-22 22:18:13.667288
+------------------------------------------------------
+Started: 2025-10-23 01:49:15.147849
+Existing_entries: 357
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-10-23 01:49:16.337874
