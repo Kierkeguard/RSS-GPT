@@ -2527,3 +2527,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Alberta Securities Commission Connect 2025 Explores Alberta’s Role Within Canada’s Capital Markets](http://www.mondovisione.com/media-and-resources/news/alberta-securities-commission-connect-2025-explores-albertas-role-within-canada-20251023/)
 append_entries: 3
 Finish: 2025-10-23 20:25:18.960236
+------------------------------------------------------
+Started: 2025-10-23 22:21:05.496810
+Existing_entries: 383
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cboe Global Markets Declares Fourth-Quarter 2025 Dividend](http://www.mondovisione.com/media-and-resources/news/cboe-global-markets-declares-fourth-quarter-2025-dividend-20251023/)
+append_entries: 1
+Finish: 2025-10-23 22:21:06.569396
