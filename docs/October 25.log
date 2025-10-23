@@ -2403,3 +2403,25 @@ Existing_entries: 357
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-10-23 04:27:31.080395
+------------------------------------------------------
+Started: 2025-10-23 06:35:00.304324
+Existing_entries: 357
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group Plc: Q3 2025 Trading Update - Delivering Strong Growth, Raising Margin Guidance, Increasing Share Buyback  LSEG Everywhere Delivering Trusted Licensed Data To Scale AI In Financial Services](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-q3-2025-trading-update-delivering-strong-grow-20251023/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LSEG Announces Partnership And Investment In Post Trade Solutions](http://www.mondovisione.com/media-and-resources/news/lseg-announces-partnership-and-investment-in-post-trade-solutions-20251023/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASX: Results Of Annual General Meeting](http://www.mondovisione.com/media-and-resources/news/asx-results-of-annual-general-meeting-20251023/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Japan Financial Services Agency: Initiatives By The Financial Industry To Enhance Their Asset Management Businesses](http://www.mondovisione.com/media-and-resources/news/japan-financial-services-agency-initiatives-by-the-financial-industry-to-enhanc-20251023/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Chair To Release Markets Roadmap At National Press Club](http://www.mondovisione.com/media-and-resources/news/asic-chair-to-release-markets-roadmap-at-national-press-club-20251023/)
+Append: [ASX AGM Addresses Including FY26 Expense Guidance Commentary](http://www.mondovisione.com/media-and-resources/news/asx-agm-addresses-including-fy26-expense-guidance-commentary-20251023/)
+append_entries: 6
+Finish: 2025-10-23 06:35:01.748220
