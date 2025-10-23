@@ -2440,3 +2440,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [London Stock Exchange Group plc ("LSEG") Transactions In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transactions-in-own-shares-20251023/)
 append_entries: 3
 Finish: 2025-10-23 08:32:21.383267
+------------------------------------------------------
+Started: 2025-10-23 10:25:55.644916
+Existing_entries: 366
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Bans And Fines Advisor £100,281 For Insider Dealing](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-bans-and-fines-advisor-100281-for-insider-deali-20251023/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [GlobalData Announces Top M&A Financial And Legal Advisers In Oil & Gas Sector For Q1-Q3 2025](http://www.mondovisione.com/media-and-resources/news/globaldata-announces-top-manda-financial-and-legal-advisers-in-oil-and-gas-sector-fo-20251023/)
+append_entries: 2
+Finish: 2025-10-23 10:25:57.248817
