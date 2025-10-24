@@ -2602,3 +2602,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [UK Chancellor Launches Scale-Up Unit In Leeds To Help Firms Grow](http://www.mondovisione.com/media-and-resources/news/uk-chancellor-launches-scale-up-unit-in-leeds-to-help-firms-grow-20251024/)
 append_entries: 3
 Finish: 2025-10-24 14:24:14.646237
+------------------------------------------------------
+Started: 2025-10-24 16:29:38.859197
+Existing_entries: 390
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euroclear And Aegon UK Join Forces To Transform Fund Distribution](http://www.mondovisione.com/media-and-resources/news/euroclear-and-aegon-uk-join-forces-to-transform-fund-distribution-20251024/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Chancellor Unveils Plans To 'Supercharge' Growth Of Innovative Financial Services Firms](http://www.mondovisione.com/media-and-resources/news/uk-chancellor-unveils-plans-to-supercharge-growth-of-innovative-financial-serv-20251024/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [EACH’s Women In Clearing Series – Getting Inspired By Kalina Jarova Müller, General Manager Of CCP Austria](http://www.mondovisione.com/media-and-resources/news/eachs-women-in-clearing-series-getting-inspired-by-kalina-jarova-mller-gene-20251024/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Remarks By Japan Minister Katayama During Japan Weeks 2025](http://www.mondovisione.com/media-and-resources/news/remarks-by-japan-minister-katayama-during-japan-weeks-2025-20251024/)
+append_entries: 4
+Finish: 2025-10-24 16:29:39.914774
