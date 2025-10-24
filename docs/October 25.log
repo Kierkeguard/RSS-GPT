@@ -2644,3 +2644,18 @@ Existing_entries: 398
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-10-24 20:26:10.389545
+------------------------------------------------------
+Started: 2025-10-24 22:21:46.828227
+Existing_entries: 398
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Announces Mid-Month Open Short Interest Positions In Nasdaq Stocks As Of Settlement Date July 15, 2025](http://www.mondovisione.com/media-and-resources/news/nasdaq-announces-mid-month-open-short-interest-positions-in-nasdaq-stocks-as-of-20251024/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NYSE Group Consolidated Short Interest Report](http://www.mondovisione.com/media-and-resources/news/nyse-group-consolidated-short-interest-report-20251024/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Federal Reserve Board Requests Comment On Proposals To Enhance The Transparency And Public Accountability Of Its Annual Stress Test](http://www.mondovisione.com/media-and-resources/news/federal-reserve-board-requests-comment-on-proposals-to-enhance-the-transparency-20251024/)
+append_entries: 3
+Finish: 2025-10-24 22:21:48.209440
