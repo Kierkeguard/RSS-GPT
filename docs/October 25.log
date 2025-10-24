@@ -2587,3 +2587,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Cyber Risk And Digital Resilience Will Drive The Agenda Of ESMA’s Union Strategic Supervisory Priorities For 2026](http://www.mondovisione.com/media-and-resources/news/cyber-risk-and-digital-resilience-will-drive-the-agenda-of-esmas-union-strategi-20251024/)
 append_entries: 1
 Finish: 2025-10-24 12:50:54.851987
+------------------------------------------------------
+Started: 2025-10-24 14:24:13.416337
+Existing_entries: 387
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Malawi Stock Exchange Weekly Summary Report, 24 October 2025](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-24-october-2025-20251024/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ICE First Look At Mortgage Performance: Mortgage Performance Remains Strong As FHA Foreclosures Emerge](http://www.mondovisione.com/media-and-resources/news/ice-first-look-at-mortgage-performance-mortgage-performance-remains-strong-as-f-20251024/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Chancellor Launches Scale-Up Unit In Leeds To Help Firms Grow](http://www.mondovisione.com/media-and-resources/news/uk-chancellor-launches-scale-up-unit-in-leeds-to-help-firms-grow-20251024/)
+append_entries: 3
+Finish: 2025-10-24 14:24:14.646237
