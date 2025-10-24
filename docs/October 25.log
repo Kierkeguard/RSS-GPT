@@ -2569,3 +2569,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [GlobalData Announces Top M&A Financial And Legal Advisers In Power Sector For Q1-Q3 2025](http://www.mondovisione.com/media-and-resources/news/globaldata-announces-top-manda-financial-and-legal-advisers-in-power-sector-for-q1-20251024/)
 append_entries: 1
 Finish: 2025-10-24 08:31:16.728266
+------------------------------------------------------
+Started: 2025-10-24 10:26:32.578884
+Existing_entries: 385
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Scila Leaps 18 Spots In Chartis RiskTech100 - Scila Leaps 18 Spots In Chartis RiskTech100 Global Ranking Validates Dual Excellence In Surveillance And Risk Management](http://www.mondovisione.com/media-and-resources/news/scila-leaps-18-spots-in-chartis-risktech100-scila-leaps-18-spots-in-chartis-ri-20251024/)
+append_entries: 1
+Finish: 2025-10-24 10:26:33.427696
