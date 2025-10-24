@@ -2536,3 +2536,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Cboe Global Markets Declares Fourth-Quarter 2025 Dividend](http://www.mondovisione.com/media-and-resources/news/cboe-global-markets-declares-fourth-quarter-2025-dividend-20251023/)
 append_entries: 1
 Finish: 2025-10-23 22:21:06.569396
+------------------------------------------------------
+Started: 2025-10-24 01:45:16.935325
+Existing_entries: 384
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-10-24 01:45:18.131050
