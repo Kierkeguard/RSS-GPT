@@ -2659,3 +2659,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Federal Reserve Board Requests Comment On Proposals To Enhance The Transparency And Public Accountability Of Its Annual Stress Test](http://www.mondovisione.com/media-and-resources/news/federal-reserve-board-requests-comment-on-proposals-to-enhance-the-transparency-20251024/)
 append_entries: 3
 Finish: 2025-10-24 22:21:48.209440
+------------------------------------------------------
+Started: 2025-10-25 01:46:52.672101
+Existing_entries: 401
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-10-25 01:46:53.951493
