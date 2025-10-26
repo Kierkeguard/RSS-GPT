@@ -2767,3 +2767,12 @@ Existing_entries: 401
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-10-26 10:21:46.639156
+------------------------------------------------------
+Started: 2025-10-26 12:43:34.126083
+Existing_entries: 401
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Parsian Insurance At Tehran Securities Exchange Bell-Ringing Ceremony](http://www.mondovisione.com/media-and-resources/news/parsian-insurance-at-tehran-securities-exchange-bell-ringing-ceremony-20251026/)
+append_entries: 1
+Finish: 2025-10-26 12:43:35.205951
