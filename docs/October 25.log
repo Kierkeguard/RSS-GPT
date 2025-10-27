@@ -2929,3 +2929,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Autorité des Marchés Financiers And Hong Kong Securities And Futures Commission Of Hong Kong Enhance Cooperation And Market Access In The Area Of Asset Management](http://www.mondovisione.com/media-and-resources/news/autorit-des-marchs-financiers-and-hong-kong-securities-and-futures-commission-20251027/)
 append_entries: 3
 Finish: 2025-10-27 20:24:22.283181
+------------------------------------------------------
+Started: 2025-10-27 22:21:16.676437
+Existing_entries: 421
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Global Relay Named A Leader In The 2025 Gartner® Magic Quadrant™ For Digital Communications Governance And Archiving Solutions - Recognized For Ability To Execute And Completeness Of Vision](http://www.mondovisione.com/media-and-resources/news/global-relay-named-a-leader-in-the-2025-gartner-magic-quadrant-for-digital-com-20251027/)
+append_entries: 1
+Finish: 2025-10-27 22:21:17.655257
