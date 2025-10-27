@@ -2914,3 +2914,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [UK Financial Conduct Authority: Information For Firms Looking To Offer Crypto Exchange Traded Notes](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-information-for-firms-looking-to-offer-crypto-ex-20251027/)
 append_entries: 5
 Finish: 2025-10-27 18:34:17.431896
+------------------------------------------------------
+Started: 2025-10-27 20:24:21.217583
+Existing_entries: 418
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIFMA Conducts Successful Industry-Wide Business Continuity Test](http://www.mondovisione.com/media-and-resources/news/sifma-conducts-successful-industry-wide-business-continuity-test-20251027/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIFMA Appoints Heidi Learner As Director Of Research](http://www.mondovisione.com/media-and-resources/news/sifma-appoints-heidi-learner-as-director-of-research-20251027/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Autorité des Marchés Financiers And Hong Kong Securities And Futures Commission Of Hong Kong Enhance Cooperation And Market Access In The Area Of Asset Management](http://www.mondovisione.com/media-and-resources/news/autorit-des-marchs-financiers-and-hong-kong-securities-and-futures-commission-20251027/)
+append_entries: 3
+Finish: 2025-10-27 20:24:22.283181
