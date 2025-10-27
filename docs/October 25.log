@@ -2884,3 +2884,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ETFGI: September Saw A Modest Decline In Overseas ETF Activity Among Korean Retail Investors](http://www.mondovisione.com/media-and-resources/news/etfgi-september-saw-a-modest-decline-in-overseas-etf-activity-among-korean-reta-20251027/)
 append_entries: 1
 Finish: 2025-10-27 14:25:04.397744
+------------------------------------------------------
+Started: 2025-10-27 16:31:19.591557
+Existing_entries: 412
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LSEG And Anthropic Collaborate To Make More Financial Data Accessible To Claude For Enterprise Customers](http://www.mondovisione.com/media-and-resources/news/lseg-and-anthropic-collaborate-to-make-more-financial-data-accessible-to-claude-20251027/)
+append_entries: 1
+Finish: 2025-10-27 16:31:20.916461
