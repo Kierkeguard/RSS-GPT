@@ -2836,3 +2836,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Shenzhen Stock Exchange Market Bulletin, October 24, 2025, Issue 29](http://www.mondovisione.com/media-and-resources/news/shenzhen-stock-exchange-market-bulletin-october-24-2025-issue-29-20251027/)
 append_entries: 1
 Finish: 2025-10-27 06:38:23.030882
+------------------------------------------------------
+Started: 2025-10-27 08:32:34.806128
+Existing_entries: 404
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nordic Capital To Acquire BMLL, A Leading Provider Of Historical Trading Data And Analytics For Capital Markets](http://www.mondovisione.com/media-and-resources/news/nordic-capital-to-acquire-bmll-a-leading-provider-of-historical-trading-data-an-20251027/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The UAE Securities And Commodities Authority And Dubai Financial Services Authority Strengthen Regulatory Cooperation With Memorandum Of Understanding On The Oversight Of Auditors](http://www.mondovisione.com/media-and-resources/news/the-uae-securities-and-commodities-authority-and-dubai-financial-services-author-20251027/)
+append_entries: 2
+Finish: 2025-10-27 08:32:35.910758
