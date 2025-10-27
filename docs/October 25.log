@@ -2827,3 +2827,12 @@ Existing_entries: 403
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-10-27 04:33:08.419198
+------------------------------------------------------
+Started: 2025-10-27 06:38:22.084855
+Existing_entries: 403
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Shenzhen Stock Exchange Market Bulletin, October 24, 2025, Issue 29](http://www.mondovisione.com/media-and-resources/news/shenzhen-stock-exchange-market-bulletin-october-24-2025-issue-29-20251027/)
+append_entries: 1
+Finish: 2025-10-27 06:38:23.030882
