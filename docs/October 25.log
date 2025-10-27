@@ -2848,3 +2848,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [The UAE Securities And Commodities Authority And Dubai Financial Services Authority Strengthen Regulatory Cooperation With Memorandum Of Understanding On The Oversight Of Auditors](http://www.mondovisione.com/media-and-resources/news/the-uae-securities-and-commodities-authority-and-dubai-financial-services-author-20251027/)
 append_entries: 2
 Finish: 2025-10-27 08:32:35.910758
+------------------------------------------------------
+Started: 2025-10-27 10:27:13.711201
+Existing_entries: 406
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-10-27 10:27:14.832151
