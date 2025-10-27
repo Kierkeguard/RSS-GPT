@@ -2875,3 +2875,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Tokenization Moving From Hype To Reality Across Financial Services, Broadridge Report Reveals - Enhanced Security, Operational Efficiency, And Improved Transparency Drive Custodians To Lead The Charge In Offering Tokenized Funds](http://www.mondovisione.com/media-and-resources/news/tokenization-moving-from-hype-to-reality-across-financial-services-broadridge-r-20251027/)
 append_entries: 5
 Finish: 2025-10-27 12:51:18.665669
+------------------------------------------------------
+Started: 2025-10-27 14:25:03.352422
+Existing_entries: 411
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ETFGI: September Saw A Modest Decline In Overseas ETF Activity Among Korean Retail Investors](http://www.mondovisione.com/media-and-resources/news/etfgi-september-saw-a-modest-decline-in-overseas-etf-activity-among-korean-reta-20251027/)
+append_entries: 1
+Finish: 2025-10-27 14:25:04.397744
