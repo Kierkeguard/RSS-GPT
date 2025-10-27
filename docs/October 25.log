@@ -2854,3 +2854,24 @@ Existing_entries: 406
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-10-27 10:27:14.832151
+------------------------------------------------------
+Started: 2025-10-27 12:51:17.678866
+Existing_entries: 406
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ICE SONIA Futures And Options At Record Open Interest](http://www.mondovisione.com/media-and-resources/news/ice-sonia-futures-and-options-at-record-open-interest-20251027/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Offa Boosts Headcount With New Business Development Manager](http://www.mondovisione.com/media-and-resources/news/offa-boosts-headcount-with-new-business-development-manager-20251027/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [EU Gas Markets Stabilise Amid Rising LNG Imports](http://www.mondovisione.com/media-and-resources/news/eu-gas-markets-stabilise-amid-rising-lng-imports-20251027/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESMA Publishes Latest Edition Of Its Newsletter](http://www.mondovisione.com/media-and-resources/news/esma-publishes-latest-edition-of-its-newsletter-20251027/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tokenization Moving From Hype To Reality Across Financial Services, Broadridge Report Reveals - Enhanced Security, Operational Efficiency, And Improved Transparency Drive Custodians To Lead The Charge In Offering Tokenized Funds](http://www.mondovisione.com/media-and-resources/news/tokenization-moving-from-hype-to-reality-across-financial-services-broadridge-r-20251027/)
+append_entries: 5
+Finish: 2025-10-27 12:51:18.665669
