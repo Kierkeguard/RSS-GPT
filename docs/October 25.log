@@ -2893,3 +2893,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [LSEG And Anthropic Collaborate To Make More Financial Data Accessible To Claude For Enterprise Customers](http://www.mondovisione.com/media-and-resources/news/lseg-and-anthropic-collaborate-to-make-more-financial-data-accessible-to-claude-20251027/)
 append_entries: 1
 Finish: 2025-10-27 16:31:20.916461
+------------------------------------------------------
+Started: 2025-10-27 18:34:16.079827
+Existing_entries: 413
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Q3/2025: Deutsche Börse Group Delivers Robust Growth And Disproportionately High Profit Growth In The Third Quarter](http://www.mondovisione.com/media-and-resources/news/q32025-deutsche-brse-group-delivers-robust-growth-and-disproportionately-high-20251027/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [S&P Global Ratings And DIFC’s 15th Annual Islamic Finance Conference Addresses The 2025-2026 Outlook For Islamic Finance](http://www.mondovisione.com/media-and-resources/news/sandp-global-ratings-and-difcs-15th-annual-islamic-finance-conference-addresses-t-20251027/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Technology Collaboration Initiative Award For Borsa İstanbul](http://www.mondovisione.com/media-and-resources/news/technology-collaboration-initiative-award-for-borsa-istanbul-20251027/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Amman Stock Exchange Requests Listed Companies To File The Interim Financial Statements Of The Third Quarter 2025 Before The End Of The Specified Date](http://www.mondovisione.com/media-and-resources/news/the-amman-stock-exchange-requests-listed-companies-to-file-the-interim-financial-20251027/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority: Information For Firms Looking To Offer Crypto Exchange Traded Notes](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-information-for-firms-looking-to-offer-crypto-ex-20251027/)
+append_entries: 5
+Finish: 2025-10-27 18:34:17.431896
