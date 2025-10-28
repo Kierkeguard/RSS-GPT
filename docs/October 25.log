@@ -2993,3 +2993,18 @@ Append: [Comptroller Of The US Currency Issues Statement On Federal Reserve Boar
 Append: [ISDA 2025 – 2002 Equity Derivatives Definitions (Versionable Edition) Protocol Opens For General Adherence](http://www.mondovisione.com/media-and-resources/news/isda-2025-2002-equity-derivatives-definitions-versionable-edition-protocol-o-20251028/)
 append_entries: 9
 Finish: 2025-10-28 08:32:27.160635
+------------------------------------------------------
+Started: 2025-10-28 10:26:57.340481
+Existing_entries: 433
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [GLEIF Opens China Representative Office To Drive Digital Organizational Identity Across The Region - GLEIF On-Site Activities Will Support The Local Government's Efforts To Promote Cross-Border Trade And Economic Openness](http://www.mondovisione.com/media-and-resources/news/gleif-opens-china-representative-office-to-drive-digital-organizational-identity-20251028/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Financial Institutions Leveraging Trever Gain Seamless Access To Boerse Stuttgart Digital](http://www.mondovisione.com/media-and-resources/news/financial-institutions-leveraging-trever-gain-seamless-access-to-boerse-stuttgar-20251028/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Third Bridge Integrates Expert Insights With Anthropic’s Claude For Financial Services](http://www.mondovisione.com/media-and-resources/news/third-bridge-integrates-expert-insights-with-anthropics-claude-for-financial-se-20251028/)
+append_entries: 3
+Finish: 2025-10-28 10:26:58.287325
