@@ -3014,3 +3014,18 @@ Existing_entries: 436
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-10-28 12:49:59.679351
+------------------------------------------------------
+Started: 2025-10-28 14:25:00.357890
+Existing_entries: 436
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tehran Securities Exchange Weekly Market Snapshot, Week Ended 22 October 2025](http://www.mondovisione.com/media-and-resources/news/tehran-securities-exchange-weekly-market-snapshot-week-ended-22-october-2025-20251028/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Policy Committee’s Welcoming Statement For Policy Statement (PS) 20/25 – The Strong And Simple Framework: The Simplified Capital Regime For Small Domestic Deposit Takers (SDDTs) – Near Final](http://www.mondovisione.com/media-and-resources/news/uk-financial-policy-committees-welcoming-statement-for-policy-statement-ps-20-20251028/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Eurex - Mini-DAX Futures: A Decade Of Growth](http://www.mondovisione.com/media-and-resources/news/eurex-mini-dax-futures-a-decade-of-growth-20251028/)
+append_entries: 3
+Finish: 2025-10-28 14:25:01.276703
