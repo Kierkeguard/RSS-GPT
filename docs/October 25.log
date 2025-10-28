@@ -3029,3 +3029,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Eurex - Mini-DAX Futures: A Decade Of Growth](http://www.mondovisione.com/media-and-resources/news/eurex-mini-dax-futures-a-decade-of-growth-20251028/)
 append_entries: 3
 Finish: 2025-10-28 14:25:01.276703
+------------------------------------------------------
+Started: 2025-10-28 16:32:17.517044
+Existing_entries: 439
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Pico Expands Hardware Ecosystem With AMD Enterprise Solutions - AMD Technologies Extend Across Pico’s Corvil Analytics And Redline Software Products, Providing Clients With Advanced Latency And Throughput Advantages](http://www.mondovisione.com/media-and-resources/news/pico-expands-hardware-ecosystem-with-amd-enterprise-solutions-amd-technologies-20251028/)
+append_entries: 1
+Finish: 2025-10-28 16:32:18.640985
