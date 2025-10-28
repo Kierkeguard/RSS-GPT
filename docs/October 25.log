@@ -2956,3 +2956,15 @@ Existing_entries: 422
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-10-28 04:27:50.393846
+------------------------------------------------------
+Started: 2025-10-28 06:36:17.582036
+Existing_entries: 422
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TMX Group Limited Declares Dividend Of $0.22 Per Common Share](http://www.mondovisione.com/media-and-resources/news/tmx-group-limited-declares-dividend-of-022-per-common-share-20251028/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TMX Group Limited Reports Results For Third Quarter Of 2025](http://www.mondovisione.com/media-and-resources/news/tmx-group-limited-reports-results-for-third-quarter-of-2025-20251028/)
+append_entries: 2
+Finish: 2025-10-28 06:36:18.512094
