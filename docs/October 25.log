@@ -3059,3 +3059,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Ingenico Announces Leadership Transition Plan And Appoints Floris de Kort As Chief Executive Officer](http://www.mondovisione.com/media-and-resources/news/ingenico-announces-leadership-transition-plan-and-appoints-floris-de-kort-as-chi-20251028/)
 append_entries: 5
 Finish: 2025-10-28 18:35:36.481250
+------------------------------------------------------
+Started: 2025-10-28 20:27:40.135318
+Existing_entries: 445
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIFMA Fixed Income Market Close Recommendation In The U.S., The U.K., And Japan For The U.S. Veterans Day Holiday](http://www.mondovisione.com/media-and-resources/news/sifma-fixed-income-market-close-recommendation-in-the-us-the-uk-and-japan-20251028/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Ontario Securities Commission Issues Temporary Cease Trade Order Against Adam Joseph Arquette And Arquette Insurance And Wealth Management](http://www.mondovisione.com/media-and-resources/news/ontario-securities-commission-issues-temporary-cease-trade-order-against-adam-jo-20251028/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BC Securities Commission Bans Two People From Investment Market For Misconduct Related To Startup](http://www.mondovisione.com/media-and-resources/news/bc-securities-commission-bans-two-people-from-investment-market-for-misconduct-r-20251028/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ISDA Annual Legal Forum: Katherine Tew Darras, ISDA General Counsel, Opening Remarks](http://www.mondovisione.com/media-and-resources/news/isda-annual-legal-forum-katherine-tew-darras-isda-general-counsel-opening-rem-20251028/)
+append_entries: 4
+Finish: 2025-10-28 20:27:41.056877
