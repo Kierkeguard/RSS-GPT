@@ -3113,3 +3113,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Updated ASIC Guidance Supports Digital Asset Innovation And Boosts Investor Protection](http://www.mondovisione.com/media-and-resources/news/updated-asic-guidance-supports-digital-asset-innovation-and-boosts-investor-prot-20251029/)
 append_entries: 2
 Finish: 2025-10-29 06:36:39.665292
+------------------------------------------------------
+Started: 2025-10-29 08:32:55.158886
+Existing_entries: 451
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIX To Harmonize Trading Platforms Across Its Trading Venues, With Aquis Technologies Selected As Technology Provider](http://www.mondovisione.com/media-and-resources/news/six-to-harmonize-trading-platforms-across-its-trading-venues-with-aquis-technol-20251029/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Merger Between JPX Market Innovation & Research And SCRIPTS Asia](http://www.mondovisione.com/media-and-resources/news/merger-between-jpx-market-innovation-and-research-and-scripts-asia-20251029/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Japan Exchange Group, Inc. And Consolidated Subsidiaries Consolidated Financial Results For The Six Months Ended September 30, 2025 (Based On IFRS), Unaudited](http://www.mondovisione.com/media-and-resources/news/japan-exchange-group-inc-and-consolidated-subsidiaries-consolidated-financial-20251029/)
+append_entries: 3
+Finish: 2025-10-29 08:32:56.048985
