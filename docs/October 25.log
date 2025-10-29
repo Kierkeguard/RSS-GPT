@@ -3211,3 +3211,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Financial Group Floats Equity On Tehran Securities Exchange](http://www.mondovisione.com/media-and-resources/news/financial-group-floats-equity-on-tehran-securities-exchange-20251029/)
 append_entries: 5
 Finish: 2025-10-29 20:27:02.000069
+------------------------------------------------------
+Started: 2025-10-29 22:22:46.176455
+Existing_entries: 473
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Statement Regarding Phase-In Termination Date For The De Minimis Exception To The Security-Based Swap Dealer Definition, Paul S. Atkins, SEC Chairman](http://www.mondovisione.com/media-and-resources/news/statement-regarding-phase-in-termination-date-for-the-de-minimis-exception-to-th-20251029/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BitGo Announces Infrastructure Support For Assets On The Canton Network - Expands Institutional Infrastructure Across The Canton Network, Bringing Secure Custody, Insurance Protection, And Compliant Access To Canton Coin](http://www.mondovisione.com/media-and-resources/news/bitgo-announces-infrastructure-support-for-assets-on-the-canton-network-expand-20251029/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [OpenText Cybersecurity Launches New Capabilities To Create Trusted Foundation For AI - New Innovations Make It Easier For Enterprises To Unite Defenses Across Identity, Data, Applications, And Operations By Applying AI](http://www.mondovisione.com/media-and-resources/news/opentext-cybersecurity-launches-new-capabilities-to-create-trusted-foundation-fo-20251029/)
+append_entries: 3
+Finish: 2025-10-29 22:22:46.900512
