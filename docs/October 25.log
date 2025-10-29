@@ -3172,3 +3172,21 @@ Existing_entries: 464
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-10-29 16:32:15.434182
+------------------------------------------------------
+Started: 2025-10-29 18:34:49.781680
+Existing_entries: 464
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Federal Reserve Issues FOMC Statement](http://www.mondovisione.com/media-and-resources/news/federal-reserve-issues-fomc-statement-20251029/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority: Individual Convicted And Fined For Data Protection Breach](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-individual-convicted-and-fined-for-data-protecti-20251029/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [JAFZA And DIFC Explore Framework For Dual-Zone Operations For Companies](http://www.mondovisione.com/media-and-resources/news/jafza-and-difc-explore-framework-for-dual-zone-operations-for-companies-20251029/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Amman Stock Exchange Organizes A Medical Day For Its Employees As Part Of Its Corporate Social Responsibility Initiatives](http://www.mondovisione.com/media-and-resources/news/amman-stock-exchange-organizes-a-medical-day-for-its-employees-as-part-of-its-co-20251029/)
+append_entries: 4
+Finish: 2025-10-29 18:34:51.013005
