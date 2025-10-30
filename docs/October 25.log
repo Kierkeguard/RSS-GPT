@@ -3315,3 +3315,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Marketnode Powers Maybank’s First tokenised On-ChainMoney Market Fund With BNP Paribas’ Securities Services Business](http://www.mondovisione.com/media-and-resources/news/marketnode-powers-maybanks-first-tokenised-on-chainmoney-market-fund-with-bnp-p-20251030/)
 append_entries: 4
 Finish: 2025-10-30 16:30:58.534553
+------------------------------------------------------
+Started: 2025-10-30 18:34:26.377472
+Existing_entries: 489
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The EBA Advises The European Commission On The Foundations Of The New Anti-Money Laundering/Countering The Financing Of Terrorism Regime](http://www.mondovisione.com/media-and-resources/news/the-eba-advises-the-european-commission-on-the-foundations-of-the-new-anti-money-20251030/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc: Publication Of Supplement To Offering Circular](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-publication-of-supplement-to-offering-circular-20251030/)
+append_entries: 2
+Finish: 2025-10-30 18:34:27.768753
