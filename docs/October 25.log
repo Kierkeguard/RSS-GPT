@@ -3297,3 +3297,21 @@ Existing_entries: 485
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-10-30 14:24:39.530466
+------------------------------------------------------
+Started: 2025-10-30 16:30:56.770628
+Existing_entries: 485
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Opening Remarks, Federal Reserve Vice Chair For Supervision Michelle W. Bowman, At The Economic Growth And Regulatory Paperwork Reduction Act Outreach Meeting, Federal Reserve Bank Of Kansas City, Kansas City, Missouri](http://www.mondovisione.com/media-and-resources/news/opening-remarks-federal-reserve-vice-chair-for-supervision-michelle-w-bowman-20251030/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Dubai Financial Market Reports 212% Increase In Net Profit Before Tax To AED 930.8 Million For The First Nine Months Of 2025](http://www.mondovisione.com/media-and-resources/news/dubai-financial-market-reports-212-increase-in-net-profit-before-tax-to-aed-930-20251030/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Zurich Takes Top Spot From London In Global Green Finance Index](http://www.mondovisione.com/media-and-resources/news/zurich-takes-top-spot-from-london-in-global-green-finance-index-20251030/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Marketnode Powers Maybank’s First tokenised On-ChainMoney Market Fund With BNP Paribas’ Securities Services Business](http://www.mondovisione.com/media-and-resources/news/marketnode-powers-maybanks-first-tokenised-on-chainmoney-market-fund-with-bnp-p-20251030/)
+append_entries: 4
+Finish: 2025-10-30 16:30:58.534553
