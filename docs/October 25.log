@@ -3327,3 +3327,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [London Stock Exchange Group plc: Publication Of Supplement To Offering Circular](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-publication-of-supplement-to-offering-circular-20251030/)
 append_entries: 2
 Finish: 2025-10-30 18:34:27.768753
+------------------------------------------------------
+Started: 2025-10-30 20:26:20.720525
+Existing_entries: 491
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ISDA derivatiViews: Why We Must Seize The Moment To Fix Reporting](http://www.mondovisione.com/media-and-resources/news/isda-derivativiews-why-we-must-seize-the-moment-to-fix-reporting-20251030/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ISDA Launches RFQ For DRR Traceability Tool](http://www.mondovisione.com/media-and-resources/news/isda-launches-rfq-for-drr-traceability-tool-20251030/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Monetary Policy Statement: Christine Lagarde, President Of The ECB, Luis de Guindos, Vice-President Of The ECB](http://www.mondovisione.com/media-and-resources/news/monetary-policy-statement-christine-lagarde-president-of-the-ecb-luis-de-guin-20251030/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ECB Monetary Policy Decisions](http://www.mondovisione.com/media-and-resources/news/ecb-monetary-policy-decisions-20251030/)
+append_entries: 4
+Finish: 2025-10-30 20:26:22.082081
