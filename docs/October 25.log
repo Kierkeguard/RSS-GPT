@@ -3345,3 +3345,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ECB Monetary Policy Decisions](http://www.mondovisione.com/media-and-resources/news/ecb-monetary-policy-decisions-20251030/)
 append_entries: 4
 Finish: 2025-10-30 20:26:22.082081
+------------------------------------------------------
+Started: 2025-10-30 22:22:26.135865
+Existing_entries: 495
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cboe Announces JJ Kinahan To Lead Retail Market Expansion And Innovation Efforts](http://www.mondovisione.com/media-and-resources/news/cboe-announces-jj-kinahan-to-lead-retail-market-expansion-and-innovation-efforts-20251030/)
+append_entries: 1
+Finish: 2025-10-30 22:22:27.120562
