@@ -3262,3 +3262,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Bursa Malaysia’s 3Q2025 Profit Before Tax Rises 13.5% From The Preceding Quarter To RM86.3 Million, On The Back Of Higher ADV For Securities Market](http://www.mondovisione.com/media-and-resources/news/bursa-malaysias-3q2025-profit-before-tax-rises-135-from-the-preceding-quarter-20251030/)
 append_entries: 2
 Finish: 2025-10-30 08:30:53.542495
+------------------------------------------------------
+Started: 2025-10-30 10:26:11.818377
+Existing_entries: 478
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-10-30 10:26:12.964396
