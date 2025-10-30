@@ -3268,3 +3268,26 @@ Existing_entries: 478
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-10-30 10:26:12.964396
+------------------------------------------------------
+Started: 2025-10-30 12:50:22.248607
+Existing_entries: 478
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Intercontinental Exchange Approves Fourth Quarter Dividend Of $0.48 Per Share](http://www.mondovisione.com/media-and-resources/news/intercontinental-exchange-approves-fourth-quarter-dividend-of-048-per-share-20251030/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Intercontinental Exchange Reports Strong Third Quarter 2025](http://www.mondovisione.com/media-and-resources/news/intercontinental-exchange-reports-strong-third-quarter-2025-20251030/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Intercontinental Exchange - ICE Third Quarter 2025 Earnings Conference Call & Webcast](http://www.mondovisione.com/media-and-resources/news/intercontinental-exchange-ice-third-quarter-2025-earnings-conference-call-and-we-20251030/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Stability Matters - Latest News From The FSB - October 2025](http://www.mondovisione.com/media-and-resources/news/stability-matters-latest-news-from-the-fsb-october-2025-20251030/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER: The Integrated EU Gas System Has Proven Resilient, Reconfiguring To Align Gas Flows With Shifting Supply And Demand](http://www.mondovisione.com/media-and-resources/news/acer-the-integrated-eu-gas-system-has-proven-resilient-reconfiguring-to-align-20251030/)
+Append: [UK Financial Conduct Authority Warns Investors In CFDs Risk Losing Out On Protections](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-warns-investors-in-cfds-risk-losing-out-on-protec-20251030/)
+Append: [The UK Financial Conduct Authority Approves Digital Asset Pioneer CoinShares Bitcoin And Ethereum ETN Prospectus For UK Retail](http://www.mondovisione.com/media-and-resources/news/the-uk-financial-conduct-authority-approves-digital-asset-pioneer-coinshares-bit-20251030/)
+append_entries: 7
+Finish: 2025-10-30 12:50:24.166932
