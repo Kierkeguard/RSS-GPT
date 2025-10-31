@@ -3401,3 +3401,21 @@ Append: [Securities Commission Malaysia’s Batik Lestari Festival Returns To Pr
 Append: [The Bermuda Stock Exchange Advises No Change To Trading And Settlement On Friday October 31, 2025](http://www.mondovisione.com/media-and-resources/news/the-bermuda-stock-exchange-advises-no-change-to-trading-and-settlement-on-friday-20251031/)
 append_entries: 7
 Finish: 2025-10-31 08:30:41.415220
+------------------------------------------------------
+Started: 2025-10-31 10:25:37.823270
+Existing_entries: 503
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Maxime Aerts Appointed CIO Of LuxSE](http://www.mondovisione.com/media-and-resources/news/maxime-aerts-appointed-cio-of-luxse-20251031/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [On World Savings Day The World Federation Of Exchanges Reminds Investors Of The Risks Of Inflation Eroding Their Savings](http://www.mondovisione.com/media-and-resources/news/on-world-savings-day-the-world-federation-of-exchanges-reminds-investors-of-the-20251031/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc ("LSEG") Transactions In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transactions-in-own-shares-20251031/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Top 20 Global Biopharmaceutical Companies Report 4% Market Capitalization Growth In Q3 2025, Reveals GlobalData](http://www.mondovisione.com/media-and-resources/news/top-20-global-biopharmaceutical-companies-report-4-market-capitalization-growth-20251031/)
+append_entries: 4
+Finish: 2025-10-31 10:25:38.549411
