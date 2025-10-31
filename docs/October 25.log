@@ -3378,3 +3378,26 @@ Existing_entries: 496
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-10-31 06:35:15.473452
+------------------------------------------------------
+Started: 2025-10-31 08:30:40.459715
+Existing_entries: 496
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NGX Group Declares ₦1.00 Interim Dividend, Sustains Track Record Of Shareholder Value Creation](http://www.mondovisione.com/media-and-resources/news/ngx-group-declares-100-interim-dividend-sustains-track-record-of-shareholder-20251031/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Dubai Financial Market Reports 212% Increase In Net Profit Before Tax To AED 930.8 Million For The First Nine Months Of 2025](http://www.mondovisione.com/media-and-resources/news/dubai-financial-market-reports-212-increase-in-net-profit-before-tax-to-aed-930-20251031/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Highlights Financial Reporting And Audit Findings For FY 2024–25 As Part Of Expanded Program Of Work](http://www.mondovisione.com/media-and-resources/news/asic-highlights-financial-reporting-and-audit-findings-for-fy-202425-as-part-of-20251031/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Collective Effort To Safeguard Singapore's Financial System From Illicit Activities](http://www.mondovisione.com/media-and-resources/news/collective-effort-to-safeguard-singapores-financial-system-from-illicit-activit-20251031/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Launches New Breach Data Dashboard](http://www.mondovisione.com/media-and-resources/news/asic-launches-new-breach-data-dashboard-20251031/)
+Append: [Securities Commission Malaysia’s Batik Lestari Festival Returns To Promote Inclusivity And Sustainability - Second Instalment Of The Annual Event Champions Malaysia’s Cultural Economy](http://www.mondovisione.com/media-and-resources/news/securities-commission-malaysias-batik-lestari-festival-returns-to-promote-inclu-20251031/)
+Append: [The Bermuda Stock Exchange Advises No Change To Trading And Settlement On Friday October 31, 2025](http://www.mondovisione.com/media-and-resources/news/the-bermuda-stock-exchange-advises-no-change-to-trading-and-settlement-on-friday-20251031/)
+append_entries: 7
+Finish: 2025-10-31 08:30:41.415220
