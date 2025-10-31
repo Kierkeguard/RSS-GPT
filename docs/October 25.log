@@ -3486,3 +3486,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Ontario Securities Commission Settlement With Jessica Tam In Insider Trading Scheme Approved By Capital Markets Tribunal](http://www.mondovisione.com/media-and-resources/news/ontario-securities-commission-settlement-with-jessica-tam-in-insider-trading-sch-20251031/)
 append_entries: 2
 Finish: 2025-10-31 20:26:26.468398
+------------------------------------------------------
+Started: 2025-10-31 22:22:20.093831
+Existing_entries: 522
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-10-31 22:22:21.180609
