@@ -3474,3 +3474,15 @@ Append: [Stock Markets Steering Committee Of Hellenic  Exchanges - Athens Stock 
 Append: [LSEG Appoints Chris Coleman As Group Head Of Sales And Account Management](http://www.mondovisione.com/media-and-resources/news/lseg-appoints-chris-coleman-as-group-head-of-sales-and-account-management-20251031/)
 append_entries: 9
 Finish: 2025-10-31 18:34:09.271764
+------------------------------------------------------
+Started: 2025-10-31 20:26:25.518251
+Existing_entries: 520
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Issues Exemptive Order Regarding Compliance With Certain Rules Under Regulation NMS](http://www.mondovisione.com/media-and-resources/news/sec-issues-exemptive-order-regarding-compliance-with-certain-rules-under-regulat-20251031/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Ontario Securities Commission Settlement With Jessica Tam In Insider Trading Scheme Approved By Capital Markets Tribunal](http://www.mondovisione.com/media-and-resources/news/ontario-securities-commission-settlement-with-jessica-tam-in-insider-trading-sch-20251031/)
+append_entries: 2
+Finish: 2025-10-31 20:26:26.468398
