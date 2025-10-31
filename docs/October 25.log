@@ -3440,3 +3440,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [HKEX Report On Initial Public Offering Applications, Delisting And Suspensions (October 2025)](http://www.mondovisione.com/media-and-resources/news/hkex-report-on-initial-public-offering-applications-delisting-and-suspensions-20251031/)
 append_entries: 2
 Finish: 2025-10-31 14:23:59.962181
+------------------------------------------------------
+Started: 2025-10-31 16:30:18.225419
+Existing_entries: 510
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MNI Indicators: Chicago Business Barometer™ - Progressed To 43.8 In October](http://www.mondovisione.com/media-and-resources/news/mni-indicators-chicago-business-barometer-progressed-to-438-in-october-20251031/)
+append_entries: 1
+Finish: 2025-10-31 16:30:20.237966
