@@ -3419,3 +3419,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Top 20 Global Biopharmaceutical Companies Report 4% Market Capitalization Growth In Q3 2025, Reveals GlobalData](http://www.mondovisione.com/media-and-resources/news/top-20-global-biopharmaceutical-companies-report-4-market-capitalization-growth-20251031/)
 append_entries: 4
 Finish: 2025-10-31 10:25:38.549411
+------------------------------------------------------
+Started: 2025-10-31 12:50:05.253018
+Existing_entries: 507
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cboe Global Markets Reports Results For Third Quarter 2025 And Announces Strategic Realignment Of Business Portfolio](http://www.mondovisione.com/media-and-resources/news/cboe-global-markets-reports-results-for-third-quarter-2025-and-announces-strateg-20251031/)
+append_entries: 1
+Finish: 2025-10-31 12:50:07.527407
