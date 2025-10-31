@@ -3428,3 +3428,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Cboe Global Markets Reports Results For Third Quarter 2025 And Announces Strategic Realignment Of Business Portfolio](http://www.mondovisione.com/media-and-resources/news/cboe-global-markets-reports-results-for-third-quarter-2025-and-announces-strateg-20251031/)
 append_entries: 1
 Finish: 2025-10-31 12:50:07.527407
+------------------------------------------------------
+Started: 2025-10-31 14:23:58.134744
+Existing_entries: 508
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NSE Indices Index Dashboard For The Month Ended October 2025](http://www.mondovisione.com/media-and-resources/news/nse-indices-index-dashboard-for-the-month-ended-october-2025-20251031/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX Report On Initial Public Offering Applications, Delisting And Suspensions (October 2025)](http://www.mondovisione.com/media-and-resources/news/hkex-report-on-initial-public-offering-applications-delisting-and-suspensions-20251031/)
+append_entries: 2
+Finish: 2025-10-31 14:23:59.962181
