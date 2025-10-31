@@ -3449,3 +3449,28 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [MNI Indicators: Chicago Business Barometer™ - Progressed To 43.8 In October](http://www.mondovisione.com/media-and-resources/news/mni-indicators-chicago-business-barometer-progressed-to-438-in-october-20251031/)
 append_entries: 1
 Finish: 2025-10-31 16:30:20.237966
+------------------------------------------------------
+Started: 2025-10-31 18:34:08.147870
+Existing_entries: 511
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nigerian Exchange Weekly Statistics And Weekly Report For 31 October 2025](http://www.mondovisione.com/media-and-resources/news/nigerian-exchange-weekly-statistics-and-weekly-report-for-31-october-2025-20251031/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bank Of England: Minutes Of The Meeting Of The Court Of Directors Held On 19 September 2025](http://www.mondovisione.com/media-and-resources/news/bank-of-england-minutes-of-the-meeting-of-the-court-of-directors-held-on-19-sep-20251031/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Sanwo-Olu, NGX Group, Champion Creative Economy Financing At Closing Gong Ceremony For Lagos Fashion Week](http://www.mondovisione.com/media-and-resources/news/sanwo-olu-ngx-group-champion-creative-economy-financing-at-closing-gong-ceremo-20251031/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESMA Publishes Data For Quarterly Bond Liquidity Assessment](http://www.mondovisione.com/media-and-resources/news/esma-publishes-data-for-quarterly-bond-liquidity-assessment-20251031/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Persistent Differences In National Loan Recovery Outcomes Reinforce Case For EU Insolvency Harmonisation, The EBA Analysis Finds](http://www.mondovisione.com/media-and-resources/news/persistent-differences-in-national-loan-recovery-outcomes-reinforce-case-for-eu-20251031/)
+Append: [Results Of The September 2025 Survey On Credit Terms And Conditions In Euro-Denominated Securities Financing And OTC Derivatives Markets (SESFOD)](http://www.mondovisione.com/media-and-resources/news/results-of-the-september-2025-survey-on-credit-terms-and-conditions-in-euro-deno-20251031/)
+Append: [LME: Disciplinary Action Mizuho Securities USA LLC](http://www.mondovisione.com/media-and-resources/news/lme-disciplinary-action-mizuho-securities-usa-llc-20251031/)
+Append: [Stock Markets Steering Committee Of Hellenic  Exchanges - Athens Stock Exchange (ATHEX)](http://www.mondovisione.com/media-and-resources/news/stock-markets-steering-committee-of-hellenic-exchanges-athens-stock-exchange-20251031/)
+Append: [LSEG Appoints Chris Coleman As Group Head Of Sales And Account Management](http://www.mondovisione.com/media-and-resources/news/lseg-appoints-chris-coleman-as-group-head-of-sales-and-account-management-20251031/)
+append_entries: 9
+Finish: 2025-10-31 18:34:09.271764
