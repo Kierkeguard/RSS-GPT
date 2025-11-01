@@ -3558,3 +3558,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Moscow Exchange Trading Volumes In October 2025](http://www.mondovisione.com/media-and-resources/news/moscow-exchange-trading-volumes-in-october-2025-2025111/)
 append_entries: 1
 Finish: 2025-11-01 18:29:36.166836
+------------------------------------------------------
+Started: 2025-11-01 20:22:18.999113
+Existing_entries: 524
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-11-01 20:22:19.817258
