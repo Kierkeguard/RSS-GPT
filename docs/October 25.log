@@ -3633,3 +3633,12 @@ Existing_entries: 525
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-11-02 18:29:07.796426
+------------------------------------------------------
+Started: 2025-11-02 20:23:11.545323
+Existing_entries: 525
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC: Cboe Global Markets Decision](http://www.mondovisione.com/media-and-resources/news/asic-cboe-global-markets-decision-2025112/)
+append_entries: 1
+Finish: 2025-11-02 20:23:12.476285
