@@ -3612,3 +3612,12 @@ Existing_entries: 524
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-11-02 12:42:29.960612
+------------------------------------------------------
+Started: 2025-11-02 14:19:12.263875
+Existing_entries: 524
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Qatar Stock Exchange Listed Companies Reported QR 41.1 Billion For The 3rd Quarter Of 2025](http://www.mondovisione.com/media-and-resources/news/qatar-stock-exchange-listed-companies-reported-qr-411-billion-for-the-3rd-quart-2025112/)
+append_entries: 1
+Finish: 2025-11-02 14:19:13.148294
