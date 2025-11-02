@@ -3642,3 +3642,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ASIC: Cboe Global Markets Decision](http://www.mondovisione.com/media-and-resources/news/asic-cboe-global-markets-decision-2025112/)
 append_entries: 1
 Finish: 2025-11-02 20:23:12.476285
+------------------------------------------------------
+Started: 2025-11-02 22:20:08.821550
+Existing_entries: 526
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-11-02 22:20:09.947834
