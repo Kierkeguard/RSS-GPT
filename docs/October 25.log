@@ -3696,3 +3696,29 @@ Existing_entries: 530
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-11-03 10:28:15.562773
+------------------------------------------------------
+Started: 2025-11-03 12:51:19.340298
+Existing_entries: 530
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Boerse Stuttgart Records October Turnover Of Around EUR 12,4 Billion - Strong Increases In Structured Securities, Equities And Exchange-Traded Products Compared To The Same Month Of The Previous Year](http://www.mondovisione.com/media-and-resources/news/boerse-stuttgart-records-october-turnover-of-around-eur-124-billion-strong-in-2025113/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc - Total Voting Rights](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-total-voting-rights-2025113/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIX Exchanges Figures: October 2025](http://www.mondovisione.com/media-and-resources/news/six-exchanges-figures-october-2025-2025113/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Broadridge Appoints Patrick Archer As Buy-Side Segment Sales Lead](http://www.mondovisione.com/media-and-resources/news/broadridge-appoints-patrick-archer-as-buy-side-segment-sales-lead-2025113/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [IOSCO Board Meets In Madrid: Issues Four New Publications](http://www.mondovisione.com/media-and-resources/news/iosco-board-meets-in-madrid-issues-four-new-publications-2025113/)
+Append: [Last Chance To Register: Limited Seats Left For ETFGI's 6th Annual ETFGI Global ETFs Insights Summit – U.S., November 5, In New York City.](http://www.mondovisione.com/media-and-resources/news/last-chance-to-register-limited-seats-left-for-etfgis-6th-annual-etfgi-global-2025113/)
+Append: [GDF Announces Report And Industry Sandbox Results For Collateral Mobility In Tokenzied Money Market Funds In Europe And The UK](http://www.mondovisione.com/media-and-resources/news/gdf-announces-report-and-industry-sandbox-results-for-collateral-mobility-in-tok-2025113/)
+Append: [BIS Latest Update: AI, Financial Health And The Weaker Dollar](http://www.mondovisione.com/media-and-resources/news/bis-latest-update-ai-financial-health-and-the-weaker-dollar-2025113/)
+Append: [Worldline Partners With Fipto To Enable Next Generation Of Payments Rails With Stablecoin Worldline Partners With Fipto To Enable Next Generation Of Payments Rails With Stablecoin - Strategic Collaboration To Integrate Stablecoins Into European Payment Infrastructure, Advancing Merchant Choice And Financial Resilience](http://www.mondovisione.com/media-and-resources/news/worldline-partners-with-fipto-to-enable-next-generation-of-payments-rails-with-s-2025113/)
+Append: [Vienna Stock Exchange: New CEE Theme Indices On AI, Defence And Reconstruction](http://www.mondovisione.com/media-and-resources/news/vienna-stock-exchange-new-cee-theme-indices-on-ai-defence-and-reconstruction-2025113/)
+append_entries: 10
+Finish: 2025-11-03 12:51:20.254233
