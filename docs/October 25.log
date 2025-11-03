@@ -3790,3 +3790,15 @@ Append: [ISDA Extends Saudi Arabia Netting Opinions](http://www.mondovisione.com
 Append: [The Market Share Of EU Subsidiaries Of Third Country Banking Groups Remains Stable At 9.8% Of Total Assets](http://www.mondovisione.com/media-and-resources/news/the-market-share-of-eu-subsidiaries-of-third-country-banking-groups-remains-stab-2025113/)
 append_entries: 6
 Finish: 2025-11-03 20:27:04.255550
+------------------------------------------------------
+Started: 2025-11-03 22:22:45.251222
+Existing_entries: 556
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Treasury Announces Marketable Borrowing Estimates](http://www.mondovisione.com/media-and-resources/news/us-treasury-announces-marketable-borrowing-estimates-2025113/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Economy Statement For The US Treasury Borrowing Advisory Committee](http://www.mondovisione.com/media-and-resources/news/economy-statement-for-the-us-treasury-borrowing-advisory-committee-2025113/)
+append_entries: 2
+Finish: 2025-11-03 22:22:46.764174
