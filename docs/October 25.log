@@ -3728,3 +3728,21 @@ Existing_entries: 540
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-11-03 14:24:07.430967
+------------------------------------------------------
+Started: 2025-11-03 16:28:00.503824
+Existing_entries: 540
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Deutsche Börse Cash Market Trading Volumes In October 2025](http://www.mondovisione.com/media-and-resources/news/deutsche-brse-cash-market-trading-volumes-in-october-2025-2025113/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Retail Strength Balances Softer Discretionary Sales, According To October Fiserv Small Business Index](http://www.mondovisione.com/media-and-resources/news/retail-strength-balances-softer-discretionary-sales-according-to-october-fiserv-2025113/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NSE Indices Fixed Income Index Dashboard for the month ended October 2025](http://www.mondovisione.com/media-and-resources/news/nse-indices-fixed-income-index-dashboard-for-the-month-ended-october-2025-2025113/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Nordic And Baltic Markets Trading Statistics October 2025](http://www.mondovisione.com/media-and-resources/news/nasdaq-nordic-and-baltic-markets-trading-statistics-october-2025-2025113/)
+append_entries: 4
+Finish: 2025-11-03 16:28:01.464993
