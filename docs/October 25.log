@@ -3666,3 +3666,21 @@ Existing_entries: 526
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-11-03 04:32:21.381065
+------------------------------------------------------
+Started: 2025-11-03 06:37:03.700266
+Existing_entries: 526
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Hong Kong Securities And Futures Commission Issues New Guidance For Licensed Virtual Asset Trading Platforms To Tap Global Liquidity And Diversify Offerings](http://www.mondovisione.com/media-and-resources/news/hong-kong-securities-and-futures-commission-issues-new-guidance-for-licensed-vir-2025113/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Dr Philip Lowe Appointed Inaugural Chair Of ASX Advisory Group On Corporate Governance](http://www.mondovisione.com/media-and-resources/news/dr-philip-lowe-appointed-inaugural-chair-of-asx-advisory-group-on-corporate-gove-2025113/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Multi-pronged Approach To Sustain Vibrant Growth Of Hong Kong’s Digital Asset Ecosystem - Fireside chat At Hong Kong FinTech Week 2025, Ms Julia Leung, Chief Executive Officer, Hong Kong Securities And Futures Commission, 3 November 2025](http://www.mondovisione.com/media-and-resources/news/multi-pronged-approach-to-sustain-vibrant-growth-of-hong-kongs-digital-asset-ec-2025113/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Proposes To Remake ‘Sunsetting’ Legislative Instrument About Generic Financial Calculators](http://www.mondovisione.com/media-and-resources/news/asic-proposes-to-remake-sunsetting-legislative-instrument-about-generic-financ-2025113/)
+append_entries: 4
+Finish: 2025-11-03 06:37:04.543669
