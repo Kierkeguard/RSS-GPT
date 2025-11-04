@@ -3820,3 +3820,15 @@ Existing_entries: 558
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-11-04 04:27:50.121897
+------------------------------------------------------
+Started: 2025-11-04 06:36:06.807521
+Existing_entries: 558
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tokyo Financial Exchange Trading Volume In October 2025](http://www.mondovisione.com/media-and-resources/news/tokyo-financial-exchange-trading-volume-in-october-2025-2025114/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [JPX Market Innovation & Research Launches Revamped Marketplace, J-Quants DataCube, On November 4](http://www.mondovisione.com/media-and-resources/news/jpx-market-innovation-and-research-launches-revamped-marketplace-j-quants-datacub-2025114/)
+append_entries: 2
+Finish: 2025-11-04 06:36:07.838867
