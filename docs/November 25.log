@@ -24,3 +24,12 @@ Append: [The Economic Outlook And Monetary Policy, Federal Reserve Governor Lisa
 Append: [Office Of The Comptroller Of The US Currency Releases CRA Performance Evaluations For 16 National Banks And Federal Savings Associations](http://www.mondovisione.com/media-and-resources/news/office-of-the-comptroller-of-the-us-currency-releases-cra-performance-evaluation-2025113/)
 append_entries: 10
 Finish: 2025-11-04 08:33:15.426070
+------------------------------------------------------
+Started: 2025-11-04 10:27:59.590125
+Existing_entries: 10
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LCH Expands Triparty Collateral Services With BNY](http://www.mondovisione.com/media-and-resources/news/lch-expands-triparty-collateral-services-with-bny-2025114/)
+append_entries: 1
+Finish: 2025-11-04 10:28:00.643082
