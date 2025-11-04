@@ -111,3 +111,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Rimes Strengthens Global Leadership Team With Appointment Of Ross Allen And Bill Blythe](http://www.mondovisione.com/media-and-resources/news/rimes-strengthens-global-leadership-team-with-appointment-of-ross-allen-and-bill-2025114/)
 append_entries: 2
 Finish: 2025-11-04 20:27:31.972537
+------------------------------------------------------
+Started: 2025-11-04 22:22:11.041172
+Existing_entries: 27
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Intercontinental Exchange CFO Warren Gardiner To Present At The J.P. Morgan Ultimate Services Investor Conference On November 18](http://www.mondovisione.com/media-and-resources/news/intercontinental-exchange-cfo-warren-gardiner-to-present-at-the-jp-morgan-ulti-2025114/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Reports October 2025 Volumes](http://www.mondovisione.com/media-and-resources/news/nasdaq-reports-october-2025-volumes-2025114/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASX Welcomes ASIC’s Capital Markets Roadmap](http://www.mondovisione.com/media-and-resources/news/asx-welcomes-asics-capital-markets-roadmap-2025114/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC: A Roadmap For Capital Markets To Grow Our Economy](http://www.mondovisione.com/media-and-resources/news/asic-a-roadmap-for-capital-markets-to-grow-our-economy-2025114/)
+append_entries: 4
+Finish: 2025-11-04 22:22:12.260349
