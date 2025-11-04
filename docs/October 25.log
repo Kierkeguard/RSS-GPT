@@ -3802,3 +3802,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Economy Statement For The US Treasury Borrowing Advisory Committee](http://www.mondovisione.com/media-and-resources/news/economy-statement-for-the-us-treasury-borrowing-advisory-committee-2025113/)
 append_entries: 2
 Finish: 2025-11-03 22:22:46.764174
+------------------------------------------------------
+Started: 2025-11-04 01:53:12.896350
+Existing_entries: 558
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-11-04 01:53:13.889428
