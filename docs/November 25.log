@@ -66,3 +66,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [GLEIF Announces The Global Vlei Hackathon Winners Embedding Organizational Trust In Digital Asset And Financial Infrastructures - Winning Solutions Illustrate The Extent That Trusted Organizational Identity Will Transform Regulated Digital Asset Services Globally](http://www.mondovisione.com/media-and-resources/news/gleif-announces-the-global-vlei-hackathon-winners-embedding-organizational-trust-2025114/)
 append_entries: 2
 Finish: 2025-11-04 14:24:51.237362
+------------------------------------------------------
+Started: 2025-11-04 16:28:57.276547
+Existing_entries: 18
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FIA Releases New Customer Funds FAQ](http://www.mondovisione.com/media-and-resources/news/fia-releases-new-customer-funds-faq-2025114/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Purdue University/CME Group Ag Economy Barometer: Livestock Sector Optimism Fuels A Modest Rise In Farmer Sentiment In October](http://www.mondovisione.com/media-and-resources/news/purdue-universitycme-group-ag-economy-barometer-livestock-sector-optimism-fuel-2025114/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FIA Successfully Executes 2025 Disaster Recovery Test](http://www.mondovisione.com/media-and-resources/news/fia-successfully-executes-2025-disaster-recovery-test-2025114/)
+append_entries: 3
+Finish: 2025-11-04 16:28:58.432316
