@@ -99,3 +99,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [EEX Publishes 2026 Sales Calendar For Post-Purchases Within The German National Emissions Trading System](http://www.mondovisione.com/media-and-resources/news/eex-publishes-2026-sales-calendar-for-post-purchases-within-the-german-national-2025114/)
 append_entries: 4
 Finish: 2025-11-04 18:34:20.430582
+------------------------------------------------------
+Started: 2025-11-04 20:27:30.872094
+Existing_entries: 25
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bank Of England: Minutes Of The CBDC Engagement Forum - May 2025](http://www.mondovisione.com/media-and-resources/news/bank-of-england-minutes-of-the-cbdc-engagement-forum-may-2025-2025114/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Rimes Strengthens Global Leadership Team With Appointment Of Ross Allen And Bill Blythe](http://www.mondovisione.com/media-and-resources/news/rimes-strengthens-global-leadership-team-with-appointment-of-ross-allen-and-bill-2025114/)
+append_entries: 2
+Finish: 2025-11-04 20:27:31.972537
