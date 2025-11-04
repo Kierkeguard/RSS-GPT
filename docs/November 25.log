@@ -54,3 +54,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [D7 DLT: Clearstream Launches Tokenized Securities Platform](http://www.mondovisione.com/media-and-resources/news/d7-dlt-clearstream-launches-tokenized-securities-platform-2025114/)
 append_entries: 5
 Finish: 2025-11-04 12:53:19.881545
+------------------------------------------------------
+Started: 2025-11-04 14:24:50.254798
+Existing_entries: 16
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Resilient Futures: Strengthening Financial Capability And Inclusion For All - Speech By Nikhil Rathi, UK Financial Conduct Authority Chief Executive, At The Fair4All Finance Delivering Financial Inclusion Together Conference](http://www.mondovisione.com/media-and-resources/news/resilient-futures-strengthening-financial-capability-and-inclusion-for-all-sp-2025114/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [GLEIF Announces The Global Vlei Hackathon Winners Embedding Organizational Trust In Digital Asset And Financial Infrastructures - Winning Solutions Illustrate The Extent That Trusted Organizational Identity Will Transform Regulated Digital Asset Services Globally](http://www.mondovisione.com/media-and-resources/news/gleif-announces-the-global-vlei-hackathon-winners-embedding-organizational-trust-2025114/)
+append_entries: 2
+Finish: 2025-11-04 14:24:51.237362
