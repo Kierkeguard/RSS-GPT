@@ -81,3 +81,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [FIA Successfully Executes 2025 Disaster Recovery Test](http://www.mondovisione.com/media-and-resources/news/fia-successfully-executes-2025-disaster-recovery-test-2025114/)
 append_entries: 3
 Finish: 2025-11-04 16:28:58.432316
+------------------------------------------------------
+Started: 2025-11-04 18:34:19.144676
+Existing_entries: 21
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The EBA Updates Mapping And Signposting Tools To Reflect Latest Changes In Pillar 3 And Supervisory Reporting Frameworks](http://www.mondovisione.com/media-and-resources/news/the-eba-updates-mapping-and-signposting-tools-to-reflect-latest-changes-in-pilla-2025114/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FIX Trading Community Proposes To Make EU Markets Bigger, Better - The Capital Markets Industry Association Has Called For New Trading Practices And FIX Protocol Extensions To Improve Transparency And Accessibility Of European Markets](http://www.mondovisione.com/media-and-resources/news/fix-trading-community-proposes-to-make-eu-markets-bigger-better-the-capital-m-2025114/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Vermiculus Strengthens Cybersecurity Through Partnership With Truesec](http://www.mondovisione.com/media-and-resources/news/vermiculus-strengthens-cybersecurity-through-partnership-with-truesec-2025114/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [EEX Publishes 2026 Sales Calendar For Post-Purchases Within The German National Emissions Trading System](http://www.mondovisione.com/media-and-resources/news/eex-publishes-2026-sales-calendar-for-post-purchases-within-the-german-national-2025114/)
+append_entries: 4
+Finish: 2025-11-04 18:34:20.430582
