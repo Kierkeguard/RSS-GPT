@@ -33,3 +33,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [LCH Expands Triparty Collateral Services With BNY](http://www.mondovisione.com/media-and-resources/news/lch-expands-triparty-collateral-services-with-bny-2025114/)
 append_entries: 1
 Finish: 2025-11-04 10:28:00.643082
+------------------------------------------------------
+Started: 2025-11-04 12:53:18.774075
+Existing_entries: 11
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group October Volume Hits New Record Of 26.3 Million Contracts, Up 8% Year Over Year](http://www.mondovisione.com/media-and-resources/news/cme-group-october-volume-hits-new-record-of-263-million-contracts-up-8-year-o-2025114/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SET Collaborates With BOI To Drive New Economy Industry Growth Into The Thai Capital Market](http://www.mondovisione.com/media-and-resources/news/set-collaborates-with-boi-to-drive-new-economy-industry-growth-into-the-thai-cap-2025114/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Scila Strengthens Strategic Focus On AI And Data Science With The Appointment Of Oliver Fleetwood](http://www.mondovisione.com/media-and-resources/news/scila-strengthens-strategic-focus-on-ai-and-data-science-with-the-appointment-of-2025114/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [REMIT Breach: Spanish Energy Regulator Fines Enet Energy S.A. €1 Million For Attempting To Manipulate The Wholesale Gas Market](http://www.mondovisione.com/media-and-resources/news/remit-breach-spanish-energy-regulator-fines-enet-energy-sa-1-million-for-att-2025114/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [D7 DLT: Clearstream Launches Tokenized Securities Platform](http://www.mondovisione.com/media-and-resources/news/d7-dlt-clearstream-launches-tokenized-securities-platform-2025114/)
+append_entries: 5
+Finish: 2025-11-04 12:53:19.881545
