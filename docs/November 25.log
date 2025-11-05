@@ -225,3 +225,21 @@ Existing_entries: 47
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-11-05 14:24:26.787955
+------------------------------------------------------
+Started: 2025-11-05 16:31:54.382828
+Existing_entries: 47
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Consolidated Canadian Equity Market Data Available With Axiom - Low-Latency Access To TMX IP Now Available Through Exegy’s New York Presence](http://www.mondovisione.com/media-and-resources/news/consolidated-canadian-equity-market-data-available-with-axiom-low-latency-acce-2025115/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [U.S. Department Of The Treasury: Quarterly Refunding Statement Of Deputy Assistant Secretary For Federal Finance Brian Smith](http://www.mondovisione.com/media-and-resources/news/us-department-of-the-treasury-quarterly-refunding-statement-of-deputy-assista-2025115/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Intercontinental Exchange Reports October Statistics](http://www.mondovisione.com/media-and-resources/news/intercontinental-exchange-reports-october-statistics-2025115/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MarketAxess Unveils Fixed Income's First Opening & Closing Auctions - Designed To Improve Pricing And Liquidity - Market-Focused Solution Built In Consultation With AllianceBernstein, BlackRock, DWS And State Street Investment Management](http://www.mondovisione.com/media-and-resources/news/marketaxess-unveils-fixed-incomes-first-opening-and-closing-auctions-designed-t-2025115/)
+append_entries: 4
+Finish: 2025-11-05 16:31:55.649071
