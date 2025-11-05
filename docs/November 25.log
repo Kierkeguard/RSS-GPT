@@ -219,3 +219,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Tel Aviv Stock Exchange: Largest-Ever Equity Indices Update Kicks Off](http://www.mondovisione.com/media-and-resources/news/tel-aviv-stock-exchange-largest-ever-equity-indices-update-kicks-off-2025115/)
 append_entries: 5
 Finish: 2025-11-05 12:51:09.375053
+------------------------------------------------------
+Started: 2025-11-05 14:24:25.631839
+Existing_entries: 47
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-11-05 14:24:26.787955
