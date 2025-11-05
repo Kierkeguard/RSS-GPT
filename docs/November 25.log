@@ -243,3 +243,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [MarketAxess Unveils Fixed Income's First Opening & Closing Auctions - Designed To Improve Pricing And Liquidity - Market-Focused Solution Built In Consultation With AllianceBernstein, BlackRock, DWS And State Street Investment Management](http://www.mondovisione.com/media-and-resources/news/marketaxess-unveils-fixed-incomes-first-opening-and-closing-auctions-designed-t-2025115/)
 append_entries: 4
 Finish: 2025-11-05 16:31:55.649071
+------------------------------------------------------
+Started: 2025-11-05 18:34:08.422522
+Existing_entries: 51
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NGX Rallies 8% In October As Earnings, Policy Reforms Fuel Confidence](http://www.mondovisione.com/media-and-resources/news/ngx-rallies-8-in-october-as-earnings-policy-reforms-fuel-confidence-2025115/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The EBA Publishes Its Final Guidelines On Environmental Scenario Analysis](http://www.mondovisione.com/media-and-resources/news/the-eba-publishes-its-final-guidelines-on-environmental-scenario-analysis-2025115/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Borsa İstanbul Announces The Constituent Changes To The BIST Buyback Index For November, 2025](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-announces-the-constituent-changes-to-the-bist-buyback-index-for-n-2025115/)
+append_entries: 3
+Finish: 2025-11-05 18:34:09.242042
