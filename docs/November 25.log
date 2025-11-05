@@ -198,3 +198,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [United Fintech Acquires 100% Of Trade Ledger To Advance AI Innovation In Banking](http://www.mondovisione.com/media-and-resources/news/united-fintech-acquires-100-of-trade-ledger-to-advance-ai-innovation-in-banking-2025115/)
 append_entries: 5
 Finish: 2025-11-05 10:26:59.890890
+------------------------------------------------------
+Started: 2025-11-05 12:51:08.114937
+Existing_entries: 42
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Rebalancing Risk For Growth, The Role Of The Chief Risk Officer - Speech By Sarah Pritchard, UK Financial Conduct Authority, Deputy Chief Executive, At The Launch Of The Chief Risk Officer Network](http://www.mondovisione.com/media-and-resources/news/rebalancing-risk-for-growth-the-role-of-the-chief-risk-officer-speech-by-sara-2025115/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Lighting The Fuse For Innovation In Insurance − Speech By Shoib Khan, Bank Of England, Director, Insurance Supervision, Given At Insurance Innovators Summit](http://www.mondovisione.com/media-and-resources/news/lighting-the-fuse-for-innovation-in-insurance-speech-by-shoib-khan-bank-of-en-2025115/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group PLC: Publication Of Final Terms](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-publication-of-final-terms-2025115/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BME Launches Market Insights, A New Platform For Data Analysis And Visualization In The Spanish Financial Market](http://www.mondovisione.com/media-and-resources/news/bme-launches-market-insights-a-new-platform-for-data-analysis-and-visualization-2025115/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tel Aviv Stock Exchange: Largest-Ever Equity Indices Update Kicks Off](http://www.mondovisione.com/media-and-resources/news/tel-aviv-stock-exchange-largest-ever-equity-indices-update-kicks-off-2025115/)
+append_entries: 5
+Finish: 2025-11-05 12:51:09.375053
