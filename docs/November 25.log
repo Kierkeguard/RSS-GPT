@@ -156,3 +156,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Shanghai Gold Exchange: Announcement On Switchover To Disaster Recovery Data Center](http://www.mondovisione.com/media-and-resources/news/shanghai-gold-exchange-announcement-on-switchover-to-disaster-recovery-data-cen-2025115/)
 append_entries: 1
 Finish: 2025-11-05 06:35:36.612159
+------------------------------------------------------
+Started: 2025-11-05 08:32:41.811118
+Existing_entries: 32
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SET Market Report For October 2025](http://www.mondovisione.com/media-and-resources/news/set-market-report-for-october-2025-2025115/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX Quarterly Results For The Nine Months Ended 30 September 2025](http://www.mondovisione.com/media-and-resources/news/hkex-quarterly-results-for-the-nine-months-ended-30-september-2025-2025115/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [With AWS’s Support, JPXI Revs Up Efforts To Turn JPX Into A "Global, Comprehensive Finance And Information Platform"](http://www.mondovisione.com/media-and-resources/news/with-awss-support-jpxi-revs-up-efforts-to-turn-jpx-into-a-global-comprehensi-2025115/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Open For Opportunity: Taking Charge Of The Future Of Our Financial Markets - Keynote Address By ASIC Chair Joe Longo At The National Press Club, Canberra On 5 November 2025](http://www.mondovisione.com/media-and-resources/news/open-for-opportunity-taking-charge-of-the-future-of-our-financial-markets-key-2025115/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Transforming Global Challenges Into Asian Growth Opportunities, Welcome Remarks At “Conversations With Global Investors” Forum Of The 2025 Global Financial Leaders' Investment Summit, Dr Kelvin Wong,  Hong Kong Securities And Futures Commission Chairman, 5 November 2025](http://www.mondovisione.com/media-and-resources/news/transforming-global-challenges-into-asian-growth-opportunities-welcome-remarks-2025115/)
+append_entries: 5
+Finish: 2025-11-05 08:32:42.946680
