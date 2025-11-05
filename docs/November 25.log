@@ -258,3 +258,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Borsa İstanbul Announces The Constituent Changes To The BIST Buyback Index For November, 2025](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-announces-the-constituent-changes-to-the-bist-buyback-index-for-n-2025115/)
 append_entries: 3
 Finish: 2025-11-05 18:34:09.242042
+------------------------------------------------------
+Started: 2025-11-05 20:27:45.507281
+Existing_entries: 54
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Exchange Group - Options Markets - Market For Underlying Security Used For Openings on MIAX Options, MIAX Pearl Options, MIAX Emerald Options, And MIAX Sapphire Options For Newly Listed Symbols Effective Thursday, November 6, 2025](http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-options-markets-market-for-underlying-security-used-for-2025115/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIFMA Submits Recommendations To Treasury On Stablecoins Under The GENIUS Act](http://www.mondovisione.com/media-and-resources/news/sifma-submits-recommendations-to-treasury-on-stablecoins-under-the-genius-act-2025115/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Ontario Securities Commission Publishes Investment Management Division Annual Summary Report](http://www.mondovisione.com/media-and-resources/news/ontario-securities-commission-publishes-investment-management-division-annual-su-2025115/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Canadian Securities Administrators Encourages Open Dialogue Amid Trend Toward Hybrid And Self-Directed Investing](http://www.mondovisione.com/media-and-resources/news/canadian-securities-administrators-encourages-open-dialogue-amid-trend-toward-hy-2025115/)
+append_entries: 4
+Finish: 2025-11-05 20:27:46.769187
