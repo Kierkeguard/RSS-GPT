@@ -276,3 +276,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Canadian Securities Administrators Encourages Open Dialogue Amid Trend Toward Hybrid And Self-Directed Investing](http://www.mondovisione.com/media-and-resources/news/canadian-securities-administrators-encourages-open-dialogue-amid-trend-toward-hy-2025115/)
 append_entries: 4
 Finish: 2025-11-05 20:27:46.769187
+------------------------------------------------------
+Started: 2025-11-05 22:22:26.049719
+Existing_entries: 58
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Robinhood Reports Third Quarter 2025 Results](http://www.mondovisione.com/media-and-resources/news/robinhood-reports-third-quarter-2025-results-2025115/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cboe Global Markets Reports Trading Volume For October 2025](http://www.mondovisione.com/media-and-resources/news/cboe-global-markets-reports-trading-volume-for-october-2025-2025115/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Miami International Holdings Reports Results For Third Quarter 2025](http://www.mondovisione.com/media-and-resources/news/miami-international-holdings-reports-results-for-third-quarter-2025-2025115/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Miami International Holdings Reports Trading Results For October 2025](http://www.mondovisione.com/media-and-resources/news/miami-international-holdings-reports-trading-results-for-october-2025-2025115/)
+append_entries: 4
+Finish: 2025-11-05 22:22:28.156421
