@@ -448,3 +448,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [BME: MARF Registers A New Commercial Paper Programme From Nextil For €50 Million](http://www.mondovisione.com/media-and-resources/news/bme-marf-registers-a-new-commercial-paper-programme-from-nextil-for-50-million-2025116/)
 append_entries: 5
 Finish: 2025-11-06 18:35:23.648563
+------------------------------------------------------
+Started: 2025-11-06 20:27:07.573505
+Existing_entries: 100
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nodal Exchange Achieves New Trading Volume Records In October 2025](http://www.mondovisione.com/media-and-resources/news/nodal-exchange-achieves-new-trading-volume-records-in-october-2025-2025116/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bermuda Stock Exchange Will Be Closed For Remembrance Day](http://www.mondovisione.com/media-and-resources/news/bermuda-stock-exchange-will-be-closed-for-remembrance-day-2025116/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [EBA: Competent Authorities Have Made Progress In Their Approaches To The Supervision Of CVA Risk](http://www.mondovisione.com/media-and-resources/news/eba-competent-authorities-have-made-progress-in-their-approaches-to-the-supervi-2025116/)
+append_entries: 3
+Finish: 2025-11-06 20:27:08.916708
