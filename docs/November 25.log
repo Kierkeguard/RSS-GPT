@@ -463,3 +463,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [EBA: Competent Authorities Have Made Progress In Their Approaches To The Supervision Of CVA Risk](http://www.mondovisione.com/media-and-resources/news/eba-competent-authorities-have-made-progress-in-their-approaches-to-the-supervi-2025116/)
 append_entries: 3
 Finish: 2025-11-06 20:27:08.916708
+------------------------------------------------------
+Started: 2025-11-06 22:22:37.378124
+Existing_entries: 103
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-11-06 22:22:38.693893
