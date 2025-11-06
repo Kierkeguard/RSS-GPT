@@ -383,3 +383,26 @@ Append: [London Stock Exchange Group plc ("LSEG") Transaction In Own Shares](htt
 Append: [SIX Update On Worldline Participation](http://www.mondovisione.com/media-and-resources/news/six-update-on-worldline-participation-2025116/)
 append_entries: 8
 Finish: 2025-11-06 10:27:35.483562
+------------------------------------------------------
+Started: 2025-11-06 12:50:41.607128
+Existing_entries: 85
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER To Consult On The EU DSO Entity’s Draft Statutory Documents Updated To Include Gas And Hydrogen](http://www.mondovisione.com/media-and-resources/news/acer-to-consult-on-the-eu-dso-entitys-draft-statutory-documents-updated-to-incl-2025116/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bank Of England: Bank Rate Maintained At 4% - November 2025 Monetary Policy Summary And Minutes](http://www.mondovisione.com/media-and-resources/news/bank-of-england-bank-rate-maintained-at-4-november-2025-monetary-policy-summ-2025116/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MarketAxess Announces Trading Volume Statistics For October 2025](http://www.mondovisione.com/media-and-resources/news/marketaxess-announces-trading-volume-statistics-for-october-2025-2025116/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Deutsche Börse Group And Eurex: Statement On The European Commission’s Decision To Open An Investigation](http://www.mondovisione.com/media-and-resources/news/deutsche-brse-group-and-eurex-statement-on-the-european-commissions-decision-2025116/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [European Central Bank To Join Eurex Repo Market](http://www.mondovisione.com/media-and-resources/news/european-central-bank-to-join-eurex-repo-market-2025116/)
+Append: [LSEG Announces Strategic Partnership With Nasdaq® To Deliver Enhanced Private Markets Data](http://www.mondovisione.com/media-and-resources/news/lseg-announces-strategic-partnership-with-nasdaq-to-deliver-enhanced-private-ma-2025116/)
+Append: [The European Central Bank Joins LCH RepoClear SA](http://www.mondovisione.com/media-and-resources/news/the-european-central-bank-joins-lch-repoclear-sa-2025116/)
+append_entries: 7
+Finish: 2025-11-06 12:50:43.371112
