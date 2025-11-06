@@ -427,3 +427,24 @@ Existing_entries: 95
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-11-06 16:32:57.346303
+------------------------------------------------------
+Started: 2025-11-06 18:35:22.373166
+Existing_entries: 95
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euronext Announces Launch Of A Share Repurchase Programme Of €250 Million](http://www.mondovisione.com/media-and-resources/news/euronext-announces-launch-of-a-share-repurchase-programme-of-250-million-2025116/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euronext Publishes Q3 2025 Results And Announces A Share Repurchase Programme - Euronext Has Delivered The Sixth Consecutive Quarter Of Double-Digit Growth, Driven By The Expansion Of Non-Volume-Related Businesses, Resilient Trading And Clearing Revenues And Continued Cost Discipline](http://www.mondovisione.com/media-and-resources/news/euronext-publishes-q3-2025-results-and-announces-a-share-repurchase-programme-2025116/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The EBA Updates The Information Disclosed By EU Competent Authorities According To The Supervisory Disclosure Exercises For Q4 2024](http://www.mondovisione.com/media-and-resources/news/the-eba-updates-the-information-disclosed-by-eu-competent-authorities-according-2025116/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESMA Finds That Distribution Costs Account For Almost Half Of The Total Costs Paid To Invest In UCITS](http://www.mondovisione.com/media-and-resources/news/esma-finds-that-distribution-costs-account-for-almost-half-of-the-total-costs-pa-2025116/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BME: MARF Registers A New Commercial Paper Programme From Nextil For €50 Million](http://www.mondovisione.com/media-and-resources/news/bme-marf-registers-a-new-commercial-paper-programme-from-nextil-for-50-million-2025116/)
+append_entries: 5
+Finish: 2025-11-06 18:35:23.648563
