@@ -421,3 +421,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CME Group Declares Quarterly Dividend](http://www.mondovisione.com/media-and-resources/news/cme-group-declares-quarterly-dividend-2025116/)
 append_entries: 3
 Finish: 2025-11-06 14:24:34.510110
+------------------------------------------------------
+Started: 2025-11-06 16:32:56.150355
+Existing_entries: 95
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-11-06 16:32:57.346303
