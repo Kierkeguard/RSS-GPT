@@ -312,3 +312,24 @@ Existing_entries: 62
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-11-06 04:30:35.027173
+------------------------------------------------------
+Started: 2025-11-06 06:35:52.546098
+Existing_entries: 62
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Federal Reserve Board Finalizes Changes To Its Supervisory Rating Framework For Large Bank Holding Companies](http://www.mondovisione.com/media-and-resources/news/federal-reserve-board-finalizes-changes-to-its-supervisory-rating-framework-for-2025116/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nadex Self-Certifies Political Party Nominee Event Contract](http://www.mondovisione.com/media-and-resources/news/nadex-self-certifies-political-party-nominee-event-contract-2025116/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Acting CFTC Chair Caroline Pham On Harmonization, Market Structure, And The Crypto Sprint - A Conversation At SIFMA’s 2025 Annual Meeting](http://www.mondovisione.com/media-and-resources/news/acting-cftc-chair-caroline-pham-on-harmonization-market-structure-and-the-cryp-2025116/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nadex Self-Certifies Political Party Control Event Contract](http://www.mondovisione.com/media-and-resources/news/nadex-self-certifies-political-party-control-event-contract-2025116/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nadex Self-Certifies Political Party Election Outcome Event Contract](http://www.mondovisione.com/media-and-resources/news/nadex-self-certifies-political-party-election-outcome-event-contract-2025116/)
+append_entries: 5
+Finish: 2025-11-06 06:35:54.322421
