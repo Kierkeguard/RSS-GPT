@@ -406,3 +406,18 @@ Append: [LSEG Announces Strategic Partnership With Nasdaq® To Deliver Enhanced 
 Append: [The European Central Bank Joins LCH RepoClear SA](http://www.mondovisione.com/media-and-resources/news/the-european-central-bank-joins-lch-repoclear-sa-2025116/)
 append_entries: 7
 Finish: 2025-11-06 12:50:43.371112
+------------------------------------------------------
+Started: 2025-11-06 14:24:32.740580
+Existing_entries: 92
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Fiserv Recognized As A Leader In IDC MarketScape For North America Retail Digital Banking Solutions](http://www.mondovisione.com/media-and-resources/news/fiserv-recognized-as-a-leader-in-idc-marketscape-for-north-america-retail-digita-2025116/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tradeweb Reports October 2025 Total Trading Volume Of $65.4 Trillion And Average Daily Volume Of $2.8 Trillion - October 2025 ADV Up 20.7% YoY](http://www.mondovisione.com/media-and-resources/news/tradeweb-reports-october-2025-total-trading-volume-of-654-trillion-and-average-2025116/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group Declares Quarterly Dividend](http://www.mondovisione.com/media-and-resources/news/cme-group-declares-quarterly-dividend-2025116/)
+append_entries: 3
+Finish: 2025-11-06 14:24:34.510110
