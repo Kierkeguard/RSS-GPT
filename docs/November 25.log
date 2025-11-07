@@ -597,3 +597,12 @@ Append: [UK Government Policy Paper - Strategy For Future Retail Payments Infras
 Append: [Bank Of England: Minutes Of The SONIA Stakeholder Advisory Group - 22 October 2025](http://www.mondovisione.com/media-and-resources/news/bank-of-england-minutes-of-the-sonia-stakeholder-advisory-group-22-october-20-2025117/)
 append_entries: 6
 Finish: 2025-11-07 18:33:01.485638
+------------------------------------------------------
+Started: 2025-11-07 20:23:52.462552
+Existing_entries: 127
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CalPERS Investments In Climate Solutions Near $60 Billion](http://www.mondovisione.com/media-and-resources/news/calpers-investments-in-climate-solutions-near-60-billion-2025117/)
+append_entries: 1
+Finish: 2025-11-07 20:23:53.553895
