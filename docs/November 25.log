@@ -606,3 +606,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CalPERS Investments In Climate Solutions Near $60 Billion](http://www.mondovisione.com/media-and-resources/news/calpers-investments-in-climate-solutions-near-60-billion-2025117/)
 append_entries: 1
 Finish: 2025-11-07 20:23:53.553895
+------------------------------------------------------
+Started: 2025-11-07 22:21:58.131056
+Existing_entries: 128
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Federal Reserve Financial Stability Report](http://www.mondovisione.com/media-and-resources/news/federal-reserve-financial-stability-report-2025117/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [A Global Stablecoin Glut: Implications For Monetary Policy, Federal Reserve Governor Stephen I. Miran, At The BCVC Summit 2025, Harvard Club Of New York City, New York, New York](http://www.mondovisione.com/media-and-resources/news/a-global-stablecoin-glut-implications-for-monetary-policy-federal-reserve-gove-2025117/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Fiserv To Participate In Upcoming Investor Conferences](http://www.mondovisione.com/media-and-resources/news/fiserv-to-participate-in-upcoming-investor-conferences-2025117/)
+append_entries: 3
+Finish: 2025-11-07 22:21:59.324452
