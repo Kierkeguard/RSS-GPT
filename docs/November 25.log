@@ -575,3 +575,25 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [GLEIF Announces The Global vLEI Hackathon Winners Driving Resilience In Trade And Supply Chains, And Easing Access To Finance For MSMEs - Winning Solutions Demonstrate How Verifiable Organizational Identity Enables Trade Digitalization And Streamlines Cross-Border Workflows](http://www.mondovisione.com/media-and-resources/news/gleif-announces-the-global-vlei-hackathon-winners-driving-resilience-in-trade-an-2025117/)
 append_entries: 5
 Finish: 2025-11-07 16:27:04.728815
+------------------------------------------------------
+Started: 2025-11-07 18:32:59.815738
+Existing_entries: 121
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TMX Group Consolidated Trading Statistics - October 2025](http://www.mondovisione.com/media-and-resources/news/tmx-group-consolidated-trading-statistics-october-2025-2025117/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIX: Extraordinary Index Adjustments](http://www.mondovisione.com/media-and-resources/news/six-extraordinary-index-adjustments-2025117/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nigerian Exchange Weekly Market Report For The Week Ended 7 November 2025](http://www.mondovisione.com/media-and-resources/news/nigerian-exchange-weekly-market-report-for-the-week-ended-7-november-2025-2025117/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The EBA Calls On Financial And Non-Financial Counterparties Using An Initial Margin Model Based On ISDA SIMM To Seek Authorisation Through Their Competent Authorities](http://www.mondovisione.com/media-and-resources/news/the-eba-calls-on-financial-and-non-financial-counterparties-using-an-initial-mar-2025117/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Government Policy Paper - Strategy For Future Retail Payments Infrastructure](http://www.mondovisione.com/media-and-resources/news/uk-government-policy-paper-strategy-for-future-retail-payments-infrastructure-2025117/)
+Append: [Bank Of England: Minutes Of The SONIA Stakeholder Advisory Group - 22 October 2025](http://www.mondovisione.com/media-and-resources/news/bank-of-england-minutes-of-the-sonia-stakeholder-advisory-group-22-october-20-2025117/)
+append_entries: 6
+Finish: 2025-11-07 18:33:01.485638
