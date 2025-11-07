@@ -487,3 +487,15 @@ Existing_entries: 103
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-11-07 04:28:02.830387
+------------------------------------------------------
+Started: 2025-11-07 06:35:39.582127
+Existing_entries: 103
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Issues New Regulatory Guide For Exchange-Traded Product Issuers](http://www.mondovisione.com/media-and-resources/news/asic-issues-new-regulatory-guide-for-exchange-traded-product-issuers-2025117/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIFMA Statement On Completion Of Quantum Dawn VIII Cybersecurity Exercise](http://www.mondovisione.com/media-and-resources/news/sifma-statement-on-completion-of-quantum-dawn-viii-cybersecurity-exercise-2025117/)
+append_entries: 2
+Finish: 2025-11-07 06:35:40.472332
