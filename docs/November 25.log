@@ -526,3 +526,25 @@ Existing_entries: 110
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-11-07 10:26:14.166607
+------------------------------------------------------
+Started: 2025-11-07 12:49:37.042761
+Existing_entries: 110
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LSEG Launches MCP Server In Databricks Marketplace, Enabling Access To AI-Ready Financial Datasets](http://www.mondovisione.com/media-and-resources/news/lseg-launches-mcp-server-in-databricks-marketplace-enabling-access-to-ai-ready-2025117/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bank Of England: Update To Level A Pricing In The Indexed Long-Term Repo Operation - Market Notice 7 November 2025](http://www.mondovisione.com/media-and-resources/news/bank-of-england-update-to-level-a-pricing-in-the-indexed-long-term-repo-operati-2025117/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Evolving Liquidity Landscape − Speech By Victoria Saporta, Bank Of England Executive Director, Markets, Elaborates On Points Made At The Market Panel Of The ECB Conference On Money Markets 2025](http://www.mondovisione.com/media-and-resources/news/the-evolving-liquidity-landscape-speech-by-victoria-saporta-bank-of-england-e-2025117/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Eurex ETF Options To Provide Access To Europe's Defense Sector](http://www.mondovisione.com/media-and-resources/news/new-eurex-etf-options-to-provide-access-to-europes-defense-sector-2025117/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Initial Access Document On BME Scaleup From Masa Rental SOCIMI](http://www.mondovisione.com/media-and-resources/news/new-initial-access-document-on-bme-scaleup-from-masa-rental-socimi-2025117/)
+Append: [London Stock Exchange Group plc ("LSEG") Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transaction-in-own-shares-2025117/)
+append_entries: 6
+Finish: 2025-11-07 12:49:38.355626
