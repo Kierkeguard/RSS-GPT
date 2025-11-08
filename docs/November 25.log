@@ -621,3 +621,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Fiserv To Participate In Upcoming Investor Conferences](http://www.mondovisione.com/media-and-resources/news/fiserv-to-participate-in-upcoming-investor-conferences-2025117/)
 append_entries: 3
 Finish: 2025-11-07 22:21:59.324452
+------------------------------------------------------
+Started: 2025-11-08 01:47:14.328358
+Existing_entries: 131
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-11-08 01:47:15.279624
