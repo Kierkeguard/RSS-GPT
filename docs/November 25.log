@@ -645,3 +645,12 @@ Existing_entries: 131
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-11-08 06:32:23.392305
+------------------------------------------------------
+Started: 2025-11-08 08:28:06.754230
+Existing_entries: 131
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [B.C. Man And His Company Agree To Pay $4 Million To BC Securities Commission For Fraud, Misrepresentation And Illegal Distribution](http://www.mondovisione.com/media-and-resources/news/bc-man-and-his-company-agree-to-pay-4-million-to-bc-securities-commission-for-2025118/)
+append_entries: 1
+Finish: 2025-11-08 08:28:07.738753
