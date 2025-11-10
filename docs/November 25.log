@@ -844,3 +844,15 @@ Append: [London Stock Exchange Group plc ("LSEG") Transaction In Own Shares](htt
 Append: [Securities Commission Malaysia Launches investED For Returning Women To Support Career Comebacks In Capital Market](http://www.mondovisione.com/media-and-resources/news/sc-launches-invested-for-returning-women-to-support-career-comebacks-in-capital-20251110/)
 append_entries: 9
 Finish: 2025-11-10 10:28:39.618835
+------------------------------------------------------
+Started: 2025-11-10 12:51:54.024244
+Existing_entries: 148
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Eventus Wins Two Best-In-Class Awards For Validus Trade Surveillance Solution In Regulation Asia Awards For Excellence 2025](http://www.mondovisione.com/media-and-resources/news/eventus-wins-two-best-in-class-awards-for-validus-trade-surveillance-solution-in-20251110/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ICE Mortgage Monitor: Number Of Highly Qualified Refinance Candidates Reaches 3.5-Year High Amid Easing Mortgage Rates - Lower mortgage rates are expanding refinance eligibility, especially among recent vintage borrowers](http://www.mondovisione.com/media-and-resources/news/ice-mortgage-monitor-number-of-highly-qualified-refinance-candidates-reaches-3-20251110/)
+append_entries: 2
+Finish: 2025-11-10 12:51:55.267286
