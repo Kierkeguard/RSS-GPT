@@ -883,3 +883,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ICE’s Global Natural Gas Markets At Record Liquidity](http://www.mondovisione.com/media-and-resources/news/ices-global-natural-gas-markets-at-record-liquidity-20251110/)
 append_entries: 3
 Finish: 2025-11-10 16:32:39.558297
+------------------------------------------------------
+Started: 2025-11-10 18:34:47.223526
+Existing_entries: 155
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [S&P Global Adds Robert Moritz To Its Board Of Directors](http://www.mondovisione.com/media-and-resources/news/sandp-global-adds-robert-moritz-to-its-board-of-directors-20251110/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Options Exchange - Increase Maximum Leg Ratio For Complex Orders Rollout Schedule](http://www.mondovisione.com/media-and-resources/news/miax-options-exchange-increase-maximum-leg-ratio-for-complex-orders-rollout-sc-20251110/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER Calls For Balanced Assumptions On Market Flexibility And National Energy Targets In Spain’s National Resource Adequacy Assessment](http://www.mondovisione.com/media-and-resources/news/acer-calls-for-balanced-assumptions-on-market-flexibility-and-national-energy-ta-20251110/)
+append_entries: 3
+Finish: 2025-11-10 18:34:48.483282
