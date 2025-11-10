@@ -856,3 +856,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ICE Mortgage Monitor: Number Of Highly Qualified Refinance Candidates Reaches 3.5-Year High Amid Easing Mortgage Rates - Lower mortgage rates are expanding refinance eligibility, especially among recent vintage borrowers](http://www.mondovisione.com/media-and-resources/news/ice-mortgage-monitor-number-of-highly-qualified-refinance-candidates-reaches-3-20251110/)
 append_entries: 2
 Finish: 2025-11-10 12:51:55.267286
+------------------------------------------------------
+Started: 2025-11-10 14:24:06.499439
+Existing_entries: 150
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Trading Technologies Announces Close Of Investment From Thoma Bravo - Thoma Bravo Joins Existing Investor 7RIDGE To Fuel Continued Growth](http://www.mondovisione.com/media-and-resources/news/trading-technologies-announces-close-of-investment-from-thoma-bravo-thoma-brav-20251110/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [All Eyes On Astana 2025](http://www.mondovisione.com/media-and-resources/news/all-eyes-on-astana-2025-20251110/)
+append_entries: 2
+Finish: 2025-11-10 14:24:07.348554
