@@ -798,3 +798,24 @@ Existing_entries: 134
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-11-10 06:38:10.591341
+------------------------------------------------------
+Started: 2025-11-10 08:33:53.519788
+Existing_entries: 134
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc: Innovation Forum](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-innovation-forum-20251110/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Updates On Key Licensing And Professional Registration Activities](http://www.mondovisione.com/media-and-resources/news/asic-updates-on-key-licensing-and-professional-registration-activities-20251110/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASX Appoints Chief Compliance Officer](http://www.mondovisione.com/media-and-resources/news/asx-appoints-chief-compliance-officer-20251110/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tangible Differences Evident In New Zealand Financial Markets Authority Annual Report And Ease Of Doing Business Survey](http://www.mondovisione.com/media-and-resources/news/tangible-differences-evident-in-new-zealand-financial-markets-authority-annual-r-20251110/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Singapore FinTech Festival 2025 Explores The Technology Blueprint For The Next Decade Of Finance](http://www.mondovisione.com/media-and-resources/news/singapore-fintech-festival-2025-explores-the-technology-blueprint-for-the-next-d-20251110/)
+append_entries: 5
+Finish: 2025-11-10 08:33:54.570722
