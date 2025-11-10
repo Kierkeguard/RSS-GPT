@@ -868,3 +868,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [All Eyes On Astana 2025](http://www.mondovisione.com/media-and-resources/news/all-eyes-on-astana-2025-20251110/)
 append_entries: 2
 Finish: 2025-11-10 14:24:07.348554
+------------------------------------------------------
+Started: 2025-11-10 16:32:38.651613
+Existing_entries: 152
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NGX Advances Capital Market Access With Ellah Lakes' ₦235 Billion Equity Offer](http://www.mondovisione.com/media-and-resources/news/ngx-advances-capital-market-access-with-ellah-lakes-235-billion-equity-offer-20251110/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [U.S. Treasury Central Clearing Survey: U.S. Firms Have High Degree Of Confidence In Readiness While Europe And Asia Lag, Regulatory Clarity Is A Key Factor](http://www.mondovisione.com/media-and-resources/news/us-treasury-central-clearing-survey-us-firms-have-high-degree-of-confidence-20251110/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ICE’s Global Natural Gas Markets At Record Liquidity](http://www.mondovisione.com/media-and-resources/news/ices-global-natural-gas-markets-at-record-liquidity-20251110/)
+append_entries: 3
+Finish: 2025-11-10 16:32:39.558297
