@@ -904,3 +904,25 @@ Existing_entries: 158
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-11-10 20:28:29.797232
+------------------------------------------------------
+Started: 2025-11-10 22:23:23.045828
+Existing_entries: 158
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Miami International Holdings Announces Expanded Roles For Shelly Brown And Joseph W. Ferraro - New Appointments To Support Strategic Growth Initiatives In Futures](http://www.mondovisione.com/media-and-resources/news/miami-international-holdings-announces-expanded-roles-for-shelly-brown-and-josep-20251110/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Pearl Options Exchange - 10G ULL Extranet And MIAX Options Exchanges Shared 1G LL Extranet - Network Analytics Equipment Upgrade](http://www.mondovisione.com/media-and-resources/news/miax-pearl-options-exchange-10g-ull-extranet-and-miax-options-exchanges-shared-20251110/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ISDA And Capgemini Publish Paper Giving Industry Perspectives On The ISDA DRR](http://www.mondovisione.com/media-and-resources/news/isda-and-capgemini-publish-paper-giving-industry-perspectives-on-the-isda-drr-20251110/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nigerian Stocks Hold Firm Despite Mild Sell-Offs](http://www.mondovisione.com/media-and-resources/news/nigerian-stocks-hold-firm-despite-mild-sell-offs-20251110/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bank Of England: Minutes Of The Money Market Committee Meeting – September 2025](http://www.mondovisione.com/media-and-resources/news/bank-of-england-minutes-of-the-money-market-committee-meeting-september-2025-20251110/)
+Append: [ISDA Wins Regulation Asia’s Outstanding Contribution To Regulatory Reform Award](http://www.mondovisione.com/media-and-resources/news/isda-wins-regulation-asias-outstanding-contribution-to-regulatory-reform-award-20251110/)
+append_entries: 6
+Finish: 2025-11-10 22:23:23.941448
