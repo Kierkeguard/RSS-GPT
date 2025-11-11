@@ -1002,3 +1002,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [FIA Tech Adds Execution And Clearing Cost Analytics To Trade Data Network](http://www.mondovisione.com/media-and-resources/news/fia-tech-adds-execution-and-clearing-cost-analytics-to-trade-data-network-20251111/)
 append_entries: 3
 Finish: 2025-11-11 12:50:29.564407
+------------------------------------------------------
+Started: 2025-11-11 14:25:07.986440
+Existing_entries: 176
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [S&P Global To Present At J.P. Morgan 2025 Ultimate Services Investor Conference On November 18, 2025](http://www.mondovisione.com/media-and-resources/news/sandp-global-to-present-at-jp-morgan-2025-ultimate-services-investor-conference-20251111/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ClearToken Secures FCA Authorisation To Launch - A Landmark Regulated Digital Asset Delivery Vs. Payment (DvP) Settlement Service](http://www.mondovisione.com/media-and-resources/news/cleartoken-secures-fca-authorisation-to-launch-a-landmark-regulated-digital-as-20251111/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Hashgraph Association Unveils Its Global Membership Program Unlocking Ecosystem Development, Partnership Engagement, And Community Collaboration](http://www.mondovisione.com/media-and-resources/news/hashgraph-association-unveils-its-global-membership-program-unlocking-ecosystem-20251111/)
+append_entries: 3
+Finish: 2025-11-11 14:25:09.246649
