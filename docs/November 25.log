@@ -987,3 +987,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [London Stock Exchange Group plc ("LSEG") Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transaction-in-own-shares-20251111/)
 append_entries: 3
 Finish: 2025-11-11 10:27:28.268014
+------------------------------------------------------
+Started: 2025-11-11 12:50:28.593928
+Existing_entries: 173
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Building The Mortgage Market Of Tomorrow - Speech By Nikhil Rathi, UK Financial Conduct Authority Chief Executive At The L&G Mortgage Club's 30th Anniversary Conference](http://www.mondovisione.com/media-and-resources/news/building-the-mortgage-market-of-tomorrow-speech-by-nikhil-rathi-uk-financial-20251111/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Carmine Salute Joins Pirum To Accelerate North American Expansion - Recognized Strategic Sales Leader Carmine Salute Joins Pirum As Head Of Commercial Development, Americas, To Accelerate Growth Across The Region](http://www.mondovisione.com/media-and-resources/news/carmine-salute-joins-pirum-to-accelerate-north-american-expansion-recognized-s-20251111/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FIA Tech Adds Execution And Clearing Cost Analytics To Trade Data Network](http://www.mondovisione.com/media-and-resources/news/fia-tech-adds-execution-and-clearing-cost-analytics-to-trade-data-network-20251111/)
+append_entries: 3
+Finish: 2025-11-11 12:50:29.564407
