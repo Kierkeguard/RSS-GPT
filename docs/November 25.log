@@ -1046,3 +1046,18 @@ Append: [Borsa Istanbul: Change Of Trading Principles For Warrants And Certifica
 Append: [Management Of NextVision Opens Trading On Tel Aviv Stock Exchange To Mark Its Inclusion In The TA-35 Index](http://www.mondovisione.com/media-and-resources/news/management-of-nextvision-opens-trading-on-tel-aviv-stock-exchange-to-mark-its-in-20251111/)
 append_entries: 7
 Finish: 2025-11-11 18:34:10.582462
+------------------------------------------------------
+Started: 2025-11-11 20:26:29.765968
+Existing_entries: 186
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Edun Reassures Investors, Pledges Balanced Capital Gains Tax Outcomes As NGX Lists MREIF](http://www.mondovisione.com/media-and-resources/news/edun-reassures-investors-pledges-balanced-capital-gains-tax-outcomes-as-ngx-lis-20251111/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIFMA Welcomes Progress Towards Reopening Government](http://www.mondovisione.com/media-and-resources/news/sifma-welcomes-progress-towards-reopening-government-20251111/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ISDA And The Credit Derivatives Governance Committee Issue Invitation To Tender For DC Administrator Role](http://www.mondovisione.com/media-and-resources/news/isda-and-the-credit-derivatives-governance-committee-issue-invitation-to-tender-20251111/)
+append_entries: 3
+Finish: 2025-11-11 20:26:30.688903
