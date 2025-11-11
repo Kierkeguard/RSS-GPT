@@ -972,3 +972,18 @@ Append: [Montréal Exchange Interest Rate Derivative Market  Closed Today, Novem
 Append: [ASIC Drives Car Finance Providers To Improve Consumer Outcomes](http://www.mondovisione.com/media-and-resources/news/asic-drives-car-finance-providers-to-improve-consumer-outcomes-20251111/)
 append_entries: 6
 Finish: 2025-11-11 08:32:18.422157
+------------------------------------------------------
+Started: 2025-11-11 10:27:26.992076
+Existing_entries: 170
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [IOSCO Publishes Final Report On Financial Asset Tokenization](http://www.mondovisione.com/media-and-resources/news/iosco-publishes-final-report-on-financial-asset-tokenization-20251111/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Samsung Active Asset Management Launches KoAct US Biohealthcare Active ETF, Benchmarking The Solactive US Biohealthcare Index](http://www.mondovisione.com/media-and-resources/news/samsung-active-asset-management-launches-koact-us-biohealthcare-active-etf-benc-20251111/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc ("LSEG") Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transaction-in-own-shares-20251111/)
+append_entries: 3
+Finish: 2025-11-11 10:27:28.268014
