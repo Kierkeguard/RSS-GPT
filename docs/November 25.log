@@ -1023,3 +1023,26 @@ Existing_entries: 179
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-11-11 16:31:34.157203
+------------------------------------------------------
+Started: 2025-11-11 18:34:09.456782
+Existing_entries: 179
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Ontario Securities Commission Investor Warnings And Alerts For October 21 – November 11, 2025](http://www.mondovisione.com/media-and-resources/news/ontario-securities-commission-investor-warnings-and-alerts-for-october-21-nove-20251111/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BIS, South African Reserve Bank Announce Winners Of G20 TechSprint](http://www.mondovisione.com/media-and-resources/news/bis-south-african-reserve-bank-announce-winners-of-g20-techsprint-20251111/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Winners Of The European Small And Mid-Cap Awards 2025 Announced](http://www.mondovisione.com/media-and-resources/news/european-small-and-mid-cap-awards-2025-the-winners-winners-of-the-european-sma-20251111/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Raising Standards In Transition Finance: Clarity, Coherence, Collaboration - Speech By Alicia Kedzierski, UK Financial Conduct Authority Head Of Department, Sustainable Finance Division, At The Loan Market Association's Sustainable Finance Conference](http://www.mondovisione.com/media-and-resources/news/raising-standards-in-transition-finance-clarity-coherence-collaboration-spe-20251111/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Exchange Of Letters Between The Bank Of England Governor And The Chancellor On The Asset Purchase Facility - November 2025](http://www.mondovisione.com/media-and-resources/news/exchange-of-letters-between-the-bank-of-england-governor-and-the-chancellor-on-t-20251111/)
+Append: [Borsa Istanbul: Change Of Trading Principles For Warrants And Certificates](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-change-of-trading-principles-for-warrants-and-certificates-20251111/)
+Append: [Management Of NextVision Opens Trading On Tel Aviv Stock Exchange To Mark Its Inclusion In The TA-35 Index](http://www.mondovisione.com/media-and-resources/news/management-of-nextvision-opens-trading-on-tel-aviv-stock-exchange-to-mark-its-in-20251111/)
+append_entries: 7
+Finish: 2025-11-11 18:34:10.582462
