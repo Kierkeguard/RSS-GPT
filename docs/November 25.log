@@ -950,3 +950,25 @@ Existing_entries: 164
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-11-11 06:36:10.317893
+------------------------------------------------------
+Started: 2025-11-11 08:32:17.130588
+Existing_entries: 164
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CoinShares Fund Flows: Persistent Outflows Amid U.S. Weakness, But Altcoins Defy The Trend](http://www.mondovisione.com/media-and-resources/news/coinshares-fund-flows-persistent-outflows-amid-us-weakness-but-altcoins-defy-20251111/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Derivatives Service Bureau (DSB) Wins 'Outstanding Regulatory Initiative Of The Year, Capital Markets’ At The Regulation Asia Awards For Excellence 2025](http://www.mondovisione.com/media-and-resources/news/derivatives-service-bureau-dsb-wins-outstanding-regulatory-initiative-of-the-20251111/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BMLL Selected By EuroCTP To Supply Data Quality Calibration For European Consolidated Tape Initiative](http://www.mondovisione.com/media-and-resources/news/bmll-selected-by-euroctp-to-supply-data-quality-calibration-for-european-consoli-20251111/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Association Of National Numbering Agencies (ANNA) Wins ‘Best Reference Data Provider’ And ‘Digital Assets Industry Collaboration Of The Year’ At The Regulation Asia Awards For Excellence 2025](http://www.mondovisione.com/media-and-resources/news/the-association-of-national-numbering-agencies-anna-wins-best-reference-data-20251111/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Montréal Exchange Interest Rate Derivative Market  Closed Today, November 11, 2025](http://www.mondovisione.com/media-and-resources/news/montral-exchange-interest-rate-derivative-market-closed-today-november-11-20-20251111/)
+Append: [ASIC Drives Car Finance Providers To Improve Consumer Outcomes](http://www.mondovisione.com/media-and-resources/news/asic-drives-car-finance-providers-to-improve-consumer-outcomes-20251111/)
+append_entries: 6
+Finish: 2025-11-11 08:32:18.422157
