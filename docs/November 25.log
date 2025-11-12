@@ -1201,3 +1201,15 @@ Append: [The EBA Supports The NGFS Declaration On The Economic Cost Of Climate I
 Append: [The EBA Consults On Guidelines On Supervisory Independence](http://www.mondovisione.com/media-and-resources/news/the-eba-consults-on-guidelines-on-supervisory-independence-20251112/)
 append_entries: 6
 Finish: 2025-11-12 18:32:58.126461
+------------------------------------------------------
+Started: 2025-11-12 20:27:27.788046
+Existing_entries: 215
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Securities And Exchange Commission’s Approach To Digital Assets: Inside “Project Crypto”, Paul S. Atkins, SEC Chairman, Federal Reserve Bank Of Philadelphia, Nov. 12, 2025](http://www.mondovisione.com/media-and-resources/news/the-securities-and-exchange-commissions-approach-to-digital-assets-inside-pro-20251112/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bank Of England: Strengthening Market Resilience: Navigating Evolving Dynamics In Sovereign Markets − Speech By Lee Foulger - Given At AFME's 20th Annual European Government Bond Conference](http://www.mondovisione.com/media-and-resources/news/bank-of-england-strengthening-market-resilience-navigating-evolving-dynamics-i-20251112/)
+append_entries: 2
+Finish: 2025-11-12 20:27:28.690089
