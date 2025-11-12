@@ -1157,3 +1157,25 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [UK Financial Conduct Authority Partners With Singapore To Drive Growth And AI Innovation](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-partners-with-singapore-to-drive-growth-and-ai-in-20251112/)
 append_entries: 2
 Finish: 2025-11-12 14:25:28.985171
+------------------------------------------------------
+Started: 2025-11-12 16:33:11.254803
+Existing_entries: 203
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Haruko Integrates With EDX To Enhance Risk And Portfolio Management For Spot And Perpetual Futures Trading](http://www.mondovisione.com/media-and-resources/news/haruko-integrates-with-edx-to-enhance-risk-and-portfolio-management-for-spot-and-20251112/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TMX Group Equity Financing Statistics – October 2025](http://www.mondovisione.com/media-and-resources/news/tmx-group-equity-financing-statistics-october-2025-20251112/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Trading Technologies Partners With TokWise To Accelerate Adoption Of Intraday Spot Power Trading In Europe - TT® Platform To Provide High-Speed Order Routing For TokWise's Portfolio Management Solution](http://www.mondovisione.com/media-and-resources/news/trading-technologies-partners-with-tokwise-to-accelerate-adoption-of-intraday-sp-20251112/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [AuditBoard Report: Internal Audit Profession Must Embrace AI To Effectively Navigate The  Era Of Hyper Volatility](http://www.mondovisione.com/media-and-resources/news/auditboard-report-internal-audit-profession-must-embrace-ai-to-effectively-nav-20251112/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Securities Commission Malaysia Charges Former Chief Financial Officer For Causing Wrongful Loss To AT Systematization Berhad](http://www.mondovisione.com/media-and-resources/news/securities-commission-malaysia-charges-former-chief-financial-officer-for-causin-20251112/)
+Append: [University Students Win RM50,000 In Securities Commission Malaysia’s COFAR Challenge  - Student Innovation Tackle Climate Risks On Carey Island Through Real-World Adaptation Solutions](http://www.mondovisione.com/media-and-resources/news/university-students-win-rm50000-in-securities-commission-malaysias-cofar-chall-20251112/)
+append_entries: 6
+Finish: 2025-11-12 16:33:12.687533
