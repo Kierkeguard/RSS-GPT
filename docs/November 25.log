@@ -1097,3 +1097,15 @@ Existing_entries: 193
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-11-12 04:29:27.845952
+------------------------------------------------------
+Started: 2025-11-12 06:36:37.924120
+Existing_entries: 193
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [AI And Central Banking, Federal Reserve Governor Michael S. Barr, At The Singapore Fintech Festival, Singapore](http://www.mondovisione.com/media-and-resources/news/ai-and-central-banking-federal-reserve-governor-michael-s-barr-at-the-singapo-20251112/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX Makes Strategic Investment In CMU OmniClear Holdings To Accelerate Development Of Hong Kong’s FIC Ecosystem](http://www.mondovisione.com/media-and-resources/news/hkex-makes-strategic-investment-in-cmu-omniclear-holdings-to-accelerate-developm-20251112/)
+append_entries: 2
+Finish: 2025-11-12 06:36:39.172221
