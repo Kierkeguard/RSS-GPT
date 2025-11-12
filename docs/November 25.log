@@ -1145,3 +1145,15 @@ Existing_entries: 201
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-11-12 12:52:14.532819
+------------------------------------------------------
+Started: 2025-11-12 14:25:27.682586
+Existing_entries: 201
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Deutsche Börse Group: Business Indicators For October 2025](http://www.mondovisione.com/media-and-resources/news/deutsche-brse-group-business-indicators-for-october-2025-20251112/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Partners With Singapore To Drive Growth And AI Innovation](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-partners-with-singapore-to-drive-growth-and-ai-in-20251112/)
+append_entries: 2
+Finish: 2025-11-12 14:25:28.985171
