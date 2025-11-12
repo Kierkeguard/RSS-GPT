@@ -1109,3 +1109,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [HKEX Makes Strategic Investment In CMU OmniClear Holdings To Accelerate Development Of Hong Kong’s FIC Ecosystem](http://www.mondovisione.com/media-and-resources/news/hkex-makes-strategic-investment-in-cmu-omniclear-holdings-to-accelerate-developm-20251112/)
 append_entries: 2
 Finish: 2025-11-12 06:36:39.172221
+------------------------------------------------------
+Started: 2025-11-12 08:33:21.999776
+Existing_entries: 195
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc ("LSEG") Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transaction-in-own-shares-20251112/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [High-Value VC Investments Concentrate Within Top 10 Markets In Q1-Q3 2025 As US Extends Dominance, Reveals GlobalData](http://www.mondovisione.com/media-and-resources/news/high-value-vc-investments-concentrate-within-top-10-markets-in-q1-q3-2025-as-us-20251112/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Dubai Financial Services Authority AI Survey: Generative AI Adoption Has Nearly Tripled Within The DIFC In Last 12 Months As Governance Continues To Develop](http://www.mondovisione.com/media-and-resources/news/new-dubai-financial-services-authority-ai-survey-generative-ai-adoption-has-nea-20251112/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Annual Forum 2025: Opening Remarks - Opening Remarks By ASIC Chair Joe Longo At The ASIC Annual Forum In Melbourne On 12 November 2025](http://www.mondovisione.com/media-and-resources/news/asic-annual-forum-2025-opening-remarks-opening-remarks-by-asic-chair-joe-long-20251112/)
+append_entries: 4
+Finish: 2025-11-12 08:33:23.168892
