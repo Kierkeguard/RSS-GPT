@@ -1139,3 +1139,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [IOSCO Publishes Final Report On Neo-Brokers](http://www.mondovisione.com/media-and-resources/news/osco-publishes-final-report-on-neo-brokers-20251112/)
 append_entries: 2
 Finish: 2025-11-12 10:27:30.424408
+------------------------------------------------------
+Started: 2025-11-12 12:52:13.192761
+Existing_entries: 201
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-11-12 12:52:14.532819
