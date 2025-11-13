@@ -1240,3 +1240,26 @@ Existing_entries: 218
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-11-13 04:29:44.344212
+------------------------------------------------------
+Started: 2025-11-13 06:36:43.266136
+Existing_entries: 218
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: ["Creating The Future Of Finance: A Journey Of Innovation And Collaboration" - Remarks By Mr Chia Der Jiun, Managing Director, Monetary Authority Of Singapore, At The Singapore FinTech Festival 2025 On 13 November 2025](http://www.mondovisione.com/media-and-resources/news/creating-the-future-of-finance-a-journey-of-innovation-and-collaboration-re-20251113/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Annual Forum 2025: The Future Of Capital Markets Panel](http://www.mondovisione.com/media-and-resources/news/asic-annual-forum-2025-the-future-of-capital-markets-panel-20251113/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Hong Kong Securities And Futures Commission Unveils Enhancements To Facilitate Client Interaction Under Cross-Boundary Wealth Management Connect](http://www.mondovisione.com/media-and-resources/news/hong-kong-securities-and-futures-commission-unveils-enhancements-to-facilitate-c-20251113/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Zealand Financial Markets Authority: Former NZ Financial Adviser Pleads Guilty To Breaching Stop Order, Will Be Sentenced](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-former-nz-financial-adviser-pleads-guil-20251113/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Announces 2026 Enforcement Priorities](http://www.mondovisione.com/media-and-resources/news/asic-announces-2026-enforcement-priorities-20251113/)
+Append: [Japan Fintech Week 2026 And Newsletter](http://www.mondovisione.com/media-and-resources/news/japan-fintech-week-2026-and-newsletter-20251113/)
+Append: [Remarks At The 2025 U.S. Treasury Market Conference, SEC Commissioner Mark T. Uyeda, New York, NY, Nov. 12, 2025](http://www.mondovisione.com/media-and-resources/news/remarks-at-the-2025-us-treasury-market-conference-sec-commissioner-mark-t-uy-20251113/)
+append_entries: 7
+Finish: 2025-11-13 06:36:44.505335
