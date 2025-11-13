@@ -1338,3 +1338,25 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Qatar Stock Exchange: QE Index, QE Al Rayan Islamic Index And QE All Share Constituents (December 1st, 2025) QE Index](http://www.mondovisione.com/media-and-resources/news/qatar-stock-exchange-qe-index-qe-al-rayan-islamic-index-and-qe-all-share-const-20251113/)
 append_entries: 3
 Finish: 2025-11-13 18:34:19.196182
+------------------------------------------------------
+Started: 2025-11-13 20:27:22.927126
+Existing_entries: 238
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Deputy Director Of Enforcement Antonia M. Apps To Conclude Her Tenure At The SEC](http://www.mondovisione.com/media-and-resources/news/deputy-director-of-enforcement-antonia-m-apps-to-conclude-her-tenure-at-the-sec-20251113/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Federal Bank Regulatory Agencies Release 2024 Small Business, Small Farm, And Community Development Lending Data](http://www.mondovisione.com/media-and-resources/news/us-federal-bank-regulatory-agencies-release-2024-small-business-small-farm-and-20251113/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Sergiy Kaspirovych Sentenced For Making False Statements To The Ontario Securities Commission](http://www.mondovisione.com/media-and-resources/news/sergiy-kaspirovych-sentenced-for-making-false-statements-to-the-ontario-securiti-20251113/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIFMA Fixed Income Market Close Recommendations In The U.S., The U.K., And Japan For Thanksgiving Day](http://www.mondovisione.com/media-and-resources/news/sifma-fixed-income-market-close-recommendations-in-the-us-the-uk-and-japan-20251113/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Canadian Securities Administrators Launches Consultation On Proposed Amendments To Non-GAAP And Other Financial Measures Disclosure Requirements In Connection With New IFRS Accounting Standard](http://www.mondovisione.com/media-and-resources/news/canadian-securities-administrators-launches-consultation-on-proposed-amendments-20251113/)
+Append: [Bank Of England: Megan Greene Reappointed As External Member Of The Monetary Policy Committee](http://www.mondovisione.com/media-and-resources/news/bank-of-england-megan-greene-reappointed-as-external-member-of-the-monetary-pol-20251113/)
+append_entries: 6
+Finish: 2025-11-13 20:27:24.076167
