@@ -1323,3 +1323,18 @@ Existing_entries: 235
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-11-13 16:29:50.470384
+------------------------------------------------------
+Started: 2025-11-13 18:34:18.263380
+Existing_entries: 235
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Amman Stock Exchange Weekly Summary](http://www.mondovisione.com/media-and-resources/news/amman-stock-exchange-weekly-summary-20251113/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bank Of England: Minutes Of The Market Participants Group Meeting – 12 November 2025](http://www.mondovisione.com/media-and-resources/news/bank-of-england-minutes-of-the-market-participants-group-meeting-12-november-20251113/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Qatar Stock Exchange: QE Index, QE Al Rayan Islamic Index And QE All Share Constituents (December 1st, 2025) QE Index](http://www.mondovisione.com/media-and-resources/news/qatar-stock-exchange-qe-index-qe-al-rayan-islamic-index-and-qe-all-share-const-20251113/)
+append_entries: 3
+Finish: 2025-11-13 18:34:19.196182
