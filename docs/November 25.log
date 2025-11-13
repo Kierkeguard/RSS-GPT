@@ -1360,3 +1360,18 @@ Append: [Canadian Securities Administrators Launches Consultation On Proposed Am
 Append: [Bank Of England: Megan Greene Reappointed As External Member Of The Monetary Policy Committee](http://www.mondovisione.com/media-and-resources/news/bank-of-england-megan-greene-reappointed-as-external-member-of-the-monetary-pol-20251113/)
 append_entries: 6
 Finish: 2025-11-13 20:27:24.076167
+------------------------------------------------------
+Started: 2025-11-13 22:23:12.209356
+Existing_entries: 244
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Executives To Present At Upcoming Investor Conferences](http://www.mondovisione.com/media-and-resources/news/nasdaq-executives-to-present-at-upcoming-investor-conferences-20251113/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Robinhood Markets, Inc. Reports October 2025 Operating Data](http://www.mondovisione.com/media-and-resources/news/robinhood-markets-inc-reports-october-2025-operating-data-20251113/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Financial Data For Futures Commission Merchants Update](http://www.mondovisione.com/media-and-resources/news/cftc-financial-data-for-futures-commission-merchants-update-20251113/)
+append_entries: 3
+Finish: 2025-11-13 22:23:14.237099
