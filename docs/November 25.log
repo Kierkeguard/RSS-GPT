@@ -1222,3 +1222,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [FanDuel And CME Group Unveil New Prediction Markets Platform To Launch In December](http://www.mondovisione.com/media-and-resources/news/fanduel-and-cme-group-unveil-new-prediction-markets-platform-to-launch-in-decemb-20251112/)
 append_entries: 1
 Finish: 2025-11-12 22:23:21.076442
+------------------------------------------------------
+Started: 2025-11-13 01:55:56.605551
+Existing_entries: 218
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-11-13 01:55:57.888291
