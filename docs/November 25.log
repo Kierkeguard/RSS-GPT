@@ -1293,3 +1293,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [London Stock Exchange Group plc ("LSEG") Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transaction-in-own-shares-20251113/)
 append_entries: 4
 Finish: 2025-11-13 10:27:32.675792
+------------------------------------------------------
+Started: 2025-11-13 12:52:37.528289
+Existing_entries: 231
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Pirum TradeConnect Facilitated Its First Trading Transactions, With Trades Printed By Citi And Other Global Financial Institutions](http://www.mondovisione.com/media-and-resources/news/pirum-tradeconnect-facilitated-its-first-trading-transactions-with-trades-print-20251113/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Ebury Launches A New Mobile App To Help Clients Manage Global Cash Flows On The Go](http://www.mondovisione.com/media-and-resources/news/ebury-launches-a-new-mobile-app-to-help-clients-manage-global-cash-flows-on-the-20251113/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Review Finds CFD Providers May Be Failing To Deliver Fair Value To Consumers](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-review-finds-cfd-providers-may-be-failing-to-deli-20251113/)
+append_entries: 3
+Finish: 2025-11-13 12:52:38.501611
