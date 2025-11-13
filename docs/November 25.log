@@ -1308,3 +1308,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [UK Financial Conduct Authority Review Finds CFD Providers May Be Failing To Deliver Fair Value To Consumers](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-review-finds-cfd-providers-may-be-failing-to-deli-20251113/)
 append_entries: 3
 Finish: 2025-11-13 12:52:38.501611
+------------------------------------------------------
+Started: 2025-11-13 14:23:03.408322
+Existing_entries: 234
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bright MLS To Integrate ICE’s Paragon Connect Into Its Technology Ecosystem](http://www.mondovisione.com/media-and-resources/news/bright-mls-to-integrate-ices-paragon-connect-into-its-technology-ecosystem-20251113/)
+append_entries: 1
+Finish: 2025-11-13 14:23:04.548282
