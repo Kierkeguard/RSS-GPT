@@ -1275,3 +1275,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Monetary Authority Of Singapore Guidelines For Artificial Intelligence (AI) Risk Management](http://www.mondovisione.com/media-and-resources/news/monetary-authority-of-singapore-guidelines-for-artificial-intelligence-ai-risk-20251113/)
 append_entries: 2
 Finish: 2025-11-13 08:32:28.545522
+------------------------------------------------------
+Started: 2025-11-13 10:27:31.014463
+Existing_entries: 227
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BNY Becomes First Agent Lender To Use Cboe Clear Europe's Securities Financing Transaction Service, Extending Access To UCITS Clients](http://www.mondovisione.com/media-and-resources/news/bny-becomes-first-agent-lender-to-use-cboe-clear-europes-securities-financing-t-20251113/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Register Now For The 7th Annual ETFGI Global ETFs Insights Summit, Canada | Dec 9 | Toronto](http://www.mondovisione.com/media-and-resources/news/register-now-for-the-7th-annual-etfgi-global-etfs-insights-summit-canada-dec-20251113/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Broadridge Appoints Richard Street As Head Of International Sales](http://www.mondovisione.com/media-and-resources/news/broadridge-appoints-richard-street-as-head-of-international-sales-20251113/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc ("LSEG") Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transaction-in-own-shares-20251113/)
+append_entries: 4
+Finish: 2025-11-13 10:27:32.675792
