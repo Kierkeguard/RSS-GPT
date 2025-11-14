@@ -1399,3 +1399,15 @@ Existing_entries: 247
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-11-14 06:36:40.198931
+------------------------------------------------------
+Started: 2025-11-14 08:32:06.919993
+Existing_entries: 247
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Prediction Markets On The Cusp Of Significant Institutional Growth](http://www.mondovisione.com/media-and-resources/news/prediction-markets-on-the-cusp-of-significant-institutional-growth-20251114/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euronext Receives Regulatory Approvals From The Hellenic Capital Market Commission](http://www.mondovisione.com/media-and-resources/news/euronext-receives-regulatory-approvals-from-the-hellenic-capital-market-commissi-20251114/)
+append_entries: 2
+Finish: 2025-11-14 08:32:08.076966
