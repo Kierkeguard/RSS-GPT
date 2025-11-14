@@ -1429,3 +1429,26 @@ Existing_entries: 249
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-11-14 14:23:39.267614
+------------------------------------------------------
+Started: 2025-11-14 16:31:35.945540
+Existing_entries: 249
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Malawi Stock Exchange Weekly Summary Report, 14 November 2025](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-14-november-2025-20251114/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Fiserv Receives 2025 Vets Ready Recognition By Hiring And Supporting Veterans](http://www.mondovisione.com/media-and-resources/news/fiserv-receives-2025-vets-ready-recognition-by-hiring-and-supporting-veterans-20251114/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Energy Exchange ElectronX Raises $30M Series A Round - ElectronX’s Power Derivatives Market Is Backed By An Elite Consortium Of Global Energy, Quantitative Trading, And Technology Venture Capital Firms](http://www.mondovisione.com/media-and-resources/news/energy-exchange-electronx-raises-30m-series-a-round-electronxs-power-derivat-20251114/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Statement Of The U.S. Department Of The Treasury And The Taiwan Central Bank On Exchange Rate Policies](http://www.mondovisione.com/media-and-resources/news/statement-of-the-us-department-of-the-treasury-and-the-taiwan-central-bank-on-20251114/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Securities Commission Malaysia: Better Corporate Governance Adoption by Malaysian PLCs - Several CG Practices, Such As Board Diversity, Still Challenging](http://www.mondovisione.com/media-and-resources/news/securities-commission-malaysia-better-corporate-governance-adoption-by-malaysia-20251114/)
+Append: [Cyprus Stock Exchange Monthly Report - October 2025](http://www.mondovisione.com/media-and-resources/news/cyprus-stock-exchange-monthly-report-october-2025-20251114/)
+Append: [London Stock Exchange Group plc ("LSEG") Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transaction-in-own-shares-20251114/)
+append_entries: 7
+Finish: 2025-11-14 16:31:37.153888
