@@ -1411,3 +1411,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Euronext Receives Regulatory Approvals From The Hellenic Capital Market Commission](http://www.mondovisione.com/media-and-resources/news/euronext-receives-regulatory-approvals-from-the-hellenic-capital-market-commissi-20251114/)
 append_entries: 2
 Finish: 2025-11-14 08:32:08.076966
+------------------------------------------------------
+Started: 2025-11-14 10:26:53.449624
+Existing_entries: 249
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-11-14 10:26:54.427178
