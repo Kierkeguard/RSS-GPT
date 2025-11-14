@@ -1375,3 +1375,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CFTC Financial Data For Futures Commission Merchants Update](http://www.mondovisione.com/media-and-resources/news/cftc-financial-data-for-futures-commission-merchants-update-20251113/)
 append_entries: 3
 Finish: 2025-11-13 22:23:14.237099
+------------------------------------------------------
+Started: 2025-11-14 01:55:03.282379
+Existing_entries: 247
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-11-14 01:55:04.315920
