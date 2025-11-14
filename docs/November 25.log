@@ -1452,3 +1452,26 @@ Append: [Cyprus Stock Exchange Monthly Report - October 2025](http://www.mondovi
 Append: [London Stock Exchange Group plc ("LSEG") Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transaction-in-own-shares-20251114/)
 append_entries: 7
 Finish: 2025-11-14 16:31:37.153888
+------------------------------------------------------
+Started: 2025-11-14 18:34:27.896183
+Existing_entries: 256
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nigerian Exchange Weekly Market Report For The Week Ended 14 November 2025](http://www.mondovisione.com/media-and-resources/news/nigerian-exchange-weekly-market-report-for-the-week-ended-14-november-2025-20251114/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Moscow Exchange: Updated Constituents List For OFZ Zero Coupon Yield Curve To Come Into Force On 17 November 2025](http://www.mondovisione.com/media-and-resources/news/moscow-exchange-updated-constituents-list-for-ofz-zero-coupon-yield-curve-to-co-20251114/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority: Statement Of Policy On Statutory Investigations Into Regulatory Failure And Producing Reports](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-statement-of-policy-on-statutory-investigations-20251114/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ETFGI Reports That Assets In The U.S. ETF Industry Reached A Record High Of US$13.08 Trillion At The End Of October](http://www.mondovisione.com/media-and-resources/news/etfgi-reports-that-assets-in-the-us-etf-industry-reached-a-record-high-of-us1-20251114/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Financial Wellbeing Goes Beyond One Size Fits All - Speech By Sarah Pritchard, UK Financial Conduct Authority Deputy Chief Executive, At The Investing And Saving Alliance’s (TISA) Annual Conference](http://www.mondovisione.com/media-and-resources/news/financial-wellbeing-goes-beyond-one-size-fits-all-speech-by-sarah-pritchard-u-20251114/)
+Append: [Borsa Istanbul: Announcement Regarding Changes To The BIST Commodity And Commodity Denominated Securities Indices Methodology](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-announcement-regarding-changes-to-the-bist-commodity-and-commodi-20251114/)
+Append: [Trading Technologies Wins Market Surveillance Solution Of The Year For TT® Trade Surveillance At FOW MENA Awards](http://www.mondovisione.com/media-and-resources/news/trading-technologies-wins-market-surveillance-solution-of-the-year-for-tt-trade-20251114/)
+append_entries: 7
+Finish: 2025-11-14 18:34:29.608740
