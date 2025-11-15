@@ -1511,3 +1511,12 @@ Existing_entries: 263
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-11-15 06:32:58.120499
+------------------------------------------------------
+Started: 2025-11-15 08:28:28.192709
+Existing_entries: 263
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Alberta Securities Commission Provides Reasons For Variation And Extension Of Interim Order Against GIC Capital Corp., Maljaars Financial Inc., Jeff Barrie Wilkie, And Robert Jacob Maljaar](http://www.mondovisione.com/media-and-resources/news/alberta-securities-commission-provides-reasons-for-variation-and-extension-of-in-20251115/)
+append_entries: 1
+Finish: 2025-11-15 08:28:29.662034
