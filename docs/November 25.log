@@ -1520,3 +1520,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Alberta Securities Commission Provides Reasons For Variation And Extension Of Interim Order Against GIC Capital Corp., Maljaars Financial Inc., Jeff Barrie Wilkie, And Robert Jacob Maljaar](http://www.mondovisione.com/media-and-resources/news/alberta-securities-commission-provides-reasons-for-variation-and-extension-of-in-20251115/)
 append_entries: 1
 Finish: 2025-11-15 08:28:29.662034
+------------------------------------------------------
+Started: 2025-11-15 10:22:50.113199
+Existing_entries: 264
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-11-15 10:22:51.654865
