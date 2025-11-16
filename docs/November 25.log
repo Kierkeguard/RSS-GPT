@@ -1613,3 +1613,12 @@ Existing_entries: 265
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-11-16 16:27:19.687980
+------------------------------------------------------
+Started: 2025-11-16 18:31:32.830715
+Existing_entries: 265
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Shiraz Petrochemical Celebrates Listing Anniversary At Tehran Securities Exchange](http://www.mondovisione.com/media-and-resources/news/shiraz-petrochemical-celebrates-listing-anniversary-at-tehran-securities-exchang-20251116/)
+append_entries: 1
+Finish: 2025-11-16 18:31:33.903262
