@@ -1713,3 +1713,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Barings Emerging EMEA Opportunities: South Africa's Macro Foundations Becoming Investable Again](http://www.mondovisione.com/media-and-resources/news/barings-emerging-emea-opportunities-south-africas-macro-foundations-becoming-i-20251117/)
 append_entries: 2
 Finish: 2025-11-17 12:51:10.340504
+------------------------------------------------------
+Started: 2025-11-17 14:24:59.153775
+Existing_entries: 279
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ICE Launches Latest Phase Of Its VaR-Based Portfolio Margining Methodology ICE Risk Model 2 - IRM 2 Now Includes Over 1000 Energy Contracts](http://www.mondovisione.com/media-and-resources/news/ice-launches-latest-phase-of-its-var-based-portfolio-margining-methodology-ice-r-20251117/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CQG And Webull Singapore Partner To Bring Powerful Technology To The Broker's New Futures Trading Offering - CQG Now Supports Trading At Three Webull APAC Subsidiaries](http://www.mondovisione.com/media-and-resources/news/cqg-and-webull-singapore-partner-to-bring-powerful-technology-to-the-brokers-ne-20251117/)
+append_entries: 2
+Finish: 2025-11-17 14:25:00.201335
