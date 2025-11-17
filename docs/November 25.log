@@ -1701,3 +1701,15 @@ Append: [FSB: Practices Paper On The Operationalisation Of Transfer Tools](http:
 Append: [London Stock Exchange Group plc ("LSEG") Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transaction-in-own-shares-20251117/)
 append_entries: 6
 Finish: 2025-11-17 10:27:58.393199
+------------------------------------------------------
+Started: 2025-11-17 12:51:08.789925
+Existing_entries: 277
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Join ACER Webinar: Progress In Europe’s Hydrogen Markets (9 December 2025)](http://www.mondovisione.com/media-and-resources/news/join-acer-webinar-progress-in-europes-hydrogen-markets-9-december-2025-20251117/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Barings Emerging EMEA Opportunities: South Africa's Macro Foundations Becoming Investable Again](http://www.mondovisione.com/media-and-resources/news/barings-emerging-emea-opportunities-south-africas-macro-foundations-becoming-i-20251117/)
+append_entries: 2
+Finish: 2025-11-17 12:51:10.340504
