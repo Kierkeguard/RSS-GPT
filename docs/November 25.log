@@ -1789,3 +1789,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ESMA Identifies Measures To Further Enhance Depositary Supervision](http://www.mondovisione.com/media-and-resources/news/esma-identifies-measures-to-further-enhance-depositary-supervision-20251117/)
 append_entries: 5
 Finish: 2025-11-17 20:27:35.801232
+------------------------------------------------------
+Started: 2025-11-17 22:23:15.235291
+Existing_entries: 297
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Zealand Financial Markets Authority: SGX-DT Review Report](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-sgx-dt-review-report-20251117/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Division Of Examinations Announces 2026 Priorities](http://www.mondovisione.com/media-and-resources/news/sec-division-of-examinations-announces-2026-priorities-20251117/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Case For Continuing Rate Cuts, Federal Reserve Governor Christopher J. Waller, At The Society Of Professional Economists Annual Dinner, London, United Kingdom](http://www.mondovisione.com/media-and-resources/news/the-case-for-continuing-rate-cuts-federal-reserve-governor-christopher-j-walle-20251117/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Swaps Report Update](http://www.mondovisione.com/media-and-resources/news/cftc-swaps-report-update-20251117/)
+append_entries: 4
+Finish: 2025-11-17 22:23:16.144745
