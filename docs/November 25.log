@@ -1664,3 +1664,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [The Amman Stock Exchange Participates With A Number Of Global Exchanges In The "Ring The Bell" Initiative In Support Of Climate And Sustainability Initiatives In 2025](http://www.mondovisione.com/media-and-resources/news/the-amman-stock-exchange-participates-with-a-number-of-global-exchanges-in-the-20251117/)
 append_entries: 2
 Finish: 2025-11-17 06:37:14.484204
+------------------------------------------------------
+Started: 2025-11-17 08:34:52.285152
+Existing_entries: 268
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Betashares Capital Limited Launches Its 100th ETF, The Global Shares ex US ETF, Tracking The Solactive GBS Developed Markets ex United States ex Australia Large & Mid Cap AUD Index](http://www.mondovisione.com/media-and-resources/news/betashares-capital-limited-launches-its-100th-etf-the-global-shares-ex-us-etf-20251117/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SETCarbon Receives TGO Certification, Ready To Establish Thailand’s Centralized Carbon Data Architecture](http://www.mondovisione.com/media-and-resources/news/setcarbon-receives-tgo-certification-ready-to-establish-thailands-centralized-20251117/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [JPX Market Innovation & Research Adds Share Buyback Data And Expands Earnings Announcement Data For J-Quants Pro](http://www.mondovisione.com/media-and-resources/news/jpx-market-innovation-and-research-adds-share-buyback-data-and-expands-earnings-an-20251117/)
+append_entries: 3
+Finish: 2025-11-17 08:34:53.108832
