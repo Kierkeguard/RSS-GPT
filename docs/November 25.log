@@ -1652,3 +1652,15 @@ Existing_entries: 266
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-11-17 04:30:56.309220
+------------------------------------------------------
+Started: 2025-11-17 06:37:12.537364
+Existing_entries: 266
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Joint Statement By Monetary Authority Of Singapore (MAS) & Singapore Police Force (SPF): MAS Imposes Civil Penalty On Mr Ang Yew Jin Eugene for Insider Trading](http://www.mondovisione.com/media-and-resources/news/joint-statement-by-monetary-authority-of-singapore-mas-and-singapore-police-forc-20251117/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Amman Stock Exchange Participates With A Number Of Global Exchanges In The "Ring The Bell" Initiative In Support Of Climate And Sustainability Initiatives In 2025](http://www.mondovisione.com/media-and-resources/news/the-amman-stock-exchange-participates-with-a-number-of-global-exchanges-in-the-20251117/)
+append_entries: 2
+Finish: 2025-11-17 06:37:14.484204
