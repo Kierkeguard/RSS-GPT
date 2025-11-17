@@ -1768,3 +1768,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Management Of Migdal Opens Trading In Celebration Of Its Joining Tel Aviv Stock Exchange’s TA-35 Flagship Index](http://www.mondovisione.com/media-and-resources/news/management-of-migdal-opens-trading-in-celebration-of-its-joining-tel-aviv-stock-20251117/)
 append_entries: 5
 Finish: 2025-11-17 18:34:43.543297
+------------------------------------------------------
+Started: 2025-11-17 20:27:34.856056
+Existing_entries: 292
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Statement On Division Of Corporation Finance’s Announcement On The 14a-8 Process, SEC Commissioner Caroline A. Crenshaw, Nov. 17, 2025](http://www.mondovisione.com/media-and-resources/news/statement-on-division-of-corporation-finances-announcement-on-the-14a-8-process-20251117/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Statement Regarding The SEC Division Of Corporation Finance's Role In The Exchange Act Rule 14a-8 Process For The Current Proxy Season, Division Of Corporation Finance, Nov. 17, 2025](http://www.mondovisione.com/media-and-resources/news/statement-regarding-the-sec-division-of-corporation-finances-role-in-the-exchan-20251117/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority: Update On The Bond Consolidated Tape Provider](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-update-on-the-bond-consolidated-tape-provider-20251117/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Digital Euro: A Collective Step Forward For Europe - Introductory Statement By Piero Cipollone, Member Of The Executive Board Of The ECB, At The Committee On Economic And Monetary Affairs Of The European Parliament](http://www.mondovisione.com/media-and-resources/news/the-digital-euro-a-collective-step-forward-for-europe-introductory-statement-20251117/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESMA Identifies Measures To Further Enhance Depositary Supervision](http://www.mondovisione.com/media-and-resources/news/esma-identifies-measures-to-further-enhance-depositary-supervision-20251117/)
+append_entries: 5
+Finish: 2025-11-17 20:27:35.801232
