@@ -1725,3 +1725,25 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CQG And Webull Singapore Partner To Bring Powerful Technology To The Broker's New Futures Trading Offering - CQG Now Supports Trading At Three Webull APAC Subsidiaries](http://www.mondovisione.com/media-and-resources/news/cqg-and-webull-singapore-partner-to-bring-powerful-technology-to-the-brokers-ne-20251117/)
 append_entries: 2
 Finish: 2025-11-17 14:25:00.201335
+------------------------------------------------------
+Started: 2025-11-17 16:33:21.732642
+Existing_entries: 281
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FIA Announces 2026 Hall Of Fame Inductees](http://www.mondovisione.com/media-and-resources/news/fia-announces-2026-hall-of-fame-inductees-20251117/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Expo 2025 Opening Remarks: Unlocking Innovation – A Force Multiplier For Our Markets - Opening Remarks Of Walt Lukken, President And CEO Of FIA, At The Futures & Options Expo In Chicago On 17 November 2025](http://www.mondovisione.com/media-and-resources/news/expo-2025-opening-remarks-unlocking-innovation-a-force-multiplier-for-our-mar-20251117/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cboe Futures Exchange To Offer Trading In Continuous Futures For Bitcoin And Ether On December 15](http://www.mondovisione.com/media-and-resources/news/cboe-futures-exchange-to-offer-trading-in-continuous-futures-for-bitcoin-and-eth-20251117/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Economic Outlook And Monetary Policy, Federal Reserve Vice Chair Philip N. Jefferson, At The Federal Reserve Bank Of Kansas City, Kansas City, Missouri](http://www.mondovisione.com/media-and-resources/news/economic-outlook-and-monetary-policy-federal-reserve-vice-chair-philip-n-jeffe-20251117/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Statement Regarding The Division Of Corporation Finance's Role In The Exchange Act Rule 14a-8 Process For The Current Proxy Season, SEC Division Of Corporation Finance, Nov. 17, 2025](http://www.mondovisione.com/media-and-resources/news/statement-regarding-the-division-of-corporation-finances-role-in-the-exchange-a-20251117/)
+Append: [Arianne M. Collette Joins DTCC As Managing Director And Head Of U.S. Equities](http://www.mondovisione.com/media-and-resources/news/arianne-m-collette-joins-dtcc-as-managing-director-and-head-of-us-equities-20251117/)
+append_entries: 6
+Finish: 2025-11-17 16:33:22.933635
