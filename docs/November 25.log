@@ -1679,3 +1679,25 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [JPX Market Innovation & Research Adds Share Buyback Data And Expands Earnings Announcement Data For J-Quants Pro](http://www.mondovisione.com/media-and-resources/news/jpx-market-innovation-and-research-adds-share-buyback-data-and-expands-earnings-an-20251117/)
 append_entries: 3
 Finish: 2025-11-17 08:34:53.108832
+------------------------------------------------------
+Started: 2025-11-17 10:27:57.067424
+Existing_entries: 271
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [IOSCO Publishes Consultation Report On Valuing Collective Investment Schemes](http://www.mondovisione.com/media-and-resources/news/iosco-publishes-consultation-report-on-valuing-collective-investment-schemes-20251117/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ETFGI Reports That Assets In The European ETF Industry Reached A Record High Of US$3.11 Trillion At The End Of October](http://www.mondovisione.com/media-and-resources/news/etfgi-reports-that-assets-in-the-european-etf-industry-reached-a-record-high-of-20251117/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TP ICAP Digital Assets Comment - Bitcoin's Mass-Liquidation](http://www.mondovisione.com/media-and-resources/news/tp-icap-digital-assets-comment-bitcoins-mass-liquidation-20251117/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Welcomes J.P. Morgan SE As New Issuer Of Warrants And Certificates For The Nordic Markets](http://www.mondovisione.com/media-and-resources/news/nasdaq-welcomes-jp-morgan-se-as-new-issuer-of-warrants-and-certificates-for-th-20251117/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FSB: Practices Paper On The Operationalisation Of Transfer Tools](http://www.mondovisione.com/media-and-resources/news/practices-paper-on-the-operationalisation-of-transfer-toolsfsb-20251117/)
+Append: [London Stock Exchange Group plc ("LSEG") Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transaction-in-own-shares-20251117/)
+append_entries: 6
+Finish: 2025-11-17 10:27:58.393199
