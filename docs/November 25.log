@@ -1891,3 +1891,25 @@ Existing_entries: 315
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-11-18 14:25:25.626948
+------------------------------------------------------
+Started: 2025-11-18 16:34:05.794371
+Existing_entries: 315
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cboe To Launch Trading Of Cboe Magnificent 10 Index Futures And Options On December 8](http://www.mondovisione.com/media-and-resources/news/cboe-to-launch-trading-of-cboe-magnificent-10-index-futures-and-options-on-decem-20251118/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Federal Reserve Board Releases Information Regarding Enhancements To Bank Supervision](http://www.mondovisione.com/media-and-resources/news/federal-reserve-board-releases-information-regarding-enhancements-to-bank-superv-20251118/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Broadridge’s Tokenization Capability Enables Societe Generale’s First U.S. Digital Bond Issuance - First U.S. Digital Bonds Issued As Security Tokens On The Canton Network Blockchain  With Societe Generale-FORGE Acting As Registrar](http://www.mondovisione.com/media-and-resources/news/broadridges-tokenization-capability-enables-societe-generales-first-us-digit-20251118/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Another Strong Quarter Of GPW Group](http://www.mondovisione.com/media-and-resources/news/another-strong-quarter-of-gpw-group-20251118/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [PISCES Operator Approved By UK Financial Conduct Authority In Push For Growth](http://www.mondovisione.com/media-and-resources/news/pisces-operator-approved-by-uk-financial-conduct-authority-in-push-for-growth-20251118/)
+Append: [JP Jenkins Awarded PISCES License](http://www.mondovisione.com/media-and-resources/news/jp-jenkins-awarded-pisces-license-20251118/)
+append_entries: 6
+Finish: 2025-11-18 16:34:06.796468
