@@ -1834,3 +1834,12 @@ Existing_entries: 302
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-11-18 06:35:50.573052
+------------------------------------------------------
+Started: 2025-11-18 08:32:59.804427
+Existing_entries: 302
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CalPERS Board Adopts Streamlined Investment Approach To Seize Market Opportunities - CalPERS Is The First U.S. Pension Fund To Adopt A Total Portfolio Approach](http://www.mondovisione.com/media-and-resources/news/calpers-board-adopts-streamlined-investment-approach-to-seize-market-opportuniti-20251118/)
+append_entries: 1
+Finish: 2025-11-18 08:33:00.819324
