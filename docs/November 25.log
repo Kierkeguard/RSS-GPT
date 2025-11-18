@@ -1885,3 +1885,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ETFGI Reports That Assets In The Canadian ETF Industry Reached A Record US$545.09 Billion At The End Of October](http://www.mondovisione.com/media-and-resources/news/etfgi-reports-that-assets-in-the-canadian-etf-industry-reached-a-record-us5450-20251118/)
 append_entries: 4
 Finish: 2025-11-18 12:51:28.994852
+------------------------------------------------------
+Started: 2025-11-18 14:25:24.258654
+Existing_entries: 315
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-11-18 14:25:25.626948
