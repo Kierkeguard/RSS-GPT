@@ -1807,3 +1807,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CFTC Swaps Report Update](http://www.mondovisione.com/media-and-resources/news/cftc-swaps-report-update-20251117/)
 append_entries: 4
 Finish: 2025-11-17 22:23:16.144745
+------------------------------------------------------
+Started: 2025-11-18 01:54:14.018091
+Existing_entries: 301
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASX Hosts Sixth Markets Day For Charity Event](http://www.mondovisione.com/media-and-resources/news/asx-hosts-sixth-markets-day-for-charity-event-20251117/)
+append_entries: 1
+Finish: 2025-11-18 01:54:15.006636
