@@ -1934,3 +1934,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [The European Supervisory Authorities Designate Critical ICT Third-Party Providers Under The Digital Operational Resilience Act](http://www.mondovisione.com/media-and-resources/news/the-european-supervisory-authorities-designate-critical-ict-third-party-provider-20251118/)
 append_entries: 5
 Finish: 2025-11-18 18:35:59.196621
+------------------------------------------------------
+Started: 2025-11-18 20:29:05.172654
+Existing_entries: 326
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Office Of The Comptroller Of The Currency Confirms Bank Authority To Hold Certain Crypto-Assets As Principal For Purposes Of Paying Crypto-Asset Network Fees](http://www.mondovisione.com/media-and-resources/news/us-office-of-the-comptroller-of-the-currency-confirms-bank-authority-to-hold-cer-20251118/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Ontario Securities Commission Adds 2024 Data To Exempt Market Dashboard](http://www.mondovisione.com/media-and-resources/news/ontario-securities-commission-adds-2024-data-to-exempt-market-dashboard-20251118/)
+append_entries: 2
+Finish: 2025-11-18 20:29:06.158383
