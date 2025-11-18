@@ -1946,3 +1946,25 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Ontario Securities Commission Adds 2024 Data To Exempt Market Dashboard](http://www.mondovisione.com/media-and-resources/news/ontario-securities-commission-adds-2024-data-to-exempt-market-dashboard-20251118/)
 append_entries: 2
 Finish: 2025-11-18 20:29:06.158383
+------------------------------------------------------
+Started: 2025-11-18 22:24:11.474566
+Existing_entries: 328
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC To Resume Publishing COT Reports Wednesday - The Agency Also Announced A “Catch-Up” Publication Schedule To Issue Backlogged Reports](http://www.mondovisione.com/media-and-resources/news/cftc-to-resume-publishing-cot-reports-wednesday-the-agency-also-announced-a-c-20251118/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Intercontinental Exchange President Benjamin Jackson And CFO Warren Gardiner To Present At The UBS Global Technology And AI Conference On December 2](http://www.mondovisione.com/media-and-resources/news/intercontinental-exchange-president-benjamin-jackson-and-cfo-warren-gardiner-to-20251118/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Treasury International Capital Data For August And September](http://www.mondovisione.com/media-and-resources/news/treasury-international-capital-data-for-august-and-september-20251118/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Zealand Financial Markets Authority Issues Revised Educational Information Sheet On Insider Trading](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-issues-revised-educational-information-s-20251118/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Swaps Report Update](http://www.mondovisione.com/media-and-resources/news/cftc-swaps-report-update-20251118/)
+Append: [EACH Suggests Further Enhancing Market Effectiveness And Efficiency While Maintain Robustness In Response To Bank Of England’s Proposals](http://www.mondovisione.com/media-and-resources/news/each-suggests-further-enhancing-market-effectiveness-and-efficiency-while-mainta-20251118/)
+append_entries: 6
+Finish: 2025-11-18 22:24:12.646152
