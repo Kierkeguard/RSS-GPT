@@ -1816,3 +1816,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ASX Hosts Sixth Markets Day For Charity Event](http://www.mondovisione.com/media-and-resources/news/asx-hosts-sixth-markets-day-for-charity-event-20251117/)
 append_entries: 1
 Finish: 2025-11-18 01:54:15.006636
+------------------------------------------------------
+Started: 2025-11-18 03:15:46.903605
+Existing_entries: 302
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-11-18 03:15:47.908400
