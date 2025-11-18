@@ -1913,3 +1913,24 @@ Append: [PISCES Operator Approved By UK Financial Conduct Authority In Push For 
 Append: [JP Jenkins Awarded PISCES License](http://www.mondovisione.com/media-and-resources/news/jp-jenkins-awarded-pisces-license-20251118/)
 append_entries: 6
 Finish: 2025-11-18 16:34:06.796468
+------------------------------------------------------
+Started: 2025-11-18 18:35:58.330495
+Existing_entries: 321
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [AuditBoard's Scenario Planning Enables Banks To Quantify And Test Thousands Of Risk Outcomes](http://www.mondovisione.com/media-and-resources/news/auditboards-scenario-planning-enables-banks-to-quantify-and-test-thousands-of-r-20251118/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Acting CFTC Chairman Caroline D. Pham To Keynote At FIA’s Futures & Options Expo](http://www.mondovisione.com/media-and-resources/news/acting-cftc-chairman-caroline-d-pham-to-keynote-at-fias-futures-and-options-expo-20251118/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Case For Strong, Effective Banking Supervision, Federal Reserve Governor Michael S. Barr, At The Alan Meltzer Speaker Series, Kogod School Of Business, American University, Washington, D.C.](http://www.mondovisione.com/media-and-resources/news/the-case-for-strong-effective-banking-supervision-federal-reserve-governor-mic-20251118/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Natasha Cazenave’s Mandate As ESMA Executive Director Renewed](http://www.mondovisione.com/media-and-resources/news/natasha-cazenaves-mandate-as-esma-executive-director-renewed-20251118/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The European Supervisory Authorities Designate Critical ICT Third-Party Providers Under The Digital Operational Resilience Act](http://www.mondovisione.com/media-and-resources/news/the-european-supervisory-authorities-designate-critical-ict-third-party-provider-20251118/)
+append_entries: 5
+Finish: 2025-11-18 18:35:59.196621
