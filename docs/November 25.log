@@ -2033,3 +2033,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [London Stock Exchange Group plc ("LSEG") Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transaction-in-own-shares-20251119/)
 append_entries: 4
 Finish: 2025-11-19 10:27:53.303694
+------------------------------------------------------
+Started: 2025-11-19 12:51:48.416890
+Existing_entries: 345
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [DTCC Comment On SEC Exemptive Relief For Dual Mutual Fund/ETF Share Class Structures](http://www.mondovisione.com/media-and-resources/news/dtcc-comment-on-sec-exemptive-relief-for-dual-mutual-fund-etf-share-class-stru-20251119/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CCP Global Submits A Response To The Bank Of England's Consultation Paper "Ensuring The Resilience Of CCPs"](http://www.mondovisione.com/media-and-resources/news/ccp-global-submits-a-response-to-the-bank-of-englands-consultation-paper-ensur-20251119/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Proposes Consolidated Tape To Boost Competitiveness Of UK Equity Markets](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-proposes-consolidated-tape-to-boost-competitivene-20251119/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Broadridge And Xceptor Partner To Transform Global Tax Reclaims And Asset Servicing Operations - New Integrated Solution Automates Withholding Tax Relief And Reclaims Processes, Minimizing Risk And Enhancing Compliance Across Global Markets Within Asset Servicing](http://www.mondovisione.com/media-and-resources/news/broadridge-and-xceptor-partner-to-transform-global-tax-reclaims-and-asset-servic-20251119/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LSEG: Post Trade Solutions Launches Market Risk Optimisation For FX Options - Integrating With FXall](http://www.mondovisione.com/media-and-resources/news/lseg-post-trade-solutions-launches-market-risk-optimisation-for-fx-options-in-20251119/)
+append_entries: 5
+Finish: 2025-11-19 12:51:49.464753
