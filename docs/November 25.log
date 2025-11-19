@@ -2118,3 +2118,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Eurex Builds Polish Zloty Swap Market With Major Banks In Response To EMIR 3.0](http://www.mondovisione.com/media-and-resources/news/eurex-builds-polish-zloty-swap-market-with-major-banks-in-response-to-emir-30-20251119/)
 append_entries: 5
 Finish: 2025-11-19 18:35:52.809082
+------------------------------------------------------
+Started: 2025-11-19 20:24:04.753685
+Existing_entries: 366
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Minutes Of The Federal Open Market Committee, October 28-29, 2025](http://www.mondovisione.com/media-and-resources/news/minutes-of-the-federal-open-market-committee-october-28-29-2025-20251119/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Ontario Securities Commission Announces Research Grant Competition](http://www.mondovisione.com/media-and-resources/news/ontario-securities-commission-announces-research-grant-competition-20251119/)
+append_entries: 2
+Finish: 2025-11-19 20:24:05.804486
