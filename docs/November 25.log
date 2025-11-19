@@ -1992,3 +1992,26 @@ Existing_entries: 334
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-11-19 06:36:02.848814
+------------------------------------------------------
+Started: 2025-11-19 08:32:51.136433
+Existing_entries: 334
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ISI Markets Confirms ASEAN Is Now The Global Hub For China's Rerouted Trade](http://www.mondovisione.com/media-and-resources/news/isi-markets-confirms-asean-is-now-the-global-hub-for-chinas-rerouted-trade-20251119/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Stockholm Welcomes Fortinova AB To The Main Market](http://www.mondovisione.com/media-and-resources/news/nasdaq-stockholm-welcomes-fortinova-ab-to-the-main-market-20251119/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Bank Barometer: Swedish Banks’ Lending To The Public Continues To Increase](http://www.mondovisione.com/media-and-resources/news/the-bank-barometer-swedish-banks-lending-to-the-public-continues-to-increase-20251119/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [DIFC Strengthens Global Family Wealth Hub Status With New Programmes And Partnerships](http://www.mondovisione.com/media-and-resources/news/difc-strengthens-global-family-wealth-hub-status-with-new-programmes-and-partner-20251119/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [United States Department of the Treasury Announces Financial And Economic Partnership And Capital Markets Sector Collaboration With Saudi Arabia, Welcomes Additional Arrangements To Strengthen The Economic Ties Between Our Two Countries](http://www.mondovisione.com/media-and-resources/news/united-states-department-of-the-treasury-announces-financial-and-economic-partne-20251119/)
+Append: [Keynote Address By Acting CFTC Chairman Caroline D. Pham, FIA EXPO](http://www.mondovisione.com/media-and-resources/news/keynote-address-by-acting-cftc-chairman-caroline-d-pham-fia-expo-20251119/)
+Append: [AiMi named FIA's 2025 Innovator of the Year  Salient Predictions named as runner-up](http://www.mondovisione.com/media-and-resources/news/aimi-named-fias-2025-innovator-of-the-year-salient-predictions-named-as-runner-20251119/)
+append_entries: 7
+Finish: 2025-11-19 08:32:52.134739
