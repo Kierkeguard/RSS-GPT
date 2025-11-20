@@ -2187,3 +2187,27 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Fair Treatment Of Clients – Autorité des Marchés Financiers Endorses National Segregated Funds Guidance And Will Incorporate It Into Its Frameworks](http://www.mondovisione.com/media-and-resources/news/fair-treatment-of-clients-autorit-des-marchs-financiers-endorses-national-se-20251120/)
 append_entries: 4
 Finish: 2025-11-20 08:33:29.630950
+------------------------------------------------------
+Started: 2025-11-20 10:26:38.758999
+Existing_entries: 375
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LBMA Platinum And Palladium Pricing To Transition From LME In Mid-2026](http://www.mondovisione.com/media-and-resources/news/lbma-platinum-and-palladium-pricing-to-transition-from-lme-in-mid-2026-20251120/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [OpenText Deepens Partnership With Google To Accelerate AI Innovation, Data Security, And Sovereign Cloud Solutions - Expanded Collaboration Introduces New AI-To-AI Solutions, Advanced Data Protection For Retailers, And Sovereign Cloud Integration Across Global Regions](http://www.mondovisione.com/media-and-resources/news/opentext-deepens-partnership-with-google-to-accelerate-ai-innovation-data-secur-20251120/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Government Policy Paper Update: Accelerated Settlement (T+1)](http://www.mondovisione.com/media-and-resources/news/uk-government-policy-paper-update-accelerated-settlement-t1-20251120/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER: €11 Billion Spent EU-Wide On Fragmented Electricity Security-Of-Supply Support In 2024](http://www.mondovisione.com/media-and-resources/news/acer-11-billion-spent-eu-wide-on-fragmented-electricity-security-of-supply-sup-20251120/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LCH SA Signs Cloud Agreement With OVHcloud](http://www.mondovisione.com/media-and-resources/news/lch-sa-signs-cloud-agreement-with-ovhcloud-20251120/)
+Append: [ClearToken Adopts Nasdaq Eqlipse Clearing To Enhance Capital Efficiency In Digital Asset Markets - New Platform Aims To Reduce Risk, Unlock Capital And Streamline Settlement To Develop Digital Asset Ecosystem](http://www.mondovisione.com/media-and-resources/news/cleartoken-adopts-nasdaq-eqlipse-clearing-to-enhance-capital-efficiency-in-digit-20251120/)
+Append: [Nasdaq Stockholm Welcomes Acast AB To The Main Market](http://www.mondovisione.com/media-and-resources/news/nasdaq-stockholm-welcomes-acast-ab-to-the-main-market-20251120/)
+Append: [London Stock Exchange Group plc ("LSEG") Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transaction-in-own-shares-20251120/)
+append_entries: 8
+Finish: 2025-11-20 10:26:39.735519
