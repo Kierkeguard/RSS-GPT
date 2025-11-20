@@ -2233,3 +2233,15 @@ Append: [Ireland Opens Markets At The London Stock Exchange To Celebrate Deepeni
 Append: [Tokenovate Strengthens Team With Four Strategic Hires To Power Next Stage Of Growth](http://www.mondovisione.com/media-and-resources/news/tokenovate-strengthens-team-with-four-strategic-hires-to-power-next-stage-of-gro-20251120/)
 append_entries: 6
 Finish: 2025-11-20 12:50:39.718354
+------------------------------------------------------
+Started: 2025-11-20 14:25:01.900726
+Existing_entries: 389
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Diversification Deficit: Opening 401(k)s To Private Markets, SEC Commissioner Mark T. Uyeda, Remarks At The ICI Retail Alternatives And Closed-End Funds Conference, New York, NY, Nov. 20, 2025](http://www.mondovisione.com/media-and-resources/news/the-diversification-deficit-opening-401ks-to-private-markets-sec-commissione-20251120/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [OCC Enhances Operational Efficiency With AWS GenAI Solutions - Generative AI Implementation Improves Software Development Operations While Maintaining Rigorous Security Standards](http://www.mondovisione.com/media-and-resources/news/occ-enhances-operational-efficiency-with-aws-genai-solutions-generative-ai-imp-20251120/)
+append_entries: 2
+Finish: 2025-11-20 14:25:02.955454
