@@ -2169,3 +2169,21 @@ Existing_entries: 371
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-11-20 06:35:29.570766
+------------------------------------------------------
+Started: 2025-11-20 08:33:28.491116
+Existing_entries: 371
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Dubai Welcomes USD 500 Million Sukuk Listing By The Islamic Corporation For The Development Of The Private Sector](http://www.mondovisione.com/media-and-resources/news/nasdaq-dubai-welcomes-usd-500-million-sukuk-listing-by-the-islamic-corporation-f-20251120/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [DIFC Innovation Hub And MBRSC Partner To Position Dubai As The Global South’s Leading Hub For SpaceTech Commercialisation, Finance, And Insurance](http://www.mondovisione.com/media-and-resources/news/difc-innovation-hub-and-mbrsc-partner-to-position-dubai-as-the-global-souths-le-20251120/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Extends Disclosure And Reporting Relief For Super Trustees](http://www.mondovisione.com/media-and-resources/news/asic-extends-disclosure-and-reporting-relief-for-super-trustees-20251120/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Fair Treatment Of Clients – Autorité des Marchés Financiers Endorses National Segregated Funds Guidance And Will Incorporate It Into Its Frameworks](http://www.mondovisione.com/media-and-resources/news/fair-treatment-of-clients-autorit-des-marchs-financiers-endorses-national-se-20251120/)
+append_entries: 4
+Finish: 2025-11-20 08:33:29.630950
