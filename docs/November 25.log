@@ -2281,3 +2281,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Amman Stock Exchange Weekly Summary](http://www.mondovisione.com/media-and-resources/news/amman-stock-exchange-weekly-summary-20251120/)
 append_entries: 4
 Finish: 2025-11-20 18:35:39.028718
+------------------------------------------------------
+Started: 2025-11-20 20:28:12.329308
+Existing_entries: 399
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group And CF Benchmarks To Launch CME CF Bitcoin Volatility Indices](http://www.mondovisione.com/media-and-resources/news/cme-group-and-cf-benchmarks-to-launch-cme-cf-bitcoin-volatility-indices-20251120/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Office Of The Comptroller Of The Currency Announces Enforcement Actions For November 2025](http://www.mondovisione.com/media-and-resources/news/us-office-of-the-comptroller-of-the-currency-announces-enforcement-actions-for-n-20251120/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC: Crypto Task Force Roundtable On Financial Surveillance And Privacy](http://www.mondovisione.com/media-and-resources/news/sec-crypto-task-force-roundtable-on-financial-surveillance-and-privacy-20251120/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC, 30 State Regulators Obtain Over $51 Million In Sanctions, Restitution For Victims In California Precious Metals Fraud](http://www.mondovisione.com/media-and-resources/news/cftc-30-state-regulators-obtain-over-51-million-in-sanctions-restitution-for-20251120/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [GreyMile SOCIMI Joins BME Scaleup On November 24](http://www.mondovisione.com/media-and-resources/news/greymile-socimi-joins-bme-scaleup-on-november-24-20251120/)
+append_entries: 5
+Finish: 2025-11-20 20:28:13.531079
