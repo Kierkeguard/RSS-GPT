@@ -2263,3 +2263,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Vermiculus Real-Time Risk Management System Live On MIAX Futures - MIAX Futures Has Expanded Its VeriClear™-Based Clearing System By Integrating A Fully-Fledged Risk Solution With Real-Time Monitoring From Vermiculus](http://www.mondovisione.com/media-and-resources/news/vermiculus-real-time-risk-management-system-live-on-miax-futures-miax-futures-20251120/)
 append_entries: 4
 Finish: 2025-11-20 16:31:58.094534
+------------------------------------------------------
+Started: 2025-11-20 18:35:37.987472
+Existing_entries: 395
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [A Policymaker’s View Of Financial Stability, Federal Reserve Governor Lisa D. Cook, At Georgetown University’s Mcdonough School Of Business Psaros Center For Financial Markets And Policy, Washington, D.C.](http://www.mondovisione.com/media-and-resources/news/a-policymakers-view-of-financial-stability-federal-reserve-governor-lisa-d-co-20251120/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Qatar Stock Exchange Announces The Completion Of The First Fully Marketed Secondary Public Offering For Ooredoo On The Main Market](http://www.mondovisione.com/media-and-resources/news/qatar-stock-exchange-announces-the-completion-of-the-first-fully-marketed-second-20251120/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Qatar Stock Exchange Concludes New York Roadshow At Bank Of America](http://www.mondovisione.com/media-and-resources/news/qatar-stock-exchange-concludes-new-york-roadshow-at-bank-of-america-20251120/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Amman Stock Exchange Weekly Summary](http://www.mondovisione.com/media-and-resources/news/amman-stock-exchange-weekly-summary-20251120/)
+append_entries: 4
+Finish: 2025-11-20 18:35:39.028718
