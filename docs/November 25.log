@@ -2302,3 +2302,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [GreyMile SOCIMI Joins BME Scaleup On November 24](http://www.mondovisione.com/media-and-resources/news/greymile-socimi-joins-bme-scaleup-on-november-24-20251120/)
 append_entries: 5
 Finish: 2025-11-20 20:28:13.531079
+------------------------------------------------------
+Started: 2025-11-20 22:21:22.536359
+Existing_entries: 404
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Swaps Report Update](http://www.mondovisione.com/media-and-resources/news/cftc-swaps-report-update-20251120/)
+append_entries: 1
+Finish: 2025-11-20 22:21:23.661763
