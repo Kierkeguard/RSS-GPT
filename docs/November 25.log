@@ -2395,3 +2395,18 @@ Existing_entries: 415
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-11-21 16:29:35.314398
+------------------------------------------------------
+Started: 2025-11-21 18:31:43.724976
+Existing_entries: 415
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bank Of England: Letters From Andrew Bailey On The Bank’s Black Future Leadership Sponsorship Programme -Letters To Rupert Lowe MP](http://www.mondovisione.com/media-and-resources/news/bank-of-england-letters-from-andrew-bailey-on-the-banks-black-future-leadershi-20251121/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Dubai Financial Market Regulated Short Sell – Weekly Summary - 17th November 2025 To 21st November 2025](http://www.mondovisione.com/media-and-resources/news/dubai-financial-market-regulated-short-sell-weekly-summary-17th-november-202-20251121/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority: Government Publishes Draft Statutory Instrument On T+1 Settlement](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-government-publishes-draft-statutory-instrument-20251121/)
+append_entries: 3
+Finish: 2025-11-21 18:31:44.913629
