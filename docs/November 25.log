@@ -2377,3 +2377,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ACER Launches A Consultation On The EU DSO Entity’s Draft Statutory Documents Updated To Include Gas And Hydrogen](http://www.mondovisione.com/media-and-resources/news/acer-launches-a-consultation-on-the-eu-dso-entitys-draft-statutory-documents-up-20251121/)
 append_entries: 5
 Finish: 2025-11-21 12:49:49.299046
+------------------------------------------------------
+Started: 2025-11-21 14:23:59.922720
+Existing_entries: 413
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Welcoming Remarks, Federal Reserve Governor Michael S. Barr, At The 2025 National College Fed Challenge Finals, Federal Reserve Board, Washington, D.C.](http://www.mondovisione.com/media-and-resources/news/welcoming-remarks-federal-reserve-governor-michael-s-barr-at-the-2025-nationa-20251121/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Malawi Stock Exchange Weekly Summary Report, 21 November 2025](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-21-november-2025-20251121/)
+append_entries: 2
+Finish: 2025-11-21 14:24:01.143329
