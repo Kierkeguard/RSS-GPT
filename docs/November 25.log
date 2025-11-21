@@ -2410,3 +2410,29 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [UK Financial Conduct Authority: Government Publishes Draft Statutory Instrument On T+1 Settlement](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-government-publishes-draft-statutory-instrument-20251121/)
 append_entries: 3
 Finish: 2025-11-21 18:31:44.913629
+------------------------------------------------------
+Started: 2025-11-21 20:27:32.977804
+Existing_entries: 418
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Financial Data For Futures Commission Merchants Update](http://www.mondovisione.com/media-and-resources/news/cftc-financial-data-for-futures-commission-merchants-update-20251121/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Weekly Swaps Report Update](http://www.mondovisione.com/media-and-resources/news/cftc-weekly-swaps-report-update-20251121/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Federal Reserve Board Releases Results Of Survey Of Senior Financial Officers At Banks About Their Strategies And Practices For Managing Reserve Balances](http://www.mondovisione.com/media-and-resources/news/federal-reserve-board-releases-results-of-survey-of-senior-financial-officers-at-20251121/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Federal Reserve Board Announces It Will Extend Until February 21, 2026, The Comment Period On Proposal To Improve Stress Test Model And Scenario Transparency And Accountability](http://www.mondovisione.com/media-and-resources/news/federal-reserve-board-announces-it-will-extend-until-february-21-2026-the-comm-20251121/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Charges Two Men, Their Unregistered Commodity Pool With Futures Fraud, Registration Violations](http://www.mondovisione.com/media-and-resources/news/cftc-charges-two-men-their-unregistered-commodity-pool-with-futures-fraud-regi-20251121/)
+Append: [Ontario Securities Commission: Michael Aonso Of Strike Holdings Inc. Sentenced To 90 Days In Jail For Securities Act Offences](http://www.mondovisione.com/media-and-resources/news/ontario-securities-commission-michael-aonso-of-strike-holdings-inc-sentenced-t-20251121/)
+Append: [Nasdaq Announces Semi-Annual Changes To OMX Stockholm 30™ Index](http://www.mondovisione.com/media-and-resources/news/nasdaq-announces-semi-annual-changes-to-omx-stockholm-30-index-20251121/)
+Append: [Nasdaq Announces Semi-Annual Changes To OMX Stockholm Benchmark™ Index](http://www.mondovisione.com/media-and-resources/news/nasdaq-announces-semi-annual-changes-to-omx-stockholm-benchmark-index-20251121/)
+Append: [Nasdaq Announces Semi-Annual Changes To The OMX Iceland 15™ Index](http://www.mondovisione.com/media-and-resources/news/nasdaq-announces-semi-annual-changes-to-the-omx-iceland-15-index-20251121/)
+Append: [Nasdaq Announces Semi-Annual Changes To The OMX Copenhagen Benchmark™ Index](http://www.mondovisione.com/media-and-resources/news/nasdaq-announces-semi-annual-changes-to-the-omx-copenhagen-benchmark-index-20251121/)
+append_entries: 10
+Finish: 2025-11-21 20:27:33.905201
