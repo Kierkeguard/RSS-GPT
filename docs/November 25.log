@@ -2356,3 +2356,24 @@ Existing_entries: 408
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-11-21 10:26:22.503515
+------------------------------------------------------
+Started: 2025-11-21 12:49:48.104398
+Existing_entries: 408
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Eventus Wins Best Trade Surveillance Solution At RegTech Insight Awards USA 2025](http://www.mondovisione.com/media-and-resources/news/eventus-wins-best-trade-surveillance-solution-at-regtech-insight-awards-usa-2025-20251121/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Transaction Reporting Proposals To Save Firms £100m A Year](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-transaction-reporting-proposals-to-save-firms-10-20251121/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Virtual Remarks At The Harvard Law School Program On International Financial Systems, 2025 Japan – U.S. Symposium, SEC Commissioner Mark T. Uyeda, Karuizawa, Japan, Nov. 21, 2025](http://www.mondovisione.com/media-and-resources/news/virtual-remarks-at-the-harvard-law-school-program-on-international-financial-sys-20251121/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FSB Encourages The Netherlands To Continue Strengthening Cyber Resilience In Its Financial Sector](http://www.mondovisione.com/media-and-resources/news/fsb-encourages-the-netherlands-to-continue-strengthening-cyber-resilience-in-its-20251121/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER Launches A Consultation On The EU DSO Entity’s Draft Statutory Documents Updated To Include Gas And Hydrogen](http://www.mondovisione.com/media-and-resources/news/acer-launches-a-consultation-on-the-eu-dso-entitys-draft-statutory-documents-up-20251121/)
+append_entries: 5
+Finish: 2025-11-21 12:49:49.299046
