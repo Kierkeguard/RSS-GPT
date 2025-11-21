@@ -2311,3 +2311,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CFTC Swaps Report Update](http://www.mondovisione.com/media-and-resources/news/cftc-swaps-report-update-20251120/)
 append_entries: 1
 Finish: 2025-11-20 22:21:23.661763
+------------------------------------------------------
+Started: 2025-11-21 01:53:34.646000
+Existing_entries: 405
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-11-21 01:53:35.589226
