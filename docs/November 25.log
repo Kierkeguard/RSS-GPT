@@ -2484,3 +2484,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CFTC Staff Issues CPO No-Action Letter](http://www.mondovisione.com/media-and-resources/news/cftc-staff-issues-cpo-no-action-letter-20251122/)
 append_entries: 1
 Finish: 2025-11-22 08:29:20.227315
+------------------------------------------------------
+Started: 2025-11-22 10:22:56.794399
+Existing_entries: 432
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-11-22 10:22:57.660032
