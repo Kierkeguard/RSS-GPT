@@ -2697,3 +2697,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ATHEX Mid Cap Conference 2025 Concluded Amid Strong Participation](http://www.mondovisione.com/media-and-resources/news/athex-mid-cap-conference-2025-concluded-amid-strong-participation-20251124/)
 append_entries: 4
 Finish: 2025-11-24 18:36:06.447048
+------------------------------------------------------
+Started: 2025-11-24 20:27:55.023478
+Existing_entries: 449
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group Cryptocurrency Complex Reaches All-Time Daily Volume Record](http://www.mondovisione.com/media-and-resources/news/cme-group-cryptocurrency-complex-reaches-all-time-daily-volume-record-20251124/)
+append_entries: 1
+Finish: 2025-11-24 20:27:56.241429
