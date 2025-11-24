@@ -2610,3 +2610,12 @@ Existing_entries: 434
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-11-24 04:37:12.781755
+------------------------------------------------------
+Started: 2025-11-24 06:37:15.120819
+Existing_entries: 434
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Proposes To Remake Relief For Fundraising And Mergers And Acquisitions](http://www.mondovisione.com/media-and-resources/news/asic-proposes-to-remake-relief-for-fundraising-and-mergers-and-acquisitions-20251124/)
+append_entries: 1
+Finish: 2025-11-24 06:37:16.396191
