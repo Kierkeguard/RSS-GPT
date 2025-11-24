@@ -2679,3 +2679,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [View The Agenda | Register Now To Attend ETFGI's 7th Annual ETFGI Global ETFs Insights Summit – Canada On Tuesday, Dec 9th In Toronto](http://www.mondovisione.com/media-and-resources/news/view-the-agenda-register-now-to-attend-etfgis-7th-annual-etfgi-global-etfs-in-20251124/)
 append_entries: 3
 Finish: 2025-11-24 16:28:23.185799
+------------------------------------------------------
+Started: 2025-11-24 18:36:05.471759
+Existing_entries: 445
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group U.S. Treasury Open Interest Hits Record Of 35 Million Contracts - Second-Highest Interest Rate Daily Volume On November 21](http://www.mondovisione.com/media-and-resources/news/cme-group-us-treasury-open-interest-hits-record-of-35-million-contracts-seco-20251124/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Athens Exchange Group Financial Results 9M 2025](http://www.mondovisione.com/media-and-resources/news/athens-exchange-group-financial-results-9m-2025-20251124/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Dubai Financial Market Provides Update On Today’s Trading Session](http://www.mondovisione.com/media-and-resources/news/dubai-financial-market-provides-update-on-todays-trading-session-20251124/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ATHEX Mid Cap Conference 2025 Concluded Amid Strong Participation](http://www.mondovisione.com/media-and-resources/news/athex-mid-cap-conference-2025-concluded-amid-strong-participation-20251124/)
+append_entries: 4
+Finish: 2025-11-24 18:36:06.447048
