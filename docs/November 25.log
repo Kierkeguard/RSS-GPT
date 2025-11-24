@@ -2655,3 +2655,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Morgan McKinley And Vacancysoft Risk And Compliance Report: Fintech Overtakes Banks In Risk Hiring As Sector Surges 26% - Governance Investment Rebalances As Fintech Eclipses Banks](http://www.mondovisione.com/media-and-resources/news/morgan-mckinley-and-vacancysoft-risk-and-compliance-report-fintech-overtakes-ba-20251124/)
 append_entries: 2
 Finish: 2025-11-24 12:52:44.589766
+------------------------------------------------------
+Started: 2025-11-24 14:25:50.601446
+Existing_entries: 441
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CCP Global Publishes A Position Paper On Central Bank Deposit Account Access For CCPs](http://www.mondovisione.com/media-and-resources/news/ccp-global-publishes-a-position-paper-on-central-bank-deposit-account-access-for-20251124/)
+append_entries: 1
+Finish: 2025-11-24 14:25:51.556054
