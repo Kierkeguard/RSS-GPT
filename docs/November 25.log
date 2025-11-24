@@ -2664,3 +2664,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CCP Global Publishes A Position Paper On Central Bank Deposit Account Access For CCPs](http://www.mondovisione.com/media-and-resources/news/ccp-global-publishes-a-position-paper-on-central-bank-deposit-account-access-for-20251124/)
 append_entries: 1
 Finish: 2025-11-24 14:25:51.556054
+------------------------------------------------------
+Started: 2025-11-24 16:28:21.946667
+Existing_entries: 442
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BlackRock And AccessFintech Announce Strategic Partnership To Enhance Post-Trade Connectivity And Workflows](http://www.mondovisione.com/media-and-resources/news/blackrock-and-accessfintech-announce-strategic-partnership-to-enhance-post-trade-20251124/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Piero Cipollone:, Member Of The Executive Board Of The ECB, Central Bank Money For The Digital Era: Our Strategy In Response To Digitalisation And Fragmentation](http://www.mondovisione.com/media-and-resources/news/piero-cipollone-member-of-the-executive-board-of-the-ecb-central-bank-money-f-20251124/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [View The Agenda | Register Now To Attend ETFGI's 7th Annual ETFGI Global ETFs Insights Summit – Canada On Tuesday, Dec 9th In Toronto](http://www.mondovisione.com/media-and-resources/news/view-the-agenda-register-now-to-attend-etfgis-7th-annual-etfgi-global-etfs-in-20251124/)
+append_entries: 3
+Finish: 2025-11-24 16:28:23.185799
