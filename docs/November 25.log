@@ -2619,3 +2619,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ASIC Proposes To Remake Relief For Fundraising And Mergers And Acquisitions](http://www.mondovisione.com/media-and-resources/news/asic-proposes-to-remake-relief-for-fundraising-and-mergers-and-acquisitions-20251124/)
 append_entries: 1
 Finish: 2025-11-24 06:37:16.396191
+------------------------------------------------------
+Started: 2025-11-24 08:35:18.248274
+Existing_entries: 435
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc ("LSEG") Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transaction-in-own-shares-20251124/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Community Chest HKEX Gong Run Raises HK$9.7 Million For Charity](http://www.mondovisione.com/media-and-resources/news/the-community-chest-hkex-gong-run-raises-hk97-million-for-charity-20251124/)
+append_entries: 2
+Finish: 2025-11-24 08:35:19.174669
