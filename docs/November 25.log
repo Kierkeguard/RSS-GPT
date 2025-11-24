@@ -2706,3 +2706,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CME Group Cryptocurrency Complex Reaches All-Time Daily Volume Record](http://www.mondovisione.com/media-and-resources/news/cme-group-cryptocurrency-complex-reaches-all-time-daily-volume-record-20251124/)
 append_entries: 1
 Finish: 2025-11-24 20:27:56.241429
+------------------------------------------------------
+Started: 2025-11-24 22:23:00.853977
+Existing_entries: 450
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Intercontinental Exchange Chair & CEO Jeffrey C. Sprecher To Present At The Goldman Sachs Financial Services Conference On December 9](http://www.mondovisione.com/media-and-resources/news/intercontinental-exchange-chair-and-ceo-jeffrey-c-sprecher-to-present-at-the-gold-20251124/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Options: Amendment To Rule 1703 Regarding Reporting Of Bona Fide Market Making Exception To The Consolidated Audit Trail](http://www.mondovisione.com/media-and-resources/news/miax-options-amendment-to-rule-1703-regarding-reporting-of-bona-fide-market-mak-20251124/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Weekly Swaps Report Update](http://www.mondovisione.com/media-and-resources/news/cftc-weekly-swaps-report-update-20251124/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Office Of The Comptroller Of The Currency Announces Additional Actions To Support Community Banks And Reduce Regulatory Burden](http://www.mondovisione.com/media-and-resources/news/us-office-of-the-comptroller-of-the-currency-announces-additional-actions-to-sup-20251124/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Year-End SIFMA Economist Roundtable Survey Forecasts 4Q/4Q 2.2% Real GDP Growth And One To Two Fed Cuts In 2026](http://www.mondovisione.com/media-and-resources/news/year-end-sifma-economist-roundtable-survey-forecasts-4q4q-22-real-gdp-growth-20251124/)
+append_entries: 5
+Finish: 2025-11-24 22:23:01.895401
