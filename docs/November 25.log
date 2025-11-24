@@ -2643,3 +2643,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Euronext Strengthens Its Support To European Strategic Autonomy With The Launch Of The European Aerospace And Defence Growth Hub](http://www.mondovisione.com/media-and-resources/news/euronext-strengthens-its-support-to-european-strategic-autonomy-with-the-launch-20251124/)
 append_entries: 2
 Finish: 2025-11-24 10:28:38.231875
+------------------------------------------------------
+Started: 2025-11-24 12:52:43.464788
+Existing_entries: 439
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER To Decide On Amending The European Resource Adequacy Assessment Methodology To Streamline Approval Of Capacity Mechanisms](http://www.mondovisione.com/media-and-resources/news/acer-to-decide-on-amending-the-european-resource-adequacy-assessment-methodology-20251124/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Morgan McKinley And Vacancysoft Risk And Compliance Report: Fintech Overtakes Banks In Risk Hiring As Sector Surges 26% - Governance Investment Rebalances As Fintech Eclipses Banks](http://www.mondovisione.com/media-and-resources/news/morgan-mckinley-and-vacancysoft-risk-and-compliance-report-fintech-overtakes-ba-20251124/)
+append_entries: 2
+Finish: 2025-11-24 12:52:44.589766
