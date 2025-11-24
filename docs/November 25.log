@@ -2631,3 +2631,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [The Community Chest HKEX Gong Run Raises HK$9.7 Million For Charity](http://www.mondovisione.com/media-and-resources/news/the-community-chest-hkex-gong-run-raises-hk97-million-for-charity-20251124/)
 append_entries: 2
 Finish: 2025-11-24 08:35:19.174669
+------------------------------------------------------
+Started: 2025-11-24 10:28:37.201627
+Existing_entries: 437
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Digital Asset Appoints Odette Rodrigues As CFO, Advancing Leadership Team For Next Phase Of Growth - Emnet Rios Promoted To Chief Operating Officer To Drive Global Operational Scale And Execution](http://www.mondovisione.com/media-and-resources/news/digital-asset-appoints-odette-rodrigues-as-cfo-advancing-leadership-team-for-ne-20251124/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euronext Strengthens Its Support To European Strategic Autonomy With The Launch Of The European Aerospace And Defence Growth Hub](http://www.mondovisione.com/media-and-resources/news/euronext-strengthens-its-support-to-european-strategic-autonomy-with-the-launch-20251124/)
+append_entries: 2
+Finish: 2025-11-24 10:28:38.231875
