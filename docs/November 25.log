@@ -2820,3 +2820,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [The Stock Exchange of Thailand (SET) Develops Seven Social Enterprises Into Model Ses Via "Refreshing SE For Growth" Program](http://www.mondovisione.com/media-and-resources/news/the-stock-exchange-of-thailand-set-develops-seven-social-enterprises-into-mode-20251125/)
 append_entries: 4
 Finish: 2025-11-25 14:25:34.390813
+------------------------------------------------------
+Started: 2025-11-25 16:33:43.079777
+Existing_entries: 472
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Valereum Secures $200m; Begins US Listing Process](http://www.mondovisione.com/media-and-resources/news/valereum-secures-200m-begins-us-listing-process-20251125/)
+append_entries: 1
+Finish: 2025-11-25 16:33:44.151637
