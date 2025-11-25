@@ -2802,3 +2802,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Intercontinental Exchange (ICE) First Look At Mortgage Performance: Increased Refinance Activity Drives Mortgage Prepayments To 3.5-Year High](http://www.mondovisione.com/media-and-resources/news/intercontinental-exchange-ice-first-look-at-mortgage-performance-increased-re-20251125/)
 append_entries: 1
 Finish: 2025-11-25 12:52:07.230360
+------------------------------------------------------
+Started: 2025-11-25 14:25:33.436022
+Existing_entries: 468
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Investor Advisory Committee To Host Dec. 4 Meeting On Regulatory Changes In Corporate Governance, The Tokenization Of Equity Securities](http://www.mondovisione.com/media-and-resources/news/sec-investor-advisory-committee-to-host-dec-4-meeting-on-regulatory-changes-in-20251125/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [S-RM Expands Global Incident Response Leadership Team, Appointing Casey O’Brien To Global Head Of Incident Response](http://www.mondovisione.com/media-and-resources/news/s-rm-expands-global-incident-response-leadership-team-appointing-casey-obrien-20251125/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Appoints Gunilla Hellqvist As Vice President Of Nasdaq Stockholm](http://www.mondovisione.com/media-and-resources/news/nasdaq-appoints-gunilla-hellqvist-as-vice-president-of-nasdaq-stockholm-20251125/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Stock Exchange of Thailand (SET) Develops Seven Social Enterprises Into Model Ses Via "Refreshing SE For Growth" Program](http://www.mondovisione.com/media-and-resources/news/the-stock-exchange-of-thailand-set-develops-seven-social-enterprises-into-mode-20251125/)
+append_entries: 4
+Finish: 2025-11-25 14:25:34.390813
