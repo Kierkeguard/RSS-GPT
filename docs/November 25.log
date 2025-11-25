@@ -2847,3 +2847,25 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [National Bank Of Kuwait (NBK) Expands Regional Footprint With New DIFC Branch In Dubai](http://www.mondovisione.com/media-and-resources/news/national-bank-of-kuwait-nbk-expands-regional-footprint-with-new-difc-branch-in-20251125/)
 append_entries: 4
 Finish: 2025-11-25 18:37:11.504276
+------------------------------------------------------
+Started: 2025-11-25 20:28:07.966880
+Existing_entries: 477
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Acting CFTC Chairman Caroline D. Pham Seeks Nominations For CFTC CEO Innovation Council By December 8](http://www.mondovisione.com/media-and-resources/news/acting-cftc-chairman-caroline-d-pham-seeks-nominations-for-cftc-ceo-innovation-20251125/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIFMA Statement On SLR Reform Final Rule](http://www.mondovisione.com/media-and-resources/news/sifma-statement-on-slr-reform-final-rule-20251125/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Canadian Securities Administrators Launches New Tool To Make Consultation Process Easier And More Efficient](http://www.mondovisione.com/media-and-resources/news/canadian-securities-administrators-launches-new-tool-to-make-consultation-proces-20251125/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC: Cristina Martin Firvida To Conclude Tenure As Investor Advocate](http://www.mondovisione.com/media-and-resources/news/cristina-martin-firvida-to-conclude-tenure-as-investor-advocate-20251125/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The EBA Releases The Final Technical Package For Its 4.2 Reporting Framework To Ensure Compliance With EU Regulatory Reporting Obligations And To Conclude The Transition To DPM 2.0](http://www.mondovisione.com/media-and-resources/news/the-eba-releases-the-final-technical-package-for-its-42-reporting-framework-to-20251125/)
+Append: [Tokenisation And The Future Of Finance: The Role Of Central Bank Money - Central Bank Of Ireland’s Financial System Conference 2025](http://www.mondovisione.com/media-and-resources/news/tokenisation-and-the-future-of-finance-the-role-of-central-bank-money-central-20251125/)
+append_entries: 6
+Finish: 2025-11-25 20:28:08.910073
