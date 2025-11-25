@@ -2745,3 +2745,12 @@ Existing_entries: 455
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-11-25 04:30:37.940875
+------------------------------------------------------
+Started: 2025-11-25 06:38:12.592191
+Existing_entries: 455
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Reshaping Finance: Regulation For Progress In A World Of Pivots And Perils, Keynote Speech At The Fourth ASEAN+3 Economic Cooperation And Financial Stability Forum, Ms Julia Leung, Hong Kong Securities And Futures Commission Chief Executive Officer, 25 November 2025](http://www.mondovisione.com/media-and-resources/news/reshaping-finance-regulation-for-progress-in-a-world-of-pivots-and-perils-keyn-20251125/)
+append_entries: 1
+Finish: 2025-11-25 06:38:13.661367
