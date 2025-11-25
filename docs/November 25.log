@@ -2829,3 +2829,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Valereum Secures $200m; Begins US Listing Process](http://www.mondovisione.com/media-and-resources/news/valereum-secures-200m-begins-us-listing-process-20251125/)
 append_entries: 1
 Finish: 2025-11-25 16:33:44.151637
+------------------------------------------------------
+Started: 2025-11-25 18:37:10.281785
+Existing_entries: 473
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIX Strengthens Clearing Business With Acquisition Of Baymarkets AS](http://www.mondovisione.com/media-and-resources/news/six-strengthens-clearing-business-with-acquisition-of-baymarkets-as-20251125/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Chair Reflections: Rebalancing Risk - Speech By Ashley Alder, UK Financial Conduct Authority Chair, At The Investment Association Annual 2025 Conference: Scotland](http://www.mondovisione.com/media-and-resources/news/chair-reflections-rebalancing-risk-speech-by-ashley-alder-uk-financial-condu-20251125/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ADX Provides Investors With Access To Global Heavyweights Powering The Growth Of AI With A New ETF](http://www.mondovisione.com/media-and-resources/news/adx-provides-investors-with-access-to-global-heavyweights-powering-the-growth-of-20251125/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [National Bank Of Kuwait (NBK) Expands Regional Footprint With New DIFC Branch In Dubai](http://www.mondovisione.com/media-and-resources/news/national-bank-of-kuwait-nbk-expands-regional-footprint-with-new-difc-branch-in-20251125/)
+append_entries: 4
+Finish: 2025-11-25 18:37:11.504276
