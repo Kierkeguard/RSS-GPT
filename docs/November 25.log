@@ -2921,3 +2921,25 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ASIC Announces Approach To Regulation Of Employee Redundancy Funds](http://www.mondovisione.com/media-and-resources/news/asic-announces-approach-to-regulation-of-employee-redundancy-funds-20251126/)
 append_entries: 1
 Finish: 2025-11-26 06:37:27.874350
+------------------------------------------------------
+Started: 2025-11-26 08:33:25.502616
+Existing_entries: 493
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Deutsche Börse Group And AllUnity Partner To Expand Stablecoin Adoption In Europe](http://www.mondovisione.com/media-and-resources/news/deutsche-brse-group-and-allunity-partner-to-expand-stablecoin-adoption-in-europ-20251126/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Moscow Exchange Announces Results For The Third Quarter Of 2025](http://www.mondovisione.com/media-and-resources/news/moscow-exchange-announces-results-for-the-third-quarter-of-2025-20251126/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc ("LSEG") Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transaction-in-own-shares-20251126/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Securities Commission Malaysia Announces First Cohort Of Regulatory Sandbox Participants](http://www.mondovisione.com/media-and-resources/news/securities-commission-malaysia-announces-first-cohort-of-regulatory-sandbox-part-20251126/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC And APRA: Super Trustees Urged To Accelerate Progress On Retirement Support For Members](http://www.mondovisione.com/media-and-resources/news/asic-and-apra-super-trustees-urged-to-accelerate-progress-on-retirement-support-20251126/)
+Append: [Miami International Holdings Announces Sale Of MIAXdx to Robinhood Markets In Partnership With Susquehanna International Group - Miami International Holdings To Retain 10% Stake In The Exchange And Clearinghouse](http://www.mondovisione.com/media-and-resources/news/miami-international-holdings-announces-sale-of-miaxdx-to-robinhood-markets-in-pa-20251126/)
+append_entries: 6
+Finish: 2025-11-26 08:33:26.583870
