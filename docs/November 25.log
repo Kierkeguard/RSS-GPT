@@ -2994,3 +2994,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [UK Financial Conduct Authority Charges Two Individuals With Insider Dealing](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-charges-two-individuals-with-insider-dealing-20251126/)
 append_entries: 1
 Finish: 2025-11-26 16:32:02.467460
+------------------------------------------------------
+Started: 2025-11-26 18:31:55.608977
+Existing_entries: 508
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Finansinspektionen: Stability In The Financial System (2025:2)](http://www.mondovisione.com/media-and-resources/news/finansinspektionen-stability-in-the-financial-system-20252-20251126/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Dubai Financial Market Holiday - 54th UAE National Day](http://www.mondovisione.com/media-and-resources/news/dubai-financial-market-holiday-54th-uae-national-day-20251126/)
+append_entries: 2
+Finish: 2025-11-26 18:31:56.642453
