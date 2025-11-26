@@ -2985,3 +2985,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [UK Financial Conduct Authority Collaborates With Industry To Help Shape Future Of UK's Crypto Markets](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-collaborates-with-industry-to-help-shape-future-o-20251126/)
 append_entries: 2
 Finish: 2025-11-26 14:26:18.802510
+------------------------------------------------------
+Started: 2025-11-26 16:32:01.290881
+Existing_entries: 507
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Charges Two Individuals With Insider Dealing](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-charges-two-individuals-with-insider-dealing-20251126/)
+append_entries: 1
+Finish: 2025-11-26 16:32:02.467460
