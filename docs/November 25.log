@@ -2912,3 +2912,12 @@ Existing_entries: 492
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-11-26 04:30:44.886586
+------------------------------------------------------
+Started: 2025-11-26 06:37:26.961181
+Existing_entries: 492
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Announces Approach To Regulation Of Employee Redundancy Funds](http://www.mondovisione.com/media-and-resources/news/asic-announces-approach-to-regulation-of-employee-redundancy-funds-20251126/)
+append_entries: 1
+Finish: 2025-11-26 06:37:27.874350
