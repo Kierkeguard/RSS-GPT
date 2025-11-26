@@ -3028,3 +3028,12 @@ Append: [MNI Indicators: Chicago Business Barometer™ - Fell To 36.3 In Novembe
 Append: [The EBA Publishes Its Q2 2025 Dashboard On The Minimum Requirement For Own Funds And Eligible Liabilities](http://www.mondovisione.com/media-and-resources/news/the-eba-publishes-its-q2-2025-dashboard-on-the-minimum-requirement-for-own-funds-20251126/)
 append_entries: 6
 Finish: 2025-11-26 20:26:41.184300
+------------------------------------------------------
+Started: 2025-11-26 22:23:26.101154
+Existing_entries: 516
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Report On U.S. Portfolio Holdings Of Foreign Securities At Year-End 2024](http://www.mondovisione.com/media-and-resources/news/report-on-us-portfolio-holdings-of-foreign-securities-at-year-end-2024-20251126/)
+append_entries: 1
+Finish: 2025-11-26 22:23:27.119023
