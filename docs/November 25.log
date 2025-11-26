@@ -2973,3 +2973,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [The People’s Republic Of China Brings EUR-Denominated Sovereign Bond To LuxSE](http://www.mondovisione.com/media-and-resources/news/the-peoples-republic-of-china-brings-eur-denominated-sovereign-bond-to-luxse-20251126/)
 append_entries: 1
 Finish: 2025-11-26 12:53:33.201529
+------------------------------------------------------
+Started: 2025-11-26 14:26:17.813163
+Existing_entries: 505
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euronext Hosts The Fourth Tech Leaders Forum And Launches A Scale-Up Track To Support High-Growth Private Tech Companies](http://www.mondovisione.com/media-and-resources/news/euronext-hosts-the-fourth-tech-leaders-forum-and-launches-a-scale-up-track-to-su-20251126/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Collaborates With Industry To Help Shape Future Of UK's Crypto Markets](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-collaborates-with-industry-to-help-shape-future-o-20251126/)
+append_entries: 2
+Finish: 2025-11-26 14:26:18.802510
