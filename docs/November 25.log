@@ -2964,3 +2964,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Tehran Securities Exchange Hosts Conference On “Securities Exchanges In The Cryptocurrencies Era”](http://www.mondovisione.com/media-and-resources/news/tehran-securities-exchange-hosts-conference-on-securities-exchanges-in-the-cryp-20251126/)
 append_entries: 5
 Finish: 2025-11-26 10:28:21.508539
+------------------------------------------------------
+Started: 2025-11-26 12:53:32.176713
+Existing_entries: 504
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The People’s Republic Of China Brings EUR-Denominated Sovereign Bond To LuxSE](http://www.mondovisione.com/media-and-resources/news/the-peoples-republic-of-china-brings-eur-denominated-sovereign-bond-to-luxse-20251126/)
+append_entries: 1
+Finish: 2025-11-26 12:53:33.201529
