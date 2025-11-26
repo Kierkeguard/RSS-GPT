@@ -3006,3 +3006,25 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Dubai Financial Market Holiday - 54th UAE National Day](http://www.mondovisione.com/media-and-resources/news/dubai-financial-market-holiday-54th-uae-national-day-20251126/)
 append_entries: 2
 Finish: 2025-11-26 18:31:56.642453
+------------------------------------------------------
+Started: 2025-11-26 20:26:39.894232
+Existing_entries: 510
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Canadian Investment Regulatory Organization: Women And Investing: CIRO’s Investor Advisory Panel Publishes Inaugural Research Report - When Working With Advisors, Women Value Returns, Plain Language, Respect And Understanding Of Life Goals; Confidence Challenges Persist](http://www.mondovisione.com/media-and-resources/news/canadian-investment-regulatory-organization-women-and-investing-ciros-investo-20251126/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ISDA derivatiViews: Doubling Down On Appropriate Trading Book Capital](http://www.mondovisione.com/media-and-resources/news/isda-derivativiews-doubling-down-on-appropriate-trading-book-capital-20251126/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [EBA Peer Review Finds Most Reviewed Supervisors Effectively Implement Gender Diversity Policies In Management Bodies](http://www.mondovisione.com/media-and-resources/news/eba-peer-review-finds-most-reviewed-supervisors-effectively-implement-gender-div-20251126/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The UK Financial Conduct Authority’s Approach To Regulating Cryptoassets And Stablecoins - Speech By David Geale, Executive Director, Payments And Digital Finance And Payment Systems Regulator (PSR) Managing Director, At City & Financial Global](http://www.mondovisione.com/media-and-resources/news/the-uk-financial-conduct-authoritys-approach-to-regulating-cryptoassets-and-sta-20251126/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MNI Indicators: Chicago Business Barometer™ - Fell To 36.3 In November](http://www.mondovisione.com/media-and-resources/news/mni-indicators-chicago-business-barometer-fell-to-363-in-november-20251126/)
+Append: [The EBA Publishes Its Q2 2025 Dashboard On The Minimum Requirement For Own Funds And Eligible Liabilities](http://www.mondovisione.com/media-and-resources/news/the-eba-publishes-its-q2-2025-dashboard-on-the-minimum-requirement-for-own-funds-20251126/)
+append_entries: 6
+Finish: 2025-11-26 20:26:41.184300
