@@ -3079,3 +3079,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [London Stock Exchange Group plc ("LSEG") Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transaction-in-own-shares-20251127/)
 append_entries: 1
 Finish: 2025-11-27 08:33:52.519183
+------------------------------------------------------
+Started: 2025-11-27 10:27:54.840614
+Existing_entries: 521
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The WFE Recommends Standards For Any SEC Exemptive Relief Around Tokenisation](http://www.mondovisione.com/media-and-resources/news/the-wfe-recommends-standards-for-any-sec-exemptive-relief-around-tokenisation-20251127/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER And CEER - Rewarding Flexibility: How Retail Markets Can Empower Electricity Consumers And Improve Affordability](http://www.mondovisione.com/media-and-resources/news/acer-and-ceer-rewarding-flexibility-how-retail-markets-can-empower-electricity-20251127/)
+append_entries: 2
+Finish: 2025-11-27 10:27:56.044277
