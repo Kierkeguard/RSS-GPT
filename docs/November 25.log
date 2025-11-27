@@ -3144,3 +3144,15 @@ Append: [Amman Stock Exchange Weekly Summary](http://www.mondovisione.com/media-
 Append: [London Metal Exchange: 10G Cross Connect Offering And Revised CDC Cross Connect Charging Model](http://www.mondovisione.com/media-and-resources/news/london-metal-exchange-10g-cross-connect-offering-and-revised-cdc-cross-connect-20251127/)
 append_entries: 7
 Finish: 2025-11-27 18:33:50.275043
+------------------------------------------------------
+Started: 2025-11-27 20:24:49.487240
+Existing_entries: 534
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Canadian Securities Regulators Provide Update And Seek Feedback On Multilateral Initiative To Support Capital-Raising By Extending The Role Of Exempt Market Dealers](http://www.mondovisione.com/media-and-resources/news/canadian-securities-regulators-provide-update-and-seek-feedback-on-multilateral-20251127/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Canadian Securities Regulators Publishes Proposed Liquidity Risk Management Amendments And Launches Consultation](http://www.mondovisione.com/media-and-resources/news/canadian-securities-regulators-publishes-proposed-liquidity-risk-management-amen-20251127/)
+append_entries: 2
+Finish: 2025-11-27 20:24:50.521334
