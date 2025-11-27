@@ -3070,3 +3070,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ASIC Proposes Updates To Guidance On Advertising Financial Products And Services](http://www.mondovisione.com/media-and-resources/news/asic-proposes-updates-to-guidance-on-advertising-financial-products-and-services-20251127/)
 append_entries: 3
 Finish: 2025-11-27 06:37:59.995856
+------------------------------------------------------
+Started: 2025-11-27 08:33:51.421306
+Existing_entries: 520
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc ("LSEG") Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transaction-in-own-shares-20251127/)
+append_entries: 1
+Finish: 2025-11-27 08:33:52.519183
