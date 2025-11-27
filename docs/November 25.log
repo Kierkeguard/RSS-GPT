@@ -3121,3 +3121,26 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [As Part Of The Collaboration Between Tel Aviv Stock Exchange With Analyst Mutual Funds TASE Launches 3 Additional Exclusive Tel Bond Indices](http://www.mondovisione.com/media-and-resources/news/as-part-of-the-collaboration-between-tel-aviv-stock-exchange-with-analyst-mutual-20251127/)
 append_entries: 2
 Finish: 2025-11-27 16:30:31.729324
+------------------------------------------------------
+Started: 2025-11-27 18:33:49.149501
+Existing_entries: 527
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FSB Publishes 2025 G-SIB List](http://www.mondovisione.com/media-and-resources/news/fsb-publishes-2025-g-sib-list-20251127/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Finansinspektionen Analysis 51: A Model For Households’ Housing Choices](http://www.mondovisione.com/media-and-resources/news/finansinspektionen-analysis-51-a-model-for-households-housing-choices-20251127/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Johan Almenberg Appointed New Director General Of Finansinspektionen](http://www.mondovisione.com/media-and-resources/news/johan-almenberg-appointed-new-director-general-of-finansinspektionen-20251127/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Finansinspektionen Analysis 52: Stress Test Of Banks’ Lending To Non-Financial Firms](http://www.mondovisione.com/media-and-resources/news/finansinspektionen-analysis-52-stress-test-of-banks-lending-to-non-financial-f-20251127/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Capital Requirements For Swedish Banks As Of Q3 2025](http://www.mondovisione.com/media-and-resources/news/capital-requirements-for-swedish-banks-as-of-q3-2025-20251127/)
+Append: [Amman Stock Exchange Weekly Summary](http://www.mondovisione.com/media-and-resources/news/amman-stock-exchange-weekly-summary-20251127/)
+Append: [London Metal Exchange: 10G Cross Connect Offering And Revised CDC Cross Connect Charging Model](http://www.mondovisione.com/media-and-resources/news/london-metal-exchange-10g-cross-connect-offering-and-revised-cdc-cross-connect-20251127/)
+append_entries: 7
+Finish: 2025-11-27 18:33:50.275043
