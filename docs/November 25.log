@@ -3091,3 +3091,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ACER And CEER - Rewarding Flexibility: How Retail Markets Can Empower Electricity Consumers And Improve Affordability](http://www.mondovisione.com/media-and-resources/news/acer-and-ceer-rewarding-flexibility-how-retail-markets-can-empower-electricity-20251127/)
 append_entries: 2
 Finish: 2025-11-27 10:27:56.044277
+------------------------------------------------------
+Started: 2025-11-27 12:52:13.533044
+Existing_entries: 523
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority: Arrest Made In Suspected Market Manipulation Case](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-arrest-made-in-suspected-market-manipulation-cas-20251127/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TISCO And XO Win Best CEO Awards Along With 38 Listed Companies As Sustainability Models](http://www.mondovisione.com/media-and-resources/news/tisco-and-xo-win-best-ceo-awards-along-with-38-listed-companies-as-sustainabilit-20251127/)
+append_entries: 2
+Finish: 2025-11-27 12:52:14.565174
