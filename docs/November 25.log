@@ -3055,3 +3055,18 @@ Existing_entries: 517
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-11-27 04:30:26.528084
+------------------------------------------------------
+Started: 2025-11-27 06:37:59.098075
+Existing_entries: 517
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Revised Lists Of The Moscow Exchange Indices Announced](http://www.mondovisione.com/media-and-resources/news/revised-lists-of-the-moscow-exchange-indices-announced-20251127/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Joint Association Of Banks In Singapore- Monetary Authority Of Singapore Response To Two Letters On Delays In Banks Processing Local Fund Transfers Due To Anti-Scam Measures - The Straits Times, 13 October And 4 November 2025](http://www.mondovisione.com/media-and-resources/news/joint-association-of-banks-in-singapore-monetary-authority-of-singapore-respons-20251127/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Proposes Updates To Guidance On Advertising Financial Products And Services](http://www.mondovisione.com/media-and-resources/news/asic-proposes-updates-to-guidance-on-advertising-financial-products-and-services-20251127/)
+append_entries: 3
+Finish: 2025-11-27 06:37:59.995856
