@@ -3109,3 +3109,15 @@ Existing_entries: 525
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-11-27 14:24:54.696038
+------------------------------------------------------
+Started: 2025-11-27 16:30:30.492981
+Existing_entries: 525
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Deutsche Börse AG: Exclusive Discussions Regarding Possible Acquisition Of Allfunds](http://www.mondovisione.com/media-and-resources/news/deutsche-brse-ag-exclusive-discussions-regarding-possible-acquisition-of-allfu-20251127/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [As Part Of The Collaboration Between Tel Aviv Stock Exchange With Analyst Mutual Funds TASE Launches 3 Additional Exclusive Tel Bond Indices](http://www.mondovisione.com/media-and-resources/news/as-part-of-the-collaboration-between-tel-aviv-stock-exchange-with-analyst-mutual-20251127/)
+append_entries: 2
+Finish: 2025-11-27 16:30:31.729324
