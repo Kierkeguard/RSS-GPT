@@ -3249,3 +3249,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [4th Morgan Stanley And Athens Stock Exchange Greek Investment Conference](http://www.mondovisione.com/media-and-resources/news/4th-morgan-stanley-and-athens-stock-exchange-greek-investment-conference-20251128/)
 append_entries: 2
 Finish: 2025-11-28 14:24:31.365602
+------------------------------------------------------
+Started: 2025-11-28 16:30:50.765575
+Existing_entries: 549
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX: Report On Initial Public Offering Applications, Delisting And Suspensions (November 2025)](http://www.mondovisione.com/media-and-resources/news/hkex-report-on-initial-public-offering-applications-delisting-and-suspensions-20251128/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER And ESMA: Algorithmic Trading Tops The Agenda Of The Financial And Energy Regulators’ Forum](http://www.mondovisione.com/media-and-resources/news/acer-and-esma-algorithmic-trading-tops-the-agenda-of-the-financial-and-energy-r-20251128/)
+append_entries: 2
+Finish: 2025-11-28 16:30:51.969937
