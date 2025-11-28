@@ -3180,3 +3180,18 @@ Existing_entries: 536
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-11-28 04:29:55.578241
+------------------------------------------------------
+Started: 2025-11-28 06:37:32.188593
+Existing_entries: 536
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Monetary Authority Of Singapore And Bank Of Japan Renew Bilateral Local Currency Swap Arrangement Until November 2028](http://www.mondovisione.com/media-and-resources/news/monetary-authority-of-singapore-and-bank-of-japan-renew-bilateral-local-currency-20251128/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Calls For Feedback On Stamp Duty And Portfolio Holdings Disclosure Requirements For Super Funds](http://www.mondovisione.com/media-and-resources/news/asic-calls-for-feedback-on-stamp-duty-and-portfolio-holdings-disclosure-requirem-20251128/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BC Securities Commission Alleges Multi-Million Dollar Fraud, Illegal Distribution By B.C. Corporation](http://www.mondovisione.com/media-and-resources/news/bc-securities-commission-alleges-multi-million-dollar-fraud-illegal-distributio-20251128/)
+append_entries: 3
+Finish: 2025-11-28 06:37:32.996669
