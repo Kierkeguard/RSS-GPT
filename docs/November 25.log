@@ -3261,3 +3261,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ACER And ESMA: Algorithmic Trading Tops The Agenda Of The Financial And Energy Regulators’ Forum](http://www.mondovisione.com/media-and-resources/news/acer-and-esma-algorithmic-trading-tops-the-agenda-of-the-financial-and-energy-r-20251128/)
 append_entries: 2
 Finish: 2025-11-28 16:30:51.969937
+------------------------------------------------------
+Started: 2025-11-28 18:33:42.364196
+Existing_entries: 551
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Finansinspektionen: Amendments In The Periodic Reporting On AML/CFT](http://www.mondovisione.com/media-and-resources/news/finansinspektionen-amendments-in-the-periodic-reporting-on-amlcft-20251128/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Globex Platform Is Restored,  Bursa Malaysia Derivatives Trading Expected To Resume On Monday](http://www.mondovisione.com/media-and-resources/news/cme-globex-platform-is-restored-bursa-malaysia-derivatives-trading-expected-to-20251128/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Borsa Istanbul: Market Making Program Changes In Derivatives Market](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-market-making-program-changes-in-derivatives-market-20251128/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Dubai Financial Market Regulated Short Sell – Weekly Summary - 24th November 2025 To 28th November 2025](http://www.mondovisione.com/media-and-resources/news/dubai-financial-market-regulated-short-sell-weekly-summary-24th-november-202-20251128/)
+append_entries: 4
+Finish: 2025-11-28 18:33:43.613932
