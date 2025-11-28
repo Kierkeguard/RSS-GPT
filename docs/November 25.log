@@ -3210,3 +3210,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Trading On Bursa Malaysia Derivatives Market Halted Due To Globex System Outage](http://www.mondovisione.com/media-and-resources/news/trading-on-bursa-malaysia-derivatives-market-halted-due-to-globex-system-outage-20251128/)
 append_entries: 3
 Finish: 2025-11-28 08:33:58.023596
+------------------------------------------------------
+Started: 2025-11-28 10:27:08.014629
+Existing_entries: 542
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LME To Recalibrate Fee Schedule To Support Its Drive For Greater Transparency And Enhanced Electronic Liquidity](http://www.mondovisione.com/media-and-resources/news/lme-to-recalibrate-fee-schedule-to-support-its-drive-for-greater-transparency-an-20251128/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Trading Of Bursa Malaysia Derivatives’ Products On CME Group’s Globex System Remains Halted For The Day](http://www.mondovisione.com/media-and-resources/news/trading-of-bursa-malaysia-derivatives-products-on-cme-groups-globex-system-rem-20251128/)
+append_entries: 2
+Finish: 2025-11-28 10:27:08.885553
