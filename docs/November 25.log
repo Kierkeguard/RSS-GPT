@@ -3279,3 +3279,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Dubai Financial Market Regulated Short Sell – Weekly Summary - 24th November 2025 To 28th November 2025](http://www.mondovisione.com/media-and-resources/news/dubai-financial-market-regulated-short-sell-weekly-summary-24th-november-202-20251128/)
 append_entries: 4
 Finish: 2025-11-28 18:33:43.613932
+------------------------------------------------------
+Started: 2025-11-28 20:26:51.834272
+Existing_entries: 555
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Ontario Securities Commission Seeks Comment On Priorities For 2026-2027](http://www.mondovisione.com/media-and-resources/news/ontario-securities-commission-seeks-comment-on-priorities-for-2026-2027-20251128/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nigerian Exchange Weekly Market Report For Th0e Week Ended 28 November 2025](http://www.mondovisione.com/media-and-resources/news/nigerian-exchange-weekly-market-report-for-th0e-week-ended-28-november-2025-20251128/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Exchange Group - Options Markets - December 1, 2025  Fee Updates](http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-options-markets-december-1-2025-fee-updates-20251128/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Basel Committee Publishes More Details On The 2025 Assessment Of Global Systemically Important Banks](http://www.mondovisione.com/media-and-resources/news/basel-committee-publishes-more-details-on-the-2025-assessment-of-global-systemic-20251128/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Wiener Börse Punsch 2025: Financial Community Signals Support For Inclusive Education And Against Waste](http://www.mondovisione.com/media-and-resources/news/wiener-brse-punsch-2025-financial-community-signals-support-for-inclusive-educ-20251128/)
+append_entries: 5
+Finish: 2025-11-28 20:26:52.756003
