@@ -3411,3 +3411,12 @@ Existing_entries: 561
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-11-30 10:24:06.472719
+------------------------------------------------------
+Started: 2025-11-30 12:46:10.894555
+Existing_entries: 561
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bouali Sina Petrochemical Celebrates IPO Anniversary At Tehran Securities Exchange](http://www.mondovisione.com/media-and-resources/news/bouali-sina-petrochemical-celebrates-ipo-anniversary-at-tehran-securities-exchan-20251130/)
+append_entries: 1
+Finish: 2025-11-30 12:46:12.099997
