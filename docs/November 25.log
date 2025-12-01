@@ -3468,3 +3468,28 @@ Existing_entries: 562
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-12-01 06:40:17.272806
+------------------------------------------------------
+Started: 2025-12-01 08:37:30.887568
+Existing_entries: 562
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc ("LSEG") Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transaction-in-own-shares-2025121/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Japan Exchange Group Trading Overview In November 2025](http://www.mondovisione.com/media-and-resources/news/japan-exchange-group-trading-overview-in-november-2025-2025121/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Issues Final Warning For Urgent Action From Financial Advice Industry](http://www.mondovisione.com/media-and-resources/news/asic-issues-final-warning-for-urgent-action-from-financial-advice-industry-2025121/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tokyo Financial Exchange Trading Volume In Nov 2025](http://www.mondovisione.com/media-and-resources/news/tokyo-financial-exchange-trading-volume-in-nov-2025-2025121/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [JPX Holds 20th General Meeting Of "Council For Eliminating Antisocial Forces In the Exchange Market" With Police Agencies](http://www.mondovisione.com/media-and-resources/news/jpx-holds-20th-general-meeting-of-council-for-eliminating-antisocial-forces-in-2025121/)
+Append: [ASIC Publishes Updated IDR Data Reporting Handbook](http://www.mondovisione.com/media-and-resources/news/asic-publishes-updated-idr-data-reporting-handbook-2025121/)
+Append: [JPX Monthly Headlines - November 2025](http://www.mondovisione.com/media-and-resources/news/jpx-monthly-headlines-november-2025-2025121/)
+Append: [InnovestX Securities Selects ICE To Enhance Pricing, Trading And Risk Analytics, Powering A More Efficient And Scalable Investment Platform](http://www.mondovisione.com/media-and-resources/news/innovestx-securities-selects-ice-to-enhance-pricing-trading-and-risk-analytics-2025121/)
+Append: [Qatar Stock Exchange: QE Index, QE Al Rayan Islamic Index And QE All Share Constituents (December 1st, 2025)](http://www.mondovisione.com/media-and-resources/news/qatar-stock-exchange-qe-index-qe-al-rayan-islamic-index-and-qe-all-share-const-2025121/)
+append_entries: 9
+Finish: 2025-12-01 08:37:32.041942
