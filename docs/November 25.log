@@ -3532,3 +3532,28 @@ Existing_entries: 578
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-12-01 14:27:37.935106
+------------------------------------------------------
+Started: 2025-12-01 16:34:54.531496
+Existing_entries: 578
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Moscow Exchange Trading Volumes In November 2025](http://www.mondovisione.com/media-and-resources/news/moscow-exchange-trading-volumes-in-november-2025-2025121/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Deutsche Börse Trading Volumes In November 2025](http://www.mondovisione.com/media-and-resources/news/deutsche-brse-trading-volumes-in-november-2025-2025121/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Statistics From Nasdaq Nordic Exchange November 2025](http://www.mondovisione.com/media-and-resources/news/statistics-from-nasdaq-nordic-exchange-november-2025-2025121/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FIA Announces New Client Clearing Model In Europe](http://www.mondovisione.com/media-and-resources/news/fia-announces-new-client-clearing-model-in-europe-2025121/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Nordic And Baltic Markets: Trading Statistics November 2025](http://www.mondovisione.com/media-and-resources/news/nasdaq-nordic-and-baltic-markets-trading-statistics-november-2025-2025121/)
+Append: [Nasdaq, Inc. Announces Cash Tender Offers For Up To $95 Million Aggregate Purchase Price Of Outstanding Debt Securitiesfia](http://www.mondovisione.com/media-and-resources/news/nasdaq-inc-announces-cash-tender-offers-for-up-to-95-million-aggregate-purcha-2025121/)
+Append: [Fiserv Appoints Walter Pritchard As Senior Vice President, Head Of Investor Relations](http://www.mondovisione.com/media-and-resources/news/fiserv-appoints-walter-pritchard-as-senior-vice-president-head-of-investor-rela-2025121/)
+Append: [NYSE Texas Reaches Milestone Of 100 Dual Listings](http://www.mondovisione.com/media-and-resources/news/nyse-texas-reaches-milestone-of-100-dual-listings-2025121/)
+Append: [UK Financial Conduct Authority Sets Out Proposals To Make ESG Ratings Transparent, Reliable And Comparable](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-sets-out-proposals-to-make-esg-ratings-transparen-2025121/)
+append_entries: 9
+Finish: 2025-12-01 16:34:55.882285
