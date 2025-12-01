@@ -3581,3 +3581,25 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Regnology Completes Acquisition Of Wolters Kluwer’s Finance, Risk & Regulatory Reporting Business](http://www.mondovisione.com/media-and-resources/news/regnology-completes-acquisition-of-wolters-kluwers-finance-risk-and-regulatory-r-2025121/)
 append_entries: 1
 Finish: 2025-12-01 20:25:53.067674
+------------------------------------------------------
+Started: 2025-12-01 22:23:17.863564
+Existing_entries: 591
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Supervision And Regulation, Federal Reserve Vice Chair For Supervision Michelle W. Bowman, Before The Committee On Financial Services, U.S. House Of Representatives](http://www.mondovisione.com/media-and-resources/news/supervision-and-regulation-federal-reserve-vice-chair-for-supervision-michelle-2025121/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MarketAxess To Participate In The Goldman Sachs Financial Services Conference](http://www.mondovisione.com/media-and-resources/news/marketaxess-to-participate-in-the-goldman-sachs-financial-services-conference-2025121/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Office Of The Comptroller Of The Currency Releases CRA Performance Evaluations For 32 National Banks And Federal Savings Associations](http://www.mondovisione.com/media-and-resources/news/us-office-of-the-comptroller-of-the-currency-releases-cra-performance-evaluation-2025121/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Acting CFTC Chairman Pham Announces Reforms To Wells Process, Amends Rules Of Practice And Rules Relating To Investigations](http://www.mondovisione.com/media-and-resources/news/acting-cftc-chairman-pham-announces-reforms-to-wells-process-amends-rules-of-pr-2025121/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Swaps Report Update](http://www.mondovisione.com/media-and-resources/news/cftc-swaps-report-update-2025121/)
+Append: [MIAX Exchange Members - Options Regulatory Fee](http://www.mondovisione.com/media-and-resources/news/miax-exchange-members-options-regulatory-fee-2025121/)
+append_entries: 6
+Finish: 2025-12-01 22:23:18.832458
