@@ -3493,3 +3493,15 @@ Append: [InnovestX Securities Selects ICE To Enhance Pricing, Trading And Risk A
 Append: [Qatar Stock Exchange: QE Index, QE Al Rayan Islamic Index And QE All Share Constituents (December 1st, 2025)](http://www.mondovisione.com/media-and-resources/news/qatar-stock-exchange-qe-index-qe-al-rayan-islamic-index-and-qe-all-share-const-2025121/)
 append_entries: 9
 Finish: 2025-12-01 08:37:32.041942
+------------------------------------------------------
+Started: 2025-12-01 10:29:28.197077
+Existing_entries: 571
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Deka Investment Launches Deka Europe Defense UCITS ETF Tracking Solactive Europe Defense Index](http://www.mondovisione.com/media-and-resources/news/deka-investment-launches-deka-europe-defense-ucits-etf-tracking-solactive-europe-2025121/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIX Launches Extended Trading Hours For Structured Products](http://www.mondovisione.com/media-and-resources/news/six-launches-extended-trading-hours-for-structured-products-2025121/)
+append_entries: 2
+Finish: 2025-12-01 10:29:29.235700
