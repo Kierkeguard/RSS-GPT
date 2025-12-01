@@ -3557,3 +3557,18 @@ Append: [NYSE Texas Reaches Milestone Of 100 Dual Listings](http://www.mondovisi
 Append: [UK Financial Conduct Authority Sets Out Proposals To Make ESG Ratings Transparent, Reliable And Comparable](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-sets-out-proposals-to-make-esg-ratings-transparen-2025121/)
 append_entries: 9
 Finish: 2025-12-01 16:34:55.882285
+------------------------------------------------------
+Started: 2025-12-01 18:40:25.148748
+Existing_entries: 587
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Office Of The Comptroller Of The Currency Maintains Assessment Rates Tor National Banks And Federal Savings Associations](http://www.mondovisione.com/media-and-resources/news/us-office-of-the-comptroller-of-the-currency-maintains-assessment-rates-tor-nati-2025121/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Comptroller Of The US Currency Issues Statement On Congressional Debanking Report](http://www.mondovisione.com/media-and-resources/news/comptroller-of-the-us-currency-issues-statement-on-congressional-debanking-repor-2025121/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Federal Reserve Supervision And Regulation Report](http://www.mondovisione.com/media-and-resources/news/federal-reserve-supervision-and-regulation-report-2025121/)
+append_entries: 3
+Finish: 2025-12-01 18:40:26.449972
