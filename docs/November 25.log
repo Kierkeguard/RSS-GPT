@@ -3505,3 +3505,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SIX Launches Extended Trading Hours For Structured Products](http://www.mondovisione.com/media-and-resources/news/six-launches-extended-trading-hours-for-structured-products-2025121/)
 append_entries: 2
 Finish: 2025-12-01 10:29:29.235700
+------------------------------------------------------
+Started: 2025-12-01 12:53:43.789788
+Existing_entries: 573
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [EACH Supports Bank Of England’s Objective To Strengthen Gilt-Repo Market Resilience By Removing Barriers To Voluntary Clearing](http://www.mondovisione.com/media-and-resources/news/each-supports-bank-of-englands-objective-to-strengthen-gilt-repo-market-resilie-2025121/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Boerse Stuttgart Records November Turnover Of Around EUR 9,6 Billion - Increase In Structured Securities Compared To The Same Month Of The Previous Year](http://www.mondovisione.com/media-and-resources/news/boerse-stuttgart-records-november-turnover-of-around-eur-96-billion-increase-2025121/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [mai-Listed Companies Report Q3/2025 Results With Total Sales Of THB 50.719 Billion And Net Profit Of THB 620 Million Amid Economic Headwinds](http://www.mondovisione.com/media-and-resources/news/mai-listed-companies-report-q32025-results-with-total-sales-of-thb-50719-billi-2025121/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Thai Listed Companies Report Revenue Slowdown In Q3/2025 And 9-Month Period Attributed To Economic Situation](http://www.mondovisione.com/media-and-resources/news/thai-listed-companies-report-revenue-slowdown-in-q32025-and-9-month-period-attr-2025121/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BIS Latest Update: Fiscal Threats, Tech-Savvy Supervisors And Tokenisation](http://www.mondovisione.com/media-and-resources/news/bis-latest-update-fiscal-threats-tech-savvy-supervisors-and-tokenisation-2025121/)
+append_entries: 5
+Finish: 2025-12-01 12:53:45.153190
