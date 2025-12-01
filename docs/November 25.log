@@ -3572,3 +3572,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Federal Reserve Supervision And Regulation Report](http://www.mondovisione.com/media-and-resources/news/federal-reserve-supervision-and-regulation-report-2025121/)
 append_entries: 3
 Finish: 2025-12-01 18:40:26.449972
+------------------------------------------------------
+Started: 2025-12-01 20:25:51.985712
+Existing_entries: 590
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Regnology Completes Acquisition Of Wolters Kluwer’s Finance, Risk & Regulatory Reporting Business](http://www.mondovisione.com/media-and-resources/news/regnology-completes-acquisition-of-wolters-kluwers-finance-risk-and-regulatory-r-2025121/)
+append_entries: 1
+Finish: 2025-12-01 20:25:53.067674
