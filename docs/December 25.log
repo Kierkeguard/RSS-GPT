@@ -45,3 +45,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [London Stock Exchange Group plc ("LSEG") Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transaction-in-own-shares-2025122/)
 append_entries: 5
 Finish: 2025-12-02 10:28:26.177293
+------------------------------------------------------
+Started: 2025-12-02 12:54:15.147109
+Existing_entries: 15
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group Hits Second-Highest Monthly Volume Ever](http://www.mondovisione.com/media-and-resources/news/cme-group-hits-second-highest-monthly-volume-ever-2025122/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NSE Indices Fixed Income Index Dashboard For The Month Ended November 2025](http://www.mondovisione.com/media-and-resources/news/nse-indices-fixed-income-index-dashboard-for-the-month-ended-november-2025-2025122/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Register To Join ETFGI In Toronto For Its 7th Annual ETFGI Global ETFs Insights Summit – Canada](http://www.mondovisione.com/media-and-resources/news/register-to-join-etfgi-in-toronto-for-its-7th-annual-etfgi-global-etfs-insights-2025122/)
+append_entries: 3
+Finish: 2025-12-02 12:54:16.499281
