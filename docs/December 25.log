@@ -97,3 +97,21 @@ Existing_entries: 27
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-12-02 18:39:38.302513
+------------------------------------------------------
+Started: 2025-12-02 20:30:02.908864
+Existing_entries: 27
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Business Trades Support Bank Capital Rule Reform To Boost Economic Growth](http://www.mondovisione.com/media-and-resources/news/business-trades-support-bank-capital-rule-reform-to-boost-economic-growth-2025122/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Comptroller Of The US Currency Testifies On Agency Activities](http://www.mondovisione.com/media-and-resources/news/comptroller-of-the-us-currency-testifies-on-agency-activities-2025122/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Ontario Securities Commission Investor Warnings And Alerts For November 11 – December 2, 2025](http://www.mondovisione.com/media-and-resources/news/ontario-securities-commission-investor-warnings-and-alerts-for-november-11-dec-2025122/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Trading Book Capital: Basel III Implementation And Latest Industry Trends, London, December 2, 2025, Introduction And Welcoming Remarks, Mark Gheerbrant, Global Head Of Risk And Capital, ISDA](http://www.mondovisione.com/media-and-resources/news/trading-book-capital-basel-iii-implementation-and-latest-industry-trends-londo-2025122/)
+append_entries: 4
+Finish: 2025-12-02 20:30:03.756673
