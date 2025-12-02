@@ -115,3 +115,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Trading Book Capital: Basel III Implementation And Latest Industry Trends, London, December 2, 2025, Introduction And Welcoming Remarks, Mark Gheerbrant, Global Head Of Risk And Capital, ISDA](http://www.mondovisione.com/media-and-resources/news/trading-book-capital-basel-iii-implementation-and-latest-industry-trends-londo-2025122/)
 append_entries: 4
 Finish: 2025-12-02 20:30:03.756673
+------------------------------------------------------
+Started: 2025-12-02 22:21:23.681287
+Existing_entries: 31
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cboe To Present At Goldman Sachs Financial Services Conference On December 9](http://www.mondovisione.com/media-and-resources/news/cboe-to-present-at-goldman-sachs-financial-services-conference-on-december-9-2025122/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [EU Allows Continued Use Of New Zealand Regulated Financial Benchmarks](http://www.mondovisione.com/media-and-resources/news/eu-allows-continued-use-of-new-zealand-regulated-financial-benchmarks-2025122/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NZX Shareholder Metrics - November 2025](http://www.mondovisione.com/media-and-resources/news/nzx-shareholder-metrics-november-2025-2025122/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Commitments Of Traders Reports Update: Report Data For 10/21/2025](http://www.mondovisione.com/media-and-resources/news/cftc-commitments-of-traders-reports-update-report-data-for-10212025-2025122/)
+append_entries: 4
+Finish: 2025-12-02 22:21:25.091301
