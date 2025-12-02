@@ -66,3 +66,28 @@ Existing_entries: 18
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-12-02 14:27:40.832620
+------------------------------------------------------
+Started: 2025-12-02 16:35:15.606799
+Existing_entries: 18
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Revitalizing America’s Markets At 250, Paul S. Atkins, SEC Chairman - New York Stock Exchange, Dec. 2, 2025](http://www.mondovisione.com/media-and-resources/news/revitalizing-americas-markets-at-250-paul-s-atkins-sec-chairman-new-york-s-2025122/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group Announces Regulatory Approval Of New Securities Clearing House](http://www.mondovisione.com/media-and-resources/news/cme-group-announces-regulatory-approval-of-new-securities-clearing-house-2025122/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [An Illusion Of Legality: Wildlife Laundering In Colombia And Mexico](http://www.mondovisione.com/media-and-resources/news/an-illusion-of-legality-wildlife-laundering-in-colombia-and-mexico-2025122/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Purdue University/CME Group Ag Economy Barometer: Better Outlook For The Future Pushes Farmer Sentiment Higher In Europe](http://www.mondovisione.com/media-and-resources/news/purdue-universitycme-group-ag-economy-barometer-better-outlook-for-the-future-2025122/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Moscow Exchange To Introduce Type "In" Accounts](http://www.mondovisione.com/media-and-resources/news/moscow-exchange-to-introduce-type-in-accounts-2025122/)
+Append: [TNS Expands Global Market Data Access With Connectivity To Tokyo Financial Exchange](http://www.mondovisione.com/media-and-resources/news/tns-expands-global-market-data-access-with-connectivity-to-tokyo-financial-excha-2025122/)
+Append: [Kaizen Appoints James Crow As Chief Technology Officer  ​](http://www.mondovisione.com/media-and-resources/news/kaizen-appoints-james-crow-as-chief-technology-officer-2025122/)
+Append: [Euronext Signs The Armed Forces Covenant In The United Kingdom](http://www.mondovisione.com/media-and-resources/news/euronext-signs-the-armed-forces-covenant-in-the-united-kingdom-2025122/)
+Append: [Bank Of England: Financial Policy Committee Record - December 2025](http://www.mondovisione.com/media-and-resources/news/bank-of-england-financial-policy-committee-record-december-2025-2025122/)
+append_entries: 9
+Finish: 2025-12-02 16:35:16.509138
