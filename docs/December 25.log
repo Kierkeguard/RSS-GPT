@@ -215,3 +215,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [The WFE Awarded Best Paper By The ECMI For Research On IPO Drivers](http://www.mondovisione.com/media-and-resources/news/the-wfe-awarded-best-paper-by-the-ecmi-for-research-on-ipo-drivers-2025123/)
 append_entries: 4
 Finish: 2025-12-03 12:54:45.127959
+------------------------------------------------------
+Started: 2025-12-03 14:27:03.852659
+Existing_entries: 51
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TMX Group Holiday Operating Schedule](http://www.mondovisione.com/media-and-resources/news/tmx-group-holiday-operating-schedule-2025123/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Strong Black Friday Sales Highlight An Otherwise Flat November, According To Fiserv Small Business Index](http://www.mondovisione.com/media-and-resources/news/strong-black-friday-sales-highlight-an-otherwise-flat-november-according-to-fis-2025123/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Intercontinental Exchange Reports November Statistics](http://www.mondovisione.com/media-and-resources/news/intercontinental-exchange-reports-november-statistics-2025123/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LSEG Announces New Collaboration With OpenAI](http://www.mondovisione.com/media-and-resources/news/lseg-announces-new-collaboration-with-openai-2025123/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Rajiv Shah Joins Trading Technologies To Lead Sales In EMEA](http://www.mondovisione.com/media-and-resources/news/rajiv-shah-joins-trading-technologies-to-lead-sales-in-emea-2025123/)
+append_entries: 5
+Finish: 2025-12-03 14:27:04.738459
