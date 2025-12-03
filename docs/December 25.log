@@ -197,3 +197,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SmartSearch Strengthens Partnership With Twenty7tec By Expanding ID Verification Services - The Expanded Partnership Will Deliver Faster, More Secure And Smarter Client Verification For Advisers, Lenders And Providers Across Mortgages, Protection And Wealth](http://www.mondovisione.com/media-and-resources/news/smartsearch-strengthens-partnership-with-twenty7tec-by-expanding-id-verification-2025123/)
 append_entries: 3
 Finish: 2025-12-03 10:30:00.412691
+------------------------------------------------------
+Started: 2025-12-03 12:54:43.852317
+Existing_entries: 47
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NGX Expands Market Offerings With Introduction Of Commercial Paper Listings](http://www.mondovisione.com/media-and-resources/news/ngx-expands-market-offerings-with-introduction-of-commercial-paper-listings-2025123/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bank Of England: Basel 3.1: Market Risk − Speech By Phil Evans - Given At The ISDA Conference On Trading Book Capital](http://www.mondovisione.com/media-and-resources/news/bank-of-england-basel-31-market-risk-speech-by-phil-evans-given-at-the-is-2025123/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [RT&L Lists On Euronext](http://www.mondovisione.com/media-and-resources/news/rtandl-lists-on-euronext-2025123/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The WFE Awarded Best Paper By The ECMI For Research On IPO Drivers](http://www.mondovisione.com/media-and-resources/news/the-wfe-awarded-best-paper-by-the-ecmi-for-research-on-ipo-drivers-2025123/)
+append_entries: 4
+Finish: 2025-12-03 12:54:45.127959
