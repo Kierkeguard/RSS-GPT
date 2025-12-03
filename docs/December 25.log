@@ -260,3 +260,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Borsa İstanbul Announces The Constituent Changes To The BIST Buyback Index For December, 2025](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-announces-the-constituent-changes-to-the-bist-buyback-index-for-d-2025123/)
 append_entries: 3
 Finish: 2025-12-03 18:38:16.910188
+------------------------------------------------------
+Started: 2025-12-03 20:29:38.736941
+Existing_entries: 60
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Removing Frictions − Speech By Nathanaël Benjamin, Bank Of England Executive Director, Financial Stability Strategy And Risk, Given At Womble Bond Dickinson, Newcastle, Hosted By The North East Chamber Of Commerce](http://www.mondovisione.com/media-and-resources/news/removing-frictions-speech-by-nathanal-benjamin-bank-of-england-executive-dir-2025123/)
+append_entries: 1
+Finish: 2025-12-03 20:29:39.897839
