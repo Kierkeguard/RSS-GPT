@@ -245,3 +245,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Basel Committee Finds The United Kingdom Largely Compliant With Its Net Stable Funding Ratio Standard And Its Large Exposures Framework](http://www.mondovisione.com/media-and-resources/news/basel-committee-finds-the-united-kingdom-largely-compliant-with-its-net-stable-f-2025123/)
 append_entries: 1
 Finish: 2025-12-03 16:35:35.854761
+------------------------------------------------------
+Started: 2025-12-03 18:38:15.916898
+Existing_entries: 57
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FTSE China Index Series Quarterly Review – Q4 2025](http://www.mondovisione.com/media-and-resources/news/ftse-china-index-series-quarterly-review-q4-2025-2025123/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Vienna Stock Exchange - Stock Market Taboo 2025: The "Tariff Hammer" Has Struck](http://www.mondovisione.com/media-and-resources/news/vienna-stock-exchange-stock-market-taboo-2025-the-tariff-hammer-has-struck-2025123/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Borsa İstanbul Announces The Constituent Changes To The BIST Buyback Index For December, 2025](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-announces-the-constituent-changes-to-the-bist-buyback-index-for-d-2025123/)
+append_entries: 3
+Finish: 2025-12-03 18:38:16.910188
