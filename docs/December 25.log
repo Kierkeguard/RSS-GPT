@@ -182,3 +182,18 @@ Append: [ASIC Updates Guidance On Product Disclosure Statements](http://www.mond
 Append: [Cboe To Offer Nearly 24-Hour Trading For Russell 2000 Options, Expanding Global Access To U.S. Small-Cap Equities](http://www.mondovisione.com/media-and-resources/news/cboe-to-offer-nearly-24-hour-trading-for-russell-2000-options-expanding-global-2025123/)
 append_entries: 9
 Finish: 2025-12-03 08:34:41.022245
+------------------------------------------------------
+Started: 2025-12-03 10:29:59.601034
+Existing_entries: 44
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Helps Firms To Test AI Safely](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-helps-firms-to-test-ai-safely-2025123/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [GLEIF Announces The vLEI Hackathon Winners Creating Digital Trust In Industry 4.0](http://www.mondovisione.com/media-and-resources/news/gleif-announces-the-vlei-hackathon-winners-creating-digital-trust-in-industry-4-2025123/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SmartSearch Strengthens Partnership With Twenty7tec By Expanding ID Verification Services - The Expanded Partnership Will Deliver Faster, More Secure And Smarter Client Verification For Advisers, Lenders And Providers Across Mortgages, Protection And Wealth](http://www.mondovisione.com/media-and-resources/news/smartsearch-strengthens-partnership-with-twenty7tec-by-expanding-id-verification-2025123/)
+append_entries: 3
+Finish: 2025-12-03 10:30:00.412691
