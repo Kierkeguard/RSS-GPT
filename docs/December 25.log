@@ -411,3 +411,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Tradeweb Reports November 2025 Total Trading Volume Of $56.8 Trillion And Average Daily Volume Of $2.9 Trillion - November 2025 ADV Up 22.3% YoY](http://www.mondovisione.com/media-and-resources/news/tradeweb-reports-november-2025-total-trading-volume-of-568-trillion-and-averag-2025124/)
 append_entries: 3
 Finish: 2025-12-04 14:27:02.552624
+------------------------------------------------------
+Started: 2025-12-04 16:35:46.854969
+Existing_entries: 95
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Digital Asset Announces Strategic Investments From BNY, iCapital, Nasdaq, And S&P Global - New Investments Underscore The Accelerating Institutional Adoption Of The Canton Network](http://www.mondovisione.com/media-and-resources/news/digital-asset-announces-strategic-investments-from-bny-icapital-nasdaq-and-sand-2025124/)
+append_entries: 1
+Finish: 2025-12-04 16:35:48.142350
