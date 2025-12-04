@@ -311,3 +311,21 @@ Existing_entries: 69
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-12-04 04:35:03.526334
+------------------------------------------------------
+Started: 2025-12-04 06:38:10.701341
+Existing_entries: 69
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Calls On Australian Companies To Adopt Better Practices To Protect Whistleblowers](http://www.mondovisione.com/media-and-resources/news/asic-calls-on-australian-companies-to-adopt-better-practices-to-protect-whistleb-2025124/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Remarks At The 2025 Institute For Corporate Counsel, SEC Commissioner Mark T. Uyeda, 2025 Institute For Corporate Counsel, Los Angeles, California, Dec. 3, 2025](http://www.mondovisione.com/media-and-resources/news/remarks-at-the-2025-institute-for-corporate-counsel-sec-commissioner-mark-t-uy-2025124/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Statement On Extension Of Compliance Dates For Securities Lending Reporting And Short Position And Short Activity Reporting, SEC Commissioner Caroline A. Crenshaw, Dec. 3, 2025](http://www.mondovisione.com/media-and-resources/news/statement-on-extension-of-compliance-dates-for-securities-lending-reporting-and-2025124/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cboe Global Markets Reports Trading Volume For November 2025](http://www.mondovisione.com/media-and-resources/news/cboe-global-markets-reports-trading-volume-for-november-2025-2025124/)
+append_entries: 4
+Finish: 2025-12-04 06:38:12.151440
