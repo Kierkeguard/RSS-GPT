@@ -329,3 +329,26 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Cboe Global Markets Reports Trading Volume For November 2025](http://www.mondovisione.com/media-and-resources/news/cboe-global-markets-reports-trading-volume-for-november-2025-2025124/)
 append_entries: 4
 Finish: 2025-12-04 06:38:12.151440
+------------------------------------------------------
+Started: 2025-12-04 08:35:02.269875
+Existing_entries: 73
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc ("LSEG") Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transaction-in-own-shares-2025124/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIX To Integrate SIX x-clear And BME Clearing Into One International And Multi-Asset CCP](http://www.mondovisione.com/media-and-resources/news/six-to-integrate-six-x-clear-and-bme-clearing-into-one-international-and-multi-a-2025124/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SET Market Report For November 2025](http://www.mondovisione.com/media-and-resources/news/set-market-report-for-november-2025-2025124/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Simplification Update - ASIC Expands Email Lodgements](http://www.mondovisione.com/media-and-resources/news/simplification-update-asic-expands-email-lodgements-2025124/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Proposes To Remake Relief Instruments For AFS Licensees And Overseas Banks](http://www.mondovisione.com/media-and-resources/news/asic-proposes-to-remake-relief-instruments-for-afs-licensees-and-overseas-banks-2025124/)
+Append: [ASIC Proposes To Remake Instruments For Technical Relief And Prescribed Credit Disclosure](http://www.mondovisione.com/media-and-resources/news/asic-proposes-to-remake-instruments-for-technical-relief-and-prescribed-credit-d-2025124/)
+Append: [ASX Group Monthly Activity Report - November 2025](http://www.mondovisione.com/media-and-resources/news/asx-group-monthly-activity-report-november-2025-2025124/)
+append_entries: 7
+Finish: 2025-12-04 08:35:03.582453
