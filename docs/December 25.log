@@ -464,3 +464,18 @@ Append: [Remarks At The Investor Advisory Committee Meeting, Paul S. Atkins, SEC
 Append: [New FINRA Foundation Research Examines Shifting Investor Behaviors, Preferences And Attitudes - The Pace Of New Investors Entering The Market Has Slowed, Investors Are Less Comfortable With Risk, Younger Investors Turn To Finfluencers](http://www.mondovisione.com/media-and-resources/news/new-finra-foundation-research-examines-shifting-investor-behaviors-preferences-2025124/)
 append_entries: 7
 Finish: 2025-12-04 20:29:01.030802
+------------------------------------------------------
+Started: 2025-12-04 22:22:11.671934
+Existing_entries: 108
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Financial Stability Oversight Council Meeting](http://www.mondovisione.com/media-and-resources/news/us-financial-stability-oversight-council-meeting-2025124/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Remarks At The Meeting Of The Investor Advisory Committee, SEC Commissioner Caroline A. Crenshaw, Washington D.C., Dec. 4, 2025](http://www.mondovisione.com/media-and-resources/news/remarks-at-the-meeting-of-the-investor-advisory-committee-sec-commissioner-caro-2025124/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC: Compliance Outreach On Regulation S-P](http://www.mondovisione.com/media-and-resources/news/sec-compliance-outreach-on-regulation-s-p-2025124/)
+append_entries: 3
+Finish: 2025-12-04 22:22:12.814346
