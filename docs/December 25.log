@@ -396,3 +396,18 @@ Append: [Smart Centres Index 12: Zurich Leads The Pack In Smart Development With
 Append: [UK Financial Conduct Authority Writes To Treasury Select Committee On Handling Of Information Ahead Of The Autumn Budget 2025](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-writes-to-treasury-select-committee-on-handling-o-2025124/)
 append_entries: 6
 Finish: 2025-12-04 12:54:55.421269
+------------------------------------------------------
+Started: 2025-12-04 14:27:01.015105
+Existing_entries: 92
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TMX Group Consolidated Trading Statistics - November 2025](http://www.mondovisione.com/media-and-resources/news/tmx-group-consolidated-trading-statistics-november-2025-2025124/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [DTCC And EY Share Insights On 24x5 Equity Trading, Revealing Up To 10% Of Total Equity Volume Projected To Be Traded During Overnight Sessions By 2028](http://www.mondovisione.com/media-and-resources/news/dtcc-and-ey-share-insights-on-24x5-equity-trading-revealing-up-to-10-of-total-2025124/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tradeweb Reports November 2025 Total Trading Volume Of $56.8 Trillion And Average Daily Volume Of $2.9 Trillion - November 2025 ADV Up 22.3% YoY](http://www.mondovisione.com/media-and-resources/news/tradeweb-reports-november-2025-total-trading-volume-of-568-trillion-and-averag-2025124/)
+append_entries: 3
+Finish: 2025-12-04 14:27:02.552624
