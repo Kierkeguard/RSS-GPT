@@ -528,3 +528,12 @@ Append: [Federal Reserve Board Announces Pricing, Effective January 1, 2026, For
 Append: [Federal Reserve Board Requests Public Input On The Impact Of Potential Strategic Changes To Check Services Provided By The Fed, As Well As Check Usage And Preferences](http://www.mondovisione.com/media-and-resources/news/federal-reserve-board-requests-public-input-on-the-impact-of-potential-strategic-2025125/)
 append_entries: 9
 Finish: 2025-12-05 08:33:36.443811
+------------------------------------------------------
+Started: 2025-12-05 10:27:00.855377
+Existing_entries: 120
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Supervisory Board Of Deutsche Börse AG Extends Executive Board Mandate Of Christoph Böhm](http://www.mondovisione.com/media-and-resources/news/supervisory-board-of-deutsche-brse-ag-extends-executive-board-mandate-of-christ-2025125/)
+append_entries: 1
+Finish: 2025-12-05 10:27:01.921735
