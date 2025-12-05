@@ -549,3 +549,21 @@ Existing_entries: 121
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-12-05 14:26:15.681624
+------------------------------------------------------
+Started: 2025-12-05 16:32:27.421451
+Existing_entries: 121
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nigerian Exchange Weekly Statistics And Weekly Report For 5 December 2025](http://www.mondovisione.com/media-and-resources/news/nigerian-exchange-weekly-statistics-and-weekly-report-for-5-december-2025-2025125/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC To Host Webinar For Transfer Agents On Regulation S-P](http://www.mondovisione.com/media-and-resources/news/sec-to-host-webinar-for-transfer-agents-on-regulation-s-p-2025125/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Revised Lists Of The Moscow Exchange Indices Announced](http://www.mondovisione.com/media-and-resources/news/revised-lists-of-the-moscow-exchange-indices-announced-2025125/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Miami International Holdings Reports Trading Results For November 2025](http://www.mondovisione.com/media-and-resources/news/miami-international-holdings-reports-trading-results-for-november-2025-2025125/)
+append_entries: 4
+Finish: 2025-12-05 16:32:28.342146
