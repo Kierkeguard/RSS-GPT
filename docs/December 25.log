@@ -503,3 +503,28 @@ Existing_entries: 111
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-12-05 06:38:20.349229
+------------------------------------------------------
+Started: 2025-12-05 08:33:35.398409
+Existing_entries: 111
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc ("LSEG") Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transaction-in-own-shares-2025125/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [André Helfenstein Appointed Chairman Of The Board Of Directors Of SIX](http://www.mondovisione.com/media-and-resources/news/andr-helfenstein-appointed-chairman-of-the-board-of-directors-of-six-2025125/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Extends Transitional Relief For Foreign Financial Services Providers](http://www.mondovisione.com/media-and-resources/news/asic-extends-transitional-relief-for-foreign-financial-services-providers-2025125/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Time To Get On With Business, Speech By ASIC Commissioner Kate O’Rourke At The 2025 Small Business Association Of Australia (SBAA) International Small Business Summit On 5 December 2025.](http://www.mondovisione.com/media-and-resources/news/time-to-get-on-with-business-speech-by-asic-commissioner-kate-orourke-at-the-2-2025125/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Releases November 2025 Financial Adviser Exam Results](http://www.mondovisione.com/media-and-resources/news/asic-releases-november-2025-financial-adviser-exam-results-2025125/)
+Append: [ASIC Issues DDO Stop Order Against FXCM For TMD Deficiencies](http://www.mondovisione.com/media-and-resources/news/asic-issues-ddo-stop-order-against-fxcm-for-tmd-deficiencies-2025125/)
+Append: [PNGX Group To Acquire PNG Registries From MUFG Pension & Market Services](http://www.mondovisione.com/media-and-resources/news/pngx-group-to-acquire-png-registries-from-mufg-pension-and-market-services-2025125/)
+Append: [Federal Reserve Board Announces Pricing, Effective January 1, 2026, For Payment Services The Federal Reserve Banks Provide To Banks And Credit Unions](http://www.mondovisione.com/media-and-resources/news/federal-reserve-board-announces-pricing-effective-january-1-2026-for-payment-2025125/)
+Append: [Federal Reserve Board Requests Public Input On The Impact Of Potential Strategic Changes To Check Services Provided By The Fed, As Well As Check Usage And Preferences](http://www.mondovisione.com/media-and-resources/news/federal-reserve-board-requests-public-input-on-the-impact-of-potential-strategic-2025125/)
+append_entries: 9
+Finish: 2025-12-05 08:33:36.443811
