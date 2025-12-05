@@ -609,3 +609,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Canadian Securities Administrators Seeks Participation In Retail Committee As Part Of Real-Time Market Data Access Initiative](http://www.mondovisione.com/media-and-resources/news/canadian-securities-administrators-seeks-participation-in-retail-committee-as-pa-2025125/)
 append_entries: 4
 Finish: 2025-12-05 20:28:24.162152
+------------------------------------------------------
+Started: 2025-12-05 22:23:35.502683
+Existing_entries: 137
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Commitments Of Traders Reports Update: Report Data For 10/28/2025](http://www.mondovisione.com/media-and-resources/news/cftc-commitments-of-traders-reports-update-report-data-for-10282025-2025125/)
+append_entries: 1
+Finish: 2025-12-05 22:23:36.484591
