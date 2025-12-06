@@ -654,3 +654,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Nadex: CDNA Transitions To Crypto.com App](http://www.mondovisione.com/media-and-resources/news/nadex-cdna-transitions-to-cryptocom-app-2025126/)
 append_entries: 2
 Finish: 2025-12-06 08:30:23.761306
+------------------------------------------------------
+Started: 2025-12-06 10:24:15.655197
+Existing_entries: 140
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-12-06 10:24:16.628119
