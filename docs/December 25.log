@@ -642,3 +642,15 @@ Existing_entries: 138
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-12-06 06:34:32.374976
+------------------------------------------------------
+Started: 2025-12-06 08:30:22.879494
+Existing_entries: 138
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Statement On The Global Research Analyst Settlement, SEC Commissioner Mark T. Uyeda, Dec. 5, 2025](http://www.mondovisione.com/media-and-resources/news/statement-on-the-global-research-analyst-settlement-sec-commissioner-mark-t-uy-2025126/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nadex: CDNA Transitions To Crypto.com App](http://www.mondovisione.com/media-and-resources/news/nadex-cdna-transitions-to-cryptocom-app-2025126/)
+append_entries: 2
+Finish: 2025-12-06 08:30:23.761306
