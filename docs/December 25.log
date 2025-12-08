@@ -855,3 +855,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [FTSE SET Index Series December 2025 Semi-Annual Review](http://www.mondovisione.com/media-and-resources/news/ftse-set-index-series-december-2025-semi-annual-review-2025128/)
 append_entries: 4
 Finish: 2025-12-08 12:53:12.619969
+------------------------------------------------------
+Started: 2025-12-08 14:27:55.881180
+Existing_entries: 157
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Announces Departure Of OIEA Director Lori J. Schock](http://www.mondovisione.com/media-and-resources/news/sec-announces-departure-of-oiea-director-lori-j-schock-2025128/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Sets Out Landmark Package To Boost UK Investment Culture](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-sets-out-landmark-package-to-boost-uk-investment-2025128/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Magnum Ice Cream Company Lists On Euronext](http://www.mondovisione.com/media-and-resources/news/the-magnum-ice-cream-company-lists-on-euronext-2025128/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [EEX’s Nordic Power Derivatives Market Shows Consistent Liquidity Growth](http://www.mondovisione.com/media-and-resources/news/eexs-nordic-power-derivatives-market-shows-consistent-liquidity-growth-2025128/)
+append_entries: 4
+Finish: 2025-12-08 14:27:56.699066
