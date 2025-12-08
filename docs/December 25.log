@@ -885,3 +885,25 @@ Existing_entries: 161
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-12-08 18:38:11.049900
+------------------------------------------------------
+Started: 2025-12-08 20:28:51.631878
+Existing_entries: 161
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bank Of England: Minutes Of The London FXJSC Operations Sub-Committee Meeting – 18 September 2025](http://www.mondovisione.com/media-and-resources/news/bank-of-england-minutes-of-the-london-fxjsc-operations-sub-committee-meeting-2025128/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bank Of England: Minutes Of The London FXJSC Legal Sub-committee Meeting – 17 September 2025](http://www.mondovisione.com/media-and-resources/news/bank-of-england-minutes-of-the-london-fxjsc-legal-sub-committee-meeting-17-se-2025128/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BIS Quarterly Review - December 2025](http://www.mondovisione.com/media-and-resources/news/bis-quarterly-review-december-2025-2025128/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Transformation Of Money: Technological Disruption And The Future Of Financial Services - Guest Lecture By Piero Cipollone, Member Of The Executive Board Of The ECB, At The Frankfurt School Of Finance & Management, Frankfurt am Main, 8 December 2025](http://www.mondovisione.com/media-and-resources/news/the-transformation-of-money-technological-disruption-and-the-future-of-financia-2025128/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euronext Unlocks New Liquidity Opportunities For Equities With The Launch Of Auction Volume Discovery (AVD)](http://www.mondovisione.com/media-and-resources/news/euronext-unlocks-new-liquidity-opportunities-for-equities-with-the-launch-of-auc-2025128/)
+Append: [Bank Of England: Minutes Of The London FXJSC Main Committee Meeting – 25 September 2025](http://www.mondovisione.com/media-and-resources/news/bank-of-england-minutes-of-the-london-fxjsc-main-committee-meeting-25-septemb-2025128/)
+append_entries: 6
+Finish: 2025-12-08 20:28:53.299794
