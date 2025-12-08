@@ -837,3 +837,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [HKEX To Enhance Margin Collateral Arrangements At OTC Clear](http://www.mondovisione.com/media-and-resources/news/hkex-to-enhance-margin-collateral-arrangements-at-otc-clear-2025128/)
 append_entries: 5
 Finish: 2025-12-08 10:29:29.102396
+------------------------------------------------------
+Started: 2025-12-08 12:53:11.539774
+Existing_entries: 153
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Avelacom Chosen As Kraken’s Connectivity Provider For High-Speed Institutional Trading -  Integration Empowers Traders To Execute Latency-Sensitive Strategies With Greater Precision On Kraken](http://www.mondovisione.com/media-and-resources/news/avelacom-chosen-as-krakens-connectivity-provider-for-high-speed-institutional-t-2025128/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nigerian Federal Government, Nigeria SEC, NGX Group Forge Unified Direction On Capital Gains Tax Reform](http://www.mondovisione.com/media-and-resources/news/nigerian-federal-government-nigeria-sec-ngx-group-forge-unified-direction-on-c-2025128/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ICE Mortgage Monitor: Mortgage Refinance Retention Hits Multi-Year High As Falling Rates Spur Activity Among Recently Originated Loans](http://www.mondovisione.com/media-and-resources/news/ice-mortgage-monitor-mortgage-refinance-retention-hits-multi-year-high-as-falli-2025128/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FTSE SET Index Series December 2025 Semi-Annual Review](http://www.mondovisione.com/media-and-resources/news/ftse-set-index-series-december-2025-semi-annual-review-2025128/)
+append_entries: 4
+Finish: 2025-12-08 12:53:12.619969
