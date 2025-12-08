@@ -783,3 +783,18 @@ Existing_entries: 141
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-12-08 04:37:22.359180
+------------------------------------------------------
+Started: 2025-12-08 06:41:20.116720
+Existing_entries: 141
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Wellington Management: BaFin Warns Against Identity Fraud In WhatsApp Groups](http://www.mondovisione.com/media-and-resources/news/wellington-management-bafin-warns-against-identity-fraud-in-whatsapp-groups-2025128/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Dubai Welcomes USD 500 Million Bond Listing By Bank Of China Dubai Branch](http://www.mondovisione.com/media-and-resources/news/nasdaq-dubai-welcomes-usd-500-million-bond-listing-by-bank-of-china-dubai-branch-2025128/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Malaysia’s Advisory Committee On Sustainability Reporting Sets Out Approach For Non-Compliance To Sustainability Reporting Requirements](http://www.mondovisione.com/media-and-resources/news/malaysias-advisory-committee-on-sustainability-reporting-sets-out-approach-for-2025128/)
+append_entries: 3
+Finish: 2025-12-08 06:41:20.987520
