@@ -816,3 +816,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [London Stock Exchange Group plc ("LSEG") Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transaction-in-own-shares-2025128/)
 append_entries: 4
 Finish: 2025-12-08 08:36:48.652265
+------------------------------------------------------
+Started: 2025-12-08 10:29:27.821161
+Existing_entries: 148
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Scila Awarded Best Market Risk Provider At Waters Technology’s AFTAs](http://www.mondovisione.com/media-and-resources/news/scila-awarded-best-market-risk-provider-at-waters-technologys-aftas-2025128/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Broadridge's Shareholder Disclosure Hub Migrates To AWS, Boosting Global Reach, Resilience And Security- Enhances Performance And Scalability, Expands Multi-Regional Market Coverage And Accelerates Innovation For Clients](http://www.mondovisione.com/media-and-resources/news/broadridges-shareholder-disclosure-hub-migrates-to-aws-boosting-global-reach-2025128/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CoinShares 2026 Outlook: Digital Assets Move From Disruption To Integration - Flagship Research Report Charts The Rise Of 'Hybrid Finance' As Blockchain Merges With Traditional Financial Infrastructure](http://www.mondovisione.com/media-and-resources/news/coinshares-2026-outlook-digital-assets-move-from-disruption-to-integration-fl-2025128/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Clearstream Launches Next Data Solutions To Accelerate Proactive Decision-Making](http://www.mondovisione.com/media-and-resources/news/clearstream-launches-next-data-solutions-to-accelerate-proactive-decision-making-2025128/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX To Enhance Margin Collateral Arrangements At OTC Clear](http://www.mondovisione.com/media-and-resources/news/hkex-to-enhance-margin-collateral-arrangements-at-otc-clear-2025128/)
+append_entries: 5
+Finish: 2025-12-08 10:29:29.102396
