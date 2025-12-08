@@ -873,3 +873,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [EEX’s Nordic Power Derivatives Market Shows Consistent Liquidity Growth](http://www.mondovisione.com/media-and-resources/news/eexs-nordic-power-derivatives-market-shows-consistent-liquidity-growth-2025128/)
 append_entries: 4
 Finish: 2025-12-08 14:27:56.699066
+------------------------------------------------------
+Started: 2025-12-08 16:34:05.542807
+Existing_entries: 161
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-12-08 16:34:06.376384
