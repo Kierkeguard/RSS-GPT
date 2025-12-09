@@ -1030,3 +1030,21 @@ Existing_entries: 188
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-12-09 18:34:05.101082
+------------------------------------------------------
+Started: 2025-12-09 20:25:53.502265
+Existing_entries: 188
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Ontario Securities Commission Publishes 2025 Corporate Finance Division Annual Report](http://www.mondovisione.com/media-and-resources/news/ontario-securities-commission-publishes-2025-corporate-finance-division-annual-r-2025129/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euronext Announces December 2025 Quarterly Review Results Of The AEX® Family](http://www.mondovisione.com/media-and-resources/news/euronext-announces-december-2025-quarterly-review-results-of-the-aex-family-2025129/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [A Digital Euro For The Digital Age: Op-Ed By EU Commissioner Valdis Dombrovskis And ECB Executive Board Member Piero Cipollone](http://www.mondovisione.com/media-and-resources/news/a-digital-euro-for-the-digital-age-op-ed-by-eu-commissioner-valdis-dombrovskis-2025129/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Amman Stock Exchange Public Holiday For Christmas And New Year](http://www.mondovisione.com/media-and-resources/news/amman-stock-exchange-public-holiday-for-christmas-and-new-year-2025129/)
+append_entries: 4
+Finish: 2025-12-09 20:25:54.377410
