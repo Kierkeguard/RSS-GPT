@@ -967,3 +967,21 @@ Append: [HKEX Expands Index Business With Launch Of HKEX Tech 100 Index](http://
 Append: [Comptroller Of The US Currency Gould Discusses De Novo Charters](http://www.mondovisione.com/media-and-resources/news/comptroller-of-the-us-currency-gould-discusses-de-novo-charters-2025129/)
 append_entries: 8
 Finish: 2025-12-09 06:39:05.313920
+------------------------------------------------------
+Started: 2025-12-09 08:36:32.536207
+Existing_entries: 179
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ClearToken Launches CT Settle, A Game-Changer For Institutional Digital Asset Trading](http://www.mondovisione.com/media-and-resources/news/cleartoken-launches-ct-settle-a-game-changer-for-institutional-digital-asset-tr-2025129/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cell And Gene Therapy Investments Shift As Budgets Tighten And Big Pharma Recalibrates Towards Strategic Acquisitions, Says GlobalData](http://www.mondovisione.com/media-and-resources/news/cell-and-gene-therapy-investments-shift-as-budgets-tighten-and-big-pharma-recali-2025129/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tehran Securities Exchange Bulletin - November 2025](http://www.mondovisione.com/media-and-resources/news/tehran-securities-exchange-bulletin-november-2025-2025129/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc ("LSEG") Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transaction-in-own-shares-2025129/)
+append_entries: 4
+Finish: 2025-12-09 08:36:33.771527
