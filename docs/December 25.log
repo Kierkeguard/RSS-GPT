@@ -943,3 +943,27 @@ Existing_entries: 171
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-12-09 04:33:04.858637
+------------------------------------------------------
+Started: 2025-12-09 06:39:04.353433
+Existing_entries: 171
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Dubai Financial Services Authority Restricts Former SVS Securities PLC Chief Executive, Mr Kulvir Virk From Operating In Or From The DIFC](http://www.mondovisione.com/media-and-resources/news/the-dubai-financial-services-authority-restricts-former-svs-securities-plc-chief-2025129/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Announcement Regarding The Release Of JPX’s New AI Disclosure Information Search Service: J-LENS (Beta Version)](http://www.mondovisione.com/media-and-resources/news/announcement-regarding-the-release-of-jpxs-new-ai-disclosure-information-search-2025129/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Finalises New Exemptions To Support Digital Asset Innovation](http://www.mondovisione.com/media-and-resources/news/asic-finalises-new-exemptions-to-support-digital-asset-innovation-2025129/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Zealand Financial Markets Authority Releases Thematic Review On Financial Institutions’ Product And Services Reviews](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-releases-thematic-review-on-financial-in-2025129/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Issues Catalogue Of Key Legal Obligations For Private Credit Funds](http://www.mondovisione.com/media-and-resources/news/asic-issues-catalogue-of-key-legal-obligations-for-private-credit-funds-2025129/)
+Append: [New Zealand Financial Markets Authority: Tower Ordered To Pay $7 Million Penalty For Misleading Representations](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-tower-ordered-to-pay-7-million-penalty-2025129/)
+Append: [HKEX Expands Index Business With Launch Of HKEX Tech 100 Index](http://www.mondovisione.com/media-and-resources/news/hkex-expands-index-business-with-launch-of-hkex-tech-100-index-2025129/)
+Append: [Comptroller Of The US Currency Gould Discusses De Novo Charters](http://www.mondovisione.com/media-and-resources/news/comptroller-of-the-us-currency-gould-discusses-de-novo-charters-2025129/)
+append_entries: 8
+Finish: 2025-12-09 06:39:05.313920
