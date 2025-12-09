@@ -1012,3 +1012,15 @@ Existing_entries: 186
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-12-09 14:27:42.841819
+------------------------------------------------------
+Started: 2025-12-09 16:33:26.699824
+Existing_entries: 186
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Puro.earth Expands Digital Infrastructure With Launch Of Puro dMRV Connect API](http://www.mondovisione.com/media-and-resources/news/puroearth-expands-digital-infrastructure-with-launch-of-puro-dmrv-connect-api-2025129/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TMX Group Equity Financing Statistics – November 2025](http://www.mondovisione.com/media-and-resources/news/tmx-group-equity-financing-statistics-november-2025-2025129/)
+append_entries: 2
+Finish: 2025-12-09 16:33:27.794663
