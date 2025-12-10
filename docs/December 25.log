@@ -1121,3 +1121,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [London Stock Exchange Group plc ("LSEG") Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transaction-in-own-shares-20251210/)
 append_entries: 3
 Finish: 2025-12-10 08:34:56.068419
+------------------------------------------------------
+Started: 2025-12-10 10:30:14.633317
+Existing_entries: 209
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Dubai Welcomes The Launch Of New Development Bank’s USD 50 Billion Euro Medium Term Note Programme](http://www.mondovisione.com/media-and-resources/news/nasdaq-dubai-welcomes-the-launch-of-new-development-banks-usd-50-billion-euro-m-20251210/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Launches Firm Checker To Fight Financial Crime](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-launches-firm-checker-to-fight-financial-crime-20251210/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Exchanges Across The Globe Ring The Bell For Climate](http://www.mondovisione.com/media-and-resources/news/exchanges-across-the-globe-ring-the-bell-for-climate-20251210/)
+append_entries: 3
+Finish: 2025-12-10 10:30:15.557678
