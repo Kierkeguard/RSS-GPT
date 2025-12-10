@@ -1148,3 +1148,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Stablecoin Payments A Priority For 2026 As UK Financial Conduct Authority Outlines Growth Achievements](http://www.mondovisione.com/media-and-resources/news/stablecoin-payments-a-priority-for-2026-as-uk-financial-conduct-authority-outlin-20251210/)
 append_entries: 2
 Finish: 2025-12-10 12:55:16.386106
+------------------------------------------------------
+Started: 2025-12-10 14:28:04.703356
+Existing_entries: 214
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SGX Group’s Stock Market Activity Stays Robust In November; Commodities Volume Up On Risk Management, Institutional Flows](http://www.mondovisione.com/media-and-resources/news/sgx-groups-stock-market-activity-stays-robust-in-november-commodities-volume-u-20251210/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESMA Announces Supervisory Expectations For The Management Body In The Form Of 12 High Level Principles](http://www.mondovisione.com/media-and-resources/news/esma-announces-supervisory-expectations-for-the-management-body-in-the-form-of-1-20251210/)
+append_entries: 2
+Finish: 2025-12-10 14:28:05.541459
