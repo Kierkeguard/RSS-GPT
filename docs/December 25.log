@@ -1106,3 +1106,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Miami International Holdings Announces Launch Of Secondary Public Offering Of Common Stock](http://www.mondovisione.com/media-and-resources/news/miami-international-holdings-announces-launch-of-secondary-public-offering-of-co-20251210/)
 append_entries: 3
 Finish: 2025-12-10 06:39:35.502945
+------------------------------------------------------
+Started: 2025-12-10 08:34:55.138585
+Existing_entries: 206
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Barclays Invests In United Fintech, Becoming The Fifth Global Bank Investor And Joins The Board](http://www.mondovisione.com/media-and-resources/news/barclays-invests-in-united-fintech-becoming-the-fifth-global-bank-investor-and-20251210/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CLS Welcomes RCBC, A Philippine Based Bank, As A Third-Party Participant In CLSSettlement - Rizal Commercial Banking Corporation (RCBC) Is The Second Bank In The Philippines To Gain Access To CLSSettlement Through UBS](http://www.mondovisione.com/media-and-resources/news/cls-welcomes-rcbc-a-philippine-based-bank-as-a-third-party-participant-in-clss-20251210/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc ("LSEG") Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transaction-in-own-shares-20251210/)
+append_entries: 3
+Finish: 2025-12-10 08:34:56.068419
