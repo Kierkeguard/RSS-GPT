@@ -1178,3 +1178,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ESMA Chair Verena Ross To Step Down At The End Of Her Current Term](http://www.mondovisione.com/media-and-resources/news/esma-chair-verena-ross-to-step-down-at-the-end-of-her-current-term-20251210/)
 append_entries: 1
 Finish: 2025-12-10 18:36:42.727208
+------------------------------------------------------
+Started: 2025-12-10 20:30:28.000225
+Existing_entries: 218
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Federal Reserve Issues FOMC Statement](http://www.mondovisione.com/media-and-resources/news/federal-reserve-issues-fomc-statement-20251210/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Federal Reserve Board And Federal Open Market Committee Release Economic Projections From The December 9-10 FOMC Meeting](http://www.mondovisione.com/media-and-resources/news/federal-reserve-board-and-federal-open-market-committee-release-economic-project-20251210/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Zealand Financial Markets Authority Censures Opes For Breaching Financial Advice Provider Licensee Obligations](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-censures-opes-for-breaching-financial-ad-20251210/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euronext Announces December 2025 Quarterly Review Results Of The BEL® Family Indices](http://www.mondovisione.com/media-and-resources/news/euronext-announces-december-2025-quarterly-review-results-of-the-bel-family-ind-20251210/)
+append_entries: 4
+Finish: 2025-12-10 20:30:29.020852
