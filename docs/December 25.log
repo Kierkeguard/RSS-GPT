@@ -1085,3 +1085,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [New Zealand Financial Markets Authority: Two Kaupapa Māori Research Papers Released To Fill Gaps In Sector Data](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-two-kaupapa-mori-research-papers-relea-2025129/)
 append_entries: 2
 Finish: 2025-12-10 03:37:40.599756
+------------------------------------------------------
+Started: 2025-12-10 04:37:00.749664
+Existing_entries: 203
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-12-10 04:37:01.684392
