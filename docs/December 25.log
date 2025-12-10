@@ -1091,3 +1091,18 @@ Existing_entries: 203
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-12-10 04:37:01.684392
+------------------------------------------------------
+Started: 2025-12-10 06:39:34.644400
+Existing_entries: 203
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Abu Dhabi Securities Exchange (ADX) Group Welcomes Global Brokerage Platform Interactive Brokers On Board](http://www.mondovisione.com/media-and-resources/news/abu-dhabi-securities-exchange-adx-group-welcomes-global-brokerage-platform-int-20251210/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Press Conference By KATAYAMA Satsuki, Japan Minister Of Finance And Minister Of State For Financial Services = Public Relations Campaign For Countermeasures Against Financial Crime](http://www.mondovisione.com/media-and-resources/news/press-conference-by-katayama-satsuki-japan-minister-of-finance-and-minister-of-20251210/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Miami International Holdings Announces Launch Of Secondary Public Offering Of Common Stock](http://www.mondovisione.com/media-and-resources/news/miami-international-holdings-announces-launch-of-secondary-public-offering-of-co-20251210/)
+append_entries: 3
+Finish: 2025-12-10 06:39:35.502945
