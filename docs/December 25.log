@@ -1136,3 +1136,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Exchanges Across The Globe Ring The Bell For Climate](http://www.mondovisione.com/media-and-resources/news/exchanges-across-the-globe-ring-the-bell-for-climate-20251210/)
 append_entries: 3
 Finish: 2025-12-10 10:30:15.557678
+------------------------------------------------------
+Started: 2025-12-10 12:55:15.283284
+Existing_entries: 212
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [justTRADE: BaFin Warns Against Identity Fraud In WhatsApp Groups And Against Website h5.ecoinf(.)vip](http://www.mondovisione.com/media-and-resources/news/justtrade-bafin-warns-against-identity-fraud-in-whatsapp-groups-and-against-web-20251210/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Stablecoin Payments A Priority For 2026 As UK Financial Conduct Authority Outlines Growth Achievements](http://www.mondovisione.com/media-and-resources/news/stablecoin-payments-a-priority-for-2026-as-uk-financial-conduct-authority-outlin-20251210/)
+append_entries: 2
+Finish: 2025-12-10 12:55:16.386106
