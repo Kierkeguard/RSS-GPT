@@ -1196,3 +1196,26 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Euronext Announces December 2025 Quarterly Review Results Of The BEL® Family Indices](http://www.mondovisione.com/media-and-resources/news/euronext-announces-december-2025-quarterly-review-results-of-the-bel-family-ind-20251210/)
 append_entries: 4
 Finish: 2025-12-10 20:30:29.020852
+------------------------------------------------------
+Started: 2025-12-10 22:24:39.006291
+Existing_entries: 222
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Acting CFTC Chairman Pham Announces CEO Innovation Council Participants - First Round Is Exchanges, CFTC Continuing To Review Submissions](http://www.mondovisione.com/media-and-resources/news/acting-cftc-chairman-pham-announces-ceo-innovation-council-participants-first-20251210/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cboe Global Markets Announces Date Of Fourth-Quarter 2025 Earnings Release And Conference Call](http://www.mondovisione.com/media-and-resources/news/cboe-global-markets-announces-date-of-fourth-quarter-2025-earnings-release-and-c-20251210/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Charges Canadian Citizen With Fraud Schemes That Targeted Retail Investors On Discord](http://www.mondovisione.com/media-and-resources/news/sec-charges-canadian-citizen-with-fraud-schemes-that-targeted-retail-investors-o-20251210/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Commitments of Traders Reports Update: Report Data For 11/11/2025](http://www.mondovisione.com/media-and-resources/news/cftc-commitments-of-traders-reports-update-report-data-for-11112025-20251210/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Canadian Securities Administrators And Canadian Investment Regulatory Organization Provide Findings And Guidance From Latest Phase Of Client Focused Reforms Reviews](http://www.mondovisione.com/media-and-resources/news/canadian-securities-administrators-and-canadian-investment-regulatory-organizat-20251210/)
+Append: [US Office Of The Comptroller Of The Currency Releases Preliminary Findings From Its Review Of Large Banks’ Debanking Activities](http://www.mondovisione.com/media-and-resources/news/us-office-of-the-comptroller-of-the-currency-releases-preliminary-findings-from-20251210/)
+Append: [Ontario Securities Commission Investigation Leads To Fraud Charges For Smart Prime Group](http://www.mondovisione.com/media-and-resources/news/ontario-securities-commission-investigation-leads-to-fraud-charges-for-smart-pri-20251210/)
+append_entries: 7
+Finish: 2025-12-10 22:24:39.858639
