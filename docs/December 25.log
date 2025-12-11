@@ -1289,3 +1289,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CCP Global Publishes The PQD Quarterly Trends Report For 2025 Q3](http://www.mondovisione.com/media-and-resources/news/ccp-global-publishes-the-pqd-quarterly-trends-report-for-2025-q3-20251211/)
 append_entries: 3
 Finish: 2025-12-11 14:26:43.687051
+------------------------------------------------------
+Started: 2025-12-11 16:37:49.284115
+Existing_entries: 239
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Testimony Of FIA Board Chair Alicia Crighton - US House Committee On Agriculture - CFTC Reauthorization: Stakeholder Perspectives, 11 December 2025](http://www.mondovisione.com/media-and-resources/news/testimony-of-fia-board-chair-alicia-crighton-us-house-committee-on-agriculture-20251211/)
+append_entries: 1
+Finish: 2025-12-11 16:37:50.617219
