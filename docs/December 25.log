@@ -1252,3 +1252,25 @@ Existing_entries: 230
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-12-11 10:30:53.246656
+------------------------------------------------------
+Started: 2025-12-11 12:56:11.960347
+Existing_entries: 230
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Decision By The Nasdaq Stockholm Disciplinary Committee Regarding Acenta Group AB](http://www.mondovisione.com/media-and-resources/news/decision-by-the-nasdaq-stockholm-disciplinary-committee-regarding-acenta-group-a-20251211/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Decision By The Nasdaq Stockholm Disciplinary Committee Regarding Mashup Ireland AB](http://www.mondovisione.com/media-and-resources/news/decision-by-the-nasdaq-stockholm-disciplinary-committee-regarding-mashup-ireland-20251211/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX Appoints Group Chief Risk Officer](http://www.mondovisione.com/media-and-resources/news/hkex-appoints-group-chief-risk-officer-20251211/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX: Exchange Presents Results Of Annual Review Of Issuers’ Annual Reports, Corporate Governance Reports And Environmental, Social And Governance Reports; Launches AI-Based Annual Report Explorer](http://www.mondovisione.com/media-and-resources/news/hkex-exchange-presents-results-of-annual-review-of-issuers-annual-reports-cor-20251211/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Scila Appoints Björn Westberg As New CFO - Strengthens Leadership Team For Growth Journey](http://www.mondovisione.com/media-and-resources/news/scila-appoints-bjrn-westberg-as-new-cfo-strengthens-leadership-team-for-growt-20251211/)
+Append: [Puro.earth Receives ICVCM Approval As Eligible Carbon Crediting Programme - Leading Carbon Removal Standard Recognised For Rigorous Governance, Transparency And Scientific Excellence](http://www.mondovisione.com/media-and-resources/news/puroearth-receives-icvcm-approval-as-eligible-carbon-crediting-programme-lead-20251211/)
+append_entries: 6
+Finish: 2025-12-11 12:56:12.925578
