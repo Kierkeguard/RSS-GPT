@@ -1298,3 +1298,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Testimony Of FIA Board Chair Alicia Crighton - US House Committee On Agriculture - CFTC Reauthorization: Stakeholder Perspectives, 11 December 2025](http://www.mondovisione.com/media-and-resources/news/testimony-of-fia-board-chair-alicia-crighton-us-house-committee-on-agriculture-20251211/)
 append_entries: 1
 Finish: 2025-12-11 16:37:50.617219
+------------------------------------------------------
+Started: 2025-12-11 18:37:08.293425
+Existing_entries: 240
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Interactive Brokers Adds Access To Brazil’s B3 Exchange](http://www.mondovisione.com/media-and-resources/news/interactive-brokers-adds-access-to-brazils-b3-exchange-20251211/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Amman Stock Exchange Weekly Summary](http://www.mondovisione.com/media-and-resources/news/amman-stock-exchange-weekly-summary-20251211/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Growing List Of Companies Included In The FTSE4Good Bursa Malaysia Indices Signals Stronger ESG Commitment Among Malaysian Public Listed Companies](http://www.mondovisione.com/media-and-resources/news/growing-list-of-companies-included-in-the-ftse4good-bursa-malaysia-indices-signa-20251211/)
+append_entries: 3
+Finish: 2025-12-11 18:37:09.804453
