@@ -1499,3 +1499,24 @@ Append: [Dubai Financial Market Regulated Short Sell – Weekly Summary - 8th De
 Append: [Euronext Announces December 2025 Quarterly Review Results Of The MIB ESG®](http://www.mondovisione.com/media-and-resources/news/euronext-announces-december-2025-quarterly-review-results-of-the-mib-esg-20251212/)
 append_entries: 6
 Finish: 2025-12-12 18:37:48.784025
+------------------------------------------------------
+Started: 2025-12-12 20:28:13.103623
+Existing_entries: 291
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Acting CFTC Chairman Pham Announces Implementation Of U.S. Treasury Market Reforms - Proposed Order Would Expand CME-FICC Cross-Margining Program To Customers](http://www.mondovisione.com/media-and-resources/news/acting-cftc-chairman-pham-announces-implementation-of-us-treasury-market-refor-20251212/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Office Of The Comptroller Of The US Currency Announces Conditional Approvals For Five National Trust Bank Charter Applications](http://www.mondovisione.com/media-and-resources/news/office-of-the-comptroller-of-the-us-currency-announces-conditional-approvals-for-20251212/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIFMA Fixed Income Market Close Recommendations In The U.S., The U.K. And Japan For New Year’s Day Holiday](http://www.mondovisione.com/media-and-resources/news/sifma-fixed-income-market-close-recommendations-in-the-us-the-uk-and-japan-20251212/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Vancouver Resident Didn’t Comply With Records Demand And Obstructed Justice, BC Securities Commission Panel Says](http://www.mondovisione.com/media-and-resources/news/vancouver-resident-didnt-comply-with-records-demand-and-obstructed-justice-bc-20251212/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The EBA Issues Revised List Of ITS Validation Rules And Announces New Website Location](http://www.mondovisione.com/media-and-resources/news/the-eba-issues-revised-list-of-its-validation-rules-and-announces-new-website-lo-20251212/)
+append_entries: 5
+Finish: 2025-12-12 20:28:14.271190
