@@ -1386,3 +1386,25 @@ Existing_entries: 264
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-12-12 04:37:19.551273
+------------------------------------------------------
+Started: 2025-12-12 06:39:45.341219
+Existing_entries: 264
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TFEX To Launch USD/THB Options On December 15](http://www.mondovisione.com/media-and-resources/news/tfex-to-launch-usdthb-options-on-december-15-20251212/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Statement Regarding Potential Revisions To FSOC’s Non-Bank Designation Guidance, Paul S. Atkins, SEC Chairman, Dec. 11, 2025](http://www.mondovisione.com/media-and-resources/news/statement-regarding-potential-revisions-to-fsocs-non-bank-designation-guidance-20251212/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Remarks Before The US Financial Stability Oversight Council, Paul S. Atkins, SEC Chairman, Financial Stability Oversight Council, Washington D.C., Dec. 11, 2025](http://www.mondovisione.com/media-and-resources/news/remarks-before-the-us-financial-stability-oversight-council-paul-s-atkins-sec-20251212/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Comptroller Of The US Currency Issues Statement On Bank Supervision And Regulation At US Financial Stability Oversight Council Meeting](http://www.mondovisione.com/media-and-resources/news/comptroller-of-the-us-currency-issues-statement-on-bank-supervision-and-regulati-20251212/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Miami International Holdings Announces Pricing Of Secondary Public Offering Of Common Stock](http://www.mondovisione.com/media-and-resources/news/miami-international-holdings-announces-pricing-of-secondary-public-offering-of-c-20251212/)
+Append: [FSOC 2025 Annual Report](http://www.mondovisione.com/media-and-resources/news/fsoc-2025-annual-report-20251212/)
+append_entries: 6
+Finish: 2025-12-12 06:39:46.339453
