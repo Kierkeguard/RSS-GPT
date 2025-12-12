@@ -1438,3 +1438,18 @@ Append: [ASIC Industry Funding: 2024-25 Dashboard Of Regulatory Costs And Summar
 Append: [JPX Market Innovation & Research: TOPIX 100 Net Total Return Index To Be Launched](http://www.mondovisione.com/media-and-resources/news/jpx-market-innovation-and-research-topix-100-net-total-return-index-to-be-launche-20251212/)
 append_entries: 8
 Finish: 2025-12-12 10:29:12.586401
+------------------------------------------------------
+Started: 2025-12-12 12:53:41.683492
+Existing_entries: 278
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER: First Step Towards Mandatory EU-Wide Cost Efficiency Comparison Of Gas Transmission Operators](http://www.mondovisione.com/media-and-resources/news/acer-first-step-towards-mandatory-eu-wide-cost-efficiency-comparison-of-gas-tra-20251212/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [265 Listed Firms Achieve SET ESG Ratings As Thai Bourse Prepares For FTSE Russell ESG Transition In 2026](http://www.mondovisione.com/media-and-resources/news/265-listed-firms-achieve-set-esg-ratings-as-thai-bourse-prepares-for-ftse-russel-20251212/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Global Standard-Setting Bodies Publish Assessment Of Margin Requirements For Non-Centrally Cleared Derivatives](http://www.mondovisione.com/media-and-resources/news/global-standard-setting-bodies-publish-assessment-of-margin-requirements-for-non-20251212/)
+append_entries: 3
+Finish: 2025-12-12 12:53:42.596846
