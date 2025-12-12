@@ -1477,3 +1477,25 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Exchange Data International Wins Best Corporate Actions Data Provider At The Data Management Insight Awards Europe 2025](http://www.mondovisione.com/media-and-resources/news/exchange-data-international-wins-best-corporate-actions-data-provider-at-the-dat-20251212/)
 append_entries: 2
 Finish: 2025-12-12 16:32:03.073069
+------------------------------------------------------
+Started: 2025-12-12 18:37:47.435220
+Existing_entries: 285
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Announces Semi-Annual Changes To The OMX Copenhagen 25™ Index](http://www.mondovisione.com/media-and-resources/news/nasdaq-announces-semi-annual-changes-to-the-omx-copenhagen-25-index-20251212/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nigerian Exchange Weekly Market Report For The Week Ended 12 December 2025](http://www.mondovisione.com/media-and-resources/news/nigerian-exchange-weekly-market-report-for-the-week-ended-12-december-2025-20251212/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Deutsche Börse Group: Business Indicators For November 2025](http://www.mondovisione.com/media-and-resources/news/deutsche-brse-group-business-indicators-for-november-2025-20251212/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [gAIn360 Lists On Euronext](http://www.mondovisione.com/media-and-resources/news/gain360-lists-on-euronext-20251212/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Dubai Financial Market Regulated Short Sell – Weekly Summary - 8th December 2025 To 12th December 2025](http://www.mondovisione.com/media-and-resources/news/dubai-financial-market-regulated-short-sell-weekly-summary-8th-december-2025-20251212/)
+Append: [Euronext Announces December 2025 Quarterly Review Results Of The MIB ESG®](http://www.mondovisione.com/media-and-resources/news/euronext-announces-december-2025-quarterly-review-results-of-the-mib-esg-20251212/)
+append_entries: 6
+Finish: 2025-12-12 18:37:48.784025
