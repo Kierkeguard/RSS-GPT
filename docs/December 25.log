@@ -1520,3 +1520,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [The EBA Issues Revised List Of ITS Validation Rules And Announces New Website Location](http://www.mondovisione.com/media-and-resources/news/the-eba-issues-revised-list-of-its-validation-rules-and-announces-new-website-lo-20251212/)
 append_entries: 5
 Finish: 2025-12-12 20:28:14.271190
+------------------------------------------------------
+Started: 2025-12-12 22:25:15.183529
+Existing_entries: 296
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Commitments Of Traders Reports Update: Report Data For 11/18/2025](http://www.mondovisione.com/media-and-resources/news/cftc-commitments-of-traders-reports-update-report-data-for-11182025-20251212/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Remarks By Acting CFTC Chairman Caroline D. Pham Before The US Financial Stability Oversight Council](http://www.mondovisione.com/media-and-resources/news/remarks-by-acting-cftc-chairman-caroline-d-pham-before-the-us-financial-stabili-20251212/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ETFGI Reports That Assets Invested In The ETFs Industry In The United States Reached A New Record Of US$13.22 Trillion At The End Of November](http://www.mondovisione.com/media-and-resources/news/etfgi-reports-that-assets-invested-in-the-etfs-industry-in-the-united-states-rea-20251212/)
+append_entries: 3
+Finish: 2025-12-12 22:25:16.561065
