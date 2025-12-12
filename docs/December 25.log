@@ -1465,3 +1465,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Deutsche Börse Frankfurt Trading Charity Raises €80,000 In Donations](http://www.mondovisione.com/media-and-resources/news/deutsche-brse-frankfurt-trading-charity-raises-80000-in-donations-20251212/)
 append_entries: 2
 Finish: 2025-12-12 14:23:07.836975
+------------------------------------------------------
+Started: 2025-12-12 16:32:01.758139
+Existing_entries: 283
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Moscow Exchange: Updated Constituents List For OFZ Zero Coupon Yield Curve To Come Into Force On 15 December 2025](http://www.mondovisione.com/media-and-resources/news/moscow-exchange-updated-constituents-list-for-ofz-zero-coupon-yield-curve-to-co-20251212/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Exchange Data International Wins Best Corporate Actions Data Provider At The Data Management Insight Awards Europe 2025](http://www.mondovisione.com/media-and-resources/news/exchange-data-international-wins-best-corporate-actions-data-provider-at-the-dat-20251212/)
+append_entries: 2
+Finish: 2025-12-12 16:32:03.073069
