@@ -1414,3 +1414,27 @@ Existing_entries: 270
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-12-12 08:36:14.099156
+------------------------------------------------------
+Started: 2025-12-12 10:29:11.506575
+Existing_entries: 270
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Fines Nationwide £44m For Failings In Financial Crime Controls](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-fines-nationwide-44m-for-failings-in-financial-c-20251212/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Stockholm Welcomes Viva Wine Group AB To The Main Market](http://www.mondovisione.com/media-and-resources/news/nasdaq-stockholm-welcomes-viva-wine-group-ab-to-the-main-market-20251212/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc ("LSEG") Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transaction-in-own-shares-20251212/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Securities Commission Malaysia Seeks Feedback As Part Of Malaysia’s Corporate Governance Framework Review](http://www.mondovisione.com/media-and-resources/news/securities-commission-malaysia-seeks-feedback-as-part-of-malaysias-corporate-go-20251212/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [JPX Market & Innovation To Launch TOPIX High Dividend Growth Index](http://www.mondovisione.com/media-and-resources/news/jpx-market-and-innovation-to-launch-topix-high-dividend-growth-index-20251212/)
+Append: [Calculation Of New “JPX Start-Up Acceleration 100 Index” Focused On Growth Of Startups](http://www.mondovisione.com/media-and-resources/news/calculation-of-new-jpx-start-up-acceleration-100-index-focused-on-growth-of-st-20251212/)
+Append: [ASIC Industry Funding: 2024-25 Dashboard Of Regulatory Costs And Summary Of Variances Has Been Released](http://www.mondovisione.com/media-and-resources/news/asic-industry-funding-2024-25-dashboard-of-regulatory-costs-and-summary-of-vari-20251212/)
+Append: [JPX Market Innovation & Research: TOPIX 100 Net Total Return Index To Be Launched](http://www.mondovisione.com/media-and-resources/news/jpx-market-innovation-and-research-topix-100-net-total-return-index-to-be-launche-20251212/)
+append_entries: 8
+Finish: 2025-12-12 10:29:12.586401
