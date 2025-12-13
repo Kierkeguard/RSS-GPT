@@ -1571,3 +1571,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [BC Securities Commission: Quasi-Criminal Charges Stayed Against Vancouver Resident](http://www.mondovisione.com/media-and-resources/news/bc-securities-commission-quasi-criminal-charges-stayed-against-vancouver-reside-20251213/)
 append_entries: 2
 Finish: 2025-12-13 08:30:44.537310
+------------------------------------------------------
+Started: 2025-12-13 10:24:22.636679
+Existing_entries: 301
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-12-13 10:24:23.882723
