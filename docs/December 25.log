@@ -1661,3 +1661,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Financial Group Floated Shares At Tehran Securities Exchange](http://www.mondovisione.com/media-and-resources/news/financial-group-floated-shares-at-tehran-securities-exchange-20251214/)
 append_entries: 1
 Finish: 2025-12-14 14:22:25.452681
+------------------------------------------------------
+Started: 2025-12-14 16:29:26.868857
+Existing_entries: 303
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-12-14 16:29:28.198628
