@@ -1646,3 +1646,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Cement Producer At Tehran Securities Exchange Bell-Ringing Ceremony](http://www.mondovisione.com/media-and-resources/news/cement-producer-at-tehran-securities-exchange-bell-ringing-ceremony-20251214/)
 append_entries: 1
 Finish: 2025-12-14 10:24:51.368438
+------------------------------------------------------
+Started: 2025-12-14 12:48:33.818282
+Existing_entries: 302
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-12-14 12:48:34.980868
