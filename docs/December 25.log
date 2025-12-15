@@ -1700,3 +1700,18 @@ Existing_entries: 304
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-12-15 04:45:16.119822
+------------------------------------------------------
+Started: 2025-12-15 06:41:59.834145
+Existing_entries: 304
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Announces Transformational Package To Safeguard Australia’s Financial Markets In Response To ASX Inquiry Interim Report](http://www.mondovisione.com/media-and-resources/news/asic-announces-transformational-package-to-safeguard-australias-financial-marke-20251215/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Zealand Financial Markets Authority Confirms Investigation Into Chance Voight](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-confirms-investigation-into-chance-voigh-20251215/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC: First Sustainability Reporting Educational Modules Released To Assist Smaller Companies](http://www.mondovisione.com/media-and-resources/news/asic-first-sustainability-reporting-educational-modules-released-to-assist-smal-20251215/)
+append_entries: 3
+Finish: 2025-12-15 06:42:00.659454
