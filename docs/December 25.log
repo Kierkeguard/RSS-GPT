@@ -1790,3 +1790,27 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [DIFC Becomes Top Five Global Hub For Hedge Fund Managers - Over 100 Hedge Funds Now Registered In The Centre](http://www.mondovisione.com/media-and-resources/news/difc-becomes-top-five-global-hub-for-hedge-fund-managers-over-100-hedge-funds-20251215/)
 append_entries: 1
 Finish: 2025-12-15 18:38:42.064902
+------------------------------------------------------
+Started: 2025-12-15 20:29:56.082349
+Existing_entries: 324
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq, Inc. Announces Pricing Of Cash Tender Offers And Acceptance Of Outstanding Debt Securities](http://www.mondovisione.com/media-and-resources/news/nasdaq-inc-announces-pricing-of-cash-tender-offers-and-acceptance-of-outstandi-20251215/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Joint EBA-ECB Report On Payment Fraud: Strong Authentication Remains Effective But Fraudsters Are Adapting](http://www.mondovisione.com/media-and-resources/news/joint-eba-ecb-report-on-payment-fraud-strong-authentication-remains-effective-b-20251215/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESMA Finalises Technical Standards On Derivatives Transparency And The OTC Derivatives Tape](http://www.mondovisione.com/media-and-resources/news/esma-finalises-technical-standards-on-derivatives-transparency-and-the-otc-deriv-20251215/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESAs Publish Key Tips To Help Consumers Detect, Prevent, And Act On Online Frauds And Scams](http://www.mondovisione.com/media-and-resources/news/esas-publish-key-tips-to-help-consumers-detect-prevent-and-act-on-online-fraud-20251215/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Call For Papers! FESE De la Vega Prize 2026](http://www.mondovisione.com/media-and-resources/news/call-for-papers-fese-de-la-vega-prize-2026-20251215/)
+Append: [London Stock Exchange Group plc: Publication Of Supplement To Offering Circular](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-publication-of-supplement-to-offering-circular-20251215/)
+Append: [New Initial Access Document On BME Scaleup From Grupo Lar Retail Investments SOCIMI](http://www.mondovisione.com/media-and-resources/news/new-initial-access-document-on-bme-scaleup-from-grupo-lar-retail-investments-soc-20251215/)
+Append: [BME Scaleup Welcomes GrandVoyage](http://www.mondovisione.com/media-and-resources/news/bme-scaleup-welcomes-grandvoyage-20251215/)
+append_entries: 8
+Finish: 2025-12-15 20:29:57.183752
