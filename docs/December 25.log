@@ -1781,3 +1781,12 @@ Existing_entries: 323
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-12-15 16:37:37.238629
+------------------------------------------------------
+Started: 2025-12-15 18:38:41.064614
+Existing_entries: 323
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [DIFC Becomes Top Five Global Hub For Hedge Fund Managers - Over 100 Hedge Funds Now Registered In The Centre](http://www.mondovisione.com/media-and-resources/news/difc-becomes-top-five-global-hub-for-hedge-fund-managers-over-100-hedge-funds-20251215/)
+append_entries: 1
+Finish: 2025-12-15 18:38:42.064902
