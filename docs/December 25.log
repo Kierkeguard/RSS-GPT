@@ -1838,3 +1838,12 @@ Append: [US Federal Agencies Announce Dollar Thresholds For Smaller Loan Exempti
 Append: [US Federal Agencies Announce Dollar Thresholds For Applicability Of Truth In Lending And Consumer Leasing Rules For Consumer Credit And Lease Transactions](http://www.mondovisione.com/media-and-resources/news/us-federal-agencies-announce-dollar-thresholds-for-applicability-of-truth-in-len-20251215/)
 append_entries: 8
 Finish: 2025-12-15 22:25:28.208956
+------------------------------------------------------
+Started: 2025-12-16 02:02:05.437614
+Existing_entries: 340
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Renews Guidance On Managing Conflicts Of Interest In Financial Services](http://www.mondovisione.com/media-and-resources/news/asic-renews-guidance-on-managing-conflicts-of-interest-in-financial-services-20251215/)
+append_entries: 1
+Finish: 2025-12-16 02:02:06.798005
