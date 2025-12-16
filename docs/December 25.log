@@ -1977,3 +1977,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [EDX Markets And Canton Network Partner To Advance Institutional Adoption Of Digital Assets](http://www.mondovisione.com/media-and-resources/news/edx-markets-and-canton-network-partner-to-advance-institutional-adoption-of-digi-20251216/)
 append_entries: 2
 Finish: 2025-12-16 20:30:22.898755
+------------------------------------------------------
+Started: 2025-12-16 22:23:04.625391
+Existing_entries: 371
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [6,7 Meet 611: Remarks At The Roundtable On Rule 611 Of Regulation NMS, SEC Commissioner Hester M. Peirce, Dec. 16, 2025](http://www.mondovisione.com/media-and-resources/news/67-meet-611-remarks-at-the-roundtable-on-rule-611-of-regulation-nms-sec-commi-20251216/)
+append_entries: 1
+Finish: 2025-12-16 22:23:05.546863
