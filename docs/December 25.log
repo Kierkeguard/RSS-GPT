@@ -1922,3 +1922,21 @@ Existing_entries: 356
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-12-16 14:29:35.177208
+------------------------------------------------------
+Started: 2025-12-16 16:35:38.378769
+Existing_entries: 356
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Remarks At The Roundtable On Rule 611 Of Regulation NMS, Paul S. Atkins, SEC Chairman, Austin, TX, Dec. 16, 2025](http://www.mondovisione.com/media-and-resources/news/remarks-at-the-roundtable-on-rule-611-of-regulation-nms-paul-s-atkins-sec-cha-20251216/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Miami International Holdings Announces Closing Of Secondary Public Offering Of Common Stock - Underwriters Exercise Full Option To Purchase Additional Shares](http://www.mondovisione.com/media-and-resources/news/miami-international-holdings-announces-closing-of-secondary-public-offering-of-c-20251216/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CUSIP Request Volumes For New Corporate Securities Rise In November Municipal Issuance Slows](http://www.mondovisione.com/media-and-resources/news/cusip-request-volumes-for-new-corporate-securities-rise-in-november-municipal-is-20251216/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Canton Network Announces Intention To Deploy World Liberty Financial’s USD1 Stablecoin, Advancing Institutional-Grade Onchain Finance](http://www.mondovisione.com/media-and-resources/news/the-canton-network-announces-intention-to-deploy-world-liberty-financials-usd1-20251216/)
+append_entries: 4
+Finish: 2025-12-16 16:35:39.204926
