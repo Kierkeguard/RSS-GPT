@@ -1871,3 +1871,26 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Nadex Self-Certifies Industry Event Contract](http://www.mondovisione.com/media-and-resources/news/nadex-self-certifies-industry-event-contract-20251216/)
 append_entries: 2
 Finish: 2025-12-16 08:36:50.314033
+------------------------------------------------------
+Started: 2025-12-16 10:30:35.548756
+Existing_entries: 343
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Boerse Stuttgart Group Establishes New Advisory Council: High Caliber International Senior Leaders Underline The Group's Ambitions](http://www.mondovisione.com/media-and-resources/news/boerse-stuttgart-group-establishes-new-advisory-council-high-caliber-internatio-20251216/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tehran Securities Exchange Weekly Market Snapshot ended 10 December 2025](http://www.mondovisione.com/media-and-resources/news/tehran-securities-exchange-weekly-market-snapshot-ended-10-december-2025-20251216/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Danish Growth Capital Becomes Sixth Institutional Investor In United Fintech](http://www.mondovisione.com/media-and-resources/news/danish-growth-capital-becomes-sixth-institutional-investor-in-united-fintech-20251216/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CoinShares Fund Flows: Digital Asset Funds See Continued Inflows As Investor Confidence Gradually Improves](http://www.mondovisione.com/media-and-resources/news/coinshares-fund-flows-digital-asset-funds-see-continued-inflows-as-investor-con-20251216/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Avelacom Expands London Presence With New Equinix LD7 PoP -  The New Point Of Presence Supports Colocation And On-Demand Server Offerings For Trading Firms Accessing Both Traditional And Digital Markets Delivering Best-In-Market Network Speeds Measured By Round-Trip Latency](http://www.mondovisione.com/media-and-resources/news/avelacom-expands-london-presence-with-new-equinix-ld7-pop-the-new-point-of-pr-20251216/)
+Append: [FSB Reports Continued Growth In Nonbank Financial Intermediation In 2024 To $256.8 Trillion](http://www.mondovisione.com/media-and-resources/news/fsb-reports-continued-growth-in-nonbank-financial-intermediation-in-2024-to-256-20251216/)
+Append: [London Stock Exchange Group plc ("LSEG") Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transaction-in-own-shares-20251216/)
+append_entries: 7
+Finish: 2025-12-16 10:30:36.481162
