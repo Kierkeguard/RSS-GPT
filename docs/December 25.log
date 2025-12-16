@@ -1965,3 +1965,15 @@ Append: [ESMA Maintains Recognition Of Two UK Central Counterparties Under EMIR]
 Append: [Grupo Lar Retail Investments SOCIMI Joins BME Scaleup On December 18](http://www.mondovisione.com/media-and-resources/news/grupo-lar-retail-investments-socimi-joins-bme-scaleup-on-december-18-20251216/)
 append_entries: 9
 Finish: 2025-12-16 18:38:32.859002
+------------------------------------------------------
+Started: 2025-12-16 20:30:22.130608
+Existing_entries: 369
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Xceptor Introduces AI Innovations To Automate Upgrade Checks And Transform Exceptions Handling  - New Upgrade Toolkit For On-Premises Solutions And AI Agent For Saas Provides Clients With Faster Time To Value While Reducing Deployment Risk](http://www.mondovisione.com/media-and-resources/news/xceptor-introduces-ai-innovations-to-automate-upgrade-checks-and-transform-excep-20251216/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [EDX Markets And Canton Network Partner To Advance Institutional Adoption Of Digital Assets](http://www.mondovisione.com/media-and-resources/news/edx-markets-and-canton-network-partner-to-advance-institutional-adoption-of-digi-20251216/)
+append_entries: 2
+Finish: 2025-12-16 20:30:22.898755
