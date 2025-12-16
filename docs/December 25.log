@@ -1894,3 +1894,25 @@ Append: [FSB Reports Continued Growth In Nonbank Financial Intermediation In 202
 Append: [London Stock Exchange Group plc ("LSEG") Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transaction-in-own-shares-20251216/)
 append_entries: 7
 Finish: 2025-12-16 10:30:36.481162
+------------------------------------------------------
+Started: 2025-12-16 12:55:23.369164
+Existing_entries: 350
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Vienna Stock Exchange: Gallmetzer HealthCare Enters Direct Market Plus](http://www.mondovisione.com/media-and-resources/news/vienna-stock-exchange-gallmetzer-healthcare-enters-direct-market-plus-20251216/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER Recognises Good Practices In The French National Resource Adequacy Assessment And Provides Suggestions To Strengthen It](http://www.mondovisione.com/media-and-resources/news/acer-recognises-good-practices-in-the-french-national-resource-adequacy-assessme-20251216/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LSEG And Citi Announce Multi-Year Data & Analytics Partnership To Strengthen Client Delivery](http://www.mondovisione.com/media-and-resources/news/lseg-and-citi-announce-multi-year-data-and-analytics-partnership-to-strengthen-cli-20251216/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Seeks Feedback On Proposals For UK Crypto Rules](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-seeks-feedback-on-proposals-for-uk-crypto-rules-20251216/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Duco Partners With Phoenix Group To Modernise Data Reconciliation Across Asset Management](http://www.mondovisione.com/media-and-resources/news/duco-partners-with-phoenix-group-to-modernise-data-reconciliation-across-asset-m-20251216/)
+Append: [Broadridge Strengthens Platform For Alternative Investment Managers With New General Ledger Capabilities And A Redesigned User Interface](http://www.mondovisione.com/media-and-resources/news/broadridge-strengthens-platform-for-alternative-investment-managers-with-new-gen-20251216/)
+append_entries: 6
+Finish: 2025-12-16 12:55:24.796176
