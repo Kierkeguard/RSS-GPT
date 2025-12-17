@@ -2049,3 +2049,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [London Stock Exchange Group plc ("LSEG") Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transaction-in-own-shares-20251217/)
 append_entries: 5
 Finish: 2025-12-17 10:30:14.642253
+------------------------------------------------------
+Started: 2025-12-17 12:55:31.645983
+Existing_entries: 381
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange: 2025 highlights](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-2025-highlights-20251217/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tehran Securities Exchange Eliminates Base Volume, Embraces Global Market Standards](http://www.mondovisione.com/media-and-resources/news/tehran-securities-exchange-eliminates-base-volume-embraces-global-market-standa-20251217/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CISI Appoints Rholo Mba, Chartered FCSI As New Jersey Branch President](http://www.mondovisione.com/media-and-resources/news/cisi-appoints-rholo-mba-chartered-fcsi-as-new-jersey-branch-president-20251217/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER: Europe Reshapes Capacity Calculation Regions To Improve Cross-Border Power Flows](http://www.mondovisione.com/media-and-resources/news/acer-europe-reshapes-capacity-calculation-regions-to-improve-cross-border-power-20251217/)
+append_entries: 4
+Finish: 2025-12-17 12:55:32.532066
