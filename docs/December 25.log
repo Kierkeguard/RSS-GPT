@@ -2094,3 +2094,25 @@ Existing_entries: 390
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-12-17 16:35:31.262032
+------------------------------------------------------
+Started: 2025-12-17 18:39:09.737969
+Existing_entries: 390
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Welcomes Reform To The UK Benchmarks Regulation](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-welcomes-reform-to-the-uk-benchmarks-regulation-20251217/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BME Bids Farewell To A Record Year For The IBEX 35® With Growth In Trading Volume, Dividends, And Capital Increases](http://www.mondovisione.com/media-and-resources/news/bme-bids-farewell-to-a-record-year-for-the-ibex-35-with-growth-in-trading-volum-20251217/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Finansinspektionen: Garantum Fondkommission Receives A Remark And Administrative Fine](http://www.mondovisione.com/media-and-resources/news/finansinspektionen-garantum-fondkommission-receives-a-remark-and-administrative-20251217/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Q3 2025 Supervisory Data Confirm Solid And Stable Asset Quality, Solvency, Liquidity And Profitability In EU/EEA Banks, Despite High Macroeconomic And Geopolitical Risks](http://www.mondovisione.com/media-and-resources/news/q3-2025-supervisory-data-confirm-solid-and-stable-asset-quality-solvency-liqui-20251217/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESMA Reviews Impact Of Guidelines On ESG Or Sustainability Related Terms In Fund Names](http://www.mondovisione.com/media-and-resources/news/esma-reviews-impact-of-guidelines-on-esg-or-sustainability-related-terms-in-fund-20251217/)
+Append: [Euronext’s iBabs Launches AI Solution For Enhanced Governance Efficiency And Transparency](http://www.mondovisione.com/media-and-resources/news/euronexts-ibabs-launches-ai-solution-for-enhanced-governance-efficiency-and-tra-20251217/)
+append_entries: 6
+Finish: 2025-12-17 18:39:10.859375
