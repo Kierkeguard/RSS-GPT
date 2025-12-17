@@ -2010,3 +2010,21 @@ Existing_entries: 372
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-12-17 06:40:07.665976
+------------------------------------------------------
+Started: 2025-12-17 08:36:26.518536
+Existing_entries: 372
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Notice On 2026  Dalian Commodity Exchange Market Holiday Arrangements](http://www.mondovisione.com/media-and-resources/news/notice-on-2026-dalian-commodity-exchange-market-holiday-arrangements-20251217/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [DIFC Solidifies Dubai’s Position As A Global Hub For Digital Economy By Strengthening Privacy Governance, Promoting Inclusive Cross-Border Trade](http://www.mondovisione.com/media-and-resources/news/difc-solidifies-dubais-position-as-a-global-hub-for-digital-economy-by-strength-20251217/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [A Quarter Of Connecting, Innovating And Diversifying Hong Kong Markets: Hong Kong Securities And Futures Commission Report](http://www.mondovisione.com/media-and-resources/news/a-quarter-of-connecting-innovating-and-diversifying-hong-kong-markets-hong-kon-20251217/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Extends Relief For Litigation Funding Arrangements And Conditional Costs Schemes](http://www.mondovisione.com/media-and-resources/news/asic-extends-relief-for-litigation-funding-arrangements-and-conditional-costs-sc-20251217/)
+append_entries: 4
+Finish: 2025-12-17 08:36:27.690092
