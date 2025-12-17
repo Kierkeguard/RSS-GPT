@@ -2067,3 +2067,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ACER: Europe Reshapes Capacity Calculation Regions To Improve Cross-Border Power Flows](http://www.mondovisione.com/media-and-resources/news/acer-europe-reshapes-capacity-calculation-regions-to-improve-cross-border-power-20251217/)
 append_entries: 4
 Finish: 2025-12-17 12:55:32.532066
+------------------------------------------------------
+Started: 2025-12-17 14:28:09.819824
+Existing_entries: 385
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER Criticises Delays In Receiving ENTSOG’s 2024 Draft Ten-Year Gas And Hydrogen Network Development Plan And Recommends Improvements](http://www.mondovisione.com/media-and-resources/news/acer-criticises-delays-in-receiving-entsogs-2024-draft-ten-year-gas-and-hydroge-20251217/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [100th Anniversary Of Alpha Bank’s Listing On The Athens Stock Exchange](http://www.mondovisione.com/media-and-resources/news/100th-anniversary-of-alpha-banks-listing-on-the-athens-stock-exchange-20251217/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [DTCC And Digital Asset Partner To Tokenize DTC-Custodied U.S. Treasury Securities On The Canton Network - Represents The First Step In DTCC’s Broader Strategy To Make DTC-Custodied Assets Available On-Chain](http://www.mondovisione.com/media-and-resources/news/dtcc-and-digital-asset-partner-to-tokenize-dtc-custodied-us-treasury-securitie-20251217/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Trading Technologies Acquires OpenGamma, Leader In Margin And Capital Optimization Analytics](http://www.mondovisione.com/media-and-resources/news/trading-technologies-acquires-opengamma-leader-in-margin-and-capital-optimizati-20251217/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group Inc. Announces Fourth-Quarter And Year-End 2025 Earnings Release, Conference Call](http://www.mondovisione.com/media-and-resources/news/cme-group-inc-announces-fourth-quarter-and-year-end-2025-earnings-release-conf-20251217/)
+append_entries: 5
+Finish: 2025-12-17 14:28:10.930856
