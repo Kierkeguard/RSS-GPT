@@ -2185,3 +2185,25 @@ Existing_entries: 409
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-12-18 06:39:47.927453
+------------------------------------------------------
+Started: 2025-12-18 08:35:50.261599
+Existing_entries: 409
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euronext Accelerates European CSD Expansion, Driving Choice, Efficiency And Innovation In European Capital Markets](http://www.mondovisione.com/media-and-resources/news/euronext-accelerates-european-csd-expansion-driving-choice-efficiency-and-inno-20251218/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Improves And Simplifies Technological And Operational Resilience Guidance](http://www.mondovisione.com/media-and-resources/news/asic-improves-and-simplifies-technological-and-operational-resilience-guidance-20251218/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Joint Singapore Council For Estate Agencies-Monetary Authority Of Singapore Response To Letter On Regulating Property Agents Under The Financial Advisers Act - The Straits Times, 28 November 2025](http://www.mondovisione.com/media-and-resources/news/joint-singapore-council-for-estate-agencies-monetary-authority-of-singapore-resp-20251218/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Office Of The Comptroller Of The Currency Files Amicus Brief On 10th Circuit Decision](http://www.mondovisione.com/media-and-resources/news/us-office-of-the-comptroller-of-the-currency-files-amicus-brief-on-10th-circuit-20251218/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIFMA Welcomes HFSC Mark-Up Of Resolution To Reestablish The Task Force On Monetary Policy, Treasury Market Resilience, And Economic Prosperity](http://www.mondovisione.com/media-and-resources/news/sifma-welcomes-hfsc-mark-up-of-resolution-to-reestablish-the-task-force-on-monet-20251218/)
+Append: [SIFMA Issues 2026 And 2027 Fixed Income Recommendations For Full & Early Holiday Closes In The U.S., U.K., And Japan](http://www.mondovisione.com/media-and-resources/news/sifma-issues-2026-and-2027-fixed-income-recommendations-for-full-and-early-holiday-20251218/)
+append_entries: 6
+Finish: 2025-12-18 08:35:51.090315
