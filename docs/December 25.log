@@ -2252,3 +2252,12 @@ Append: [Long Finance And Financial Centre Futures The Z/Yen Long Finance Initia
 Append: [European Parliament: Deal On New Measures To Boost Citizens’ Investments In Financial Markets](http://www.mondovisione.com/media-and-resources/news/european-parliament-deal-on-new-measures-to-boost-citizens-investments-in-fina-20251218/)
 append_entries: 6
 Finish: 2025-12-18 12:53:57.947972
+------------------------------------------------------
+Started: 2025-12-18 14:27:46.443683
+Existing_entries: 428
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Regnology Signs An Agreement To Acquire Moody’s Regulatory Reporting & ALM Solutions - The Deal Further Strengthens Regnology’s Global Position In Regulatory Reporting And Significantly Accelerates Its Expansion Into New Markets](http://www.mondovisione.com/media-and-resources/news/regnology-signs-an-agreement-to-acquire-moodys-regulatory-reporting-and-alm-solut-20251218/)
+append_entries: 1
+Finish: 2025-12-18 14:27:47.798504
