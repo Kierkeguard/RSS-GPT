@@ -2301,3 +2301,15 @@ Append: [Bermuda Stock Exchange – 2025/2026 Festive Holiday Closure Notice](ht
 Append: [EBA, ECB, National Central Banks And National Supervisory Authorities Sign Mou In Support Of Non-Bank PSPs’ Access To Payment Systems](http://www.mondovisione.com/media-and-resources/news/eba-ecb-national-central-banks-and-national-supervisory-authorities-sign-mou-i-20251218/)
 append_entries: 6
 Finish: 2025-12-18 18:38:26.134749
+------------------------------------------------------
+Started: 2025-12-18 20:25:59.779161
+Existing_entries: 439
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Federal Reserve: Senior Credit Officer Opinion Survey On Dealer Financing Terms](http://www.mondovisione.com/media-and-resources/news/federal-reserve-senior-credit-officer-opinion-survey-on-dealer-financing-terms-20251218/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Interactive Brokers Redesigns IBKR GlobalTrader App For Simpler, Smarter Mobile Trading - New Mobile Experience Offers Faster Navigation, AI-Driven Market Insights, And Integrated Access To Forecast Contracts For Investors Worldwide](http://www.mondovisione.com/media-and-resources/news/interactive-brokers-redesigns-ibkr-globaltrader-app-for-simpler-smarter-mobile-20251218/)
+append_entries: 2
+Finish: 2025-12-18 20:26:01.700116
