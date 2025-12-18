@@ -2313,3 +2313,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Interactive Brokers Redesigns IBKR GlobalTrader App For Simpler, Smarter Mobile Trading - New Mobile Experience Offers Faster Navigation, AI-Driven Market Insights, And Integrated Access To Forecast Contracts For Investors Worldwide](http://www.mondovisione.com/media-and-resources/news/interactive-brokers-redesigns-ibkr-globaltrader-app-for-simpler-smarter-mobile-20251218/)
 append_entries: 2
 Finish: 2025-12-18 20:26:01.700116
+------------------------------------------------------
+Started: 2025-12-18 22:25:07.305440
+Existing_entries: 441
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group Announces 2026 Annual Meeting Date](http://www.mondovisione.com/media-and-resources/news/cme-group-announces-2026-annual-meeting-date-20251218/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Treasury International Capital Data For October](http://www.mondovisione.com/media-and-resources/news/treasury-international-capital-data-for-october-20251218/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NZX Wealth Technologies To Expand Services To Craigs](http://www.mondovisione.com/media-and-resources/news/nzx-wealth-technologies-to-expand-services-to-craigs-20251218/)
+append_entries: 3
+Finish: 2025-12-18 22:25:09.225500
