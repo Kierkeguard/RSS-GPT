@@ -2261,3 +2261,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Regnology Signs An Agreement To Acquire Moody’s Regulatory Reporting & ALM Solutions - The Deal Further Strengthens Regnology’s Global Position In Regulatory Reporting And Significantly Accelerates Its Expansion Into New Markets](http://www.mondovisione.com/media-and-resources/news/regnology-signs-an-agreement-to-acquire-moodys-regulatory-reporting-and-alm-solut-20251218/)
 append_entries: 1
 Finish: 2025-12-18 14:27:47.798504
+------------------------------------------------------
+Started: 2025-12-18 16:39:04.365710
+Existing_entries: 429
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TD Securities Joins Capital Markets Gateway As Investor And Client, Expanding Global Underwriter Network](http://www.mondovisione.com/media-and-resources/news/td-securities-joins-capital-markets-gateway-as-investor-and-client-expanding-gl-20251218/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER Welcomes Improved Polish Gas Transmission Tariff Methodology And Merger Into Single Entry-Exit Zone](http://www.mondovisione.com/media-and-resources/news/acer-welcomes-improved-polish-gas-transmission-tariff-methodology-and-merger-int-20251218/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Federal Reserve Board Publishes First Of Several Staff Manuals For The Supervision Of The Largest And Most Complex Banks](http://www.mondovisione.com/media-and-resources/news/federal-reserve-board-publishes-first-of-several-staff-manuals-for-the-supervisi-20251218/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bitcoin Security Provider Wizardsardine Partners With Resolvr To Insure Self-Custodied Bitcoin - Strategic Partnership With Resolvr Enables Organisations To Access Insurance For Self-Custodied Bitcoin For The First Time](http://www.mondovisione.com/media-and-resources/news/bitcoin-security-provider-wizardsardine-partners-with-resolvr-to-insure-self-cus-20251218/)
+append_entries: 4
+Finish: 2025-12-18 16:39:05.997200
