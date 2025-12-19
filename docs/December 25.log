@@ -2381,3 +2381,27 @@ Existing_entries: 455
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-12-19 10:28:29.007756
+------------------------------------------------------
+Started: 2025-12-19 12:52:07.185143
+Existing_entries: 455
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Moscow Exchange: Concentration Limits Per Issuer On Securities Market](http://www.mondovisione.com/media-and-resources/news/moscow-exchange-concentration-limits-per-issuer-on-securities-market-20251219/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LME Clear Appoints New Interim Chair Of The Board](http://www.mondovisione.com/media-and-resources/news/lme-clear-appoints-new-interim-chair-of-the-board-20251219/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Stability Matters - Latest News From The FSB](http://www.mondovisione.com/media-and-resources/news/stability-matters-latest-news-from-the-fsb-20251219/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New CEO Appointment At Nigeria Central Securities Clearing System Plc - CSCS Plc Appoints Mr. Shehu Yahaya Shantali As Chief Executive Officer - Lauds The Solid Legacy Of Outgoing CEO, Mr. Haruna Jalo-Waziri](http://www.mondovisione.com/media-and-resources/news/new-ceo-appointment-at-central-securities-clearing-system-plc-cscs-plc-appoint-20251219/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESMA Selects EuroCTP To Become The First Consolidated Tape Provider For Shares And ETFs](http://www.mondovisione.com/media-and-resources/news/esma-selects-euroctp-to-become-the-first-consolidated-tape-provider-for-shares-a-20251219/)
+Append: [UK Financial Conduct Authority: Investigation Into WH Smith PLC](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-investigation-into-wh-smith-plc-20251219/)
+Append: [Borr Drilling Lists On Euronext Growth](http://www.mondovisione.com/media-and-resources/news/borr-drilling-lists-on-euronext-growth-20251219/)
+Append: [UK Financial Conduct Authority: Greater Flexibility To Be Given For Setting Future Contactless Limits](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-greater-flexibility-to-be-given-for-setting-futu-20251219/)
+append_entries: 8
+Finish: 2025-12-19 12:52:08.162342
