@@ -2411,3 +2411,24 @@ Existing_entries: 463
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-12-19 14:26:41.679169
+------------------------------------------------------
+Started: 2025-12-19 16:32:31.682880
+Existing_entries: 463
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cboe Congratulates Michael Selig On Confirmation As CFTC Chairman](http://www.mondovisione.com/media-and-resources/news/cboe-congratulates-michael-selig-on-confirmation-as-cftc-chairman-20251219/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Options, Pearl Options And Emerald Options Exchanges - Reminder: January 1, 2026 Non-Transaction Fee Changes](http://www.mondovisione.com/media-and-resources/news/miax-options-pearl-options-and-emerald-options-exchanges-reminder-january-1-20251219/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Federal Reserve Board Requests Public Input On “Payment Account,” Which Eligible Financial Institutions Could Use For The Limited Purpose Of Clearing And Settling Their Payments](http://www.mondovisione.com/media-and-resources/news/federal-reserve-board-requests-public-input-on-payment-account-which-eligible-20251219/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER To Decide On Amending The Implementation Frameworks For Two European Electricity Balancing Platforms](http://www.mondovisione.com/media-and-resources/news/acer-to-decide-on-amending-the-implementation-frameworks-for-two-european-electr-20251219/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Exchange Group - Options And Equities Markets - Reminder: Christmas And New Years Holiday Schedule](http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-options-and-equities-markets-reminder-christmas-and-new-20251219/)
+append_entries: 5
+Finish: 2025-12-19 16:32:32.562739
