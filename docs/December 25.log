@@ -2455,3 +2455,18 @@ Append: [The Future Of Money: A Central Bank Perspective - Contribution By Piero
 Append: [ESMA: New Q&As Available](http://www.mondovisione.com/media-and-resources/news/esma-new-qandas-available-20251219/)
 append_entries: 7
 Finish: 2025-12-19 18:36:30.548763
+------------------------------------------------------
+Started: 2025-12-19 20:28:42.960576
+Existing_entries: 475
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Statement By Acting CFTC Chairman Caroline D. Pham On IOSCO Pre-Hedging Report](http://www.mondovisione.com/media-and-resources/news/statement-by-acting-cftc-chairman-caroline-d-pham-on-iosco-pre-hedging-report-20251219/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Federal Reserve Board Publishes Its Biennial Report On Debit Card Transactions, Which Summarizes Information Collected From Large Debit Card Issuers And Payment Card Networks](http://www.mondovisione.com/media-and-resources/news/federal-reserve-board-publishes-its-biennial-report-on-debit-card-transactions-20251219/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Malawi Stock Exchange Weekly Summary Report, 19 December 2025](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-19-december-2025-20251219/)
+append_entries: 3
+Finish: 2025-12-19 20:28:44.030163
