@@ -2470,3 +2470,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Malawi Stock Exchange Weekly Summary Report, 19 December 2025](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-19-december-2025-20251219/)
 append_entries: 3
 Finish: 2025-12-19 20:28:44.030163
+------------------------------------------------------
+Started: 2025-12-19 22:25:11.523548
+Existing_entries: 478
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Commitments Of Traders - Release Schedule Update](http://www.mondovisione.com/media-and-resources/news/cftc-commitments-of-traders-release-schedule-update-20251219/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Commitments Of Traders Reports Update: Report Data For 12/09/2025](http://www.mondovisione.com/media-and-resources/news/cftc-commitments-of-traders-reports-update-report-data-for-12092025-20251219/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nigerian Exchange Weekly Market Report For Week Ended December 19th, 2025](http://www.mondovisione.com/media-and-resources/news/nigerian-exchange-weekly-market-report-for-week-ended-december-19th-2025-20251219/)
+append_entries: 3
+Finish: 2025-12-19 22:25:12.780240
