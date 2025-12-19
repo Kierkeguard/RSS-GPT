@@ -2432,3 +2432,26 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [MIAX Exchange Group - Options And Equities Markets - Reminder: Christmas And New Years Holiday Schedule](http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-options-and-equities-markets-reminder-christmas-and-new-20251219/)
 append_entries: 5
 Finish: 2025-12-19 16:32:32.562739
+------------------------------------------------------
+Started: 2025-12-19 18:36:29.087059
+Existing_entries: 468
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Exchange Group - Options Markets - Fee Change To Extend Historical Open-Close Report Data Discount](http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-options-markets-fee-change-to-extend-historical-open-clo-20251219/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Awards Two Whistleblowers More Than $1.8M](http://www.mondovisione.com/media-and-resources/news/cftc-awards-two-whistleblowers-more-than-18m-20251219/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Office Of The Comptroller Of The US Currency Reports Third Quarter 2025 Bank Trading Revenue](http://www.mondovisione.com/media-and-resources/news/office-of-the-comptroller-of-the-us-currency-reports-third-quarter-2025-bank-tra-20251219/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Ontario Securities Commission Reaches Settlement With Claire Drage Of The Lion’s Share Group Inc. (Lion’s Share Group) And The Windrose Group Inc. (Windrose Group)](http://www.mondovisione.com/media-and-resources/news/ontario-securities-commission-reaches-settlement-with-claire-drage-of-the-lions-20251219/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bank Of England - Asset Purchase Facility: Gilt Sales – Market Notice 19 December 2025](http://www.mondovisione.com/media-and-resources/news/bank-of-england-asset-purchase-facility-gilt-sales-market-notice-19-decembe-20251219/)
+Append: [The Future Of Money: A Central Bank Perspective - Contribution By Piero Cipollone, Member Of The Executive Board Of The ECB, To A Roundtable At Aspen Institute Italia](http://www.mondovisione.com/media-and-resources/news/the-future-of-money-a-central-bank-perspective-contribution-by-piero-cipollon-20251219/)
+Append: [ESMA: New Q&As Available](http://www.mondovisione.com/media-and-resources/news/esma-new-qandas-available-20251219/)
+append_entries: 7
+Finish: 2025-12-19 18:36:30.548763
