@@ -2509,3 +2509,12 @@ Existing_entries: 481
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-12-20 06:36:27.604323
+------------------------------------------------------
+Started: 2025-12-20 08:31:10.201529
+Existing_entries: 481
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Participant In U.S. Securities Fraud Conspiracy Banned From B.C. Investment Market For 15 Years](http://www.mondovisione.com/media-and-resources/news/participant-in-us-securities-fraud-conspiracy-banned-from-bc-investment-mark-20251220/)
+append_entries: 1
+Finish: 2025-12-20 08:31:11.316562
