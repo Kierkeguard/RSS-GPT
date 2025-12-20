@@ -2518,3 +2518,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Participant In U.S. Securities Fraud Conspiracy Banned From B.C. Investment Market For 15 Years](http://www.mondovisione.com/media-and-resources/news/participant-in-us-securities-fraud-conspiracy-banned-from-bc-investment-mark-20251220/)
 append_entries: 1
 Finish: 2025-12-20 08:31:11.316562
+------------------------------------------------------
+Started: 2025-12-20 10:25:04.850624
+Existing_entries: 482
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Acting CFTC Chairman Pham Announces Pilot Program To Unleash American Energy Dominance - Pilot Program Expected To Lower Energy Costs For U.S. Businesses and Consumers](http://www.mondovisione.com/media-and-resources/news/acting-cftc-chairman-pham-announces-pilot-program-to-unleash-american-energy-dom-20251220/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Staff Issues No-Action Letter Regarding CPO Registration For Certain SEC-Registered Investment Advisers](http://www.mondovisione.com/media-and-resources/news/cftc-staff-issues-no-action-letter-regarding-cpo-registration-for-certain-sec-re-20251220/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nadex Delists Certain Contracts](http://www.mondovisione.com/media-and-resources/news/nadex-delists-certain-contracts-20251220/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Statement In Connection With The 2025 AICPA Conference On Current SEC And PCAOB Developments, Kurt Hohl, SEC Chief Accountant, Dec. 19, 2025](http://www.mondovisione.com/media-and-resources/news/statement-in-connection-with-the-2025-aicpa-conference-on-current-sec-and-pcaob-20251220/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nadex Product Schedule For The Weeks Of December 22, 2025, And December 29, 2025, Due To The 2025 Christmas Holiday And The 2026 New Years Day Holiday](http://www.mondovisione.com/media-and-resources/news/nadex-product-schedule-for-the-weeks-of-december-22-2025-and-december-29-2025-20251220/)
+append_entries: 5
+Finish: 2025-12-20 10:25:06.022993
