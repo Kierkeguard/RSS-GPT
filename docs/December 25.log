@@ -2539,3 +2539,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Nadex Product Schedule For The Weeks Of December 22, 2025, And December 29, 2025, Due To The 2025 Christmas Holiday And The 2026 New Years Day Holiday](http://www.mondovisione.com/media-and-resources/news/nadex-product-schedule-for-the-weeks-of-december-22-2025-and-december-29-2025-20251220/)
 append_entries: 5
 Finish: 2025-12-20 10:25:06.022993
+------------------------------------------------------
+Started: 2025-12-20 12:48:03.998907
+Existing_entries: 487
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-12-20 12:48:05.425349
