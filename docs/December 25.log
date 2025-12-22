@@ -2742,3 +2742,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Zhengzhou Commodity Exchange: Notice On Waiving Fees For Hedging Position Opening Delivery Registered Warehouse Receipt Transfer And Standard Warehouse Receipt Used As Margin](http://www.mondovisione.com/media-and-resources/news/zhengzhou-commodity-exchange-notice-on-waiving-fees-for-hedging-position-openin-20251222/)
 append_entries: 2
 Finish: 2025-12-22 18:37:17.060544
+------------------------------------------------------
+Started: 2025-12-22 20:28:39.315891
+Existing_entries: 506
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New York Governor Hochul Signs Nation-Leading Legislation To Require AI Frameworks For AI Frontier Models - The RAISE Act Requires Transparency, Reporting By Powerful Frontier AI Model Developers For Incidents Of Critical Harm - Creates A New Oversight Office Within The Department Of Financial Services To Ensure AI Frontier Model Transparency](http://www.mondovisione.com/media-and-resources/news/new-york-governor-hochul-signs-nation-leading-legislation-to-require-ai-framewor-20251222/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Report From FINRA Board Of Governors Meeting – December 2025 - Board Approved 2026 Budget, Rule Proposals For Electronic Delivery And Customer Protection From Financial Exploitation](http://www.mondovisione.com/media-and-resources/news/report-from-finra-board-of-governors-meeting-december-2025-board-approved-20-20251222/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New York Attorney General James Secures $150 Million From Mercedes For Cheating Emissions Standards And Misleading Consumers - AG James Co-Leads 50 Ags In Bipartisan Settlement Stemming From Mercedes’ Emissions-Cheating Scheme - Mercedes Will Pay More Than $13.5 Million To New York, Provide Payments To Vehicle Owners, And Implement Sweeping Reforms After Years Of Excess Diesel Pollution](http://www.mondovisione.com/media-and-resources/news/new-york-attorney-general-james-secures-150-million-from-mercedes-for-cheating-20251222/)
+append_entries: 3
+Finish: 2025-12-22 20:28:40.790831
