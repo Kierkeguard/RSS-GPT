@@ -2706,3 +2706,18 @@ Append: [DIFC And IPEM Power Landmark International Private Equity Market Future
 Append: [ASIC: Pump And Dump Scammers Put Regulators On High Alert](http://www.mondovisione.com/media-and-resources/news/asic-pump-and-dump-scammers-put-regulators-on-high-alert-20251222/)
 append_entries: 10
 Finish: 2025-12-22 12:53:22.011167
+------------------------------------------------------
+Started: 2025-12-22 14:26:29.111888
+Existing_entries: 500
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Fiserv And Mastercard Partner To Advance Trusted Agentic Commerce For Merchants](http://www.mondovisione.com/media-and-resources/news/fiserv-and-mastercard-partner-to-advance-trusted-agentic-commerce-for-merchants-20251222/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Fiserv Collaborates With Visa To Accelerate Agentic Commerce](http://www.mondovisione.com/media-and-resources/news/fiserv-collaborates-with-visa-to-accelerate-agentic-commerce-20251222/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER To Decide On ENTSO-E’s European Resource Adequacy Assessment 2025](http://www.mondovisione.com/media-and-resources/news/acer-to-decide-on-entso-es-european-resource-adequacy-assessment-2025-20251222/)
+append_entries: 3
+Finish: 2025-12-22 14:26:30.420150
