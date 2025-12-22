@@ -2730,3 +2730,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Petrochemical Company Floated Equity On Tehran Securities Exchange](http://www.mondovisione.com/media-and-resources/news/petrochemical-company-floated-equity-on-tehran-securities-exchange-20251222/)
 append_entries: 1
 Finish: 2025-12-22 16:32:44.178604
+------------------------------------------------------
+Started: 2025-12-22 18:37:15.815863
+Existing_entries: 504
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The EBA Strengthens Cross Border Supervisory Cooperation With Third Countries Through Its Updated Equivalence Guidelines](http://www.mondovisione.com/media-and-resources/news/the-eba-strengthens-cross-border-supervisory-cooperation-with-third-countries-th-20251222/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Zhengzhou Commodity Exchange: Notice On Waiving Fees For Hedging Position Opening Delivery Registered Warehouse Receipt Transfer And Standard Warehouse Receipt Used As Margin](http://www.mondovisione.com/media-and-resources/news/zhengzhou-commodity-exchange-notice-on-waiving-fees-for-hedging-position-openin-20251222/)
+append_entries: 2
+Finish: 2025-12-22 18:37:17.060544
