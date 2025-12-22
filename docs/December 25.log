@@ -2674,3 +2674,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Shenzhen Stock Exchange Market Bulletin, December 19, 2025, Issue 33](http://www.mondovisione.com/media-and-resources/news/shenzhen-stock-exchange-market-bulletin-december-19-2025-issue-33-20251222/)
 append_entries: 2
 Finish: 2025-12-22 08:36:52.461238
+------------------------------------------------------
+Started: 2025-12-22 10:28:01.459340
+Existing_entries: 490
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-12-22 10:28:02.732140
