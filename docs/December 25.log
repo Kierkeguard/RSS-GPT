@@ -2662,3 +2662,15 @@ Existing_entries: 488
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-12-22 06:41:26.092434
+------------------------------------------------------
+Started: 2025-12-22 08:36:51.558576
+Existing_entries: 488
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Dalian Commodity Exchange: Notice On Exemption Of Delivery Commission And Other Fees](http://www.mondovisione.com/media-and-resources/news/dalian-commodity-exchange-notice-on-exemption-of-delivery-commission-and-other-20251222/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Shenzhen Stock Exchange Market Bulletin, December 19, 2025, Issue 33](http://www.mondovisione.com/media-and-resources/news/shenzhen-stock-exchange-market-bulletin-december-19-2025-issue-33-20251222/)
+append_entries: 2
+Finish: 2025-12-22 08:36:52.461238
