@@ -2803,3 +2803,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SEC Charges Three Purported Crypto Asset Trading Platforms And Four Investment Clubs With Scheme That Targeted Retail Investors On Social Media - Defendants Misappropriated $14 Million From Retail Investors Using Fake Trading And Fake Offerings](http://www.mondovisione.com/media-and-resources/news/sec-charges-three-purported-crypto-asset-trading-platforms-and-four-investment-c-20251223/)
 append_entries: 2
 Finish: 2025-12-23 06:41:02.204493
+------------------------------------------------------
+Started: 2025-12-23 08:35:55.550488
+Existing_entries: 517
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc ("LSEG") Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transaction-in-own-shares-20251223/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Press Conference By KATAYAMA Satsuki, Japan Minister Of Finance And Minister Of State For Financial Services - AI Development](http://www.mondovisione.com/media-and-resources/news/press-conference-by-katayama-satsuki-japan-minister-of-finance-and-minister-of-20251223/)
+append_entries: 2
+Finish: 2025-12-23 08:35:56.329535
