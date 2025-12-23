@@ -2890,3 +2890,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ESMA Publishes Latest Spotlight On Markets Newsletter Featuring Updates On Market Integration And Transparency](http://www.mondovisione.com/media-and-resources/news/esma-publishes-latest-spotlight-on-markets-newsletter-featuring-updates-on-marke-20251223/)
 append_entries: 5
 Finish: 2025-12-23 18:37:38.698002
+------------------------------------------------------
+Started: 2025-12-23 20:28:16.020069
+Existing_entries: 534
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Office Of The Comptroller Of The US Currency Requests Comments On Proposed Amendments To Heightened Standards](http://www.mondovisione.com/media-and-resources/news/office-of-the-comptroller-of-the-us-currency-requests-comments-on-proposed-amend-20251223/)
+append_entries: 1
+Finish: 2025-12-23 20:28:16.948436
