@@ -2827,3 +2827,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CoinShares Fund Flows: US Clarity Act Delays Trigger US-Led Digital Asset Outflows](http://www.mondovisione.com/media-and-resources/news/coinshares-fund-flows-us-clarity-act-delays-trigger-us-led-digital-asset-outflo-20251223/)
 append_entries: 2
 Finish: 2025-12-23 10:29:30.732610
+------------------------------------------------------
+Started: 2025-12-23 12:54:31.449443
+Existing_entries: 521
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ICE First Look At Mortgage Performance: Seasonal And Calendar Factors Drive Rise In November Delinquencies](http://www.mondovisione.com/media-and-resources/news/ice-first-look-at-mortgage-performance-seasonal-and-calendar-factors-drive-rise-20251223/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ETFGI Reports That Assets Invested In The Actively Managed ETFs Listed Globally Reached A New Record Of US$1.86 Trillion At The End Of November](http://www.mondovisione.com/media-and-resources/news/etfgi-reports-that-assets-invested-in-the-actively-managed-etfs-listed-globally-20251223/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER Will Consult On The Design Of REMIT Exposure Data Reporting](http://www.mondovisione.com/media-and-resources/news/acer-will-consult-on-the-design-of-remit-exposure-data-reporting-20251223/)
+append_entries: 3
+Finish: 2025-12-23 12:54:33.210166
