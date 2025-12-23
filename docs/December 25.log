@@ -2842,3 +2842,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ACER Will Consult On The Design Of REMIT Exposure Data Reporting](http://www.mondovisione.com/media-and-resources/news/acer-will-consult-on-the-design-of-remit-exposure-data-reporting-20251223/)
 append_entries: 3
 Finish: 2025-12-23 12:54:33.210166
+------------------------------------------------------
+Started: 2025-12-23 14:26:48.273271
+Existing_entries: 524
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Update On Continuing Work Toward Treasury Clearing Implementation, SEC Commissioner Mark T. Uyeda, Dec. 23, 2025](http://www.mondovisione.com/media-and-resources/news/update-on-continuing-work-toward-treasury-clearing-implementation-sec-commissio-20251223/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [DTCC’s FICC And BNY Launch Collateral-In-Lieu Service - BNY And Federated Hermes Execute Their First Repo Trade On The Solution](http://www.mondovisione.com/media-and-resources/news/dtccs-ficc-and-bny-launch-collateral-in-lieu-service-bny-and-federated-hermes-20251223/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NYSE Group Announces 2026, 2027 And 2028 Holiday And Early Closings Calendar](http://www.mondovisione.com/media-and-resources/news/nyse-group-announces-2026-2027-and-2028-holiday-and-early-closings-calendar-20251223/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER: Compensation For Cross-Border Power Losses Fell In 2024 After The 2023 Peak](http://www.mondovisione.com/media-and-resources/news/acer-compensation-for-cross-border-power-losses-fell-in-2024-after-the-2023-pea-20251223/)
+append_entries: 4
+Finish: 2025-12-23 14:26:49.955490
