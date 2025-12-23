@@ -2791,3 +2791,15 @@ Existing_entries: 515
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-12-23 04:41:06.476179
+------------------------------------------------------
+Started: 2025-12-23 06:41:00.901907
+Existing_entries: 515
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FanDuel And CME Group Launch FanDuel Predicts To Give Customers The Power To Trade On Tomorrow's Headlines](http://www.mondovisione.com/media-and-resources/news/fanduel-and-cme-group-launch-fanduel-predicts-to-give-customers-the-power-to-tra-20251223/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Charges Three Purported Crypto Asset Trading Platforms And Four Investment Clubs With Scheme That Targeted Retail Investors On Social Media - Defendants Misappropriated $14 Million From Retail Investors Using Fake Trading And Fake Offerings](http://www.mondovisione.com/media-and-resources/news/sec-charges-three-purported-crypto-asset-trading-platforms-and-four-investment-c-20251223/)
+append_entries: 2
+Finish: 2025-12-23 06:41:02.204493
