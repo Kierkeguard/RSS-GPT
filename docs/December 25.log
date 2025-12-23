@@ -2815,3 +2815,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Press Conference By KATAYAMA Satsuki, Japan Minister Of Finance And Minister Of State For Financial Services - AI Development](http://www.mondovisione.com/media-and-resources/news/press-conference-by-katayama-satsuki-japan-minister-of-finance-and-minister-of-20251223/)
 append_entries: 2
 Finish: 2025-12-23 08:35:56.329535
+------------------------------------------------------
+Started: 2025-12-23 10:29:29.310117
+Existing_entries: 519
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ETFGI Reports That Assets Invested In The ETFs Industry Globally Reached A New Record Of US$19.44 Trillion At The End Of November](http://www.mondovisione.com/media-and-resources/news/etfgi-reports-that-assets-invested-in-the-etfs-industry-globally-reached-a-new-r-20251223/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CoinShares Fund Flows: US Clarity Act Delays Trigger US-Led Digital Asset Outflows](http://www.mondovisione.com/media-and-resources/news/coinshares-fund-flows-us-clarity-act-delays-trigger-us-led-digital-asset-outflo-20251223/)
+append_entries: 2
+Finish: 2025-12-23 10:29:30.732610
