@@ -2899,3 +2899,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Office Of The Comptroller Of The US Currency Requests Comments On Proposed Amendments To Heightened Standards](http://www.mondovisione.com/media-and-resources/news/office-of-the-comptroller-of-the-us-currency-requests-comments-on-proposed-amend-20251223/)
 append_entries: 1
 Finish: 2025-12-23 20:28:16.948436
+------------------------------------------------------
+Started: 2025-12-23 22:24:36.004439
+Existing_entries: 535
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Commitments Of Traders Reports Update: Report Data For 12/16/2025](http://www.mondovisione.com/media-and-resources/news/cft-commitments-of-traders-reports-update-report-data-for-12162025-20251223/)
+append_entries: 1
+Finish: 2025-12-23 22:24:36.989140
