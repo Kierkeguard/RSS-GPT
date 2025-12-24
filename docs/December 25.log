@@ -2947,3 +2947,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [NZX Announces Two Executive Appointments](http://www.mondovisione.com/media-and-resources/news/nzx-announces-two-executive-appointments-20251224/)
 append_entries: 2
 Finish: 2025-12-24 08:35:42.182016
+------------------------------------------------------
+Started: 2025-12-24 10:27:27.363763
+Existing_entries: 539
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-12-24 10:27:28.730142
