@@ -2935,3 +2935,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Montréal Exchange Interest Rate Derivative Trading Ceases At 13:30 Today, December 24, 2025- Exchange's Markets Closed December 25 And 26, 2025](http://www.mondovisione.com/media-and-resources/news/montral-exchange-interest-rate-derivative-trading-ceases-at-1330-today-decemb-20251224/)
 append_entries: 1
 Finish: 2025-12-24 06:40:43.305009
+------------------------------------------------------
+Started: 2025-12-24 08:35:41.008249
+Existing_entries: 537
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc ("LSEG") Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transaction-in-own-shares-20251224/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NZX Announces Two Executive Appointments](http://www.mondovisione.com/media-and-resources/news/nzx-announces-two-executive-appointments-20251224/)
+append_entries: 2
+Finish: 2025-12-24 08:35:42.182016
