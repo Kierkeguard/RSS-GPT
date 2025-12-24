@@ -2992,3 +2992,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Hong Kong Financial Services And The Treasury Bureau And Hong Kong Securities And Futures Commission Conclude Consultations On Virtual Asset Dealer And Custodian Regimes, Further Consult On Two New Regimes](http://www.mondovisione.com/media-and-resources/news/hong-kong-financial-services-and-the-treasury-bureau-and-hong-kong-securities-an-20251224/)
 append_entries: 3
 Finish: 2025-12-24 18:36:21.480736
+------------------------------------------------------
+Started: 2025-12-24 20:28:04.190012
+Existing_entries: 544
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-12-24 20:28:05.028922
