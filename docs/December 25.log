@@ -2959,3 +2959,12 @@ Existing_entries: 539
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-12-24 12:52:54.605653
+------------------------------------------------------
+Started: 2025-12-24 14:25:13.931559
+Existing_entries: 539
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nigerian Exchange Weekly Market Report For The Week Ended 24 December 2025](http://www.mondovisione.com/media-and-resources/news/nigerian-exchange-weekly-market-report-for-the-week-ended-24-december-2025-20251224/)
+append_entries: 1
+Finish: 2025-12-24 14:25:15.153264
