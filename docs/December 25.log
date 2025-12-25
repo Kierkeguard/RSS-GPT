@@ -3034,3 +3034,21 @@ Existing_entries: 546
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-12-25 08:34:33.961042
+------------------------------------------------------
+Started: 2025-12-25 10:27:44.783525
+Existing_entries: 546
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Montréal Exchange's Markets Closed Today, December 25, 2025 And Tomorrow, December 26, 2025](http://www.mondovisione.com/media-and-resources/news/montral-exchanges-markets-closed-today-december-25-2025-and-tomorrow-decemb-20251225/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Dalian Commodity Exchange: Notice On Trading Hour Arrangements For 2026 New Year’s Day Holiday](http://www.mondovisione.com/media-and-resources/news/dalian-commodity-exchange-notice-on-trading-hour-arrangements-for-2026-new-year-20251225/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Japan Financial Services Agency Publishes "FSA Strategic Priorities: July 2025 - June 2026"](http://www.mondovisione.com/media-and-resources/news/japan-financial-services-agency-publishes-fsa-strategic-priorities-july-2025-20251225/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Dalian Commodity Exchange: Notice On Adjustments To Price Limits During 2026 New Year’s Day Holiday](http://www.mondovisione.com/media-and-resources/news/dalian-commodity-exchange-notice-on-adjustments-to-price-limits-during-2026-new-20251225/)
+append_entries: 4
+Finish: 2025-12-25 10:27:45.889665
