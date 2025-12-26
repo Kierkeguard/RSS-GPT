@@ -3106,3 +3106,21 @@ Existing_entries: 550
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-12-26 06:39:15.576455
+------------------------------------------------------
+Started: 2025-12-26 08:34:20.449050
+Existing_entries: 550
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Montréal  Exchange's Markets Closed Today, December 26, 2025](http://www.mondovisione.com/media-and-resources/news/montral-exchanges-markets-closed-today-december-26-2025-20251226/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Dialogue Between The Japan Financial Services Agency (FSA) And The Center For Financial Industry Information Systems (FISC)](http://www.mondovisione.com/media-and-resources/news/the-dialogue-between-the-japan-financial-services-agency-fsa-and-the-center-fo-20251226/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Press Conference By Japan KATAYAMA Satsuki, Minister Of Finance And Minister Of State For Financial Services  - Regional Financial Power Enhancement Plan,](http://www.mondovisione.com/media-and-resources/news/press-conference-by-japan-katayama-satsuki-minister-of-finance-and-minister-of-20251226/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Japan Financial Services Agency Publishes The Status Of Loans Held By All Banks As Of The End Of March 2025, Based On The Financial Reconstruction Act](http://www.mondovisione.com/media-and-resources/news/japan-financial-services-agency-publishes-the-status-of-loans-held-by-all-banks-20251226/)
+append_entries: 4
+Finish: 2025-12-26 08:34:21.575170
