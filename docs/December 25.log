@@ -3148,3 +3148,25 @@ Existing_entries: 554
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-12-26 16:30:24.058906
+------------------------------------------------------
+Started: 2025-12-26 18:35:54.910763
+Existing_entries: 554
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Dubai Financial Market New Year's Day Closure](http://www.mondovisione.com/media-and-resources/news/dubai-financial-market-new-years-day-closure-20251226/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Borsa Istanbul: BIST-KYD Fund Indices Periodic Review](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-bist-kyd-fund-indices-periodic-review-20251226/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Dubai Financial Market Regulated Short Sell – Weekly Summary](http://www.mondovisione.com/media-and-resources/news/dubai-financial-market-regulated-short-sell-weekly-summary-20251226/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Borsa Istanbul: BIST-KYD Corporate Eurobond Indices Periodic Review](http://www.mondovisione.com/media-and-resources/news/bborsa-istanbul-bist-kyd-corporate-eurobond-indices-periodic-review-20251226/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Shanghai Gold Exchange: Notice On Market Risk Control Measures During The 2026 New Year's Day Holiday](http://www.mondovisione.com/media-and-resources/news/shanghai-gold-exchange-notice-on-market-risk-control-measures-during-the-2026-20251226/)
+Append: [Notice On Adjustments To Margins And Price Limits Of Zhengzhou Commodity Exchange Products During 2026 New Year Holiday](http://www.mondovisione.com/media-and-resources/news/notice-on-adjustments-to-margins-and-price-limits-of-zhengzhou-commodity-exchang-20251226/)
+append_entries: 6
+Finish: 2025-12-26 18:35:56.208869
