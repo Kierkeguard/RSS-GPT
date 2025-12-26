@@ -3124,3 +3124,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Japan Financial Services Agency Publishes The Status Of Loans Held By All Banks As Of The End Of March 2025, Based On The Financial Reconstruction Act](http://www.mondovisione.com/media-and-resources/news/japan-financial-services-agency-publishes-the-status-of-loans-held-by-all-banks-20251226/)
 append_entries: 4
 Finish: 2025-12-26 08:34:21.575170
+------------------------------------------------------
+Started: 2025-12-26 10:27:37.382554
+Existing_entries: 554
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-12-26 10:27:38.264714
