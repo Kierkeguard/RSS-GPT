@@ -3185,3 +3185,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Changes To The Expanded Opening And Intra-Day Quote Width Requirements And Order Monitor Settings For Certain Symbols Trading On MIAX Options And MIAX Emerald Options Beginning Friday, January 2, 2026, Through Tuesday, March 31, 2026](http://www.mondovisione.com/media-and-resources/news/changes-to-the-expanded-opening-and-intra-day-quote-width-requirements-and-order-20251226/)
 append_entries: 1
 Finish: 2025-12-26 22:25:00.971207
+------------------------------------------------------
+Started: 2025-12-27 01:59:26.654399
+Existing_entries: 561
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-12-27 01:59:27.470209
