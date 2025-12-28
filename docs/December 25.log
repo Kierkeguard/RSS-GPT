@@ -3290,3 +3290,12 @@ Existing_entries: 562
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-12-28 10:25:58.381225
+------------------------------------------------------
+Started: 2025-12-28 12:50:41.716919
+Existing_entries: 562
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Iran Largest Pharmaceutical Holding Celebrates Listing Anniversary At Tehran Securities Exchange](http://www.mondovisione.com/media-and-resources/news/iran-largest-pharmaceutical-holding-celebrates-listing-anniversary-at-tehran-sec-20251228/)
+append_entries: 1
+Finish: 2025-12-28 12:50:42.543180
