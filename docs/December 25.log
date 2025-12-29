@@ -3341,3 +3341,12 @@ Existing_entries: 563
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-12-29 04:53:04.215769
+------------------------------------------------------
+Started: 2025-12-29 06:42:26.349030
+Existing_entries: 563
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Amman Stock Exchange Participates In Educational Lectures At Middle East University](http://www.mondovisione.com/media-and-resources/news/amman-stock-exchange-participates-in-educational-lectures-at-middle-east-univers-20251229/)
+append_entries: 1
+Finish: 2025-12-29 06:42:27.596530
