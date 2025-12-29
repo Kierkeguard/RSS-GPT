@@ -3404,3 +3404,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Shanghai Futures Exchange: Notice On Cancellation Of Membership Of Shanghai Hengyang International Trading Limited](http://www.mondovisione.com/media-and-resources/news/shanghai-futures-exchange-notice-on-cancellation-of-membership-of-shanghai-heng-20251229/)
 append_entries: 4
 Finish: 2025-12-29 18:37:13.990450
+------------------------------------------------------
+Started: 2025-12-29 20:29:40.034566
+Existing_entries: 570
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-12-29 20:29:41.424350
