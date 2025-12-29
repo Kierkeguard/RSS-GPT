@@ -3410,3 +3410,15 @@ Existing_entries: 570
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-12-29 20:29:41.424350
+------------------------------------------------------
+Started: 2025-12-29 22:24:52.173669
+Existing_entries: 570
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Swaps Report Update](http://www.mondovisione.com/media-and-resources/news/cftc-swaps-report-update-20251229/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Deputy Director Of Enforcement Nekia Hackworth Jones Concludes Her Tenure At The SEC](http://www.mondovisione.com/media-and-resources/news/deputy-director-of-enforcement-nekia-hackworth-jones-concludes-her-tenure-at-the-20251229/)
+append_entries: 2
+Finish: 2025-12-29 22:24:53.327798
