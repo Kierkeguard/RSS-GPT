@@ -3386,3 +3386,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ETFGI Reports Assets Invested In Thematic ETFs Listed Globally Have Increased By 49.6% In The First 11 Months Of 2025](http://www.mondovisione.com/media-and-resources/news/etfgi-reports-assets-invested-in-thematic-etfs-listed-globally-have-increased-by-20251229/)
 append_entries: 1
 Finish: 2025-12-29 16:32:32.640614
+------------------------------------------------------
+Started: 2025-12-29 18:37:12.396998
+Existing_entries: 566
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Announces Retirement Of Division Of Corporation Finance Deputy Director Cicely LaMothe](http://www.mondovisione.com/media-and-resources/news/sec-announces-retirement-of-division-of-corporation-finance-deputy-director-cice-20251229/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Hong Kong Securities And Futures Commission Withdraws Restriction Notices To Brokers To Facilitate Return Of Misappropriated Funds To Affected Parties](http://www.mondovisione.com/media-and-resources/news/hong-kong-securities-and-futures-commission-withdraws-restriction-notices-to-bro-20251229/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Shenzhen Stock Exchange Market Bulletin, December 26, 2025, Issue 34](http://www.mondovisione.com/media-and-resources/news/shenzhen-stock-exchange-market-bulletin-december-26-2025-issue-34-20251229/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Shanghai Futures Exchange: Notice On Cancellation Of Membership Of Shanghai Hengyang International Trading Limited](http://www.mondovisione.com/media-and-resources/news/shanghai-futures-exchange-notice-on-cancellation-of-membership-of-shanghai-heng-20251229/)
+append_entries: 4
+Finish: 2025-12-29 18:37:13.990450
