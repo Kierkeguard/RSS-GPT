@@ -3377,3 +3377,12 @@ Existing_entries: 565
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-12-29 14:27:07.575759
+------------------------------------------------------
+Started: 2025-12-29 16:32:31.042200
+Existing_entries: 565
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ETFGI Reports Assets Invested In Thematic ETFs Listed Globally Have Increased By 49.6% In The First 11 Months Of 2025](http://www.mondovisione.com/media-and-resources/news/etfgi-reports-assets-invested-in-thematic-etfs-listed-globally-have-increased-by-20251229/)
+append_entries: 1
+Finish: 2025-12-29 16:32:32.640614
