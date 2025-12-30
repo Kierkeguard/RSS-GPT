@@ -3476,3 +3476,15 @@ Existing_entries: 576
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-12-30 14:26:49.663559
+------------------------------------------------------
+Started: 2025-12-30 16:34:17.154860
+Existing_entries: 576
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Federal Agencies Release Annual Asset-Size Thresholds Under Community Reinvestment Act Regulations](http://www.mondovisione.com/media-and-resources/news/us-federal-agencies-release-annual-asset-size-thresholds-under-community-reinves-20251230/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MNI Indicators: Chicago Business Barometer™ - Rebounded To 43.5 In December](http://www.mondovisione.com/media-and-resources/news/mni-indicators-chicago-business-barometer-rebounded-to-435-in-december-20251230/)
+append_entries: 2
+Finish: 2025-12-30 16:34:18.268584
