@@ -3503,3 +3503,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Japan Exchange Group: Trading Overview In Year 2025 & December 2025](http://www.mondovisione.com/media-and-resources/news/japan-exchange-group-trading-overview-in-year-2025-and-december-2025-20251230/)
 append_entries: 3
 Finish: 2025-12-30 18:38:31.572485
+------------------------------------------------------
+Started: 2025-12-30 20:28:52.812733
+Existing_entries: 581
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Minutes Of The Federal Open Market Committee, December 9–10, 2025](http://www.mondovisione.com/media-and-resources/news/minutes-of-the-federal-open-market-committee-december-910-2025-20251230/)
+append_entries: 1
+Finish: 2025-12-30 20:28:53.920348
