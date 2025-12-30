@@ -3488,3 +3488,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [MNI Indicators: Chicago Business Barometer™ - Rebounded To 43.5 In December](http://www.mondovisione.com/media-and-resources/news/mni-indicators-chicago-business-barometer-rebounded-to-435-in-december-20251230/)
 append_entries: 2
 Finish: 2025-12-30 16:34:18.268584
+------------------------------------------------------
+Started: 2025-12-30 18:38:30.438297
+Existing_entries: 578
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FINRA Orders American Portfolios Financial Services To Pay $4.6 Million In Restitution For Overcollection Of Fees, Retention Of Surplus Interest - Firm Failed To Accurately Calculate Bank Deposit Program Fees And Failed To Disclose Retention Of Surplus Interest Earned From Customers’ Funds](http://www.mondovisione.com/media-and-resources/news/finra-orders-american-portfolios-financial-services-to-pay-46-million-in-resti-20251230/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Qatar Stock Exchange Announces An Official Holiday On The Occasion Of End Of Year Closing](http://www.mondovisione.com/media-and-resources/news/qatar-stock-exchange-announces-an-official-holiday-on-the-occasion-of-end-of-yea-20251230/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Japan Exchange Group: Trading Overview In Year 2025 & December 2025](http://www.mondovisione.com/media-and-resources/news/japan-exchange-group-trading-overview-in-year-2025-and-december-2025-20251230/)
+append_entries: 3
+Finish: 2025-12-30 18:38:31.572485
