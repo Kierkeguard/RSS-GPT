@@ -3539,3 +3539,25 @@ Existing_entries: 583
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-12-31 06:40:16.293906
+------------------------------------------------------
+Started: 2025-12-31 08:35:31.288955
+Existing_entries: 583
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc ("LSEG") Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transaction-in-own-shares-20251231/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Amman Stock Exchange Indices Quarterly Review](http://www.mondovisione.com/media-and-resources/news/the-amman-stock-exchange-indices-quarterly-review-20251231/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SGX RegCo Appoints Dr Sung Cheng Chih Chairman - Professor Tan Cheng Han Steps Down](http://www.mondovisione.com/media-and-resources/news/sgx-regco-appoints-dr-sung-cheng-chih-chairman-professor-tan-cheng-han-steps-d-20251231/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Montréal Exchange Interest Rate Derivative Trading Ceases At 13:30 Today, December 31, 2025 - Exchange's Markets Closed On January 1, 2026](http://www.mondovisione.com/media-and-resources/news/montral-exchange-interest-rate-derivative-trading-ceases-at-1330-today-decemb-20251231/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Hong Kong Securities And Futures Commission Welcomes Process Review Panel Report 2024-25](http://www.mondovisione.com/media-and-resources/news/hong-kong-securities-and-futures-commission-welcomes-process-review-panel-report-20251231/)
+Append: [Dalian Commodity Exchange: Notice On Listing And Trading Of Coking Coal Options](http://www.mondovisione.com/media-and-resources/news/dalian-commodity-exchange-notice-on-listing-and-trading-of-coking-coal-options-20251231/)
+append_entries: 6
+Finish: 2025-12-31 08:35:32.509545
