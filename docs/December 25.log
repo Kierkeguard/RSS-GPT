@@ -3627,3 +3627,12 @@ Existing_entries: 599
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-12-31 20:28:29.208137
+------------------------------------------------------
+Started: 2025-12-31 22:25:26.771437
+Existing_entries: 599
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Commitments Of Traders Reports Update: Report Data For 12/23/2025](http://www.mondovisione.com/media-and-resources/news/cftc-commitments-of-traders-reports-update-report-data-for-12232025-20251231/)
+append_entries: 1
+Finish: 2025-12-31 22:25:28.279954
