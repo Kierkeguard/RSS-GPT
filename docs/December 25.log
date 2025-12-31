@@ -3570,3 +3570,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ETFGI Reports That Assets Invested In The Environmental, Social, And Governance (ESG) ETFs Listed Globally Reached A New Record Of US$799.35 Billion At The End Of November](http://www.mondovisione.com/media-and-resources/news/etfgi-reports-that-assets-invested-in-the-environmental-social-and-governance-20251231/)
 append_entries: 1
 Finish: 2025-12-31 10:27:16.092972
+------------------------------------------------------
+Started: 2025-12-31 12:52:58.798488
+Existing_entries: 590
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2025-12-31 12:52:59.912154
