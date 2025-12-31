@@ -3603,3 +3603,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Crypto ETFs Listed Globally Suffered Net Outflows Of US$2.95 Billion In November According To New Research By ETFGI](http://www.mondovisione.com/media-and-resources/news/crypto-etfs-listed-globally-suffered-net-outflows-of-us295-billion-in-november-20251231/)
 append_entries: 2
 Finish: 2025-12-31 16:32:01.073225
+------------------------------------------------------
+Started: 2025-12-31 18:35:54.898814
+Existing_entries: 595
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ETFGI Reports The Global ETFs Industry Had A Record 2759 New Products Listed At The End Of November 2025](http://www.mondovisione.com/media-and-resources/news/etfgi-reports-the-global-etfs-industry-had-a-record-2759-new-products-listed-at-20251231/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Chairman Selig Announces Amir Zaidi As Chief Of Staff](http://www.mondovisione.com/media-and-resources/news/cftc-chairman-selig-announces-amir-zaidi-as-chief-of-staff-20251231/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX: Business Continuity And Disaster Recovery Plans Testing And Member Designation Standards](http://www.mondovisione.com/media-and-resources/news/miax-business-continuity-and-disaster-recovery-plans-testing-and-member-designa-20251231/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Amman Stock Exchange Weekly Summary](http://www.mondovisione.com/media-and-resources/news/amman-stock-exchange-weekly-summary-20251231/)
+append_entries: 4
+Finish: 2025-12-31 18:35:56.828884
