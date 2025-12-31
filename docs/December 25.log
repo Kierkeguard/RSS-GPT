@@ -3576,3 +3576,18 @@ Existing_entries: 590
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2025-12-31 12:52:59.912154
+------------------------------------------------------
+Started: 2025-12-31 14:25:09.791694
+Existing_entries: 590
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FTSE 100 Ends The Year At 9931.38 Points - A 21.51% Increase From The Previous Year End](http://www.mondovisione.com/media-and-resources/news/ftse-100-ends-the-year-at-993138-points-a-2151-increase-from-the-previous-y-20251231/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX: Report On Initial Public Offering Applications, Delisting And Suspensions (December 2025)](http://www.mondovisione.com/media-and-resources/news/hkex-report-on-initial-public-offering-applications-delisting-and-suspensions-20251231/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NSE Indices Index Dashboard For The Month Ended December 2025](http://www.mondovisione.com/media-and-resources/news/nse-indices-index-dashboard-for-the-month-ended-december-2025-20251231/)
+append_entries: 3
+Finish: 2025-12-31 14:25:11.022843
