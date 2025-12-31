@@ -3591,3 +3591,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [NSE Indices Index Dashboard For The Month Ended December 2025](http://www.mondovisione.com/media-and-resources/news/nse-indices-index-dashboard-for-the-month-ended-december-2025-20251231/)
 append_entries: 3
 Finish: 2025-12-31 14:25:11.022843
+------------------------------------------------------
+Started: 2025-12-31 16:31:59.484583
+Existing_entries: 593
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ETFGI: Purchases Of ETFs Listed Overseas By Korean Retail Investors Have Fluctuated During The First 11 Months Of 2025, With A Notable Spike In October And A Decline In July](http://www.mondovisione.com/media-and-resources/news/etfgi-purchases-of-etfs-listed-overseas-by-korean-retail-investors-have-fluctua-20251231/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Crypto ETFs Listed Globally Suffered Net Outflows Of US$2.95 Billion In November According To New Research By ETFGI](http://www.mondovisione.com/media-and-resources/news/crypto-etfs-listed-globally-suffered-net-outflows-of-us295-billion-in-november-20251231/)
+append_entries: 2
+Finish: 2025-12-31 16:32:01.073225
