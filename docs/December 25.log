@@ -3669,3 +3669,12 @@ Existing_entries: 601
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-01-01 10:28:12.803845
+------------------------------------------------------
+Started: 2026-01-01 12:53:14.200231
+Existing_entries: 601
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NSE Indices Fixed Income Index Dashboard For The Month Ended December 2025](http://www.mondovisione.com/media-and-resources/news/nse-indices-fixed-income-index-dashboard-for-the-month-ended-december-2025-202611/)
+append_entries: 1
+Finish: 2026-01-01 12:53:15.626055
