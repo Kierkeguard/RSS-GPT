@@ -3663,3 +3663,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Montréal Exchange's Markets Closed Today, January 1, 2026](http://www.mondovisione.com/media-and-resources/news/montral-exchanges-markets-closed-today-january-1-2026-202611/)
 append_entries: 1
 Finish: 2026-01-01 08:34:56.516441
+------------------------------------------------------
+Started: 2026-01-01 10:28:11.237545
+Existing_entries: 601
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-01-01 10:28:12.803845
