@@ -3807,3 +3807,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Dubai Financial Market Regulated Short Sell – Weekly Summary - 29th December 2025 To 02nd January 2026](http://www.mondovisione.com/media-and-resources/news/dubai-financial-market-regulated-short-sell-weekly-summary-29th-december-202-202612/)
 append_entries: 4
 Finish: 2026-01-02 18:36:45.127286
+------------------------------------------------------
+Started: 2026-01-02 20:28:11.178318
+Existing_entries: 617
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-01-02 20:28:12.318786
