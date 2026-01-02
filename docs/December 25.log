@@ -3753,3 +3753,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Vienna Stock Exchange Academy: Unbroken Appetite For Knowledge On Financial Topics](http://www.mondovisione.com/media-and-resources/news/vienna-stock-exchange-academy-unbroken-appetite-for-knowledge-on-financial-topi-202612/)
 append_entries: 2
 Finish: 2026-01-02 10:27:18.844394
+------------------------------------------------------
+Started: 2026-01-02 12:52:11.645478
+Existing_entries: 607
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-01-02 12:52:13.548570
