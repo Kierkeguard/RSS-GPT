@@ -3789,3 +3789,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Nigerian Exchange Weekly Market Report For The Week Ended 2 January 2026](http://www.mondovisione.com/media-and-resources/news/nigerian-exchange-weekly-market-report-for-the-week-ended-2-january-2026-202612/)
 append_entries: 2
 Finish: 2026-01-02 16:32:03.936126
+------------------------------------------------------
+Started: 2026-01-02 18:36:44.085016
+Existing_entries: 613
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Statistics From Nasdaq Nordic Exchange December 2025](http://www.mondovisione.com/media-and-resources/news/statistics-from-nasdaq-nordic-exchange-december-2025-202612/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bahamas International Securities Exchange Trading Insights For Q1, 2025](http://www.mondovisione.com/media-and-resources/news/bahamas-international-securities-exchange-trading-insights-for-q1-2025-202612/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc - Total Voting Rights](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-total-voting-rights-202612/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Dubai Financial Market Regulated Short Sell – Weekly Summary - 29th December 2025 To 02nd January 2026](http://www.mondovisione.com/media-and-resources/news/dubai-financial-market-regulated-short-sell-weekly-summary-29th-december-202-202612/)
+append_entries: 4
+Finish: 2026-01-02 18:36:45.127286
