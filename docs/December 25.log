@@ -3759,3 +3759,21 @@ Existing_entries: 607
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-01-02 12:52:13.548570
+------------------------------------------------------
+Started: 2026-01-02 14:26:24.315072
+Existing_entries: 607
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Statement On Departure Of SEC Commissioner Caroline Crenshaw - Chairman Paul S. Atkins, Commissioner Hester M. Peirce, Commissioner Mark T. Uyeda](http://www.mondovisione.com/media-and-resources/news/statement-on-departure-of-sec-commissioner-caroline-crenshaw-chairman-paul-s-202612/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Nordic And Baltic Markets Annual Trading Statistics 2025](http://www.mondovisione.com/media-and-resources/news/nasdaq-nordic-and-baltic-markets-annual-trading-statistics-2025-202612/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Opens Investigation Into Claims Management Company](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-opens-investigation-into-claims-management-compan-202612/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Malawi Stock Exchange Weekly Summary Report, Week Ended 2 January 2026](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-week-ended-2-january-2026-202612/)
+append_entries: 4
+Finish: 2026-01-02 14:26:25.442398
