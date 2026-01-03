@@ -3855,3 +3855,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [U.S. Department Of The Treasury: Statement On The President’s Decision Ordering The Divestment Of Interests In Certain Assets Of EMCORE Corporation By HieFo Corporation](http://www.mondovisione.com/media-and-resources/news/us-department-of-the-treasury-statement-on-the-presidents-decision-ordering-202613/)
 append_entries: 1
 Finish: 2026-01-03 08:33:03.656458
+------------------------------------------------------
+Started: 2026-01-03 10:26:13.923977
+Existing_entries: 619
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-01-03 10:26:14.745103
