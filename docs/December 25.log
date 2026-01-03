@@ -3822,3 +3822,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Interactive Brokers’ Individual And Hedge Fund Clients Outperformed The S&P 500 On Average In 2025 - Lower Costs, Global Market Access, And Efficient Execution Contributed To Stronger Client Outcomes](http://www.mondovisione.com/media-and-resources/news/interactive-brokers-individual-and-hedge-fund-clients-outperformed-the-sandp-500-202612/)
 append_entries: 1
 Finish: 2026-01-02 22:25:23.681068
+------------------------------------------------------
+Started: 2026-01-03 01:58:37.512034
+Existing_entries: 618
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-01-03 01:58:38.597970
