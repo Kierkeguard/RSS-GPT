@@ -4036,3 +4036,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ESMA Launches Selection Of Consolidated Tape Provider For OTC Derivatives](http://www.mondovisione.com/media-and-resources/news/esma-launches-selection-of-consolidated-tape-provider-for-otc-derivatives-202615/)
 append_entries: 2
 Finish: 2026-01-05 12:57:20.870116
+------------------------------------------------------
+Started: 2026-01-05 14:29:36.277094
+Existing_entries: 632
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-01-05 14:29:37.591025
