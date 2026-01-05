@@ -4069,3 +4069,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Borsa İstanbul’s Opening Bell Rang For Arf Bio ARF Bio Renewable Energy Inc.](http://www.mondovisione.com/media-and-resources/news/borsa-istanbuls-opening-bell-rang-for-arf-bio-arf-bio-renewable-energy-inc-202615/)
 append_entries: 2
 Finish: 2026-01-05 18:39:31.116074
+------------------------------------------------------
+Started: 2026-01-05 20:31:08.759297
+Existing_entries: 637
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Office Of The Comptroller Of The US Currency Releases CRA Performance Evaluations For 33 National Banks And Federal Savings Associations](http://www.mondovisione.com/media-and-resources/news/office-of-the-comptroller-of-the-us-currency-releases-cra-performance-evaluation-202615/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FTSE 100 Tops 10,000 For The First Time At Market Close](http://www.mondovisione.com/media-and-resources/news/ftse-100-tops-10000-for-the-first-time-at-market-close-202615/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [EACH Calls For Proportionate, Risk-Based CCP Participation Requirements In Response To ESMA Consultation](http://www.mondovisione.com/media-and-resources/news/each-calls-for-proportionate-risk-based-ccp-participation-requirements-in-respo-202615/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESAs’ Joint Board Of Appeal Rules On Reimbursement Of Costs In An Appeal Brought By NOVIS Insurance Company Against The European Insurance And Occupational Pensions Authority (EIOPA)](http://www.mondovisione.com/media-and-resources/news/esas-joint-board-of-appeal-rules-on-reimbursement-of-costs-in-an-appeal-brought-202615/)
+append_entries: 4
+Finish: 2026-01-05 20:31:09.834826
