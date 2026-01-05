@@ -4012,3 +4012,15 @@ Append: [Opening Speech By Loh Boon Chye, CEO Of SGX Group, At The Straits Times
 Append: [New Year's Message From Group CEO Yamaji](http://www.mondovisione.com/media-and-resources/news/new-years-message-from-group-ceo-yamaji-202615/)
 append_entries: 6
 Finish: 2026-01-05 08:40:22.306676
+------------------------------------------------------
+Started: 2026-01-05 10:31:23.435797
+Existing_entries: 628
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BIS Quarterly Review December 2025: Trading Dynamics, Bubbles And Shipping](http://www.mondovisione.com/media-and-resources/news/bis-quarterly-review-december-2025-trading-dynamics-bubbles-and-shipping-202615/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [From Classroom To Trading Floor: Tehran Securities Exchange Hosts Over 250 Students For Immersive Capital Market Experience](http://www.mondovisione.com/media-and-resources/news/from-classroom-to-trading-floor-tehran-securities-exchange-hosts-over-250-stude-202615/)
+append_entries: 2
+Finish: 2026-01-05 10:31:24.413155
