@@ -4057,3 +4057,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CME Group Reports Record Annual ADV Of 28.1 Million Contracts In 2025, Up 6% Year Over Year](http://www.mondovisione.com/media-and-resources/news/cme-group-reports-record-annual-adv-of-281-million-contracts-in-2025-up-6-yea-202615/)
 append_entries: 3
 Finish: 2026-01-05 16:33:47.950245
+------------------------------------------------------
+Started: 2026-01-05 18:39:29.909937
+Existing_entries: 635
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Borsa Istanbul: Unprocessed Gold Import Quota Application](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-unprocessed-gold-import-quota-application-202615/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Borsa İstanbul’s Opening Bell Rang For Arf Bio ARF Bio Renewable Energy Inc.](http://www.mondovisione.com/media-and-resources/news/borsa-istanbuls-opening-bell-rang-for-arf-bio-arf-bio-renewable-energy-inc-202615/)
+append_entries: 2
+Finish: 2026-01-05 18:39:31.116074
