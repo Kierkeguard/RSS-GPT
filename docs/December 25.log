@@ -4024,3 +4024,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [From Classroom To Trading Floor: Tehran Securities Exchange Hosts Over 250 Students For Immersive Capital Market Experience](http://www.mondovisione.com/media-and-resources/news/from-classroom-to-trading-floor-tehran-securities-exchange-hosts-over-250-stude-202615/)
 append_entries: 2
 Finish: 2026-01-05 10:31:24.413155
+------------------------------------------------------
+Started: 2026-01-05 12:57:19.403447
+Existing_entries: 630
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIX Exchanges Figures: December And Full Year 2025](http://www.mondovisione.com/media-and-resources/news/six-exchanges-figures-december-and-full-year-2025-202615/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESMA Launches Selection Of Consolidated Tape Provider For OTC Derivatives](http://www.mondovisione.com/media-and-resources/news/esma-launches-selection-of-consolidated-tape-provider-for-otc-derivatives-202615/)
+append_entries: 2
+Finish: 2026-01-05 12:57:20.870116
