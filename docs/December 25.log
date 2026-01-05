@@ -3978,3 +3978,15 @@ Existing_entries: 620
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-01-05 04:59:27.500641
+------------------------------------------------------
+Started: 2026-01-05 06:46:47.283180
+Existing_entries: 620
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Change To Board Member Of Monetary Authority Of Singapore](http://www.mondovisione.com/media-and-resources/news/change-to-board-member-of-monetary-authority-of-singapore-202615/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Announcement Of Approval Of China Construction Bank Corporation Precious Metals & Commodities Department As Shanghai Gold Exchange’s International Member And The International Membership Termination Of China Construction Bank Co., Ltd. Shanghai Pilot Free Trade Zone Branch](http://www.mondovisione.com/media-and-resources/news/announcement-of-approval-of-china-construction-bank-corporation-precious-metals-202615/)
+append_entries: 2
+Finish: 2026-01-05 06:46:48.288240
