@@ -4042,3 +4042,18 @@ Existing_entries: 632
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-01-05 14:29:37.591025
+------------------------------------------------------
+Started: 2026-01-05 16:33:46.734031
+Existing_entries: 632
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Open Consultation On The UK Treasury Bill Market](http://www.mondovisione.com/media-and-resources/news/open-consultation-on-the-uk-treasury-bill-market-202615/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Small Business Sales Edge Up As Consumers Spend More Per Transaction This December, Fiserv Reports - Fiserv Small Business Index Rises To 144 As Year-Over-Year Sales Increase +1.6%](http://www.mondovisione.com/media-and-resources/news/small-business-sales-edge-up-as-consumers-spend-more-per-transaction-this-decemb-202615/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group Reports Record Annual ADV Of 28.1 Million Contracts In 2025, Up 6% Year Over Year](http://www.mondovisione.com/media-and-resources/news/cme-group-reports-record-annual-adv-of-281-million-contracts-in-2025-up-6-yea-202615/)
+append_entries: 3
+Finish: 2026-01-05 16:33:47.950245
