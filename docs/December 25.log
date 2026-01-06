@@ -4219,3 +4219,18 @@ Existing_entries: 663
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-01-06 20:29:59.743047
+------------------------------------------------------
+Started: 2026-01-06 22:26:53.157177
+Existing_entries: 663
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cboe Global Markets Reports Trading Volume For December And Full Year 2025](http://www.mondovisione.com/media-and-resources/news/cboe-global-markets-reports-trading-volume-for-december-and-full-year-2025-202616/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq To Hold Fourth Quarter And Full Year 2025 Investor Conference Call](http://www.mondovisione.com/media-and-resources/news/nasdaq-to-hold-fourth-quarter-and-full-year-2025-investor-conference-call-202616/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [EquiLend: Securities Lending Revenue Soars To All-Time Highs Of $15.3 Billion](http://www.mondovisione.com/media-and-resources/news/equilend-securities-lending-revenue-soars-to-all-time-highs-of-153-billion-202616/)
+append_entries: 3
+Finish: 2026-01-06 22:26:54.353630
