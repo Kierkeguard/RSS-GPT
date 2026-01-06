@@ -4102,3 +4102,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [US Treasury Secures Agreement To Exempt U.S.-Headquartered Companies From Biden Global Tax Plan](http://www.mondovisione.com/media-and-resources/news/us-treasury-secures-agreement-to-exempt-us-headquartered-companies-from-biden-202615/)
 append_entries: 3
 Finish: 2026-01-05 22:26:08.889576
+------------------------------------------------------
+Started: 2026-01-06 02:05:07.189898
+Existing_entries: 644
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-01-06 02:05:08.197851
