@@ -4156,3 +4156,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Broadridge Completes Acquisition Of Acolin, Unlocking Seamless Cross-Border Distribution And Enhanced Data-Driven Solutions For Clients](http://www.mondovisione.com/media-and-resources/news/broadridge-completes-acquisition-of-acolin-unlocking-seamless-cross-border-dist-202616/)
 append_entries: 2
 Finish: 2026-01-06 10:29:28.367240
+------------------------------------------------------
+Started: 2026-01-06 12:55:02.681850
+Existing_entries: 652
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ADX’s Transformative Year Elevates Market Leadership And Sets The Standard For Capital Market Development](http://www.mondovisione.com/media-and-resources/news/adxs-transformative-year-elevates-market-leadership-and-sets-the-standard-for-c-202616/)
+append_entries: 1
+Finish: 2026-01-06 12:55:03.556607
