@@ -4129,3 +4129,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SIFMA Fixed Income Market Close Recommendations In The U.S., The U.K., And Japan For The U.S. Martin Luther King Day](http://www.mondovisione.com/media-and-resources/news/sifma-fixed-income-market-close-recommendations-in-the-us-the-uk-and-japan-202616/)
 append_entries: 3
 Finish: 2026-01-06 06:41:36.549717
+------------------------------------------------------
+Started: 2026-01-06 08:38:18.652525
+Existing_entries: 647
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CoinShares Fund Flows: Flows End 2025 Near Record US$47.2bn As Select Altcoins Gain Momentum](http://www.mondovisione.com/media-and-resources/news/coinshares-fund-flows-flows-end-2025-near-record-us472bn-as-select-altcoins-g-202616/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Securities Commission Malaysia Appoints New Audit Oversight Board Chairman](http://www.mondovisione.com/media-and-resources/news/securities-commission-malaysia-appoints-new-audit-oversight-board-chairman-202616/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc ("LSEG") Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transaction-in-own-shares-202616/)
+append_entries: 3
+Finish: 2026-01-06 08:38:19.932548
