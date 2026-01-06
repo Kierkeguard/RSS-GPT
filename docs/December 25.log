@@ -4213,3 +4213,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Borsa İstanbul Announces The Constituent Changes To The BIST Buyback Index For January, 2026](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-announces-the-constituent-changes-to-the-bist-buyback-index-for-j-202616/)
 append_entries: 5
 Finish: 2026-01-06 18:38:44.103505
+------------------------------------------------------
+Started: 2026-01-06 20:29:58.793159
+Existing_entries: 663
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-01-06 20:29:59.743047
