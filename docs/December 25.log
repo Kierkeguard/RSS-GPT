@@ -4192,3 +4192,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Rimes Strengthens Leadership Team With Appointment Of Former Snowflake And FactSet Executive Kieran Kennedy As Chief Revenue Officer](http://www.mondovisione.com/media-and-resources/news/rimes-strengthens-leadership-team-with-appointment-of-former-snowflake-and-facts-202616/)
 append_entries: 5
 Finish: 2026-01-06 16:36:07.900631
+------------------------------------------------------
+Started: 2026-01-06 18:38:42.637864
+Existing_entries: 658
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FINRA Announces Appointment Of Four New Board Governors](http://www.mondovisione.com/media-and-resources/news/finra-announces-appointment-of-four-new-board-governors-202616/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bank Of England: Minutes Of The UK Money Markets Code Sub-Committee – December 2025](http://www.mondovisione.com/media-and-resources/news/bank-of-england-minutes-of-the-uk-money-markets-code-sub-committee-december-2-202616/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESMA Publishes Report On Cross-Border Marking Of Funds Including Statistics On Notifications](http://www.mondovisione.com/media-and-resources/news/esma-publishes-report-on-cross-border-marking-of-funds-including-statistics-on-n-202616/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Israeli Tech Community In New York Opened Trading At TASE - The Israeli Tech Community In New York Opened Trading At The Tel Aviv Stock Exchange, Calling To Enhance Collaborations And Strengthen The Ties Between The Cities](http://www.mondovisione.com/media-and-resources/news/the-israeli-tech-community-in-new-york-opened-trading-at-tase-the-israeli-tech-202616/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Borsa İstanbul Announces The Constituent Changes To The BIST Buyback Index For January, 2026](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-announces-the-constituent-changes-to-the-bist-buyback-index-for-j-202616/)
+append_entries: 5
+Finish: 2026-01-06 18:38:44.103505
