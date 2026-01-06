@@ -4171,3 +4171,24 @@ Existing_entries: 653
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-01-06 14:28:06.716572
+------------------------------------------------------
+Started: 2026-01-06 16:36:06.880248
+Existing_entries: 653
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Purdue University/CME Group Ag Economy Barometer: Farmer Sentiment Drifts Lower As Trade Uncertainty Hangs Over Agriculture](http://www.mondovisione.com/media-and-resources/news/purdue-universitycme-group-ag-economy-barometer-farmer-sentiment-drifts-lower-202616/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TMX Group Limited Announces Release Date For Q4 2025 Financial Results And Analyst Conference Call](http://www.mondovisione.com/media-and-resources/news/tmx-group-limited-announces-release-date-for-q4-2025-financial-results-and-analy-202616/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ICE Announces Milestones Across Its Data Business In 2025 Including Record Fixed Income Trading And Clearing Volume](http://www.mondovisione.com/media-and-resources/news/ice-announces-milestones-across-its-data-business-in-2025-including-record-fixed-202616/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Intercontinental Exchange Reports December, Fourth Quarter And Full Year 2025 Statistics - Total Futures & Options ADV +19% y/y In December, +7% y/y In 4Q25, And Record ADV In 2025 +14% y/y](http://www.mondovisione.com/media-and-resources/news/intercontinental-exchange-reports-december-fourth-quarter-and-full-year-2025-st-202616/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Rimes Strengthens Leadership Team With Appointment Of Former Snowflake And FactSet Executive Kieran Kennedy As Chief Revenue Officer](http://www.mondovisione.com/media-and-resources/news/rimes-strengthens-leadership-team-with-appointment-of-former-snowflake-and-facts-202616/)
+append_entries: 5
+Finish: 2026-01-06 16:36:07.900631
