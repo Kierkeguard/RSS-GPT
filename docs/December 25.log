@@ -4114,3 +4114,18 @@ Existing_entries: 644
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-01-06 04:43:35.340617
+------------------------------------------------------
+Started: 2026-01-06 06:41:35.486167
+Existing_entries: 644
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SGX Group Chief Risk Officer Agnes Koh To Step Down, Deputy CRO Ivan Han To Assume Role](http://www.mondovisione.com/media-and-resources/news/sgx-group-chief-risk-officer-agnes-koh-to-step-down-deputy-cro-ivan-han-to-assu-202616/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SGX Stock Exchange Welcomes Concord New Energy Group Limited To Mainboard](http://www.mondovisione.com/media-and-resources/news/sgx-stock-exchange-welcomes-concord-new-energy-group-limited-to-mainboard-202616/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIFMA Fixed Income Market Close Recommendations In The U.S., The U.K., And Japan For The U.S. Martin Luther King Day](http://www.mondovisione.com/media-and-resources/news/sifma-fixed-income-market-close-recommendations-in-the-us-the-uk-and-japan-202616/)
+append_entries: 3
+Finish: 2026-01-06 06:41:36.549717
