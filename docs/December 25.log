@@ -4305,3 +4305,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SmartSearch Completes Acquisition Of Credas To Enhance Digital Compliance Solutions - Acquisition Enhances SmartSearch’s Position As One Of The UK’s Foremost Digital KYC And AML Compliance Platforms](http://www.mondovisione.com/media-and-resources/news/smartsearch-completes-acquisition-of-credas-to-enhance-digital-compliance-soluti-202617/)
 append_entries: 5
 Finish: 2026-01-07 12:56:32.585526
+------------------------------------------------------
+Started: 2026-01-07 14:29:27.872291
+Existing_entries: 679
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The New York Stock Exchange Enters Agreement With MSCI To Become The U.S. Options Listing Venue For Benchmark Indexes In Early 2026](http://www.mondovisione.com/media-and-resources/news/the-new-york-stock-exchange-enters-agreement-with-msci-to-become-the-us-option-202617/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [DTCC Receives SEC Approval To Launch New Agent Clearing (ACS) Triparty Service On BNY’s Global Collateral Platform, As FICC’s GSD Volumes Continue To Rise](http://www.mondovisione.com/media-and-resources/news/dtcc-receives-sec-approval-to-launch-new-agent-clearing-acs-triparty-service-o-202617/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tehran Securities Exchange Bulletin - December 2025](http://www.mondovisione.com/media-and-resources/news/tehran-securities-exchange-bulletin-december-2025-202617/)
+append_entries: 3
+Finish: 2026-01-07 14:29:30.017990
