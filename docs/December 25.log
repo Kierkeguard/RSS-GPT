@@ -4284,3 +4284,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [UK Financial Conduct Authority Fines Former Finance Directors Of Carillion plc (In Liquidation)](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-fines-former-finance-directors-of-carillion-plc-202617/)
 append_entries: 1
 Finish: 2026-01-07 10:30:07.040950
+------------------------------------------------------
+Started: 2026-01-07 12:56:30.620691
+Existing_entries: 674
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER Publishes Its Multi-Annual Work Programme 2026-2028](http://www.mondovisione.com/media-and-resources/news/acer-publishes-its-multi-annual-work-programme-2026-2028-202617/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MarketAxess Announces Trading Volume Statistics For December And Fourth Quarter 2025](http://www.mondovisione.com/media-and-resources/news/marketaxess-announces-trading-volume-statistics-for-december-and-fourth-quarter-202617/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Worldline Launches One Commerce In The UK, Enabling Enterprise Merchants To Unify Payments Across All Channels](http://www.mondovisione.com/media-and-resources/news/worldline-launches-one-commerce-in-the-uk-enabling-enterprise-merchants-to-unif-202617/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Saxo Reaches Key Milestone With DKK 1 Trillion In Client Assets](http://www.mondovisione.com/media-and-resources/news/saxo-reaches-key-milestone-with-dkk-1-trillion-in-client-assets-202617/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SmartSearch Completes Acquisition Of Credas To Enhance Digital Compliance Solutions - Acquisition Enhances SmartSearch’s Position As One Of The UK’s Foremost Digital KYC And AML Compliance Platforms](http://www.mondovisione.com/media-and-resources/news/smartsearch-completes-acquisition-of-credas-to-enhance-digital-compliance-soluti-202617/)
+append_entries: 5
+Finish: 2026-01-07 12:56:32.585526
