@@ -4320,3 +4320,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Tehran Securities Exchange Bulletin - December 2025](http://www.mondovisione.com/media-and-resources/news/tehran-securities-exchange-bulletin-december-2025-202617/)
 append_entries: 3
 Finish: 2026-01-07 14:29:30.017990
+------------------------------------------------------
+Started: 2026-01-07 16:36:50.780848
+Existing_entries: 682
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [All Eyes On Europe As Cracks Emerge In Private Credit - With Intelligence 2026 Private Credit Outlook Charts Record Fundraising In Europe As North American Market Slows](http://www.mondovisione.com/media-and-resources/news/all-eyes-on-europe-as-cracks-emerge-in-private-credit-with-intelligence-2026-p-202617/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Clover Introduces Identity-Based Payments To Transform Everyday Transactions - Visit Booth #5451 At NRF 2026: Retail’s Big Show To Discover How Clover, Powered By Wink’s Advanced Technology, Is Enabling Biometric Recognition For Secure, Frictionless Payments](http://www.mondovisione.com/media-and-resources/news/clover-introduces-identity-based-payments-to-transform-everyday-transactions-v-202617/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tradeweb Reports December 2025 Total Trading Volume Of $63.0 Trillion And Average Daily Volume Of $2.8 Trillion](http://www.mondovisione.com/media-and-resources/news/tradeweb-reports-december-2025-total-trading-volume-of-630-trillion-and-averag-202617/)
+append_entries: 3
+Finish: 2026-01-07 16:36:52.272475
