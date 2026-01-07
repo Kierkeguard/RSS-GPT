@@ -4252,3 +4252,26 @@ Existing_entries: 666
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-01-07 06:41:04.009420
+------------------------------------------------------
+Started: 2026-01-07 08:37:19.077669
+Existing_entries: 666
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BMLL Makes Strategic APAC Hire To Drive Regional Growth - Karen King Joins As Head Of Sales, APAC, In Response To Increasing Client Demand For BMLL Data And Analytics Across The Region](http://www.mondovisione.com/media-and-resources/news/bmll-makes-strategic-apac-hire-to-drive-regional-growth-karen-king-joins-as-he-202617/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Dubai Clear And Nasdaq Dubai Receive European Securities And Markets Authority “ESMA” Tier 1 Recognition](http://www.mondovisione.com/media-and-resources/news/dubai-clear-and-nasdaq-dubai-receive-european-securities-and-markets-authority-202617/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc ("LSEG") Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transaction-in-own-shares-202617/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [JPX Monthly Headlines - December 2025](http://www.mondovisione.com/media-and-resources/news/jpx-monthly-headlines-december-2025-202617/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Dalian Commodity Exchange Deals With 14 Cases Of Abnormal Trading In December 2025](http://www.mondovisione.com/media-and-resources/news/dalian-commodity-exchange-deals-with-14-cases-of-abnormal-trading-in-december-20-202617/)
+Append: [Shanghai Futures Exchange: Notice On Self-Regulation Information In December 2025](http://www.mondovisione.com/media-and-resources/news/shanghai-futures-exchange-notice-on-self-regulation-information-in-december-202-202617/)
+Append: [Japan Financial Services Agency: Initiatives By The Financial Industry To Enhance Their Asset Management Businesses](http://www.mondovisione.com/media-and-resources/news/japan-financial-services-agency-initiatives-by-the-financial-industry-to-enhanc-202617/)
+append_entries: 7
+Finish: 2026-01-07 08:37:20.544171
