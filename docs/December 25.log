@@ -4335,3 +4335,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Tradeweb Reports December 2025 Total Trading Volume Of $63.0 Trillion And Average Daily Volume Of $2.8 Trillion](http://www.mondovisione.com/media-and-resources/news/tradeweb-reports-december-2025-total-trading-volume-of-630-trillion-and-averag-202617/)
 append_entries: 3
 Finish: 2026-01-07 16:36:52.272475
+------------------------------------------------------
+Started: 2026-01-07 18:39:47.612983
+Existing_entries: 685
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Todd Klessman Joins SIFMA As Managing Director, Financial Services Cyber & Technology](http://www.mondovisione.com/media-and-resources/news/todd-klessman-joins-sifma-as-managing-director-financial-services-cyber-and-techn-202617/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Barings Emerging EMEA Opportunities: Saudi Arabia’s Latest Liberalisation Move Marks A Meaningful Evolution In The Kingdom’s Capital Markets Framework](http://www.mondovisione.com/media-and-resources/news/barings-emerging-emea-opportunities-saudi-arabias-latest-liberalisation-move-m-202617/)
+append_entries: 2
+Finish: 2026-01-07 18:39:49.231877
