@@ -4275,3 +4275,12 @@ Append: [Shanghai Futures Exchange: Notice On Self-Regulation Information In Dec
 Append: [Japan Financial Services Agency: Initiatives By The Financial Industry To Enhance Their Asset Management Businesses](http://www.mondovisione.com/media-and-resources/news/japan-financial-services-agency-initiatives-by-the-financial-industry-to-enhanc-202617/)
 append_entries: 7
 Finish: 2026-01-07 08:37:20.544171
+------------------------------------------------------
+Started: 2026-01-07 10:30:06.160906
+Existing_entries: 673
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Fines Former Finance Directors Of Carillion plc (In Liquidation)](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-fines-former-finance-directors-of-carillion-plc-202617/)
+append_entries: 1
+Finish: 2026-01-07 10:30:07.040950
