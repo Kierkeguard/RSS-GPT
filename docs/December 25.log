@@ -4413,3 +4413,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SET Market Report For December And Full-Year 2025](http://www.mondovisione.com/media-and-resources/news/set-market-report-for-december-and-full-year-2025-202618/)
 append_entries: 5
 Finish: 2026-01-08 08:37:09.784025
+------------------------------------------------------
+Started: 2026-01-08 10:30:28.735005
+Existing_entries: 697
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ING In The UK Appoints Julieta Susara As Chief Risk Officer](http://www.mondovisione.com/media-and-resources/news/ing-in-the-uk-appoints-julieta-susara-as-chief-risk-officer-202618/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Broadridge’s Distributed Ledger Repo Platform Processes Nearly $9 Trillion In December - December 2025 ADV Up 490% YOY, Highlighting The Rapid Adoption Of Tokenized Settlement](http://www.mondovisione.com/media-and-resources/news/broadridges-distributed-ledger-repo-platform-processes-nearly-9-trillion-in-de-202618/)
+append_entries: 2
+Finish: 2026-01-08 10:30:29.903339
