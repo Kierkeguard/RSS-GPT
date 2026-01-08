@@ -4502,3 +4502,15 @@ Existing_entries: 716
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-01-08 20:31:02.432893
+------------------------------------------------------
+Started: 2026-01-08 22:26:37.562783
+Existing_entries: 716
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Reports December 2025 Volumes And 4Q25 Statistics](http://www.mondovisione.com/media-and-resources/news/nasdaq-reports-december-2025-volumes-and-4q25-statistics-202618/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Staff Issues No-Action Letter Regarding Event Contracts](http://www.mondovisione.com/media-and-resources/news/cftc-staff-issues-no-action-letter-regarding-event-contracts-202618/)
+append_entries: 2
+Finish: 2026-01-08 22:26:38.921664
