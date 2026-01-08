@@ -4452,3 +4452,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Eastspring Investments Deepens Its FX Trading Capabilities Through Partnership With SGX FX](http://www.mondovisione.com/media-and-resources/news/eastspring-investments-deepens-its-fx-trading-capabilities-through-partnership-w-202618/)
 append_entries: 1
 Finish: 2026-01-08 14:30:37.087343
+------------------------------------------------------
+Started: 2026-01-08 16:36:49.536887
+Existing_entries: 704
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [U.S. Department Of The Treasury Announces The United States’ Immediate Withdrawal From The Green Climate Fund](http://www.mondovisione.com/media-and-resources/news/us-department-of-the-treasury-announces-the-united-states-immediate-withdrawa-202618/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority: Pension Value To Be Put Under The Spotlight](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-pension-value-to-be-put-under-the-spotlight-202618/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Fiserv Collaborates With Microsoft To Accelerate AI-Driven Innovation - The Two Firms Will Work Together To Embed AI Into Fiserv Platforms, Equipping Its Global Workforce With Advanced Tools And Driving Intelligent Capabilities To Deliver Greater Value To Fiserv Clients](http://www.mondovisione.com/media-and-resources/news/fiserv-collaborates-with-microsoft-to-accelerate-ai-driven-innovation-the-two-202618/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [DTCC Executives’ 2025 Year In Review And 2026 Outlook](http://www.mondovisione.com/media-and-resources/news/dtcc-executives-2025-year-in-review-and-2026-outlook-202618/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ABEX Secures UK Financial Conduct Authority Approval To Launch Regulated Digital-Asset Derivatives Trading - ABEX UK Derivatives Limited Brings FCA-Regulated, Ultra-Low-Latency Execution To Digital-Asset Derivatives](http://www.mondovisione.com/media-and-resources/news/abex-secures-uk-financial-conduct-authority-approval-to-launch-regulated-digital-202618/)
+append_entries: 5
+Finish: 2026-01-08 16:36:50.688931
