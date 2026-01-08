@@ -4383,3 +4383,12 @@ Existing_entries: 691
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-01-08 04:43:29.033550
+------------------------------------------------------
+Started: 2026-01-08 06:41:24.083942
+Existing_entries: 691
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Proposes Amendments To The Small Entity Definitions For Investment Companies And Investment Advisers For Purposes Of The Regulatory Flexibility Act](http://www.mondovisione.com/media-and-resources/news/sec-proposes-amendments-to-the-small-entity-definitions-for-investment-companies-202618/)
+append_entries: 1
+Finish: 2026-01-08 06:41:25.322541
