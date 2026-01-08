@@ -4392,3 +4392,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SEC Proposes Amendments To The Small Entity Definitions For Investment Companies And Investment Advisers For Purposes Of The Regulatory Flexibility Act](http://www.mondovisione.com/media-and-resources/news/sec-proposes-amendments-to-the-small-entity-definitions-for-investment-companies-202618/)
 append_entries: 1
 Finish: 2026-01-08 06:41:25.322541
+------------------------------------------------------
+Started: 2026-01-08 08:37:08.747812
+Existing_entries: 692
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Broadridge Invests In DeepSee, Further Harnessing Agentic AI To Transform Post-Trade Operations - Investment Accelerates Innovation In Capital Markets, Enhancing Efficiency, Compliance, And Client Service– Starting With AI-Powered Email Orchestration](http://www.mondovisione.com/media-and-resources/news/broadridge-invests-in-deepsee-further-harnessing-agentic-ai-to-transform-post-t-202618/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group International Average Daily Volume Reaches Record 8.4 Million Contracts In 2025, Up 8% From 2024](http://www.mondovisione.com/media-and-resources/news/cme-group-international-average-daily-volume-reaches-record-84-million-contract-202618/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Droit Launches Decision Decoder - Delivers Generative AI-Powered Explanations To Enhance Clarity In Regulatory Compliance](http://www.mondovisione.com/media-and-resources/news/droit-launches-decision-decoder-delivers-generative-ai-powered-explanations-to-202618/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc ("LSEG") Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transaction-in-own-shares-202618/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SET Market Report For December And Full-Year 2025](http://www.mondovisione.com/media-and-resources/news/set-market-report-for-december-and-full-year-2025-202618/)
+append_entries: 5
+Finish: 2026-01-08 08:37:09.784025
