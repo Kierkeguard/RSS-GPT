@@ -4443,3 +4443,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [LME Data Highlights:  2025](http://www.mondovisione.com/media-and-resources/news/lme-data-highlights-2025-202618/)
 append_entries: 4
 Finish: 2026-01-08 12:56:52.935026
+------------------------------------------------------
+Started: 2026-01-08 14:30:35.814991
+Existing_entries: 703
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Eastspring Investments Deepens Its FX Trading Capabilities Through Partnership With SGX FX](http://www.mondovisione.com/media-and-resources/news/eastspring-investments-deepens-its-fx-trading-capabilities-through-partnership-w-202618/)
+append_entries: 1
+Finish: 2026-01-08 14:30:37.087343
