@@ -4425,3 +4425,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Broadridge’s Distributed Ledger Repo Platform Processes Nearly $9 Trillion In December - December 2025 ADV Up 490% YOY, Highlighting The Rapid Adoption Of Tokenized Settlement](http://www.mondovisione.com/media-and-resources/news/broadridges-distributed-ledger-repo-platform-processes-nearly-9-trillion-in-de-202618/)
 append_entries: 2
 Finish: 2026-01-08 10:30:29.903339
+------------------------------------------------------
+Started: 2026-01-08 12:56:51.492738
+Existing_entries: 699
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Miami International Holdings Reports Trading Results For December And Full-Year 2025 - MIAX Exchange Group Executed A Record 2.4 Billion Multi-Listed Options Contracts In 2025, A 41.1% Increase Over 2024](http://www.mondovisione.com/media-and-resources/news/miami-international-holdings-reports-trading-results-for-december-and-full-year-202618/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Comment: Venezuela And Impact On Bitcoin From James Butterfill, Head Of Research At CoinShares](http://www.mondovisione.com/media-and-resources/news/comment-venezuela-and-impact-on-bitcoin-from-james-butterfill-head-of-research-202618/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER Introduces A Framework For Monitoring Smart Grid Performance In Electricity Transmission](http://www.mondovisione.com/media-and-resources/news/acer-introduces-a-framework-for-monitoring-smart-grid-performance-in-electricity-202618/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LME Data Highlights:  2025](http://www.mondovisione.com/media-and-resources/news/lme-data-highlights-2025-202618/)
+append_entries: 4
+Finish: 2026-01-08 12:56:52.935026
