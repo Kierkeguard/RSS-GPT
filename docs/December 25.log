@@ -4473,3 +4473,26 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ABEX Secures UK Financial Conduct Authority Approval To Launch Regulated Digital-Asset Derivatives Trading - ABEX UK Derivatives Limited Brings FCA-Regulated, Ultra-Low-Latency Execution To Digital-Asset Derivatives](http://www.mondovisione.com/media-and-resources/news/abex-secures-uk-financial-conduct-authority-approval-to-launch-regulated-digital-202618/)
 append_entries: 5
 Finish: 2026-01-08 16:36:50.688931
+------------------------------------------------------
+Started: 2026-01-08 18:35:55.353244
+Existing_entries: 709
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nodal Exchange Achieves Year-End Records In Power And Environmental Markets In 2025](http://www.mondovisione.com/media-and-resources/news/nodal-exchange-achieves-year-end-records-in-power-and-environmental-markets-in-2-202618/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nigeria's President Tinubu Applauds NGX ₦100 Trillion Milestone, Urges Nigerians To Invest More Locally](http://www.mondovisione.com/media-and-resources/news/nigerias-president-tinubu-applauds-ngx-100-trillion-milestone-urges-nigerians-202618/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euronext Announces Volumes For December 2025](http://www.mondovisione.com/media-and-resources/news/euronext-announces-volumes-for-december-2025-202618/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bank Of England - Asset Purchase Facility: Gilt Sales Amendment – Market Notice 8 January 2026](http://www.mondovisione.com/media-and-resources/news/bank-of-england-asset-purchase-facility-gilt-sales-amendment-market-notice-202618/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The EBA Publishes Its Final Draft Technical Standards To Strengthen Supervisory Cooperation For Third-Country Branches](http://www.mondovisione.com/media-and-resources/news/the-eba-publishes-its-final-draft-technical-standards-to-strengthen-supervisory-202618/)
+Append: [ESAs Publish Joint Guidelines On ESG Stress Testing](http://www.mondovisione.com/media-and-resources/news/esas-publish-joint-guidelines-on-esg-stress-testing-202618/)
+Append: [Tobias Paulun Appointed As New CEO Of EEX - Peter Reitz To Step Down After 15 Successful Years As CEO At His Own Request](http://www.mondovisione.com/media-and-resources/news/tobias-paulun-appointed-as-new-ceo-of-eex-peter-reitz-to-step-down-after-15-su-202618/)
+append_entries: 7
+Finish: 2026-01-08 18:35:56.456615
