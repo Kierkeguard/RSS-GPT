@@ -4371,3 +4371,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [TMX Group Consolidated Trading Statistics – December 2025](http://www.mondovisione.com/media-and-resources/news/tmx-group-consolidated-trading-statistics-december-2025-202617/)
 append_entries: 4
 Finish: 2026-01-07 22:26:33.837135
+------------------------------------------------------
+Started: 2026-01-08 02:05:16.695382
+Existing_entries: 691
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-01-08 02:05:18.094509
