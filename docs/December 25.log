@@ -4514,3 +4514,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CFTC Staff Issues No-Action Letter Regarding Event Contracts](http://www.mondovisione.com/media-and-resources/news/cftc-staff-issues-no-action-letter-regarding-event-contracts-202618/)
 append_entries: 2
 Finish: 2026-01-08 22:26:38.921664
+------------------------------------------------------
+Started: 2026-01-09 02:06:22.527273
+Existing_entries: 718
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-01-09 02:06:23.642295
