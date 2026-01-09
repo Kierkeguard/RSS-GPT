@@ -4570,3 +4570,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Nasdaq Stockholm Welcomes Morrow Bank AB To The Main Market](http://www.mondovisione.com/media-and-resources/news/nasdaq-stockholm-welcomes-morrow-bank-ab-to-the-main-market-202619/)
 append_entries: 1
 Finish: 2026-01-09 10:29:30.745718
+------------------------------------------------------
+Started: 2026-01-09 12:55:36.522308
+Existing_entries: 728
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The EBA Publishes A Report On Prudential Consolidation And Final Guidelines On Ancillary Services Undertakings](http://www.mondovisione.com/media-and-resources/news/the-eba-publishes-a-report-on-prudential-consolidation-and-final-guidelines-on-a-202619/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Principles For Risk-Based Supervision: A Critical Pillar For ESMA’s Simplification And Burden Reduction Efforts](http://www.mondovisione.com/media-and-resources/news/principles-for-risk-based-supervision-a-critical-pillar-for-esmas-simplificati-202619/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The EBA Publishes Final Draft Technical Standards On Booking Arrangements](http://www.mondovisione.com/media-and-resources/news/the-eba-publishes-final-draft-technical-standards-on-booking-arrangements-202619/)
+append_entries: 3
+Finish: 2026-01-09 12:55:37.795844
