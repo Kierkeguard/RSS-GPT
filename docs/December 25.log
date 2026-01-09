@@ -4585,3 +4585,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [The EBA Publishes Final Draft Technical Standards On Booking Arrangements](http://www.mondovisione.com/media-and-resources/news/the-eba-publishes-final-draft-technical-standards-on-booking-arrangements-202619/)
 append_entries: 3
 Finish: 2026-01-09 12:55:37.795844
+------------------------------------------------------
+Started: 2026-01-09 14:29:09.085910
+Existing_entries: 731
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-01-09 14:29:10.285928
