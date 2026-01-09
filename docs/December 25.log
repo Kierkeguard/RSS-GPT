@@ -4526,3 +4526,15 @@ Existing_entries: 718
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-01-09 04:44:33.320965
+------------------------------------------------------
+Started: 2026-01-09 06:41:18.609620
+Existing_entries: 718
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Dubai Financial Services Authority Thematic Review: Conflicts Of Interest Across DIFC Firms](http://www.mondovisione.com/media-and-resources/news/new-dubai-financial-services-authority-thematic-review-conflicts-of-interest-ac-202619/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Japan Financial Services Agency: "Cold Calling" - Investors Alert](http://www.mondovisione.com/media-and-resources/news/japan-financial-services-agency-cold-calling-investors-alert-202619/)
+append_entries: 2
+Finish: 2026-01-09 06:41:20.004865
