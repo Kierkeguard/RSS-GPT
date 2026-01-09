@@ -4591,3 +4591,18 @@ Existing_entries: 731
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-01-09 14:29:10.285928
+------------------------------------------------------
+Started: 2026-01-09 16:35:03.436104
+Existing_entries: 731
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nigerian Exchange Weekly Summary Statistics For The Week Ended 9 January 2026](http://www.mondovisione.com/media-and-resources/news/nigerian-exchange-weekly-summary-statistics-for-the-week-ended-9-january-2026-202619/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Fiserv Launches Unknown Shopper At NRF, Helping Merchants Better Understand In-Store Customers - New Capability Delivers Actionable Insights From Card-Present Transactions](http://www.mondovisione.com/media-and-resources/news/fiserv-launches-unknown-shopper-at-nrf-helping-merchants-better-understand-in-s-202619/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Malawi Stock Exchange Weekly Summary Report, 9 January 2026](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-9-january-2026-202619/)
+append_entries: 3
+Finish: 2026-01-09 16:35:04.666166
