@@ -4643,3 +4643,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Canadian Investment Regulatory Organization Has Launched New Proficiency Model - First Official Exams Delivered In Partnership With Fitch Learning](http://www.mondovisione.com/media-and-resources/news/canadian-investment-regulatory-organization-has-launched-new-proficiency-model-202619/)
 append_entries: 3
 Finish: 2026-01-09 20:30:35.985008
+------------------------------------------------------
+Started: 2026-01-09 22:26:22.207401
+Existing_entries: 743
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Commitments Of Traders Reports Update](http://www.mondovisione.com/media-and-resources/news/cftc-commitments-of-traders-reports-update-202619/)
+append_entries: 1
+Finish: 2026-01-09 22:26:23.083598
