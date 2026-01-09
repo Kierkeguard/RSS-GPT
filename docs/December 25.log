@@ -4561,3 +4561,12 @@ Append: [(Re)Empowering Fiduciaries In Proxy Voting, Brian Daly, Director, SEC D
 Append: [SEC Publishes Staff Report On Capital-Raising Dynamics](http://www.mondovisione.com/media-and-resources/news/sec-publishes-staff-report-on-capital-raising-dynamics-202619/)
 append_entries: 7
 Finish: 2026-01-09 08:37:20.626580
+------------------------------------------------------
+Started: 2026-01-09 10:29:29.465706
+Existing_entries: 727
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Stockholm Welcomes Morrow Bank AB To The Main Market](http://www.mondovisione.com/media-and-resources/news/nasdaq-stockholm-welcomes-morrow-bank-ab-to-the-main-market-202619/)
+append_entries: 1
+Finish: 2026-01-09 10:29:30.745718
