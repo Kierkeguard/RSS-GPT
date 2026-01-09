@@ -4538,3 +4538,26 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Japan Financial Services Agency: "Cold Calling" - Investors Alert](http://www.mondovisione.com/media-and-resources/news/japan-financial-services-agency-cold-calling-investors-alert-202619/)
 append_entries: 2
 Finish: 2026-01-09 06:41:20.004865
+------------------------------------------------------
+Started: 2026-01-09 08:37:19.208641
+Existing_entries: 720
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc ("LSEG") Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transaction-in-own-shares-202619/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Taiwan Futures Exchange Newsletter - January 2026](http://www.mondovisione.com/media-and-resources/news/taiwan-futures-exchange-newsletter-january-2026-202619/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SGX Group’s December Performance Caps Stellar Year With Sustained Stock Market Momentum, Record Derivatives Volume](http://www.mondovisione.com/media-and-resources/news/sgx-groups-december-performance-caps-stellar-year-with-sustained-stock-market-m-202619/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX To Introduce New Stock Option Classes](http://www.mondovisione.com/media-and-resources/news/hkex-to-introduce-new-stock-option-classes-202619/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bursa Malaysia Securities Sector And Sub-Sector Update: Central Global Berhad](http://www.mondovisione.com/media-and-resources/news/bursa-malaysia-securities-sector-and-sub-sector-update-central-global-berhad-202619/)
+Append: [(Re)Empowering Fiduciaries In Proxy Voting, Brian Daly, Director, SEC Division Of Investment Management, New York City Bar Association, New York, N.Y., Jan. 8, 2026](http://www.mondovisione.com/media-and-resources/news/reempowering-fiduciaries-in-proxy-voting-brian-daly-director-sec-division-o-202619/)
+Append: [SEC Publishes Staff Report On Capital-Raising Dynamics](http://www.mondovisione.com/media-and-resources/news/sec-publishes-staff-report-on-capital-raising-dynamics-202619/)
+append_entries: 7
+Finish: 2026-01-09 08:37:20.626580
