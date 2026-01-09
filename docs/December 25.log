@@ -4628,3 +4628,18 @@ Append: [Statement By The Eurogroup President On The Nominations For The Post Of
 Append: [Dubai Financial Market Regulated Short Sell – Weekly Summary - 5th January 2026 To 9th January 2026](http://www.mondovisione.com/media-and-resources/news/dubai-financial-market-regulated-short-sell-weekly-summary-5th-january-2026-202619/)
 append_entries: 6
 Finish: 2026-01-09 18:39:06.627377
+------------------------------------------------------
+Started: 2026-01-09 20:30:34.705901
+Existing_entries: 740
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Federal Reserve Board Announces The Designation Of The Chairs And Deputy Chairs Of The 12 Federal Reserve Banks For 2026](http://www.mondovisione.com/media-and-resources/news/federal-reserve-board-announces-the-designation-of-the-chairs-and-deputy-chairs-202619/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC To Host Hybrid Event On Regulation S-P For Small Firms](http://www.mondovisione.com/media-and-resources/news/sec-to-host-hybrid-event-on-regulation-s-p-for-small-firms-202619/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Canadian Investment Regulatory Organization Has Launched New Proficiency Model - First Official Exams Delivered In Partnership With Fitch Learning](http://www.mondovisione.com/media-and-resources/news/canadian-investment-regulatory-organization-has-launched-new-proficiency-model-202619/)
+append_entries: 3
+Finish: 2026-01-09 20:30:35.985008
