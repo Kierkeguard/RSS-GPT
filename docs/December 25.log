@@ -4670,3 +4670,12 @@ Existing_entries: 744
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-01-10 06:37:19.190828
+------------------------------------------------------
+Started: 2026-01-10 08:32:31.933548
+Existing_entries: 744
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Walmart Inc. To Join The Nasdaq-100 Index® Beginning January 20th, 2026](http://www.mondovisione.com/media-and-resources/news/walmart-inc-to-join-the-nasdaq-100-index-beginning-january-20th-2026-2026110/)
+append_entries: 1
+Finish: 2026-01-10 08:32:32.779187
