@@ -4820,3 +4820,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Statement From Federal Reserve Chair Jerome H. Powell](http://www.mondovisione.com/media-and-resources/news/statement-from-federal-reserve-chair-jerome-h-powell-2026112/)
 append_entries: 5
 Finish: 2026-01-12 06:44:59.777636
+------------------------------------------------------
+Started: 2026-01-12 08:39:13.435655
+Existing_entries: 750
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc ("LSEG") Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transaction-in-own-shares-2026112/)
+append_entries: 1
+Finish: 2026-01-12 08:39:14.682394
