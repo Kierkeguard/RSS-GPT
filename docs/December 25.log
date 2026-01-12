@@ -4799,3 +4799,24 @@ Existing_entries: 745
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-01-12 04:54:23.822158
+------------------------------------------------------
+Started: 2026-01-12 06:44:59.019375
+Existing_entries: 745
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Thailand Futures Exchange Appoints Triwit Wangvorawudhi As Managing Director, Effective January 5, 2026](http://www.mondovisione.com/media-and-resources/news/thailand-futures-exchange-appoints-triwit-wangvorawudhi-as-managing-director-ef-2026112/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bursa Malaysia’s First Ever Quality Factor Indexes Showcase Companies With Strong Financial Characteristics](http://www.mondovisione.com/media-and-resources/news/bursa-malaysias-first-ever-quality-factor-indexes-showcase-companies-with-stron-2026112/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Eminent Macroeconomist Professor Alan M. Taylor Appointed Monetary Authority Of Singapore Distinguished Term Professor At National University of Singapore](http://www.mondovisione.com/media-and-resources/news/eminent-macroeconomist-professor-alan-m-taylor-appointed-monetary-authority-of-2026112/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The  Dubai Financial Services Authority Implements Major Updates To Crypto Token Regulatory Framework, Enhancing Market Integrity And Supporting Innovation In DIFC](http://www.mondovisione.com/media-and-resources/news/the-dubai-financial-services-authority-implements-major-updates-to-crypto-token-2026112/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Statement From Federal Reserve Chair Jerome H. Powell](http://www.mondovisione.com/media-and-resources/news/statement-from-federal-reserve-chair-jerome-h-powell-2026112/)
+append_entries: 5
+Finish: 2026-01-12 06:44:59.777636
