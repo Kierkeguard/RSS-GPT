@@ -4874,3 +4874,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CRRH-UEMOA Brings First West African Social Bond To LGX](http://www.mondovisione.com/media-and-resources/news/crrh-uemoa-brings-first-west-african-social-bond-to-lgx-2026112/)
 append_entries: 4
 Finish: 2026-01-12 16:33:46.229976
+------------------------------------------------------
+Started: 2026-01-12 18:40:07.121012
+Existing_entries: 758
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Chairman Selig Launches The CFTC Innovation Advisory Committee - CEO Innovation Council Expected To Be Among Charter Members](http://www.mondovisione.com/media-and-resources/news/cftc-chairman-selig-launches-the-cftc-innovation-advisory-committee-ceo-innova-2026112/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Jason Keogh Joins Sage Capital Management As Sales Director](http://www.mondovisione.com/media-and-resources/news/jason-keogh-joins-sage-capital-management-as-sales-director-2026112/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ISDA derivatiViews: Striking A Pragmatic Balance On EU Market Risk Capital](http://www.mondovisione.com/media-and-resources/news/isda-derivativiews-striking-a-pragmatic-balance-on-eu-market-risk-capital-2026112/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Management Of Sugat Group Opens Trading On Tel Aviv Stock Exchange](http://www.mondovisione.com/media-and-resources/news/management-of-sugat-group-opens-trading-on-tel-aviv-stock-exchange-2026112/)
+append_entries: 4
+Finish: 2026-01-12 18:40:08.616596
