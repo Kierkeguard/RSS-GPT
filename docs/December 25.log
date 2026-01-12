@@ -4847,3 +4847,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [HKEX: Listing Nominating Committee Seeks Candidates For Listing Review Committee](http://www.mondovisione.com/media-and-resources/news/hkex-listing-nominating-committee-seeks-candidates-for-listing-review-committee-2026112/)
 append_entries: 2
 Finish: 2026-01-12 12:58:10.657988
+------------------------------------------------------
+Started: 2026-01-12 14:30:53.509830
+Existing_entries: 753
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [DTCC Statement On Industry-Wide Testing Phase For 24x5 Trading](http://www.mondovisione.com/media-and-resources/news/dtcc-statement-on-industry-wide-testing-phase-for-24x5-trading-2026112/)
+append_entries: 1
+Finish: 2026-01-12 14:30:55.403342
