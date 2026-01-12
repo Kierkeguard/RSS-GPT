@@ -4856,3 +4856,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [DTCC Statement On Industry-Wide Testing Phase For 24x5 Trading](http://www.mondovisione.com/media-and-resources/news/dtcc-statement-on-industry-wide-testing-phase-for-24x5-trading-2026112/)
 append_entries: 1
 Finish: 2026-01-12 14:30:55.403342
+------------------------------------------------------
+Started: 2026-01-12 16:33:45.333905
+Existing_entries: 754
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Exchange Group - Holiday Schedule - Martin Luther King Jr. Day 2026](http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-holiday-schedule-martin-luther-king-jr-day-2026-2026112/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Moscow Exchange Trading Volumes In December 2025](http://www.mondovisione.com/media-and-resources/news/moscow-exchange-trading-volumes-in-december-2025-2026112/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Share Your Views: ACER Is Consulting On The Design Of REMIT Exposure Data Reporting](http://www.mondovisione.com/media-and-resources/news/share-your-views-acer-is-consulting-on-the-design-of-remit-exposure-data-report-2026112/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CRRH-UEMOA Brings First West African Social Bond To LGX](http://www.mondovisione.com/media-and-resources/news/crrh-uemoa-brings-first-west-african-social-bond-to-lgx-2026112/)
+append_entries: 4
+Finish: 2026-01-12 16:33:46.229976
