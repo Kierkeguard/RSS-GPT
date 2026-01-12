@@ -4892,3 +4892,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Management Of Sugat Group Opens Trading On Tel Aviv Stock Exchange](http://www.mondovisione.com/media-and-resources/news/management-of-sugat-group-opens-trading-on-tel-aviv-stock-exchange-2026112/)
 append_entries: 4
 Finish: 2026-01-12 18:40:08.616596
+------------------------------------------------------
+Started: 2026-01-12 20:30:32.217161
+Existing_entries: 762
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TMX Group Equity Financing Statistics – December 2025](http://www.mondovisione.com/media-and-resources/news/tmx-group-equity-financing-statistics-december-2025-2026112/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Exchange Group - Electronic Filing Of Annual Reports](http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-electronic-filing-of-annual-reports-2026112/)
+append_entries: 2
+Finish: 2026-01-12 20:30:33.719356
