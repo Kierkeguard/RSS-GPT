@@ -4904,3 +4904,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [MIAX Exchange Group - Electronic Filing Of Annual Reports](http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-electronic-filing-of-annual-reports-2026112/)
 append_entries: 2
 Finish: 2026-01-12 20:30:33.719356
+------------------------------------------------------
+Started: 2026-01-12 22:23:50.947157
+Existing_entries: 764
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Announces End-Of-Month Open Short Interest Positions In Nasdaq Stocks As Of Settlement Date June 30, 2025](http://www.mondovisione.com/media-and-resources/news/nasdaq-announces-end-of-month-open-short-interest-positions-in-nasdaq-stocks-as-2026112/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NYSE Group Consolidated Short Interest Report](http://www.mondovisione.com/media-and-resources/news/nyse-group-consolidated-short-interest-report-2026112/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Swaps Report Update](http://www.mondovisione.com/media-and-resources/news/cftc-swaps-report-update-2026112/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Paul Tzur And David Morrell Named Deputy Directors Of The SEC Division Of Enforcement](http://www.mondovisione.com/media-and-resources/news/paul-tzur-and-david-morrell-named-deputy-directors-of-the-sec-division-of-enforc-2026112/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Federal Bank Regulatory Agencies Issue 2025 Shared National Credit Program Report](http://www.mondovisione.com/media-and-resources/news/us-federal-bank-regulatory-agencies-issue-2025-shared-national-credit-program-re-2026112/)
+append_entries: 5
+Finish: 2026-01-12 22:23:51.887291
