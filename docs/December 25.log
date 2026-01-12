@@ -4835,3 +4835,15 @@ Existing_entries: 751
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-01-12 10:31:28.351515
+------------------------------------------------------
+Started: 2026-01-12 12:58:09.561460
+Existing_entries: 751
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cyprus Stock Exchange Monthly Bulletin For December 2025](http://www.mondovisione.com/media-and-resources/news/cyprus-stock-exchange-monthly-bulletin-for-december-2025-2026112/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX: Listing Nominating Committee Seeks Candidates For Listing Review Committee](http://www.mondovisione.com/media-and-resources/news/hkex-listing-nominating-committee-seeks-candidates-for-listing-review-committee-2026112/)
+append_entries: 2
+Finish: 2026-01-12 12:58:10.657988
