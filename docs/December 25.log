@@ -5036,3 +5036,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [EBA Publishes Hotfix For Reporting Framework v4.2](http://www.mondovisione.com/media-and-resources/news/eba-publishes-hotfix-for-reporting-framework-v42-2026113/)
 append_entries: 4
 Finish: 2026-01-13 18:37:43.699104
+------------------------------------------------------
+Started: 2026-01-13 20:31:33.204041
+Existing_entries: 788
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Statement On Reforming Regulation S-K, Paul S. Atkins, SEC Chairman, Jan. 13, 2026](http://www.mondovisione.com/media-and-resources/news/statement-on-reforming-regulation-s-k-paul-s-atkins-sec-chairman-jan-13-20-2026113/)
+append_entries: 1
+Finish: 2026-01-13 20:31:34.943523
