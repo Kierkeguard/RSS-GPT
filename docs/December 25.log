@@ -4994,3 +4994,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [International Central Bankers On The Statement By Federal Reserve Chair Powell On 11 January 2026](http://www.mondovisione.com/media-and-resources/news/international-central-bankers-on-the-statement-by-federal-reserve-chair-powell-o-2026113/)
 append_entries: 3
 Finish: 2026-01-13 12:58:10.838178
+------------------------------------------------------
+Started: 2026-01-13 14:30:55.331438
+Existing_entries: 780
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-01-13 14:30:56.769787
