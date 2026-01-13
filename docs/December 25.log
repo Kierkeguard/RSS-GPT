@@ -5045,3 +5045,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Statement On Reforming Regulation S-K, Paul S. Atkins, SEC Chairman, Jan. 13, 2026](http://www.mondovisione.com/media-and-resources/news/statement-on-reforming-regulation-s-k-paul-s-atkins-sec-chairman-jan-13-20-2026113/)
 append_entries: 1
 Finish: 2026-01-13 20:31:34.943523
+------------------------------------------------------
+Started: 2026-01-13 22:27:45.577431
+Existing_entries: 789
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NYSE And PDR Services LLC Announce Name Change For Three Exchange-Traded Funds](http://www.mondovisione.com/media-and-resources/news/nyse-and-pdr-services-llc-announce-name-change-for-three-exchange-traded-funds-2026113/)
+append_entries: 1
+Finish: 2026-01-13 22:27:46.792293
