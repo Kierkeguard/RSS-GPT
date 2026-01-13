@@ -4943,3 +4943,18 @@ Existing_entries: 769
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-01-13 06:41:26.422324
+------------------------------------------------------
+Started: 2026-01-13 08:37:26.522050
+Existing_entries: 769
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SET Unveils 2026-2028 Strategic Plan: "The Trusted Gateway To Inclusive Opportunities" To Revitalize The Thai Capital Market](http://www.mondovisione.com/media-and-resources/news/set-unveils-2026-2028-strategic-plan-the-trusted-gateway-to-inclusive-opportun-2026113/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Dubai Financial Services Authority To Host Webinar On Updated Crypto Token Framework And DIFC’s Digital Assets Ecosystem](http://www.mondovisione.com/media-and-resources/news/dubai-financial-services-authority-to-host-webinar-on-updated-crypto-token-frame-2026113/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Treasury Secretary Bessent Convenes Finance Ministerial On Securing Critical Minerals Supply Chains](http://www.mondovisione.com/media-and-resources/news/us-treasury-secretary-bessent-convenes-finance-ministerial-on-securing-critical-2026113/)
+append_entries: 3
+Finish: 2026-01-13 08:37:27.788413
