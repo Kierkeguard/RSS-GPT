@@ -5000,3 +5000,21 @@ Existing_entries: 780
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-01-13 14:30:56.769787
+------------------------------------------------------
+Started: 2026-01-13 16:38:36.964275
+Existing_entries: 780
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Moscow Exchange: Maintenance On T0 Securities And FX Test Environment](http://www.mondovisione.com/media-and-resources/news/moscow-exchange-maintenance-on-t0-securities-and-fx-test-environment-2026113/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Data From TS Imagine Reveals Significant Shifts In Fixed Income Trading Behavior](http://www.mondovisione.com/media-and-resources/news/new-data-from-ts-imagine-reveals-significant-shifts-in-fixed-income-trading-beha-2026113/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group To Launch 100-Ounce Silver Futures To Meet Record Retail Demand](http://www.mondovisione.com/media-and-resources/news/cme-group-to-launch-100-ounce-silver-futures-to-meet-record-retail-demand-2026113/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Borsa İstanbul’s Opening Bell Rang For Meysu Gıda Sanayi ve Ticaret A.Ş.](http://www.mondovisione.com/media-and-resources/news/borsa-istanbuls-opening-bell-rang-for-meysu-gda-sanayi-ve-ticaret-a-2026113/)
+append_entries: 4
+Finish: 2026-01-13 16:38:38.047102
