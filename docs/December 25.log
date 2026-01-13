@@ -4979,3 +4979,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [London Stock Exchange Group plc ("LSEG") Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transaction-in-own-shares-2026113/)
 append_entries: 5
 Finish: 2026-01-13 10:30:20.547577
+------------------------------------------------------
+Started: 2026-01-13 12:58:09.455504
+Existing_entries: 777
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Annual Volumes 2025: EEX Group Markets Reinforce Leading Position With Records Across Major Asset Classes](http://www.mondovisione.com/media-and-resources/news/annual-volumes-2025-eex-group-markets-reinforce-leading-position-with-records-a-2026113/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Ian Stirling Joins Streets Consulting As Deputy CEO - Global Growth And Transformation Leader Appointed To Steer Consultancy Into Its Next Phase](http://www.mondovisione.com/media-and-resources/news/ian-stirling-joins-streets-consulting-as-deputy-ceo-global-growth-and-transfor-2026113/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [International Central Bankers On The Statement By Federal Reserve Chair Powell On 11 January 2026](http://www.mondovisione.com/media-and-resources/news/international-central-bankers-on-the-statement-by-federal-reserve-chair-powell-o-2026113/)
+append_entries: 3
+Finish: 2026-01-13 12:58:10.838178
