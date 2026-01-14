@@ -5099,3 +5099,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [The WFE Calls On Regulators To Balance Quantum Computing Risks Against More Immediate Operational Challenges](http://www.mondovisione.com/media-and-resources/news/the-wfe-calls-on-regulators-to-balance-quantum-computing-risks-against-more-imme-2026114/)
 append_entries: 1
 Finish: 2026-01-14 10:31:14.939242
+------------------------------------------------------
+Started: 2026-01-14 12:58:06.021994
+Existing_entries: 795
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ClearBid Global Markets Selects Archax As Partner For UK And EU Expansion - Extends Cross-Border Reach For Its Digital Bond Trading And Data Platform Into New Core Regions](http://www.mondovisione.com/media-and-resources/news/clearbid-global-markets-selects-archax-as-partner-for-uk-and-eu-expansion-exte-2026114/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bitso Earns CCSS 2025 Certification, The Highest Global Security Standard In The Crypto Industry](http://www.mondovisione.com/media-and-resources/news/bitso-earns-ccss-2025-certification-the-highest-global-security-standard-in-the-2026114/)
+append_entries: 2
+Finish: 2026-01-14 12:58:07.034726
