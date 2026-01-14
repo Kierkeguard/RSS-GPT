@@ -5078,3 +5078,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ASX: Webcast Details For Half-Year And 2026 Key Dates](http://www.mondovisione.com/media-and-resources/news/asx-webcast-details-for-half-year-and-2026-key-dates-2026114/)
 append_entries: 2
 Finish: 2026-01-14 06:41:33.275999
+------------------------------------------------------
+Started: 2026-01-14 08:37:36.767524
+Existing_entries: 792
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Stockholm Welcomes Bitwise As New ETP Provider](http://www.mondovisione.com/media-and-resources/news/nasdaq-stockholm-welcomes-bitwise-as-new-etp-provider-2026114/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc ("LSEG") Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transaction-in-own-shares-2026114/)
+append_entries: 2
+Finish: 2026-01-14 08:37:37.837545
