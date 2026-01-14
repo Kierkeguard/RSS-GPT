@@ -5066,3 +5066,15 @@ Existing_entries: 790
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-01-14 04:49:55.554168
+------------------------------------------------------
+Started: 2026-01-14 06:41:19.698986
+Existing_entries: 790
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Under The Directives And Patronage Of Maktoum bin Mohammed, Dubai Future Finance Week 2026 Set To Convene Global Leaders Across Finance, Policy, Technology And Investment From 11 To 15 May 2026 - The Week Serves As A Strategic Platform For Dialogue, Collaboration And The Exchange Of Insights On The Future Of The Global Financial Ecosystem](http://www.mondovisione.com/media-and-resources/news/under-the-directives-and-patronage-of-maktoum-bin-mohammed-dubai-future-finance-2026114/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASX: Webcast Details For Half-Year And 2026 Key Dates](http://www.mondovisione.com/media-and-resources/news/asx-webcast-details-for-half-year-and-2026-key-dates-2026114/)
+append_entries: 2
+Finish: 2026-01-14 06:41:33.275999
