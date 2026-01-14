@@ -54,3 +54,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Moscow Exchange: Updated Constituents List For OFZ Zero Coupon Yield Curve To Come Into Force On 15 January 2026](http://www.mondovisione.com/media-and-resources/news/moscow-exchange-updated-constituents-list-for-ofz-zero-coupon-yield-curve-to-c-2026114/)
 append_entries: 1
 Finish: 2026-01-14 18:40:05.123056
+------------------------------------------------------
+Started: 2026-01-14 20:27:04.736212
+Existing_entries: 16
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Canadian Investment Regulatory Organization Update Regarding Unauthorized Access To Some Canadian Investors’ Data](http://www.mondovisione.com/media-and-resources/news/canadian-investment-regulatory-organization-update-regarding-unauthorized-access-2026114/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nadex Product Schedule For The Week Of January 19, 2026 For The 2026 MLK Day Holiday](http://www.mondovisione.com/media-and-resources/news/nadex-product-schedule-for-the-week-of-january-19-2026-for-the-2026-mlk-day-hol-2026114/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Evolution Of The Bank’s Approach To Resolution − Speech By Dave Ramsden, Bank Of England Deputy Governor, Markets And Banking, Given At King’s College London](http://www.mondovisione.com/media-and-resources/news/the-evolution-of-the-banks-approach-to-resolution-speech-by-dave-ramsden-ban-2026114/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tel Aviv Stock Exchange Expands Liquidity Programs For Futures Market Following Transition To Mon-Fri Trading Schedule](http://www.mondovisione.com/media-and-resources/news/tel-aviv-stock-exchange-expands-liquidity-programs-for-futures-market-following-2026114/)
+append_entries: 4
+Finish: 2026-01-14 20:27:06.044411
