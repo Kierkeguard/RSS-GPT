@@ -72,3 +72,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Tel Aviv Stock Exchange Expands Liquidity Programs For Futures Market Following Transition To Mon-Fri Trading Schedule](http://www.mondovisione.com/media-and-resources/news/tel-aviv-stock-exchange-expands-liquidity-programs-for-futures-market-following-2026114/)
 append_entries: 4
 Finish: 2026-01-14 20:27:06.044411
+------------------------------------------------------
+Started: 2026-01-14 22:28:00.593649
+Existing_entries: 20
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MarketAxess To Host Conference Call Announcing Fourth Quarter And Full Year 2025 Financial Results On Friday, February 6, 2026](http://www.mondovisione.com/media-and-resources/news/marketaxess-to-host-conference-call-announcing-fourth-quarter-and-full-year-2025-2026114/)
+append_entries: 1
+Finish: 2026-01-14 22:28:01.950468
