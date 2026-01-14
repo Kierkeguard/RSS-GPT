@@ -45,3 +45,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [The European Supervisory Authorities And UK Financial Regulators Sign Memorandum Of Understanding On Oversight Of Critical ICT Third-Party Service Providers Under DORA](http://www.mondovisione.com/media-and-resources/news/the-european-supervisory-authorities-and-uk-financial-regulators-sign-memorandum-2026114/)
 append_entries: 5
 Finish: 2026-01-14 16:37:25.200931
+------------------------------------------------------
+Started: 2026-01-14 18:40:03.814351
+Existing_entries: 15
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Moscow Exchange: Updated Constituents List For OFZ Zero Coupon Yield Curve To Come Into Force On 15 January 2026](http://www.mondovisione.com/media-and-resources/news/moscow-exchange-updated-constituents-list-for-ofz-zero-coupon-yield-curve-to-c-2026114/)
+append_entries: 1
+Finish: 2026-01-14 18:40:05.123056
