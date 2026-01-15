@@ -150,3 +150,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [UK Prudential Regulation Authority To Streamline Supervision As Part Of 2026 Priorities](http://www.mondovisione.com/media-and-resources/news/uk-prudential-regulation-authority-to-streamline-supervision-as-part-of-2026-pri-2026115/)
 append_entries: 3
 Finish: 2026-01-15 14:29:51.145720
+------------------------------------------------------
+Started: 2026-01-15 16:40:57.278313
+Existing_entries: 30
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Deutsche Börse Group: Business Indicators For December 2025](http://www.mondovisione.com/media-and-resources/news/deutsche-brse-group-business-indicators-for-december-2025-2026115/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BIS Statement Of Commitment To The FX Global Code](http://www.mondovisione.com/media-and-resources/news/bis-statement-of-commitment-to-the-fx-global-code-2026115/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [J. Russell McGranahan Named SEC General Counsel](http://www.mondovisione.com/media-and-resources/news/j-russell-mcgranahan-named-sec-general-counsel-2026115/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Chris Mills Promoted To Chief Commercial Officer At Sage Capital Management](http://www.mondovisione.com/media-and-resources/news/chris-mills-promoted-to-chief-commercial-officer-at-sage-capital-management-2026115/)
+append_entries: 4
+Finish: 2026-01-15 16:40:58.066365
