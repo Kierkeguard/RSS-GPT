@@ -120,3 +120,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ClearToken Bolsters Risk And Compliance With Additional Senior Leadership Appointments](http://www.mondovisione.com/media-and-resources/news/cleartoken-bolsters-risk-and-compliance-with-additional-senior-leadership-appoin-2026115/)
 append_entries: 2
 Finish: 2026-01-15 10:30:38.703432
+------------------------------------------------------
+Started: 2026-01-15 12:56:48.092244
+Existing_entries: 24
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Lingfeng Capital Announce Launch Of The Digital Venture Fund With Archax, Bridging Institutional Finance And Digital Markets](http://www.mondovisione.com/media-and-resources/news/lingfeng-capital-announce-launch-of-the-digital-venture-fund-with-archax-bridgi-2026115/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TNS Expands Global Market Data Access With Connectivity To Japan Alternative Market](http://www.mondovisione.com/media-and-resources/news/tns-expands-global-market-data-access-with-connectivity-to-japan-alternative-mar-2026115/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Worldline Empowers Agentic Commerce With New AI Capabilities](http://www.mondovisione.com/media-and-resources/news/worldline-empowers-agentic-commerce-with-new-ai-capabilities-2026115/)
+append_entries: 3
+Finish: 2026-01-15 12:56:49.063988
