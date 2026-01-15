@@ -108,3 +108,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [London Stock Exchange Group plc ("LSEG") Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transaction-in-own-shares-2026115/)
 append_entries: 1
 Finish: 2026-01-15 08:37:18.846894
+------------------------------------------------------
+Started: 2026-01-15 10:30:37.476900
+Existing_entries: 22
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LSEG Launches Digital Settlement House](http://www.mondovisione.com/media-and-resources/news/lseg-launches-digital-settlement-house-2026115/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ClearToken Bolsters Risk And Compliance With Additional Senior Leadership Appointments](http://www.mondovisione.com/media-and-resources/news/cleartoken-bolsters-risk-and-compliance-with-additional-senior-leadership-appoin-2026115/)
+append_entries: 2
+Finish: 2026-01-15 10:30:38.703432
