@@ -135,3 +135,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Worldline Empowers Agentic Commerce With New AI Capabilities](http://www.mondovisione.com/media-and-resources/news/worldline-empowers-agentic-commerce-with-new-ai-capabilities-2026115/)
 append_entries: 3
 Finish: 2026-01-15 12:56:49.063988
+------------------------------------------------------
+Started: 2026-01-15 14:29:49.815428
+Existing_entries: 27
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TMX Group CEO John Mckenzie To Present At The 2026 UBS Financial Services Conference And The Bank Of America Financial Services Conference](http://www.mondovisione.com/media-and-resources/news/tmx-group-ceo-john-mckenzie-to-present-at-the-2026-ubs-financial-services-confer-2026115/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group To Expand Crypto Derivatives Suite With Launch Of Cardano, Chainlink And Stellar Futures](http://www.mondovisione.com/media-and-resources/news/cme-group-to-expand-crypto-derivatives-suite-with-launch-of-cardano-chainlink-a-2026115/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Prudential Regulation Authority To Streamline Supervision As Part Of 2026 Priorities](http://www.mondovisione.com/media-and-resources/news/uk-prudential-regulation-authority-to-streamline-supervision-as-part-of-2026-pri-2026115/)
+append_entries: 3
+Finish: 2026-01-15 14:29:51.145720
