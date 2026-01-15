@@ -186,3 +186,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Amman Stock Exchange Holds A Training Workshop In Cooperation With Clenergize Titled “ESG Reporting Readiness”](http://www.mondovisione.com/media-and-resources/news/amman-stock-exchange-holds-a-training-workshop-in-cooperation-with-clenergize-ti-2026115/)
 append_entries: 4
 Finish: 2026-01-15 18:43:10.970423
+------------------------------------------------------
+Started: 2026-01-15 20:31:40.854926
+Existing_entries: 38
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-01-15 20:31:41.838923
