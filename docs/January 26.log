@@ -246,3 +246,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [UK Financial Conduct Authority Fines Oil Rig Consultant £309,843 For Insider Dealing](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-fines-oil-rig-consultant-309843-for-insider-dea-2026116/)
 append_entries: 1
 Finish: 2026-01-16 12:55:55.105492
+------------------------------------------------------
+Started: 2026-01-16 14:29:01.098982
+Existing_entries: 42
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-01-16 14:29:02.545431
