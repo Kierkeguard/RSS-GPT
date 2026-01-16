@@ -267,3 +267,26 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Malawi Stock Exchange Weekly Summary Report - 16 January 2026](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-16-january-2026-2026116/)
 append_entries: 3
 Finish: 2026-01-16 16:35:56.309827
+------------------------------------------------------
+Started: 2026-01-16 18:39:46.453973
+Existing_entries: 45
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Remarks At The Tel Aviv Stock Exchange, Paul S. Atkins, SEC Chairman, Tel Aviv-Yafo, Israel, Jan. 16, 2026](http://www.mondovisione.com/media-and-resources/news/remarks-at-the-tel-aviv-stock-exchange-paul-s-atkins-sec-chairman-tel-aviv-y-2026116/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Outlook For The Economy And Monetary Policy, Federal Reserve Vice Chair For Supervision Michelle W. Bowman, At Outlook 26: The New England Economic Forum, Foxborough, Massachusetts](http://www.mondovisione.com/media-and-resources/news/outlook-for-the-economy-and-monetary-policy-federal-reserve-vice-chair-for-supe-2026116/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nigerian Exchange Weekly Market Report For The Week Ended 16 January 2026](http://www.mondovisione.com/media-and-resources/news/nigerian-exchange-weekly-market-report-for-the-week-ended-16-january-2026-2026116/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Member Guidance For Message And Packet Activity Towards MIAX Exchanges](http://www.mondovisione.com/media-and-resources/news/member-guidance-for-message-and-packet-activity-towards-miax-exchanges-2026116/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Borsa İstanbul’s Opening Bell Rang For Z Gayrimenkul Yatırım Ortaklığı A.Ş.](http://www.mondovisione.com/media-and-resources/news/borsa-istanbuls-opening-bell-rang-for-z-gayrimenkul-yatrm-ortakl-a-2026116/)
+Append: [Spain Investors Day Marks The Start Of 2026 For Spanish Markets](http://www.mondovisione.com/media-and-resources/news/spain-investors-day-marks-the-start-of-2026-for-spanish-markets-2026116/)
+Append: [Dubai Financial Market Regulated Short Sell – Weekly Summary - 12th January 2026 To 16th January 2026](http://www.mondovisione.com/media-and-resources/news/dubai-financial-market-regulated-short-sell-weekly-summary-12th-january-2026-2026116/)
+append_entries: 7
+Finish: 2026-01-16 18:39:47.866764
