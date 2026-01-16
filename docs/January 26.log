@@ -252,3 +252,18 @@ Existing_entries: 42
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-01-16 14:29:02.545431
+------------------------------------------------------
+Started: 2026-01-16 16:35:55.326349
+Existing_entries: 42
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Global Imbalances In A More Fragmented World - Remarks By Andrew Bailey, Governor, Bank Of England, Given At The Bellagio Group Event, Bank Of England](http://www.mondovisione.com/media-and-resources/news/global-imbalances-in-a-more-fragmented-world-remarks-by-andrew-bailey-governo-2026116/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BME Growth Welcomes Treelogic](http://www.mondovisione.com/media-and-resources/news/bme-growth-welcomes-treelogic-2026116/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Malawi Stock Exchange Weekly Summary Report - 16 January 2026](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-16-january-2026-2026116/)
+append_entries: 3
+Finish: 2026-01-16 16:35:56.309827
