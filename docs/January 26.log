@@ -296,3 +296,15 @@ Existing_entries: 52
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-01-16 20:27:04.904827
+------------------------------------------------------
+Started: 2026-01-16 22:26:18.210470
+Existing_entries: 52
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Economic Outlook And Monetary Policy Implementation,Federal Reserve Vice Chair Philip N. Jefferson, At The American Institute For Economic Research, Shadow Open Market Committee, And Florida Atlantic University Conference, Boca Raton, Florida](http://www.mondovisione.com/media-and-resources/news/economic-outlook-and-monetary-policy-implementationfederal-reserve-vice-chair-p-2026116/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Commitments Of Traders Reports Update](http://www.mondovisione.com/media-and-resources/news/cftc-commitments-of-traders-reports-update-2026116/)
+append_entries: 2
+Finish: 2026-01-16 22:26:19.477533
