@@ -231,3 +231,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Speech By Mr Loh Boon Chye, CEO SGX Group, At The Launch Of SID Chairpersons Guild](http://www.mondovisione.com/media-and-resources/news/speech-by-mr-loh-boon-chye-ceo-sgx-group-at-the-launch-of-sid-chairpersons-gui-2026116/)
 append_entries: 2
 Finish: 2026-01-16 08:36:36.793325
+------------------------------------------------------
+Started: 2026-01-16 10:30:35.396879
+Existing_entries: 41
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-01-16 10:30:36.383253
