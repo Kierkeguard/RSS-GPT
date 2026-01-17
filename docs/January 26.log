@@ -344,3 +344,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Comptroller Of The US Currency Gould Discusses Resolution Planning](http://www.mondovisione.com/media-and-resources/news/comptroller-of-the-us-currency-gould-discusses-resolution-planning-2026117/)
 append_entries: 2
 Finish: 2026-01-17 08:32:01.777990
+------------------------------------------------------
+Started: 2026-01-17 10:25:38.118587
+Existing_entries: 56
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-01-17 10:25:39.495787
