@@ -551,3 +551,18 @@ Existing_entries: 69
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-01-19 20:30:12.231665
+------------------------------------------------------
+Started: 2026-01-19 22:26:58.178398
+Existing_entries: 69
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Secures Nearly $40 Million In Refunds To Investors And Drives Change After CFD Sector Falls Short](http://www.mondovisione.com/media-and-resources/news/asic-secures-nearly-40-million-in-refunds-to-investors-and-drives-change-after-2026119/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Canadian Investment Regulatory Organization And Brampton Library Partner To Deliver Free Financial Literacy Workshops To Canadians](http://www.mondovisione.com/media-and-resources/news/canadian-investment-regulatory-organization-and-brampton-library-partner-to-deli-2026119/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Alberta Securities Commission Warns Alberta Investors Of The Top Misleading Investment Fraud Tactics To Watch For In 2026](http://www.mondovisione.com/media-and-resources/news/alberta-securities-commission-warns-alberta-investors-of-the-top-misleading-inve-2026119/)
+append_entries: 3
+Finish: 2026-01-19 22:26:59.475191
