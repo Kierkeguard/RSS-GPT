@@ -521,3 +521,12 @@ Existing_entries: 65
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-01-19 14:33:17.129297
+------------------------------------------------------
+Started: 2026-01-19 16:36:07.290774
+Existing_entries: 65
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The New York Stock Exchange Develops Tokenized Securities Platform](http://www.mondovisione.com/media-and-resources/news/the-new-york-stock-exchange-develops-tokenized-securities-platform-2026119/)
+append_entries: 1
+Finish: 2026-01-19 16:36:08.486273
