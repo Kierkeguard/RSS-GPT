@@ -530,3 +530,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [The New York Stock Exchange Develops Tokenized Securities Platform](http://www.mondovisione.com/media-and-resources/news/the-new-york-stock-exchange-develops-tokenized-securities-platform-2026119/)
 append_entries: 1
 Finish: 2026-01-19 16:36:08.486273
+------------------------------------------------------
+Started: 2026-01-19 18:38:56.089297
+Existing_entries: 66
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [DGCX Sees 30% Increase In Trade Volumes In 2025 To Surpass USD 46 Billion, DCCC Secures ESMA Counterparty Recognition To Boost Global Dubai Market Confidence](http://www.mondovisione.com/media-and-resources/news/dgcx-sees-30-increase-in-trade-volumes-in-2025-to-surpass-usd-46-billion-dccc-2026119/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [European Banking Authority And Authority For Anti-Money Laundering And Countering The Financing Of Terrorism Complete Handover Of AML/CFT Mandates](http://www.mondovisione.com/media-and-resources/news/european-banking-authority-and-authority-for-anti-money-laundering-and-counterin-2026119/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Joint Bank Reporting Committee Publishes Its 2026 Work Programme And Recommendations To Enhance Semantic Integration On ESG Definitions](http://www.mondovisione.com/media-and-resources/news/the-joint-bank-reporting-committee-publishes-its-2026-work-programme-and-recomme-2026119/)
+append_entries: 3
+Finish: 2026-01-19 18:38:57.563946
