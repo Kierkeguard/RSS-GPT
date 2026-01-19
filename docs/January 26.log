@@ -485,3 +485,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [JPX Market Innovation & Research: Enhancement Of J-Quants API Data Service - CSV Data Delivery And Addition Of Minute Bar And Tick Data](http://www.mondovisione.com/media-and-resources/news/jpx-market-innovation-and-research-enhancement-of-j-quants-api-data-service-csv-2026119/)
 append_entries: 3
 Finish: 2026-01-19 08:39:48.659526
+------------------------------------------------------
+Started: 2026-01-19 10:35:02.409288
+Existing_entries: 59
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Scila Drives Growth In Energy Sector With Over 10 New Contracts And Deployments - Strategic Growth In H2 2025 Fueled By REMIT II Compliance And Demand For High-Performance Engineering-Centric Solutions](http://www.mondovisione.com/media-and-resources/news/scila-drives-growth-in-energy-sector-with-over-10-new-contracts-and-deployments-2026119/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Change In SIX Executive Board - Daniel Schmucki, CFO Of SIX, Will Step Down From His Position While Supporting The Transition Over The Coming Months Until A Succession Is Defined](http://www.mondovisione.com/media-and-resources/news/change-in-six-executive-board-daniel-schmucki-cfo-of-six-will-step-down-from-2026119/)
+append_entries: 2
+Finish: 2026-01-19 10:35:03.835670
