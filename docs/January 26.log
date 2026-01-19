@@ -515,3 +515,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Warsaw Stock Exchange: Setting New Records Together](http://www.mondovisione.com/media-and-resources/news/warsaw-stock-exchange-setting-new-records-together-2026119/)
 append_entries: 4
 Finish: 2026-01-19 13:00:51.718984
+------------------------------------------------------
+Started: 2026-01-19 14:33:15.677610
+Existing_entries: 65
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-01-19 14:33:17.129297
