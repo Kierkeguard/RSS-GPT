@@ -497,3 +497,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Change In SIX Executive Board - Daniel Schmucki, CFO Of SIX, Will Step Down From His Position While Supporting The Transition Over The Coming Months Until A Succession Is Defined](http://www.mondovisione.com/media-and-resources/news/change-in-six-executive-board-daniel-schmucki-cfo-of-six-will-step-down-from-2026119/)
 append_entries: 2
 Finish: 2026-01-19 10:35:03.835670
+------------------------------------------------------
+Started: 2026-01-19 13:00:49.986262
+Existing_entries: 61
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority: Tribunal Upholds Ban And Fines For Corrupt And Dishonest Adviser](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-tribunal-upholds-ban-and-fines-for-corrupt-and-d-2026119/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ETFGI Reports Record US$1.50 Trillion In 2025 Net Inflows Push U.S. ETF Industry Assets To US$13.43 Trillion Milestone](http://www.mondovisione.com/media-and-resources/news/etfgi-reports-record-us150-trillion-in-2025-net-inflows-push-us-etf-industry-2026119/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ETFGI Reports Record US$396.84 Billion In Net Inflows In 2025 Drives ETF Industry In Europe Assets To All Time High Of US$3.22 Trillion At End Of 2025](http://www.mondovisione.com/media-and-resources/news/etfgi-reports-record-us39684-billion-in-net-inflows-in-2025-drives-etf-industr-2026119/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Warsaw Stock Exchange: Setting New Records Together](http://www.mondovisione.com/media-and-resources/news/warsaw-stock-exchange-setting-new-records-together-2026119/)
+append_entries: 4
+Finish: 2026-01-19 13:00:51.718984
