@@ -654,3 +654,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [MIAX Options And MIAX Emerald Options - Effective For Trade Date January 20, 2026 2X OPENING And INTRADAY Valid And Priority Quote Spread Relief In All Symbols](http://www.mondovisione.com/media-and-resources/news/miax-options-and-miax-emerald-options-effective-for-trade-date-january-20-202-2026120/)
 append_entries: 3
 Finish: 2026-01-20 14:36:52.728741
+------------------------------------------------------
+Started: 2026-01-20 16:41:12.788085
+Existing_entries: 88
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LuxSE Acquires ESG Data Analytics Unit From Tetrao](http://www.mondovisione.com/media-and-resources/news/luxse-acquires-esg-data-analytics-unit-from-tetrao-2026120/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Daymer Group Launches Regulated Fiduciary And Consulting Services In UAE To Serve Middle East Market - London And Cayman Based Consulting Group Expands With Regulated Dubai Office To Provide Services To The Growing Middle East Investment Community And Startup Market](http://www.mondovisione.com/media-and-resources/news/daymer-group-launches-regulated-fiduciary-and-consulting-services-in-uae-to-serv-2026120/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Keith E. Cassidy Named Director Of The SEC Division Of Examinations](http://www.mondovisione.com/media-and-resources/news/keith-e-cassidy-named-director-of-the-division-of-examinations-2026120/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Chairman Selig Announces Senior Staff Appointments](http://www.mondovisione.com/media-and-resources/news/cftc-chairman-selig-announces-senior-staff-appointments-2026120/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ETFGI Reports Assets In The Global ETF Industry Hit Record US$19.85 Trillion As Industry Posts Highest Ever Annual Net Inflows](http://www.mondovisione.com/media-and-resources/news/etfgi-reports-assets-in-the-global-etf-industry-hit-record-us1985-trillion-as-2026120/)
+append_entries: 5
+Finish: 2026-01-20 16:41:14.253824
