@@ -639,3 +639,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [GCEX Expands Product Range With Introduction Of Gold Futures CFDs](http://www.mondovisione.com/media-and-resources/news/gcex-expands-product-range-with-introduction-of-gold-futures-cfds-2026120/)
 append_entries: 5
 Finish: 2026-01-20 13:01:15.856697
+------------------------------------------------------
+Started: 2026-01-20 14:36:51.290541
+Existing_entries: 85
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ICE Announces 2025 Records Across Its Global Derivative and NYSE Equity & NYSE Options Markets](http://www.mondovisione.com/media-and-resources/news/ice-announces-2025-records-across-its-global-derivative-and-nyse-equity-and-nyse-o-2026120/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Fiserv To Release Fourth Quarter Earnings Results On February 10, 2026](http://www.mondovisione.com/media-and-resources/news/fiserv-to-release-fourth-quarter-earnings-results-on-february-10-2026-2026120/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Options And MIAX Emerald Options - Effective For Trade Date January 20, 2026 2X OPENING And INTRADAY Valid And Priority Quote Spread Relief In All Symbols](http://www.mondovisione.com/media-and-resources/news/miax-options-and-miax-emerald-options-effective-for-trade-date-january-20-202-2026120/)
+append_entries: 3
+Finish: 2026-01-20 14:36:52.728741
