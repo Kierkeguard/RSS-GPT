@@ -618,3 +618,24 @@ Existing_entries: 80
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-01-20 10:34:19.089294
+------------------------------------------------------
+Started: 2026-01-20 13:01:14.862505
+Existing_entries: 80
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority: Regulators Give Clarity In Relation To Open Banking Pricing Models](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-regulators-give-clarity-in-relation-to-open-bank-2026120/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New LSEG Risk Intelligence Dataset Reveals Ownership Structures Drive One-Third Of Global Sanctions-Linked Securities Exposure](http://www.mondovisione.com/media-and-resources/news/new-lseg-risk-intelligence-dataset-reveals-ownership-structures-drive-one-third-2026120/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Capital.com Partners With Duco To Automate Payment Reconciliations](http://www.mondovisione.com/media-and-resources/news/capitalcom-partners-with-duco-to-automate-payment-reconciliations-2026120/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Government: AI Champions Appointed To Help City Safely Seize AI Opportunities](http://www.mondovisione.com/media-and-resources/news/uk-government-ai-champions-appointed-to-help-city-safely-seize-ai-opportunities-2026120/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [GCEX Expands Product Range With Introduction Of Gold Futures CFDs](http://www.mondovisione.com/media-and-resources/news/gcex-expands-product-range-with-introduction-of-gold-futures-cfds-2026120/)
+append_entries: 5
+Finish: 2026-01-20 13:01:15.856697
