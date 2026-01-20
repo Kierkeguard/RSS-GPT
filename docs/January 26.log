@@ -702,3 +702,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CFTC Chairman Selig: America’s Financial Markets Are Ready For A Golden Age](http://www.mondovisione.com/media-and-resources/news/cftc-chairman-selig-americas-financial-markets-are-ready-for-a-golden-age-2026120/)
 append_entries: 3
 Finish: 2026-01-20 20:43:47.468155
+------------------------------------------------------
+Started: 2026-01-20 22:27:33.237357
+Existing_entries: 98
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Financial Data For Futures Commission Merchants Update](http://www.mondovisione.com/media-and-resources/news/cftc-financial-data-for-futures-commission-merchants-update-2026120/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Swaps Report Update](http://www.mondovisione.com/media-and-resources/news/cftc-swaps-report-update-2026120/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Exchange Group - Options Markets - Listing Of Monday And Wednesday Weekly Expirations For Qualified Securities](http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-options-markets-listing-of-monday-and-wednesday-weekly-e-2026120/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Exchange Group - Options Markets - Market For Underlying Security Used For Openings On MIAX Options, MIAX Pearl Options, MIAX Emerald Options, And MIAX Sapphire Options For Newly Listed Symbols Effective Wednesday, January 21, 2026](http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-options-markets-market-for-underlying-security-used-for-2026120/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Division Of Corporation Finance Names Senior Staff](http://www.mondovisione.com/media-and-resources/news/sec-division-of-corporation-finance-names-senior-staff-2026120/)
+append_entries: 5
+Finish: 2026-01-20 22:27:34.045446
