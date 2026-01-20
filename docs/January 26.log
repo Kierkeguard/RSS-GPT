@@ -566,3 +566,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Alberta Securities Commission Warns Alberta Investors Of The Top Misleading Investment Fraud Tactics To Watch For In 2026](http://www.mondovisione.com/media-and-resources/news/alberta-securities-commission-warns-alberta-investors-of-the-top-misleading-inve-2026119/)
 append_entries: 3
 Finish: 2026-01-19 22:26:59.475191
+------------------------------------------------------
+Started: 2026-01-20 02:06:28.691071
+Existing_entries: 72
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-01-20 02:06:30.088191
