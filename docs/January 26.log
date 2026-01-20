@@ -687,3 +687,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ADX And Saal.ai Collaborate To Design An Innovative Platform For Market Data Dissemination](http://www.mondovisione.com/media-and-resources/news/adx-and-saalai-collaborate-to-design-an-innovative-platform-for-market-data-dis-2026120/)
 append_entries: 2
 Finish: 2026-01-20 18:46:32.504424
+------------------------------------------------------
+Started: 2026-01-20 20:43:46.244186
+Existing_entries: 95
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Christina M. Thomas To Rejoin The SEC Division Of Corporation Finance As Deputy Director](http://www.mondovisione.com/media-and-resources/news/christina-m-thomas-to-rejoin-the-sec-division-of-corporation-finance-as-deputy-2026120/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Exchange Group - Options Markets - New Listings Effective For January 21, 2026](http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-options-markets-new-listings-effective-for-january-21-2-2026120/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Chairman Selig: America’s Financial Markets Are Ready For A Golden Age](http://www.mondovisione.com/media-and-resources/news/cftc-chairman-selig-americas-financial-markets-are-ready-for-a-golden-age-2026120/)
+append_entries: 3
+Finish: 2026-01-20 20:43:47.468155
