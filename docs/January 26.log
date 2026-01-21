@@ -723,3 +723,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SEC Division Of Corporation Finance Names Senior Staff](http://www.mondovisione.com/media-and-resources/news/sec-division-of-corporation-finance-names-senior-staff-2026120/)
 append_entries: 5
 Finish: 2026-01-20 22:27:34.045446
+------------------------------------------------------
+Started: 2026-01-21 02:09:13.127186
+Existing_entries: 103
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-01-21 02:09:13.813775
