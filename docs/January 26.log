@@ -792,3 +792,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Corporate And Municipal CUSIP Request Volumes Decline In December - Full-Year 2025 Volumes Significantly Higher Than 2024](http://www.mondovisione.com/media-and-resources/news/corporate-and-municipal-cusip-request-volumes-decline-in-december-full-year-20-2026121/)
 append_entries: 1
 Finish: 2026-01-21 14:36:47.048259
+------------------------------------------------------
+Started: 2026-01-21 17:00:25.011761
+Existing_entries: 112
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MNI Indicators - Chicago Business Barometer™ - MNI Chicago Report: December 2025 Seasonal Adjustment Revisions - December Revised Lower  - Weaker Activity In First Quarter Of 2025](http://www.mondovisione.com/media-and-resources/news/mni-indicators-chicago-business-barometer-mni-chicago-report-december-2025-2026121/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ETFGI Reports Canadian ETF Industry Surges To US$ 584.47Bn In AUM With Record US$109.59Bn In Net Inflows In 2025](http://www.mondovisione.com/media-and-resources/news/etfgi-reports-canadian-etf-industry-surges-to-us-58447bn-in-aum-with-record-us-2026121/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Seeks Candidates For Small Business Capital Formation Advisory Committee](http://www.mondovisione.com/media-and-resources/news/sec-seeks-candidates-for-small-business-capital-formation-advisory-committee-2026121/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Fiserv And Sumitomo Mitsui Introduce Clover Suite Of Products, Enabling Digital Commerce For Millions Of Merchants - Agreement Expands Fiserv’s Asia-Pacific Footprint And Introduces All-In-One Commerce Solutions To Japanese Merchants](http://www.mondovisione.com/media-and-resources/news/fiserv-and-sumitomo-mitsui-introduce-clover-suite-of-products-enabling-digital-2026121/)
+append_entries: 4
+Finish: 2026-01-21 17:00:26.936053
