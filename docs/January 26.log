@@ -753,3 +753,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Opening Remarks, Dato’ Mohammad Faiz Azmi, Chairman, Securities Commission Malaysia,  National Corporate Governance And Sustainability Awards 2025, 20 January 2026, 8.10 pm Mandarin Oriental Hotel, Kuala Lumpur](http://www.mondovisione.com/media-and-resources/news/opening-remarks-dato-mohammad-faiz-azmi-chairman-securities-commission-malay-2026121/)
 append_entries: 2
 Finish: 2026-01-21 08:38:19.720823
+------------------------------------------------------
+Started: 2026-01-21 10:35:01.012938
+Existing_entries: 105
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BANFONDESA Brings Dominican Republic’s First Sustainability Bond To LuxSE](http://www.mondovisione.com/media-and-resources/news/banfondesa-brings-dominican-republics-first-sustainability-bond-to-luxse-2026121/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FSB Outlines Further Work To Make Resolution Frameworks Operational](http://www.mondovisione.com/media-and-resources/news/fsb-outlines-further-work-to-make-resolution-frameworks-operational-2026121/)
+append_entries: 2
+Finish: 2026-01-21 10:35:01.865826
