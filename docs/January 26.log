@@ -834,3 +834,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Econoday Expands Sovereign Debt Coverage To Include Japan](http://www.mondovisione.com/media-and-resources/news/econoday-expands-sovereign-debt-coverage-to-include-japan-2026121/)
 append_entries: 1
 Finish: 2026-01-21 20:37:26.272792
+------------------------------------------------------
+Started: 2026-01-21 22:30:31.297390
+Existing_entries: 120
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group Sets New Record In Natural Gas Futures And Options](http://www.mondovisione.com/media-and-resources/news/cme-group-sets-new-record-in-natural-gas-futures-and-options-2026121/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Deutsche Börse Group And Allfunds Group Sign Agreement On Recommended Acquisition Of Allfunds Group](http://www.mondovisione.com/media-and-resources/news/deutsche-brse-group-and-allfunds-group-sign-agreement-on-recommended-acquisitio-2026121/)
+append_entries: 2
+Finish: 2026-01-21 22:30:32.858793
