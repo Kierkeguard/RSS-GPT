@@ -825,3 +825,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Borsa Istanbul: BIST Dividend And BIST Dividend 25 Indices Periodic Index Changes](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-bist-dividend-and-bist-dividend-25-indices-periodic-index-chan-2026121/)
 append_entries: 3
 Finish: 2026-01-21 18:50:40.308860
+------------------------------------------------------
+Started: 2026-01-21 20:37:24.949042
+Existing_entries: 119
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Econoday Expands Sovereign Debt Coverage To Include Japan](http://www.mondovisione.com/media-and-resources/news/econoday-expands-sovereign-debt-coverage-to-include-japan-2026121/)
+append_entries: 1
+Finish: 2026-01-21 20:37:26.272792
