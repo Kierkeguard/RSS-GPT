@@ -765,3 +765,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [FSB Outlines Further Work To Make Resolution Frameworks Operational](http://www.mondovisione.com/media-and-resources/news/fsb-outlines-further-work-to-make-resolution-frameworks-operational-2026121/)
 append_entries: 2
 Finish: 2026-01-21 10:35:01.865826
+------------------------------------------------------
+Started: 2026-01-21 13:00:39.747825
+Existing_entries: 107
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Miami International Holdings Completes Sale Of MIAXdx To Joint Venture Established By Robinhood Markets In Partnership With Susquehanna International Group - Miami International Holdings Retains 10% Stake In The Exchange And Clearinghouse](http://www.mondovisione.com/media-and-resources/news/miami-international-holdings-completes-sale-of-miaxdx-to-joint-venture-establish-2026121/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Global Exchanges Wrap Up 2025 With Mixed Results Amid Economic Uncertainty](http://www.mondovisione.com/media-and-resources/news/global-exchanges-wrap-up-2025-with-mixed-results-amid-economic-uncertainty-2026121/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [GlobalData Announces Top M&A Financial And Legal Advisers In 2025](http://www.mondovisione.com/media-and-resources/news/globaldata-announces-top-manda-financial-and-legal-advisers-in-2025-2026121/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FIX Launches 24-Hour Trading Working Group](http://www.mondovisione.com/media-and-resources/news/fix-launches-24-hour-trading-working-group-2026121/)
+append_entries: 4
+Finish: 2026-01-21 13:00:41.600676
