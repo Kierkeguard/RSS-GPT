@@ -810,3 +810,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Fiserv And Sumitomo Mitsui Introduce Clover Suite Of Products, Enabling Digital Commerce For Millions Of Merchants - Agreement Expands Fiserv’s Asia-Pacific Footprint And Introduces All-In-One Commerce Solutions To Japanese Merchants](http://www.mondovisione.com/media-and-resources/news/fiserv-and-sumitomo-mitsui-introduce-clover-suite-of-products-enabling-digital-2026121/)
 append_entries: 4
 Finish: 2026-01-21 17:00:26.936053
+------------------------------------------------------
+Started: 2026-01-21 18:50:38.829430
+Existing_entries: 116
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Canadian Securities Regulators Publish Updated Derivatives Trade Reporting FAQs](http://www.mondovisione.com/media-and-resources/news/canadian-securities-regulators-publish-updated-derivatives-trade-reporting-faqs-2026121/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Finansinspektionen Withdraws The Authorisation Of Get Betal](http://www.mondovisione.com/media-and-resources/news/finansinspektionen-withdraws-the-authorisation-of-get-betal-2026121/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Borsa Istanbul: BIST Dividend And BIST Dividend 25 Indices Periodic Index Changes](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-bist-dividend-and-bist-dividend-25-indices-periodic-index-chan-2026121/)
+append_entries: 3
+Finish: 2026-01-21 18:50:40.308860
