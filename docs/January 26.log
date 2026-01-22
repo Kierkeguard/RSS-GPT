@@ -924,3 +924,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [GlobalData Announces Top M&A Financial And Legal Advisers In Europe In 2025](http://www.mondovisione.com/media-and-resources/news/globaldata-announces-top-manda-financial-and-legal-advisers-in-europe-in-2025-2026122/)
 append_entries: 2
 Finish: 2026-01-22 16:41:01.534932
+------------------------------------------------------
+Started: 2026-01-22 18:40:25.418968
+Existing_entries: 132
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Statement On PCAOB 2026 Budget, Paul S. Atkins, SEC Chairman, Jan. 22, 2026](http://www.mondovisione.com/media-and-resources/news/statement-on-pcaob-2026-budget-paul-s-atkins-sec-chairman-jan-22-2026-2026122/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Borsa İstanbul’s Opening Bell Rang For Üçay Mühendislik Enerji ve İklimlendirme Teknolojileri A.Ş.](http://www.mondovisione.com/media-and-resources/news/borsa-istanbuls-opening-bell-rang-for-ay-mhendislik-enerji-ve-iklimlendirme-2026122/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euronext Corporate Solutions And Inderes Partner To Simplify Life For Listed Companies - The Partnership Introduces Digital Tools To Support Swedish SMEs On Public Markets](http://www.mondovisione.com/media-and-resources/news/euronext-corporate-solutions-and-inderes-partner-to-simplify-life-for-listed-com-2026122/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Amman Stock Exchange Receives A Delegation From The Jordanian Judicial Institute](http://www.mondovisione.com/media-and-resources/news/amman-stock-exchange-receives-a-delegation-from-the-jordanian-judicial-institute-2026122/)
+append_entries: 4
+Finish: 2026-01-22 18:40:26.663586
