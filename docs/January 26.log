@@ -846,3 +846,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Deutsche Börse Group And Allfunds Group Sign Agreement On Recommended Acquisition Of Allfunds Group](http://www.mondovisione.com/media-and-resources/news/deutsche-brse-group-and-allfunds-group-sign-agreement-on-recommended-acquisitio-2026121/)
 append_entries: 2
 Finish: 2026-01-21 22:30:32.858793
+------------------------------------------------------
+Started: 2026-01-22 02:10:50.898735
+Existing_entries: 122
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-01-22 02:10:52.322891
