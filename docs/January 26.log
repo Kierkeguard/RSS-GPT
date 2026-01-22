@@ -942,3 +942,25 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Amman Stock Exchange Receives A Delegation From The Jordanian Judicial Institute](http://www.mondovisione.com/media-and-resources/news/amman-stock-exchange-receives-a-delegation-from-the-jordanian-judicial-institute-2026122/)
 append_entries: 4
 Finish: 2026-01-22 18:40:26.663586
+------------------------------------------------------
+Started: 2026-01-22 20:34:07.473926
+Existing_entries: 136
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Hoping For Change: Remarks At The Joint Compliance Outreach Program For Municipal Market Professionals, SEC Commissioner Hester M. Peirce, Washington D.C., Jan. 22, 2026](http://www.mondovisione.com/media-and-resources/news/hoping-for-change-remarks-at-the-joint-compliance-outreach-program-for-municipa-2026122/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Commission Of Big Shoulders, Jamie Selway, Director, SEC Division Of Trading And Markets, Securities Traders Association Of Chicago Mid-Winter Meeting, Chicago, Il., Jan. 22, 2026](http://www.mondovisione.com/media-and-resources/news/commission-of-big-shoulders-jamie-selway-director-sec-division-of-trading-and-2026122/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Approves 2026 PCAOB Budget And Accounting Support Fee](http://www.mondovisione.com/media-and-resources/news/sec-approves-2026-pcaob-budget-and-accounting-support-fee-2026122/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Canadian Securities Administrators Reduces Regulatory Burden In Continuous Disclosure Regime For Investment Funds](http://www.mondovisione.com/media-and-resources/news/canadian-securities-administrators-reduces-regulatory-burden-in-continuous-discl-2026122/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Screening For Success: Opening The Gateway To Growth - Speech By Sheree Howard, Executive Director Of Authorisations, UK Financial Conduct Authority, At The FCA's Gateway To Growth, Chicago Booth London Conference Centre](http://www.mondovisione.com/media-and-resources/news/screening-for-success-opening-the-gateway-to-growth-speech-by-sheree-howard-2026122/)
+Append: [ECB And ESRB Issue Joint Report Analysing Financial Stability Risks From Geoeconomic Fragmentation](http://www.mondovisione.com/media-and-resources/news/ecb-and-esrb-issue-joint-report-analysing-financial-stability-risks-from-geoecon-2026122/)
+append_entries: 6
+Finish: 2026-01-22 20:34:08.849587
