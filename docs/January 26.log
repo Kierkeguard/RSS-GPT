@@ -891,3 +891,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ETFGI Reports Actively Managed ETFs Hit Record US$1.92Tr As 2025 Marks Highest Ever Inflows And 69th Consecutive Month Of Growth](http://www.mondovisione.com/media-and-resources/news/etfgi-reports-actively-managed-etfs-hit-record-us192tr-as-2025-marks-highest-e-2026122/)
 append_entries: 1
 Finish: 2026-01-22 10:33:52.798010
+------------------------------------------------------
+Started: 2026-01-22 13:01:08.865545
+Existing_entries: 127
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [GlobalData Announces Top M&A Financial And Legal Advisers In North America In 2025](http://www.mondovisione.com/media-and-resources/news/globaldata-announces-top-manda-financial-and-legal-advisers-in-north-america-in-20-2026122/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Moscow Exchange Changes The Tick Size From The 3rd Of February 2026](http://www.mondovisione.com/media-and-resources/news/moscow-exchange-changes-the-tick-size-from-the-3rd-of-february-2026-2026122/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Inyova SICAV Joins SIX Swiss Exchange As New ETF Issuer](http://www.mondovisione.com/media-and-resources/news/inyova-sicav-joins-six-swiss-exchange-as-new-etf-issuer-2026122/)
+append_entries: 3
+Finish: 2026-01-22 13:01:10.877800
