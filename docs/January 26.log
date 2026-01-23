@@ -1024,3 +1024,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ASIC: Former United Global Capital Financial Adviser Milutin Petrovic’s Ban Varied To Three Years](http://www.mondovisione.com/media-and-resources/news/asic-former-united-global-capital-financial-adviser-milutin-petrovics-ban-vari-2026123/)
 append_entries: 5
 Finish: 2026-01-23 10:30:57.666971
+------------------------------------------------------
+Started: 2026-01-23 12:58:33.300366
+Existing_entries: 150
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Forks In The Curve: Whether And How To Respond To Monetary Policy Divergence - Speech By Megan Greene, Bank Of England, Member Of The Monetary Policy Committee, Given At The Resolution Foundation](http://www.mondovisione.com/media-and-resources/news/forks-in-the-curve-whether-and-how-to-respond-to-monetary-policy-divergence-s-2026123/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Czechoslovak Group Lists On Euronext](http://www.mondovisione.com/media-and-resources/news/czechoslovak-group-lists-on-euronext-2026123/)
+append_entries: 2
+Finish: 2026-01-23 12:58:34.573037
