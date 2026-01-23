@@ -1003,3 +1003,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ASIC: Fund Manager Sentenced To 6 Years’ Jail In $3 Million Platinum Asset Management Insider Trading Case](http://www.mondovisione.com/media-and-resources/news/asic-fund-manager-sentenced-to-6-years-jail-in-3-million-platinum-asset-manag-2026123/)
 append_entries: 1
 Finish: 2026-01-23 08:37:02.049057
+------------------------------------------------------
+Started: 2026-01-23 10:30:56.467450
+Existing_entries: 145
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc ("LSEG") Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transaction-in-own-shares-2026123/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC: Former Financial Advisor Anthony Torre Sentenced To Six Years Imprisonment For Fraud And Stealing](http://www.mondovisione.com/media-and-resources/news/asic-former-financial-advisor-anthony-torre-sentenced-to-six-years-imprisonment-2026123/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SGX RegCo Seeks Feedback On Changes To Board Lot Sizes](http://www.mondovisione.com/media-and-resources/news/sgx-regco-seeks-feedback-on-changes-to-board-lot-sizes-2026123/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SGX Stock Exchange Welcomes The Assembly Place Holdings Ltd. To Catalist](http://www.mondovisione.com/media-and-resources/news/sgx-stock-exchange-welcomes-the-assembly-place-holdings-ltd-to-catalist-2026123/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC: Former United Global Capital Financial Adviser Milutin Petrovic’s Ban Varied To Three Years](http://www.mondovisione.com/media-and-resources/news/asic-former-united-global-capital-financial-adviser-milutin-petrovics-ban-vari-2026123/)
+append_entries: 5
+Finish: 2026-01-23 10:30:57.666971
