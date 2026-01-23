@@ -1051,3 +1051,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Bitcoin In Correction Mode: Geopolitical Tensions And The Fed Succession Puzzle - Comment From James Butterfill, CoinShares’ Head Of Research](http://www.mondovisione.com/media-and-resources/news/bitcoin-in-correction-mode-geopolitical-tensions-and-the-fed-succession-puzzle-2026123/)
 append_entries: 3
 Finish: 2026-01-23 14:30:45.295378
+------------------------------------------------------
+Started: 2026-01-23 16:37:24.588870
+Existing_entries: 155
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-01-23 16:37:25.758514
