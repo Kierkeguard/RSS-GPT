@@ -1090,3 +1090,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Moomoo Expands Retail Access To The BitGo IPO With Broad Subscriber Participation - 100% Of Moomoo Subscribers Who Requested Shares Received At Least One Share](http://www.mondovisione.com/media-and-resources/news/moomoo-expands-retail-access-to-the-bitgo-ipo-with-broad-subscriber-participatio-2026123/)
 append_entries: 2
 Finish: 2026-01-23 20:32:10.905274
+------------------------------------------------------
+Started: 2026-01-23 22:23:00.214368
+Existing_entries: 162
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Commitments Of Traders Reports Update](http://www.mondovisione.com/media-and-resources/news/cftc-commitments-of-traders-reports-update-2026123/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Chairman Selig To Sponsor The CFTC’s Agricultural Advisory Committee - Chairman Seeking Member Nominations And Requesting Public Comment On AAC Priorities](http://www.mondovisione.com/media-and-resources/news/cftc-chairman-selig-to-sponsor-the-cftcs-agricultural-advisory-committee-chai-2026123/)
+append_entries: 2
+Finish: 2026-01-23 22:23:01.275550
