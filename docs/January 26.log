@@ -1036,3 +1036,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Czechoslovak Group Lists On Euronext](http://www.mondovisione.com/media-and-resources/news/czechoslovak-group-lists-on-euronext-2026123/)
 append_entries: 2
 Finish: 2026-01-23 12:58:34.573037
+------------------------------------------------------
+Started: 2026-01-23 14:30:44.088842
+Existing_entries: 152
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Exchange Group - Options Markets - Series In Global X MSCI Colombia ETF (COLO)](http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-options-markets-series-in-global-x-msci-colombia-etf-co-2026123/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Malawi Stock Exchange Weekly Summary Report, 23 January 2026](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-23-january-2026-2026123/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bitcoin In Correction Mode: Geopolitical Tensions And The Fed Succession Puzzle - Comment From James Butterfill, CoinShares’ Head Of Research](http://www.mondovisione.com/media-and-resources/news/bitcoin-in-correction-mode-geopolitical-tensions-and-the-fed-succession-puzzle-2026123/)
+append_entries: 3
+Finish: 2026-01-23 14:30:45.295378
