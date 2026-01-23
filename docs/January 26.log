@@ -994,3 +994,12 @@ Existing_entries: 144
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-01-23 06:42:00.084598
+------------------------------------------------------
+Started: 2026-01-23 08:37:00.916029
+Existing_entries: 144
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC: Fund Manager Sentenced To 6 Years’ Jail In $3 Million Platinum Asset Management Insider Trading Case](http://www.mondovisione.com/media-and-resources/news/asic-fund-manager-sentenced-to-6-years-jail-in-3-million-platinum-asset-manag-2026123/)
+append_entries: 1
+Finish: 2026-01-23 08:37:02.049057
