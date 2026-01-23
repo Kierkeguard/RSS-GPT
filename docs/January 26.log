@@ -1078,3 +1078,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Borsa Istanbul: Announcement Regarding Changes Made In BIST Market Cap Weighted Stock Indices Methodology Due To The Newly Calculated Indices, BIST Dividend 5 Years And BIST Dividend 10 Years](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-announcement-regarding-changes-made-in-bist-market-cap-weighted-2026123/)
 append_entries: 5
 Finish: 2026-01-23 18:41:17.324934
+------------------------------------------------------
+Started: 2026-01-23 20:32:09.826113
+Existing_entries: 160
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Exchange Group - Options Markets - Introducing Availability Of 1-Minute Interval Intra-Day Open-Close Reports](http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-options-markets-introducing-availability-of-1-minute-int-2026123/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Moomoo Expands Retail Access To The BitGo IPO With Broad Subscriber Participation - 100% Of Moomoo Subscribers Who Requested Shares Received At Least One Share](http://www.mondovisione.com/media-and-resources/news/moomoo-expands-retail-access-to-the-bitgo-ipo-with-broad-subscriber-participatio-2026123/)
+append_entries: 2
+Finish: 2026-01-23 20:32:10.905274
