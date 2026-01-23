@@ -1057,3 +1057,24 @@ Existing_entries: 155
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-01-23 16:37:25.758514
+------------------------------------------------------
+Started: 2026-01-23 18:41:16.113367
+Existing_entries: 155
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Announces Semi-Annual Changes To The OMX Helsinki 25® Index](http://www.mondovisione.com/media-and-resources/news/nasdaq-announces-semi-annual-changes-to-the-omx-helsinki-25-index-2026123/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nigerian Exchange Weekly Market Report For The Week Ended 23 January 2026](http://www.mondovisione.com/media-and-resources/news/nigerian-exchange-weekly-market-report-for-the-week-ended-23-january-2026-2026123/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Dubai Financial Market Regulated Short Sell – Weekly Summary{ 19th January 2026 To 23rd January 2026](http://www.mondovisione.com/media-and-resources/news/dubai-financial-market-regulated-short-sell-weekly-summary-19th-january-2026-2026123/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The EBA Updates Technical Standards To Streamline Resolution Planning And Strengthen Cooperation In Resolution Colleges](http://www.mondovisione.com/media-and-resources/news/the-eba-updates-technical-standards-to-streamline-resolution-planning-and-streng-2026123/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Borsa Istanbul: Announcement Regarding Changes Made In BIST Market Cap Weighted Stock Indices Methodology Due To The Newly Calculated Indices, BIST Dividend 5 Years And BIST Dividend 10 Years](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-announcement-regarding-changes-made-in-bist-market-cap-weighted-2026123/)
+append_entries: 5
+Finish: 2026-01-23 18:41:17.324934
