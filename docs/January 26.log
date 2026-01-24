@@ -1132,3 +1132,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Canadian Securities Regulators Warn Registrants About New Impersonation Scam](http://www.mondovisione.com/media-and-resources/news/canadian-securities-regulators-warn-registrants-about-new-impersonation-scam-2026124/)
 append_entries: 2
 Finish: 2026-01-24 08:33:20.973548
+------------------------------------------------------
+Started: 2026-01-24 10:26:50.765729
+Existing_entries: 166
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-01-24 10:26:51.883330
