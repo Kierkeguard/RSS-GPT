@@ -1120,3 +1120,15 @@ Existing_entries: 164
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-01-24 06:38:27.596376
+------------------------------------------------------
+Started: 2026-01-24 08:33:20.128608
+Existing_entries: 164
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Correcting The Record: Progress Trumps Nostalgia, Jamie Selway, Director, SEC Division Of Trading And Markets, Keith Cassidy, Director, SEC Division Of Examinations, Jan. 23, 2026](http://www.mondovisione.com/media-and-resources/news/correcting-the-record-progress-trumps-nostalgia-jamie-selway-director-divisi-2026124/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Canadian Securities Regulators Warn Registrants About New Impersonation Scam](http://www.mondovisione.com/media-and-resources/news/canadian-securities-regulators-warn-registrants-about-new-impersonation-scam-2026124/)
+append_entries: 2
+Finish: 2026-01-24 08:33:20.973548
