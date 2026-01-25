@@ -1216,3 +1216,12 @@ Existing_entries: 166
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-01-25 14:24:29.999121
+------------------------------------------------------
+Started: 2026-01-25 16:31:58.344400
+Existing_entries: 166
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NGX Group, Lagos State, HEI Expand Project BLOOM To Alimosho, Building On Measurable Social Impact](http://www.mondovisione.com/media-and-resources/news/ngx-group-lagos-state-hei-expand-project-bloom-to-alimosho-building-on-measur-2026125/)
+append_entries: 1
+Finish: 2026-01-25 16:31:59.549557
