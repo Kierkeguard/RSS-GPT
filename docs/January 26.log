@@ -1318,3 +1318,21 @@ Existing_entries: 176
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-01-26 16:40:13.813970
+------------------------------------------------------
+Started: 2026-01-26 18:43:34.602554
+Existing_entries: 176
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Welcomes The Accelerated Settlement Taskforce’s 2025 Report On T+1 Progress](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-welcomes-the-accelerated-settlement-taskforces-2-2026126/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Expert Q&A: Eurex introduces Systematic QIS Index Futures – A New Milestone In Futurization](http://www.mondovisione.com/media-and-resources/news/expert-qanda-eurex-introduces-systematic-qis-index-futures-a-new-milestone-in-f-2026126/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [EGX Holiday For The 25th Of January Revolution & Police Day 2026](http://www.mondovisione.com/media-and-resources/news/egx-holiday-for-the-25th-of-january-revolution-and-police-day-2026-2026126/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Hong Kong Securities And Futures Commission Suspends Choi Sau Wai For Seven Months](http://www.mondovisione.com/media-and-resources/news/hong-kong-securities-and-futures-commission-suspends-choi-sau-wai-for-seven-mont-2026126/)
+append_entries: 4
+Finish: 2026-01-26 18:43:35.710970
