@@ -1279,3 +1279,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [JPX Market Innovation & Research, Inc.: Launch Of "TOPIX 100 Net Total Return Index”](http://www.mondovisione.com/media-and-resources/news/jpx-market-innovation-and-research-inc-launch-of-topix-100-net-total-return-in-2026126/)
 append_entries: 4
 Finish: 2026-01-26 08:39:56.375491
+------------------------------------------------------
+Started: 2026-01-26 10:33:00.211648
+Existing_entries: 171
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cboe Global Markets Announces New Executive Leadership Appointments](http://www.mondovisione.com/media-and-resources/news/cboe-global-markets-announces-new-executive-leadership-appointments-2026126/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Sage Capital Management Launches Private Banking Service For Institutional Clients, Providing Complete Integrated Financial Infrastructure For Digital Assets](http://www.mondovisione.com/media-and-resources/news/sage-capital-management-launches-private-banking-service-for-institutional-clien-2026126/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Juspay Secures $50 Million Investment From WestBridge Capital To Drive Global Expansion](http://www.mondovisione.com/media-and-resources/news/juspay-secures-50-million-investment-from-westbridge-capital-to-drive-global-ex-2026126/)
+append_entries: 3
+Finish: 2026-01-26 10:33:01.307310
