@@ -1294,3 +1294,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Juspay Secures $50 Million Investment From WestBridge Capital To Drive Global Expansion](http://www.mondovisione.com/media-and-resources/news/juspay-secures-50-million-investment-from-westbridge-capital-to-drive-global-ex-2026126/)
 append_entries: 3
 Finish: 2026-01-26 10:33:01.307310
+------------------------------------------------------
+Started: 2026-01-26 12:59:45.940662
+Existing_entries: 174
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-01-26 12:59:47.339119
