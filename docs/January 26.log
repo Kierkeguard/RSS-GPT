@@ -1336,3 +1336,25 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Hong Kong Securities And Futures Commission Suspends Choi Sau Wai For Seven Months](http://www.mondovisione.com/media-and-resources/news/hong-kong-securities-and-futures-commission-suspends-choi-sau-wai-for-seven-mont-2026126/)
 append_entries: 4
 Finish: 2026-01-26 18:43:35.710970
+------------------------------------------------------
+Started: 2026-01-26 20:33:21.147800
+Existing_entries: 180
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Chairman Selig Announces Alex Titus As Chief Advisor](http://www.mondovisione.com/media-and-resources/news/cftc-chairman-selig-announces-alex-titus-as-chief-advisor-2026126/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ISDA derivatiViews: A Critical Step To Efficient Treasury Clearing](http://www.mondovisione.com/media-and-resources/news/isda-derivativiews-a-critical-step-to-efficient-treasury-clearing-2026126/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC And CFTC Reschedule Joint Event On Harmonization, U.S. Financial Leadership In The Crypto Era](http://www.mondovisione.com/media-and-resources/news/sec-and-cftc-reschedule-joint-event-on-harmonization-us-financial-leadership-2026126/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Treasury Cancels Contracts With Booz Allen Hamilton](http://www.mondovisione.com/media-and-resources/news/us-treasury-cancels-contracts-with-booz-allen-hamilton-2026126/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The EBA Outlines The Medium To Long Term Objectives Of Its Interest Rate Risk In The Banking Book Heatmap](http://www.mondovisione.com/media-and-resources/news/the-eba-outlines-the-medium-to-long-term-objectives-of-its-interest-rate-risk-in-2026126/)
+Append: [Douglas Cifu And Kenneth Schiciano Elected To MarketAxess Board Of Directors](http://www.mondovisione.com/media-and-resources/news/douglas-cifu-and-kenneth-schiciano-elected-to-marketaxess-board-of-directors-2026126/)
+append_entries: 6
+Finish: 2026-01-26 20:33:22.598147
