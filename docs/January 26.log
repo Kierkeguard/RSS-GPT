@@ -1388,3 +1388,15 @@ Existing_entries: 190
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-01-27 04:51:44.633087
+------------------------------------------------------
+Started: 2026-01-27 06:43:22.321439
+Existing_entries: 190
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC: BPS Financial To Pay $14 Million In Penalties Over Crypto Qoin Wallet](http://www.mondovisione.com/media-and-resources/news/asic-bps-financial-to-pay-14-million-in-penalties-over-crypto-qoin-wallet-2026127/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nadex Self-Certifies Weather Event Contract](http://www.mondovisione.com/media-and-resources/news/nadex-self-certifies-weather-event-contract-2026127/)
+append_entries: 2
+Finish: 2026-01-27 06:43:23.749426
