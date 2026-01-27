@@ -1451,3 +1451,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [HKEX Signs MOU With Brazil’s B3 To Advance Sustainable Finance, Carbon Markets](http://www.mondovisione.com/media-and-resources/news/hkex-signs-mou-with-brazils-b3-to-advance-sustainable-finance-carbon-markets-2026127/)
 append_entries: 3
 Finish: 2026-01-27 13:01:54.034042
+------------------------------------------------------
+Started: 2026-01-27 14:35:38.194771
+Existing_entries: 203
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-01-27 14:35:39.662266
