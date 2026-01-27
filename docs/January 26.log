@@ -1418,3 +1418,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [First IPO In 2026 At Tehran Securities Exchange](http://www.mondovisione.com/media-and-resources/news/first-ipo-in-2026-at-tehran-securities-exchange-2026127/)
 append_entries: 4
 Finish: 2026-01-27 08:39:35.326706
+------------------------------------------------------
+Started: 2026-01-27 10:34:05.997162
+Existing_entries: 196
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Avelacom Expands Access To Argentina’s Capital Markets For Banks And Financial Institutions - Avelacom Partners With Bolsas y Mercados Argentinos SA (BYMA), Launches A New Buenos Aires PoP, And Builds New Low Latency Routes Across The Latin American Continent](http://www.mondovisione.com/media-and-resources/news/avelacom-expands-access-to-argentinas-capital-markets-for-banks-and-financial-i-2026127/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ECB Paves Way For Acceptance Of DLT-Based Assets As Eligible Eurosystem Collateral](http://www.mondovisione.com/media-and-resources/news/ecb-paves-way-for-acceptance-of-dlt-based-assets-as-eligible-eurosystem-collater-2026127/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euronext Launches IPOready 2026: Europe’s Largest Pre-IPO Programme Expands With A Dedicated Aerospace And Defence Track](http://www.mondovisione.com/media-and-resources/news/euronext-launches-ipoready-2026-europes-largest-pre-ipo-programme-expands-with-2026127/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CoinShares Fund Flows: Digital Asset Products See Sharp Outflows As Bearish Sentiment Persists](http://www.mondovisione.com/media-and-resources/news/coinshares-fund-flows-digital-asset-products-see-sharp-outflows-as-bearish-sent-2026127/)
+append_entries: 4
+Finish: 2026-01-27 10:34:06.837284
