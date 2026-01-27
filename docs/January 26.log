@@ -1400,3 +1400,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Nadex Self-Certifies Weather Event Contract](http://www.mondovisione.com/media-and-resources/news/nadex-self-certifies-weather-event-contract-2026127/)
 append_entries: 2
 Finish: 2026-01-27 06:43:23.749426
+------------------------------------------------------
+Started: 2026-01-27 08:39:34.388200
+Existing_entries: 192
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [One Million Users: BISON Sets New Standards For Crypto Trading In Germany](http://www.mondovisione.com/media-and-resources/news/one-million-users-bison-sets-new-standards-for-crypto-trading-in-germany-2026127/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [GCEX Appoints Carmen Tan As Managing Director, MENA](http://www.mondovisione.com/media-and-resources/news/gcex-appoints-carmen-tan-as-managing-director-mena-2026127/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc ("LSEG") Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transaction-in-own-shares-2026127/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [First IPO In 2026 At Tehran Securities Exchange](http://www.mondovisione.com/media-and-resources/news/first-ipo-in-2026-at-tehran-securities-exchange-2026127/)
+append_entries: 4
+Finish: 2026-01-27 08:39:35.326706
