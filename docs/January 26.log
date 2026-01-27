@@ -1469,3 +1469,27 @@ Existing_entries: 203
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-01-27 18:47:29.588294
+------------------------------------------------------
+Started: 2026-01-27 20:29:12.958925
+Existing_entries: 203
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group Reaches New Record In Metals Futures And Options](http://www.mondovisione.com/media-and-resources/news/cme-group-reaches-new-record-in-metals-futures-and-options-2026127/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Puro.earth Launches Puro Issuance Plus To Enable Higher Frequency Of Carbon Credit Issuance For Suppliers](http://www.mondovisione.com/media-and-resources/news/puroearth-launches-puro-issuance-plus-to-enable-higher-frequency-of-carbon-cred-2026127/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Borsa Istanbul: BIST Sustainability Themed Debt Securities Indices Periodic Review](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-bist-sustainability-themed-debt-securities-indices-periodic-revi-2026127/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESMA Signs Memorandum Of Understanding With The Reserve Bank Of India](http://www.mondovisione.com/media-and-resources/news/esma-signs-memorandum-of-understanding-with-the-reserve-bank-of-india-2026127/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Adaptive Announces Aeron Sequencer: Revolutionising The Architecture And Scalability Of High Performance Trading Systems](http://www.mondovisione.com/media-and-resources/news/adaptive-announces-aeron-sequencer-revolutionising-the-architecture-and-scalabi-2026127/)
+Append: [The Egyptian Exchange (EGX) Announces The Semi-Annual Review Of Its Market Indices](http://www.mondovisione.com/media-and-resources/news/the-egyptian-exchange-egx-announces-the-semi-annual-review-of-its-market-indic-2026127/)
+Append: [Mohammed bin Rashid Launches Landmark AED100 Billion Expansion Of DIFC](http://www.mondovisione.com/media-and-resources/news/mohammed-bin-rashid-launches-landmark-aed100-billion-expansion-of-difc-2026127/)
+Append: [Borsa Istanbul: Changes In Operating Principles Of Derivatives Market](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-changes-in-operating-principles-of-derivatives-market-2026127/)
+append_entries: 8
+Finish: 2026-01-27 20:29:14.207945
