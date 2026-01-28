@@ -1639,3 +1639,12 @@ Append: [Ontario Securities Commission Dialogue 2026: Competitive Edge - Registr
 Append: [The EBA Pillar 3 Data Hub Goes Live](http://www.mondovisione.com/media-and-resources/news/the-eba-pillar-3-data-hub-goes-live-2026128/)
 append_entries: 7
 Finish: 2026-01-28 20:37:21.985347
+------------------------------------------------------
+Started: 2026-01-28 22:32:35.605419
+Existing_entries: 239
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ServiceNow And Fiserv Expand Strategic Commitment To Accelerate AI-Driven Transformation Of Financial Services - By Scaling ServiceNow AI Throughout Operations, Fiserv Will Elevate Operational Excellence While Enhancing Resiliency And Stability Across IT And Client Experiences](http://www.mondovisione.com/media-and-resources/news/servicenow-and-fiserv-expand-strategic-commitment-to-accelerate-ai-driven-transf-2026128/)
+append_entries: 1
+Finish: 2026-01-28 22:32:36.838230
