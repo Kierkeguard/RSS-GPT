@@ -1586,3 +1586,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Europe's First Standardised View Of Equities Trading In Development By EuroCTP At Equinix Data Center - EuroCTP Is Building The EU’s First Consolidated Data Feed To Provide An Aggregated View Of European Equity Market Activity Across 150+ Trading Venues And Trade Reporting Platforms, Creating A Single And Authoritative Reference Source For Market Participants](http://www.mondovisione.com/media-and-resources/news/europes-first-standardised-view-of-equities-trading-in-development-by-euroctp-a-2026128/)
 append_entries: 4
 Finish: 2026-01-28 13:02:10.660631
+------------------------------------------------------
+Started: 2026-01-28 14:36:22.317637
+Existing_entries: 228
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Intercontinental Exchange Launches Reddit Signals And Sentiment Tool Providing Actionable Market Indicators For Investors](http://www.mondovisione.com/media-and-resources/news/intercontinental-exchange-launches-reddit-signals-and-sentiment-tool-providing-a-2026128/)
+append_entries: 1
+Finish: 2026-01-28 14:36:23.677798
