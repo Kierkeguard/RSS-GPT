@@ -1547,3 +1547,24 @@ Existing_entries: 219
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-01-28 08:39:12.757472
+------------------------------------------------------
+Started: 2026-01-28 10:34:48.320243
+Existing_entries: 219
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Xetra ETF & ETP Statistics 2025: Deutsche Börse Continues Growth Trend, Posts Most Successful Year Since Market Launch](http://www.mondovisione.com/media-and-resources/news/xetra-etf-and-etp-statistics-2025-deutsche-brse-continues-growth-trend-posts-mo-2026128/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ING In The UK Appoints Alex Yang As Global Head Of Electronic Fixed Income (eFI) Trading](http://www.mondovisione.com/media-and-resources/news/ing-in-the-uk-appoints-alex-yang-as-global-head-of-electronic-fixed-income-efi-2026128/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Seven Points Capital Expands Into London As Demand Grows For Fully Funded, Mentorship-Led Trading Firms - Proprietary Trading Firm Strengthens Global Footprint Amid Industry Reset And Shift Away From Challenge-Based Models](http://www.mondovisione.com/media-and-resources/news/seven-points-capital-expands-into-london-as-demand-grows-for-fully-funded-mento-2026128/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MNI Indicators: MNI China Money Market Index™ – Jan Conditions Steady](http://www.mondovisione.com/media-and-resources/news/mni-indicators-mni-china-money-market-index-jan-conditions-steady-2026128/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc ("LSEG") Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transaction-in-own-shares-2026128/)
+append_entries: 5
+Finish: 2026-01-28 10:34:49.450145
