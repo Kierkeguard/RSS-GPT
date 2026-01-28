@@ -1607,3 +1607,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SIFMA Roundtable: Building The Roadmap To 24/7 Markets, “Money Never Sleeps”, Jamie Selway, Director, SEC Division Of Trading And Markets, Washington D.C., Jan. 28, 2026](http://www.mondovisione.com/media-and-resources/news/sifma-roundtable-building-the-roadmap-to-247-markets-money-never-sleeps-ja-2026128/)
 append_entries: 2
 Finish: 2026-01-28 16:44:49.072682
+------------------------------------------------------
+Started: 2026-01-28 18:44:02.926273
+Existing_entries: 231
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Announcement To All Participants Regarding The Periodic Review Of EGX Market Segments](http://www.mondovisione.com/media-and-resources/news/announcement-to-all-participants-regarding-the-periodic-review-of-egx-market-seg-2026128/)
+append_entries: 1
+Finish: 2026-01-28 18:44:03.922007
