@@ -1511,3 +1511,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [EDX Markets Launches FlowConnect™ To Power Institutional Digital Asset Trading And Infrastructure - Crypto-As-A-Service Offering Enables Firms To Launch Comprehensive Digital Asset Services Faster And More Securely](http://www.mondovisione.com/media-and-resources/news/edx-markets-launches-flowconnect-to-power-institutional-digital-asset-trading-a-2026127/)
 append_entries: 4
 Finish: 2026-01-27 22:27:29.093688
+------------------------------------------------------
+Started: 2026-01-28 02:09:05.799835
+Existing_entries: 215
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-01-28 02:09:06.773017
