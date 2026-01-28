@@ -1523,3 +1523,21 @@ Existing_entries: 215
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-01-28 04:49:13.820321
+------------------------------------------------------
+Started: 2026-01-28 06:43:49.087295
+Existing_entries: 215
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASX Releases Unaudited 1H26 Results And Updates FY26 Expense Guidance](http://www.mondovisione.com/media-and-resources/news/asx-releases-unaudited-1h26-results-and-updates-fy26-expense-guidance-2026128/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Proposes To Extend Intra-Fund Transfer Relief For Super Trustees](http://www.mondovisione.com/media-and-resources/news/asic-proposes-to-extend-intra-fund-transfer-relief-for-super-trustees-2026128/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Charges ADM And Three Former Executives With Accounting And Disclosure Fraud - ADM Credited For Cooperation And Significant Remediation](http://www.mondovisione.com/media-and-resources/news/sec-charges-adm-and-three-former-executives-with-accounting-and-disclosure-fraud-2026128/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Staff Issues No-Action Letter, Announces Implementation Updates To 2024 Large Trader Reporting Rule](http://www.mondovisione.com/media-and-resources/news/cftc-staff-issues-no-action-letter-announces-implementation-updates-to-2024-lar-2026128/)
+append_entries: 4
+Finish: 2026-01-28 06:43:49.926257
