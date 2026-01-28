@@ -1616,3 +1616,26 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Announcement To All Participants Regarding The Periodic Review Of EGX Market Segments](http://www.mondovisione.com/media-and-resources/news/announcement-to-all-participants-regarding-the-periodic-review-of-egx-market-seg-2026128/)
 append_entries: 1
 Finish: 2026-01-28 18:44:03.922007
+------------------------------------------------------
+Started: 2026-01-28 20:37:20.908689
+Existing_entries: 232
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Federal Open Market Committee Reaffirms Its "Statement On Longer-Run Goals And Monetary Policy Strategy"](http://www.mondovisione.com/media-and-resources/news/federal-open-market-committee-reaffirms-its-statement-on-longer-run-goals-and-m-2026128/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Federal Reserve Issues FOMC Statement](http://www.mondovisione.com/media-and-resources/news/federal-reserve-issues-fomc-statement-2026128/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Announces Tyler S. Badgley As General Counsel](http://www.mondovisione.com/media-and-resources/news/cftc-announces-tyler-s-badgley-as-general-counsel-2026128/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [25 Years Of Market Leadership: Dubai Financial Market Delivers A Strong 2025 Performance, Recording 158% Growth In Net Profit Before Tax To AED 1.06 Billion](http://www.mondovisione.com/media-and-resources/news/25-years-of-market-leadership-dubai-financial-market-delivers-a-strong-2025-per-2026128/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ISDA The Swap - Episode 54: A Modernization Agenda](http://www.mondovisione.com/media-and-resources/news/isda-the-swap-episode-54-a-modernization-agenda-2026128/)
+Append: [Ontario Securities Commission Dialogue 2026: Competitive Edge - Registration Now Open, With Early Bird Pricing Available Until February 27](http://www.mondovisione.com/media-and-resources/news/ontario-securities-commission-dialogue-2026-competitive-edge-registration-now-2026128/)
+Append: [The EBA Pillar 3 Data Hub Goes Live](http://www.mondovisione.com/media-and-resources/news/the-eba-pillar-3-data-hub-goes-live-2026128/)
+append_entries: 7
+Finish: 2026-01-28 20:37:21.985347
