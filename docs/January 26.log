@@ -1595,3 +1595,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Intercontinental Exchange Launches Reddit Signals And Sentiment Tool Providing Actionable Market Indicators For Investors](http://www.mondovisione.com/media-and-resources/news/intercontinental-exchange-launches-reddit-signals-and-sentiment-tool-providing-a-2026128/)
 append_entries: 1
 Finish: 2026-01-28 14:36:23.677798
+------------------------------------------------------
+Started: 2026-01-28 16:44:48.098983
+Existing_entries: 229
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group Named As First-Ever Chicago White Sox Jersey Patch Sponsor - Iconic Chicago Institutions Team Up For Multiyear Agreement Reaching Global Audiences](http://www.mondovisione.com/media-and-resources/news/cme-group-named-as-first-ever-chicago-white-sox-jersey-patch-sponsor-iconic-ch-2026128/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIFMA Roundtable: Building The Roadmap To 24/7 Markets, “Money Never Sleeps”, Jamie Selway, Director, SEC Division Of Trading And Markets, Washington D.C., Jan. 28, 2026](http://www.mondovisione.com/media-and-resources/news/sifma-roundtable-building-the-roadmap-to-247-markets-money-never-sleeps-ja-2026128/)
+append_entries: 2
+Finish: 2026-01-28 16:44:49.072682
