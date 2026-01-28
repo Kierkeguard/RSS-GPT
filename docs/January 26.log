@@ -1568,3 +1568,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [London Stock Exchange Group plc ("LSEG") Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transaction-in-own-shares-2026128/)
 append_entries: 5
 Finish: 2026-01-28 10:34:49.450145
+------------------------------------------------------
+Started: 2026-01-28 13:02:09.358472
+Existing_entries: 224
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Exchange Data International Releases 2025 IPO Market Report, Highlighting Strong Global Recovery And Accelerated Growth](http://www.mondovisione.com/media-and-resources/news/exchange-data-international-releases-2025-ipo-market-report-highlighting-strong-2026128/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [GlobalData Announces Top M&A Financial And Legal Advisers In Financial Services Sector During 2025](http://www.mondovisione.com/media-and-resources/news/globaldata-announces-top-manda-financial-and-legal-advisers-in-financial-services-2026128/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LSEG Risk Intelligence Comments On Today's Changes To UK Sanctions List](http://www.mondovisione.com/media-and-resources/news/lseg-risk-intelligence-comments-on-todays-changes-to-uk-sanctions-list-2026128/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Europe's First Standardised View Of Equities Trading In Development By EuroCTP At Equinix Data Center - EuroCTP Is Building The EU’s First Consolidated Data Feed To Provide An Aggregated View Of European Equity Market Activity Across 150+ Trading Venues And Trade Reporting Platforms, Creating A Single And Authoritative Reference Source For Market Participants](http://www.mondovisione.com/media-and-resources/news/europes-first-standardised-view-of-equities-trading-in-development-by-euroctp-a-2026128/)
+append_entries: 4
+Finish: 2026-01-28 13:02:10.660631
