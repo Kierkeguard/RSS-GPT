@@ -1669,3 +1669,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SEC Statement On Tokenized Securities - Division Of Corporation Finance, Division Of Investment Management, Division Of Trading And Markets](http://www.mondovisione.com/media-and-resources/news/sec-statement-on-tokenized-securities-division-of-corporation-finance-divisio-2026129/)
 append_entries: 1
 Finish: 2026-01-29 06:55:45.752849
+------------------------------------------------------
+Started: 2026-01-29 08:49:09.459649
+Existing_entries: 241
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASX Appoints Members To Newly Constituted Advisory Group On Corporate Governance](http://www.mondovisione.com/media-and-resources/news/asx-appoints-members-to-newly-constituted-advisory-group-on-corporate-governance-2026129/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SGX Stock Exchange Welcomes The Listing Of UOBAM Ping An FTSE ASEAN Dividend Index ETF](http://www.mondovisione.com/media-and-resources/news/sgx-stock-exchange-welcomes-the-listing-of-uobam-ping-an-ftse-asean-dividend-ind-2026129/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Monetary Authority Of Singapore Monetary Policy Statement - January 2026](http://www.mondovisione.com/media-and-resources/news/monetary-authority-of-singapore-monetary-policy-statement-january-2026-2026129/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Golden Opportunities: Innovation, Competition And  Value For Investors - Speech At The Listing Ceremony Of Hang Seng Gold ETF, Dr Kelvin Wong, Chairman, Hong Kong Securities And Futures Commission.29 January 2026](http://www.mondovisione.com/media-and-resources/news/golden-opportunities-innovation-competition-and-value-for-investors-speech-2026129/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Acts Against 28 SMSF Auditors, Flags Increased Scrutiny On In-House Audit Breaches](http://www.mondovisione.com/media-and-resources/news/asic-acts-against-28-smsf-auditors-flags-increased-scrutiny-on-in-house-audit-b-2026129/)
+append_entries: 5
+Finish: 2026-01-29 08:49:10.441572
