@@ -1769,3 +1769,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Tradeweb Launches Multi-Asset Package Trading For USD Swaps - Barclays Executes First Fully Electronic Multi-Asset Package Trade For USD Swaps On Tradeweb SEF](http://www.mondovisione.com/media-and-resources/news/tradeweb-launches-multi-asset-package-trading-for-usd-swaps-barclays-executes-2026129/)
 append_entries: 3
 Finish: 2026-01-29 18:55:32.096568
+------------------------------------------------------
+Started: 2026-01-29 20:36:36.477148
+Existing_entries: 263
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Chairman Lauds Senate Committee Action To Advance Digital Asset Market Structure Legislation](http://www.mondovisione.com/media-and-resources/news/cftc-chairman-lauds-senate-committee-action-to-advance-digital-asset-market-stru-2026129/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Remarks Of CFTC Chairman Michael S. Selig - The Next Phase Of Project Crypto: Unleashing Innovation For The New Frontier Of Finance](http://www.mondovisione.com/media-and-resources/news/remarks-of-cftc-chairman-michael-s-selig-the-next-phase-of-project-crypto-un-2026129/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Shield Strengthens European Operating Model With Expanded Lisbon Hub - Lisbon Team Grows By 40% To Accelerate Product Development And Customer Support For European Financial Institutions](http://www.mondovisione.com/media-and-resources/news/shield-strengthens-european-operating-model-with-expanded-lisbon-hub-lisbon-te-2026129/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Opening Remarks At Joint SEC-CFTC Harmonization Event – Project Crypto, Paul S. Atkins, SEC Chairman, Commodity Futures Trading Commission Headquarters, Washington D.C., Jan. 29, 2026](http://www.mondovisione.com/media-and-resources/news/opening-remarks-at-joint-sec-cftc-harmonization-event-project-crypto-paul-s-2026129/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Federal Reserve Board Announces Appointment Of Seven Members, Including Four New Members, To Its Insurance Policy Advisory Committee (IPAC)](http://www.mondovisione.com/media-and-resources/news/federal-reserve-board-announces-appointment-of-seven-members-including-four-new-2026129/)
+append_entries: 5
+Finish: 2026-01-29 20:36:37.899659
