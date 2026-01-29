@@ -1732,3 +1732,25 @@ Existing_entries: 254
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-01-29 14:41:23.828803
+------------------------------------------------------
+Started: 2026-01-29 16:50:45.401125
+Existing_entries: 254
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER Calls For Stronger Coordination And Consistency Across EU Electricity, Gas And Hydrogen Planning](http://www.mondovisione.com/media-and-resources/news/acer-calls-for-stronger-coordination-and-consistency-across-eu-electricity-gas-2026129/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LCH: Athora Netherlands Joins RepoClear SA](http://www.mondovisione.com/media-and-resources/news/lch-athora-netherlands-joins-repoclear-sa-2026129/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [EBA Launches Consultation On Amendments To Guidelines On The Systemic Risk Buffer](http://www.mondovisione.com/media-and-resources/news/eba-launches-consultation-on-amendments-to-guidelines-on-the-systemic-risk-buffe-2026129/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ICE’s Futures And Options Markets Reach Record Open Interest Of 114 Million Contracts](http://www.mondovisione.com/media-and-resources/news/ices-futures-and-options-markets-reach-record-open-interest-of-114-million-cont-2026129/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Decision By The Nasdaq Stockholm Disciplinary Committee Regarding DUG Foodtech AB (publ)](http://www.mondovisione.com/media-and-resources/news/decision-by-the-nasdaq-stockholm-disciplinary-committee-regarding-dug-foodtech-a-2026129/)
+Append: [Amman Stock Exchange Weekly Summary](http://www.mondovisione.com/media-and-resources/news/amman-stock-exchange-weekly-summary-2026129/)
+append_entries: 6
+Finish: 2026-01-29 16:50:46.963662
