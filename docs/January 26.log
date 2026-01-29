@@ -1726,3 +1726,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [UK Financial Conduct Authority: Emil The Seal Hijacks Waterloo Station To Warn Commuters About Investment Scams](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-emil-the-seal-hijacks-waterloo-station-to-warn-c-2026129/)
 append_entries: 4
 Finish: 2026-01-29 13:08:52.059278
+------------------------------------------------------
+Started: 2026-01-29 14:41:21.854311
+Existing_entries: 254
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-01-29 14:41:23.828803
