@@ -1708,3 +1708,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Japan Exchange Group, Inc. And Consolidated Subsidiaries Consolidated Financial Results For The Nine Months Ended December 31, 2025 (Based On IFRS), Unaudited](http://www.mondovisione.com/media-and-resources/news/japan-exchange-group-inc-and-consolidated-subsidiaries-consolidated-financial-2026129/)
 append_entries: 4
 Finish: 2026-01-29 10:42:07.232558
+------------------------------------------------------
+Started: 2026-01-29 13:08:49.822333
+Existing_entries: 250
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Announces Quarterly Dividend Of $0.27 Per Share](http://www.mondovisione.com/media-and-resources/news/nasdaq-announces-quarterly-dividend-of-027-per-share-2026129/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Reports Fourth Quarter And Full Year 2025 Results; Annual Results Exceed $5.2B In Net Revenue And $4.0B In Solutions Revenue](http://www.mondovisione.com/media-and-resources/news/nasdaq-reports-fourth-quarter-and-full-year-2025-results-annual-results-exceed-2026129/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [GlobalData Announces Top M&A Financial And Legal Advisers In Power Sector During 2025](http://www.mondovisione.com/media-and-resources/news/globaldata-announces-top-manda-financial-and-legal-advisers-in-power-sector-during-2026129/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority: Emil The Seal Hijacks Waterloo Station To Warn Commuters About Investment Scams](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-emil-the-seal-hijacks-waterloo-station-to-warn-c-2026129/)
+append_entries: 4
+Finish: 2026-01-29 13:08:52.059278
