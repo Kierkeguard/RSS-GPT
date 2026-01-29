@@ -1790,3 +1790,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Federal Reserve Board Announces Appointment Of Seven Members, Including Four New Members, To Its Insurance Policy Advisory Committee (IPAC)](http://www.mondovisione.com/media-and-resources/news/federal-reserve-board-announces-appointment-of-seven-members-including-four-new-2026129/)
 append_entries: 5
 Finish: 2026-01-29 20:36:37.899659
+------------------------------------------------------
+Started: 2026-01-29 22:33:13.786580
+Existing_entries: 268
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Treasury Releases Report On Macroeconomic And Foreign Exchange Policies Of Major Trading Partners Of The United States](http://www.mondovisione.com/media-and-resources/news/us-treasury-releases-report-on-macroeconomic-and-foreign-exchange-policies-of-ma-2026129/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Options: Position And Exercise Limits Increase For Certain ETFs Traded On The Exchanges](http://www.mondovisione.com/media-and-resources/news/miax-options-position-and-exercise-limits-increase-for-certain-etfs-traded-on-t-2026129/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MarketAxess To Participate In The UBS Financial Services Conference](http://www.mondovisione.com/media-and-resources/news/marketaxess-to-participate-in-the-ubs-financial-services-conference-2026129/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Zealand Financial Markets Authority Issues A Warning To Insurance Company For Failure To Apply Advertised Discounts](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-issues-a-warning-to-insurance-company-fo-2026129/)
+append_entries: 4
+Finish: 2026-01-29 22:33:14.774255
