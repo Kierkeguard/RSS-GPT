@@ -1690,3 +1690,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ASIC Acts Against 28 SMSF Auditors, Flags Increased Scrutiny On In-House Audit Breaches](http://www.mondovisione.com/media-and-resources/news/asic-acts-against-28-smsf-auditors-flags-increased-scrutiny-on-in-house-audit-b-2026129/)
 append_entries: 5
 Finish: 2026-01-29 08:49:10.441572
+------------------------------------------------------
+Started: 2026-01-29 10:42:06.193202
+Existing_entries: 246
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Seeks Views On How To Help Close The Protection Gap](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-seeks-views-on-how-to-help-close-the-protection-g-2026129/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc ("LSEG") Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transaction-in-own-shares-2026129/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bursa Malaysia Reports RM337.1 Million Profit Before Tax And Zakat For Financial Year Ended 31 December 2025, Delivers RM226.6 Million In Total Dividends To Shareholders](http://www.mondovisione.com/media-and-resources/news/bursa-malaysia-reports-rm3371-million-profit-before-tax-and-zakat-for-financial-2026129/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Japan Exchange Group, Inc. And Consolidated Subsidiaries Consolidated Financial Results For The Nine Months Ended December 31, 2025 (Based On IFRS), Unaudited](http://www.mondovisione.com/media-and-resources/news/japan-exchange-group-inc-and-consolidated-subsidiaries-consolidated-financial-2026129/)
+append_entries: 4
+Finish: 2026-01-29 10:42:07.232558
