@@ -1754,3 +1754,18 @@ Append: [Decision By The Nasdaq Stockholm Disciplinary Committee Regarding DUG F
 Append: [Amman Stock Exchange Weekly Summary](http://www.mondovisione.com/media-and-resources/news/amman-stock-exchange-weekly-summary-2026129/)
 append_entries: 6
 Finish: 2026-01-29 16:50:46.963662
+------------------------------------------------------
+Started: 2026-01-29 18:55:30.431165
+Existing_entries: 260
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euronext Completes €250 Million Share Repurchase Programme](http://www.mondovisione.com/media-and-resources/news/euronext-completes-250-million-share-repurchase-programme-2026129/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Sky’s The Limit: Shaping The UK’s Digital Financial Future - Speech By Sasha Mills, Bank Of England, Executive Director, Financial Market Infrastructure, Given At The Tokenisation Summit](http://www.mondovisione.com/media-and-resources/news/the-skys-the-limit-shaping-the-uks-digital-financial-future-speech-by-sasha-2026129/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tradeweb Launches Multi-Asset Package Trading For USD Swaps - Barclays Executes First Fully Electronic Multi-Asset Package Trade For USD Swaps On Tradeweb SEF](http://www.mondovisione.com/media-and-resources/news/tradeweb-launches-multi-asset-package-trading-for-usd-swaps-barclays-executes-2026129/)
+append_entries: 3
+Finish: 2026-01-29 18:55:32.096568
