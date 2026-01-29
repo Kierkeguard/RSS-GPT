@@ -1660,3 +1660,12 @@ Existing_entries: 240
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-01-29 05:08:29.580619
+------------------------------------------------------
+Started: 2026-01-29 06:55:44.361692
+Existing_entries: 240
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Statement On Tokenized Securities - Division Of Corporation Finance, Division Of Investment Management, Division Of Trading And Markets](http://www.mondovisione.com/media-and-resources/news/sec-statement-on-tokenized-securities-division-of-corporation-finance-divisio-2026129/)
+append_entries: 1
+Finish: 2026-01-29 06:55:45.752849
