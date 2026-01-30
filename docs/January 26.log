@@ -1856,3 +1856,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ASIC: Federal Court Orders Australian Unity Funds Management To Pay $7 Million Penalty For Failing To Confirm Product Suitability For Investors](http://www.mondovisione.com/media-and-resources/news/asic-federal-court-orders-australian-unity-funds-management-to-pay-7-million-p-2026130/)
 append_entries: 5
 Finish: 2026-01-30 08:48:19.151595
+------------------------------------------------------
+Started: 2026-01-30 10:40:43.481519
+Existing_entries: 280
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASTA Energy Solutions AG New In The Prime Standard Of The Frankfurt Stock Exchange](http://www.mondovisione.com/media-and-resources/news/asta-energy-solutions-ag-new-in-the-prime-standard-of-the-frankfurt-stock-exchan-2026130/)
+append_entries: 1
+Finish: 2026-01-30 10:40:44.577469
