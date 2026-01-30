@@ -1820,3 +1820,18 @@ Existing_entries: 272
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-01-30 05:10:50.675378
+------------------------------------------------------
+Started: 2026-01-30 06:57:01.981694
+Existing_entries: 272
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Hong Kong Green And Sustainable Finance Cross‑Agency Steering Group Announces Strategic Priorities For 2026-2028](http://www.mondovisione.com/media-and-resources/news/hong-kong-green-and-sustainable-finance-crossagency-steering-group-announces-st-2026130/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Proposes Updates To Legislative Instruments About Financial Reporting](http://www.mondovisione.com/media-and-resources/news/asic-proposes-updates-to-legislative-instruments-about-financial-reporting-2026130/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Chair Selig, SEC Chair Atkins: Team Trump Readies Crypto Plan So Americans Can Count On Their Future - Joint Initiative Aims To Provide Regulatory Clarity As Congress Advances Bipartisan Cryptocurrency Legislation](http://www.mondovisione.com/media-and-resources/news/cftc-chair-selig-sec-chair-atkins-team-trump-readies-crypto-plan-so-americans-2026130/)
+append_entries: 3
+Finish: 2026-01-30 06:57:03.007734
