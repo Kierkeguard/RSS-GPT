@@ -1871,3 +1871,15 @@ Existing_entries: 281
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-01-30 13:06:56.460573
+------------------------------------------------------
+Started: 2026-01-30 14:39:21.879140
+Existing_entries: 281
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Malawi Stock Exchange Weekly Summary Report, 30 January 2026](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-30-january-2026-2026130/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NSE Indices Index Dashboard For The Month Ended January 2026](http://www.mondovisione.com/media-and-resources/news/nse-indices-index-dashboard-for-the-month-ended-january-2026-2026130/)
+append_entries: 2
+Finish: 2026-01-30 14:39:22.932521
