@@ -1916,3 +1916,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [UK Financial Conduct Authority’s Long Term Review Into AI And Retail Financial Services: Designing For The Unknown](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authoritys-long-term-review-into-ai-and-retail-financial-s-2026130/)
 append_entries: 1
 Finish: 2026-01-30 18:52:19.704225
+------------------------------------------------------
+Started: 2026-01-30 20:36:38.570517
+Existing_entries: 292
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-01-30 20:36:39.681338
