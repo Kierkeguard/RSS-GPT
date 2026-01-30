@@ -1883,3 +1883,27 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [NSE Indices Index Dashboard For The Month Ended January 2026](http://www.mondovisione.com/media-and-resources/news/nse-indices-index-dashboard-for-the-month-ended-january-2026-2026130/)
 append_entries: 2
 Finish: 2026-01-30 14:39:22.932521
+------------------------------------------------------
+Started: 2026-01-30 16:46:24.634973
+Existing_entries: 283
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Comment On Kevin Warsh’s Nomination As Fed Chair From James Butterfill, Head Of Research At CoinShares – Europe’s Largest Digital Asset Manager](http://www.mondovisione.com/media-and-resources/news/comment-on-kevin-warshs-nomination-as-fed-chair-from-james-butterfill-head-of-2026130/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MNI Indicators: Chicago Business Barometer™ - Jumped To 54.0 In January](http://www.mondovisione.com/media-and-resources/news/mni-indicators-chicago-business-barometer-jumped-to-540-in-january-2026130/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Trump Nominates Kevin Warsh To Lead Federal Reserve](http://www.mondovisione.com/media-and-resources/news/trump-nominates-kevin-warsh-to-lead-federal-reserve-2026130/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Exchange Group - Options Markets - Fee Changes To Establish Fees For The 1-Minute Interval Intra-Day Open-Close Report And The Update To The MIAX Options Exchange 10-Minute Interval Intra-Day Open Close Report Fee](http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-options-markets-fee-changes-to-establish-fees-for-the-1-2026130/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Statement By Federal Reserve Governor Christopher J. Waller](http://www.mondovisione.com/media-and-resources/news/statement-by-federal-reserve-governor-christopher-j-waller-2026130/)
+Append: [HKEX: Report On Initial Public Offering Applications, Delisting And Suspensions (January 2026)](http://www.mondovisione.com/media-and-resources/news/hkex-report-on-initial-public-offering-applications-delisting-and-suspensions-2026130/)
+Append: [ICE’s Environmental Market Trading Reaches Record Highs in 2025](http://www.mondovisione.com/media-and-resources/news/ices-environmental-market-trading-reaches-record-highs-in-2025-2026130/)
+Append: [Stability Matters - Latest News From The FSB](http://www.mondovisione.com/media-and-resources/news/stability-matters-latest-news-from-the-fsb-2026130/)
+append_entries: 8
+Finish: 2026-01-30 16:46:25.848991
