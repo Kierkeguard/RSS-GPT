@@ -1907,3 +1907,12 @@ Append: [ICE’s Environmental Market Trading Reaches Record Highs in 2025](http
 Append: [Stability Matters - Latest News From The FSB](http://www.mondovisione.com/media-and-resources/news/stability-matters-latest-news-from-the-fsb-2026130/)
 append_entries: 8
 Finish: 2026-01-30 16:46:25.848991
+------------------------------------------------------
+Started: 2026-01-30 18:52:18.527791
+Existing_entries: 291
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority’s Long Term Review Into AI And Retail Financial Services: Designing For The Unknown](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authoritys-long-term-review-into-ai-and-retail-financial-s-2026130/)
+append_entries: 1
+Finish: 2026-01-30 18:52:19.704225
