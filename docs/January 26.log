@@ -1835,3 +1835,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CFTC Chair Selig, SEC Chair Atkins: Team Trump Readies Crypto Plan So Americans Can Count On Their Future - Joint Initiative Aims To Provide Regulatory Clarity As Congress Advances Bipartisan Cryptocurrency Legislation](http://www.mondovisione.com/media-and-resources/news/cftc-chair-selig-sec-chair-atkins-team-trump-readies-crypto-plan-so-americans-2026130/)
 append_entries: 3
 Finish: 2026-01-30 06:57:03.007734
+------------------------------------------------------
+Started: 2026-01-30 08:48:17.774655
+Existing_entries: 275
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euronext Expands Its SaaS Offering In France With Advanced Governance And Secure Collaboration Solutions](http://www.mondovisione.com/media-and-resources/news/euronext-expands-its-saas-offering-in-france-with-advanced-governance-and-secure-2026130/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc ("LSEG") Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transaction-in-own-shares-2026130/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LSEG And ICBC Agree Memorandum Of Understanding To Deepen Strategic Collaboration](http://www.mondovisione.com/media-and-resources/news/lseg-and-icbc-agree-memorandum-of-understanding-to-deepen-strategic-collaboratio-2026130/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SGX RegCo Proposes Rule Changes To Facilitate Wider Adoption Of Broker Custody Accounts](http://www.mondovisione.com/media-and-resources/news/sgx-regco-proposes-rule-changes-to-facilitate-wider-adoption-of-broker-custody-a-2026130/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC: Federal Court Orders Australian Unity Funds Management To Pay $7 Million Penalty For Failing To Confirm Product Suitability For Investors](http://www.mondovisione.com/media-and-resources/news/asic-federal-court-orders-australian-unity-funds-management-to-pay-7-million-p-2026130/)
+append_entries: 5
+Finish: 2026-01-30 08:48:19.151595
