@@ -1967,3 +1967,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [MIAX Exchange Members - Options Regulatory Fee](http://www.mondovisione.com/media-and-resources/news/miax-exchange-members-options-regulatory-fee-2026131/)
 append_entries: 3
 Finish: 2026-01-31 06:48:39.196407
+------------------------------------------------------
+Started: 2026-01-31 08:36:50.307165
+Existing_entries: 299
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-01-31 08:36:51.595921
