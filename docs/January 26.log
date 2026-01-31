@@ -1952,3 +1952,18 @@ Existing_entries: 296
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-01-31 05:03:34.227499
+------------------------------------------------------
+Started: 2026-01-31 06:48:38.033267
+Existing_entries: 296
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Statement On Jury’s Verdict In Trial Of R. Brian Watson And Northstar Commercial Partners, Margaret Ryan, Director, SEC Division Of Enforcement, Jan. 30, 2026](http://www.mondovisione.com/media-and-resources/news/statement-on-jurys-verdict-in-trial-of-r-brian-watson-and-northstar-commercial-2026131/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Outlook For The Economy And Monetary Policy, Federal Reserve Vice Chair For Supervision Michelle W. Bowman, At The SW Graduate School Of Banking At SMU Cox: 161st Assembly For Bank Directors, Oahu, Hawaii](http://www.mondovisione.com/media-and-resources/news/outlook-for-the-economy-and-monetary-policy-federal-reserve-vice-chair-for-supe-2026131/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Exchange Members - Options Regulatory Fee](http://www.mondovisione.com/media-and-resources/news/miax-exchange-members-options-regulatory-fee-2026131/)
+append_entries: 3
+Finish: 2026-01-31 06:48:39.196407
