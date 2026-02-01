@@ -2018,3 +2018,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Indonesia Financial Services Authority (OJK) Confirms Leadership Continuity And Operational Stability](http://www.mondovisione.com/media-and-resources/news/indonesia-financial-services-authority-ojk-confirms-leadership-continuity-and-2026131/)
 append_entries: 1
 Finish: 2026-01-31 22:28:39.962330
+------------------------------------------------------
+Started: 2026-02-01 02:51:37.278965
+Existing_entries: 300
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-02-01 02:51:38.242408
