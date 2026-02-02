@@ -2111,3 +2111,28 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Shanghai Gold Exchange: Notice On Adjusting Margin Rate And Price Limit For Silver Deferred Contract](http://www.mondovisione.com/media-and-resources/news/shanghai-gold-exchange-notice-on-adjusting-margin-rate-and-price-limit-for-silv-202622/)
 append_entries: 1
 Finish: 2026-02-02 08:52:09.417529
+------------------------------------------------------
+Started: 2026-02-02 10:51:50.512598
+Existing_entries: 301
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Dubai Financial Services Authority Fines Reinsurance Broker USD 455,176 For Engaging In Misleading And Deceptive Conduct](http://www.mondovisione.com/media-and-resources/news/the-dubai-financial-services-authority-fines-reinsurance-broker-usd-455176-for-202622/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc ("LSEG") Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transaction-in-own-shares-202622/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Dubai Financial Market Regulated Short Sell – Weekly Summary - : 26th January 2026 To 30th January 2026](http://www.mondovisione.com/media-and-resources/news/dubai-financial-market-regulated-short-sell-weekly-summary-26th-january-20-202622/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Japan Exchange Group: Trading Overview In January 2026](http://www.mondovisione.com/media-and-resources/news/japan-exchange-group-trading-overview-in-january-2026-202622/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tokyo Financial Exchange Trading Volume In Jan 2026](http://www.mondovisione.com/media-and-resources/news/tokyo-financial-exchange-trading-volume-in-jan-2026-202622/)
+Append: [ASIC Updates Information Available Through Purchased Extracts](http://www.mondovisione.com/media-and-resources/news/asic-updates-information-available-through-purchased-extracts-202622/)
+Append: [Tokyo Stock Exchange: ETF Monthly Trading Value Via "CONNEQTOR" Reach Record JPY 500 Billion](http://www.mondovisione.com/media-and-resources/news/tokyo-stock-exchange-etf-monthly-trading-value-via-conneqtor-reach-record-jpy-202622/)
+Append: [ASX Marks 50 Years Of Australia's Options Market](http://www.mondovisione.com/media-and-resources/news/asx-marks-50-years-of-australias-options-market-202622/)
+Append: [Japan Financial Services Agency: The Expert Panel On The Revision Of The Corporate Governance Code](http://www.mondovisione.com/media-and-resources/news/japan-financial-services-agency-the-expert-panel-on-the-revision-of-the-corpora-202622/)
+append_entries: 9
+Finish: 2026-02-02 10:51:51.657825
