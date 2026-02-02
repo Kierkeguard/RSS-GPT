@@ -2172,3 +2172,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Nasdaq Nordic And Baltic Markets Trading Statistics January 2026](http://www.mondovisione.com/media-and-resources/news/nasdaq-nordic-and-baltic-markets-trading-statistics-january-2026-202622/)
 append_entries: 2
 Finish: 2026-02-02 14:47:08.578728
+------------------------------------------------------
+Started: 2026-02-02 16:49:10.889984
+Existing_entries: 320
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Comment On What Bitcoin Is Struggling With In The Short Term - James Butterfill, Head Of Research At CoinShares – Europe’s Largest Digital Asset Manager](http://www.mondovisione.com/media-and-resources/news/comment-on-what-bitcoin-is-struggling-with-in-the-short-term-james-butterfill-202622/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER Grants Regulators More Time To Decide On The Minimum Activation Period Of Frequency Containment Reserves Providers](http://www.mondovisione.com/media-and-resources/news/acer-grants-regulators-more-time-to-decide-on-the-minimum-activation-period-of-f-202622/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc - Total Voting Rights](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-total-voting-rights-202622/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Role Of The UK Financial Conduct Authority And UK Payment Systems Regulator In Delivering The National Payments Vision - Speech By David Geale, Executive Director, Payments And Digital Finance And Payment Systems Regulator (PSR) Managing Director, At The Payments Regulation And Innovation Summit 2026](http://www.mondovisione.com/media-and-resources/news/the-role-of-the-uk-financial-conduct-authority-and-uk-payment-systems-regulator-202622/)
+append_entries: 4
+Finish: 2026-02-02 16:49:11.784418
