@@ -2242,3 +2242,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [London Stock Exchange Group plc ("LSEG") Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transaction-in-own-shares-202623/)
 append_entries: 2
 Finish: 2026-02-03 08:46:21.638442
+------------------------------------------------------
+Started: 2026-02-03 10:48:38.586114
+Existing_entries: 336
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CoinShares Fund Flows: Investor Sentiment Deteriorates As Outflows Accelerate](http://www.mondovisione.com/media-and-resources/news/coinshares-fund-flows-investor-sentiment-deteriorates-as-outflows-accelerate-202623/)
+append_entries: 1
+Finish: 2026-02-03 10:48:39.586825
