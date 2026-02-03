@@ -2284,3 +2284,15 @@ Existing_entries: 342
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-02-03 16:59:45.886058
+------------------------------------------------------
+Started: 2026-02-03 19:01:59.176759
+Existing_entries: 342
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Shanghai Gold Exchange: Notice On Adjusting Margin Ratios And Price Limits For Silver Deferred Contracts](http://www.mondovisione.com/media-and-resources/news/shanghai-gold-exchange-notice-on-adjusting-margin-ratios-and-price-limits-for-s-202623/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Circular Of Shanghai International Energy Exchange On Adjusting The Price Limits And Trading Margin Rates Of Certain Futures Contracts](http://www.mondovisione.com/media-and-resources/news/circular-of-shanghai-international-energy-exchange-on-adjusting-the-price-limits-202623/)
+append_entries: 2
+Finish: 2026-02-03 19:02:00.239938
