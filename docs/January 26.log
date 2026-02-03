@@ -2190,3 +2190,28 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [The Role Of The UK Financial Conduct Authority And UK Payment Systems Regulator In Delivering The National Payments Vision - Speech By David Geale, Executive Director, Payments And Digital Finance And Payment Systems Regulator (PSR) Managing Director, At The Payments Regulation And Innovation Summit 2026](http://www.mondovisione.com/media-and-resources/news/the-role-of-the-uk-financial-conduct-authority-and-uk-payment-systems-regulator-202622/)
 append_entries: 4
 Finish: 2026-02-02 16:49:11.784418
+------------------------------------------------------
+Started: 2026-02-03 02:37:32.322632
+Existing_entries: 324
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC: Texas Resident To Pay Over $14 million For Misappropriation Of Confidential Information, Illegal Kickbacks](http://www.mondovisione.com/media-and-resources/news/cftc-texas-resident-to-pay-over-14-million-for-misappropriation-of-confidentia-202622/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Swaps Report Update](http://www.mondovisione.com/media-and-resources/news/cftc-swaps-report-update-202622/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Designates Xchange Alpha LLC As A Contract Market](http://www.mondovisione.com/media-and-resources/news/cftc-designates-xchange-alpha-llc-as-a-contract-market-202622/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIFMA Fixed Income Market Close Recommendation In The US, The UK And Japan For Presidents Day](http://www.mondovisione.com/media-and-resources/news/sifma-fixed-income-market-close-recommendation-in-the-us-the-uk-and-japan-for-p-202622/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Federal Reserve: Senior Loan Officer Opinion Survey On Bank Lending Practices](http://www.mondovisione.com/media-and-resources/news/federal-reserve-senior-loan-officer-opinion-survey-on-bank-lending-practices-202622/)
+Append: [CFTC Staff Issues Interpretation On Legacy Swap Status](http://www.mondovisione.com/media-and-resources/news/cftc-staff-issues-interpretation-on-legacy-swap-status-202622/)
+Append: [OCC Releases CRA Performance Evaluations For 29 National Banks And Federal Savings Associations](http://www.mondovisione.com/media-and-resources/news/occ-releases-cra-performance-evaluations-for-29-national-banks-and-federal-savin-202622/)
+Append: [Moscow Exchange Trading Volumes In January 2026](http://www.mondovisione.com/media-and-resources/news/moscow-exchange-trading-volumes-in-january-2026-202622/)
+Append: [Statistics From Nasdaq Nordic Exchange January 2026](http://www.mondovisione.com/media-and-resources/news/statistics-from-nasdaq-nordic-exchange-january-2026-202622/)
+append_entries: 9
+Finish: 2026-02-03 02:37:33.312965
