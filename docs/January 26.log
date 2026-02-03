@@ -2278,3 +2278,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CME Group January Volume Sets New Record Of 29.6 Million Contracts, Up 15% Year Over Year](http://www.mondovisione.com/media-and-resources/news/cme-group-january-volume-sets-new-record-of-296-million-contracts-up-15-year-202623/)
 append_entries: 4
 Finish: 2026-02-03 14:50:06.731175
+------------------------------------------------------
+Started: 2026-02-03 16:59:44.612459
+Existing_entries: 342
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-02-03 16:59:45.886058
