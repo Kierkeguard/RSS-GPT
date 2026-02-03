@@ -2251,3 +2251,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CoinShares Fund Flows: Investor Sentiment Deteriorates As Outflows Accelerate](http://www.mondovisione.com/media-and-resources/news/coinshares-fund-flows-investor-sentiment-deteriorates-as-outflows-accelerate-202623/)
 append_entries: 1
 Finish: 2026-02-03 10:48:39.586825
+------------------------------------------------------
+Started: 2026-02-03 13:12:23.107193
+Existing_entries: 337
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Deutsche Börse Trading Volumes In January 2026](http://www.mondovisione.com/media-and-resources/news/deutsche-brse-trading-volumes-in-january-2026-202623/)
+append_entries: 1
+Finish: 2026-02-03 13:12:24.534048
