@@ -2321,3 +2321,15 @@ Append: [UK Regulators Announce First Firms To Join Scale-Up Unit](http://www.mo
 Append: [January Deep Freeze Impacts Small Business Foot Traffic, New Fiserv Data Shows - Fiserv Small Business Index Declined 1 Point To 143; Year-Over-Year Sales Grew +0.7%](http://www.mondovisione.com/media-and-resources/news/january-deep-freeze-impacts-small-business-foot-traffic-new-fiserv-data-shows-202623/)
 append_entries: 9
 Finish: 2026-02-03 20:43:35.826073
+------------------------------------------------------
+Started: 2026-02-03 22:35:10.760135
+Existing_entries: 353
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [OCC January 2026 Monthly Volume](http://www.mondovisione.com/media-and-resources/news/occ-january-2026-monthly-volume-202623/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Korea Investment Management Launches KIM ACE US SMR Nuclear Top 10 ETF, Tracking The Solactive US SMR Nuclear Top 10 Index](http://www.mondovisione.com/media-and-resources/news/korea-investment-management-launches-kim-ace-us-smr-nuclear-top-10-etf-tracking-202623/)
+append_entries: 2
+Finish: 2026-02-03 22:35:11.852199
