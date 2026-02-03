@@ -2260,3 +2260,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Deutsche Börse Trading Volumes In January 2026](http://www.mondovisione.com/media-and-resources/news/deutsche-brse-trading-volumes-in-january-2026-202623/)
 append_entries: 1
 Finish: 2026-02-03 13:12:24.534048
+------------------------------------------------------
+Started: 2026-02-03 14:50:05.785281
+Existing_entries: 338
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ICE Clear Credit’s Treasury Clearing Service Receives SEC Approval And Is Now Operationally Live](http://www.mondovisione.com/media-and-resources/news/ice-clear-credits-treasury-clearing-service-receives-sec-approval-and-is-now-op-202623/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Trading Technologies Promotes Reena Raichura To SVP And Chief Product Officer](http://www.mondovisione.com/media-and-resources/news/trading-technologies-promotes-reena-raichura-to-svp-and-chief-product-officer-202623/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ICE Announces Strongest Trading Month In Its History](http://www.mondovisione.com/media-and-resources/news/ice-announces-strongest-trading-month-in-its-history-202623/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group January Volume Sets New Record Of 29.6 Million Contracts, Up 15% Year Over Year](http://www.mondovisione.com/media-and-resources/news/cme-group-january-volume-sets-new-record-of-296-million-contracts-up-15-year-202623/)
+append_entries: 4
+Finish: 2026-02-03 14:50:06.731175
