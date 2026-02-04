@@ -2357,3 +2357,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ASIC Urges Super Trustees To Step Up And Address Serious Gaps In Anti-Scam And Fraud Protections](http://www.mondovisione.com/media-and-resources/news/asic-urges-super-trustees-to-step-up-and-address-serious-gaps-in-anti-scam-and-f-202624/)
 append_entries: 2
 Finish: 2026-02-04 06:59:55.560351
+------------------------------------------------------
+Started: 2026-02-04 08:51:35.905678
+Existing_entries: 357
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc ("LSEG") Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transaction-in-own-shares-202624/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Zealand Financial Markets Authority Issues Market Cleanliness Report](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-issues-market-cleanliness-report-202624/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NZX Shareholder Metrics - January 2026](http://www.mondovisione.com/media-and-resources/news/nzx-shareholder-metrics-january-2026-202624/)
+append_entries: 3
+Finish: 2026-02-04 08:51:36.742519
