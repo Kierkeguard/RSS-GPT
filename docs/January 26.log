@@ -2459,3 +2459,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Keynote Address At AFME’s Annual Financial Services Policy Dinner, Paul S. Atkins, SEC Chairman, Brussels, Belgium (Delivered Virtually), Feb. 4, 2026](http://www.mondovisione.com/media-and-resources/news/keynote-address-at-afmes-annual-financial-services-policy-dinner-paul-s-atkin-202624/)
 append_entries: 2
 Finish: 2026-02-04 20:40:06.884746
+------------------------------------------------------
+Started: 2026-02-04 22:34:53.393527
+Existing_entries: 377
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Federal Reserve Board Finalizes Hypothetical Scenarios For Its Annual Stress Test And Votes To Maintain The Current Stress Test-Related Capital Requirements Until Public Feedback Can Be Considered](http://www.mondovisione.com/media-and-resources/news/federal-reserve-board-finalizes-hypothetical-scenarios-for-its-annual-stress-tes-202624/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cboe Global Markets Reports Trading Volume For January 2026](http://www.mondovisione.com/media-and-resources/news/cboe-global-markets-reports-trading-volume-for-january-2026-202624/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Reports January 2026 Volumes](http://www.mondovisione.com/media-and-resources/news/nasdaq-reports-january-2026-volumes-202624/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NGX Group, Nigeria SEC, Nigeria Police Force Collaborate On Capital Market Integrity](http://www.mondovisione.com/media-and-resources/news/ngx-group-nigeria-sec-nigeria-police-force-collaborate-on-capital-market-integ-202624/)
+append_entries: 4
+Finish: 2026-02-04 22:34:54.423176
