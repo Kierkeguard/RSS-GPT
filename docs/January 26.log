@@ -2345,3 +2345,15 @@ Existing_entries: 355
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-02-04 05:11:24.421333
+------------------------------------------------------
+Started: 2026-02-04 06:59:54.434055
+Existing_entries: 355
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASX Announces Collaboration With Bloomberg Indices To Launch ASX-Bloomberg AusBond Index Futures](http://www.mondovisione.com/media-and-resources/news/asx-announces-collaboration-with-bloomberg-indices-to-launch-asx-bloomberg-ausbo-202624/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Urges Super Trustees To Step Up And Address Serious Gaps In Anti-Scam And Fraud Protections](http://www.mondovisione.com/media-and-resources/news/asic-urges-super-trustees-to-step-up-and-address-serious-gaps-in-anti-scam-and-f-202624/)
+append_entries: 2
+Finish: 2026-02-04 06:59:55.560351
