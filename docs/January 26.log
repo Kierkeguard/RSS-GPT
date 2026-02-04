@@ -2384,3 +2384,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [New SIX White Paper: Swiss Versus US Listings](http://www.mondovisione.com/media-and-resources/news/new-six-white-paper-swiss-versus-us-listings-202624/)
 append_entries: 2
 Finish: 2026-02-04 10:45:09.657710
+------------------------------------------------------
+Started: 2026-02-04 13:11:33.371108
+Existing_entries: 362
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group Inc. Reports Fourth Consecutive Year Of Record Annual Revenue, Adjusted Operating Income, Adjusted Net Income And Adjusted Earnings Per Share For 2025](http://www.mondovisione.com/media-and-resources/news/cme-group-inc-reports-fourth-consecutive-year-of-record-annual-revenue-adjuste-202624/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority And UK Solicitors Regulation Authority Issue Joint Warning To Firms Representing Motor Finance Commission Claims](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-and-uk-solicitors-regulation-authority-issue-join-202624/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CCP Global Publishes Its Winter 2026 Newsletter](http://www.mondovisione.com/media-and-resources/news/ccp-global-publishes-its-winter-2026-newsletter-202624/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FSB Warns Of Financial Stability Challenges In Repo Markets](http://www.mondovisione.com/media-and-resources/news/fsb-warns-of-financial-stability-challenges-in-repo-markets-202624/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Decision By The Nasdaq Stockholm Disciplinary Committee Regarding Arctic Paper S.A.](http://www.mondovisione.com/media-and-resources/news/decision-by-the-nasdaq-stockholm-disciplinary-committee-regarding-arctic-paper-s-202624/)
+append_entries: 5
+Finish: 2026-02-04 13:11:35.294880
