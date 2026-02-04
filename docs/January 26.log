@@ -2333,3 +2333,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Korea Investment Management Launches KIM ACE US SMR Nuclear Top 10 ETF, Tracking The Solactive US SMR Nuclear Top 10 Index](http://www.mondovisione.com/media-and-resources/news/korea-investment-management-launches-kim-ace-us-smr-nuclear-top-10-etf-tracking-202623/)
 append_entries: 2
 Finish: 2026-02-03 22:35:11.852199
+------------------------------------------------------
+Started: 2026-02-04 02:31:56.951930
+Existing_entries: 355
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-02-04 02:31:58.282157
