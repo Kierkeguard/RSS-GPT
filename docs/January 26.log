@@ -2447,3 +2447,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Borsa Istanbul: BIST Buyback Index Periodic Review](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-bist-buyback-index-periodic-review-202624/)
 append_entries: 3
 Finish: 2026-02-04 18:57:37.745491
+------------------------------------------------------
+Started: 2026-02-04 20:40:05.662865
+Existing_entries: 375
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Withdraws Event Contracts Rule Proposal And Staff Sports Event Contracts Advisory](http://www.mondovisione.com/media-and-resources/news/cftc-withdraws-event-contracts-rule-proposal-and-staff-sports-event-contracts-ad-202624/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Keynote Address At AFME’s Annual Financial Services Policy Dinner, Paul S. Atkins, SEC Chairman, Brussels, Belgium (Delivered Virtually), Feb. 4, 2026](http://www.mondovisione.com/media-and-resources/news/keynote-address-at-afmes-annual-financial-services-policy-dinner-paul-s-atkin-202624/)
+append_entries: 2
+Finish: 2026-02-04 20:40:06.884746
