@@ -2432,3 +2432,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [U.S. Department Of The Treasury: Quarterly Refunding Statement Of Deputy Assistant Secretary For Federal Finance Brian Smith](http://www.mondovisione.com/media-and-resources/news/us-department-of-the-treasury-quarterly-refunding-statement-of-deputy-assista-202624/)
 append_entries: 1
 Finish: 2026-02-04 16:56:28.967661
+------------------------------------------------------
+Started: 2026-02-04 18:57:36.294585
+Existing_entries: 372
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bank Of England: Results Of The Foreign Exchange Joint Standing Committee (FXJSC) Turnover Survey For October 2025](http://www.mondovisione.com/media-and-resources/news/bank-of-england-results-of-the-foreign-exchange-joint-standing-committee-fxjsc-202624/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LME: Membership Resignation R J O'Brien Limited](http://www.mondovisione.com/media-and-resources/news/lme-membership-resignation-r-j-obrien-limited-202624/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Borsa Istanbul: BIST Buyback Index Periodic Review](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-bist-buyback-index-periodic-review-202624/)
+append_entries: 3
+Finish: 2026-02-04 18:57:37.745491
