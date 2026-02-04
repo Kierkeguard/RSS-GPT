@@ -2423,3 +2423,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Intercontinental Exchange Reports January Statistics](http://www.mondovisione.com/media-and-resources/news/intercontinental-exchange-reports-january-statistics-202624/)
 append_entries: 4
 Finish: 2026-02-04 14:45:11.785971
+------------------------------------------------------
+Started: 2026-02-04 16:56:27.718118
+Existing_entries: 371
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [U.S. Department Of The Treasury: Quarterly Refunding Statement Of Deputy Assistant Secretary For Federal Finance Brian Smith](http://www.mondovisione.com/media-and-resources/news/us-department-of-the-treasury-quarterly-refunding-statement-of-deputy-assista-202624/)
+append_entries: 1
+Finish: 2026-02-04 16:56:28.967661
