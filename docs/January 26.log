@@ -2610,3 +2610,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SEC Publishes Data On Exchange Traded Funds And Fund Mergers - Updated Statistics On Municipal Advisors, Transfer Agents, And Security-Based Swap Dealers](http://www.mondovisione.com/media-and-resources/news/sec-publishes-data-on-exchange-traded-funds-and-fund-mergers-updated-statistic-202625/)
 append_entries: 1
 Finish: 2026-02-05 20:39:48.682007
+------------------------------------------------------
+Started: 2026-02-05 22:34:05.214886
+Existing_entries: 406
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq 2026 Investor Day](http://www.mondovisione.com/media-and-resources/news/nasdaq-2026-investor-day-202625/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Financial Data For Futures Commission Merchants Update](http://www.mondovisione.com/media-and-resources/news/cftc-financial-data-for-futures-commission-merchants-update-202625/)
+append_entries: 2
+Finish: 2026-02-05 22:34:06.333052
