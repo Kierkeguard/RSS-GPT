@@ -2559,3 +2559,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Nasdaq Dubai Welcomes The Arab Energy Fund’s USD 500 Million Sukuk Listing](http://www.mondovisione.com/media-and-resources/news/nasdaq-dubai-welcomes-the-arab-energy-funds-usd-500-million-sukuk-listing-202625/)
 append_entries: 5
 Finish: 2026-02-05 13:13:37.429491
+------------------------------------------------------
+Started: 2026-02-05 14:49:24.710450
+Existing_entries: 397
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LME Insight Launch Paves Way For Establishment Of Sustainable Metal Premium Pricing](http://www.mondovisione.com/media-and-resources/news/lme-insight-launch-paves-way-for-establishment-of-sustainable-metal-premium-pric-202625/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Intercontinental Exchange Announces 8% Increase To Its Quarterly Dividend](http://www.mondovisione.com/media-and-resources/news/intercontinental-exchange-announces-8-increase-to-its-quarterly-dividend-202625/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Intercontinental Exchange Reports Strong Full Year 2025 Results - 20th Consecutive Year Of Record Revenues](http://www.mondovisione.com/media-and-resources/news/intercontinental-exchange-reports-strong-full-year-2025-results-20th-consecuti-202625/)
+append_entries: 3
+Finish: 2026-02-05 14:49:27.036253
