@@ -2601,3 +2601,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Press Conference: Christine Lagarde, President Of The ECB, Luis De Guindos, Vice-President Of The ECB](http://www.mondovisione.com/media-and-resources/news/press-conference-christine-lagarde-president-of-the-ecb-luis-de-guindos-vice-202625/)
 append_entries: 1
 Finish: 2026-02-05 18:56:50.316120
+------------------------------------------------------
+Started: 2026-02-05 20:39:46.712401
+Existing_entries: 405
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Publishes Data On Exchange Traded Funds And Fund Mergers - Updated Statistics On Municipal Advisors, Transfer Agents, And Security-Based Swap Dealers](http://www.mondovisione.com/media-and-resources/news/sec-publishes-data-on-exchange-traded-funds-and-fund-mergers-updated-statistic-202625/)
+append_entries: 1
+Finish: 2026-02-05 20:39:48.682007
