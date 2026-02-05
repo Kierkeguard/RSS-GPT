@@ -2507,3 +2507,25 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Nadex: OG.com Or OG Is A New Brand Associated With The Exchange’s Prediction Market Offering Of Derivatives](http://www.mondovisione.com/media-and-resources/news/nadex-ogcom-or-og-is-a-new-brand-associated-with-the-exchanges-prediction-mar-202625/)
 append_entries: 4
 Finish: 2026-02-05 07:05:52.987637
+------------------------------------------------------
+Started: 2026-02-05 08:52:46.052039
+Existing_entries: 385
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Scope Prime Expands Institutional Offering With Futures & Options - On-Exchange Trading Enhances Hedging And Pricing](http://www.mondovisione.com/media-and-resources/news/scope-prime-expands-institutional-offering-with-futures-and-options-on-exchange-202625/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc ("LSEG") Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transaction-in-own-shares-202625/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SET Market Report For January 2026](http://www.mondovisione.com/media-and-resources/news/set-market-report-for-january-2026-202625/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Japan Electric Power Exchange: Spot And Futures Trading Service “JJ-Link” Enters Phase 2](http://www.mondovisione.com/media-and-resources/news/japan-electric-power-exchange-spot-and-futures-trading-service-jj-link-enters-202625/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Economic Outlook: Federal Reserve Governor Lisa D. Cook, At The Economic Club Of Miami, Miami, Florida](http://www.mondovisione.com/media-and-resources/news/economic-outlook-federal-reserve-governor-lisa-d-cook-at-the-economic-club-of-202625/)
+Append: [MIAX Exchange Group - Options Markets - Change To The Penny Interval Program For February 5, 2026](http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-options-markets-change-to-the-penny-interval-program-for-202625/)
+append_entries: 6
+Finish: 2026-02-05 08:52:47.022632
