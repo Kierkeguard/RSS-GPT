@@ -2592,3 +2592,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [January 2026 Figures At Eurex](http://www.mondovisione.com/media-and-resources/news/january-2026-figures-at-eurex-202625/)
 append_entries: 4
 Finish: 2026-02-05 16:56:28.006661
+------------------------------------------------------
+Started: 2026-02-05 18:56:48.488108
+Existing_entries: 404
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Press Conference: Christine Lagarde, President Of The ECB, Luis De Guindos, Vice-President Of The ECB](http://www.mondovisione.com/media-and-resources/news/press-conference-christine-lagarde-president-of-the-ecb-luis-de-guindos-vice-202625/)
+append_entries: 1
+Finish: 2026-02-05 18:56:50.316120
