@@ -2529,3 +2529,12 @@ Append: [Economic Outlook: Federal Reserve Governor Lisa D. Cook, At The Economi
 Append: [MIAX Exchange Group - Options Markets - Change To The Penny Interval Program For February 5, 2026](http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-options-markets-change-to-the-penny-interval-program-for-202625/)
 append_entries: 6
 Finish: 2026-02-05 08:52:47.022632
+------------------------------------------------------
+Started: 2026-02-05 10:49:04.291963
+Existing_entries: 391
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Transcorp, DMO, CardinalStone, Chapel Hill Denham, Among Winners At NGX Made Of Africa Awards](http://www.mondovisione.com/media-and-resources/news/transcorp-dmo-cardinalstone-chapel-hill-denham-among-winners-at-ngx-made-of-202625/)
+append_entries: 1
+Finish: 2026-02-05 10:49:05.731255
