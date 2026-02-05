@@ -2538,3 +2538,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Transcorp, DMO, CardinalStone, Chapel Hill Denham, Among Winners At NGX Made Of Africa Awards](http://www.mondovisione.com/media-and-resources/news/transcorp-dmo-cardinalstone-chapel-hill-denham-among-winners-at-ngx-made-of-202625/)
 append_entries: 1
 Finish: 2026-02-05 10:49:05.731255
+------------------------------------------------------
+Started: 2026-02-05 13:13:35.219034
+Existing_entries: 392
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tradeweb Reports Record January 2026 Total Trading Volume Of $65.5 Trillion And Record Average Daily Volume Of $3.1 Trillion - January 2026 ADV Up 26.2% YoY](http://www.mondovisione.com/media-and-resources/news/tradeweb-reports-record-january-2026-total-trading-volume-of-655-trillion-and-202625/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CERC Live With Real-Time, Cloud-Based, Multi-Asset Clearing System Powered By VeriClear® From Vermiculus  - Transforming How Receivables Are Cleared And Settled In Brazil](http://www.mondovisione.com/media-and-resources/news/cerc-live-with-real-time-cloud-based-multi-asset-clearing-system-powered-by-ve-202625/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bank Of England: Bank Rate Maintained At 3.75% - February 2026 Monetary Policy Summary And Minutes](http://www.mondovisione.com/media-and-resources/news/bank-of-england-bank-rate-maintained-at-375-february-2026-monetary-policy-s-202625/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MarketAxess Announces Trading Volume Statistics For January 2026](http://www.mondovisione.com/media-and-resources/news/marketaxess-announces-trading-volume-statistics-for-january-2026-202625/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Dubai Welcomes The Arab Energy Fund’s USD 500 Million Sukuk Listing](http://www.mondovisione.com/media-and-resources/news/nasdaq-dubai-welcomes-the-arab-energy-funds-usd-500-million-sukuk-listing-202625/)
+append_entries: 5
+Finish: 2026-02-05 13:13:37.429491
