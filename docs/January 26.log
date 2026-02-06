@@ -2649,3 +2649,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [TMX Group Limited Reports Results For The Fourth Quarter Of 2025](http://www.mondovisione.com/media-and-resources/news/tmx-group-limited-reports-results-for-the-fourth-quarter-of-2025-202626/)
 append_entries: 3
 Finish: 2026-02-06 07:01:37.870980
+------------------------------------------------------
+Started: 2026-02-06 08:51:49.352531
+Existing_entries: 411
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Joint Readout Of The First UK-China Financial Working Group](http://www.mondovisione.com/media-and-resources/news/joint-readout-of-the-first-uk-china-financial-working-group-202626/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc ("LSEG") Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transaction-in-own-shares-202626/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Dubai Financial Services Authority Fines Ark Capital Management (Dubai) Limited USD 504,000 For Market Abuse Systems And Change Of Control Reporting Failings](http://www.mondovisione.com/media-and-resources/news/the-dubai-financial-services-authority-fines-ark-capital-management-dubai-limi-202626/)
+append_entries: 3
+Finish: 2026-02-06 08:51:50.289220
