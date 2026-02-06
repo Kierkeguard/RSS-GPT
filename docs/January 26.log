@@ -2758,3 +2758,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Nodal Exchange Achieves Strong Performance In Power And Environmental Markets In January 2026](http://www.mondovisione.com/media-and-resources/news/nodal-exchange-achieves-strong-performance-in-power-and-environmental-markets-in-202626/)
 append_entries: 4
 Finish: 2026-02-06 20:39:29.567636
+------------------------------------------------------
+Started: 2026-02-06 22:30:56.833285
+Existing_entries: 436
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Staff Reissues Letter 25-40 Updating Payment Stablecoin Definition](http://www.mondovisione.com/media-and-resources/news/cftc-staff-reissues-letter-25-40-updating-payment-stablecoin-definition-202626/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CCP Global Submits A Response To CPMI-IOSCO's Consultative Report "FMIs’ Management Of GBRs And GBLs: Further Guidance To The PFMI"](http://www.mondovisione.com/media-and-resources/news/ccp-global-submits-a-response-to-cpmi-ioscos-consultative-report-fmis-managem-202626/)
+append_entries: 2
+Finish: 2026-02-06 22:30:58.017040
