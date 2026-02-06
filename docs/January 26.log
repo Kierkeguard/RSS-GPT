@@ -2740,3 +2740,21 @@ Append: [Update On Changes To Country Groupings For International Banking Statis
 Append: [Malawi Stock Exchange Monthly Market Performance Report - January 2026](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-monthly-market-performance-report-january-2026-202626/)
 append_entries: 8
 Finish: 2026-02-06 18:58:21.512089
+------------------------------------------------------
+Started: 2026-02-06 20:39:27.972065
+Existing_entries: 432
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Commitments Of Traders Reports Update](http://www.mondovisione.com/media-and-resources/news/cftc-commitments-of-traders-reports-update-202626/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Remarks At The 2026 Joint Compliance Outreach Program For Municipal Market Participants, Dave A. Sanchez, Director, SEC Office Of Municipal Securities, Washington D.C., Feb. 6, 2026](http://www.mondovisione.com/media-and-resources/news/remarks-at-the-2026-joint-compliance-outreach-program-for-municipal-market-parti-202626/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ETFGI: Strong And Consistent Demand By Korean Retail Investors Throughout 2025 For Overseas Listed ETFs](http://www.mondovisione.com/media-and-resources/news/etfgi-strong-and-consistent-demand-by-korean-retail-investors-throughout-2025-f-202626/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nodal Exchange Achieves Strong Performance In Power And Environmental Markets In January 2026](http://www.mondovisione.com/media-and-resources/news/nodal-exchange-achieves-strong-performance-in-power-and-environmental-markets-in-202626/)
+append_entries: 4
+Finish: 2026-02-06 20:39:29.567636
