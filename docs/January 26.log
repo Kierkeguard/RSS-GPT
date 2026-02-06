@@ -2682,3 +2682,25 @@ Existing_entries: 416
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-02-06 13:11:31.192087
+------------------------------------------------------
+Started: 2026-02-06 14:43:27.561705
+Existing_entries: 416
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Global Participants Hedge Oil Risk At Record Levels Across ICE’s Canadian Crude And Midland WTI (HOU) Markets Through January 2026](http://www.mondovisione.com/media-and-resources/news/global-participants-hedge-oil-risk-at-record-levels-across-ices-canadian-crude-202626/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CQG Enters Into Agreement For Acquisition By Broadridge - Combination To Create End-To-End Trading Suite For Global Futures And Options Markets](http://www.mondovisione.com/media-and-resources/news/cqg-enters-into-agreement-for-acquisition-by-broadridge-combination-to-create-202626/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cboe Global Markets Reports Results For Fourth Quarter 2025 And Full Year](http://www.mondovisione.com/media-and-resources/news/cboe-global-markets-reports-results-for-fourth-quarter-2025-and-full-year-202626/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Broadridge To Acquire CQG, Expanding Global Futures And Options Trading Capabilities - Acquisition Will Strengthen Broadridge’s Execution Management Offering And Advance Its Mission To Deliver Highly Connected, Multi-Asset Trading Solutions Worldwide](http://www.mondovisione.com/media-and-resources/news/broadridge-to-acquire-cqg-expanding-global-futures-and-options-trading-capabili-202626/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Miami International Holdings Reports Trading Results For January 2026 - MIAX Exchange Group Reports 25.1% Year-Over-Year Increase In Multi-List Options ADV](http://www.mondovisione.com/media-and-resources/news/miami-international-holdings-reports-trading-results-for-january-2026-miax-exc-202626/)
+Append: [MarketAxess Reports Fourth Quarter And Full Year 2025 Financial Results](http://www.mondovisione.com/media-and-resources/news/marketaxess-reports-fourth-quarter-and-full-year-2025-financial-results-202626/)
+append_entries: 6
+Finish: 2026-02-06 14:43:31.333847
