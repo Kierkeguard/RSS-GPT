@@ -2704,3 +2704,15 @@ Append: [Miami International Holdings Reports Trading Results For January 2026 -
 Append: [MarketAxess Reports Fourth Quarter And Full Year 2025 Financial Results](http://www.mondovisione.com/media-and-resources/news/marketaxess-reports-fourth-quarter-and-full-year-2025-financial-results-202626/)
 append_entries: 6
 Finish: 2026-02-06 14:43:31.333847
+------------------------------------------------------
+Started: 2026-02-06 16:53:44.272280
+Existing_entries: 422
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [EACH Highlights CCP Practices And Priorities In Response To CPMI-IOSCO General Business Risks And Losses Consultation](http://www.mondovisione.com/media-and-resources/news/each-highlights-ccp-practices-and-priorities-in-response-to-cpmi-iosco-general-b-202626/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Treasury Issues Request for Information on CFIUS Known Investor Program and Streamlining the Foreign Investment Review Process](http://www.mondovisione.com/media-and-resources/news/treasury-issues-request-for-information-on-cfius-known-investor-program-and-stre-202626/)
+append_entries: 2
+Finish: 2026-02-06 16:53:46.772526
