@@ -2716,3 +2716,27 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Treasury Issues Request for Information on CFIUS Known Investor Program and Streamlining the Foreign Investment Review Process](http://www.mondovisione.com/media-and-resources/news/treasury-issues-request-for-information-on-cfius-known-investor-program-and-stre-202626/)
 append_entries: 2
 Finish: 2026-02-06 16:53:46.772526
+------------------------------------------------------
+Started: 2026-02-06 18:58:19.942523
+Existing_entries: 424
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TMX Group Consolidated Trading Statistics – January 2026](http://www.mondovisione.com/media-and-resources/news/tmx-group-consolidated-trading-statistics-january-2026-202626/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Economic Outlook And Supply-Side (Dis)Inflation Dynamics, Federal Reserve Vice Chair Philip N. Jefferson, At The Brookings Institution, Washington, D.C.](http://www.mondovisione.com/media-and-resources/news/economic-outlook-and-supply-side-disinflation-dynamics-federal-reserve-vice-c-202626/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euronext Announces Volumes For January 2026](http://www.mondovisione.com/media-and-resources/news/euronext-announces-volumes-for-january-2026-202626/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nigerian Exchange Weekly Market Report For The Week Ended 6 February 2026](http://www.mondovisione.com/media-and-resources/news/nigerian-exchange-weekly-market-report-for-the-week-ended-6-february-2026-202626/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority: Independent Assessment To Support Establishment Of A Future Entity](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-independent-assessment-to-support-establishment-202626/)
+Append: [EEX Group Monthly Volumes – January 2026](http://www.mondovisione.com/media-and-resources/news/eex-group-monthly-volumes-january-2026-202626/)
+Append: [Update On Changes To Country Groupings For International Banking Statistics](http://www.mondovisione.com/media-and-resources/news/update-on-changes-to-country-groupings-for-international-banking-statistics-202626/)
+Append: [Malawi Stock Exchange Monthly Market Performance Report - January 2026](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-monthly-market-performance-report-january-2026-202626/)
+append_entries: 8
+Finish: 2026-02-06 18:58:21.512089
