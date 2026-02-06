@@ -2634,3 +2634,18 @@ Existing_entries: 408
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-02-06 05:17:26.577157
+------------------------------------------------------
+Started: 2026-02-06 07:01:37.125199
+Existing_entries: 408
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TMX Group Limited Increases Dividend By 9% To $0.24 Per Common Share](http://www.mondovisione.com/media-and-resources/news/tmx-group-limited-increases-dividend-by-9-to-024-per-common-share-202626/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Trading Book Capital: Capital Conundrum, Navigating Basel III Endgame - Welcoming Remarks, Scott O’Malia, ISDA Chief Executive](http://www.mondovisione.com/media-and-resources/news/trading-book-capital-capital-conundrum-navigating-basel-iii-endgame-welcomin-202626/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TMX Group Limited Reports Results For The Fourth Quarter Of 2025](http://www.mondovisione.com/media-and-resources/news/tmx-group-limited-reports-results-for-the-fourth-quarter-of-2025-202626/)
+append_entries: 3
+Finish: 2026-02-06 07:01:37.870980
