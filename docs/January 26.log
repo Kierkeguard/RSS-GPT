@@ -2664,3 +2664,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [The Dubai Financial Services Authority Fines Ark Capital Management (Dubai) Limited USD 504,000 For Market Abuse Systems And Change Of Control Reporting Failings](http://www.mondovisione.com/media-and-resources/news/the-dubai-financial-services-authority-fines-ark-capital-management-dubai-limi-202626/)
 append_entries: 3
 Finish: 2026-02-06 08:51:50.289220
+------------------------------------------------------
+Started: 2026-02-06 10:47:15.370081
+Existing_entries: 414
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Association Of National Numbering Agencies (ANNA) Wins ‘Best Network, Standards Or Infrastructure Partner Of The Year’ At The International Awards For Trade, Treasury And Payments 2026](http://www.mondovisione.com/media-and-resources/news/the-association-of-national-numbering-agencies-anna-wins-best-network-standa-202626/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The WFE Outlines Key Policy Considerations For Developing Effective Taxonomies](http://www.mondovisione.com/media-and-resources/news/the-wfe-outlines-key-policy-considerations-for-developing-effective-taxonomies-202626/)
+append_entries: 2
+Finish: 2026-02-06 10:47:16.684344
