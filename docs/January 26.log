@@ -2770,3 +2770,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CCP Global Submits A Response To CPMI-IOSCO's Consultative Report "FMIs’ Management Of GBRs And GBLs: Further Guidance To The PFMI"](http://www.mondovisione.com/media-and-resources/news/ccp-global-submits-a-response-to-cpmi-ioscos-consultative-report-fmis-managem-202626/)
 append_entries: 2
 Finish: 2026-02-06 22:30:58.017040
+------------------------------------------------------
+Started: 2026-02-07 02:29:38.251935
+Existing_entries: 438
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-02-07 02:29:39.634452
