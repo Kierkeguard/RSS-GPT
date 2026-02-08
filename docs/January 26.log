@@ -2875,3 +2875,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Tehran Securities Exchange Bulletin - January 2026](http://www.mondovisione.com/media-and-resources/news/tehran-securities-exchange-bulletin-january-2026-202628/)
 append_entries: 1
 Finish: 2026-02-08 13:01:15.137048
+------------------------------------------------------
+Started: 2026-02-08 14:33:42.252132
+Existing_entries: 439
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bank Mellat At Tehran Securities Exchange Bell-Ringing Ceremony](http://www.mondovisione.com/media-and-resources/news/bank-mellat-at-tehran-securities-exchange-bell-ringing-ceremony-202628/)
+append_entries: 1
+Finish: 2026-02-08 14:33:43.579584
