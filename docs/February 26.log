@@ -51,3 +51,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Qatar Stock Exchange Announces An Official Holiday On The Occasion Of National Sports Day](http://www.mondovisione.com/media-and-resources/news/qatar-stock-exchange-announces-an-official-holiday-on-the-occasion-of-national-s-202629/)
 append_entries: 5
 Finish: 2026-02-09 19:23:05.867221
+------------------------------------------------------
+Started: 2026-02-09 20:48:33.159332
+Existing_entries: 15
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Swaps Report Update](http://www.mondovisione.com/media-and-resources/news/cftc-swaps-report-update-202629/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Remarks At The Asset Management Derivatives Forum 2026: Treasuries And Tokenization, SEC Commissioner Mark T. Uyeda, Austin, Texas, Feb. 9, 2026](http://www.mondovisione.com/media-and-resources/news/remarks-at-the-asset-management-derivatives-forum-2026-treasuries-and-tokenizat-202629/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Statement By Pablo Hernández de Cos, BIS General Manager, On François Villeroy De Galhau](http://www.mondovisione.com/media-and-resources/news/statement-by-pablo-hernndez-de-cos-bis-general-manager-on-franois-villeroy-d-202629/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Exchange Group - Options And Equities - Holiday Schedule - Presidents Day 2026](http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-options-and-equities-holiday-schedule-presidents-day-2-202629/)
+append_entries: 4
+Finish: 2026-02-09 20:48:34.515768
