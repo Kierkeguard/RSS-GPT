@@ -30,3 +30,24 @@ Existing_entries: 10
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-02-09 14:56:46.617868
+------------------------------------------------------
+Started: 2026-02-09 19:23:04.561769
+Existing_entries: 10
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The EBA Launches Consultation On Simplifying The Credit Risk Framework](http://www.mondovisione.com/media-and-resources/news/the-eba-launches-consultation-on-simplifying-the-credit-risk-framework-202629/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Targets Relationship Investment Scams With National And International Initiatives This Valentine’s Week](http://www.mondovisione.com/media-and-resources/news/cftc-targets-relationship-investment-scams-with-national-and-international-initi-202629/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euronext Enhances Institutional Access To Digital Assets With New Crypto ETP Segment For Professional Investors On ETFplus](http://www.mondovisione.com/media-and-resources/news/euronext-enhances-institutional-access-to-digital-assets-with-new-crypto-etp-seg-202629/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Volumes And Open Interest Rapidly Increasing On The EEX Nordic Power Derivatives Market](http://www.mondovisione.com/media-and-resources/news/volumes-and-open-interest-rapidly-increasing-on-the-eex-nordic-power-derivatives-202629/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Qatar Stock Exchange Announces An Official Holiday On The Occasion Of National Sports Day](http://www.mondovisione.com/media-and-resources/news/qatar-stock-exchange-announces-an-official-holiday-on-the-occasion-of-national-s-202629/)
+append_entries: 5
+Finish: 2026-02-09 19:23:05.867221
