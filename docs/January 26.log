@@ -2923,3 +2923,21 @@ Existing_entries: 441
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-02-09 05:39:40.107691
+------------------------------------------------------
+Started: 2026-02-09 07:11:35.146135
+Existing_entries: 441
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Japanese Stocks Hit Record Highs Following Election Landslide](http://www.mondovisione.com/media-and-resources/news/japanese-stocks-hit-record-highs-following-election-landslide-202629/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Action Sees FIIG Securities Ordered To Pay $2.5 Million Over Cyber Security Failures](http://www.mondovisione.com/media-and-resources/news/asic-action-sees-fiig-securities-ordered-to-pay-25-million-over-cyber-security-202629/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Zealand Financial Markets Authority: FMG Admits To Making Misleading Statements And Makes Payment Of $2.1 Million](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-fmg-admits-to-making-misleading-stateme-202629/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ICE Launches FTSE® South Korea RIC Capped Index Futures](http://www.mondovisione.com/media-and-resources/news/ice-launches-ftse-south-korea-ric-capped-index-futures-202629/)
+append_entries: 4
+Finish: 2026-02-09 07:11:36.014712
