@@ -2911,3 +2911,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [New Zealand Financial Markets Authority: High Risk Scam Targeting Communities In Tonga And In New Zealand](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-high-risk-scam-targeting-communities-in-202628/)
 append_entries: 1
 Finish: 2026-02-08 22:33:01.374944
+------------------------------------------------------
+Started: 2026-02-09 02:41:53.307250
+Existing_entries: 441
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-02-09 02:41:54.529872
