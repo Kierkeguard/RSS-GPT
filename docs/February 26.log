@@ -78,3 +78,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [EACH’s Women In Clearing Series – Getting Inspired By María José Gómez Yubero, Head Of Resolution At CNMV](http://www.mondovisione.com/media-and-resources/news/eachs-women-in-clearing-series-getting-inspired-by-mara-jos-gmez-yubero-h-202629/)
 append_entries: 1
 Finish: 2026-02-09 22:41:59.508650
+------------------------------------------------------
+Started: 2026-02-10 02:50:34.490377
+Existing_entries: 20
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-02-10 02:50:35.497877
