@@ -90,3 +90,18 @@ Existing_entries: 20
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-02-10 05:39:31.288923
+------------------------------------------------------
+Started: 2026-02-10 07:12:25.571864
+Existing_entries: 20
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Dubai Welcomes Al Masraf’s USD 500 Million Debut Bond Following Strong Investor Demand](http://www.mondovisione.com/media-and-resources/news/nasdaq-dubai-welcomes-al-masrafs-usd-500-million-debut-bond-following-strong-in-2026210/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SGX Group Kicks Off 2026 With New Highs In January Performance](http://www.mondovisione.com/media-and-resources/news/sgx-group-kicks-off-2026-with-new-highs-in-january-performance-2026210/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Press Conference By KATAYAMA Satsuki, Japan Minister Of Finance And Minister Of State For Financial Services - Prudential Life Insurance Company](http://www.mondovisione.com/media-and-resources/news/press-conference-y-katayama-satsuki-japan-minister-of-finance-and-minister-of-s-2026210/)
+append_entries: 3
+Finish: 2026-02-10 07:12:26.728575
