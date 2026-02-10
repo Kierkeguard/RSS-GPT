@@ -126,3 +126,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [MENA Fintech Association Welcomes Paymentology As A Member To Support The Growth Of Digital Payments And Fintech Innovation Across The Region](http://www.mondovisione.com/media-and-resources/news/mena-fintech-association-welcomes-paymentology-as-a-member-to-support-the-growth-2026210/)
 append_entries: 5
 Finish: 2026-02-10 09:02:19.985242
+------------------------------------------------------
+Started: 2026-02-10 10:57:42.085315
+Existing_entries: 28
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Financial Markets Tribunal Upholds The Dubai Financial Services Authority’s Decision To Impose A Fine On Al Ramz Capital LLC Of USD 25,000 For Failing To Immediately Report Suspicious Transactions On NASDAQ Dubai](http://www.mondovisione.com/media-and-resources/news/financial-markets-tribunal-upholds-the-dubai-financial-services-authoritys-deci-2026210/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Taiwan Futures Exchange Newsletter - February 2026](http://www.mondovisione.com/media-and-resources/news/taiwan-futures-exchange-newsletter-february-2026-2026210/)
+append_entries: 2
+Finish: 2026-02-10 10:57:43.049352
