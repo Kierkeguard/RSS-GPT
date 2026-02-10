@@ -105,3 +105,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Press Conference By KATAYAMA Satsuki, Japan Minister Of Finance And Minister Of State For Financial Services - Prudential Life Insurance Company](http://www.mondovisione.com/media-and-resources/news/press-conference-y-katayama-satsuki-japan-minister-of-finance-and-minister-of-s-2026210/)
 append_entries: 3
 Finish: 2026-02-10 07:12:26.728575
+------------------------------------------------------
+Started: 2026-02-10 09:02:18.675220
+Existing_entries: 23
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FIX Recommends Regulatory Approaches To AI In Trading: Monetary Authority Of Singapore Consultation](http://www.mondovisione.com/media-and-resources/news/fix-recommends-regulatory-approaches-to-ai-in-trading-monetary-authority-of-sin-2026210/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CoinShares Fund Flows: Signs Of Stabilisation Emerge In Digital Asset Flows](http://www.mondovisione.com/media-and-resources/news/coinshares-fund-flows-signs-of-stabilisation-emerge-in-digital-asset-flows-2026210/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc ("LSEG") Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transaction-in-own-shares-2026210/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASX Announces CEO Transition](http://www.mondovisione.com/media-and-resources/news/asx-announces-ceo-transition-2026210/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MENA Fintech Association Welcomes Paymentology As A Member To Support The Growth Of Digital Payments And Fintech Innovation Across The Region](http://www.mondovisione.com/media-and-resources/news/mena-fintech-association-welcomes-paymentology-as-a-member-to-support-the-growth-2026210/)
+append_entries: 5
+Finish: 2026-02-10 09:02:19.985242
