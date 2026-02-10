@@ -189,3 +189,25 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Eurex: Europe's Defense, AI & Quantum Computing – Forces Shaping Markets](http://www.mondovisione.com/media-and-resources/news/eurex-europes-defense-ai-and-quantum-computing-forces-shaping-markets-2026210/)
 append_entries: 1
 Finish: 2026-02-10 19:12:55.234358
+------------------------------------------------------
+Started: 2026-02-10 20:51:23.831678
+Existing_entries: 41
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group To Launch Single Stock Futures - New Financially Settled Futures Contracts To Include 50+ Top U.S. Single Stocks Including Alphabet, Meta, NVIDIA And Tesla](http://www.mondovisione.com/media-and-resources/news/cme-group-to-launch-single-stock-futures-new-financially-settled-futures-contr-2026210/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIFMA Statement On The Financial Stability Oversight Council Improvement Act Of 2025](http://www.mondovisione.com/media-and-resources/news/sifma-statement-on-the-financial-stability-oversight-council-improvement-act-of-2026210/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ISDA derivatiViews: Maintaining Focus On Basel III Endgame Recalibration](http://www.mondovisione.com/media-and-resources/news/isda-derivativiews-maintaining-focus-on-basel-iii-endgame-recalibration-2026210/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Bermuda Stock Exchange Reports 2025 Listing Results - Strengthens Position As Leading Exchange For Global ILS As Number Of Listings Increases 34%](http://www.mondovisione.com/media-and-resources/news/the-bermuda-stock-exchange-reports-2025-listing-results-strengthens-position-a-2026210/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Trading Technologies And Enmacc Agree To Strategic Partnership To Transform OTC Bilateral Energy Trading](http://www.mondovisione.com/media-and-resources/news/trading-technologies-and-enmacc-agree-to-strategic-partnership-to-transform-otc-2026210/)
+Append: [Nasdaq Launches New Private Capital Indexes, Expanding Its Private Capital Solutions Platform](http://www.mondovisione.com/media-and-resources/news/nasdaq-launches-new-private-capital-indexes-expanding-its-private-capital-solut-2026210/)
+append_entries: 6
+Finish: 2026-02-10 20:51:24.941839
