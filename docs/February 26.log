@@ -138,3 +138,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Taiwan Futures Exchange Newsletter - February 2026](http://www.mondovisione.com/media-and-resources/news/taiwan-futures-exchange-newsletter-february-2026-2026210/)
 append_entries: 2
 Finish: 2026-02-10 10:57:43.049352
+------------------------------------------------------
+Started: 2026-02-10 13:25:15.045903
+Existing_entries: 30
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LSEG And Apex Group Collaborate To Connect Private Funds With LSEG’s Digital Markets Infrastructure](http://www.mondovisione.com/media-and-resources/news/lseg-and-apex-group-collaborate-to-connect-private-funds-with-lsegs-digital-mar-2026210/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Derivative Path And CloudMargin Announce Strategic Partnership To Deliver Integrated Derivatives And Collateral Management Solution For Market Participants](http://www.mondovisione.com/media-and-resources/news/derivative-path-and-cloudmargin-announce-strategic-partnership-to-deliver-integr-2026210/)
+append_entries: 2
+Finish: 2026-02-10 13:25:16.306961
