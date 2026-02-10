@@ -211,3 +211,18 @@ Append: [Trading Technologies And Enmacc Agree To Strategic Partnership To Trans
 Append: [Nasdaq Launches New Private Capital Indexes, Expanding Its Private Capital Solutions Platform](http://www.mondovisione.com/media-and-resources/news/nasdaq-launches-new-private-capital-indexes-expanding-its-private-capital-solut-2026210/)
 append_entries: 6
 Finish: 2026-02-10 20:51:24.941839
+------------------------------------------------------
+Started: 2026-02-10 22:47:44.217667
+Existing_entries: 47
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Robinhood Reports Fourth Quarter And Full Year 2025 Results](http://www.mondovisione.com/media-and-resources/news/robinhood-reports-fourth-quarter-and-full-year-2025-results-2026210/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Announces End-Of-Month Open Short Interest Positions In Nasdaq Stocks As Of Settlement Date July 31, 2025](http://www.mondovisione.com/media-and-resources/news/nasdaq-announces-end-of-month-open-short-interest-positions-in-nasdaq-stocks-as-2026210/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NYSE Group Consolidated Short Interest Report](http://www.mondovisione.com/media-and-resources/news/nyse-group-consolidated-short-interest-report-2026210/)
+append_entries: 3
+Finish: 2026-02-10 22:47:45.878602
