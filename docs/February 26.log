@@ -308,3 +308,18 @@ Existing_entries: 64
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-02-11 14:58:22.986601
+------------------------------------------------------
+Started: 2026-02-11 17:08:46.375481
+Existing_entries: 64
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Toronto Stock Exchange, TSX Venture Exchange, TSX Alpha Exchange And Montréal Exchange Closed For Family Day](http://www.mondovisione.com/media-and-resources/news/toronto-stock-exchange-tsx-venture-exchange-tsx-alpha-exchange-and-montral-ex-2026211/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ICE Launches Polymarket Signals And Sentiment Tool Turning Crowd-Sourced Dynamic Views Into Market Opportunities](http://www.mondovisione.com/media-and-resources/news/ice-launches-polymarket-signals-and-sentiment-tool-turning-crowd-sourced-dynamic-2026211/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Amman Stock Exchange Working Hours And Trading Sessions During The Holy Month Of Ramadan](http://www.mondovisione.com/media-and-resources/news/amman-stock-exchange-working-hours-and-trading-sessions-during-the-holy-month-of-2026211/)
+append_entries: 3
+Finish: 2026-02-11 17:08:47.475433
