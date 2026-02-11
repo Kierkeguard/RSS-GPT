@@ -238,3 +238,18 @@ Existing_entries: 50
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-02-11 05:38:34.735505
+------------------------------------------------------
+Started: 2026-02-11 07:08:42.762695
+Existing_entries: 50
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Chair And Nobel Prize-Winning Economist To Headline ASIC Innovation Symposium](http://www.mondovisione.com/media-and-resources/news/sec-chair-and-nobel-prize-winning-economist-to-headline-asic-innovation-symposiu-2026211/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Hong Kong Securities And Futures Commission Cautions Against Ramp And Dump Schemes Involving Impersonation Of Stock Commentators](http://www.mondovisione.com/media-and-resources/news/hong-kong-securities-and-futures-commission-cautions-against-ramp-and-dump-schem-2026211/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ICE Launches CoinDesk Cryptocurrency Futures Contracts](http://www.mondovisione.com/media-and-resources/news/ice-launches-coindesk-cryptocurrency-futures-contracts-2026211/)
+append_entries: 3
+Finish: 2026-02-11 07:08:44.114279
