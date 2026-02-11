@@ -253,3 +253,25 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ICE Launches CoinDesk Cryptocurrency Futures Contracts](http://www.mondovisione.com/media-and-resources/news/ice-launches-coindesk-cryptocurrency-futures-contracts-2026211/)
 append_entries: 3
 Finish: 2026-02-11 07:08:44.114279
+------------------------------------------------------
+Started: 2026-02-11 08:56:26.727835
+Existing_entries: 53
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Laura Bayley Appointed Chief Executive Officer Of Eurex Clearing AG](http://www.mondovisione.com/media-and-resources/news/laura-bayley-appointed-chief-executive-officer-of-eurex-clearing-ag-2026211/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc ("LSEG") Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transaction-in-own-shares-2026211/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Qatar Stock Exchange: MSCI Equity Indexes February 2026 Index Review Results](http://www.mondovisione.com/media-and-resources/news/qatar-stock-exchange-msci-equity-indexes-february-2026-index-review-results-2026211/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Juspay Strengthens Middle East Presence With DIFC Headquarters](http://www.mondovisione.com/media-and-resources/news/juspay-strengthens-middle-east-presence-with-difc-headquarters-2026211/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Closure Of Bursa Malaysia In Conjunction With The Chinese New Year Public Holiday](http://www.mondovisione.com/media-and-resources/news/closure-of-bursa-malaysia-in-conjunction-with-the-chinese-new-year-public-holida-2026211/)
+Append: [Shanghai Stock Exchange Introduces New Measures To Facilitate Follow-On Offering](http://www.mondovisione.com/media-and-resources/news/shanghai-stock-exchange-introduces-new-measures-to-facilitate-follow-on-offering-2026211/)
+append_entries: 6
+Finish: 2026-02-11 08:56:27.994202
