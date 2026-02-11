@@ -281,3 +281,24 @@ Existing_entries: 59
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-02-11 10:55:15.358171
+------------------------------------------------------
+Started: 2026-02-11 13:22:08.553559
+Existing_entries: 59
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Poland: Number Of Securities Accounts In 2025](http://www.mondovisione.com/media-and-resources/news/poland-number-of-securities-accounts-in-2025-2026211/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Two And Signicat Make B2B Buyer Verification Instant - The Two Fintechs Eliminate Verification Delays And Fraud For Online Merchants, Allowing Instant Credit Approval For Business Buyers Across Europe.](http://www.mondovisione.com/media-and-resources/news/two-and-signicat-make-b2b-buyer-verification-instant-the-two-fintechs-eliminat-2026211/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [IOSCO Announces Pre-Valentine’s Day Campaign Focused On Combatting Relationship Investments Scams](http://www.mondovisione.com/media-and-resources/news/iosco-announces-pre-valentines-day-campaign-focused-on-combatting-relationship-2026211/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [GLEIF And AEOTrade Collaborate To Strengthen Trust And Interoperability In Electronic Bills Of Lading - Verifiable Organizational Identity Underpins Trusted eBLs, Reducing Risk And Inefficiencies Across Global Trade And Supply Chains](http://www.mondovisione.com/media-and-resources/news/gleif-and-aeotrade-collaborate-to-strengthen-trust-and-interoperability-in-elect-2026211/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority: New Protections Confirmed For Buy Now Pay Later Borrowers](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-new-protections-confirmed-for-buy-now-pay-later-2026211/)
+append_entries: 5
+Finish: 2026-02-11 13:22:09.593845
