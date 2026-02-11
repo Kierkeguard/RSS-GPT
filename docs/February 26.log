@@ -302,3 +302,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [UK Financial Conduct Authority: New Protections Confirmed For Buy Now Pay Later Borrowers](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-new-protections-confirmed-for-buy-now-pay-later-2026211/)
 append_entries: 5
 Finish: 2026-02-11 13:22:09.593845
+------------------------------------------------------
+Started: 2026-02-11 14:58:21.937669
+Existing_entries: 64
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-02-11 14:58:22.986601
