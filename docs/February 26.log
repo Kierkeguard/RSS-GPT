@@ -483,3 +483,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Amman Stock Exchange Weekly Summary](http://www.mondovisione.com/media-and-resources/news/amman-stock-exchange-weekly-summary-2026212/)
 append_entries: 4
 Finish: 2026-02-12 17:04:06.302182
+------------------------------------------------------
+Started: 2026-02-12 19:10:00.507165
+Existing_entries: 101
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Office Of The Comptroller Of The US Currency Releases Dodd-Frank Act Stress Test Scenarios For 2026](http://www.mondovisione.com/media-and-resources/news/office-of-the-comptroller-of-the-us-currency-releases-dodd-frank-act-stress-test-2026212/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Canadian Securities Administrators Publishes 2025 Systemic Risk Committee Annual Report](http://www.mondovisione.com/media-and-resources/news/canadian-securities-administrators-publishes-2025-systemic-risk-committee-annual-2026212/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ECB And ESRB Issue Joint Report Analysing Financial Stability Risks From Linkages Between Banks And The Non-Bank Financial Intermediation Sector](http://www.mondovisione.com/media-and-resources/news/ecb-and-esrb-issue-joint-report-analysing-financial-stability-risks-from-linkage-2026212/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The EBA Advises National Authorities On Actions To Take At The End Of The Transition Period Under Its No-Action Letter On The Interplay Between PSD2 And MiCA](http://www.mondovisione.com/media-and-resources/news/the-eba-advises-national-authorities-on-actions-to-take-at-the-end-of-the-transi-2026212/)
+append_entries: 4
+Finish: 2026-02-12 19:10:01.772634
