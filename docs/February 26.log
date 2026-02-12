@@ -393,3 +393,21 @@ Append: [CME Group Announces First Trades For New Cardano, Chainlink And Stellar
 Append: [Ontario Securities Commission Announces New Appointments To Board Of Directors](http://www.mondovisione.com/media-and-resources/news/ontario-securities-commission-announces-new-appointments-to-board-of-directors-2026212/)
 append_entries: 7
 Finish: 2026-02-12 07:08:20.772676
+------------------------------------------------------
+Started: 2026-02-12 08:54:58.610479
+Existing_entries: 81
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Dubai Welcomes United Terra Enterprises PLC’s Debut Listing Of USD 150 Million Bond](http://www.mondovisione.com/media-and-resources/news/nasdaq-dubai-welcomes-united-terra-enterprises-plcs-debut-listing-of-usd-150-mi-2026212/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group To Launch Four South Asia Edible Oil Futures Contracts](http://www.mondovisione.com/media-and-resources/news/cme-group-to-launch-four-south-asia-edible-oil-futures-contracts-2026212/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Scope Prime liquidity Now Available Over MetaQuotes Ultency Platform - Ultra-Low Latency Solution To Improve Order Execution For MT5 Brokers](http://www.mondovisione.com/media-and-resources/news/scope-prime-liquidity-now-available-over-metaquotes-ultency-platform-ultra-low-2026212/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Securities Commission Malaysia Names Malaysia’s First Social Exchange Platform Operator](http://www.mondovisione.com/media-and-resources/news/securities-commission-malaysia-names-malaysias-first-social-exchange-platform-o-2026212/)
+append_entries: 4
+Finish: 2026-02-12 08:55:00.074312
