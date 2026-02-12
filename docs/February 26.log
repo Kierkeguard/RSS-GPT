@@ -507,3 +507,12 @@ Existing_entries: 105
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-02-12 20:40:46.494737
+------------------------------------------------------
+Started: 2026-02-12 22:36:49.980402
+Existing_entries: 105
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Announces Innovation Advisory Committee Members](http://www.mondovisione.com/media-and-resources/news/cftc-announces-innovation-advisory-committee-members-2026212/)
+append_entries: 1
+Finish: 2026-02-12 22:36:51.553743
