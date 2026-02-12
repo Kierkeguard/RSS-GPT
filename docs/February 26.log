@@ -370,3 +370,26 @@ Existing_entries: 74
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-02-12 05:26:40.498732
+------------------------------------------------------
+Started: 2026-02-12 07:08:19.390590
+Existing_entries: 74
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [JPX Market Innovation & Research Launches Study For Industry-Wide Common Data Platform To Enhance Securities Operations](http://www.mondovisione.com/media-and-resources/news/jpx-market-innovation-and-research-launches-study-for-industry-wide-common-data-pl-2026212/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Additional Budget Estimates, Opening Statement By ASIC Acting Chair Sarah Court, Senate Economics Legislation Committee, 11 February 2026](http://www.mondovisione.com/media-and-resources/news/additional-budget-estimates-opening-statement-by-asic-acting-chair-sarah-court-2026212/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASX Limited Half-Year Results To 31 December 2025 (1H26)](http://www.mondovisione.com/media-and-resources/news/asx-limited-half-year-results-to-31-december-2025-1h26-2026212/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Remarks To The Los Angeles County Bar Association, Margaret Ryan, Director, SEC Division Of Enforcement, 56th Annual Securities Regulation Seminar, Los Angeles, Feb. 11, 2026](http://www.mondovisione.com/media-and-resources/news/remarks-to-the-los-angeles-county-bar-association-margaret-ryan-director-sec-2026212/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Deutsche Börse Group To Acquire General Atlantic’s Minority Stake In ISS STOXX](http://www.mondovisione.com/media-and-resources/news/deutsche-brse-group-to-acquire-general-atlantics-minority-stake-in-iss-stoxx-2026212/)
+Append: [CME Group Announces First Trades For New Cardano, Chainlink And Stellar Cryptocurrency Futures](http://www.mondovisione.com/media-and-resources/news/cme-group-announces-first-trades-for-new-cardano-chainlink-and-stellar-cryptocu-2026212/)
+Append: [Ontario Securities Commission Announces New Appointments To Board Of Directors](http://www.mondovisione.com/media-and-resources/news/ontario-securities-commission-announces-new-appointments-to-board-of-directors-2026212/)
+append_entries: 7
+Finish: 2026-02-12 07:08:20.772676
