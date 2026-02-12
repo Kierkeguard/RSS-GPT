@@ -465,3 +465,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CME Group Declares Annual Variable Dividend And Q1 2026 Quarterly Dividend](http://www.mondovisione.com/media-and-resources/news/cme-group-declares-annual-variable-dividend-and-q1-2026-quarterly-dividend-2026212/)
 append_entries: 5
 Finish: 2026-02-12 14:52:43.517805
+------------------------------------------------------
+Started: 2026-02-12 17:04:05.081864
+Existing_entries: 97
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER Calls For Greater Focus On LNG Dynamics In Gas Supply Outlooks](http://www.mondovisione.com/media-and-resources/news/acer-calls-for-greater-focus-on-lng-dynamics-in-gas-supply-outlooks-2026212/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Testimony Before The U.S. Senate Committee On Banking, Housing, And Urban Affairs, Paul S. Atkins, SEC Chairman, Washington D.C., Feb. 12, 2026](http://www.mondovisione.com/media-and-resources/news/testimony-before-the-us-senate-committee-on-banking-housing-and-urban-affair-2026212/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [With Intelligence And Wilshire Launch Enhanced ‘Navigator’, A Platform Streamlining Private Markets Manager Engagement](http://www.mondovisione.com/media-and-resources/news/with-intelligence-and-wilshire-launch-enhanced-navigator-a-platform-streamlin-2026212/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Amman Stock Exchange Weekly Summary](http://www.mondovisione.com/media-and-resources/news/amman-stock-exchange-weekly-summary-2026212/)
+append_entries: 4
+Finish: 2026-02-12 17:04:06.302182
