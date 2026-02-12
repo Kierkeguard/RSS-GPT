@@ -411,3 +411,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Securities Commission Malaysia Names Malaysia’s First Social Exchange Platform Operator](http://www.mondovisione.com/media-and-resources/news/securities-commission-malaysia-names-malaysias-first-social-exchange-platform-o-2026212/)
 append_entries: 4
 Finish: 2026-02-12 08:55:00.074312
+------------------------------------------------------
+Started: 2026-02-12 10:53:06.484098
+Existing_entries: 85
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nissay Asset Management Corporation Becomes First In Japan To Implement Broadridge’s Mortgage-Backed Securities Trade Assignment Portal - Broadridge’s Solution Enables Nissay Asset Management To Streamline Processes, Reduce Administrative Workload, And Increase Operational Efficiency](http://www.mondovisione.com/media-and-resources/news/nissay-asset-management-corporation-becomes-first-in-japan-to-implement-broadrid-2026212/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Broadridge’s Distributed Ledger Repo Platform Achieves 508% Year Over Year Growth In January - January 2026 ADV Of $365 Billion, Highlighting Sustained Institutional Scale Following Breakout Year](http://www.mondovisione.com/media-and-resources/news/broadridges-distributed-ledger-repo-platform-achieves-508-year-over-year-gro-2026212/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Fragmented Data Disrupts Operations At 80% Of Payments Firms - AutoRek’s Industry Research Reveals That Firms Are Racing Towards Real-Time Payments While Running On Manual Operations](http://www.mondovisione.com/media-and-resources/news/fragmented-data-disrupts-operations-at-80-of-payments-firms-autoreks-industr-2026212/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX Appoints Chief Regional Representative For The Middle East](http://www.mondovisione.com/media-and-resources/news/hkex-appoints-chief-regional-representative-for-the-middle-east-2026212/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Government Update On The Procurement For Digital Gilt Instrument (DIGIT) Pilot](http://www.mondovisione.com/media-and-resources/news/uk-government-update-on-the-procurement-for-digital-gilt-instrument-digit-pilo-2026212/)
+append_entries: 5
+Finish: 2026-02-12 10:53:07.748742
