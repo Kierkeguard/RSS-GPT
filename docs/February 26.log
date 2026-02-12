@@ -432,3 +432,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [UK Government Update On The Procurement For Digital Gilt Instrument (DIGIT) Pilot](http://www.mondovisione.com/media-and-resources/news/uk-government-update-on-the-procurement-for-digital-gilt-instrument-digit-pilo-2026212/)
 append_entries: 5
 Finish: 2026-02-12 10:53:07.748742
+------------------------------------------------------
+Started: 2026-02-12 13:20:41.569548
+Existing_entries: 90
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LSEG Advances Next Generation Of Digital Markets Infrastructure With On-Chain Settlement](http://www.mondovisione.com/media-and-resources/news/lseg-advances-next-generation-of-digital-markets-infrastructure-with-on-chain-se-2026212/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Z/Yen Group: The Role Of Finance In Addressing Sustainable Development](http://www.mondovisione.com/media-and-resources/news/zyen-group-the-role-of-finance-in-addressing-sustainable-development-2026212/)
+append_entries: 2
+Finish: 2026-02-12 13:20:43.068789
