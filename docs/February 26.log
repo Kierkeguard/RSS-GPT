@@ -591,3 +591,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Eventus Wins Market Surveillance Solution Of The Year At FOW International Awards 2026](http://www.mondovisione.com/media-and-resources/news/eventus-wins-market-surveillance-solution-of-the-year-at-fow-international-award-2026213/)
 append_entries: 5
 Finish: 2026-02-13 13:12:13.514646
+------------------------------------------------------
+Started: 2026-02-13 14:47:15.452842
+Existing_entries: 119
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Chairman And CEO Thomas P. Gallagher Named Chief Executive Of The Year By FOW](http://www.mondovisione.com/media-and-resources/news/miax-chairman-and-ceo-thomas-p-gallagher-named-chief-executive-of-the-year-by-f-2026213/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Malawi Stock Exchange Weekly Summary Report, 13 February 2026](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-13-february-2026-2026213/)
+append_entries: 2
+Finish: 2026-02-13 14:47:16.320155
