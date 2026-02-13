@@ -621,3 +621,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Coming Attractions From The SEC Division Of Corporation Finance, Director Jim Moloney, Feb. 13, 2026](http://www.mondovisione.com/media-and-resources/news/coming-attractions-from-the-sec-division-of-corporation-finance-director-jim-mo-2026213/)
 append_entries: 4
 Finish: 2026-02-13 16:54:42.426266
+------------------------------------------------------
+Started: 2026-02-13 18:57:42.720558
+Existing_entries: 125
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Announces 45th Annual Small Business Forum To Improve Capital-Raising Policy](http://www.mondovisione.com/media-and-resources/news/sec-announces-45th-annual-small-business-forum-to-improve-capital-raising-policy-2026213/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nigerian Exchange Weekly Market Report For Week Ended February 13th, 2026](http://www.mondovisione.com/media-and-resources/news/nigerian-exchange-weekly-market-report-for-week-ended-february-13th-2026-2026213/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The EBA Publishes Its Final Guidelines On Proportionate Retail Diversification Methods Under The Standardised Approach For Credit Risk](http://www.mondovisione.com/media-and-resources/news/the-eba-publishes-its-final-guidelines-on-proportionate-retail-diversification-m-2026213/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESMA Publishes Latest Edition Of Its Newsletter](http://www.mondovisione.com/media-and-resources/news/esma-publishes-latest-edition-of-its-newsletter-2026213/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Slides From Huw Pill’s Fireside Chat At Santander UK’s Macroeconomic Event - Huw Pill, Bank Of England, Chief Economist And Executive Director, Monetary Analysis](http://www.mondovisione.com/media-and-resources/news/slides-from-huw-pills-fireside-chat-at-santander-uks-macroeconomic-event-huw-2026213/)
+append_entries: 5
+Finish: 2026-02-13 18:57:43.767639
