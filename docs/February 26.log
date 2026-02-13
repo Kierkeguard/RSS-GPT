@@ -549,3 +549,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Statement On Jury’s Verdict In Trial Of Ismael Sanchez: Margaret Ryan, Director, SEC Division Of Enforcement, Feb. 12, 2026](http://www.mondovisione.com/media-and-resources/news/statement-on-jurys-verdict-in-trial-of-ismael-sanchez-margaret-ryan-director-2026213/)
 append_entries: 5
 Finish: 2026-02-13 07:05:38.429030
+------------------------------------------------------
+Started: 2026-02-13 08:51:58.962633
+Existing_entries: 111
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Calculation And Launch Of “JPX Start-Up Acceleration 100 Index”](http://www.mondovisione.com/media-and-resources/news/calculation-and-launch-of-jpx-start-up-acceleration-100-index-2026213/)
+append_entries: 1
+Finish: 2026-02-13 08:52:00.212551
