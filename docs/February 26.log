@@ -642,3 +642,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Slides From Huw Pill’s Fireside Chat At Santander UK’s Macroeconomic Event - Huw Pill, Bank Of England, Chief Economist And Executive Director, Monetary Analysis](http://www.mondovisione.com/media-and-resources/news/slides-from-huw-pills-fireside-chat-at-santander-uks-macroeconomic-event-huw-2026213/)
 append_entries: 5
 Finish: 2026-02-13 18:57:43.767639
+------------------------------------------------------
+Started: 2026-02-13 20:45:13.578323
+Existing_entries: 130
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-02-13 20:45:14.924535
