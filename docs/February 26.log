@@ -516,3 +516,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CFTC Announces Innovation Advisory Committee Members](http://www.mondovisione.com/media-and-resources/news/cftc-announces-innovation-advisory-committee-members-2026212/)
 append_entries: 1
 Finish: 2026-02-12 22:36:51.553743
+------------------------------------------------------
+Started: 2026-02-13 02:44:33.616923
+Existing_entries: 106
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-02-13 02:44:34.997313
