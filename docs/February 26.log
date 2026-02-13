@@ -603,3 +603,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Malawi Stock Exchange Weekly Summary Report, 13 February 2026](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-13-february-2026-2026213/)
 append_entries: 2
 Finish: 2026-02-13 14:47:16.320155
+------------------------------------------------------
+Started: 2026-02-13 16:54:41.025910
+Existing_entries: 121
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ETFGI Reports ETF Industry In Canada Hits Record US$615.85 Billion As January Sees Highest Ever Monthly Inflows](http://www.mondovisione.com/media-and-resources/news/etfgi-reports-etf-industry-in-canada-hits-record-us61585-billion-as-january-se-2026213/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Moscow Exchange: Updated Constituents List For OFZ Zero Coupon Yield Curve To Come Into Force On 16 February 2026](http://www.mondovisione.com/media-and-resources/news/moscow-exchange-updated-constituents-list-for-ofz-zero-coupon-yield-curve-to-co-2026213/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ETFGI Reports ETFs Industry In The US Reaches Record US$13.96 Trillion In Assets And Highest Ever Monthly Inflows At The End Of January](http://www.mondovisione.com/media-and-resources/news/etfgi-reports-etfs-industry-in-the-us-reaches-record-us1396-trillion-in-assets-2026213/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Coming Attractions From The SEC Division Of Corporation Finance, Director Jim Moloney, Feb. 13, 2026](http://www.mondovisione.com/media-and-resources/news/coming-attractions-from-the-sec-division-of-corporation-finance-director-jim-mo-2026213/)
+append_entries: 4
+Finish: 2026-02-13 16:54:42.426266
