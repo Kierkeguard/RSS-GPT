@@ -528,3 +528,24 @@ Existing_entries: 106
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-02-13 05:23:25.476827
+------------------------------------------------------
+Started: 2026-02-13 07:05:37.586824
+Existing_entries: 106
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Montréal Exchange Interest Rate Derivative Trading Ceases At 13:30 Today, February 13, 2026 - Exchange's Markets Closed February 16, 2026](http://www.mondovisione.com/media-and-resources/news/montral-exchange-interest-rate-derivative-trading-ceases-at-1330-today-februa-2026213/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nadex Self-Certified Weekly Notification Of Rule Amendment](http://www.mondovisione.com/media-and-resources/news/nadex-self-certified-weekly-notification-of-rule-amendment-2026213/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cboe Launches Nearly 24-Hour Trading In Russell 2000 Index Options](http://www.mondovisione.com/media-and-resources/news/cboe-launches-nearly-24-hour-trading-in-russell-2000-index-options-2026213/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nadex Self-Certifies New Rules Related To Position Accountability, Reportable Levels And Aggregation Of Contracts](http://www.mondovisione.com/media-and-resources/news/nadex-self-certifies-new-rules-related-to-position-accountability-reportable-le-2026213/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Statement On Jury’s Verdict In Trial Of Ismael Sanchez: Margaret Ryan, Director, SEC Division Of Enforcement, Feb. 12, 2026](http://www.mondovisione.com/media-and-resources/news/statement-on-jurys-verdict-in-trial-of-ismael-sanchez-margaret-ryan-director-2026213/)
+append_entries: 5
+Finish: 2026-02-13 07:05:38.429030
