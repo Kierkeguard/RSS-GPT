@@ -675,3 +675,15 @@ Existing_entries: 131
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-02-14 06:54:06.252687
+------------------------------------------------------
+Started: 2026-02-14 08:39:04.616923
+Existing_entries: 131
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group Announces 100 Million Event Contracts Traded](http://www.mondovisione.com/media-and-resources/news/cme-group-announces-100-million-event-contracts-traded-2026214/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cboe Global Markets Declares First-Quarter 2026 Dividend](http://www.mondovisione.com/media-and-resources/news/cboe-global-markets-declares-first-quarter-2026-dividend-2026214/)
+append_entries: 2
+Finish: 2026-02-14 08:39:05.735974
