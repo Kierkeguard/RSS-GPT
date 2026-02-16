@@ -861,3 +861,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Matthias Zieschang And Tobias Vogel Elected As Chairmen Of The Exchange Councils Of The Frankfurt Stock Exchange And Eurex Deutschland](http://www.mondovisione.com/media-and-resources/news/matthias-zieschang-and-tobias-vogel-elected-as-chairmen-of-the-exchange-councils-2026216/)
 append_entries: 3
 Finish: 2026-02-16 14:48:00.421142
+------------------------------------------------------
+Started: 2026-02-16 16:52:45.394139
+Existing_entries: 141
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [PIMFA WealthTech And Morningstar Launch AI Tech Sprint Inviting Fintechs To Showcase Wealth Solutions - Winner Of AI Tech Sprint To Present At Morningstar Investment Conference UK](http://www.mondovisione.com/media-and-resources/news/pimfa-wealthtech-and-morningstar-launch-ai-tech-sprint-inviting-fintechs-to-show-2026216/)
+append_entries: 1
+Finish: 2026-02-16 16:52:46.272877
