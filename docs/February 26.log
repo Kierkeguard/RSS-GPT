@@ -846,3 +846,18 @@ Existing_entries: 138
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-02-16 13:15:18.854145
+------------------------------------------------------
+Started: 2026-02-16 14:47:59.307531
+Existing_entries: 138
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Revitalizing Bank Mortgage Lending, One Step With Basel, Federal Reserve Vice Chair For Supervision Michelle W. Bowman, At The American Bankers Association 2026 Conference For Community Bankers, Orlando, Florida](http://www.mondovisione.com/media-and-resources/news/revitalizing-bank-mortgage-lending-one-step-with-basel-federal-reserve-vice-ch-2026216/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Fines Former Chief Executive Of Carillion Plc (In Liquidation)](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-fines-former-chief-executive-of-carillion-plc-in-2026216/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Matthias Zieschang And Tobias Vogel Elected As Chairmen Of The Exchange Councils Of The Frankfurt Stock Exchange And Eurex Deutschland](http://www.mondovisione.com/media-and-resources/news/matthias-zieschang-and-tobias-vogel-elected-as-chairmen-of-the-exchange-councils-2026216/)
+append_entries: 3
+Finish: 2026-02-16 14:48:00.421142
