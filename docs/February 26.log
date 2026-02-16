@@ -828,3 +828,15 @@ Existing_entries: 136
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-02-16 08:56:00.967256
+------------------------------------------------------
+Started: 2026-02-16 10:54:07.842107
+Existing_entries: 136
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Dubai Posts Strongest Year On Record With Outstanding Sukuk Value Surpassing USD 100 Billion](http://www.mondovisione.com/media-and-resources/news/nasdaq-dubai-posts-strongest-year-on-record-with-outstanding-sukuk-value-surpass-2026216/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New German Law To Ease Market Access For Foreign Market Makers, Boosting Eurex](http://www.mondovisione.com/media-and-resources/news/new-german-law-to-ease-market-access-for-foreign-market-makers-boosting-eurex-2026216/)
+append_entries: 2
+Finish: 2026-02-16 10:54:08.743594
