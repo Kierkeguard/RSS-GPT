@@ -807,3 +807,18 @@ Existing_entries: 133
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-02-16 05:38:25.341881
+------------------------------------------------------
+Started: 2026-02-16 07:11:04.170493
+Existing_entries: 133
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Montréal Exchange's Markets Closed Today, February 16, 2026 - Family Day](http://www.mondovisione.com/media-and-resources/news/montral-exchanges-markets-closed-today-february-16-2026-family-day-2026216/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Thailand Futures Exchange Announces TFEX Best Award 2025 For Outstanding Derivatives Brokers](http://www.mondovisione.com/media-and-resources/news/thailand-futures-exchange-announces-tfex-best-award-2025-for-outstanding-derivat-2026216/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Eminent Finance Professor Arvind Krishnamurthy Appointed Monetary Authority Of Singapore Distinguished Term Professor At NUS](http://www.mondovisione.com/media-and-resources/news/eminent-finance-professor-arvind-krishnamurthy-appointed-monetary-authority-of-s-2026216/)
+append_entries: 3
+Finish: 2026-02-16 07:11:05.168528
