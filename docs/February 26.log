@@ -870,3 +870,25 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [PIMFA WealthTech And Morningstar Launch AI Tech Sprint Inviting Fintechs To Showcase Wealth Solutions - Winner Of AI Tech Sprint To Present At Morningstar Investment Conference UK](http://www.mondovisione.com/media-and-resources/news/pimfa-wealthtech-and-morningstar-launch-ai-tech-sprint-inviting-fintechs-to-show-2026216/)
 append_entries: 1
 Finish: 2026-02-16 16:52:46.272877
+------------------------------------------------------
+Started: 2026-02-16 18:52:25.591235
+Existing_entries: 142
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Eurex - Partner Perspectives: Flow Traders’ Jasper Jansen on Credit Index Futures](http://www.mondovisione.com/media-and-resources/news/eurex-partner-perspectives-flow-traders-jasper-jansen-on-credit-index-future-2026216/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The London Metal Exchange - Dr Fred Demler](http://www.mondovisione.com/media-and-resources/news/the-london-metal-exchange-dr-fred-demler-2026216/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bank Of England: Summary Of AI roundtables - February 2026](http://www.mondovisione.com/media-and-resources/news/bank-of-england-summary-of-ai-roundtables-february-2026-2026216/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Eurex - Buffer ETFs In Europe](http://www.mondovisione.com/media-and-resources/news/eurex-buffer-etfs-in-europe-2026216/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [EGX Announces The Trading Hours During The Holy Month Of Ramadan](http://www.mondovisione.com/media-and-resources/news/egx-announces-the-trading-hours-during-the-holy-month-of-ramadan-2026216/)
+Append: [In A Historic Milestone Reflecting Market Depth And Strong International Investor Confidence Qatar Stock Exchange Lists QNB Group’s QAR 1 Billion Bond, The Largest Qatari Riyal–Denominated Issuance i](http://www.mondovisione.com/media-and-resources/news/in-a-historic-milestone-reflecting-market-depth-and-strong-international-investo-2026216/)
+append_entries: 6
+Finish: 2026-02-16 18:52:26.802660
