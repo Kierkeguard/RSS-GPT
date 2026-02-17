@@ -931,3 +931,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CoinShares Fund Flows: Digital Asset Outflows Extend To 4th Week Amid US Weakness, Selective Altcoin Resilience](http://www.mondovisione.com/media-and-resources/news/coinshares-fund-flows-digital-asset-outflows-extend-to-4th-week-amid-us-weaknes-2026217/)
 append_entries: 1
 Finish: 2026-02-17 08:54:05.857729
+------------------------------------------------------
+Started: 2026-02-17 10:52:33.485832
+Existing_entries: 149
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Geopolitical Tensions And Market Volatility Define January 2026: FTSE Mondo Visione Index Up 3.2%](http://www.mondovisione.com/media-and-resources/news/geopolitical-tensions-and-market-volatility-define-january-2026-ftse-mondo-visi-2026217/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ETFGI Reports ETFs Industry In Europe Hits All Time High US$3.40 Trillion In Assets And Record US$58.67 Billion Inflows](http://www.mondovisione.com/media-and-resources/news/etfgi-reports-etfs-industry-in-europe-hits-all-time-high-us340-trillion-in-ass-2026217/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TNS Launches Market Data Usage Optimization Portal](http://www.mondovisione.com/media-and-resources/news/tns-launches-market-data-usage-optimization-portal-2026217/)
+append_entries: 3
+Finish: 2026-02-17 10:52:35.037586
