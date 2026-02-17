@@ -946,3 +946,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [TNS Launches Market Data Usage Optimization Portal](http://www.mondovisione.com/media-and-resources/news/tns-launches-market-data-usage-optimization-portal-2026217/)
 append_entries: 3
 Finish: 2026-02-17 10:52:35.037586
+------------------------------------------------------
+Started: 2026-02-17 13:15:19.091265
+Existing_entries: 152
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cyprus Stock Exchange Bulletin For January 2026](http://www.mondovisione.com/media-and-resources/news/cyprus-stock-exchange-bulletin-for-january-2026-2026217/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Applying The Financial Services And Markets Act 2000 Model Of Regulation To The Capital Requirements Regulation](http://www.mondovisione.com/media-and-resources/news/applying-the-financial-services-and-markets-act-2000-model-of-regulation-to-the-2026217/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LSEG Partners With Bank Of America To Unlock Next Generation Data, Analytics And AI Ready Content For Clients - Helping Clients Make Faster, Better-Informed Decisions With Unified And High-Quality Data](http://www.mondovisione.com/media-and-resources/news/lseg-partners-with-bank-of-america-to-unlock-next-generation-data-analytics-and-2026217/)
+append_entries: 3
+Finish: 2026-02-17 13:15:20.920027
