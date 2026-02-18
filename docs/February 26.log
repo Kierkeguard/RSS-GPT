@@ -1077,3 +1077,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Decision By The Nasdaq Stockholm Disciplinary Committee Regarding Neovici Holding AB (publ)](http://www.mondovisione.com/media-and-resources/news/decision-by-the-nasdaq-stockholm-disciplinary-committee-regarding-neovici-holdin-2026218/)
 append_entries: 2
 Finish: 2026-02-18 10:52:48.051735
+------------------------------------------------------
+Started: 2026-02-18 13:16:43.815468
+Existing_entries: 175
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority: Tribunal Upholds Bans And Fines For Reckless Adviser And Fund Manager](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-tribunal-upholds-bans-and-fines-for-reckless-adv-2026218/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Moscow Exchange Maintenance On T0 FX Test Environment](http://www.mondovisione.com/media-and-resources/news/moscow-exchange-maintenance-on-t0-fx-test-environment-2026218/)
+append_entries: 2
+Finish: 2026-02-18 13:16:44.926704
