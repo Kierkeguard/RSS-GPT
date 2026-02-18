@@ -1089,3 +1089,25 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Moscow Exchange Maintenance On T0 FX Test Environment](http://www.mondovisione.com/media-and-resources/news/moscow-exchange-maintenance-on-t0-fx-test-environment-2026218/)
 append_entries: 2
 Finish: 2026-02-18 13:16:44.926704
+------------------------------------------------------
+Started: 2026-02-18 14:50:50.572729
+Existing_entries: 177
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Centralis Group Enters U.S. Fund Services Market With Acquisition Of PINE Advisor Solutions - Creates Transatlantic Platform For Alternative Managers Seeking Consistent Governance, Operational Discipline And Regulatory Support](http://www.mondovisione.com/media-and-resources/news/centralis-group-enters-us-fund-services-market-with-acquisition-of-pine-adviso-2026218/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Jefferies Outsourced Trading Selects TS Imagine To Power Order And Execution Management For Fixed Income - TS Imagine's SaaS Platform Will Enable Jefferies To Scale Fixed Income Outsourced Trading Operations And Maximize Trading Opportunities While Maintaining Rigorous Risk Controls](http://www.mondovisione.com/media-and-resources/news/jefferies-outsourced-trading-selects-ts-imagine-to-power-order-and-execution-man-2026218/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESMA Publishes Statement Supporting The Smooth Implementation Of The Listing Act – Simplifying Prospectus Compliance For Issuers](http://www.mondovisione.com/media-and-resources/news/esma-publishes-statement-supporting-the-smooth-implementation-of-the-listing-act-2026218/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESMA Supports The Simplified European Sustainability Reporting Standards And Suggests Targeted Adjustments](http://www.mondovisione.com/media-and-resources/news/esma-supports-the-simplified-european-sustainability-reporting-standards-and-sug-2026218/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Gulf Keystone Petroleum Lists On Euronext Growth](http://www.mondovisione.com/media-and-resources/news/gulf-keystone-petroleum-lists-on-euronext-growth-2026218/)
+Append: [BME Admits To Trading A €1.25 Billion New Sustainable Bond Issue By The Regional Government Of Andalusia](http://www.mondovisione.com/media-and-resources/news/bme-admits-to-trading-a-125-billion-new-sustainable-bond-issue-by-the-regional-2026218/)
+append_entries: 6
+Finish: 2026-02-18 14:50:51.413255
