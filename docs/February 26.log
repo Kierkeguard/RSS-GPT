@@ -1044,3 +1044,24 @@ Existing_entries: 168
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-02-18 07:07:29.867206
+------------------------------------------------------
+Started: 2026-02-18 08:53:48.584061
+Existing_entries: 168
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SET Partners With Krungsri To Empower SMEs With Carbon Measurement For Sustainable Finance Access](http://www.mondovisione.com/media-and-resources/news/set-partners-with-krungsri-to-empower-smes-with-carbon-measurement-for-sustain-2026218/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Commences New Review Of Advice Licensees That Use Lead Generation Services](http://www.mondovisione.com/media-and-resources/news/asic-commences-new-review-of-advice-licensees-that-use-lead-generation-services-2026218/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Chairman Selig: Op-Ed | States Encroach On Prediction Markets - The CFTC, The Legitimate Regulator Of These Financial Instruments, Backs Crypto.com In A Lawsuit Appeal.](http://www.mondovisione.com/media-and-resources/news/cftc-chairman-selig-op-ed-states-encroach-on-prediction-markets-the-cftc-t-2026218/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Canadian Investment Regulatory Organization Releases Annual Compliance Report 2026 To Help Dealers Meet Regulatory Requirements And Advance Investor Protection - Report Sheds Light On Common Compliance Challenges And How Dealers Can Address Them](http://www.mondovisione.com/media-and-resources/news/canadian-investment-regulatory-organization-releases-annual-compliance-report-20-2026218/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Reaffirms Exclusive Jurisdiction Over Prediction Markets In U.S. Circuit Court Filing](http://www.mondovisione.com/media-and-resources/news/cftc-reaffirms-exclusive-jurisdiction-over-prediction-markets-in-us-circuit-co-2026218/)
+append_entries: 5
+Finish: 2026-02-18 08:53:50.028644
