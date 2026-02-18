@@ -1065,3 +1065,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CFTC Reaffirms Exclusive Jurisdiction Over Prediction Markets In U.S. Circuit Court Filing](http://www.mondovisione.com/media-and-resources/news/cftc-reaffirms-exclusive-jurisdiction-over-prediction-markets-in-us-circuit-co-2026218/)
 append_entries: 5
 Finish: 2026-02-18 08:53:50.028644
+------------------------------------------------------
+Started: 2026-02-18 10:52:46.580243
+Existing_entries: 173
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LSEG And Standard Chartered Announce Multi-Year Collaboration](http://www.mondovisione.com/media-and-resources/news/lseg-and-standard-chartered-announce-multi-year-collaboration-2026218/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Decision By The Nasdaq Stockholm Disciplinary Committee Regarding Neovici Holding AB (publ)](http://www.mondovisione.com/media-and-resources/news/decision-by-the-nasdaq-stockholm-disciplinary-committee-regarding-neovici-holdin-2026218/)
+append_entries: 2
+Finish: 2026-02-18 10:52:48.051735
