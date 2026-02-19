@@ -1262,3 +1262,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Opening Remarks, Federal Reserve Vice Chair For Supervision Michelle W. Bowman, At The Federal Reserve Bank Of Atlanta 2026 Banking Outlook Conference: The Next Horizon In Banking, Atlanta, Georgia (Via Pre-Recorded Video)](http://www.mondovisione.com/media-and-resources/news/opening-remarks-federal-reserve-vice-chair-for-supervision-michelle-w-bowman-2026219/)
 append_entries: 3
 Finish: 2026-02-19 14:53:09.914251
+------------------------------------------------------
+Started: 2026-02-19 17:00:10.936446
+Existing_entries: 212
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Synechron Partners With Cognition To Bring Autonomous AI Engineering To Global Financial Institutions](http://www.mondovisione.com/media-and-resources/news/synechron-partners-with-cognition-to-bring-autonomous-ai-engineering-to-global-f-2026219/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Borsa İstanbul’s Opening Bell Rang For Ata Turizm](http://www.mondovisione.com/media-and-resources/news/borsa-istanbuls-opening-bell-rang-for-ata-turizm-2026219/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Qatar Investment Authority And Franklin Templeton Launch The Franklin Templeton Qatar Equity Fund](http://www.mondovisione.com/media-and-resources/news/qatar-investment-authority-and-franklin-templeton-launch-the-franklin-templeton-2026219/)
+append_entries: 3
+Finish: 2026-02-19 17:00:11.866952
