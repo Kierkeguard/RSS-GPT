@@ -1313,3 +1313,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Cutting By Two Would Do - SEC Commissioner Hester M. Peirce, Feb. 19, 2026](http://www.mondovisione.com/media-and-resources/news/cutting-by-two-would-do-sec-commissioner-hester-m-peirce-feb-19-2026-2026219/)
 append_entries: 3
 Finish: 2026-02-19 20:37:56.975710
+------------------------------------------------------
+Started: 2026-02-19 22:37:29.913973
+Existing_entries: 223
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Robinhood Markets, Inc. Reports January 2026 Operating Data](http://www.mondovisione.com/media-and-resources/news/robinhood-markets-inc-reports-january-2026-operating-data-2026219/)
+append_entries: 1
+Finish: 2026-02-19 22:37:31.153217
