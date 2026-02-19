@@ -1193,3 +1193,15 @@ Existing_entries: 199
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-02-19 05:23:18.438311
+------------------------------------------------------
+Started: 2026-02-19 07:06:39.754928
+Existing_entries: 199
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Number Go Down And Other Schadenfreude: Paul S. Atkins, SEC Chairman, SEC Commissioner Hester M. Peirce, ETHDenver, Denver, CO, Feb. 18, 2026](http://www.mondovisione.com/media-and-resources/news/number-go-down-and-other-schadenfreude-paul-s-atkins-sec-chairman-sec-commis-2026219/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Releases Guidance For Operators Of Employee Entitlement Schemes](http://www.mondovisione.com/media-and-resources/news/asic-releases-guidance-for-operators-of-employee-entitlement-schemes-2026219/)
+append_entries: 2
+Finish: 2026-02-19 07:06:41.081506
