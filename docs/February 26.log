@@ -1205,3 +1205,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ASIC Releases Guidance For Operators Of Employee Entitlement Schemes](http://www.mondovisione.com/media-and-resources/news/asic-releases-guidance-for-operators-of-employee-entitlement-schemes-2026219/)
 append_entries: 2
 Finish: 2026-02-19 07:06:41.081506
+------------------------------------------------------
+Started: 2026-02-19 08:53:02.121263
+Existing_entries: 201
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-02-19 08:53:03.338083
