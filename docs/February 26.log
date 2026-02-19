@@ -1247,3 +1247,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CISI Awards Three New Honorary Fellowships](http://www.mondovisione.com/media-and-resources/news/cisi-awards-three-new-honorary-fellowships-2026219/)
 append_entries: 4
 Finish: 2026-02-19 13:18:22.094573
+------------------------------------------------------
+Started: 2026-02-19 14:53:08.820533
+Existing_entries: 209
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Secretary Of The Secretary Bessent Announces 2026 G20 Finance Track Agenda And Finance Ministers And Central Bank Governors Meeting In Asheville, North Carolina](http://www.mondovisione.com/media-and-resources/news/secretary-bessent-announces-2026-g20-finance-track-agenda-and-finance-ministers-2026219/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group To Launch 24/7 Cryptocurrency Futures And Options Trading On May 29](http://www.mondovisione.com/media-and-resources/news/cme-group-to-launch-247-cryptocurrency-futures-and-options-trading-on-may-29-2026219/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Opening Remarks, Federal Reserve Vice Chair For Supervision Michelle W. Bowman, At The Federal Reserve Bank Of Atlanta 2026 Banking Outlook Conference: The Next Horizon In Banking, Atlanta, Georgia (Via Pre-Recorded Video)](http://www.mondovisione.com/media-and-resources/news/opening-remarks-federal-reserve-vice-chair-for-supervision-michelle-w-bowman-2026219/)
+append_entries: 3
+Finish: 2026-02-19 14:53:09.914251
