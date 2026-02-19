@@ -1211,3 +1211,21 @@ Existing_entries: 201
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-02-19 08:53:03.338083
+------------------------------------------------------
+Started: 2026-02-19 10:51:19.444029
+Existing_entries: 201
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Strategic Review Of FSB Crisis Preparedness Activities](http://www.mondovisione.com/media-and-resources/news/strategic-review-of-fsb-crisis-preparedness-activities-2026219/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LSEG Launches Model-as-a-Service And Welcomes Societe Generale To Its Model Marketplace](http://www.mondovisione.com/media-and-resources/news/lseg-launches-model-as-a-service-and-welcomes-societe-generale-to-its-model-mark-2026219/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BME’s Ombudswoman Resolves 1,900 Inquiries In 2025, With More Requests From Issuing Entities](http://www.mondovisione.com/media-and-resources/news/bmes-ombudswoman-resolves-1900-inquiries-in-2025-with-more-requests-from-issu-2026219/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BMLL And Features Analytics Partner To Accelerate Trade Surveillance And Market Integrity Analytics](http://www.mondovisione.com/media-and-resources/news/bmll-and-features-analytics-partner-to-accelerate-trade-surveillance-and-market-2026219/)
+append_entries: 4
+Finish: 2026-02-19 10:51:20.707907
