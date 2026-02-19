@@ -1298,3 +1298,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [The Digital Euro: Enhancing Payments In The Euro Area - Speech By Piero Cipollone, Member Of The Executive Board Of The ECB, At The Italian Parliamentary Committee Of Inquiry Into The Banking, Financial And Insurance System](http://www.mondovisione.com/media-and-resources/news/the-digital-euro-enhancing-payments-in-the-euro-area-speech-by-piero-cipollon-2026219/)
 append_entries: 5
 Finish: 2026-02-19 18:57:13.346452
+------------------------------------------------------
+Started: 2026-02-19 20:37:56.113296
+Existing_entries: 220
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Federal Reserve Board Announces It Will Hold A Hybrid Public Outreach Meeting On Thursday, March 26, As Part Of Its Review Of Regulations Under The Economic Growth And Regulatory Paperwork Reduction Act (EGRPRA)](http://www.mondovisione.com/media-and-resources/news/federal-reserve-board-announces-it-will-hold-a-hybrid-public-outreach-meeting-on-2026219/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK's Equity CT: Tethered To The EU, Sidelined Globally - By Kelvin To, Founder And President Of Data Boiler Technologies](http://www.mondovisione.com/media-and-resources/news/uks-equity-ct-tethered-to-the-eu-sidelined-globally-by-kelvin-to-founder-a-2026219/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cutting By Two Would Do - SEC Commissioner Hester M. Peirce, Feb. 19, 2026](http://www.mondovisione.com/media-and-resources/news/cutting-by-two-would-do-sec-commissioner-hester-m-peirce-feb-19-2026-2026219/)
+append_entries: 3
+Finish: 2026-02-19 20:37:56.975710

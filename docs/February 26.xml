@@ -5,11 +5,85 @@
 <link>http://www.mondovisione.com/media-and-resources/news/</link>
 
 <item>
+<title>Federal Reserve Board Announces It Will Hold A Hybrid Public Outreach Meeting On Thursday, March 26, As Part Of Its Review Of Regulations Under The Economic Growth And Regulatory Paperwork Reduction Act (EGRPRA)</title>
+<link>http://www.mondovisione.com/media-and-resources/news/federal-reserve-board-announces-it-will-hold-a-hybrid-public-outreach-meeting-on-2026219/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/federal-reserve-board-announces-it-will-hold-a-hybrid-public-outreach-meeting-on-2026219/</guid>
+<content:encoded><![CDATA[
+
+<p>The Federal Reserve Board on Thursday announced that it will hold a hybrid public outreach meeting on Thursday, March 26, as part of its review of regulations under the Economic Growth and Regulatory Paperwork Reduction Act (EGRPRA). EGRPRA requires the Board, with input from the public, to review its regulations at least once every 10 years to identify any outdated, unduly burdensome, or otherwise unnecessary regulatory requirements applicable to certain supervised institutions.</p>
+<p>The outreach meeting is an opportunity for interested stakeholders to present their views on the regulatory categories listed in any of the four&nbsp;<a href="https://www.ffiec.gov/resources/egrpra/federal-register-notice">Federal Register notices</a>&nbsp;applicable to Board supervised institutions that were published as part of this effort: applications and reporting; powers and activities; international operations; consumer protection; directors, officers and employees; money laundering; rules of procedure; safety and soundness; securities; banking operations; capital; and the Community Reinvestment Act.</p>
+<p>Individuals interested in providing oral comments, either virtually or in person, must&nbsp;<a href="https://boardofgovernors.gov1.qualtrics.com/jfe/form/SV_exNxDs6x9nfevrM">register</a>&nbsp;by March 19, 2026, and indicate the regulatory category or categories they would like to discuss. Individuals selected to provide comments will be notified.</p>
+<p>This public meeting will take place at the Federal Reserve Board building in Washington, D.C., and will be livestreamed for the public at&nbsp;<a href="https://www.federalreserve.gov/default.htm">federalreserve.gov</a>&nbsp;and on&nbsp;<a href="https://www.youtube.com/federalreserve">YouTube</a>. Advance registration is also required to attend this public meeting as an in-person observer. Please email&nbsp;<a href="mailto:EGRPRA@frb.gov">EGRPRA@frb.gov</a>&nbsp;with general inquiries about the public meeting.</p>
+<div class="panel-heading">
+<h5 class="panel-title text-capitalize">Related Content</h5>
+</div>
+<div class="panel-body">
+<p><a href="https://www.federalreserve.gov/conferences/economic-growth-and-regulatory-paperwork-reduction-act-public-meeting-20260326.htm">Economic Growth and Regulatory Paperwork Reduction Act (EGRPRA) Public Meeting</a></p>
+</div>
+]]></content:encoded>
+<pubDate>Thu, 19 Feb 2026 20:24:55 GMT</pubDate>
+<pubDate>Thu, 19 Feb 2026 20:24:55 GMT</pubDate>
+</item>
+<item>
+<title>UK's Equity CT: Tethered To The EU, Sidelined Globally - By Kelvin To, Founder And President Of Data Boiler Technologies</title>
+<link>http://www.mondovisione.com/media-and-resources/news/uks-equity-ct-tethered-to-the-eu-sidelined-globally-by-kelvin-to-founder-a-2026219/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/uks-equity-ct-tethered-to-the-eu-sidelined-globally-by-kelvin-to-founder-a-2026219/</guid>
+<content:encoded><![CDATA[
+
+<p><img alt="DataBoiler_19Feb26" src="https://mondovisione.com/_assets/images/DataBoiler_19Feb26.jpg" title="DataBoiler_19Feb26" /></p>
+<p>The FCA proposal copied the wrong homework from a weak neighbour.&nbsp; The <a href="https://www.linkedin.com/pulse/faulted-esma-equities-consolidated-tape-rts-consequences-kelvin-to-pbxre">faulted ESMA equity RTS</a> confused the concept between <i>&lsquo;single source of truth&rsquo;</i> and &lsquo;<i>single source of access&rsquo; </i>repeating the fatal flaw of the US <a href="https://www.databoiler.com/index_htm_files/DataBoiler%20SEC%20CAT%20202512.pdf">Consolidated Audit Trail</a>. A wide latency tolerance mussed up data that one cannot roll the data forward and backward to see which trade message came in first, second, third, or a hundred thousandth. In turn, it is not suitable for BestEx, surveillance, or regulatory market monitoring purposes. Worst, it affects the EBBO to be stale with a widespread, broadcasting that there is no opportunity in Europe. Quality without the appropriate benchmarks is NOT quality.</p>
+<p>Unlike the Bond Tape where the key issue is about reference data, equity CT is about latency, bandwidth, and capacity to handle peak volume. Neglecting how self-aggregators and ultra / low-latency vendors can consolidate data in justifying their costs is one of the big mistakes in the UK and EU assumptions. US experience has shown low-latency subscribers to SIPs yield 30+% savings from subscribing only to 7 of the 11 top proprietary feeds.</p>
+<p>Market data vendors, particularly those who provide ultra or low-latency feeds, as well as transaction cost analysers, smart order routers, outsourced execution service providers profit from market fragmentation. It is more lucrative to serve selected investment firms that paid them a premium than becoming a CTP in risking their relationships with Exchange Groups and Wholesalers. Unless there is a higher incentive to make it worthwhile for these ultra or low-latency market data vendors or infrastructure providers to compensate their opportunity loss, their services would remain a complimentary product or value-added service instead of competing with Exchanges&rsquo; proprietary products.</p>
+<p><span style="text-decoration: underline;">Scenario 4</span> (top 5 pre-trade bids and offers from lit venues and SIs, distributed with a latency of 20-40 milliseconds) is the BEST option among the four, amid we have reservations about SIs&rsquo; data. Investment firms are adjusting to the US Market Data Infrastructure Rules and Transparency of Better Priced Orders requirements. Most system upgrades costs would already be covered and absorbed by their US branch or would be shared globally. <i>&lsquo;Round lot&rsquo;</i> tiers offer protected, actionable liquidity rather than <i>&lsquo;phantom.&rsquo;</i> Putting this users&rsquo; perspective in mind help UK strengthening the equity CT design and development.</p>
+<p>Contrasting with an evidence-based approach, there is no good reason for the <i>&lsquo;survey&rsquo;</i> to include <span style="text-decoration: underline;">Scenario 3</span> (3 pre-trade bids and offers from lit UK venues, distributed with a latency of 40-100 milliseconds) other than using it as to create a <i>&lsquo;Decoy Effect.&rsquo;</i> The cost benefit analysis omitted to account for the benefits of non-display low latency subscribers subsidising the subscribers of display feed for equity CT, it confused the UK public and swaying or causing <i>cognitive bias</i> towards <span style="text-decoration: underline;">Scenario 2</span> (top-of-book from lit UK venues, distributed with a latency of 100-200 milliseconds).</p>
+<p>Bringing the sources of the problem to administer/ enforce an inequitable scheme. It will exacerbate <a href="https://www.databoiler.com/index_htm_files/DataBoiler%20FCA%2020260130%20AILab.pdf"><i>initial bias</i></a> and gaps between the <i>&lsquo;haves&rsquo;</i> and <i>&lsquo;have-nots.&rsquo;</i> The average market data price across the UK and EU would further increase by at least 5 to 10%. Market participants would lose faith in the integrity of UK and EU markets. The only interested parties to seek trading opportunities in the UK and EU would be those who can exploit and segment order flow away (i.e. toxics and FAIL to achieve regulatory goals). Please do NOT forget these acknowledged concerns: <i>&lsquo;onerous administrative obligations on data users &hellip; excessive fees; increase of fees through penalties; and overly burdensome audits.&rsquo; </i>Without a novel approach from new entrance or getting buy-in from at least one of the existing ultra or low-latency feed providers to shake up the dynamics, we are doubtful that the FCA tender process would yield any fruitful result.</p>
+<p>Equity CT must be a product of reasonable compromise, if not a close substitute, to Trading Venues&rsquo; proprietary products or APAs&rsquo; value-added services to achieve the regulatory goal of <i>&lsquo;affect competitive pressures for existing seller of market data, resulting in cheaper, higher quality and more accessible data for its users.&rsquo; </i>Picking the wrong choice means a <i>&lsquo;sunk cost&rsquo;</i> and time loss for the UK. Not only will it be a <i>&lsquo;loss opportunity,&rsquo;</i> but prolonging the suffering of unjust situations indeed reinforces <i>&lsquo;initial bias&rsquo;</i> and rent seeking behaviours, making it harder or impossible to rectify the mistake afterward. The FCA current proposal defeats the goal of <i>&lsquo;levelling the playing field.&rsquo;</i> It fails to meet UK&rsquo;s regulatory objectives of <i>&lsquo;enhancing price discovery and market competitiveness.&rsquo;</i>&nbsp; It is worse than the Jukebox era in the 1970s and we do NOT believe any <i>&lsquo;governance provisions&rsquo;</i> would help. Its mindset and ambition are constrained by a focus subordinate to the EU, preventing the UK from competing on a truly global scale.</p>
+<p>How sad, but it can be rectified if there is a will. The UK now could lead the world by mandating proprietary feeds and CT market data to be available SECURELY in SYNCHRONIZED time per our suggested NEW <i><span style="text-decoration: underline;">Scenario 5</span></i>. By mandating the use of <a href="https://www.linkedin.com/pulse/market-data-available-securely-synchronized-time-kelvin-to/">Time-Lock Encryption</a> for both equity CT and proprietary feeds, it eliminates the problem of where the CT data centre is located (cost saving by locating CT away from the most expensive prime zone and is fair). By improving fairness and market integrity, our approach would significantly increase UK competitiveness, attract investments and deepen natural liquidity to grow the overall pie in benefiting all constituents. It is ten times better than the quantifiable net benefits stated under the FCA&rsquo;s 4 scenarios.</p>
+<p>UK is now at a juncture to choose between following EU delusional/ slogan-based diplomacy or taking concrete actions in curbing Exchanges from <a href="https://www.bayes.citystgeorges.ac.uk/__data/assets/pdf_file/0011/366599/sale-price-information-cass-knowledge.pdf">optimally restricted access to price information</a>. It may be time for the Competition and Markets Authority to invoke Antitrust laws to investigate against alleged monopoly or oligopolies, particularly when firms engage in collusive behaviour, price-fixing, or abuse a joint dominant position.</p>
+<p>We have been informative and the US is transparent without withholding any secret ingredients &ndash; all cited information are publicly available. The UK can freely replicate the US SEC Market Data Infrastructure Rules and Transparency of Better Priced Orders requirements as appropriate or take a leap of faith in considering our novel approach.</p>
+<p align="center"><a href="https://www.databoiler.com/index_htm_files/DataBoiler%20FCA%2020260213%20CP2531.pdf">Download our 38-page FCA comment letter for responses to individual questions.</a></p>
+<table border="0" style="width: 100%;">
+<tbody>
+<tr>
+<td><img alt="Kelvin_To_23Dec25" src="https://mondovisione.com/_assets/images/Kelvin_To_23Dec25.jpg" title="Kelvin_To_23Dec25" /></td>
+<td>
+<p><i>By </i><a href="https://www.linkedin.com/in/kelvin-to-9125955"><b><i>Kelvin To</i></b></a><i>, Founder and President of Data Boiler Technologies</i></p>
+<i>Data Boiler is a Type C organization member of the European Commission&rsquo;s Data Expert Group. Between my patented inventions in signal processing, analytics, machine learning, etc. and the wealth of experience of my partner, Peter Martyn, we are about Market Reform, Governance, Risk, Compliance, and FinTech Innovations to create viable paths toward sustainable economic growth.</i></td>
+</tr>
+</tbody>
+</table>
+]]></content:encoded>
+<pubDate>Thu, 19 Feb 2026 20:18:11 GMT</pubDate>
+<pubDate>Thu, 19 Feb 2026 20:18:11 GMT</pubDate>
+</item>
+<item>
+<title>Cutting By Two Would Do - SEC Commissioner Hester M. Peirce, Feb. 19, 2026</title>
+<link>http://www.mondovisione.com/media-and-resources/news/cutting-by-two-would-do-sec-commissioner-hester-m-peirce-feb-19-2026-2026219/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/cutting-by-two-would-do-sec-commissioner-hester-m-peirce-feb-19-2026-2026219/</guid>
+<content:encoded><![CDATA[
+
+<p>Today, the staff of the Division of Trading and Markets issued an&nbsp;<a href="https://www.sec.gov/rules-regulations/staff-guidance/trading-markets-frequently-asked-questions/frequently-asked-questions-relating-crypto-asset-activities-distributed-ledger-technology">FAQ</a>&nbsp;relating to the treatment of payment stablecoins<a href="https://www.sec.gov/newsroom/speeches-statements/peirce-stablecoin-021926-cutting-two-would-do?utm_medium=email&amp;utm_source=govdelivery#_ftn1">[1]</a>&nbsp;under the broker-dealer net capital rule (Exchange Act Rule 15c3-1). The FAQ provides that the staff would not object if a broker-dealer were to apply a 2% haircut on proprietary positions in a payment stablecoin when calculating its net capital.<a href="https://www.sec.gov/newsroom/speeches-statements/peirce-stablecoin-021926-cutting-two-would-do?utm_medium=email&amp;utm_source=govdelivery#_ftn2">[2]</a>&nbsp;I appreciate the staff&rsquo;s approach.</p>
+<p>Stablecoins are essential to transacting on blockchain rails. Using stablecoins will make it feasible for broker-dealers to engage in a broader range of business activities relating to tokenized securities and other crypto assets.&nbsp; &nbsp;</p>
+<p>FAQs like this shed light on the staff&rsquo;s thinking about emerging issues. At the Commission level, I would like to consider how Rule 15c3-1 could be amended to account for payment stablecoins. To that end, I would be grateful to hear from market participants about their views, and welcome input on other aspects of our rules that they believe should be modified to address the use of payment stablecoins by SEC-registered entities.</p>
+<div>
+<hr align="left" size="1" width="33%" />
+<div id="_ftn1">
+<p><a href="https://www.sec.gov/newsroom/speeches-statements/peirce-stablecoin-021926-cutting-two-would-do?utm_medium=email&amp;utm_source=govdelivery#_ftnref1">[1]</a>&nbsp;The term &ldquo;payment stablecoin&rdquo; is defined in the FAQ as: (a) prior to the effective date of the GENIUS Act, a USD-denominated stablecoin that: (1) is issued by a state regulated money transmitter, state-regulated trust company, or a national trust bank; (2) maintains reserve assets that meet the requirements of 12 U.S.C. 5903(a)(1)(A); (3) publicly discloses the issuer&rsquo;s redemption policy; and (4) publishes a monthly attestation report prepared by a registered public accounting firm as defined in 12 U.S.C. 5901(26) applying the attestation standards of the American Institute of Certified Public Accountants regarding the composition of the reserve assets and whether the fair value of the assets held in reserve is equal to the amount of stablecoins in circulation; and (b) following the effective date of the GENIUS Act, a stablecoin that meets the requirements contained in the GENIUS Act&rsquo;s definition of &ldquo;payment stablecoin&rdquo; and is issued by a &ldquo;permitted payment stablecoin issuer&rdquo; or a &ldquo;foreign payment stablecoin issuer&rdquo; that complies with the GENIUS Act&rsquo;s requirements applicable to such issuers.</p>
+</div>
+<div id="_ftn2">
+<p><a href="https://www.sec.gov/newsroom/speeches-statements/peirce-stablecoin-021926-cutting-two-would-do?utm_medium=email&amp;utm_source=govdelivery#_ftnref2">[2]</a>&nbsp;Rule 15c3-1 does not explicitly address payment stablecoins. I understand that some broker-dealers, out of an abundance of caution, have proposed to take a 100% haircut on payment stablecoins held in their inventory. In my view, a 100% haircut would be unnecessarily punitive given the underlying reserve assets that back payment stablecoins (generally, U.S. dollars, short-term U.S. Treasury securities and other similar instruments). For context, a haircut of 2% aligns with the haircut imposed on registered investment companies that are money market funds, which hold similar instruments as payment stablecoin issuers. In fact, following the effective date of the GENIUS Act, the reserve requirements for permitted payment stablecoin issuers will be more limiting than the &ldquo;eligible securities&rdquo; requirements that apply to registered money market funds, including government money market funds.</p>
+</div>
+</div>
+]]></content:encoded>
+<pubDate>Thu, 19 Feb 2026 20:21:56 GMT</pubDate>
+<pubDate>Thu, 19 Feb 2026 20:21:56 GMT</pubDate>
+</item>
+
+<item>
 <title>Office Of The Comptroller Of The US Currency Announces Enforcement Actions For February 2026</title>
 <link>http://www.mondovisione.com/media-and-resources/news/office-of-the-comptroller-of-the-us-currency-announces-enforcement-actions-for-f-2026219/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/office-of-the-comptroller-of-the-us-currency-announces-enforcement-actions-for-f-2026219/</guid>
 <content:encoded><![CDATA[
-
 <p>The Office of the Comptroller of the Currency (OCC) today released enforcement actions for February 2026.</p>
 <p>The enforcement actions released are terminations. The OCC terminates enforcement actions when a bank has demonstrated compliance with all articles of an enforcement action; or when the OCC determines that articles deemed &ldquo;not in compliance&rdquo; have become outdated or irrelevant to the bank&rsquo;s current circumstances; or when the OCC incorporates the articles deemed &ldquo;not in compliance&rdquo; into a new action. The termination actions are:</p>
 <ul>
@@ -27,14 +101,12 @@
 </ul>
 ]]></content:encoded>
 <pubDate>Thu, 19 Feb 2026 18:08:00 GMT</pubDate>
-<pubDate>Thu, 19 Feb 2026 18:08:00 GMT</pubDate>
 </item>
 <item>
 <title>Canadian Securities Regulators Announce Amendments To Strengthen Assurance Report Requirements For Designated Benchmarks</title>
 <link>http://www.mondovisione.com/media-and-resources/news/canadian-securities-regulators-announce-amendments-to-strengthen-assurance-repor-2026219/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/canadian-securities-regulators-announce-amendments-to-strengthen-assurance-repor-2026219/</guid>
 <content:encoded><![CDATA[
-
 <p>The securities regulatory authorities of British Columbia, Alberta, Saskatchewan, Ontario, Qu&eacute;bec, New Brunswick, Nova Scotia, Yukon and Northwest Territories today announced the adoption of&nbsp;<a href="https://www.asc.ca/-/media/ASC-Documents-part-1/Regulatory-Instruments/2026/02/6270461-v1-CSA-Notice-Amendments-to-MI-25-102.pdf" target="_blank">final amendments to Multilateral Instrument 25-102&nbsp;<em>Designated Benchmarks and Benchmark Administrators</em></a>&nbsp;and related final changes to its companion policy.&nbsp;</p>
 <p>The amendments will clarify the scope and timing of the assurance report requirements by specifying the level of assurance, the type of report an independent public accountant must provide, and when it must be submitted. This will provide greater certainty to the parties preparing these reports, along with a higher level of assurance over the governance and controls required for a designated benchmark.&nbsp;</p>
 <p>In addition, the amendments will create a new requirement for an assurance report that will apply to any designated benchmark that is not categorized as a commodity benchmark, a critical benchmark or an interest rate benchmark.&nbsp;</p>
@@ -43,14 +115,12 @@
 <div>For investor inquiries, please contact your&nbsp;<a href="https://www.securities-administrators.ca/about/contact-us/" rel="noopener noreferrer" target="_blank">local securities regulator</a>.</div>
 ]]></content:encoded>
 <pubDate>Thu, 19 Feb 2026 17:56:35 GMT</pubDate>
-<pubDate>Thu, 19 Feb 2026 17:56:35 GMT</pubDate>
 </item>
 <item>
 <title>ESMA Sanctions Regis-TR For Serious Breaches Of Organisational Obligations</title>
 <link>http://www.mondovisione.com/media-and-resources/news/esma-sanctions-regis-tr-for-serious-breaches-of-organisational-obligations-2026219/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/esma-sanctions-regis-tr-for-serious-breaches-of-organisational-obligations-2026219/</guid>
 <content:encoded><![CDATA[
-
 <p class="text-align-justify"><span>The European Securities and Markets Authority (ESMA), the European Union&rsquo;s (EU) financial markets regulator and supervisor, has fined the trade repository (TR) REGIS-TR, S.A. a total of EUR&nbsp;1,374,000 for seven infringements under the European Market Infrastructure Regulation (EMIR) and the Securities Financing Transactions Regulation (SFTR).&nbsp;</span></p>
 <p class="text-align-justify"><span>While&nbsp;ESMA has sanctioned EMIR breaches in the past,&nbsp;this is the first enforcement case involving SFTR breaches and the highest fine imposed by ESMA on a trade repository so far. ESMA has also issued a public notice and&nbsp;requires REGIS-TR to bring ongoing infringements to an end.&nbsp;</span></p>
 <p class="text-align-justify"><span>It is important for TRs to comply with their obligations under EMIR and SFTR to ensure the quality of the TR data and protect the stability, integrity and trustworthiness of EU financial markets. The services offered by Regis-TR under EMIR and SFTR were affected by the serious issues identified by ESMA, which in particular undermined the correct implementation of the new SFTR reporting regime and compromised the confidentiality of TR data.</span></p>
@@ -120,14 +190,12 @@
 </div>
 ]]></content:encoded>
 <pubDate>Thu, 19 Feb 2026 17:24:41 GMT</pubDate>
-<pubDate>Thu, 19 Feb 2026 17:24:41 GMT</pubDate>
 </item>
 <item>
 <title>ESMA Publishes List Of Supplementary Deferrals For Sovereign Bonds</title>
 <link>http://www.mondovisione.com/media-and-resources/news/esma-publishes-list-of-supplementary-deferrals-for-sovereign-bonds-2026219/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/esma-publishes-list-of-supplementary-deferrals-for-sovereign-bonds-2026219/</guid>
 <content:encoded><![CDATA[
-
 <div class="clearfix text-formatted field field--name-field-news-introduction field--type-text-long field--label-hidden field__item">
 <p class="text-align-justify">The European Securities and Markets Authority (ESMA), together with National Competent Authorities (NCAs), has agreed&nbsp;<a href="https://www.esma.europa.eu/sites/default/files/2026-02/ESMA74-276584410-11142_List_of_Supplementary_Deferrals_Sovereign_Bonds_MiFIR_Review.xlsx">supplementary deferrals</a>&nbsp;that may be applied on top of the standard Markets in Financial Instruments Regulation (MiFIR) deferral regime for sovereign bonds.</p>
 </div>
@@ -180,14 +248,12 @@
 </div>
 ]]></content:encoded>
 <pubDate>Thu, 19 Feb 2026 17:27:49 GMT</pubDate>
-<pubDate>Thu, 19 Feb 2026 17:27:49 GMT</pubDate>
 </item>
 <item>
 <title>The Digital Euro: Enhancing Payments In The Euro Area - Speech By Piero Cipollone, Member Of The Executive Board Of The ECB, At The Italian Parliamentary Committee Of Inquiry Into The Banking, Financial And Insurance System</title>
 <link>http://www.mondovisione.com/media-and-resources/news/the-digital-euro-enhancing-payments-in-the-euro-area-speech-by-piero-cipollon-2026219/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/the-digital-euro-enhancing-payments-in-the-euro-area-speech-by-piero-cipollon-2026219/</guid>
 <content:encoded><![CDATA[
-
 <p><a class="author" href="https://www.ecb.europa.eu/ecb/orga/decisions/html/cvcipollone.en.html">
 <div class="author-image"><img src="https://www.ecb.europa.eu/shared/img/boardmembers/cv_cipollone_portrait.jpg" /></div>
 <div class="author-details">
@@ -357,9 +423,7 @@
 </ol></div>
 ]]></content:encoded>
 <pubDate>Thu, 19 Feb 2026 17:35:00 GMT</pubDate>
-<pubDate>Thu, 19 Feb 2026 17:35:00 GMT</pubDate>
 </item>
-
 <item>
 <title>Synechron Partners With Cognition To Bring Autonomous AI Engineering To Global Financial Institutions</title>
 <link>http://www.mondovisione.com/media-and-resources/news/synechron-partners-with-cognition-to-bring-autonomous-ai-engineering-to-global-f-2026219/</link>
