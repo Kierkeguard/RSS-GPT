@@ -1358,3 +1358,21 @@ Existing_entries: 228
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-02-20 08:49:47.861669
+------------------------------------------------------
+Started: 2026-02-20 10:42:30.324694
+Existing_entries: 228
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Securities Commission Malaysia: Former Jalatama Officers Fail In Bid To Overturn Conviction And Sentence For Unlicensed Capital Market Activities - High Court Affirms Conviction And Sentence Of One-Year Imprisonment And RM1 Million Fine For Both Charges](http://www.mondovisione.com/media-and-resources/news/securities-commission-malaysia-former-jalatama-officers-fail-in-bid-to-overturn-2026220/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New WFE Research Highlights Key Considerations To Make Extended Exchange Trading Hours A Sustained Success](http://www.mondovisione.com/media-and-resources/news/new-wfe-research-highlights-key-considerations-to-make-extended-exchange-trading-2026220/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Worldline Unveils “One Commerce”, Powering The Next Generation Of Omnichannel Retail - A Unified Vision Enabling Merchants To Seamlessly Integrate Payments, Data, And Technology To Deliver Smarter, More Connected Customer Experiences](http://www.mondovisione.com/media-and-resources/news/worldline-unveils-one-commerce-powering-the-next-generation-of-omnichannel-re-2026220/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TOPPAN Edge To Join GFTN Forum Japan As Part of Japan Fintech Week 2026 - Using vLEI To Verify Authenticity Of AI Agents In Financial Transactions](http://www.mondovisione.com/media-and-resources/news/toppan-edge-to-join-gftn-forum-japan-as-part-of-japan-fintech-week-2026-using-2026220/)
+append_entries: 4
+Finish: 2026-02-20 10:42:31.593540
