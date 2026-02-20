@@ -1388,3 +1388,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Abu Dhabi Securities Exchange Circular No. (05) Of 2026 Concerning Annual Financial Report For The Year 2025](http://www.mondovisione.com/media-and-resources/news/abu-dhabi-securities-exchange-circular-no-05-of-2026-concerning-annual-financ-2026220/)
 append_entries: 2
 Finish: 2026-02-20 13:10:04.868937
+------------------------------------------------------
+Started: 2026-02-20 14:42:58.888870
+Existing_entries: 234
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Malawi Stock Exchange Weekly Summary Report, 20 February 2026](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-20-february-2026-2026220/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Chartered Status Can Offer A Lifelong Career Boost To Financial Services Professionals In The Age Of AI, Says CISI: By Lora Benson](http://www.mondovisione.com/media-and-resources/news/chartered-status-can-offer-a-lifelong-career-boost-to-financial-services-profess-2026220/)
+append_entries: 2
+Finish: 2026-02-20 14:42:59.887168
