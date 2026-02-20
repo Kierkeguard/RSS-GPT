@@ -1400,3 +1400,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Chartered Status Can Offer A Lifelong Career Boost To Financial Services Professionals In The Age Of AI, Says CISI: By Lora Benson](http://www.mondovisione.com/media-and-resources/news/chartered-status-can-offer-a-lifelong-career-boost-to-financial-services-profess-2026220/)
 append_entries: 2
 Finish: 2026-02-20 14:42:59.887168
+------------------------------------------------------
+Started: 2026-02-20 16:48:53.985674
+Existing_entries: 236
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC: Division Of Trading And Markets: Frequently Asked Questions Relating To Crypto Asset Activities And Distributed Ledger Technology](http://www.mondovisione.com/media-and-resources/news/sec-division-of-trading-and-markets-frequently-asked-questions-relating-to-cry-2026220/)
+append_entries: 1
+Finish: 2026-02-20 16:48:54.870326
