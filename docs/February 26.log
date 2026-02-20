@@ -1322,3 +1322,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Robinhood Markets, Inc. Reports January 2026 Operating Data](http://www.mondovisione.com/media-and-resources/news/robinhood-markets-inc-reports-january-2026-operating-data-2026219/)
 append_entries: 1
 Finish: 2026-02-19 22:37:31.153217
+------------------------------------------------------
+Started: 2026-02-20 02:34:03.269182
+Existing_entries: 224
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-02-20 02:34:04.603176
