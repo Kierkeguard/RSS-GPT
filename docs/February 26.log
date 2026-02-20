@@ -1439,3 +1439,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [US Secretary Of The Treasury Scott Bessent’s Remarks Before The Economic Club Of Dallas - Economic Security First](http://www.mondovisione.com/media-and-resources/news/us-secretary-of-the-treasury-scott-bessents-remarks-before-the-economic-club-of-2026220/)
 append_entries: 1
 Finish: 2026-02-20 20:38:38.868715
+------------------------------------------------------
+Started: 2026-02-20 22:32:30.698824
+Existing_entries: 243
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Commitments Of Traders Reports Update](http://www.mondovisione.com/media-and-resources/news/cftc-commitments-of-traders-reports-update-2026220/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nigerian Exchange Weekly Market Report For The Week Ended 20 February 2026](http://www.mondovisione.com/media-and-resources/news/nigerian-exchange-weekly-market-report-for-the-week-ended-20-february-2026-2026220/)
+append_entries: 2
+Finish: 2026-02-20 22:32:31.624952
