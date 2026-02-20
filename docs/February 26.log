@@ -1376,3 +1376,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [TOPPAN Edge To Join GFTN Forum Japan As Part of Japan Fintech Week 2026 - Using vLEI To Verify Authenticity Of AI Agents In Financial Transactions](http://www.mondovisione.com/media-and-resources/news/toppan-edge-to-join-gftn-forum-japan-as-part-of-japan-fintech-week-2026-using-2026220/)
 append_entries: 4
 Finish: 2026-02-20 10:42:31.593540
+------------------------------------------------------
+Started: 2026-02-20 13:10:03.510171
+Existing_entries: 232
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TPE (Tradable Private Equity) Announces Its First Transaction On The London Stock Exchange's Private Securities Market](http://www.mondovisione.com/media-and-resources/news/tpe-tradable-private-equity-announces-its-first-transaction-on-the-london-stoc-2026220/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Abu Dhabi Securities Exchange Circular No. (05) Of 2026 Concerning Annual Financial Report For The Year 2025](http://www.mondovisione.com/media-and-resources/news/abu-dhabi-securities-exchange-circular-no-05-of-2026-concerning-annual-financ-2026220/)
+append_entries: 2
+Finish: 2026-02-20 13:10:04.868937
