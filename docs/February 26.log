@@ -1430,3 +1430,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Updates To LME Group Fees And Charges 2026](http://www.mondovisione.com/media-and-resources/news/updates-to-lme-group-fees-and-charges-2026-2026220/)
 append_entries: 5
 Finish: 2026-02-20 18:56:06.722171
+------------------------------------------------------
+Started: 2026-02-20 20:38:37.639298
+Existing_entries: 242
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Secretary Of The Treasury Scott Bessent’s Remarks Before The Economic Club Of Dallas - Economic Security First](http://www.mondovisione.com/media-and-resources/news/us-secretary-of-the-treasury-scott-bessents-remarks-before-the-economic-club-of-2026220/)
+append_entries: 1
+Finish: 2026-02-20 20:38:38.868715
