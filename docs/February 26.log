@@ -1409,3 +1409,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SEC: Division Of Trading And Markets: Frequently Asked Questions Relating To Crypto Asset Activities And Distributed Ledger Technology](http://www.mondovisione.com/media-and-resources/news/sec-division-of-trading-and-markets-frequently-asked-questions-relating-to-cry-2026220/)
 append_entries: 1
 Finish: 2026-02-20 16:48:54.870326
+------------------------------------------------------
+Started: 2026-02-20 18:56:05.726411
+Existing_entries: 237
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority: Influencers Fined For Issuing Unauthorised Financial Promotions](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-influencers-fined-for-issuing-unauthorised-finan-2026220/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [S&P Global To Present At Raymond James' 47th Annual Institutional Investors Conference On March 3, 2026](http://www.mondovisione.com/media-and-resources/news/sandp-global-to-present-at-raymond-james-47th-annual-institutional-investors-conf-2026220/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Fed Proposal Marks Progress In Improving Stress Test Transparency](http://www.mondovisione.com/media-and-resources/news/fed-proposal-marks-progress-in-improving-stress-test-transparency-2026220/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESMA Publishes A Supervisory Briefing On The AAR Representativeness Obligation](http://www.mondovisione.com/media-and-resources/news/esma-publishes-a-supervisory-briefing-on-the-aar-representativeness-obligation-2026220/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Updates To LME Group Fees And Charges 2026](http://www.mondovisione.com/media-and-resources/news/updates-to-lme-group-fees-and-charges-2026-2026220/)
+append_entries: 5
+Finish: 2026-02-20 18:56:06.722171
