@@ -1529,3 +1529,12 @@ Existing_entries: 245
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-02-22 06:56:11.262301
+------------------------------------------------------
+Started: 2026-02-22 08:39:13.179965
+Existing_entries: 245
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Qatar Stock Exchange: FTSE Global Equity Index Series March 2026 Semi Annual Review Changes](http://www.mondovisione.com/media-and-resources/news/qatar-stock-exchange-ftse-global-equity-index-series-march-2026-semi-annual-rev-2026222/)
+append_entries: 1
+Finish: 2026-02-22 08:39:14.363536
