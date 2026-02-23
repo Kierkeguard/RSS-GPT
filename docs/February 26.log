@@ -1643,3 +1643,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Labor Market Data: Signal Or Noise? Federal Reserve Governor Christopher J. Waller, At The Great Realignment: Navigating AI, Demographic And Geoeconomic Change, 42nd Annual NABE Economic Policy Conference, The National Association For Business Economics, Washington, D.C.](http://www.mondovisione.com/media-and-resources/news/labor-market-data-signal-or-noise-federal-reserve-governor-christopher-j-wall-2026223/)
 append_entries: 2
 Finish: 2026-02-23 14:53:10.450043
+------------------------------------------------------
+Started: 2026-02-23 17:04:18.326821
+Existing_entries: 253
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Chairman Selig Announces Senior Staff Appointments](http://www.mondovisione.com/media-and-resources/news/cftc-chairman-selig-announces-senior-staff-appointments-2026223/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The EBA Publishes Follow-Up Report On ICT Risk Assessment Under The Supervisory Review And Evaluation Process](http://www.mondovisione.com/media-and-resources/news/the-eba-publishes-follow-up-report-on-ict-risk-assessment-under-the-supervisory-2026223/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESMA Consults On Guarantees As CCP Collateral And On Certain Aspects Of CCP Investment Policy](http://www.mondovisione.com/media-and-resources/news/esma-consults-on-guarantees-as-ccp-collateral-and-on-certain-aspects-of-ccp-inve-2026223/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [RISING STONE Lists On Euronext](http://www.mondovisione.com/media-and-resources/news/rising-stone-lists-on-euronext-2026223/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESMA Simplifies MiFID II/ MiFIR Obligations On Market Data](http://www.mondovisione.com/media-and-resources/news/esma-simplifies-mifid-ii-mifir-obligations-on-market-data-2026223/)
+append_entries: 5
+Finish: 2026-02-23 17:04:19.568326
