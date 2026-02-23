@@ -1631,3 +1631,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [FSB - Thematic Peer Review On Public Sector Backstop Funding Mechanisms: Summary Terms of Reference](http://www.mondovisione.com/media-and-resources/news/fsb-thematic-peer-review-on-public-sector-backstop-funding-mechanisms-summary-2026223/)
 append_entries: 1
 Finish: 2026-02-23 13:17:09.159919
+------------------------------------------------------
+Started: 2026-02-23 14:53:09.268444
+Existing_entries: 251
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NGX RegCo Issues Advisory On Recent Price Movements, Urges Informed Trading](http://www.mondovisione.com/media-and-resources/news/ngx-regco-issues-advisory-on-recent-price-movements-urges-informed-trading-2026223/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Labor Market Data: Signal Or Noise? Federal Reserve Governor Christopher J. Waller, At The Great Realignment: Navigating AI, Demographic And Geoeconomic Change, 42nd Annual NABE Economic Policy Conference, The National Association For Business Economics, Washington, D.C.](http://www.mondovisione.com/media-and-resources/news/labor-market-data-signal-or-noise-federal-reserve-governor-christopher-j-wall-2026223/)
+append_entries: 2
+Finish: 2026-02-23 14:53:10.450043
