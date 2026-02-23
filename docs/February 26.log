@@ -1592,3 +1592,12 @@ Existing_entries: 246
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-02-23 05:37:20.860805
+------------------------------------------------------
+Started: 2026-02-23 07:12:20.496966
+Existing_entries: 246
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Securities Commission Malaysia Charges Founder Of AUF MBZ With Offences Relating To Unlicensed Capital Market Activities - Former, Current Directors Of Two Unlisted Public Companies Also Charged For Abetment](http://www.mondovisione.com/media-and-resources/news/securities-commission-malaysia-charges-founder-of-auf-mbz-with-offences-relating-2026223/)
+append_entries: 1
+Finish: 2026-02-23 07:12:21.720775
