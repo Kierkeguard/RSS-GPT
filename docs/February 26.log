@@ -1679,3 +1679,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Borsa Istanbul Market Making Program Changes In Derivatives Market](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-market-making-program-changes-in-derivatives-market-2026223/)
 append_entries: 3
 Finish: 2026-02-23 19:14:40.536354
+------------------------------------------------------
+Started: 2026-02-23 20:51:23.444856
+Existing_entries: 261
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Swaps Report Update](http://www.mondovisione.com/media-and-resources/news/cftc-swaps-report-update-2026223/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Exchange Group - Options Markets - Market For Underlying Security Used For Openings On MIAX Options, MIAX Pearl Options, MIAX Emerald Options, And MIAX Sapphire Options For Newly Listed Symbols Effective Tuesday, February 24, 2026](http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-options-markets-market-for-underlying-security-used-for-2026223/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Exchange Group - Options Markets - New Listings Effective For February 24, 2026](http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-options-markets-new-listings-effective-for-february-24-2026223/)
+append_entries: 3
+Finish: 2026-02-23 20:51:24.621789
