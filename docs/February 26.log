@@ -1622,3 +1622,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Finnfund’s Hanna Loikkanen: Impact Investing Captivates Private Investors](http://www.mondovisione.com/media-and-resources/news/finnfunds-hanna-loikkanen-impact-investing-captivates-private-investors-2026223/)
 append_entries: 2
 Finish: 2026-02-23 10:54:24.682082
+------------------------------------------------------
+Started: 2026-02-23 13:17:07.868304
+Existing_entries: 250
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FSB - Thematic Peer Review On Public Sector Backstop Funding Mechanisms: Summary Terms of Reference](http://www.mondovisione.com/media-and-resources/news/fsb-thematic-peer-review-on-public-sector-backstop-funding-mechanisms-summary-2026223/)
+append_entries: 1
+Finish: 2026-02-23 13:17:09.159919
