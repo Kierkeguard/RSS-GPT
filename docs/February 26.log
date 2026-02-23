@@ -1601,3 +1601,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Securities Commission Malaysia Charges Founder Of AUF MBZ With Offences Relating To Unlicensed Capital Market Activities - Former, Current Directors Of Two Unlisted Public Companies Also Charged For Abetment](http://www.mondovisione.com/media-and-resources/news/securities-commission-malaysia-charges-founder-of-auf-mbz-with-offences-relating-2026223/)
 append_entries: 1
 Finish: 2026-02-23 07:12:21.720775
+------------------------------------------------------
+Started: 2026-02-23 08:56:56.974084
+Existing_entries: 247
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CoinShares Reduces Management Fee On Europe's Largest Physically-Backed Bitcoin ETP To 0.15% - Permanent Fee Reduction Reinforces Market Leadership And Commitment To Accessible Digital Asset Investment](http://www.mondovisione.com/media-and-resources/news/coinshares-reduces-management-fee-on-europes-largest-physically-backed-bitcoin-2026223/)
+append_entries: 1
+Finish: 2026-02-23 08:56:58.198354
