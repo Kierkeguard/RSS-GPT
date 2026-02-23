@@ -1664,3 +1664,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ESMA Simplifies MiFID II/ MiFIR Obligations On Market Data](http://www.mondovisione.com/media-and-resources/news/esma-simplifies-mifid-ii-mifir-obligations-on-market-data-2026223/)
 append_entries: 5
 Finish: 2026-02-23 17:04:19.568326
+------------------------------------------------------
+Started: 2026-02-23 19:14:39.234036
+Existing_entries: 258
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ISDA The Swap - Episode 55: Tokenization In Derivatives Markets](http://www.mondovisione.com/media-and-resources/news/isda-the-swap-episode-55-tokenization-in-derivatives-markets-2026223/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [DIFC’s Dubai FinTech Summit Expands Globally With Pakistan Digital Authority](http://www.mondovisione.com/media-and-resources/news/difcs-dubai-fintech-summit-expands-globally-with-pakistan-digital-authority-2026223/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Borsa Istanbul Market Making Program Changes In Derivatives Market](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-market-making-program-changes-in-derivatives-market-2026223/)
+append_entries: 3
+Finish: 2026-02-23 19:14:40.536354
