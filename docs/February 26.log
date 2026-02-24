@@ -1775,3 +1775,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Steep M&A Fall pulls Down Overall APAC Deal Activity By 36% YoY In January 2026, Reveals GlobalData](http://www.mondovisione.com/media-and-resources/news/steep-manda-fall-pulls-down-overall-apac-deal-activity-by-36-yoy-in-january-2026-2026224/)
 append_entries: 4
 Finish: 2026-02-24 13:18:08.076004
+------------------------------------------------------
+Started: 2026-02-24 14:55:34.561768
+Existing_entries: 279
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Operationalizing AI At The Federal Reserve, Federal Reserve Governor Christopher J. Waller, At The Federal Reserve Bank Of Boston 2026 Technology-Enabled Disruption Conference: Shaping The Future Of Finance And Payments, Boston, Massachusetts (Via Webcast)](http://www.mondovisione.com/media-and-resources/news/operationalizing-ai-at-the-federal-reserve-federal-reserve-governor-christopher-2026224/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC’s Division Of Enforcement Announces Updates To Enforcement Manual - Updates Reinforce Agency’s Commitment To Fairness And Efficiency Of Enforcement Processes](http://www.mondovisione.com/media-and-resources/news/secs-division-of-enforcement-announces-updates-to-enforcement-manual-updates-2026224/)
+append_entries: 2
+Finish: 2026-02-24 14:55:35.841076
