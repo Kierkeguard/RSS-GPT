@@ -1721,3 +1721,27 @@ Existing_entries: 265
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-02-24 07:07:00.797480
+------------------------------------------------------
+Started: 2026-02-24 08:56:08.924862
+Existing_entries: 265
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CoinShares Fund Flows: US Outflows Extend Streak Amid Weak Volumes](http://www.mondovisione.com/media-and-resources/news/coinshares-fund-flows-us-outflows-extend-streak-amid-weak-volumes-2026224/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Research Finds Triple-Digit ROI In Market Data Management Technology - TRG Screen Launches ROI Calculator To Help Firms Model Cost Savings, Efficiency Gains And Risk Reduction](http://www.mondovisione.com/media-and-resources/news/research-finds-triple-digit-roi-in-market-data-management-technology-trg-scree-2026224/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CoinShares Launches Hyperliquid Staking ETP With 0% Management Fee And 0.5% Yield - Europe's Leading Digital Asset Manager Brings Institutional-Grade Access To Hyperliquid, The Protocol Redefining Hybrid Finance](http://www.mondovisione.com/media-and-resources/news/coinshares-launches-hyperliquid-staking-etp-with-0-management-fee-and-05-yiel-2026224/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [DIFC Report: High-Net-Worth-Individuals With USD 87trn In Wealth Are Reshaping Global Investment Priorities](http://www.mondovisione.com/media-and-resources/news/difc-report-high-net-worth-individuals-with-usd-87trn-in-wealth-are-reshaping-g-2026224/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bursa Malaysia To Reclassify Investor Segments To Provide Greater Granularity On Trading Participation Data](http://www.mondovisione.com/media-and-resources/news/bursa-malaysia-to-reclassify-investor-segments-to-provide-greater-granularity-on-2026224/)
+Append: [Tokyo Commodity Exchange Welcomes The Hokuriku Bank As A Broker Member For Participating In TOCOM Electricity Futures Trading](http://www.mondovisione.com/media-and-resources/news/tokyo-commodity-exchange-welcomes-the-hokuriku-bank-as-a-broker-member-for-parti-2026224/)
+Append: [Remarks At U.S. Chamber Of Commerce Center For Capital Markets Competitiveness, Paul S. Atkins, SEC Chairman, Washington D.C., Feb. 23, 2026](http://www.mondovisione.com/media-and-resources/news/remarks-at-us-chamber-of-commerce-center-for-capital-markets-competitiveness-2026224/)
+Append: [Following Earlier Actions To Remove Reputation Risk From Its Supervision Of Banks, Federal Reserve Board Requests Comment On Proposal To Codify That Removal](http://www.mondovisione.com/media-and-resources/news/following-earlier-actions-to-remove-reputation-risk-from-its-supervision-of-bank-2026224/)
+append_entries: 8
+Finish: 2026-02-24 08:56:10.245226
