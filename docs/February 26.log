@@ -1757,3 +1757,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Broadridge Appoints Frank Troise As President, Global Capital Markets - Proven Innovator To Lead Front-To-Back Capital Markets Transformation Across Traditional And Digital Ecosystems](http://www.mondovisione.com/media-and-resources/news/broadridge-appoints-frank-troise-as-president-global-capital-markets-proven-i-2026224/)
 append_entries: 2
 Finish: 2026-02-24 10:54:24.311651
+------------------------------------------------------
+Started: 2026-02-24 13:18:06.765613
+Existing_entries: 275
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MarketAxess and DirectBooks Announce Integration to Streamline Access to Primary Issuance Data](http://www.mondovisione.com/media-and-resources/news/marketaxess-and-directbooks-announce-integration-to-streamline-access-to-primary-2026224/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Corporate Debt And Equity CUSIP Request Volumes Increase In January](http://www.mondovisione.com/media-and-resources/news/corporate-debt-and-equity-cusip-request-volumes-increase-in-january-2026224/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Capital.Com Reports Strong 2025 Growth As Trading Volume Reaches $3.42 Trillion - Group Maintains Focus On Decision-Support Tools And Platform Resilience Amid Elevated Market Activity](http://www.mondovisione.com/media-and-resources/news/capitalcom-reports-strong-2025-growth-as-trading-volume-reaches-342-trillion-2026224/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Steep M&A Fall pulls Down Overall APAC Deal Activity By 36% YoY In January 2026, Reveals GlobalData](http://www.mondovisione.com/media-and-resources/news/steep-manda-fall-pulls-down-overall-apac-deal-activity-by-36-yoy-in-january-2026-2026224/)
+append_entries: 4
+Finish: 2026-02-24 13:18:08.076004
