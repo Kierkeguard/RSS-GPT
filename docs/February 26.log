@@ -1745,3 +1745,15 @@ Append: [Remarks At U.S. Chamber Of Commerce Center For Capital Markets Competit
 Append: [Following Earlier Actions To Remove Reputation Risk From Its Supervision Of Banks, Federal Reserve Board Requests Comment On Proposal To Codify That Removal](http://www.mondovisione.com/media-and-resources/news/following-earlier-actions-to-remove-reputation-risk-from-its-supervision-of-bank-2026224/)
 append_entries: 8
 Finish: 2026-02-24 08:56:10.245226
+------------------------------------------------------
+Started: 2026-02-24 10:54:23.294762
+Existing_entries: 273
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Sirma Group Holding New In The Prime Standard Of The Frankfurt Stock Exchange](http://www.mondovisione.com/media-and-resources/news/sirma-group-holding-new-in-the-prime-standard-of-the-frankfurt-stock-exchange-2026224/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Broadridge Appoints Frank Troise As President, Global Capital Markets - Proven Innovator To Lead Front-To-Back Capital Markets Transformation Across Traditional And Digital Ecosystems](http://www.mondovisione.com/media-and-resources/news/broadridge-appoints-frank-troise-as-president-global-capital-markets-proven-i-2026224/)
+append_entries: 2
+Finish: 2026-02-24 10:54:24.311651
