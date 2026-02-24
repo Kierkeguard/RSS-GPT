@@ -1703,3 +1703,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [New Zealand Financial Markets Authority - Operational Resilience Thematic: Findings And Insights](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-operational-resilience-thematic-findi-2026223/)
 append_entries: 1
 Finish: 2026-02-23 22:48:41.962968
+------------------------------------------------------
+Started: 2026-02-24 02:37:22.064659
+Existing_entries: 265
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-02-24 02:37:23.252761
