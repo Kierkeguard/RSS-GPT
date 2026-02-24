@@ -1787,3 +1787,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SEC’s Division Of Enforcement Announces Updates To Enforcement Manual - Updates Reinforce Agency’s Commitment To Fairness And Efficiency Of Enforcement Processes](http://www.mondovisione.com/media-and-resources/news/secs-division-of-enforcement-announces-updates-to-enforcement-manual-updates-2026224/)
 append_entries: 2
 Finish: 2026-02-24 14:55:35.841076
+------------------------------------------------------
+Started: 2026-02-24 17:10:38.306243
+Existing_entries: 281
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Remarks At The Small Business Capital Formation Advisory Committee Meeting, Paul S. Atkins, SEC Chairman, Washington, D.C. (Delivered Virtually), Feb. 24, 2026](http://www.mondovisione.com/media-and-resources/news/remarks-at-the-small-business-capital-formation-advisory-committee-meeting-paul-2026224/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Opening Remarks For The “AI And Productivity Across The Economy” Panel, Federal Reserve Governor Lisa D. Cook, At “The Great Realignment: Navigating AI, Demographic, And Geoeconomic Shifts,” 42nd Annual NABE Economic Policy Conference, Washington, D.C.](http://www.mondovisione.com/media-and-resources/news/opening-remarks-for-the-ai-and-productivity-across-the-economy-panel-federal-2026224/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [AXIAN Secures A License For A Digital-First Regulated Financial Institution In The Comoros - AXIAN Has Secured Approval To Establish The First Fully Digital, Regulated Financial Institution In The Union Of The Comoros, Strengthening Its Digibank & Fintech Portfolio And Expanding Access To Formal Financial Services Nationwide](http://www.mondovisione.com/media-and-resources/news/axian-secures-a-license-for-a-digital-first-regulated-financial-institution-in-t-2026224/)
+append_entries: 3
+Finish: 2026-02-24 17:10:39.365560
