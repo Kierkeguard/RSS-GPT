@@ -1977,3 +1977,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ESMA Sets Out Clearing Thresholds Under EMIR 3](http://www.mondovisione.com/media-and-resources/news/esma-sets-out-clearing-thresholds-under-emir-3-2026225/)
 append_entries: 5
 Finish: 2026-02-25 19:12:54.224680
+------------------------------------------------------
+Started: 2026-02-25 20:41:01.941494
+Existing_entries: 321
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-02-25 20:41:03.704904
