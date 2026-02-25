@@ -1861,3 +1861,26 @@ Existing_entries: 295
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-02-25 05:24:31.206415
+------------------------------------------------------
+Started: 2026-02-25 07:08:36.313209
+Existing_entries: 295
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Trading Technologies To Provide Direct Connectivity To The National Stock Exchange Of India](http://www.mondovisione.com/media-and-resources/news/trading-technologies-to-provide-direct-connectivity-to-the-national-stock-exchan-2026225/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Secures Record $350 Million In Civil Penalties And $583 Million Back To Australians In Second Half Of 2025](http://www.mondovisione.com/media-and-resources/news/asic-secures-record-350-million-in-civil-penalties-and-583-million-back-to-aus-2026225/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Japan Exchange Group: Notice Concerning Changes To Senior Management](http://www.mondovisione.com/media-and-resources/news/japan-exchange-group-notice-concerning-changes-to-senior-management-2026225/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC: Our Gender Pay Gap Employer Statement (For 2024)](http://www.mondovisione.com/media-and-resources/news/asic-our-gender-pay-gap-employer-statement-for-2024-2026225/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Zealand Financial Markets Authority: OCR Pass Through Transparency - Delivering Transparency On The Pace At Which Financial Institutions Respond To Changes In The Official Cash Rate](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-ocr-pass-through-transparency-deliver-2026225/)
+Append: [Misconduct Reports To ASIC Highlight Spike In Corporate Governance Issues](http://www.mondovisione.com/media-and-resources/news/misconduct-reports-to-asic-highlight-spike-in-corporate-governance-issues-2026225/)
+Append: [CME Group U.S. Treasury Open Interest Surges To Record High Of 36.3 Million Contracts](http://www.mondovisione.com/media-and-resources/news/cme-group-us-treasury-open-interest-surges-to-record-high-of-363-million-cont-2026225/)
+append_entries: 7
+Finish: 2026-02-25 07:08:37.454526
