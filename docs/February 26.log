@@ -1905,3 +1905,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [GCEX Group Offers GB Yield Through GlobalBlock, Expanding Its Institutional Digital Asset Offering](http://www.mondovisione.com/media-and-resources/news/gcex-group-offers-gb-yield-through-globalblock-expanding-its-institutional-digi-2026225/)
 append_entries: 3
 Finish: 2026-02-25 10:55:12.024291
+------------------------------------------------------
+Started: 2026-02-25 13:17:41.070315
+Existing_entries: 305
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ETFGI Reports Global ETF Assets Hit New Record US$20.64 Trillion As January Net Inflows Hit Second Highest Level On Record](http://www.mondovisione.com/media-and-resources/news/etfgi-reports-global-etf-assets-hit-new-record-us2064-trillion-as-january-net-2026225/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Raises Medium‑Term Revenue Outlook And Outlines Strategy For Its Next Phase Of Scalable Growth At 2026 Investor Day](http://www.mondovisione.com/media-and-resources/news/nasdaq-raises-mediumterm-revenue-outlook-and-outlines-strategy-for-its-next-pha-2026225/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cross-Border Payments Solution Expands Into UK Market To Support SMEs](http://www.mondovisione.com/media-and-resources/news/cross-border-payments-solution-expands-into-uk-market-to-support-smes-2026225/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [GenAI Delivering Now, Tokenization Is Next: Financial Services Enters Period Of Accelerating Transformation, Landmark Broadridge Study Finds](http://www.mondovisione.com/media-and-resources/news/genai-delivering-now-tokenization-is-next-financial-services-enters-period-of-2026225/)
+append_entries: 4
+Finish: 2026-02-25 13:17:42.296910
