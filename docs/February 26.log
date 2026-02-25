@@ -1956,3 +1956,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Qatar Stock Exchange Announces An Official Holiday On The Occasion Of Bank Holiday](http://www.mondovisione.com/media-and-resources/news/qatar-stock-exchange-announces-an-official-holiday-on-the-occasion-of-bank-holid-2026225/)
 append_entries: 4
 Finish: 2026-02-25 17:12:28.280030
+------------------------------------------------------
+Started: 2026-02-25 19:12:52.930813
+Existing_entries: 316
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Basel Committee Discusses Recent Market Developments And Targeted Review Of Cryptoasset Standard](http://www.mondovisione.com/media-and-resources/news/basel-committee-discusses-recent-market-developments-and-targeted-review-of-cryp-2026225/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The EBA And ESMA Consult On Revised Suitability Assessment Requirements For Banks And Investment Firms](http://www.mondovisione.com/media-and-resources/news/the-eba-and-esma-consult-on-revised-suitability-assessment-requirements-for-bank-2026225/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Keynote Speech By European Commissioner Dombrovskis On The Digital Euro At Masters Of Digital 2026](http://www.mondovisione.com/media-and-resources/news/keynote-speech-by-european-commissioner-dombrovskis-on-the-digital-euro-at-maste-2026225/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ECB Adopts Opinion On Appointment Of Its Future Vice-President - Governing Council Has No Objection To Proposed Candidate Boris Vujčić](http://www.mondovisione.com/media-and-resources/news/ecb-adopts-opinion-on-appointment-of-its-future-vice-president-governing-counc-2026225/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESMA Sets Out Clearing Thresholds Under EMIR 3](http://www.mondovisione.com/media-and-resources/news/esma-sets-out-clearing-thresholds-under-emir-3-2026225/)
+append_entries: 5
+Finish: 2026-02-25 19:12:54.224680
