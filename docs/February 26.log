@@ -1923,3 +1923,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [GenAI Delivering Now, Tokenization Is Next: Financial Services Enters Period Of Accelerating Transformation, Landmark Broadridge Study Finds](http://www.mondovisione.com/media-and-resources/news/genai-delivering-now-tokenization-is-next-financial-services-enters-period-of-2026225/)
 append_entries: 4
 Finish: 2026-02-25 13:17:42.296910
+------------------------------------------------------
+Started: 2026-02-25 14:54:51.200497
+Existing_entries: 309
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Selects 4 Firms To Test Stablecoin Innovation In Its Regulatory Sandbox](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-selects-4-firms-to-test-stablecoin-innovation-in-2026225/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Adam Watson Joins DTCC As Managing Director And Head Of Asset Services](http://www.mondovisione.com/media-and-resources/news/adam-watson-joins-dtcc-as-managing-director-and-head-of-asset-services-2026225/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [William Quan To Join MarketAxess As Chief Technology Officer](http://www.mondovisione.com/media-and-resources/news/william-quan-to-join-marketaxess-as-chief-technology-officer-2026225/)
+append_entries: 3
+Finish: 2026-02-25 14:54:52.551241
