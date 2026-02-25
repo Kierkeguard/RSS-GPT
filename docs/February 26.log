@@ -1849,3 +1849,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Cboe To Present At The Raymond James Institutional Investors Conference On March 2](http://www.mondovisione.com/media-and-resources/news/cboe-to-present-at-the-raymond-james-institutional-investors-conference-on-march-2026224/)
 append_entries: 3
 Finish: 2026-02-24 22:38:44.737091
+------------------------------------------------------
+Started: 2026-02-25 02:38:17.937258
+Existing_entries: 295
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-02-25 02:38:18.991980
