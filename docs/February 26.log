@@ -1938,3 +1938,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [William Quan To Join MarketAxess As Chief Technology Officer](http://www.mondovisione.com/media-and-resources/news/william-quan-to-join-marketaxess-as-chief-technology-officer-2026225/)
 append_entries: 3
 Finish: 2026-02-25 14:54:52.551241
+------------------------------------------------------
+Started: 2026-02-25 17:12:26.401279
+Existing_entries: 312
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Stability Matters - Latest News From The FSB - February 2026](http://www.mondovisione.com/media-and-resources/news/stability-matters-latest-news-from-the-fsb-february-2026-2026225/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [China VC Funding Deal Volume And Value Up By 15% And 42% YoY In January 2026, Reveals GlobalData](http://www.mondovisione.com/media-and-resources/news/china-vc-funding-deal-volume-and-value-up-by-15-and-42-yoy-in-january-2026-re-2026225/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Payrails To Set Up Middle East Headquarters In Dubai](http://www.mondovisione.com/media-and-resources/news/payrails-to-set-up-middle-east-headquarters-in-dubai-2026225/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Qatar Stock Exchange Announces An Official Holiday On The Occasion Of Bank Holiday](http://www.mondovisione.com/media-and-resources/news/qatar-stock-exchange-announces-an-official-holiday-on-the-occasion-of-bank-holid-2026225/)
+append_entries: 4
+Finish: 2026-02-25 17:12:28.280030
