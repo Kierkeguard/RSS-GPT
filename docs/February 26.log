@@ -1890,3 +1890,18 @@ Existing_entries: 302
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-02-25 08:57:07.607352
+------------------------------------------------------
+Started: 2026-02-25 10:55:11.082991
+Existing_entries: 302
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Proposes Action To Close Gaps In Borrowers’ Credit Files](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-proposes-action-to-close-gaps-in-borrowers-credi-2026225/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TP ICAP’s Fusion Digital Assets Announces Strategic Evolution To Matched Principal Model, Improving Operational And Capital Efficiency](http://www.mondovisione.com/media-and-resources/news/tp-icaps-fusion-digital-assets-announces-strategic-evolution-to-matched-princip-2026225/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [GCEX Group Offers GB Yield Through GlobalBlock, Expanding Its Institutional Digital Asset Offering](http://www.mondovisione.com/media-and-resources/news/gcex-group-offers-gb-yield-through-globalblock-expanding-its-institutional-digi-2026225/)
+append_entries: 3
+Finish: 2026-02-25 10:55:12.024291
