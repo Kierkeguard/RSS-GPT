@@ -2051,3 +2051,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [NZX Full Year 2025 Results & Annual Report Published](http://www.mondovisione.com/media-and-resources/news/nzx-full-year-2025-results-and-annual-report-published-2026226/)
 append_entries: 3
 Finish: 2026-02-26 08:56:48.307795
+------------------------------------------------------
+Started: 2026-02-26 10:53:15.549285
+Existing_entries: 335
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The EBA Responds To The Commission’s Proposed Amendments To The Draft Technical Standards On Equivalent Legal Mechanism](http://www.mondovisione.com/media-and-resources/news/the-eba-responds-to-the-commissions-proposed-amendments-to-the-draft-technical-2026226/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ETFGI Reports Active ETFs Smash Records: Assets Top US$2 Trillion On Highest‑Ever Monthly Inflows](http://www.mondovisione.com/media-and-resources/news/etfgi-reports-active-etfs-smash-records-assets-top-us2-trillion-on-highesteve-2026226/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [85% Of Financial Firms Say Processes Will Struggle As Volumes Surge - AutoRek’s Investment Capital Markets (ICM) Survey 2026 Reveals Rising Transactional Volumes, Increasing Regulatory Pressure And A Growing Prominence Of Digital Assets, All Of Which Accelerates The Shift Toward AI-Enabled Automation](http://www.mondovisione.com/media-and-resources/news/85-of-financial-firms-say-processes-will-struggle-as-volumes-surge-autoreks-2026226/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Dubai Welcomes Mashreq’s USD 500 Million Additional Tier 1 Bond Offering](http://www.mondovisione.com/media-and-resources/news/nasdaq-dubai-welcomes-mashreqs-usd-500-million-additional-tier-1-bond-offering-2026226/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc - Commencement Of Share Buyback Programme](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-commencement-of-share-buyback-programme-2026226/)
+append_entries: 5
+Finish: 2026-02-26 10:53:16.810260
