@@ -2130,3 +2130,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [UK Financial Conduct Authority: Payments Vision Delivery Committee Publishes Payments Forward Plan](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-payments-vision-delivery-committee-publishes-pay-2026226/)
 append_entries: 3
 Finish: 2026-02-26 18:59:35.505909
+------------------------------------------------------
+Started: 2026-02-26 20:43:34.462900
+Existing_entries: 352
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Statement By New York State Department Of Financial Services Acting Superintendent Kaitlin Asrow At The Joint Legislative Public Hearing On FY 2027 Executive Budget - Economic Development](http://www.mondovisione.com/media-and-resources/news/statement-by-new-york-state-department-of-financial-services-acting-superintende-2026226/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Office Of The Comptroller Of The Currency: Comptroller Gould Testifies On Agency Priorities](http://www.mondovisione.com/media-and-resources/news/us-office-of-the-comptroller-of-the-currency-comptroller-gould-testifies-on-age-2026226/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CUSIP Global Services Launches Voluntary Carbon Market CUSIP Request Mechanism For Registries, Onboards EcoRegistry - Integration Supports Transparent Entity Identification And Verification Of Global Voluntary Carbon Market Projects](http://www.mondovisione.com/media-and-resources/news/cusip-global-services-launches-voluntary-carbon-market-cusip-request-mechanism-f-2026226/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Venture Capital Deal Volume Declines And Value Softens Moderately In January 2026, Reveals GlobalData](http://www.mondovisione.com/media-and-resources/news/uk-venture-capital-deal-volume-declines-and-value-softens-moderately-in-january-2026226/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [U.S. Department Of The Treasury Proposes Rule To Sever Swiss Bank MBaer’s Access To U.S. Financial System - MBaer Provides Financial Support To Iran And Russia](http://www.mondovisione.com/media-and-resources/news/us-department-of-the-treasury-proposes-rule-to-sever-swiss-bank-mbaers-access-2026226/)
+append_entries: 5
+Finish: 2026-02-26 20:43:35.915915
