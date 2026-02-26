@@ -2036,3 +2036,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [US Office Of The Comptroller Of The Currency Requests Comments On Proposal To Implement GENIUS Act](http://www.mondovisione.com/media-and-resources/news/us-office-of-the-comptroller-of-the-currency-requests-comments-on-proposal-to-im-2026226/)
 append_entries: 4
 Finish: 2026-02-26 07:06:48.082909
+------------------------------------------------------
+Started: 2026-02-26 08:56:47.072884
+Existing_entries: 332
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group Plc Preliminary Results For The Year Ended 31 December 2025 - A Year Of Strategic And Financial Delivery: Strong Growth, Significant Product Innovation, Improving Margins And Cash Flow - £2.8 Billion Returned To Shareholders -  Positive Outlook](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-preliminary-results-for-the-year-ended-31-decemb-2026226/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [valantic FSA Appoints Christian K. Schwarz As Managing Director For Payments - Enterprise Software Leader To Accelerate Growth And Innovation Across valantic FSA’s Payments Business](http://www.mondovisione.com/media-and-resources/news/valantic-fsa-appoints-christian-k-schwarz-as-managing-director-for-payments-e-2026226/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NZX Full Year 2025 Results & Annual Report Published](http://www.mondovisione.com/media-and-resources/news/nzx-full-year-2025-results-and-annual-report-published-2026226/)
+append_entries: 3
+Finish: 2026-02-26 08:56:48.307795
