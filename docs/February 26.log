@@ -2115,3 +2115,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ESMA Issues A Supervisory Briefing On Algorithmic Trading](http://www.mondovisione.com/media-and-resources/news/esma-issues-a-supervisory-briefing-on-algorithmic-trading-2026226/)
 append_entries: 1
 Finish: 2026-02-26 17:04:12.191393
+------------------------------------------------------
+Started: 2026-02-26 18:59:34.447400
+Existing_entries: 349
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NYSE Member Firms Report Fourth Quarter Results](http://www.mondovisione.com/media-and-resources/news/nyse-member-firms-report-fourth-quarter-results-2026226/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Basel Committee Issues A Consolidated Version Of Its Guidelines](http://www.mondovisione.com/media-and-resources/news/basel-committee-issues-a-consolidated-version-of-its-guidelines-2026226/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority: Payments Vision Delivery Committee Publishes Payments Forward Plan](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-payments-vision-delivery-committee-publishes-pay-2026226/)
+append_entries: 3
+Finish: 2026-02-26 18:59:35.505909
