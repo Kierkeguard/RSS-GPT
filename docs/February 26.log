@@ -2084,3 +2084,25 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Broadridge Empowers Investment Firms For FCA’s Consumer Composite Investments Framework - Enhanced Capabilities Help Investment Firms Deliver Clearer, More Flexible And Digitally Enabled Product Summary Documents Under Evolving UK Disclosure Rules](http://www.mondovisione.com/media-and-resources/news/broadridge-empowers-investment-firms-for-fcas-consumer-composite-investments-fr-2026226/)
 append_entries: 2
 Finish: 2026-02-26 13:18:44.561324
+------------------------------------------------------
+Started: 2026-02-26 14:52:50.311396
+Existing_entries: 342
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Announces Roundtable On Private Markets Valuation As Retail Investor Access Accelerates](http://www.mondovisione.com/media-and-resources/news/sec-announces-roundtable-on-private-markets-valuation-as-retail-investor-access-2026226/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TMX Group Welcomes International Mining Community To PDAC 2026](http://www.mondovisione.com/media-and-resources/news/tmx-group-welcomes-international-mining-community-to-pdac-2026-2026226/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESMA Consults On Post-Trade Risk Reduction Services Under EMIR 3](http://www.mondovisione.com/media-and-resources/news/esma-consults-on-post-trade-risk-reduction-services-under-emir-3-2026226/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ICE First Look At Mortgage Performance: National Mortgage Delinquency Rate Edges Lower In January](http://www.mondovisione.com/media-and-resources/news/ice-first-look-at-mortgage-performance-national-mortgage-delinquency-rate-edges-2026226/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New WFE Guide Helps Issuers Access Transition Finance](http://www.mondovisione.com/media-and-resources/news/new-wfe-guide-helps-issuers-access-transition-finance-2026226/)
+Append: [Terminus Capital Partners Makes Majority Investment In Eventus, Fueling Firm’s Continued Global Growth As Leading Trade Surveillance, Market Risk Solutions Provider](http://www.mondovisione.com/media-and-resources/news/terminus-capital-partners-makes-majority-investment-in-eventus-fueling-firms-c-2026226/)
+append_entries: 6
+Finish: 2026-02-26 14:52:51.677161
