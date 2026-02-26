@@ -2072,3 +2072,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [London Stock Exchange Group plc - Commencement Of Share Buyback Programme](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-commencement-of-share-buyback-programme-2026226/)
 append_entries: 5
 Finish: 2026-02-26 10:53:16.810260
+------------------------------------------------------
+Started: 2026-02-26 13:18:43.510286
+Existing_entries: 340
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX 2025 Consolidated Financial Statements](http://www.mondovisione.com/media-and-resources/news/hkex-2025-consolidated-financial-statements-2026226/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Broadridge Empowers Investment Firms For FCA’s Consumer Composite Investments Framework - Enhanced Capabilities Help Investment Firms Deliver Clearer, More Flexible And Digitally Enabled Product Summary Documents Under Evolving UK Disclosure Rules](http://www.mondovisione.com/media-and-resources/news/broadridge-empowers-investment-firms-for-fcas-consumer-composite-investments-fr-2026226/)
+append_entries: 2
+Finish: 2026-02-26 13:18:44.561324
