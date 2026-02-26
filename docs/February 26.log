@@ -2106,3 +2106,12 @@ Append: [New WFE Guide Helps Issuers Access Transition Finance](http://www.mondo
 Append: [Terminus Capital Partners Makes Majority Investment In Eventus, Fueling Firm’s Continued Global Growth As Leading Trade Surveillance, Market Risk Solutions Provider](http://www.mondovisione.com/media-and-resources/news/terminus-capital-partners-makes-majority-investment-in-eventus-fueling-firms-c-2026226/)
 append_entries: 6
 Finish: 2026-02-26 14:52:51.677161
+------------------------------------------------------
+Started: 2026-02-26 17:04:10.766613
+Existing_entries: 348
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESMA Issues A Supervisory Briefing On Algorithmic Trading](http://www.mondovisione.com/media-and-resources/news/esma-issues-a-supervisory-briefing-on-algorithmic-trading-2026226/)
+append_entries: 1
+Finish: 2026-02-26 17:04:12.191393
