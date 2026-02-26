@@ -2151,3 +2151,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [U.S. Department Of The Treasury Proposes Rule To Sever Swiss Bank MBaer’s Access To U.S. Financial System - MBaer Provides Financial Support To Iran And Russia](http://www.mondovisione.com/media-and-resources/news/us-department-of-the-treasury-proposes-rule-to-sever-swiss-bank-mbaers-access-2026226/)
 append_entries: 5
 Finish: 2026-02-26 20:43:35.915915
+------------------------------------------------------
+Started: 2026-02-26 22:38:42.401869
+Existing_entries: 357
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-02-26 22:38:43.513203
