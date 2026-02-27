@@ -2286,3 +2286,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ESMA: New Q&As Available](http://www.mondovisione.com/media-and-resources/news/esma-new-qandas-available-2026227/)
 append_entries: 5
 Finish: 2026-02-27 18:52:53.823499
+------------------------------------------------------
+Started: 2026-02-27 20:34:03.325271
+Existing_entries: 382
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Statement On The Adoption Of Final Rules Under The Holding Foreign Insiders Accountable Act, SEC Commissioner Mark T. Uyeda, Feb. 27, 2026](http://www.mondovisione.com/media-and-resources/news/statement-on-the-adoption-of-final-rules-under-the-holding-foreign-insiders-acco-2026227/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Statement On Final Rules For The Holding Foreign Insiders Accountable Act, Paul S. Atkins, SEC Chairman, Feb. 27, 2026](http://www.mondovisione.com/media-and-resources/news/statement-on-final-rules-for-the-holding-foreign-insiders-accountable-act-paul-2026227/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nigerian Exchange Weekly Report For The week Ended 27 February 2026](http://www.mondovisione.com/media-and-resources/news/nigerian-exchange-weekly-report-for-the-week-ended-27-february-2026-2026227/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Office Of The Comptroller Of The Currency Issues Second And Third Quarter 2026 CRA Evaluation Schedule](http://www.mondovisione.com/media-and-resources/news/us-office-of-the-comptroller-of-the-currency-issues-second-and-third-quarter-202-2026227/)
+append_entries: 4
+Finish: 2026-02-27 20:34:04.525481
