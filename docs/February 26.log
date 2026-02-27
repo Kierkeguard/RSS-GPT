@@ -2247,3 +2247,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Braddick To Take The Helm At The UK’s Banking Watchdog](http://www.mondovisione.com/media-and-resources/news/braddick-to-take-the-helm-at-the-uks-banking-watchdog-2026227/)
 append_entries: 2
 Finish: 2026-02-27 14:42:54.396135
+------------------------------------------------------
+Started: 2026-02-27 16:47:50.521462
+Existing_entries: 373
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC, Financial Services Agency Of Japan Hold Spring Financial Regulatory Dialogue](http://www.mondovisione.com/media-and-resources/news/sec-financial-services-agency-of-japan-hold-spring-financial-regulatory-dialogu-2026227/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MNI Indicators: Chicago Business Barometer™ - Climbed To 57.7 In February](http://www.mondovisione.com/media-and-resources/news/mni-indicators-chicago-business-barometer-climbed-to-577-in-february-2026227/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Have Your Say: ACER Opens Two Consultations On Electricity Topics](http://www.mondovisione.com/media-and-resources/news/have-your-say-acer-opens-two-consultations-on-electricity-topics-2026227/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Best Time Stamping/Latency Measurement System Winner: LDA Technologies' NeoTap X](http://www.mondovisione.com/media-and-resources/news/best-time-stampinglatency-measurement-system-winner-lda-technologies-neotap-x-2026227/)
+append_entries: 4
+Finish: 2026-02-27 16:47:51.557395
