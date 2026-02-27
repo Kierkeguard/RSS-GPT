@@ -2265,3 +2265,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Best Time Stamping/Latency Measurement System Winner: LDA Technologies' NeoTap X](http://www.mondovisione.com/media-and-resources/news/best-time-stampinglatency-measurement-system-winner-lda-technologies-neotap-x-2026227/)
 append_entries: 4
 Finish: 2026-02-27 16:47:51.557395
+------------------------------------------------------
+Started: 2026-02-27 18:52:52.566009
+Existing_entries: 377
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Adopts Final Rules For The Holding Foreign Insiders Accountable Act](http://www.mondovisione.com/media-and-resources/news/sec-adopts-final-rules-for-the-holding-foreign-insiders-accountable-act-2026227/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESMA Publishes The Results Of The Annual Transparency Calculations For Equity And Equity-Like Instruments](http://www.mondovisione.com/media-and-resources/news/esma-publishes-the-results-of-the-annual-transparency-calculations-for-equity-an-2026227/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BME Admits A New Issue Of Sustainable Bonds From The Autonomous Community Of Madrid To Trading On AIAF For €1 Billion](http://www.mondovisione.com/media-and-resources/news/bme-admits-a-new-issue-of-sustainable-bonds-from-the-autonomous-community-of-mad-2026227/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Dubai Financial Market Regulated Short Sell – Weekly Summary - 23rd February 2026 To 27th February 2026](http://www.mondovisione.com/media-and-resources/news/dubai-financial-market-regulated-short-sell-weekly-summary-23rd-february-202-2026227/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESMA: New Q&As Available](http://www.mondovisione.com/media-and-resources/news/esma-new-qandas-available-2026227/)
+append_entries: 5
+Finish: 2026-02-27 18:52:53.823499
