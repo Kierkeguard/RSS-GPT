@@ -2169,3 +2169,18 @@ Existing_entries: 357
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-02-27 05:16:35.209558
+------------------------------------------------------
+Started: 2026-02-27 07:01:29.571835
+Existing_entries: 357
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Extends Short Selling Relief For Market Makers In Precious Metal-Backed Exchange Traded Products](http://www.mondovisione.com/media-and-resources/news/asic-extends-short-selling-relief-for-market-makers-in-precious-metal-backed-exc-2026227/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Publication Of "Japan Financial Services Agency Analytical Notes (2026.2)"](http://www.mondovisione.com/media-and-resources/news/publication-of-japan-financial-services-agency-analytical-notes-20262-2026227/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Executives To Present At Upcoming Investor Conference](http://www.mondovisione.com/media-and-resources/news/nasdaq-executives-to-present-at-upcoming-investor-conference-2026227/)
+append_entries: 3
+Finish: 2026-02-27 07:01:30.814571
