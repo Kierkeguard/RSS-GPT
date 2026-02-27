@@ -2235,3 +2235,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [HKEX Welcomes Hong Kong Government Appointments To Its Board](http://www.mondovisione.com/media-and-resources/news/hkex-welcomes-hong-kong-government-appointments-to-its-board-2026227/)
 append_entries: 5
 Finish: 2026-02-27 13:10:21.705090
+------------------------------------------------------
+Started: 2026-02-27 14:42:53.396857
+Existing_entries: 371
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Malawi Stock Exchange Weekly Summary Report, 27 February 2026](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-27-february-2026-2026227/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Braddick To Take The Helm At The UK’s Banking Watchdog](http://www.mondovisione.com/media-and-resources/news/braddick-to-take-the-helm-at-the-uks-banking-watchdog-2026227/)
+append_entries: 2
+Finish: 2026-02-27 14:42:54.396135
