@@ -2184,3 +2184,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Nasdaq Executives To Present At Upcoming Investor Conference](http://www.mondovisione.com/media-and-resources/news/nasdaq-executives-to-present-at-upcoming-investor-conference-2026227/)
 append_entries: 3
 Finish: 2026-02-27 07:01:30.814571
+------------------------------------------------------
+Started: 2026-02-27 08:50:00.288513
+Existing_entries: 360
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Revised Lists Of The Moscow Exchange Indices Announced](http://www.mondovisione.com/media-and-resources/news/revised-lists-of-the-moscow-exchange-indices-announced-2026227/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASX Confirms Submission Of Commitments Plan To ASIC](http://www.mondovisione.com/media-and-resources/news/asx-confirms-submission-of-commitments-plan-to-asic-2026227/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Staff Reissues Staff Letter 25-50 to Add Additional No-Action Position On CPO Delegation Arrangements](http://www.mondovisione.com/media-and-resources/news/cftc-staff-reissues-staff-letter-25-50-to-add-additional-no-action-position-on-c-2026227/)
+append_entries: 3
+Finish: 2026-02-27 08:50:01.344135
