@@ -2199,3 +2199,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CFTC Staff Reissues Staff Letter 25-50 to Add Additional No-Action Position On CPO Delegation Arrangements](http://www.mondovisione.com/media-and-resources/news/cftc-staff-reissues-staff-letter-25-50-to-add-additional-no-action-position-on-c-2026227/)
 append_entries: 3
 Finish: 2026-02-27 08:50:01.344135
+------------------------------------------------------
+Started: 2026-02-27 10:44:29.949831
+Existing_entries: 363
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Scila Strengthens Leadership Team To Support Expansion In Energy And Commodities - Long-Standing Experts Appointed To Key Roles Following A Doubling Of The Company's Energy Client Base](http://www.mondovisione.com/media-and-resources/news/scila-strengthens-leadership-team-to-support-expansion-in-energy-and-commodities-2026227/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New WFE Data: Public Markets Post Strong Growth For 2025 Despite Geopolitical Instability](http://www.mondovisione.com/media-and-resources/news/new-wfe-data-public-markets-post-strong-growth-for-2025-despite-geopolitical-in-2026227/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [DiffusionData Wins “Best Price Sharing & Publishing Solution” At The TradingTech Insight Awards Europe 2026](http://www.mondovisione.com/media-and-resources/news/diffusiondata-wins-best-price-sharing-and-publishing-solution-at-the-tradingtech-2026227/)
+append_entries: 3
+Finish: 2026-02-27 10:44:31.292790
