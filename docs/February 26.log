@@ -2343,3 +2343,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SEC: Section 31 Transaction Fee Rate Advisory For Fiscal Year 2026](http://www.mondovisione.com/media-and-resources/news/sec-section-31-transaction-fee-rate-advisory-for-fiscal-year-2026-2026228/)
 append_entries: 1
 Finish: 2026-02-28 08:35:52.722335
+------------------------------------------------------
+Started: 2026-02-28 10:29:32.358177
+Existing_entries: 389
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-02-28 10:29:33.350927
