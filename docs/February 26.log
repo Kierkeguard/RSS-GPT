@@ -2334,3 +2334,12 @@ Existing_entries: 388
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-02-28 06:47:35.879557
+------------------------------------------------------
+Started: 2026-02-28 08:35:51.626813
+Existing_entries: 388
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC: Section 31 Transaction Fee Rate Advisory For Fiscal Year 2026](http://www.mondovisione.com/media-and-resources/news/sec-section-31-transaction-fee-rate-advisory-for-fiscal-year-2026-2026228/)
+append_entries: 1
+Finish: 2026-02-28 08:35:52.722335
