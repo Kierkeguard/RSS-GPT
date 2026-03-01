@@ -2442,3 +2442,15 @@ Existing_entries: 392
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-03-01 16:35:02.247698
+------------------------------------------------------
+Started: 2026-03-01 18:40:53.511087
+Existing_entries: 392
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Dubai Financial Market: Market Closure Effective Monday, 2 March 2026 And Tuesday 3, Mach 2026](http://www.mondovisione.com/media-and-resources/news/dubai-financial-market-market-closure-effective-monday-2-march-2026-and-tuesda-202631/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UAE Capital Market Authority: Market Closure Effective Monday, 2 March And Tuesday, 3 March 2026](http://www.mondovisione.com/media-and-resources/news/uae-capital-market-authority-market-closure-effective-monday-2-march-and-tuesd-202631/)
+append_entries: 2
+Finish: 2026-03-01 18:40:54.606657
