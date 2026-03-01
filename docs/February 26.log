@@ -2415,3 +2415,18 @@ Existing_entries: 389
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-03-01 10:30:27.148836
+------------------------------------------------------
+Started: 2026-03-01 12:59:34.239486
+Existing_entries: 389
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SET, mai, TFEX And LiVEx To Continue Normal Trading On Monday, March 2, 2026](http://www.mondovisione.com/media-and-resources/news/set-mai-tfex-and-livex-to-continue-normal-trading-on-monday-march-2-2026-202631/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Dubai Financial Services Authority Reminder: Current DFSA Working Arrangements – Statement: 1 March 2026](http://www.mondovisione.com/media-and-resources/news/dubai-financial-services-authority-reminder-current-dfsa-working-arrangements-202631/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Dubai International Financial Centre: Update On Regional Uncertainties - 1 March 2026](http://www.mondovisione.com/media-and-resources/news/dubai-international-financial-centre-update-on-regional-uncertainties-1-march-202631/)
+append_entries: 3
+Finish: 2026-03-01 12:59:35.354845
