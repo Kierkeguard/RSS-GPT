@@ -2559,3 +2559,26 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Trading Technologies Wins Best TCA Tool And Best Sell-Side OMS At TradingTech Insight Europe Awards 2026 - Abel Noser Solutions Rebranded To Trading Technologies](http://www.mondovisione.com/media-and-resources/news/trading-technologies-wins-best-tca-tool-and-best-sell-side-oms-at-tradingtech-in-202632/)
 append_entries: 2
 Finish: 2026-03-02 14:48:53.760532
+------------------------------------------------------
+Started: 2026-03-02 16:56:10.328313
+Existing_entries: 411
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Moscow Exchange Trading Volumes In February 2026](http://www.mondovisione.com/media-and-resources/news/moscow-exchange-trading-volumes-in-february-2026-202632/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Chairman Selig Announces Mel Gunewardena As Director Of The Office Of International Affairs And Senior Markets Advisor To The Chairman](http://www.mondovisione.com/media-and-resources/news/cftc-chairman-selig-announces-mel-gunewardena-as-director-of-the-office-of-inter-202632/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Nordic And Baltic Markets: Trading Statistics February 2026](http://www.mondovisione.com/media-and-resources/news/nasdaq-nordic-and-baltic-markets-trading-statistics-february-2026-202632/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Chairman Selig Announces Alan Brubaker As Director Of The Office Of Legislative And Intergovernmental Affairs](http://www.mondovisione.com/media-and-resources/news/cftc-chairman-selig-announces-alan-brubaker-as-director-of-the-office-of-legisla-202632/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Chairman Selig Announces David I. Miller As Director Of Enforcement](http://www.mondovisione.com/media-and-resources/news/cftc-chairman-selig-announces-david-i-miller-as-director-of-enforcement-202632/)
+Append: [London Stock Exchange Group plc - Total Voting Rights](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-total-voting-rights-202632/)
+Append: [Getting The Right Directions − Speech By Alan Taylor, Bank Of England External Member Of The Monetary Policy Committee - Given At The Monetary Policy Mandate Conference At Norges Bank, Oslo](http://www.mondovisione.com/media-and-resources/news/getting-the-right-directions-speech-by-alan-taylor-bank-of-england-external-m-202632/)
+append_entries: 7
+Finish: 2026-03-02 16:56:11.289298
