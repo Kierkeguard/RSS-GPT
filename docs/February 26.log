@@ -2499,3 +2499,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Borsa Istanbul: Regarding The Change In Order-To-Trade Ratio (OTR) In The Equity Market](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-regarding-the-change-in-order-to-trade-ratio-otr-in-the-equity-202632/)
 append_entries: 5
 Finish: 2026-03-02 07:05:30.626808
+------------------------------------------------------
+Started: 2026-03-02 08:53:13.055772
+Existing_entries: 399
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Japan Exchange Group Trading Overview In February 2026](http://www.mondovisione.com/media-and-resources/news/japan-exchange-group-trading-overview-in-february-2026-202632/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Securities Commission Malaysia Announces Two New Board Members](http://www.mondovisione.com/media-and-resources/news/securities-commission-malaysia-announces-two-new-board-members-202632/)
+append_entries: 2
+Finish: 2026-03-02 08:53:14.344368
