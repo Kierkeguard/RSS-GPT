@@ -2591,3 +2591,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [US Office Of The Comptroller Of The Currency Releases CRA Performance Evaluations For 24 National Banks And Federal Savings Associations](http://www.mondovisione.com/media-and-resources/news/us-office-of-the-comptroller-of-the-currency-releases-cra-performance-evaluation-202632/)
 append_entries: 1
 Finish: 2026-03-02 18:56:57.532683
+------------------------------------------------------
+Started: 2026-03-02 22:32:47.843376
+Existing_entries: 419
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Swaps Report Update](http://www.mondovisione.com/media-and-resources/news/cftc-swaps-report-update-202632/)
+append_entries: 1
+Finish: 2026-03-02 22:32:48.776902
