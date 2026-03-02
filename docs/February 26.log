@@ -2511,3 +2511,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Securities Commission Malaysia Announces Two New Board Members](http://www.mondovisione.com/media-and-resources/news/securities-commission-malaysia-announces-two-new-board-members-202632/)
 append_entries: 2
 Finish: 2026-03-02 08:53:14.344368
+------------------------------------------------------
+Started: 2026-03-02 10:50:20.108388
+Existing_entries: 401
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [IOSCO Announces Call For Applications For Its First Techsprint On Investor Education In The Age Of Artificial Intelligence (AI)](http://www.mondovisione.com/media-and-resources/news/iosco-announces-call-for-applications-for-its-first-techsprint-on-investor-educa-202632/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NSE Indices Fixed Income Index Dashboard For The Month Ended February 2026](http://www.mondovisione.com/media-and-resources/news/nse-indices-fixed-income-index-dashboard-for-the-month-ended-february-2026-202632/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Taiwan Futures Exchange Secures Dual Exemptions From The Ontario Securities Commission For Clearing Agency Recognition And Customer Clearing And Protection, Advancing Global Connectivity And Taiwan’s Asia Asset Management Center Goals](http://www.mondovisione.com/media-and-resources/news/taiwan-futures-exchange-secures-dual-exemptions-from-the-ontario-securities-comm-202632/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Helsinki Welcomes Easor To Main Market](http://www.mondovisione.com/media-and-resources/news/nasdaq-helsinki-welcomes-easor-to-main-market-202632/)
+append_entries: 4
+Finish: 2026-03-02 10:50:20.912399
