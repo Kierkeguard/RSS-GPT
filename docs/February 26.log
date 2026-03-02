@@ -2478,3 +2478,24 @@ Existing_entries: 394
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-03-02 05:16:57.429802
+------------------------------------------------------
+Started: 2026-03-02 07:05:29.714990
+Existing_entries: 394
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Temporary Closure Of Nasdaq Dubai Effective Monday, 2 March 2026 And Tuesday, 3 March 2026](http://www.mondovisione.com/media-and-resources/news/temporary-closure-of-nasdaq-dubai-effective-monday-2-march-2026-and-tuesday-3-202632/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tokyo Financial Exchange Trading Volume In February 2026](http://www.mondovisione.com/media-and-resources/news/tokyo-financial-exchange-trading-volume-in-february-2026-202632/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Comments By Monetary Authority Of Singapore On Market Conditions](http://www.mondovisione.com/media-and-resources/news/comments-by-monetary-authority-of-singapore-on-market-conditions-202632/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Investigation Into Mizuho Securities: Press Conference By KATAYAMA Satsuki, Japan Minister Of Finance And Minister Of State For Financial Services](http://www.mondovisione.com/media-and-resources/news/investigation-into-mizuho-securities-press-conference-by-katayama-satsuki-japa-202632/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Borsa Istanbul: Regarding The Change In Order-To-Trade Ratio (OTR) In The Equity Market](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-regarding-the-change-in-order-to-trade-ratio-otr-in-the-equity-202632/)
+append_entries: 5
+Finish: 2026-03-02 07:05:30.626808
