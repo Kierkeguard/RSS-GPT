@@ -2547,3 +2547,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [BIS Latest Update: AI's Economic Impact, Financial Stability Risks And Fiscal Spaces](http://www.mondovisione.com/media-and-resources/news/bis-latest-update-ais-economic-impact-financial-stability-risks-and-fiscal-sp-202632/)
 append_entries: 4
 Finish: 2026-03-02 13:10:48.911100
+------------------------------------------------------
+Started: 2026-03-02 14:48:52.688897
+Existing_entries: 409
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [DTCC Launches Next-Generation Equities Data Portals, Providing Clients With Advanced Analytics And Operational Insights - New Data Portals Will Enable Users To Access Information Across NSCC, DTC And ITP Suites Of Services](http://www.mondovisione.com/media-and-resources/news/dtcc-launches-next-generation-equities-data-portals-providing-clients-with-adva-202632/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Trading Technologies Wins Best TCA Tool And Best Sell-Side OMS At TradingTech Insight Europe Awards 2026 - Abel Noser Solutions Rebranded To Trading Technologies](http://www.mondovisione.com/media-and-resources/news/trading-technologies-wins-best-tca-tool-and-best-sell-side-oms-at-tradingtech-in-202632/)
+append_entries: 2
+Finish: 2026-03-02 14:48:53.760532
