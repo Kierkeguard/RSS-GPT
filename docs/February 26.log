@@ -2688,3 +2688,21 @@ Existing_entries: 434
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-03-03 16:56:05.147368
+------------------------------------------------------
+Started: 2026-03-03 18:59:56.421894
+Existing_entries: 434
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Vienna Stock Exchange: Palfinger Back In The ATX, Voestalpine Added To The ATX Five](http://www.mondovisione.com/media-and-resources/news/vienna-stock-exchange-palfinger-back-in-the-atx-voestalpine-added-to-the-atx-f-202633/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Dubai Reopens For Trading Effective Wednesday, 4 March 2026 At 10.00am GST](http://www.mondovisione.com/media-and-resources/news/nasdaq-dubai-reopens-for-trading-effective-wednesday-4-march-2026-at-1000am-gs-202633/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Dubai Financial Services Authority Reminds Investors To Exercise Caution And Prudence In Periods Of Heightened Global Tensions](http://www.mondovisione.com/media-and-resources/news/the-dubai-financial-services-authority-reminds-investors-to-exercise-caution-and-202633/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Dubai Financial Market: Resumption Of Trading Effective 4 March 2026](http://www.mondovisione.com/media-and-resources/news/dubai-financial-market-resumption-of-trading-effective-4-march-2026-202633/)
+append_entries: 4
+Finish: 2026-03-03 18:59:57.765009
