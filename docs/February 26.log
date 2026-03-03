@@ -2654,3 +2654,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Aryze Strengthens Compliance By Partnering With Muinmos](http://www.mondovisione.com/media-and-resources/news/aryze-strengthens-compliance-by-partnering-with-muinmos-202633/)
 append_entries: 2
 Finish: 2026-03-03 10:48:46.683113
+------------------------------------------------------
+Started: 2026-03-03 13:09:06.726788
+Existing_entries: 428
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-03-03 13:09:07.656122
