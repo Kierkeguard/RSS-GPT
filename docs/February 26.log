@@ -2706,3 +2706,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Dubai Financial Market: Resumption Of Trading Effective 4 March 2026](http://www.mondovisione.com/media-and-resources/news/dubai-financial-market-resumption-of-trading-effective-4-march-2026-202633/)
 append_entries: 4
 Finish: 2026-03-03 18:59:57.765009
+------------------------------------------------------
+Started: 2026-03-03 20:38:00.388450
+Existing_entries: 438
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Office Of The Comptroller Of The Currency Issues Final Rules To Reduce Regulatory Burden For Community Banks](http://www.mondovisione.com/media-and-resources/news/us-office-of-the-comptroller-of-the-currency-issues-final-rules-to-reduce-regula-202633/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Canadian Securities Regulators’ Release Updated Numbers On Disarming More Than 7,500 Fraudulent Investment Websites](http://www.mondovisione.com/media-and-resources/news/canadian-securities-regulators-release-updated-numbers-on-disarming-more-than-7-202633/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ISDA And EMTA Publish Revised Definitions For FX Derivatives Market](http://www.mondovisione.com/media-and-resources/news/isda-and-emta-publish-revised-definitions-for-fx-derivatives-market-202633/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [OCC February 2026 Monthly Volume Data](http://www.mondovisione.com/media-and-resources/news/occ-february-2026-monthly-volume-data-202633/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Purdue University/CME Group Ag Economy Barometer: Farmer Sentiment Rebounds, But Future Expectations Continue To Slide](http://www.mondovisione.com/media-and-resources/news/purdue-universitycme-group-ag-economy-barometer-farmer-sentiment-rebounds-but-202633/)
+append_entries: 5
+Finish: 2026-03-03 20:38:01.699214
