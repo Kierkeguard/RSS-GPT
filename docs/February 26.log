@@ -2612,3 +2612,18 @@ Existing_entries: 420
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-03-03 05:15:42.857079
+------------------------------------------------------
+Started: 2026-03-03 06:59:31.953332
+Existing_entries: 420
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Japan Financial Services Agency: Publication Of AI Discussion Paper (Version 1.1)](http://www.mondovisione.com/media-and-resources/news/japan-financial-services-agency-publication-of-ai-discussion-paper-version-11-202633/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Japan Securities And Exchange Surveillance Commission: Strategy & Policy 2026-2028 - For Trusted, Fair And Transparent Markets  In Response To The Changing Times -](http://www.mondovisione.com/media-and-resources/news/japan-securities-and-exchange-surveillance-commission-strategy-and-policy-2026-20-202633/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Director Of Companies Behind Crypto Trading Platform Agrees To Pay $1 Million To BC Securities Commission](http://www.mondovisione.com/media-and-resources/news/director-of-companies-behind-crypto-trading-platform-agrees-to-pay-1-million-to-202633/)
+append_entries: 3
+Finish: 2026-03-03 06:59:32.732595
