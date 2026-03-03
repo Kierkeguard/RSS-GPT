@@ -2642,3 +2642,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [JPX Monthly Headlines - February 2026](http://www.mondovisione.com/media-and-resources/news/jpx-monthly-headlines-february-2026-202633/)
 append_entries: 3
 Finish: 2026-03-03 08:50:38.898560
+------------------------------------------------------
+Started: 2026-03-03 10:48:45.627268
+Existing_entries: 426
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Michaela Fleischer Appointed Chief Operating And Financial Officer Of Global Legal Entity Identifier Foundation](http://www.mondovisione.com/media-and-resources/news/michaela-fleischer-appointed-chief-operating-and-financial-officer-of-global-leg-202633/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Aryze Strengthens Compliance By Partnering With Muinmos](http://www.mondovisione.com/media-and-resources/news/aryze-strengthens-compliance-by-partnering-with-muinmos-202633/)
+append_entries: 2
+Finish: 2026-03-03 10:48:46.683113
