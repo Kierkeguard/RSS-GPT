@@ -2660,3 +2660,25 @@ Existing_entries: 428
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-03-03 13:09:07.656122
+------------------------------------------------------
+Started: 2026-03-03 14:50:06.927586
+Existing_entries: 428
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Fiserv Small Business Index Remains At 143; Year-Over-Year Sales Grew +1.2%](http://www.mondovisione.com/media-and-resources/news/fiserv-small-business-index-remains-at-143-year-over-year-sales-grew-12-202633/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Spring Forecast 2026 Speech As Delivered By UK Chancellor Rachel Reeves](http://www.mondovisione.com/media-and-resources/news/spring-forecast-2026-speech-as-delivered-by-uk-chancellor-rachel-reeves-202633/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TNS Strengthens Financial Markets Leadership Across Asia Pacific](http://www.mondovisione.com/media-and-resources/news/tns-strengthens-financial-markets-leadership-across-asia-pacific-202633/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Liquidity Resiliency, Financial Stability, And The Role Of The Federal Reserve, Speech By Vice Chair For Supervision Michelle W. Bowman At The Roundtable On Liquidity And Lender Of Last Resort Sponsored By The Committee On Capital Markets Regulation, Washington, D.C.](http://www.mondovisione.com/media-and-resources/news/liquidity-resiliency-financial-stability-and-the-role-of-the-federal-reserve-202633/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESMA: New Investment Funds Drive Reduction In Costs To Investors](http://www.mondovisione.com/media-and-resources/news/esma-new-investment-funds-drive-reduction-in-costs-to-investors-202633/)
+Append: [CME Group Sets New Monthly ADV Record Of 37.6 Million Contracts In February, Up 14% Year Over Year](http://www.mondovisione.com/media-and-resources/news/cme-group-sets-new-monthly-adv-record-of-376-million-contracts-in-february-up-202633/)
+append_entries: 6
+Finish: 2026-03-03 14:50:08.000404
