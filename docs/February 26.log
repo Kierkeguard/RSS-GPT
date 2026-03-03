@@ -2727,3 +2727,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Purdue University/CME Group Ag Economy Barometer: Farmer Sentiment Rebounds, But Future Expectations Continue To Slide](http://www.mondovisione.com/media-and-resources/news/purdue-universitycme-group-ag-economy-barometer-farmer-sentiment-rebounds-but-202633/)
 append_entries: 5
 Finish: 2026-03-03 20:38:01.699214
+------------------------------------------------------
+Started: 2026-03-03 22:35:25.606103
+Existing_entries: 443
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Remarks: A Reset On Liquidity Regulation - As Prepared By US Treasury Secretary Scott Bessent, As Delivered By Under Secretary for Domestic Finance Jonathan McKernan](http://www.mondovisione.com/media-and-resources/news/remarks-a-reset-on-liquidity-regulation-as-prepared-by-us-treasury-secretary-202633/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group Reaches New Open Interest And Volume Records In Dairy Futures And Options](http://www.mondovisione.com/media-and-resources/news/cme-group-reaches-new-open-interest-and-volume-records-in-dairy-futures-and-opti-202633/)
+append_entries: 2
+Finish: 2026-03-03 22:35:26.693111
