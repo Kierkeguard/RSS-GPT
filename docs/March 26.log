@@ -75,3 +75,25 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Intercontinental Exchange Reports February Statistics](http://www.mondovisione.com/media-and-resources/news/intercontinental-exchange-reports-february-statistics-202634/)
 append_entries: 2
 Finish: 2026-03-04 16:54:05.596534
+------------------------------------------------------
+Started: 2026-03-04 18:58:08.804242
+Existing_entries: 19
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Consumer Investments Priorities: Strengthening Trust, Supporting Investors - Speech By Lucy Castledine, UK Financial Conduct Authority, Director Of Consumer Investments, At The TISA Inclusive Investing Conference 2026](http://www.mondovisione.com/media-and-resources/news/consumer-investments-priorities-strengthening-trust-supporting-investors-spe-202634/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Borsa Istanbul: BIST Buyback Index Periodic Review](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-bist-buyback-index-periodic-review-202634/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Miami International Holdings Reports Trading Results For February 2026 - MIAX Exchange Group Reports 25.4% Increase In Multi-List Options ADV YoY](http://www.mondovisione.com/media-and-resources/news/miami-international-holdings-reports-trading-results-for-february-2026-miax-ex-202634/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Abu Dhabi Securities Exchange Group: Request For Confirmation Of Operational And Financial Stability](http://www.mondovisione.com/media-and-resources/news/abu-dhabi-securities-exchange-group-request-for-confirmation-of-operational-and-202634/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Non-Jordanian Ownership In Companies Listed On The Amman Stock Exchange Reached 46.4%, Of Which 32.9% For Institutional Investors](http://www.mondovisione.com/media-and-resources/news/non-jordanian-ownership-in-companies-listed-on-the-amman-stock-exchange-reached-202634/)
+Append: [Announcement On Amendments Regarding Debt Securities Market And Borsa İstanbul Money Market Procedures](http://www.mondovisione.com/media-and-resources/news/announcement-on-amendments-regarding-debt-securities-market-and-borsa-istanbul-m-202634/)
+append_entries: 6
+Finish: 2026-03-04 18:58:09.985272
