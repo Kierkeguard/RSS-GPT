@@ -118,3 +118,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [FIA Announces 2026 President’s Award Winners - Annual Award Honours Individuals From FIA's Member Firms Who Have Advanced Key Strategic Initiatives](http://www.mondovisione.com/media-and-resources/news/fia-announces-2026-presidents-award-winners-annual-award-honours-individuals-202634/)
 append_entries: 5
 Finish: 2026-03-04 20:36:51.806659
+------------------------------------------------------
+Started: 2026-03-04 22:37:17.277576
+Existing_entries: 30
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cboe Global Markets Reports Trading Volume For February 2026](http://www.mondovisione.com/media-and-resources/news/cboe-global-markets-reports-trading-volume-for-february-2026-202634/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Zealand Financial Markets Authority: ASB Ordered To Pay $2.1m After Fair Dealing Breaches Affecting Over 25,000 Customers](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-asb-ordered-to-pay-21m-after-fair-dea-202634/)
+append_entries: 2
+Finish: 2026-03-04 22:37:18.304311
