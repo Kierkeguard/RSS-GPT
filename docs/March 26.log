@@ -63,3 +63,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Clearstream, DTCC, And Euroclear Map The Course To Interoperability And Drive Widespread Adoption Of Digital Asset Securities](http://www.mondovisione.com/media-and-resources/news/clearstream-dtcc-and-euroclear-map-the-course-to-interoperability-and-drive-wi-202634/)
 append_entries: 1
 Finish: 2026-03-04 14:40:54.791524
+------------------------------------------------------
+Started: 2026-03-04 16:54:04.663516
+Existing_entries: 17
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The World Federation Of Exchanges Announces The 2026 WFE Women Leaders List](http://www.mondovisione.com/media-and-resources/news/the-world-federation-of-exchanges-announces-the-2026-wfe-women-leaders-list-202634/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Intercontinental Exchange Reports February Statistics](http://www.mondovisione.com/media-and-resources/news/intercontinental-exchange-reports-february-statistics-202634/)
+append_entries: 2
+Finish: 2026-03-04 16:54:05.596534
