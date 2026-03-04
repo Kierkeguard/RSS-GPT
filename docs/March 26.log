@@ -54,3 +54,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [LSEG And ASX Partner To Modernise Derivatives Market Trading Platform](http://www.mondovisione.com/media-and-resources/news/lseg-and-asx-partner-to-modernise-derivatives-market-trading-platform-202634/)
 append_entries: 4
 Finish: 2026-03-04 13:07:53.621473
+------------------------------------------------------
+Started: 2026-03-04 14:40:53.715674
+Existing_entries: 16
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Clearstream, DTCC, And Euroclear Map The Course To Interoperability And Drive Widespread Adoption Of Digital Asset Securities](http://www.mondovisione.com/media-and-resources/news/clearstream-dtcc-and-euroclear-map-the-course-to-interoperability-and-drive-wi-202634/)
+append_entries: 1
+Finish: 2026-03-04 14:40:54.791524
