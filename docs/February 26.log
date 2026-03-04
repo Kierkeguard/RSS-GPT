@@ -2751,3 +2751,12 @@ Existing_entries: 445
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-03-04 05:11:03.850449
+------------------------------------------------------
+Started: 2026-03-04 06:56:13.970597
+Existing_entries: 445
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Zealand Financial Markets Authority: Former NZ Financial Adviser Sentenced For Breaching Stop Order](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-former-nz-financial-adviser-sentenced-f-202634/)
+append_entries: 1
+Finish: 2026-03-04 06:56:15.048927
