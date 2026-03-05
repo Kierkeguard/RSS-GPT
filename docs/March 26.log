@@ -265,3 +265,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ISDA derivatiViews: Refreshing The FX Definitions](http://www.mondovisione.com/media-and-resources/news/isda-derivativiews-refreshing-the-fx-definitions-202635/)
 append_entries: 5
 Finish: 2026-03-05 20:42:24.944282
+------------------------------------------------------
+Started: 2026-03-05 22:37:26.666639
+Existing_entries: 61
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FIA Highlights Challenges, Opportunities Of 24/7 Trading And Clearing](http://www.mondovisione.com/media-and-resources/news/fia-highlights-challenges-opportunities-of-247-trading-and-clearing-202635/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Reports February 2026 Volumes](http://www.mondovisione.com/media-and-resources/news/nasdaq-reports-february-2026-volumes-202635/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Federal Bank Regulatory Agencies Clarify The Capital Treatment Of Tokenized Securities](http://www.mondovisione.com/media-and-resources/news/us-federal-bank-regulatory-agencies-clarify-the-capital-treatment-of-tokenized-s-202635/)
+append_entries: 3
+Finish: 2026-03-05 22:37:27.861895
