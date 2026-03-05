@@ -130,3 +130,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [New Zealand Financial Markets Authority: ASB Ordered To Pay $2.1m After Fair Dealing Breaches Affecting Over 25,000 Customers](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-asb-ordered-to-pay-21m-after-fair-dea-202634/)
 append_entries: 2
 Finish: 2026-03-04 22:37:18.304311
+------------------------------------------------------
+Started: 2026-03-05 02:33:46.785847
+Existing_entries: 32
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-03-05 02:33:47.810609
