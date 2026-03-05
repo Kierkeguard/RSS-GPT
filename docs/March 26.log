@@ -202,3 +202,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [MarketAxess Announces Trading Volume Statistics For February 2026](http://www.mondovisione.com/media-and-resources/news/marketaxess-announces-trading-volume-statistics-for-february-2026-202635/)
 append_entries: 2
 Finish: 2026-03-05 13:12:07.979586
+------------------------------------------------------
+Started: 2026-03-05 14:51:37.819009
+Existing_entries: 46
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BitGo Selected To Provide Stablecoin Infrastructure And Support Distribution For SoFiUSD](http://www.mondovisione.com/media-and-resources/news/bitgo-selected-to-provide-stablecoin-infrastructure-and-support-distribution-for-202635/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Exegy And Strands Partner To Launch Comprehensive Institutional-Grade Prediction Market And Digital Asset Data Feed - Strategic Partnership Adds Real-Time Prediction Market, Digital Asset, And Smart Contract Data From Centralized And DeFi Venues To The Global Coverage Of Axiom’s Consolidated Service](http://www.mondovisione.com/media-and-resources/news/exegy-and-strands-partner-to-launch-comprehensive-institutional-grade-prediction-202635/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ICE Makes Investment In OKX, Establishing Strategic Relationship](http://www.mondovisione.com/media-and-resources/news/ice-makes-investment-in-okx-establishing-strategic-relationship-202635/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Adaptive Announces Strategic Investment From HSBC And Citi To Fuel Capital Markets Technology Innovation](http://www.mondovisione.com/media-and-resources/news/adaptive-announces-strategic-investment-from-hsbc-and-citi-to-fuel-capital-marke-202635/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tradeweb Reports February 2026 Total Trading Volume Of $61.8 Trillion And Average Daily Volume Of $3.1 Trillion](http://www.mondovisione.com/media-and-resources/news/tradeweb-reports-february-2026-total-trading-volume-of-618-trillion-and-averag-202635/)
+append_entries: 5
+Finish: 2026-03-05 14:51:39.831433
