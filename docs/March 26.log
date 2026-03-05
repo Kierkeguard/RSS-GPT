@@ -223,3 +223,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Tradeweb Reports February 2026 Total Trading Volume Of $61.8 Trillion And Average Daily Volume Of $3.1 Trillion](http://www.mondovisione.com/media-and-resources/news/tradeweb-reports-february-2026-total-trading-volume-of-618-trillion-and-averag-202635/)
 append_entries: 5
 Finish: 2026-03-05 14:51:39.831433
+------------------------------------------------------
+Started: 2026-03-05 18:08:54.227532
+Existing_entries: 51
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Investor Advisory Committee To Host March 12 Meeting](http://www.mondovisione.com/media-and-resources/news/sec-investor-advisory-committee-to-host-march-12-meeting-202635/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euronext Diversifies Its Financial Derivatives Franchise With The Launch Of Mini Options On ETFs](http://www.mondovisione.com/media-and-resources/news/euronext-diversifies-its-financial-derivatives-franchise-with-the-launch-of-mini-202635/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Announces Roundtable On Options Market Structure Reform](http://www.mondovisione.com/media-and-resources/news/sec-announces-roundtable-on-options-market-structure-reform-202635/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [PIABA To Testify Before House Committee On Financial Services About FINRA And The MSRB - “Improvements Are Urgently Needed”: Investor Attorneys Increasingly Concerned That FINRA’s Actions Contradict Its Mission Of Investor Protection](http://www.mondovisione.com/media-and-resources/news/piaba-to-testify-before-house-committee-on-financial-services-about-finra-and-th-202635/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Amman Stock Exchange Weekly Summary](http://www.mondovisione.com/media-and-resources/news/amman-stock-exchange-weekly-summary-202635/)
+append_entries: 5
+Finish: 2026-03-05 18:08:55.180972
