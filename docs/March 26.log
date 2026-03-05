@@ -190,3 +190,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Solactive Silver Total Return Leveraged Indices Selected As Underlying Indices For Silver Total Return Etns By Four Major South Korean Securities Firms](http://www.mondovisione.com/media-and-resources/news/solactive-silver-total-return-leveraged-indices-selected-as-underlying-indices-f-202635/)
 append_entries: 4
 Finish: 2026-03-05 10:48:46.809371
+------------------------------------------------------
+Started: 2026-03-05 13:12:05.802094
+Existing_entries: 44
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Broadridge Appoints Allen Weinberg As Chief Growth And Strategy Officer](http://www.mondovisione.com/media-and-resources/news/broadridge-appoints-allen-weinberg-as-chief-growth-and-strategy-officer-202635/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MarketAxess Announces Trading Volume Statistics For February 2026](http://www.mondovisione.com/media-and-resources/news/marketaxess-announces-trading-volume-statistics-for-february-2026-202635/)
+append_entries: 2
+Finish: 2026-03-05 13:12:07.979586
