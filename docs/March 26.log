@@ -323,3 +323,15 @@ Append: [Joint Trades Statement On FAQs On The Capital Treatment Of Tokenized Se
 Append: [Nasdaq Texas Launches With Inaugural Dual Listings](http://www.mondovisione.com/media-and-resources/news/nasdaq-texas-launches-with-inaugural-dual-listings-202636/)
 append_entries: 6
 Finish: 2026-03-06 08:46:25.379011
+------------------------------------------------------
+Started: 2026-03-06 10:41:11.965819
+Existing_entries: 71
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Harvest Global Investments Limited Launches Harvest G2 Tech 50 ETF Tracking The Solactive Harvest Tiger G2 Tech 50 Select Index](http://www.mondovisione.com/media-and-resources/news/harvest-global-investments-limited-launches-harvest-g2-tech-50-etf-tracking-the-202636/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group PLC Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-transaction-in-own-shares-202636/)
+append_entries: 2
+Finish: 2026-03-06 10:41:13.422682
