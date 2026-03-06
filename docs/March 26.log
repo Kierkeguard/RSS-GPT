@@ -280,3 +280,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [US Federal Bank Regulatory Agencies Clarify The Capital Treatment Of Tokenized Securities](http://www.mondovisione.com/media-and-resources/news/us-federal-bank-regulatory-agencies-clarify-the-capital-treatment-of-tokenized-s-202635/)
 append_entries: 3
 Finish: 2026-03-05 22:37:27.861895
+------------------------------------------------------
+Started: 2026-03-06 02:31:46.437521
+Existing_entries: 64
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-03-06 02:31:47.446094
