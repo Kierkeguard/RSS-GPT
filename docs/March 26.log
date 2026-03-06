@@ -301,3 +301,25 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Parliamentary Joint Committee On Corporations And Financial Services, Opening Statement, 6 March 2026 - Opening Statement By ASIC Chair Joe Longo At The Parliamentary Joint Committee On Corporations And Financial Services, Inquiry Into The Oversight Of ASIC, The Takeovers Panel And The Corporations Legislation, Public Hearing On 6 March 2026](http://www.mondovisione.com/media-and-resources/news/parliamentary-joint-committee-on-corporations-and-financial-services-opening-st-202636/)
 append_entries: 1
 Finish: 2026-03-06 06:57:44.607091
+------------------------------------------------------
+Started: 2026-03-06 08:46:24.353928
+Existing_entries: 65
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: ["Strengthening Foundations And Driving Value Creation In Singapore's Listed Companies" - Address By Mr Chia Der Jiun, Managing Director Of The Monetary Authority Of Singapore, At The Singapore Institute Of Directors’ Inaugural Chairpersons Guild Forum On 6 March 2026](http://www.mondovisione.com/media-and-resources/news/strengthening-foundations-and-driving-value-creation-in-singapores-listed-comp-202636/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Act On Special Measures For Strengthening Financial Functions: Press Conference By KATAYAMA Satsuki, Japan Minister Of Finance And Minister Of State For Financial Services](http://www.mondovisione.com/media-and-resources/news/act-on-special-measures-for-strengthening-financial-functions-press-conference-202636/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Circular On The Release Of The Revised Lead Futures Contract Specifications And Lead Futures Rules Of Shanghai Futures Exchange](http://www.mondovisione.com/media-and-resources/news/circular-on-the-release-of-the-revised-lead-futures-contract-specifications-and-202636/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Publication Of "Japan Financial Services Agency Analytical Notes (2026.3)"](http://www.mondovisione.com/media-and-resources/news/publication-of-japan-financial-services-agency-analytical-notes-20263-202636/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Joint Trades Statement On FAQs On The Capital Treatment Of Tokenized Securities](http://www.mondovisione.com/media-and-resources/news/joint-trades-statement-on-faqs-on-the-capital-treatment-of-tokenized-securities-202636/)
+Append: [Nasdaq Texas Launches With Inaugural Dual Listings](http://www.mondovisione.com/media-and-resources/news/nasdaq-texas-launches-with-inaugural-dual-listings-202636/)
+append_entries: 6
+Finish: 2026-03-06 08:46:25.379011
