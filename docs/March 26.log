@@ -292,3 +292,12 @@ Existing_entries: 64
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-03-06 05:11:38.763682
+------------------------------------------------------
+Started: 2026-03-06 06:57:43.598175
+Existing_entries: 64
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Parliamentary Joint Committee On Corporations And Financial Services, Opening Statement, 6 March 2026 - Opening Statement By ASIC Chair Joe Longo At The Parliamentary Joint Committee On Corporations And Financial Services, Inquiry Into The Oversight Of ASIC, The Takeovers Panel And The Corporations Legislation, Public Hearing On 6 March 2026](http://www.mondovisione.com/media-and-resources/news/parliamentary-joint-committee-on-corporations-and-financial-services-opening-st-202636/)
+append_entries: 1
+Finish: 2026-03-06 06:57:44.607091
