@@ -378,3 +378,21 @@ Append: [Tel Aviv Stock Exchange Conference Call Recording March 5, 2026- Financ
 Append: [EEX Group Monthly Volumes – February 2026](http://www.mondovisione.com/media-and-resources/news/eex-group-monthly-volumes-february-2026-202636/)
 append_entries: 6
 Finish: 2026-03-06 16:50:21.043955
+------------------------------------------------------
+Started: 2026-03-06 18:54:34.375366
+Existing_entries: 82
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CCP Global Publishes The PQD Quarterly Trends Report For 2025 Q4](http://www.mondovisione.com/media-and-resources/news/ccp-global-publishes-the-pqd-quarterly-trends-report-for-2025-q4-202636/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Navigating Inflation And Employment In An Era Of Supply Shocks And AI - Speech By Isabel Schnabel, Member Of The Executive Board Of The ECB, At The 2026 US Monetary Policy Forum](http://www.mondovisione.com/media-and-resources/news/navigating-inflation-and-employment-in-an-era-of-supply-shocks-and-ai-speech-b-202636/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Dubai Financial Market Regulated Short Sell – Weekly Summary -  4th March 2026 To 6th March 2026](http://www.mondovisione.com/media-and-resources/news/dubai-financial-market-regulated-short-sell-weekly-summary-4th-march-2026-t-202636/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Borsa İstanbul’s Opening Bell Rang For Gentaş Kimya Sanayi ve Ticaret Pazarlama A.Ş.](http://www.mondovisione.com/media-and-resources/news/borsa-istanbuls-opening-bell-rang-for-genta-kimya-sanayi-ve-ticaret-pazarlama-202636/)
+append_entries: 4
+Finish: 2026-03-06 18:54:35.410775
