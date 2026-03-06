@@ -335,3 +335,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [London Stock Exchange Group PLC Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-transaction-in-own-shares-202636/)
 append_entries: 2
 Finish: 2026-03-06 10:41:13.422682
+------------------------------------------------------
+Started: 2026-03-06 13:07:42.507020
+Existing_entries: 73
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER Supports Certification Of The First European Hydrogen Transmission Network Operator](http://www.mondovisione.com/media-and-resources/news/acer-supports-certification-of-the-first-european-hydrogen-transmission-network-202636/)
+append_entries: 1
+Finish: 2026-03-06 13:07:43.643559
