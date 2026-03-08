@@ -531,3 +531,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [NGX Group, Central Securities Clearing System, Women In Management, Business And Public Service To Ring The Bell For Gender Equality](http://www.mondovisione.com/media-and-resources/news/ngx-group-central-securities-clearing-system-women-in-management-business-and-202638/)
 append_entries: 1
 Finish: 2026-03-08 12:59:40.022799
+------------------------------------------------------
+Started: 2026-03-08 14:29:54.346538
+Existing_entries: 93
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-03-08 14:29:55.407108
