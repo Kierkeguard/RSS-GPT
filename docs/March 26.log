@@ -675,3 +675,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CME Group Energy Complex Reaches All-Time Daily Volume Record Of 8.3 Million Contracts](http://www.mondovisione.com/media-and-resources/news/cme-group-energy-complex-reaches-all-time-daily-volume-record-of-83-million-con-202639/)
 append_entries: 3
 Finish: 2026-03-09 14:56:46.210975
+------------------------------------------------------
+Started: 2026-03-09 17:00:06.431533
+Existing_entries: 121
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LME Consults On Proposed Enhancements To Its Physical Market Infrastructure](http://www.mondovisione.com/media-and-resources/news/lme-consults-on-proposed-enhancements-to-its-physical-market-infrastructure-202639/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Announces Marc H. Sielski As Executive Director](http://www.mondovisione.com/media-and-resources/news/cftc-announces-marc-h-sielski-as-executive-director-202639/)
+append_entries: 2
+Finish: 2026-03-09 17:00:07.845961
