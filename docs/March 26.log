@@ -573,3 +573,25 @@ Existing_entries: 93
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-03-09 05:21:07.553606
+------------------------------------------------------
+Started: 2026-03-09 07:09:06.986168
+Existing_entries: 93
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Launch Of JPX Start-Up Acceleration 100 Index](http://www.mondovisione.com/media-and-resources/news/launch-of-jpx-start-up-acceleration-100-index-202639/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [People, Standards And AI: Strengthening Hong Kong’s  Financial Backbone - Keynote Remarks At The Hong Kong Securities And Investment Institute Chairman’s Cocktail, Dr Kelvin Wong Chairman, Hong Kong Securities And Futures Commission](http://www.mondovisione.com/media-and-resources/news/people-standards-and-ai-strengthening-hong-kongs-financial-backbone-keynot-202639/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Monetary Authority Of Singapore-Economic Society Of Singapore Essay Competition 2026](http://www.mondovisione.com/media-and-resources/news/monetary-authority-of-singapore-economic-society-of-singapore-essay-competition-202639/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group Announces First Trades For South Asia Crude Palm Oil (Fastmarkets) Futures](http://www.mondovisione.com/media-and-resources/news/cme-group-announces-first-trades-for-south-asia-crude-palm-oil-fastmarkets-fut-202639/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [World Federation Of Exchanges (WFE) Names Rehab Sallam, Head Of International Relations At The Egyptian Exchange, Among The Most Influential Women Leaders In Global Capital Markets](http://www.mondovisione.com/media-and-resources/news/world-federation-of-exchanges-wfe-names-rehab-sallam-head-of-international-re-202639/)
+Append: [Update For The DIFC Community - 8 March 2026](http://www.mondovisione.com/media-and-resources/news/update-for-the-difc-community-8-march-2026-202639/)
+append_entries: 6
+Finish: 2026-03-09 07:09:07.963874
