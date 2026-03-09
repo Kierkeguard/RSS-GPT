@@ -619,3 +619,21 @@ Append: [SET Market Report For February 2026](http://www.mondovisione.com/media-
 Append: [London Stock Exchange Group PLC Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-transaction-in-own-shares-202639/)
 append_entries: 8
 Finish: 2026-03-09 08:53:03.364784
+------------------------------------------------------
+Started: 2026-03-09 10:51:52.359323
+Existing_entries: 107
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Securities Commission Malaysia Unveils Capital Market Masterplan 2026-2030 - Supporting Malaysia’s Shift To A Resilient, High-Income Economy](http://www.mondovisione.com/media-and-resources/news/securities-commission-malaysia-unveils-capital-market-masterplan-2026-2030-sup-202639/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Broadridge’s Distributed Ledger Repo Platform Achieves 457% Year Over Year Growth In February - February 2026 ADV Of $362 Billion, Highlighting Sustained Institutional Scale Following Breakout Year](http://www.mondovisione.com/media-and-resources/news/broadridges-distributed-ledger-repo-platform-achieves-457-year-over-year-growt-202639/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Government Policy Paper: HM Treasury Market Engagement Group](http://www.mondovisione.com/media-and-resources/news/uk-government-policy-paper-hm-treasury-market-engagement-group-202639/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Teciem Welcomes Didier Bouillard As Chairman Of Board Of Directors - Chair’s Independence And Proven Experience Positions Teciem For Long-Term Success](http://www.mondovisione.com/media-and-resources/news/teciem-welcomes-didier-bouillard-as-chairman-of-board-of-directors-chairs-ind-202639/)
+append_entries: 4
+Finish: 2026-03-09 10:51:53.819442
