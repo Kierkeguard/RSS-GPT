@@ -660,3 +660,18 @@ Append: [Veteran Technology Executive And Entrepreneur Keith Todd Launches Sapph
 Append: [Nasdaq To Launch Equity Token Design, Putting Issuers At The Center Of Tokenization](http://www.mondovisione.com/media-and-resources/news/nasdaq-to-launch-equity-token-design-putting-issuers-at-the-center-of-tokenizat-202639/)
 append_entries: 7
 Finish: 2026-03-09 13:15:42.024241
+------------------------------------------------------
+Started: 2026-03-09 14:56:44.830930
+Existing_entries: 118
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER Will Consult On Developments & Initiatives In The EU Power Purchase Agreements Market](http://www.mondovisione.com/media-and-resources/news/acer-will-consult-on-developments-and-initiatives-in-the-eu-power-purchase-agreeme-202639/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cboe Introduces Innovative Prediction Markets Framework, Expanding Choice Beyond Yes-Or-No Outcomes](http://www.mondovisione.com/media-and-resources/news/cboe-introduces-innovative-prediction-markets-framework-expanding-choice-beyond-202639/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group Energy Complex Reaches All-Time Daily Volume Record Of 8.3 Million Contracts](http://www.mondovisione.com/media-and-resources/news/cme-group-energy-complex-reaches-all-time-daily-volume-record-of-83-million-con-202639/)
+append_entries: 3
+Finish: 2026-03-09 14:56:46.210975
