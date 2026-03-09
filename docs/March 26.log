@@ -705,3 +705,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Leading Asset Managers To Join New Corastone Platform As Investors Alongside Apollo, Franklin Templeton And KKR - Expanded Institutional Participation Underscores Growing Demand For Private Market Opportunities And Standardized Operating Infrastructure](http://www.mondovisione.com/media-and-resources/news/leading-asset-managers-to-join-new-corastone-platform-as-investors-alongside-apo-202639/)
 append_entries: 4
 Finish: 2026-03-09 19:00:14.900400
+------------------------------------------------------
+Started: 2026-03-09 20:40:23.040226
+Existing_entries: 127
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Chairman Michael S. Selig, Chairman: FIA Global Cleared Markets Conference - The Next Era Of American Markets Leadership, Boca Raton, Florida](http://www.mondovisione.com/media-and-resources/news/cftc-chairman-michael-s-selig-chairman-fia-global-cleared-markets-conference-202639/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Swaps Report Update](http://www.mondovisione.com/media-and-resources/news/cftc-swaps-report-update-202639/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Remarks At The 45th Annual Small Business Forum, SEC Commissioner Mark T. Uyeda, Washington D.C., March 9, 2026](http://www.mondovisione.com/media-and-resources/news/remarks-at-the-45th-annual-small-business-forum-sec-commissioner-mark-t-uyeda-202639/)
+append_entries: 3
+Finish: 2026-03-09 20:40:25.000570
