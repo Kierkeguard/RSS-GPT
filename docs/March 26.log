@@ -720,3 +720,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Remarks At The 45th Annual Small Business Forum, SEC Commissioner Mark T. Uyeda, Washington D.C., March 9, 2026](http://www.mondovisione.com/media-and-resources/news/remarks-at-the-45th-annual-small-business-forum-sec-commissioner-mark-t-uyeda-202639/)
 append_entries: 3
 Finish: 2026-03-09 20:40:25.000570
+------------------------------------------------------
+Started: 2026-03-09 22:34:56.085919
+Existing_entries: 130
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Winning Playbook For Our Markets - Opening Remarks Of Walt Lukken, President And CEO Of FIA, At The 2026 FIA Global Cleared Markets Conference In Boca Raton, Florida](http://www.mondovisione.com/media-and-resources/news/the-winning-playbook-for-our-markets-opening-remarks-of-walt-lukken-president-202639/)
+append_entries: 1
+Finish: 2026-03-09 22:34:57.493366
