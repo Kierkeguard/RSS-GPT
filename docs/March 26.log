@@ -836,3 +836,21 @@ Append: [European Parliament Approves Nomination Of Boris Vujčić As Vice Presi
 Append: [Borsa İstanbul’s Opening Bell Rang For Luxera Gayrimenkul Yatırım Ortaklığı A.Ş.](http://www.mondovisione.com/media-and-resources/news/borsa-istanbuls-opening-bell-rang-for-luxera-gayrimenkul-yatrm-ortakl-a-2026310/)
 append_entries: 8
 Finish: 2026-03-10 18:57:37.598159
+------------------------------------------------------
+Started: 2026-03-10 20:40:01.629527
+Existing_entries: 152
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq EVP & CFO Sarah Youngwood To Present At The 2026 Bank Of America Information And Business Services Conference](http://www.mondovisione.com/media-and-resources/news/nasdaq-evp-and-cfo-sarah-youngwood-to-present-at-the-2026-bank-of-america-informat-2026310/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Announces End-Of-Month Open Short Interest Positions In Nasdaq Stocks As Of Settlement Date February 27, 2026](http://www.mondovisione.com/media-and-resources/news/nasdaq-announces-end-of-month-open-short-interest-positions-in-nasdaq-stocks-as-2026310/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NYSE Group Consolidated Short Interest Report](http://www.mondovisione.com/media-and-resources/news/nyse-group-consolidated-short-interest-report-2026310/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NGX Group, International Finance Corporation, Central Securities Clearing System And Women in Management, Business And Public Service Convene Leaders To Advance Gender Equality At 2026 Ring The Bell Ceremony](http://www.mondovisione.com/media-and-resources/news/ngx-group-international-finance-corporation-central-securities-clearing-system-2026310/)
+append_entries: 4
+Finish: 2026-03-10 20:40:02.602270
