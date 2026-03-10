@@ -785,3 +785,12 @@ Append: [Coinshares Fund Flows: Digital Asset Flows Remain Resilient Amid Iran-D
 Append: [KB Asset Management Launches RISE China AI Semiconductor Top 4 Plus ETF Tracking The Solactive China AI Semiconductor Top 4 Plus Index](http://www.mondovisione.com/media-and-resources/news/kb-asset-management-launches-rise-china-ai-semiconductor-top-4-plus-etf-tracking-2026310/)
 append_entries: 7
 Finish: 2026-03-10 10:48:43.553571
+------------------------------------------------------
+Started: 2026-03-10 13:13:05.733067
+Existing_entries: 141
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [AutoRek RegToolKit®: Streamlining Regulatory Compliance](http://www.mondovisione.com/media-and-resources/news/autorek-regtoolkit-streamlining-regulatory-compliance-2026310/)
+append_entries: 1
+Finish: 2026-03-10 13:13:06.734575
