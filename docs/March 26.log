@@ -756,3 +756,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [It’s Tough Being A Director (But That Doesn’t Mean You Shouldn’t Do It): Keynote Address By ASIC Chair Joe Longo At The AICD Australian Governance Summit In Sydney On 10 March 2026](http://www.mondovisione.com/media-and-resources/news/its-tough-being-a-director-but-that-doesnt-mean-you-shouldnt-do-it-keynote-2026310/)
 append_entries: 3
 Finish: 2026-03-10 06:57:55.286548
+------------------------------------------------------
+Started: 2026-03-10 08:52:08.538804
+Existing_entries: 134
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-03-10 08:52:09.645825
