@@ -729,3 +729,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [The Winning Playbook For Our Markets - Opening Remarks Of Walt Lukken, President And CEO Of FIA, At The 2026 FIA Global Cleared Markets Conference In Boca Raton, Florida](http://www.mondovisione.com/media-and-resources/news/the-winning-playbook-for-our-markets-opening-remarks-of-walt-lukken-president-202639/)
 append_entries: 1
 Finish: 2026-03-09 22:34:57.493366
+------------------------------------------------------
+Started: 2026-03-10 02:30:11.375321
+Existing_entries: 131
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-03-10 02:30:12.500189
