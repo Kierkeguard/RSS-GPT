@@ -800,3 +800,15 @@ Existing_entries: 142
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-03-10 14:54:58.727028
+------------------------------------------------------
+Started: 2026-03-10 16:59:21.032459
+Existing_entries: 142
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [One In Two US Companies Can't Expand Globally Without Breaking Rules - While Europeans Automate E-Invoicing, Billion-Dollar US Companies Still Rely On Spreadsheets, Study Finds](http://www.mondovisione.com/media-and-resources/news/one-in-two-us-companies-cant-expand-globally-without-breaking-rules-while-eur-2026310/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group PLC Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-transaction-in-own-shares-2026310/)
+append_entries: 2
+Finish: 2026-03-10 16:59:21.943660
