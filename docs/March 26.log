@@ -762,3 +762,26 @@ Existing_entries: 134
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-03-10 08:52:09.645825
+------------------------------------------------------
+Started: 2026-03-10 10:48:42.474195
+Existing_entries: 134
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [eBay And Liberis Launch Flexible Growth Financing For UK Small Businesses](http://www.mondovisione.com/media-and-resources/news/ebay-and-liberis-launch-flexible-growth-financing-for-uk-small-businesses-2026310/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FNZ Strengthens Executive Leadership Team With Key Appointment](http://www.mondovisione.com/media-and-resources/news/fnz-strengthens-executive-leadership-team-with-key-appointment-2026310/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Broadridge And Crypto.Com Connect To Enable Crypto Order Routing For Brokers Globally Via NYFIX  - Crypto.Com Also Becomes Broadridge’s First Cryptocurrency Trading Connection In Asia Leveraging NYFIX’s Robust FIX Connectivity And Global Reach](http://www.mondovisione.com/media-and-resources/news/broadridge-and-cryptocom-connect-to-enable-crypto-order-routing-for-brokers-glo-2026310/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX: Reminder Of Deadline For Applications To The Listing Committee And Listing Review Committee](http://www.mondovisione.com/media-and-resources/news/hkex-reminder-of-deadline-for-applications-to-the-listing-committee-and-listing-2026310/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [GCEX Expands Offering With Tokenised Gold Trading](http://www.mondovisione.com/media-and-resources/news/gcex-expands-offering-with-tokenised-gold-trading-2026310/)
+Append: [Coinshares Fund Flows: Digital Asset Flows Remain Resilient Amid Iran-Driven Market Volatility](http://www.mondovisione.com/media-and-resources/news/coinshares-fund-flows-digital-asset-flows-remain-resilient-amid-iran-driven-mar-2026310/)
+Append: [KB Asset Management Launches RISE China AI Semiconductor Top 4 Plus ETF Tracking The Solactive China AI Semiconductor Top 4 Plus Index](http://www.mondovisione.com/media-and-resources/news/kb-asset-management-launches-rise-china-ai-semiconductor-top-4-plus-etf-tracking-2026310/)
+append_entries: 7
+Finish: 2026-03-10 10:48:43.553571
