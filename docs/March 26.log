@@ -920,3 +920,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Securities Commission Malaysia, Companies Commission Of Malaysia To Enhance Data-Sharing To Drive MSME Growth And Market Integrity](http://www.mondovisione.com/media-and-resources/news/securities-commission-malaysia-companies-commission-of-malaysia-to-enhance-data-2026311/)
 append_entries: 5
 Finish: 2026-03-11 10:48:39.537469
+------------------------------------------------------
+Started: 2026-03-11 13:12:52.382664
+Existing_entries: 166
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Index, Ratings And Terminals Pricing Inflation Slows For The First Time In 5 Years, New Research Finds](http://www.mondovisione.com/media-and-resources/news/index-ratings-and-terminals-pricing-inflation-slows-for-the-first-time-in-5-yea-2026311/)
+append_entries: 1
+Finish: 2026-03-11 13:12:53.662951
