@@ -938,3 +938,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ICE Announces MERS eRegistry Surpasses 3 Million eNotes - Milestone Reflects The Growing Use Of eNotes Across The Mortgage Finance Ecosystem As Lenders, Investors And Warehouse Providers Scale Up Digital Processes](http://www.mondovisione.com/media-and-resources/news/ice-announces-mers-eregistry-surpasses-3-million-enotes-milestone-reflects-the-2026311/)
 append_entries: 1
 Finish: 2026-03-11 14:52:59.961097
+------------------------------------------------------
+Started: 2026-03-11 16:59:03.312414
+Existing_entries: 168
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Warsaw Stock Exchange As A Centre Of Polish‑Swedish Dialogue On The Future Of European Capital](http://www.mondovisione.com/media-and-resources/news/the-warsaw-stock-exchange-as-a-centre-of-polishswedish-dialogue-on-the-future-o-2026311/)
+append_entries: 1
+Finish: 2026-03-11 16:59:04.399067
