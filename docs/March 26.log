@@ -962,3 +962,25 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Amman Stock Exchange: The Ring The Bell For Gender Equality Initiative Under The Theme Ringing For Rights, Justice And Action](http://www.mondovisione.com/media-and-resources/news/amman-stock-exchange-the-ring-the-bell-for-gender-equality-initiative-under-the-2026311/)
 append_entries: 3
 Finish: 2026-03-11 19:00:01.957190
+------------------------------------------------------
+Started: 2026-03-11 20:39:15.475970
+Existing_entries: 172
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group Inc. Announces First-Quarter 2026 Earnings Release, Conference Call](http://www.mondovisione.com/media-and-resources/news/cme-group-inc-announces-first-quarter-2026-earnings-release-conference-call-2026311/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euronext Announces March 2026 Annual Review Results Of The PSI®](http://www.mondovisione.com/media-and-resources/news/euronext-announces-march-2026-annual-review-results-of-the-psi-2026311/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Prudential Regulation Authority Fines U K Insurance Limited £10,625,000](http://www.mondovisione.com/media-and-resources/news/uk-prudential-regulation-authority-fines-u-k-insurance-limited-10625000-2026311/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Eurosystem Unveils Appia Roadmap For Europe’s Tokenised Finance](http://www.mondovisione.com/media-and-resources/news/eurosystem-unveils-appia-roadmap-for-europes-tokenised-finance-2026311/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [EU Financial Markets Enter 2026 Amid High-Risk Environment](http://www.mondovisione.com/media-and-resources/news/eu-financial-markets-enter-2026-amid-high-risk-environment-2026311/)
+Append: [Euronext Announces March 2026 Results Of The OBX® Family](http://www.mondovisione.com/media-and-resources/news/euronext-announces-march-2026-results-of-the-obx-family-2026311/)
+append_entries: 6
+Finish: 2026-03-11 20:39:16.774950
