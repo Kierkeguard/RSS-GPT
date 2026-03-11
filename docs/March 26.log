@@ -984,3 +984,21 @@ Append: [EU Financial Markets Enter 2026 Amid High-Risk Environment](http://www.
 Append: [Euronext Announces March 2026 Results Of The OBX® Family](http://www.mondovisione.com/media-and-resources/news/euronext-announces-march-2026-results-of-the-obx-family-2026311/)
 append_entries: 6
 Finish: 2026-03-11 20:39:16.774950
+------------------------------------------------------
+Started: 2026-03-11 22:31:58.305805
+Existing_entries: 178
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Zealand Financial Markets Authority Expands Sandbox To Offer Wider Support For FinTech Firms](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-expands-sandbox-to-offer-wider-support-f-2026311/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC And SEC Announce Historic Memorandum Of Understanding Between Agencies](http://www.mondovisione.com/media-and-resources/news/cftc-and-sec-announce-historic-memorandum-of-understanding-between-agencies-2026311/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Deutsche Börse Group: Business Indicators For February 2026](http://www.mondovisione.com/media-and-resources/news/deutsche-brse-group-business-indicators-for-february-2026-2026311/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [sFOX Partners With EDX Markets To Enhance Liquidity And Execution For Institutional Crypto Trading](http://www.mondovisione.com/media-and-resources/news/sfox-partners-with-edx-markets-to-enhance-liquidity-and-execution-for-institutio-2026311/)
+append_entries: 4
+Finish: 2026-03-11 22:31:59.436009
