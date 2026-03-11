@@ -947,3 +947,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [The Warsaw Stock Exchange As A Centre Of Polish‑Swedish Dialogue On The Future Of European Capital](http://www.mondovisione.com/media-and-resources/news/the-warsaw-stock-exchange-as-a-centre-of-polishswedish-dialogue-on-the-future-o-2026311/)
 append_entries: 1
 Finish: 2026-03-11 16:59:04.399067
+------------------------------------------------------
+Started: 2026-03-11 19:00:00.321304
+Existing_entries: 169
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Borsa İstanbul’s Opening Bell Rang For Metropal Kurumsal Hizmetler A.Ş.](http://www.mondovisione.com/media-and-resources/news/borsa-istanbuls-opening-bell-rang-for-metropal-kurumsal-hizmetler-a-2026311/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [DIFC’s Dubai PropTech Hub Poised To Unlock More Than AED 53bn In Annual Worker Productivity](http://www.mondovisione.com/media-and-resources/news/difcs-dubai-proptech-hub-poised-to-unlock-more-than-aed-53bn-in-annual-worker-p-2026311/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Amman Stock Exchange: The Ring The Bell For Gender Equality Initiative Under The Theme Ringing For Rights, Justice And Action](http://www.mondovisione.com/media-and-resources/news/amman-stock-exchange-the-ring-the-bell-for-gender-equality-initiative-under-the-2026311/)
+append_entries: 3
+Finish: 2026-03-11 19:00:01.957190
