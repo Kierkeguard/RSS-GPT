@@ -929,3 +929,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Index, Ratings And Terminals Pricing Inflation Slows For The First Time In 5 Years, New Research Finds](http://www.mondovisione.com/media-and-resources/news/index-ratings-and-terminals-pricing-inflation-slows-for-the-first-time-in-5-yea-2026311/)
 append_entries: 1
 Finish: 2026-03-11 13:12:53.662951
+------------------------------------------------------
+Started: 2026-03-11 14:52:59.074923
+Existing_entries: 167
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ICE Announces MERS eRegistry Surpasses 3 Million eNotes - Milestone Reflects The Growing Use Of eNotes Across The Mortgage Finance Ecosystem As Lenders, Investors And Warehouse Providers Scale Up Digital Processes](http://www.mondovisione.com/media-and-resources/news/ice-announces-mers-eregistry-surpasses-3-million-enotes-milestone-reflects-the-2026311/)
+append_entries: 1
+Finish: 2026-03-11 14:52:59.961097
