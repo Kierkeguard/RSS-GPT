@@ -872,3 +872,12 @@ Existing_entries: 156
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-03-11 05:14:00.203465
+------------------------------------------------------
+Started: 2026-03-11 07:01:28.865102
+Existing_entries: 156
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [When History Rhymes: Regulating Digital Assets: Paper Presented At The Melbourne Money & Finance Conference, University Of Melbourne, By Dr Rhys Bollen, Senior Executive Leader, FinTech](http://www.mondovisione.com/media-and-resources/news/when-history-rhymes-regulating-digital-assets-paper-presented-at-the-melbourne-2026311/)
+append_entries: 1
+Finish: 2026-03-11 07:01:30.188153
