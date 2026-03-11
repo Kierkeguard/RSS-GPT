@@ -881,3 +881,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [When History Rhymes: Regulating Digital Assets: Paper Presented At The Melbourne Money & Finance Conference, University Of Melbourne, By Dr Rhys Bollen, Senior Executive Leader, FinTech](http://www.mondovisione.com/media-and-resources/news/when-history-rhymes-regulating-digital-assets-paper-presented-at-the-melbourne-2026311/)
 append_entries: 1
 Finish: 2026-03-11 07:01:30.188153
+------------------------------------------------------
+Started: 2026-03-11 08:51:16.993620
+Existing_entries: 157
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group PLC Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-transaction-in-own-shares-2026311/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Step Into Your Role In The System: Joint Keynote Address By ASIC Commissioner Simone Constant At The Conexus Super Chair Forum, Sorrento On 4 February 2026](http://www.mondovisione.com/media-and-resources/news/step-into-your-role-in-the-system-joint-keynote-address-by-asic-commissioner-si-2026311/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Update - Dividend/Distribution - ASX](http://www.mondovisione.com/media-and-resources/news/update-dividenddistribution-asx-2026311/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Remarks At The Institute Of International Bankers 2026 Annual Washington Conference, SEC Commissioner Mark T. Uyeda, March 10, 2026](http://www.mondovisione.com/media-and-resources/news/remarks-at-the-institute-of-international-bankers-2026-annual-washington-confere-2026311/)
+append_entries: 4
+Finish: 2026-03-11 08:51:18.265974
