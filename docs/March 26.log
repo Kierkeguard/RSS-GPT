@@ -1124,3 +1124,12 @@ Append: [ESMA Sets Out Actions To Simplify The Retail Investor Journey And Make 
 Append: [Euronext Announces March 2026 Quarterly Review Results Of The CAC 40 ESG®](http://www.mondovisione.com/media-and-resources/news/euronext-announces-march-2026-quarterly-review-results-of-the-cac-40-esg-2026312/)
 append_entries: 8
 Finish: 2026-03-12 19:00:43.911776
+------------------------------------------------------
+Started: 2026-03-12 20:41:06.507264
+Existing_entries: 212
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [EACH’s Women In Clearing Series – Getting Inspired By Erica Brown, Head Of International Affairs, Nasdaq Clearing](http://www.mondovisione.com/media-and-resources/news/eachs-women-in-clearing-series-getting-inspired-by-erica-brown-head-of-inter-2026312/)
+append_entries: 1
+Finish: 2026-03-12 20:41:07.841704
