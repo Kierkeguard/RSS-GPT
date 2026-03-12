@@ -1088,3 +1088,15 @@ Append: [Geopolitics, Not Macro, Is Now Driving Bitcoin - CoinShares Market Comm
 Append: [Deutsche Börse Group: Annual Report 2025](http://www.mondovisione.com/media-and-resources/news/deutsche-brse-group-annual-report-2025-2026312/)
 append_entries: 7
 Finish: 2026-03-12 14:55:01.691628
+------------------------------------------------------
+Started: 2026-03-12 17:02:23.666606
+Existing_entries: 202
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FSB Kicks Off New Implementation Phase To Enhance Cross-Border Payments Through Public-Private Partnership](http://www.mondovisione.com/media-and-resources/news/fsb-kicks-off-new-implementation-phase-to-enhance-cross-border-payments-through-2026312/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Capital Rules For The Real Economy, Federal Reserve Vice Chair For Supervision Michelle W. Bowman, At The Cato Institute Policy Forum: Basel III And Bank Capital Rules, Washington, D.C.](http://www.mondovisione.com/media-and-resources/news/capital-rules-for-the-real-economy-federal-reserve-vice-chair-for-supervision-m-2026312/)
+append_entries: 2
+Finish: 2026-03-12 17:02:25.097543
