@@ -1023,3 +1023,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [MENA Fintech Association Adds Fireblocks As A Member To Advance Secure Digital Asset  Adoption Across The Region](http://www.mondovisione.com/media-and-resources/news/mena-fintech-association-adds-fireblocks-as-a-member-to-advance-secure-digital-a-2026312/)
 append_entries: 3
 Finish: 2026-03-12 07:03:24.169156
+------------------------------------------------------
+Started: 2026-03-12 08:51:59.463526
+Existing_entries: 185
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-03-12 08:52:00.524371
