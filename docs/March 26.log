@@ -1065,3 +1065,26 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [UK Financial Conduct Authority: Second Charge Mortgage Firms Told To Raise Standards For Consumers](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-second-charge-mortgage-firms-told-to-raise-stand-2026312/)
 append_entries: 2
 Finish: 2026-03-12 13:13:00.434714
+------------------------------------------------------
+Started: 2026-03-12 14:55:00.719963
+Existing_entries: 195
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Seeks Public Comment On Advanced Notice Of Proposed Rulemaking Relating To Prediction Markets](http://www.mondovisione.com/media-and-resources/news/cftc-seeks-public-comment-on-advanced-notice-of-proposed-rulemaking-relating-to-2026312/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Staff Issues Prediction Markets Advisory](http://www.mondovisione.com/media-and-resources/news/cftc-staff-issues-prediction-markets-advisory-2026312/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Joint Statement: EU-UK Financial Regulatory Forum, March 2026](http://www.mondovisione.com/media-and-resources/news/joint-statement-eu-uk-financial-regulatory-forum-march-2026-2026312/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FIA Announces New Board Members At Boca 2026](http://www.mondovisione.com/media-and-resources/news/fia-announces-new-board-members-at-boca-2026-2026312/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [B3 Reaches Major Milestone With New Cloud-Native CSD System From Vermiculus - World’s Largest CSD Project In Production With Phase Two - Delivers Instant Value To B3 And Its Members](http://www.mondovisione.com/media-and-resources/news/b3-reaches-major-milestone-with-new-cloud-native-csd-system-from-vermiculus-wo-2026312/)
+Append: [Geopolitics, Not Macro, Is Now Driving Bitcoin - CoinShares Market Commentary](http://www.mondovisione.com/media-and-resources/news/geopolitics-not-macro-is-now-driving-bitcoin-coinshares-market-commentary-2026312/)
+Append: [Deutsche Börse Group: Annual Report 2025](http://www.mondovisione.com/media-and-resources/news/deutsche-brse-group-annual-report-2025-2026312/)
+append_entries: 7
+Finish: 2026-03-12 14:55:01.691628
