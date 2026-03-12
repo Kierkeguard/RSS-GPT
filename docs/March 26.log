@@ -1053,3 +1053,15 @@ Append: [Cyprus Stock Exchange Monthly Bulletin For February 2026](http://www.mo
 Append: [Securities Commission Malaysia Charges Former Group MD & CEO Of Sarawak Consolidated Industries Berhad For False Financial Statements  - Warrant Of Arrest Also Issued Against SCIB Former Chairman And Director Dato’ Mohd Abdul Karim bin Abdullah](http://www.mondovisione.com/media-and-resources/news/securities-commission-malaysia-charges-former-group-md-and-ceo-of-sarawak-consolid-2026312/)
 append_entries: 8
 Finish: 2026-03-12 10:46:53.744940
+------------------------------------------------------
+Started: 2026-03-12 13:12:59.180460
+Existing_entries: 193
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Deutsche Börse Group's Recommended Acquisition Of Allfunds: Shareholder Approvals Of Allfunds Obtained](http://www.mondovisione.com/media-and-resources/news/deutsche-brse-groups-recommended-acquisition-of-allfunds-shareholder-approval-2026312/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority: Second Charge Mortgage Firms Told To Raise Standards For Consumers](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-second-charge-mortgage-firms-told-to-raise-stand-2026312/)
+append_entries: 2
+Finish: 2026-03-12 13:13:00.434714
