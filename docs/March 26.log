@@ -1133,3 +1133,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [EACH’s Women In Clearing Series – Getting Inspired By Erica Brown, Head Of International Affairs, Nasdaq Clearing](http://www.mondovisione.com/media-and-resources/news/eachs-women-in-clearing-series-getting-inspired-by-erica-brown-head-of-inter-2026312/)
 append_entries: 1
 Finish: 2026-03-12 20:41:07.841704
+------------------------------------------------------
+Started: 2026-03-12 22:32:00.644961
+Existing_entries: 213
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Robinhood Markets, Inc. Reports February 2026 Operating Data](http://www.mondovisione.com/media-and-resources/news/robinhood-markets-inc-reports-february-2026-operating-data-2026312/)
+append_entries: 1
+Finish: 2026-03-12 22:32:01.648853
