@@ -1008,3 +1008,18 @@ Existing_entries: 182
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-03-12 02:35:30.371855
+------------------------------------------------------
+Started: 2026-03-12 07:03:23.181075
+Existing_entries: 182
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SGX Group Posts Strong February Performance With Highest SDAV In Six Years](http://www.mondovisione.com/media-and-resources/news/sgx-group-posts-strong-february-performance-with-highest-sdav-in-six-years-2026312/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Hong Kong Securities And Futures Commission And Hong Kong Independent Commission Against Corruption Joint Operation In Alleged Insider Dealings And Corruption Involving Senior Executives Of Licensed Corporations](http://www.mondovisione.com/media-and-resources/news/hong-kong-securities-and-futures-commission-and-hong-kong-independent-commission-2026312/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MENA Fintech Association Adds Fireblocks As A Member To Advance Secure Digital Asset  Adoption Across The Region](http://www.mondovisione.com/media-and-resources/news/mena-fintech-association-adds-fireblocks-as-a-member-to-advance-secure-digital-a-2026312/)
+append_entries: 3
+Finish: 2026-03-12 07:03:24.169156
