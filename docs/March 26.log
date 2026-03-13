@@ -1219,3 +1219,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Malawi Stock Exchange Weekly Summary Report, 13 March 2026](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-13-march-2026-2026313/)
 append_entries: 3
 Finish: 2026-03-13 14:49:01.035094
+------------------------------------------------------
+Started: 2026-03-13 16:48:47.356221
+Existing_entries: 229
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SET-Listed Companies Report Sluggish 2025 Performance Amid Economic Slowdown](http://www.mondovisione.com/media-and-resources/news/set-listed-companies-report-sluggish-2025-performance-amid-economic-slowdown-2026313/)
+append_entries: 1
+Finish: 2026-03-13 16:48:48.621603
