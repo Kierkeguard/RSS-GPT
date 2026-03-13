@@ -1192,3 +1192,15 @@ Existing_entries: 224
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-03-13 10:42:55.790231
+------------------------------------------------------
+Started: 2026-03-13 13:10:56.382499
+Existing_entries: 224
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Government Policy Paper: HM Treasury Market Engagement Group](http://www.mondovisione.com/media-and-resources/news/uk-government-policy-paper-hm-treasury-market-engagement-group-2026313/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER Assessed The EU DSO Entity’s Draft Statutory Documents Updated To Include Gas And Hydrogen](http://www.mondovisione.com/media-and-resources/news/acer-assessed-the-eu-dso-entitys-draft-statutory-documents-updated-to-include-g-2026313/)
+append_entries: 2
+Finish: 2026-03-13 13:10:57.526392
