@@ -1228,3 +1228,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SET-Listed Companies Report Sluggish 2025 Performance Amid Economic Slowdown](http://www.mondovisione.com/media-and-resources/news/set-listed-companies-report-sluggish-2025-performance-amid-economic-slowdown-2026313/)
 append_entries: 1
 Finish: 2026-03-13 16:48:48.621603
+------------------------------------------------------
+Started: 2026-03-13 18:51:16.766450
+Existing_entries: 230
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Municipal CUSIP Request Volumes Rise In February - Corporate Volumes Slow](http://www.mondovisione.com/media-and-resources/news/municipal-cusip-request-volumes-rise-in-february-corporate-volumes-slow-2026313/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euronext Announces March 2026 Quarterly Review Results Of The MIB ESG®](http://www.mondovisione.com/media-and-resources/news/euronext-announces-march-2026-quarterly-review-results-of-the-mib-esg-2026313/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Dubai Financial Market Regulated Short Sell – Weekly Summary: 9th March 2026 To 13th March 2026](http://www.mondovisione.com/media-and-resources/news/dubai-financial-market-regulated-short-sell-weekly-summary-9th-march-2026-to-2026313/)
+append_entries: 3
+Finish: 2026-03-13 18:51:17.838420
