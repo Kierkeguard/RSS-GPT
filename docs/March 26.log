@@ -1243,3 +1243,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Dubai Financial Market Regulated Short Sell – Weekly Summary: 9th March 2026 To 13th March 2026](http://www.mondovisione.com/media-and-resources/news/dubai-financial-market-regulated-short-sell-weekly-summary-9th-march-2026-to-2026313/)
 append_entries: 3
 Finish: 2026-03-13 18:51:17.838420
+------------------------------------------------------
+Started: 2026-03-13 20:41:06.040770
+Existing_entries: 233
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Secures Judgement Against New York Companies To Pay Over $2.4 Million In Restitution, Penalties For Forex Fraud](http://www.mondovisione.com/media-and-resources/news/cftc-secures-judgement-against-new-york-companies-to-pay-over-24-million-in-re-2026313/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Commitments Of Traders Reports Update](http://www.mondovisione.com/media-and-resources/news/cftc-commitments-of-traders-reports-update-2026313/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nigerian Exchange Weekly Market Report For March 13th, 2026](http://www.mondovisione.com/media-and-resources/news/nigerian-exchange-weekly-market-report-for-march-13th-2026-2026313/)
+append_entries: 3
+Finish: 2026-03-13 20:41:07.001930
