@@ -1204,3 +1204,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ACER Assessed The EU DSO Entity’s Draft Statutory Documents Updated To Include Gas And Hydrogen](http://www.mondovisione.com/media-and-resources/news/acer-assessed-the-eu-dso-entitys-draft-statutory-documents-updated-to-include-g-2026313/)
 append_entries: 2
 Finish: 2026-03-13 13:10:57.526392
+------------------------------------------------------
+Started: 2026-03-13 14:49:00.096959
+Existing_entries: 226
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Moscow Exchange: Updated Constituents List For OFZ Zero Coupon Yield Curve To Come Into Force On 16 March 2026](http://www.mondovisione.com/media-and-resources/news/moscow-exchange-updated-constituents-list-for-ofz-zero-coupon-yield-curve-to-co-2026313/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Bans Kasim Garipoglu From Working In UK Financial Services](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-bans-kasim-garipoglu-from-working-in-uk-financial-2026313/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Malawi Stock Exchange Weekly Summary Report, 13 March 2026](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-13-march-2026-2026313/)
+append_entries: 3
+Finish: 2026-03-13 14:49:01.035094
