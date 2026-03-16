@@ -1408,3 +1408,25 @@ Existing_entries: 236
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-03-16 05:50:42.038631
+------------------------------------------------------
+Started: 2026-03-16 07:25:47.918272
+Existing_entries: 236
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC: Supreme Court Orders Macquarie Securities To Pay $35 Million Penalty In Short Sale Misreporting Case](http://www.mondovisione.com/media-and-resources/news/asic-supreme-court-orders-macquarie-securities-to-pay-35-million-penalty-in-sh-2026316/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX: Exchange Publishes Listing Committee Report 2025](http://www.mondovisione.com/media-and-resources/news/hkex-exchange-publishes-listing-committee-report-2025-2026316/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Urges Gen Z To ‘Sense-Check’ Money Advice As Social Media Fuels Riskier Financial Decisions](http://www.mondovisione.com/media-and-resources/news/asic-urges-gen-z-to-sense-check-money-advice-as-social-media-fuels-riskier-fin-2026316/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SET, Jointly With Investment Analysts Association, Cultivates Professional Personnel Via CISA Program To Enhance Thai Capital Market’s Confidence](http://www.mondovisione.com/media-and-resources/news/set-jointly-with-investment-analysts-association-cultivates-professional-perso-2026316/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Moneysmart Refresh Puts Young Australians At The Centre Of Trusted Financial Guidance](http://www.mondovisione.com/media-and-resources/news/moneysmart-refresh-puts-young-australians-at-the-centre-of-trusted-financial-gui-2026316/)
+Append: [Amman Stock Exchange: Official Holiday On The Occasion Of Eid Al-Fitr](http://www.mondovisione.com/media-and-resources/news/amman-stock-exchange-official-holiday-on-the-occasion-of-eid-al-fitr-2026316/)
+append_entries: 6
+Finish: 2026-03-16 07:25:48.919727
