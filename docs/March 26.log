@@ -1463,3 +1463,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [XConnect And SONIO Partner To Enhance Fraud Prevention And Compliance For Gaming, Banking, Enterprise, And Fintech - SONIO Customers Gain Access To XConnect’s Trusted Portfolio Of API Services To Strengthen Network-Level Identity And Fraud Signals](http://www.mondovisione.com/media-and-resources/news/xconnect-and-sonio-partner-to-enhance-fraud-prevention-and-compliance-for-gaming-2026316/)
 append_entries: 4
 Finish: 2026-03-16 10:58:35.878033
+------------------------------------------------------
+Started: 2026-03-16 13:24:33.618015
+Existing_entries: 249
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Clearstream And Euroclear Digitize Eurobond Issuance Revolutionizing The Market](http://www.mondovisione.com/media-and-resources/news/clearstream-and-euroclear-digitize-eurobond-issuance-revolutionizing-the-market-2026316/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The IFRS Foundation Monitoring Board Highlights The Importance Of Robust Governance And Sustainable Funding Amid The Foundation’s Transformation](http://www.mondovisione.com/media-and-resources/news/the-ifrs-foundation-monitoring-board-highlights-the-importance-of-robust-governa-2026316/)
+append_entries: 2
+Finish: 2026-03-16 13:24:34.859534
