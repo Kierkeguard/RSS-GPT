@@ -1499,3 +1499,25 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Manchester, Dubai And Channel Islands Based Firms Achieve CISI Chartered Firm™ Status](http://www.mondovisione.com/media-and-resources/news/manchester-dubai-and-channel-islands-based-firms-achieve-cisi-chartered-firm-s-2026316/)
 append_entries: 1
 Finish: 2026-03-16 17:08:03.625428
+------------------------------------------------------
+Started: 2026-03-16 19:11:07.200483
+Existing_entries: 255
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Announces Enforcement Division Director Judge Margaret A. Ryan Has Resigned From Agency - Sam Waldon Named Acting Enforcement Division Director](http://www.mondovisione.com/media-and-resources/news/sec-announces-enforcement-division-director-judge-margaret-a-ryan-has-resigned-2026316/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [It’s Nomination Season: 3 CalPERS Board Seats Up For Election - Seats Represent State, School & Public Agency Members](http://www.mondovisione.com/media-and-resources/news/its-nomination-season-3-calpers-board-seats-up-for-election-seats-represent-2026316/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [International Law Enforcement Operation Seeks To Disrupt Crypto Fraud](http://www.mondovisione.com/media-and-resources/news/international-law-enforcement-operation-seeks-to-disrupt-crypto-fraud-2026316/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Alberta Securities Commission Announces Appointment Of Deanna Steblyk, K.C. As Vice-Chair](http://www.mondovisione.com/media-and-resources/news/alberta-securities-commission-announces-appointment-of-deanna-steblyk-kc-as-v-2026316/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Hélène Rey Appointed As Economic Adviser And Head Of Monetary And Economic Department](http://www.mondovisione.com/media-and-resources/news/hlne-rey-appointed-as-economic-adviser-and-head-of-monetary-and-economic-depar-2026316/)
+Append: [London Metal Exchange: Introduction Of Liquidity On Orderbook Programme](http://www.mondovisione.com/media-and-resources/news/london-metal-exchange-introduction-of-liquidity-on-orderbook-programme-2026316/)
+append_entries: 6
+Finish: 2026-03-16 19:11:08.088833
