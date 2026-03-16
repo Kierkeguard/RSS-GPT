@@ -1475,3 +1475,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [The IFRS Foundation Monitoring Board Highlights The Importance Of Robust Governance And Sustainable Funding Amid The Foundation’s Transformation](http://www.mondovisione.com/media-and-resources/news/the-ifrs-foundation-monitoring-board-highlights-the-importance-of-robust-governa-2026316/)
 append_entries: 2
 Finish: 2026-03-16 13:24:34.859534
+------------------------------------------------------
+Started: 2026-03-16 15:05:19.412170
+Existing_entries: 251
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Chairman Selig Announces Jessica Harris As Director, Division Of Data And Chief Data Officer](http://www.mondovisione.com/media-and-resources/news/cftc-chairman-selig-announces-jessica-harris-as-director-division-of-data-and-c-2026316/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nigeria’s Reforms Driving Strong Domestic Capital Mobilisation, Says NGX Group CEO](http://www.mondovisione.com/media-and-resources/news/nigerias-reforms-driving-strong-domestic-capital-mobilisation-says-ngx-group-c-2026316/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The BIS Quarterly Review Is Out](http://www.mondovisione.com/media-and-resources/news/the-bis-quarterly-review-is-out-2026316/)
+append_entries: 3
+Finish: 2026-03-16 15:05:20.953587
