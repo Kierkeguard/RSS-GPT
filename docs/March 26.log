@@ -1490,3 +1490,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [The BIS Quarterly Review Is Out](http://www.mondovisione.com/media-and-resources/news/the-bis-quarterly-review-is-out-2026316/)
 append_entries: 3
 Finish: 2026-03-16 15:05:20.953587
+------------------------------------------------------
+Started: 2026-03-16 17:08:01.994159
+Existing_entries: 254
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Manchester, Dubai And Channel Islands Based Firms Achieve CISI Chartered Firm™ Status](http://www.mondovisione.com/media-and-resources/news/manchester-dubai-and-channel-islands-based-firms-achieve-cisi-chartered-firm-s-2026316/)
+append_entries: 1
+Finish: 2026-03-16 17:08:03.625428
