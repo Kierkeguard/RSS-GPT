@@ -1521,3 +1521,21 @@ Append: [Hélène Rey Appointed As Economic Adviser And Head Of Monetary And Eco
 Append: [London Metal Exchange: Introduction Of Liquidity On Orderbook Programme](http://www.mondovisione.com/media-and-resources/news/london-metal-exchange-introduction-of-liquidity-on-orderbook-programme-2026316/)
 append_entries: 6
 Finish: 2026-03-16 19:11:08.088833
+------------------------------------------------------
+Started: 2026-03-16 20:43:57.703002
+Existing_entries: 261
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Proposes Amendments To Exchange Act Rule 15c2-11](http://www.mondovisione.com/media-and-resources/news/sec-proposes-amendments-to-exchange-act-rule-15c2-11-2026316/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Swaps Report Update](http://www.mondovisione.com/media-and-resources/news/cftc-swaps-report-update-2026316/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [McKay Brothers And Quincy Data Establish Fastest Connectivity Between Illinois And Sydney - Best In Class Infrastructure Supporting Price Discovery And Efficient Markets Between US And Australia](http://www.mondovisione.com/media-and-resources/news/mckay-brothers-and-quincy-data-establish-fastest-connectivity-between-illinois-a-2026316/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cboe Files Proposal With The SEC To Launch Near 24x5 U.S. Equities Trading](http://www.mondovisione.com/media-and-resources/news/cboe-files-proposal-with-the-sec-to-launch-near-24x5-us-equities-trading-2026316/)
+append_entries: 4
+Finish: 2026-03-16 20:43:58.700536
