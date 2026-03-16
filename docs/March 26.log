@@ -1430,3 +1430,18 @@ Append: [Moneysmart Refresh Puts Young Australians At The Centre Of Trusted Fina
 Append: [Amman Stock Exchange: Official Holiday On The Occasion Of Eid Al-Fitr](http://www.mondovisione.com/media-and-resources/news/amman-stock-exchange-official-holiday-on-the-occasion-of-eid-al-fitr-2026316/)
 append_entries: 6
 Finish: 2026-03-16 07:25:48.919727
+------------------------------------------------------
+Started: 2026-03-16 09:03:48.012901
+Existing_entries: 242
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LSEG: Post Trade Solutions Launches TradeAgent](http://www.mondovisione.com/media-and-resources/news/lseg-post-trade-solutions-launches-tradeagent-2026316/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group PLC Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-transaction-in-own-shares-2026316/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Malaysia Co-Investment Fund Unveils New Silver Economy Scheme And VC-Led ProfitSharing Incentive to Ease MSME Funding Access    Up To RM50 Million Allocation To MyCIF For 2026](http://www.mondovisione.com/media-and-resources/news/malaysia-co-investment-fund-unveils-new-silver-economy-scheme-and-vc-led-profits-2026316/)
+append_entries: 3
+Finish: 2026-03-16 09:03:48.903411
