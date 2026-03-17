@@ -1700,3 +1700,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SEC Publishes Data On Public And Private Offerings, Municipal Advisors, Transfer Agents, And Securities-Based Swap Dealers](http://www.mondovisione.com/media-and-resources/news/sec-publishes-data-on-public-and-private-offerings-municipal-advisors-transfer-2026317/)
 append_entries: 4
 Finish: 2026-03-17 20:46:32.260230
+------------------------------------------------------
+Started: 2026-03-17 22:39:00.250482
+Existing_entries: 298
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-03-17 22:39:01.447032
