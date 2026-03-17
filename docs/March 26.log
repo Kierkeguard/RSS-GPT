@@ -1661,3 +1661,24 @@ Append: [The EBA Consults On Regulatory Products On Initial Margin Model Authori
 Append: [The EBA Issues Revised List Of ITS Validation Rules](http://www.mondovisione.com/media-and-resources/news/the-eba-issues-revised-list-of-its-validation-rules-2026317/)
 append_entries: 6
 Finish: 2026-03-17 17:08:21.199065
+------------------------------------------------------
+Started: 2026-03-17 19:10:11.077556
+Existing_entries: 289
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Ontario Securities Commission Investor Warnings And Alerts For February 24 – March 17, 2026](http://www.mondovisione.com/media-and-resources/news/ontario-securities-commission-investor-warnings-and-alerts-for-february-24-mar-2026317/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Prudential Regulation Authority Publishes Liquidity Reform Proposals](http://www.mondovisione.com/media-and-resources/news/uk-prudential-regulation-authority-publishes-liquidity-reform-proposals-2026317/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LSEG’s TradeAgent Integrates ISDA’s Digital Regulatory Reporting Solution](http://www.mondovisione.com/media-and-resources/news/lsegs-tradeagent-integrates-isdas-digital-regulatory-reporting-solution-2026317/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Doral Group Joins A Tailor Made Market Making Program On Tel Aviv Stock Exchange](http://www.mondovisione.com/media-and-resources/news/doral-group-joins-a-tailor-made-market-making-program-on-tel-aviv-stock-exchange-2026317/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bank Of England: Modernising The Liquidity Framework For Banks And Building Societies - Speech By Phil Evans, Given At University Of Leeds, Cloth Hall Court, Leeds](http://www.mondovisione.com/media-and-resources/news/bank-of-england-modernising-the-liquidity-framework-for-banks-and-building-soci-2026317/)
+append_entries: 5
+Finish: 2026-03-17 19:10:12.488842
