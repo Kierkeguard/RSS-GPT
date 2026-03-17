@@ -1590,3 +1590,25 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [London Stock Exchange Group PLC Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-transaction-in-own-shares-2026317/)
 append_entries: 2
 Finish: 2026-03-17 08:58:57.395876
+------------------------------------------------------
+Started: 2026-03-17 10:55:22.361623
+Existing_entries: 272
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [IOSCO Publishes Updated Statement On Non-GAAP Financial Measures](http://www.mondovisione.com/media-and-resources/news/iosco-publishes-updated-statement-on-non-gaap-financial-measures-2026317/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [AutoRek Appoints Jonathan Cathie As Chief Operating Officer To Accelerate Global Growth - Former Gresham Technologies COO Brings Deep Operational Experience Scaling High-Growth Fintech Businesses Internationally](http://www.mondovisione.com/media-and-resources/news/autorek-appoints-jonathan-cathie-as-chief-operating-officer-to-accelerate-global-2026317/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TrafficGuard Appoints Scott Thomson As Head Of AI To Drive Next-Generation Fraud Prevention And Platform Innovation - Thomson Brings Over 10 Years’ Experience In AI Technology And Strategy From Google, Adobe, And Telstra To One Of The Industry's Earliest AI-Native Ad Fraud Prevention Platforms](http://www.mondovisione.com/media-and-resources/news/trafficguard-appoints-scott-thomson-as-head-of-ai-to-drive-next-generation-fraud-2026317/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Sage Capital Management Opens Swiss Entity And Receives Swiss Regulatory Approval](http://www.mondovisione.com/media-and-resources/news/sage-capital-management-opens-swiss-entity-and-receives-swiss-regulatory-approva-2026317/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CoinShares Fund Flows: Digital Assets Demonstrate Resilience Amid Geopolitical Turmoil](http://www.mondovisione.com/media-and-resources/news/coinshares-fund-flows-digital-assets-demonstrate-resilience-amid-geopolitical-t-2026317/)
+Append: [APAC VC Activity Softens In 2025, But Mid-To-High Value Rounds Gain Ground, Finds GlobalData](http://www.mondovisione.com/media-and-resources/news/apac-vc-activity-softens-in-2025-but-mid-to-high-value-rounds-gain-ground-find-2026317/)
+append_entries: 6
+Finish: 2026-03-17 10:55:23.494510
