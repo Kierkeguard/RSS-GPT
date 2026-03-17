@@ -1639,3 +1639,25 @@ Existing_entries: 283
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-03-17 15:02:27.980379
+------------------------------------------------------
+Started: 2026-03-17 17:08:20.197154
+Existing_entries: 283
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Ben Gully Appointed Secretary General Of The Basel Committee On Banking Supervision](http://www.mondovisione.com/media-and-resources/news/ben-gully-appointed-secretary-general-of-the-basel-committee-on-banking-supervis-2026317/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LSEG Risk Intelligence - After The Scam: The Emotional And Financial Impact Of Global Fraud](http://www.mondovisione.com/media-and-resources/news/lseg-risk-intelligence-after-the-scam-the-emotional-and-financial-impact-of-g-2026317/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER Amends The European Resource Adequacy Assessment Methodology To Support Streamlined Capacity Mechanisms Approval](http://www.mondovisione.com/media-and-resources/news/acer-amends-the-european-resource-adequacy-assessment-methodology-to-support-str-2026317/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Staff Issues No-Action Position To Self-Custodial Crypto Asset Wallet Software Provider](http://www.mondovisione.com/media-and-resources/news/cftc-staff-issues-no-action-position-to-self-custodial-crypto-asset-wallet-softw-2026317/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The EBA Consults On Regulatory Products On Initial Margin Model Authorisation](http://www.mondovisione.com/media-and-resources/news/the-eba-consults-on-regulatory-products-on-initial-margin-model-authorisation-2026317/)
+Append: [The EBA Issues Revised List Of ITS Validation Rules](http://www.mondovisione.com/media-and-resources/news/the-eba-issues-revised-list-of-its-validation-rules-2026317/)
+append_entries: 6
+Finish: 2026-03-17 17:08:21.199065
