@@ -1578,3 +1578,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SIFMA Statement On SEC Proposed Amendments To Exchange Act Rule 15c2-11](http://www.mondovisione.com/media-and-resources/news/sifma-statement-on-sec-proposed-amendments-to-exchange-act-rule-15c2-11-2026317/)
 append_entries: 4
 Finish: 2026-03-17 07:11:27.606613
+------------------------------------------------------
+Started: 2026-03-17 08:58:56.285759
+Existing_entries: 270
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MG Stover Acquires Asymmetric Information To Power AI-Driven Intelligence For Institutional Crypto - Combination Creates Industry’s First AI-Native Operations And Analytics Platform For Institutional Digital-Asset Portfolios, Uniting MG Stover’s Reconciled Data Foundation With Asymmetric’s Portfolio Intelligence And Engineering Team](http://www.mondovisione.com/media-and-resources/news/mg-stover-acquires-asymmetric-information-to-power-ai-driven-intelligence-for-in-2026317/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group PLC Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-transaction-in-own-shares-2026317/)
+append_entries: 2
+Finish: 2026-03-17 08:58:57.395876
