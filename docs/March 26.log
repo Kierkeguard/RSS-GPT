@@ -1682,3 +1682,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Bank Of England: Modernising The Liquidity Framework For Banks And Building Societies - Speech By Phil Evans, Given At University Of Leeds, Cloth Hall Court, Leeds](http://www.mondovisione.com/media-and-resources/news/bank-of-england-modernising-the-liquidity-framework-for-banks-and-building-soci-2026317/)
 append_entries: 5
 Finish: 2026-03-17 19:10:12.488842
+------------------------------------------------------
+Started: 2026-03-17 20:46:30.950062
+Existing_entries: 294
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cboe Global Markets Announces Date Of First-Quarter 2026 Earnings Release And Conference Call](http://www.mondovisione.com/media-and-resources/news/cboe-global-markets-announces-date-of-first-quarter-2026-earnings-release-and-co-2026317/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Joins SEC To Clarify The Application Of Federal Securities Laws To Crypto Assets](http://www.mondovisione.com/media-and-resources/news/cftc-joins-sec-to-clarify-the-application-of-federal-securities-laws-to-crypto-a-2026317/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Clarifies The Application Of Federal Securities Laws To Crypto Assets](http://www.mondovisione.com/media-and-resources/news/sec-clarifies-the-application-of-federal-securities-laws-to-crypto-assets-2026317/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Publishes Data On Public And Private Offerings, Municipal Advisors, Transfer Agents, And Securities-Based Swap Dealers](http://www.mondovisione.com/media-and-resources/news/sec-publishes-data-on-public-and-private-offerings-municipal-advisors-transfer-2026317/)
+append_entries: 4
+Finish: 2026-03-17 20:46:32.260230
