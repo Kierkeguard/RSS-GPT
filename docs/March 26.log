@@ -1756,3 +1756,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ASIC Consults On Changes To Net Tangible Assets Requirement For Responsible Entities](http://www.mondovisione.com/media-and-resources/news/asic-consults-on-changes-to-net-tangible-assets-requirement-for-responsible-enti-2026318/)
 append_entries: 3
 Finish: 2026-03-18 08:57:08.674087
+------------------------------------------------------
+Started: 2026-03-18 10:56:21.291474
+Existing_entries: 308
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ING Appoints Caue Todeschini As Global Lead Trade & Commodity Finance](http://www.mondovisione.com/media-and-resources/news/ing-appoints-caue-todeschini-as-global-lead-trade-and-commodity-finance-2026318/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Investec Becomes Inaugural Member Of BPX Digital Securities Marketplace](http://www.mondovisione.com/media-and-resources/news/investec-becomes-inaugural-member-of-bpx-digital-securities-marketplace-2026318/)
+append_entries: 2
+Finish: 2026-03-18 10:56:22.339936
