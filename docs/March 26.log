@@ -1831,3 +1831,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SEC Confirms Exemption For Directors And Officers Of EEA Foreign Private Issuers](http://www.mondovisione.com/media-and-resources/news/sec-confirms-exemption-for-directors-and-officers-of-eea-foreign-private-issuers-2026318/)
 append_entries: 4
 Finish: 2026-03-18 20:43:51.658044
+------------------------------------------------------
+Started: 2026-03-18 22:37:10.874291
+Existing_entries: 321
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Financial Stability Oversight Council To Meet March 25](http://www.mondovisione.com/media-and-resources/news/us-financial-stability-oversight-council-to-meet-march-25-2026318/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Intercontinental Exchange Sets Date For 2026 Virtual Annual Meeting Of Stockholders](http://www.mondovisione.com/media-and-resources/news/intercontinental-exchange-sets-date-for-2026-virtual-annual-meeting-of-stockhold-2026318/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Treasury International Capital Data for January](http://www.mondovisione.com/media-and-resources/news/treasury-international-capital-data-for-january-2026318/)
+append_entries: 3
+Finish: 2026-03-18 22:37:11.983217
