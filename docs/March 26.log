@@ -1786,3 +1786,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ChinaAMC (HK) Introduces ChinaAMC HK-US AI 50 ETF Tracking The Solactive G2 AI 50 Select Index In First Collaboration With Solactive](http://www.mondovisione.com/media-and-resources/news/chinaamc-hk-introduces-chinaamc-hk-us-ai-50-etf-tracking-the-solactive-g2-ai-5-2026318/)
 append_entries: 2
 Finish: 2026-03-18 15:08:49.552517
+------------------------------------------------------
+Started: 2026-03-18 17:07:51.761170
+Existing_entries: 312
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Parameta Solutions Partners With Surperformance To Broaden Global Access To Its Interest Rate Swap Indices](http://www.mondovisione.com/media-and-resources/news/parameta-solutions-partners-with-surperformance-to-broaden-global-access-to-its-2026318/)
+append_entries: 1
+Finish: 2026-03-18 17:07:52.932842
