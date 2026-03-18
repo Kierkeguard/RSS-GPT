@@ -1718,3 +1718,26 @@ Existing_entries: 298
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-03-18 05:36:55.675521
+------------------------------------------------------
+Started: 2026-03-18 07:08:37.156839
+Existing_entries: 298
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Finansinspektionen Leaves The Countercyclical Buffer Rate Unchanged](http://www.mondovisione.com/media-and-resources/news/finansinspektionen-leaves-the-countercyclical-buffer-rate-unchanged-2026318/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Launches Financial Complaints Data Dashboard](http://www.mondovisione.com/media-and-resources/news/asic-launches-financial-complaints-data-dashboard-2026318/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Regulation Crypto Assets: A Token Safe Harbor, Paul S. Atkins, SEC Chairman, DC Blockchain Summit, Washington D.C., March 17, 2026](http://www.mondovisione.com/media-and-resources/news/regulation-crypto-assets-a-token-safe-harbor-paul-s-atkins-sec-chairman-dc-2026318/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Michael S. Selig, Chairman, CFTC: 9th Annual DC Blockchain Summit, The Trust Revolution, March 17, 2026](http://www.mondovisione.com/media-and-resources/news/michael-s-selig-chairman-cftc-9th-annual-dc-blockchain-summit-the-trust-rev-2026318/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIFMA, FSI Statement On Order Vacating The DOL 2024 Fiduciary Rule And Related PTEs](http://www.mondovisione.com/media-and-resources/news/sifma-fsi-statement-on-order-vacating-the-dol-2024-fiduciary-rule-and-related-p-2026318/)
+Append: [The Last Chapter In The Book Of Howey, James Moloney, Director, SEC Division Of Corporation Finance, March 17, 2026](http://www.mondovisione.com/media-and-resources/news/the-last-chapter-in-the-book-of-howey-james-moloney-director-sec-division-of-2026318/)
+Append: [BC Securities Commission Revises Disgorgement Order In Market Manipulation Scheme](http://www.mondovisione.com/media-and-resources/news/bc-securities-commission-revises-disgorgement-order-in-market-manipulation-schem-2026318/)
+append_entries: 7
+Finish: 2026-03-18 07:08:38.100249
