@@ -1813,3 +1813,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Qatar Stock Exchange Announces Eid al-Fitr Holiday](http://www.mondovisione.com/media-and-resources/news/qatar-stock-exchange-announces-eid-al-fitr-holiday-2026318/)
 append_entries: 4
 Finish: 2026-03-18 19:08:21.639411
+------------------------------------------------------
+Started: 2026-03-18 20:43:50.455005
+Existing_entries: 317
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Exchange Group - Options Markets - Market For Underlying Security Used For Openings On MIAX Options, MIAX Pearl Options, And MIAX Sapphire Options For Newly Listed Adjusted Symbols Effective Thursday, March 19, 2026](http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-options-markets-market-for-underlying-security-used-for-2026318/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Office Of The Comptroller Of The Currency Announces Enforcement Actions For March 2026](http://www.mondovisione.com/media-and-resources/news/us-office-of-the-comptroller-of-the-currency-announces-enforcement-actions-for-m-2026318/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ISDA IQ: Interview With David Bailey](http://www.mondovisione.com/media-and-resources/news/isda-iq-interview-with-david-bailey-2026318/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Confirms Exemption For Directors And Officers Of EEA Foreign Private Issuers](http://www.mondovisione.com/media-and-resources/news/sec-confirms-exemption-for-directors-and-officers-of-eea-foreign-private-issuers-2026318/)
+append_entries: 4
+Finish: 2026-03-18 20:43:51.658044
