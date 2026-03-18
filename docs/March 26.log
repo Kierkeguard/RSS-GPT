@@ -1768,3 +1768,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Investec Becomes Inaugural Member Of BPX Digital Securities Marketplace](http://www.mondovisione.com/media-and-resources/news/investec-becomes-inaugural-member-of-bpx-digital-securities-marketplace-2026318/)
 append_entries: 2
 Finish: 2026-03-18 10:56:22.339936
+------------------------------------------------------
+Started: 2026-03-18 13:24:21.282416
+Existing_entries: 310
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-03-18 13:24:22.334572
