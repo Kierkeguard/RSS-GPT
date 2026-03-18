@@ -1741,3 +1741,18 @@ Append: [The Last Chapter In The Book Of Howey, James Moloney, Director, SEC Div
 Append: [BC Securities Commission Revises Disgorgement Order In Market Manipulation Scheme](http://www.mondovisione.com/media-and-resources/news/bc-securities-commission-revises-disgorgement-order-in-market-manipulation-schem-2026318/)
 append_entries: 7
 Finish: 2026-03-18 07:08:38.100249
+------------------------------------------------------
+Started: 2026-03-18 08:57:07.595004
+Existing_entries: 305
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [GlobalBlock, Part Of GCEX Group,  Launches Digital Assets Offering For UK Clients](http://www.mondovisione.com/media-and-resources/news/globalblock-part-of-gcex-group-launches-digital-assets-offering-for-uk-clie-2026318/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group PLC Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-transaction-in-own-shares-2026318/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Consults On Changes To Net Tangible Assets Requirement For Responsible Entities](http://www.mondovisione.com/media-and-resources/news/asic-consults-on-changes-to-net-tangible-assets-requirement-for-responsible-enti-2026318/)
+append_entries: 3
+Finish: 2026-03-18 08:57:08.674087
