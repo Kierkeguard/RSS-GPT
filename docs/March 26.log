@@ -1774,3 +1774,15 @@ Existing_entries: 310
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-03-18 13:24:22.334572
+------------------------------------------------------
+Started: 2026-03-18 15:08:48.067660
+Existing_entries: 310
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Empacar To Scale Biochar As High Integrity Carbon Dioxide Removal Pathway In Bolivia - Empacar S.A. Has Formed Partnership With Bioflux, Cula And Puro.Earth To Establish And Scale Biochar Production Across Latin America](http://www.mondovisione.com/media-and-resources/news/empacar-to-scale-biochar-as-high-integrity-carbon-dioxide-removal-pathway-in-bol-2026318/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ChinaAMC (HK) Introduces ChinaAMC HK-US AI 50 ETF Tracking The Solactive G2 AI 50 Select Index In First Collaboration With Solactive](http://www.mondovisione.com/media-and-resources/news/chinaamc-hk-introduces-chinaamc-hk-us-ai-50-etf-tracking-the-solactive-g2-ai-5-2026318/)
+append_entries: 2
+Finish: 2026-03-18 15:08:49.552517
