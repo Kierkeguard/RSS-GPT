@@ -1897,3 +1897,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [LSEG Strengthens Presence In European Equities Trading](http://www.mondovisione.com/media-and-resources/news/lseg-strengthens-presence-in-european-equities-trading-2026319/)
 append_entries: 2
 Finish: 2026-03-19 10:49:06.898800
+------------------------------------------------------
+Started: 2026-03-19 13:18:12.058503
+Existing_entries: 331
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [What’s The Future Of AI…Alien Intelligence? By Roger Aitken](http://www.mondovisione.com/media-and-resources/news/whats-the-future-of-aialien-intelligence-by-roger-aitken-2026319/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bank Of England: Bank Rate Maintained At 3.75% - March 2026 Monetary Policy Summary And Minutes](http://www.mondovisione.com/media-and-resources/news/bank-of-england-bank-rate-maintained-at-375-march-2026-monetary-policy-summ-2026319/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Policy Paper: Japan-UK Financial Regulatory Forum Joint Statement 2026](http://www.mondovisione.com/media-and-resources/news/policy-paper-japan-uk-financial-regulatory-forum-joint-statement-2026-2026319/)
+append_entries: 3
+Finish: 2026-03-19 13:18:23.751499
