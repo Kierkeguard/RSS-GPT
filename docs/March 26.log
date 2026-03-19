@@ -1989,3 +1989,15 @@ Append: [US Federal Bank Agencies Request Comment On Proposals To Modernize The 
 Append: [Office Of The Comptroller Of The US Currency Opens Registration For Community Bank Director And Senior Management Workshops](http://www.mondovisione.com/media-and-resources/news/office-of-the-comptroller-of-the-us-currency-opens-registration-for-community-ba-2026319/)
 append_entries: 9
 Finish: 2026-03-19 20:44:45.409739
+------------------------------------------------------
+Started: 2026-03-19 22:34:41.484463
+Existing_entries: 355
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Apex Group And Coinbase Asset Management Launch Tokenized Coinbase Bitcoin Yield Fund On Base](http://www.mondovisione.com/media-and-resources/news/apex-group-and-coinbase-asset-management-launch-tokenized-coinbase-bitcoin-yield-2026319/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [STAC Opens 2026-2027 Scholarship Program To Support Next Generation Of Market Professionals - Scholarship Initiative Empowers Chicago-Area Students To Pursue Opportunities In Financial Markets](http://www.mondovisione.com/media-and-resources/news/stac-opens-2026-2027-scholarship-program-to-support-next-generation-of-market-pr-2026319/)
+append_entries: 2
+Finish: 2026-03-19 22:34:42.749151
