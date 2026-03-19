@@ -1870,3 +1870,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [The Japan-Bermuda Bilateral Meeting On Insurance](http://www.mondovisione.com/media-and-resources/news/the-japan-bermuda-bilateral-meeting-on-insurance-2026319/)
 append_entries: 2
 Finish: 2026-03-19 07:04:32.274531
+------------------------------------------------------
+Started: 2026-03-19 08:51:35.570229
+Existing_entries: 326
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Stockholm Welcomes Deutsche Digital Assets As New ETP Provider](http://www.mondovisione.com/media-and-resources/news/nasdaq-stockholm-welcomes-deutsche-digital-assets-as-new-etp-provider-2026319/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euronext Successfully Launches Euronext Nord Pool Power Futures Market](http://www.mondovisione.com/media-and-resources/news/euronext-successfully-launches-euronext-nord-pool-power-futures-market-2026319/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group PLC Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-transaction-in-own-shares-2026319/)
+append_entries: 3
+Finish: 2026-03-19 08:51:36.930539
