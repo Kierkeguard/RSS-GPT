@@ -1858,3 +1858,15 @@ Existing_entries: 324
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-03-19 05:24:39.490828
+------------------------------------------------------
+Started: 2026-03-19 07:04:30.977750
+Existing_entries: 324
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Strategic Innovation Drives Growth Of Hong Kong’s Listing And Digital Asset Markets: Hong Kong Securities And Futures Commission Quarterly Report](http://www.mondovisione.com/media-and-resources/news/strategic-innovation-drives-growth-of-hong-kongs-listing-and-digital-asset-mark-2026319/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Japan-Bermuda Bilateral Meeting On Insurance](http://www.mondovisione.com/media-and-resources/news/the-japan-bermuda-bilateral-meeting-on-insurance-2026319/)
+append_entries: 2
+Finish: 2026-03-19 07:04:32.274531
