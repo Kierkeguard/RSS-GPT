@@ -1885,3 +1885,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [London Stock Exchange Group PLC Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-transaction-in-own-shares-2026319/)
 append_entries: 3
 Finish: 2026-03-19 08:51:36.930539
+------------------------------------------------------
+Started: 2026-03-19 10:49:05.949308
+Existing_entries: 329
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [IOSCO Publishes Consultation Report On Good Practices Concerning Over-The-Counter Commodities Derivatives Markets](http://www.mondovisione.com/media-and-resources/news/iosco-publishes-consultation-report-on-good-practices-concerning-over-the-counte-2026319/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LSEG Strengthens Presence In European Equities Trading](http://www.mondovisione.com/media-and-resources/news/lseg-strengthens-presence-in-european-equities-trading-2026319/)
+append_entries: 2
+Finish: 2026-03-19 10:49:06.898800
