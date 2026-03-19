@@ -1912,3 +1912,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Policy Paper: Japan-UK Financial Regulatory Forum Joint Statement 2026](http://www.mondovisione.com/media-and-resources/news/policy-paper-japan-uk-financial-regulatory-forum-joint-statement-2026-2026319/)
 append_entries: 3
 Finish: 2026-03-19 13:18:23.751499
+------------------------------------------------------
+Started: 2026-03-19 14:53:39.280278
+Existing_entries: 334
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC And MLB Sign Groundbreaking MOU](http://www.mondovisione.com/media-and-resources/news/cftc-and-mlb-sign-groundbreaking-mou-2026319/)
+append_entries: 1
+Finish: 2026-03-19 14:53:40.435024
