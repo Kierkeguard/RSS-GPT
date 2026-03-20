@@ -2049,3 +2049,25 @@ Existing_entries: 363
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-03-20 10:44:27.099691
+------------------------------------------------------
+Started: 2026-03-20 13:11:11.169789
+Existing_entries: 363
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEPI Returns To The Commercial Paper Market With A New €1 Billion Program Listed On BME](http://www.mondovisione.com/media-and-resources/news/sepi-returns-to-the-commercial-paper-market-with-a-new-1-billion-program-listed-2026320/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [How Technology Is Changing The Pensions Conversation - Speech By Nikhil Rathi, Uk Financial Conduct Authority Chief Executive, At The Jp Morgan Pensions And Savings Symposium 2026](http://www.mondovisione.com/media-and-resources/news/how-technology-is-changing-the-pensions-conversation-speech-by-nikhil-rathi-u-2026320/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc Publication Of Offering Circular](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-publication-of-offering-circular-2026320/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [European Council Appoints Boris Vujčić As Vice-President Of The European Central Bank](http://www.mondovisione.com/media-and-resources/news/european-council-appoints-boris-vuji-as-vice-president-of-the-european-central-2026320/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER Provides Guidance To Energy Regulators On Reporting Barriers To Non-Fossil Flexibility In Electricity Markets](http://www.mondovisione.com/media-and-resources/news/acer-provides-guidance-to-energy-regulators-on-reporting-barriers-to-non-fossil-2026320/)
+Append: [VINCORION SE New In The Prime Standard Of The Frankfurt Stock Exchange](http://www.mondovisione.com/media-and-resources/news/vincorion-se-new-in-the-prime-standard-of-the-frankfurt-stock-exchange-2026320/)
+append_entries: 6
+Finish: 2026-03-20 13:11:12.147483
