@@ -2013,3 +2013,15 @@ Existing_entries: 357
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-03-20 05:17:22.003514
+------------------------------------------------------
+Started: 2026-03-20 07:03:11.700954
+Existing_entries: 357
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Monetary Authority Of Singapore Partners Industry To Develop AI Risk Management Toolkit For The Financial Sector](http://www.mondovisione.com/media-and-resources/news/monetary-authority-of-singapore-partners-industry-to-develop-ai-risk-management-2026320/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Parliamentary Joint Committee On Corporations And Financial Services, Opening Statement, 20 March 2026 - Opening Statement By ASIC Deputy Chair Sarah Court At The Parliamentary Joint Committee On Corporations And Financial Services, Inquiry Into The Oversight Of ASIC, The Takeovers Panel And The Corporations Legislation, Public Hearing On 20 March 2026](http://www.mondovisione.com/media-and-resources/news/parliamentary-joint-committee-on-corporations-and-financial-services-opening-st-2026320/)
+append_entries: 2
+Finish: 2026-03-20 07:03:12.727460
