@@ -2098,3 +2098,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Elavon And Bancontact Company Sign Bancontact Acquirer License Agreement - New Payment Agreement To Meet Evolving Payment Needs In Belgium](http://www.mondovisione.com/media-and-resources/news/elavon-and-bancontact-company-sign-bancontact-acquirer-license-agreement-new-p-2026320/)
 append_entries: 3
 Finish: 2026-03-20 16:52:00.683421
+------------------------------------------------------
+Started: 2026-03-20 18:57:17.594057
+Existing_entries: 374
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Authority For Anti-Money Laundering And Countering The Financing Of Terrorism To Hold Public Hearing On Two Draft RTS](http://www.mondovisione.com/media-and-resources/news/authority-for-anti-money-laundering-and-countering-the-financing-of-terrorism-to-2026320/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Decisions Taken By The Governing Council Of The ECB (In Addition To Decisions Setting Interest Rates)](http://www.mondovisione.com/media-and-resources/news/decisions-taken-by-the-governing-council-of-the-ecb-in-addition-to-decisions-se-2026320/)
+append_entries: 2
+Finish: 2026-03-20 18:57:18.770519
