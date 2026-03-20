@@ -2025,3 +2025,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Parliamentary Joint Committee On Corporations And Financial Services, Opening Statement, 20 March 2026 - Opening Statement By ASIC Deputy Chair Sarah Court At The Parliamentary Joint Committee On Corporations And Financial Services, Inquiry Into The Oversight Of ASIC, The Takeovers Panel And The Corporations Legislation, Public Hearing On 20 March 2026](http://www.mondovisione.com/media-and-resources/news/parliamentary-joint-committee-on-corporations-and-financial-services-opening-st-2026320/)
 append_entries: 2
 Finish: 2026-03-20 07:03:12.727460
+------------------------------------------------------
+Started: 2026-03-20 08:50:14.935143
+Existing_entries: 359
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group PLC Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-transaction-in-own-shares-2026320/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC: Federal Court Declares Macquarie Contravened The Corporations Act In Relation To Shield Master Fund](http://www.mondovisione.com/media-and-resources/news/asic-federal-court-declares-macquarie-contravened-the-corporations-act-in-relat-2026320/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Application For Quotation Of Securities - ASX](http://www.mondovisione.com/media-and-resources/news/application-for-quotation-of-securities-asx-2026320/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Updated Coefficients For Moscow Exchange Indices To Come Into Force](http://www.mondovisione.com/media-and-resources/news/the-updated-coefficients-for-moscow-exchange-indices-to-come-into-force-2026320/)
+append_entries: 4
+Finish: 2026-03-20 08:50:15.950304
