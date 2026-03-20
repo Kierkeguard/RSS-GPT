@@ -2083,3 +2083,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Malawi Stock Exchange Weekly Summary Report, 20 March 2026](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-20-march-2026-2026320/)
 append_entries: 2
 Finish: 2026-03-20 14:49:24.126798
+------------------------------------------------------
+Started: 2026-03-20 16:51:59.774745
+Existing_entries: 371
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Staff Issues FAQs Concerning Registrant And Registered Entity Activities Relating To Crypto Assets And Blockchain Technologies](http://www.mondovisione.com/media-and-resources/news/cftc-staff-issues-faqs-concerning-registrant-and-registered-entity-activities-re-2026320/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Toronto Stock Exchange, TSX Venture Exchange, TSX Alpha Exchange And Montréal Exchange Closed For Good Friday](http://www.mondovisione.com/media-and-resources/news/toronto-stock-exchange-tsx-venture-exchange-tsx-alpha-exchange-and-montral-ex-2026320/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Elavon And Bancontact Company Sign Bancontact Acquirer License Agreement - New Payment Agreement To Meet Evolving Payment Needs In Belgium](http://www.mondovisione.com/media-and-resources/news/elavon-and-bancontact-company-sign-bancontact-acquirer-license-agreement-new-p-2026320/)
+append_entries: 3
+Finish: 2026-03-20 16:52:00.683421
