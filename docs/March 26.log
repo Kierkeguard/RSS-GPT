@@ -2179,3 +2179,12 @@ Existing_entries: 379
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-03-21 16:36:20.164160
+------------------------------------------------------
+Started: 2026-03-21 18:43:16.130077
+Existing_entries: 379
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Acceptance Remarks, Federal Reserve Chair Jerome H. Powell, At The American Society For Public Administration Annual Conference: Paul A. Volcker Public Integrity Award Ceremony (Via Pre-Recorded Video)](http://www.mondovisione.com/media-and-resources/news/acceptance-remarks-federal-reserve-chair-jerome-h-powell-at-the-american-soci-2026321/)
+append_entries: 1
+Finish: 2026-03-21 18:43:16.961333
