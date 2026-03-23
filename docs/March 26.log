@@ -2317,3 +2317,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [BIS: Statement On The Nomination Of Hyun Song Shin As Governor Of The Bank Of Korea](http://www.mondovisione.com/media-and-resources/news/bis-statement-on-the-nomination-of-hyun-song-shin-as-governor-of-the-bank-of-ko-2026323/)
 append_entries: 3
 Finish: 2026-03-23 10:56:55.284680
+------------------------------------------------------
+Started: 2026-03-23 13:19:32.809890
+Existing_entries: 387
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Moscow Exchange: Maintenance On T1 Securities And FX Test Environment](http://www.mondovisione.com/media-and-resources/news/moscow-exchange-maintenance-on-t1-securities-and-fx-test-environment-2026323/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Broadridge Appoints Peter Reali As General Manager Of Newly Created Institutional Governance Business - New Investments In Technology Platforms Offer Unbiased And Neutral Solutions And Increasing Efficiency For The Proxy Ecosystem](http://www.mondovisione.com/media-and-resources/news/broadridge-appoints-peter-reali-as-general-manager-of-newly-created-institutiona-2026323/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq And Talos Partner To Advance Tokenized Collateral Management Across Mainstream And Digital Asset Markets - Integration Of Talos' Digital Asset Infrastructure With Nasdaq’s Calypso And Trade Surveillance Platforms Delivers Unified Market Access, Cross-Asset Risk Management, And Institutional-Grade Compliance](http://www.mondovisione.com/media-and-resources/news/nasdaq-and-talos-partner-to-advance-tokenized-collateral-management-across-2026323/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The European Banking Sector Enters Period Of Geopolitical Uncertainty From A Position Of Strength](http://www.mondovisione.com/media-and-resources/news/the-european-banking-sector-enters-period-of-geopolitical-uncertainty-from-a-pos-2026323/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Acceleration In Companies Graduating From AIM To The London Stock Exchange’s Main Market This Year](http://www.mondovisione.com/media-and-resources/news/acceleration-in-companies-graduating-from-aim-to-the-london-stock-exchanges-mai-2026323/)
+append_entries: 5
+Finish: 2026-03-23 13:19:34.071613
