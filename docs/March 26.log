@@ -2353,3 +2353,15 @@ Existing_entries: 393
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-03-23 16:59:07.235241
+------------------------------------------------------
+Started: 2026-03-23 19:02:38.328806
+Existing_entries: 393
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Building The Rails For Europe’s Tokenised Financial Markets, Keynote Speech By Piero Cipollone, Member Of The Executive Board Of The ECB, At An Event On “Building Europe’s Integrated Digital Asset Ecosystem: From Vision To Implementation” Hosted By The House Of The Euro, Brussels, 23 March 2026](http://www.mondovisione.com/media-and-resources/news/building-the-rails-for-europes-tokenised-financial-markets-keynote-speech-by-p-2026323/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [AI And The Euro Area Economy, Keynote Speech By Philip R. Lane, Member Of The Executive Board Of The ECB, At ECB-SAFE-RCEA International Conference On The Climate-Macro-Finance Interface (3CMFI), Frankfurt, 23 March 2026](http://www.mondovisione.com/media-and-resources/news/ai-and-the-euro-area-economy-keynote-speech-by-philip-r-lane-member-of-the-ex-2026323/)
+append_entries: 2
+Finish: 2026-03-23 19:02:39.647552
