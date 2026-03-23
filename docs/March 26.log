@@ -2302,3 +2302,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ASIC: Moneysmart Publishes Tips On Using AI For Financial Issues](http://www.mondovisione.com/media-and-resources/news/asic-moneysmart-publishes-tips-on-using-ai-for-financial-issues-2026323/)
 append_entries: 4
 Finish: 2026-03-23 09:03:51.700181
+------------------------------------------------------
+Started: 2026-03-23 10:56:54.115012
+Existing_entries: 384
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [25 Years Of The Euronext STAR Conference: The 2026 Edition Kicks Off](http://www.mondovisione.com/media-and-resources/news/25-years-of-the-euronext-star-conference-the-2026-edition-kicks-off-2026323/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ETFGI Reports ETFs Industry In Europe Sets New Record With US$3.53 Trillion In Assets And Strongest YTD Inflows On Record](http://www.mondovisione.com/media-and-resources/news/etfgi-reports-etfs-industry-in-europe-sets-new-record-with-us353-trillion-in-a-2026323/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BIS: Statement On The Nomination Of Hyun Song Shin As Governor Of The Bank Of Korea](http://www.mondovisione.com/media-and-resources/news/bis-statement-on-the-nomination-of-hyun-song-shin-as-governor-of-the-bank-of-ko-2026323/)
+append_entries: 3
+Finish: 2026-03-23 10:56:55.284680
