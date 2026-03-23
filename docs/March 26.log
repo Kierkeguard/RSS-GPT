@@ -2347,3 +2347,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [MIAX Exchange Group - Options And Equities - Holiday Schedule - Good Friday 2026](http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-options-and-equities-holiday-schedule-good-friday-2026-2026323/)
 append_entries: 1
 Finish: 2026-03-23 15:00:36.680261
+------------------------------------------------------
+Started: 2026-03-23 16:59:05.665077
+Existing_entries: 393
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-03-23 16:59:07.235241
