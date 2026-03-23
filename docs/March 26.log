@@ -2374,3 +2374,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Warsaw Stock Exchange Group Financial Results Q4 2025 And 2025](http://www.mondovisione.com/media-and-resources/news/warsaw-stock-exchange-group-financial-results-q4-2025-and-2025-2026323/)
 append_entries: 1
 Finish: 2026-03-23 20:41:18.671629
+------------------------------------------------------
+Started: 2026-03-23 22:38:01.032778
+Existing_entries: 396
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Swaps Report Update](http://www.mondovisione.com/media-and-resources/news/cftc-swaps-report-update-2026323/)
+append_entries: 1
+Finish: 2026-03-23 22:38:02.332831
