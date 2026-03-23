@@ -2365,3 +2365,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [AI And The Euro Area Economy, Keynote Speech By Philip R. Lane, Member Of The Executive Board Of The ECB, At ECB-SAFE-RCEA International Conference On The Climate-Macro-Finance Interface (3CMFI), Frankfurt, 23 March 2026](http://www.mondovisione.com/media-and-resources/news/ai-and-the-euro-area-economy-keynote-speech-by-philip-r-lane-member-of-the-ex-2026323/)
 append_entries: 2
 Finish: 2026-03-23 19:02:39.647552
+------------------------------------------------------
+Started: 2026-03-23 20:41:17.559028
+Existing_entries: 395
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Warsaw Stock Exchange Group Financial Results Q4 2025 And 2025](http://www.mondovisione.com/media-and-resources/news/warsaw-stock-exchange-group-financial-results-q4-2025-and-2025-2026323/)
+append_entries: 1
+Finish: 2026-03-23 20:41:18.671629
