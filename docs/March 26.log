@@ -2284,3 +2284,21 @@ Existing_entries: 380
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-03-23 07:18:37.308345
+------------------------------------------------------
+Started: 2026-03-23 09:03:50.737056
+Existing_entries: 380
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group PLC Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-transaction-in-own-shares-2026323/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Consults On Relief For Managed Discretionary Account Services](http://www.mondovisione.com/media-and-resources/news/asic-consults-on-relief-for-managed-discretionary-account-services-2026323/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Opening Speech By Tan Boon Gin, CEO, SGX RegCo, For GDI Forum On Remuneration And Value Creation](http://www.mondovisione.com/media-and-resources/news/opening-speech-by-tan-boon-gin-ceo-sgx-regco-for-gdi-forum-on-remuneration-an-2026323/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC: Moneysmart Publishes Tips On Using AI For Financial Issues](http://www.mondovisione.com/media-and-resources/news/asic-moneysmart-publishes-tips-on-using-ai-for-financial-issues-2026323/)
+append_entries: 4
+Finish: 2026-03-23 09:03:51.700181
