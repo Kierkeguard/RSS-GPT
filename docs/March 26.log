@@ -2461,3 +2461,18 @@ Existing_entries: 413
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-03-24 13:23:29.466626
+------------------------------------------------------
+Started: 2026-03-24 15:03:37.052227
+Existing_entries: 413
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Chairman Selig Announces Formation Of New Innovation Task Force](http://www.mondovisione.com/media-and-resources/news/chairman-selig-announces-formation-of-new-innovation-task-force-2026324/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New York Stock Exchange And Securitize Agree To Memorandum Of Understanding To Support Tokenized Securities - Collaboration Focuses On Digital Transfer Agent Infrastructure And Broker-Dealer Participation To Support Issuer-Sponsored Tokenized Securities On NYSE’s Digital Trading Platform](http://www.mondovisione.com/media-and-resources/news/new-york-stock-exchange-and-securitize-agree-to-memorandum-of-understanding-to-s-2026324/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Timing Of The UK Financial Conduct Authority's Motor Finance Announcement](http://www.mondovisione.com/media-and-resources/news/timing-of-the-uk-financial-conduct-authoritys-motor-finance-announcement-2026324/)
+append_entries: 3
+Finish: 2026-03-24 15:03:38.320515
