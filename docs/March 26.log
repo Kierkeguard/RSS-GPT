@@ -2433,3 +2433,25 @@ Append: [Nasdaq Stockholm Welcomes SmartCraft Group AB To The Main Market](http:
 Append: [London Stock Exchange Group PLC Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-transaction-in-own-shares-2026324/)
 append_entries: 7
 Finish: 2026-03-24 08:58:51.194113
+------------------------------------------------------
+Started: 2026-03-24 10:55:37.271417
+Existing_entries: 407
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Over 60 Cryptocurrencies: BISON Continues To Expand Its Offering](http://www.mondovisione.com/media-and-resources/news/over-60-cryptocurrencies-bison-continues-to-expand-its-offering-2026324/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Fime Achieves EMVCo Recognition For Biometric Card Sensor Testing](http://www.mondovisione.com/media-and-resources/news/fime-achieves-emvco-recognition-for-biometric-card-sensor-testing-2026324/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [IOSCO Publishes Investment Funds Statistics Report And Updates Dashboard](http://www.mondovisione.com/media-and-resources/news/iosco-publishes-investment-funds-statistics-report-and-updates-dashboard-2026324/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ETFGI Reports Record US$21.24 Trillion In Global ETF Assets As Inflows Reach Highest YTD Level On Record At End Of February](http://www.mondovisione.com/media-and-resources/news/etfgi-reports-record-us2124-trillion-in-global-etf-assets-as-inflows-reach-hig-2026324/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FSB Publishes 2025 Annual Report](http://www.mondovisione.com/media-and-resources/news/fsb-publishes-2025-annual-report-2026324/)
+Append: [ING Arranges £105m Green Loan For UK’s Largest All‑Timber Frame Office Development](http://www.mondovisione.com/media-and-resources/news/ing-arranges-105m-green-loan-for-uks-largest-alltimber-frame-office-developme-2026324/)
+append_entries: 6
+Finish: 2026-03-24 10:55:38.449721
