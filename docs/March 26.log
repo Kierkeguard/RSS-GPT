@@ -2476,3 +2476,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Timing Of The UK Financial Conduct Authority's Motor Finance Announcement](http://www.mondovisione.com/media-and-resources/news/timing-of-the-uk-financial-conduct-authoritys-motor-finance-announcement-2026324/)
 append_entries: 3
 Finish: 2026-03-24 15:03:38.320515
+------------------------------------------------------
+Started: 2026-03-24 17:05:14.860450
+Existing_entries: 416
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BMLL And Tradefeedr Partner To Build An AI-Ready Analytics Layer For Equities And Futures Trading Data](http://www.mondovisione.com/media-and-resources/news/bmll-and-tradefeedr-partner-to-build-an-ai-ready-analytics-layer-for-equities-an-2026324/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Basel III Liquidity Indicators Increase Slightly While Risk-Based Capital And Leverage Ratios Are Stable For Large Internationally Active Banks, Latest Basel III Monitoring Exercise Shows](http://www.mondovisione.com/media-and-resources/news/basel-iii-liquidity-indicators-increase-slightly-while-risk-based-capital-and-le-2026324/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [“Parody Of Justice”: PIABA Responds To New FINRA $100 Million Member Rebate Amid Ongoing Crisis Of Unpaid Awards](http://www.mondovisione.com/media-and-resources/news/parody-of-justice-piaba-responds-to-new-finra-100-million-member-rebate-amid-2026324/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BitGo And Susquehanna Crypto Launch First-Of-Its-Kind Institutional OTC Access To Prediction Markets - Partnership Designed To Deliver Seamless, Institutional-Grade Access To Prediction Markets Using Digital Asset Collateral Through BitGo’s Platform](http://www.mondovisione.com/media-and-resources/news/bitgo-and-susquehanna-crypto-launch-first-of-its-kind-institutional-otc-access-t-2026324/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Number Of UK CFP™ Professionals Rises As CISI Reports Growth Driven By Younger Financial Planners](http://www.mondovisione.com/media-and-resources/news/number-of-uk-cfp-professionals-rises-as-cisi-reports-growth-driven-by-younger-f-2026324/)
+append_entries: 5
+Finish: 2026-03-24 17:05:15.838643
