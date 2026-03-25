@@ -2561,3 +2561,12 @@ Existing_entries: 435
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-03-25 05:24:50.024744
+------------------------------------------------------
+Started: 2026-03-25 07:09:34.727980
+Existing_entries: 435
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Australia Poised For Record Futures Month Amid Heightened Market Volatility](http://www.mondovisione.com/media-and-resources/news/australia-poised-for-record-futures-month-amid-heightened-market-volatility-2026325/)
+append_entries: 1
+Finish: 2026-03-25 07:09:35.841452
