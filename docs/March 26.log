@@ -2654,3 +2654,15 @@ Append: [Fiserv Named One Of America’s Most Innovative Companies By Fortune Fo
 Append: [Monument Becomes The First Bank To Securely Tokenise Retail Deposits In Partnership With The Midnight Foundation - UK-Regulated Bank Targets £250 Million In Interest-Generating, Tokenised Deposits As First Phase In The Journey To Open Institutional-Grade Investments To Retail Savers](http://www.mondovisione.com/media-and-resources/news/monument-becomes-the-first-bank-to-securely-tokenise-retail-deposits-in-partners-2026325/)
 append_entries: 6
 Finish: 2026-03-25 17:09:44.595414
+------------------------------------------------------
+Started: 2026-03-25 19:02:48.739120
+Existing_entries: 456
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIFMA President And CEO Kenneth E. Bentsen, Jr. Testifies At House Tokenization Hearing](http://www.mondovisione.com/media-and-resources/news/sifma-president-and-ceo-kenneth-e-bentsen-jr-testifies-at-house-tokenization-2026325/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Jacktel AS Lists On Euronext Growth](http://www.mondovisione.com/media-and-resources/news/jacktel-as-lists-on-euronext-growth-2026325/)
+append_entries: 2
+Finish: 2026-03-25 19:02:49.964536
