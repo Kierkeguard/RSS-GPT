@@ -2570,3 +2570,26 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Australia Poised For Record Futures Month Amid Heightened Market Volatility](http://www.mondovisione.com/media-and-resources/news/australia-poised-for-record-futures-month-amid-heightened-market-volatility-2026325/)
 append_entries: 1
 Finish: 2026-03-25 07:09:35.841452
+------------------------------------------------------
+Started: 2026-03-25 08:57:43.659233
+Existing_entries: 436
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BMLL And Tradefeedr Partner To Build An AI-Ready Analytics Layer For Equities And Futures Trading Data](http://www.mondovisione.com/media-and-resources/news/bmll-and-tradefeedr-partner-to-build-an-ai-ready-analytics-layer-for-equities-an-2026325/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group PLC Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-transaction-in-own-shares-2026325/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [APAC Deal Activity Falls 6% YoY During January-February 2026, Reveals GlobalData](http://www.mondovisione.com/media-and-resources/news/apac-deal-activity-falls-6-yoy-during-january-february-2026-reveals-globaldata-2026325/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Japan Exchange Group: Notice Of Revisions To Earnings Forecast And Dividend Forecast](http://www.mondovisione.com/media-and-resources/news/japan-exchange-group-notice-of-revisions-to-earnings-forecast-and-dividend-fore-2026325/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Update To ASX Group Dealing Rules Policy](http://www.mondovisione.com/media-and-resources/news/update-to-asx-group-dealing-rules-policy-2026325/)
+Append: [NZX Limited Annual Meeting 2026](http://www.mondovisione.com/media-and-resources/news/nzx-limited-annual-meeting-2026-2026325/)
+Append: [Developing Communities Through Public-Private Partnerships, Federal Reserve Governor Michael S. Barr, At The 2026 National Community Investment Conference, Phoenix, Arizona](http://www.mondovisione.com/media-and-resources/news/developing-communities-through-public-private-partnerships-federal-reserve-gove-2026325/)
+append_entries: 7
+Finish: 2026-03-25 08:57:44.595639
