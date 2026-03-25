@@ -2620,3 +2620,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [IOSCO: Monitoring Group Approves Term Extensions For PIOB Board Members](http://www.mondovisione.com/media-and-resources/news/iosco-monitoring-group-approves-term-extensions-for-piob-board-members-2026325/)
 append_entries: 3
 Finish: 2026-03-25 13:22:43.472133
+------------------------------------------------------
+Started: 2026-03-25 15:05:00.944727
+Existing_entries: 448
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ICE First Look At Mortgage Performance: Prepayments Rise On Recent Refinance Activity And Serious Delinquencies Increase As Cure Rates Slow](http://www.mondovisione.com/media-and-resources/news/ice-first-look-at-mortgage-performance-prepayments-rise-on-recent-refinance-act-2026325/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US VC Funding Value Surges Past $200 Billion In First Two Months Of 2026, Finds GlobalData](http://www.mondovisione.com/media-and-resources/news/us-vc-funding-value-surges-past-200-billion-in-first-two-months-of-2026-finds-2026325/)
+append_entries: 2
+Finish: 2026-03-25 15:05:02.899871
