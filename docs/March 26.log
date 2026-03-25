@@ -2632,3 +2632,25 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [US VC Funding Value Surges Past $200 Billion In First Two Months Of 2026, Finds GlobalData](http://www.mondovisione.com/media-and-resources/news/us-vc-funding-value-surges-past-200-billion-in-first-two-months-of-2026-finds-2026325/)
 append_entries: 2
 Finish: 2026-03-25 15:05:02.899871
+------------------------------------------------------
+Started: 2026-03-25 17:09:42.716910
+Existing_entries: 450
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Interactive Brokers Enables Crypto Portfolio Transfers For Lower-Cost Trading And Broader Market Access](http://www.mondovisione.com/media-and-resources/news/interactive-brokers-enables-crypto-portfolio-transfers-for-lower-cost-trading-an-2026325/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Federal Reserve Board Releases Annual Audited Financial Statements](http://www.mondovisione.com/media-and-resources/news/federal-reserve-board-releases-annual-audited-financial-statements-2026325/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Apex Group Appointed To Support Chaince Digital Holdings With Tokenization And Digital Asset Servicing Solutions](http://www.mondovisione.com/media-and-resources/news/apex-group-appointed-to-support-chaince-digital-holdings-with-tokenization-and-d-2026325/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [First Transaction Takes Place On The London Stock Exchange's Private Securities Market](http://www.mondovisione.com/media-and-resources/news/first-transaction-takes-place-on-the-london-stock-exchanges-private-securities-2026325/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Fiserv Named One Of America’s Most Innovative Companies By Fortune For Fourth Consecutive Year - Global Fintech Leader Recognized For Forward-Thinking Leadership And Influence On The Future Of Business](http://www.mondovisione.com/media-and-resources/news/fiserv-named-one-of-americas-most-innovative-companies-by-fortune-for-fourth-co-2026325/)
+Append: [Monument Becomes The First Bank To Securely Tokenise Retail Deposits In Partnership With The Midnight Foundation - UK-Regulated Bank Targets £250 Million In Interest-Generating, Tokenised Deposits As First Phase In The Journey To Open Institutional-Grade Investments To Retail Savers](http://www.mondovisione.com/media-and-resources/news/monument-becomes-the-first-bank-to-securely-tokenise-retail-deposits-in-partners-2026325/)
+append_entries: 6
+Finish: 2026-03-25 17:09:44.595414
