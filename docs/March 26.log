@@ -2605,3 +2605,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ING And UniCredit Act As Global Coordinators For The €375 Million Financing To Retelit](http://www.mondovisione.com/media-and-resources/news/ing-and-unicredit-act-as-global-coordinators-for-the-375-million-financing-to-r-2026325/)
 append_entries: 2
 Finish: 2026-03-25 10:53:49.545423
+------------------------------------------------------
+Started: 2026-03-25 13:22:41.665959
+Existing_entries: 445
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Europex Report: EU Electricity Markets Deliver Efficient, Resilient Outcomes - Further Integration Needed](http://www.mondovisione.com/media-and-resources/news/new-europex-report-eu-electricity-markets-deliver-efficient-resilient-outcomes-2026325/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ETFGI Reports Asia Pacific Ex Japan ETF Industry Assets Hit Record US$1.81 Trillion At The End Of February](http://www.mondovisione.com/media-and-resources/news/etfgi-reports-asia-pacific-ex-japan-etf-industry-assets-hit-record-us181-trill-2026325/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [IOSCO: Monitoring Group Approves Term Extensions For PIOB Board Members](http://www.mondovisione.com/media-and-resources/news/iosco-monitoring-group-approves-term-extensions-for-piob-board-members-2026325/)
+append_entries: 3
+Finish: 2026-03-25 13:22:43.472133
