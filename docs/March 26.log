@@ -2678,3 +2678,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [US Financial Stability Oversight Council Issues Proposed Guidance On Nonbank Financial Company Designations](http://www.mondovisione.com/media-and-resources/news/us-financial-stability-oversight-council-issues-proposed-guidance-on-nonbank-fin-2026325/)
 append_entries: 2
 Finish: 2026-03-25 20:45:26.469404
+------------------------------------------------------
+Started: 2026-03-25 22:42:03.471305
+Existing_entries: 460
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Innovation, Randall D. Guynn, Director, Federal Reserve Division Of Supervision And Regulation, Before The Subcommittee On Digital Assets, Financial Technology, And Artificial Intelligence, Committee On Financial Services, U.S. House Of Representatives, Washington, D.C.](http://www.mondovisione.com/media-and-resources/news/innovation-randall-d-guynn-director-federal-reserve-division-of-supervision-2026325/)
+append_entries: 1
+Finish: 2026-03-25 22:42:04.833576
