@@ -2702,3 +2702,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Comptroller Of The US Currency Gould Issues Statement At US Financial Stability Oversight Council Meeting](http://www.mondovisione.com/media-and-resources/news/comptroller-of-the-us-currency-gould-issues-statement-at-us-financial-stability-2026326/)
 append_entries: 1
 Finish: 2026-03-26 05:42:57.857226
+------------------------------------------------------
+Started: 2026-03-26 07:16:58.929522
+Existing_entries: 462
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SGX Stock Exchange Welcomes The Listing Of LionGlobal Singapore Physical Gold ETF](http://www.mondovisione.com/media-and-resources/news/sgx-stock-exchange-welcomes-the-listing-of-lionglobal-singapore-physical-gold-et-2026326/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Board Renewal - ASX Board Appoints Vic Jokovic As Non-Executive Director](http://www.mondovisione.com/media-and-resources/news/board-renewal-asx-board-appoints-vic-jokovic-as-non-executive-director-2026326/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Updates Relief Instrument For Generic Financial Calculators](http://www.mondovisione.com/media-and-resources/news/asic-updates-relief-instrument-for-generic-financial-calculators-2026326/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Protecting Our Superannuation System Is Everyone’s Responsibility - Keynote Address By ASIC Commissioner Alan Kirkland At The Law Council Of Australia’s Superannuation Lawyers Conference, Hobart On 26 March 2026](http://www.mondovisione.com/media-and-resources/news/protecting-our-superannuation-system-is-everyones-responsibility-keynote-addr-2026326/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Speech By Samantha Barrass, Chief Executive, New Zealand Financial Markets Authority, To The Financial Advice NZ Conference 2026](http://www.mondovisione.com/media-and-resources/news/speech-by-samantha-barrass-chief-executive-new-zealand-financial-markets-autho-2026326/)
+append_entries: 5
+Finish: 2026-03-26 07:17:00.431089
