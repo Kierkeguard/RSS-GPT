@@ -2756,3 +2756,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Real‑Time Analytics Drive Record Growth Across The Financial Market Data Landscape - By Hadley Weinberger, Sr. Analyst, Burton-Taylor International Consulting, Part Of TP ICAP](http://www.mondovisione.com/media-and-resources/news/realtime-analytics-drive-record-growth-across-the-financial-market-data-landsca-2026326/)
 append_entries: 2
 Finish: 2026-03-26 10:57:44.941296
+------------------------------------------------------
+Started: 2026-03-26 13:40:32.064162
+Existing_entries: 474
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NYSE Lists Global X NYSE® 100 ETF, Expanding Access To Tech-Enabled Growth Companies](http://www.mondovisione.com/media-and-resources/news/nyse-lists-global-x-nyse-100-etf-expanding-access-to-tech-enabled-growth-compa-2026326/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [RAQUEST Launches MiKaDiv Software Solution Built Around Role-Specific Modules](http://www.mondovisione.com/media-and-resources/news/raquest-launches-mikadiv-software-solution-built-around-role-specific-modules-2026326/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Government - Transparency Data - Central Counterparty (CCP) Resolution Liaison Panel Minutes 2025](http://www.mondovisione.com/media-and-resources/news/uk-government-transparency-data-central-counterparty-ccp-resolution-liaiso-2026326/)
+append_entries: 3
+Finish: 2026-03-26 13:40:33.621981
