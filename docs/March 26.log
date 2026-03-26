@@ -2771,3 +2771,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [UK Government - Transparency Data - Central Counterparty (CCP) Resolution Liaison Panel Minutes 2025](http://www.mondovisione.com/media-and-resources/news/uk-government-transparency-data-central-counterparty-ccp-resolution-liaiso-2026326/)
 append_entries: 3
 Finish: 2026-03-26 13:40:33.621981
+------------------------------------------------------
+Started: 2026-03-26 15:10:39.394035
+Existing_entries: 477
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER Updates Its REMIT Manual And FAQs To Report Inside Information](http://www.mondovisione.com/media-and-resources/news/acer-updates-its-remit-manual-and-faqs-to-report-inside-information-2026326/)
+append_entries: 1
+Finish: 2026-03-26 15:10:40.622001
