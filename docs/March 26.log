@@ -2723,3 +2723,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Speech By Samantha Barrass, Chief Executive, New Zealand Financial Markets Authority, To The Financial Advice NZ Conference 2026](http://www.mondovisione.com/media-and-resources/news/speech-by-samantha-barrass-chief-executive-new-zealand-financial-markets-autho-2026326/)
 append_entries: 5
 Finish: 2026-03-26 07:17:00.431089
+------------------------------------------------------
+Started: 2026-03-26 09:03:38.727617
+Existing_entries: 467
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [E Fund HK Launches E Fund (HK) Solactive Asia Semiconductor Select Index ETF Tracking The Solactive Asia Semiconductor Select Index](http://www.mondovisione.com/media-and-resources/news/e-fund-hk-launches-e-fund-hk-solactive-asia-semiconductor-select-index-etf-tra-2026326/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Securities Commission Malaysia Launches ICM Innovation Lab To Advance Maqasid al-Shariah-Driven Islamic Capital Market Innovation](http://www.mondovisione.com/media-and-resources/news/securities-commission-malaysia-launches-icm-innovation-lab-to-advance-maqasid-al-2026326/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Scope Prime Rolls Out DIGIXAU “Digital Gold” To All Institutional Clients 24/7 Gold Trading, Including Weekends](http://www.mondovisione.com/media-and-resources/news/scope-prime-rolls-out-digixau-digital-gold-to-all-institutional-clients-247-g-2026326/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Data Shows Short-Selling Has Returned To The UK Market With A Vengeance](http://www.mondovisione.com/media-and-resources/news/new-data-shows-short-selling-has-returned-to-the-uk-market-with-a-vengeance-2026326/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group PLC Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-transaction-in-own-shares-2026326/)
+append_entries: 5
+Finish: 2026-03-26 09:03:39.589385
