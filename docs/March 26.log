@@ -2744,3 +2744,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [London Stock Exchange Group PLC Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-transaction-in-own-shares-2026326/)
 append_entries: 5
 Finish: 2026-03-26 09:03:39.589385
+------------------------------------------------------
+Started: 2026-03-26 10:57:43.915438
+Existing_entries: 472
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ETFGI Reports Actively Managed ETFs Globally Hit New US$2.15 Trillion Record Amid 71 Straight Months Of Net Inflows At The End Of February](http://www.mondovisione.com/media-and-resources/news/etfgi-reports-actively-managed-etfs-globally-hit-new-us215-trillion-record-ami-2026326/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Real‑Time Analytics Drive Record Growth Across The Financial Market Data Landscape - By Hadley Weinberger, Sr. Analyst, Burton-Taylor International Consulting, Part Of TP ICAP](http://www.mondovisione.com/media-and-resources/news/realtime-analytics-drive-record-growth-across-the-financial-market-data-landsca-2026326/)
+append_entries: 2
+Finish: 2026-03-26 10:57:44.941296
