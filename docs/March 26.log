@@ -2812,3 +2812,21 @@ Append: [Borsa Istanbul: BIST-KYD Fund Indices Periodic Review](http://www.mondo
 Append: [Amman Stock Exchange Weekly Summary](http://www.mondovisione.com/media-and-resources/news/amman-stock-exchange-weekly-summary-2026326/)
 append_entries: 7
 Finish: 2026-03-26 19:15:24.070319
+------------------------------------------------------
+Started: 2026-03-26 20:40:39.094411
+Existing_entries: 486
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Responds To Complaint Commissioner’s Report On The British Steel Pension Scheme](http://www.mondovisione.com/media-and-resources/news/uk-mfinancial-conduct-authority-responds-to-complaint-commissioners-report-on-t-2026326/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [EEX Discussion Paper - Designing Efficient Two-Way CFDs: Safeguarding Market Functioning While Accelerating The Energy Transition - Opinions & Expert Reports](http://www.mondovisione.com/media-and-resources/news/eex-discussion-paper-designing-efficient-two-way-cfds-safeguarding-market-fun-2026326/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Stopping For Gas − Speech By Professor Alan Taylor,  External Member Of The Bank Of England Monetary Policy Committee, Given At The Exante Data 10 Year Anniversary Conference, New York](http://www.mondovisione.com/media-and-resources/news/stopping-for-gas-speech-by-professor-alan-taylor-external-member-of-the-bank-2026326/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bank Of England Streamlines Reporting And Disclosure Requirements For Bank Failure Regime](http://www.mondovisione.com/media-and-resources/news/bank-of-england-streamlines-reporting-and-disclosure-requirements-for-bank-failu-2026326/)
+append_entries: 4
+Finish: 2026-03-26 20:40:40.492831
