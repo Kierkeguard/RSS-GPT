@@ -2830,3 +2830,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Bank Of England Streamlines Reporting And Disclosure Requirements For Bank Failure Regime](http://www.mondovisione.com/media-and-resources/news/bank-of-england-streamlines-reporting-and-disclosure-requirements-for-bank-failu-2026326/)
 append_entries: 4
 Finish: 2026-03-26 20:40:40.492831
+------------------------------------------------------
+Started: 2026-03-26 22:35:48.098546
+Existing_entries: 490
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Treasury Announces President Donald J. Trump’s Signature To Appear On Future U.S. Paper Currency](http://www.mondovisione.com/media-and-resources/news/us-treasury-announces-president-donald-j-trumps-signature-to-appear-on-future-2026326/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Federal Reserve Board Announces It Has Made The Joint Findings With The Office Of The Comptroller Of The Currency Required For The OCC To Approve A Request By Morgan Stanley Bank, N.A., For An Exemption Under Section 23A Of The Federal Reserve Act](http://www.mondovisione.com/media-and-resources/news/federal-reserve-board-announces-it-has-made-the-joint-findings-with-the-office-o-2026326/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Changes To The Expanded Opening And Intra-Day Quote Width Requirements And Order Monitor Settings For Certain Symbols Trading On MIAX Options And MIAX Emerald Options Beginning Wednesday, April 1, 2026, Through Tuesday, June 30, 2026](http://www.mondovisione.com/media-and-resources/news/changes-to-the-expanded-opening-and-intra-day-quote-width-requirements-and-order-2026326/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Reflections On Financial Stability - Federal Reserve Governor Lisa D. Cook, At Yale Program On Financial Stability, School Of Management, Yale University, New Haven, Connecticut](http://www.mondovisione.com/media-and-resources/news/reflections-on-financial-stability-federal-reserve-governor-lisa-d-cook-at-y-2026326/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Global Financial Centres Index 39 - Top Four Financial Centres Clear Leaders](http://www.mondovisione.com/media-and-resources/news/global-financial-centres-index-39-top-four-financial-centres-clear-leaders-2026326/)
+append_entries: 5
+Finish: 2026-03-26 22:35:49.495425
