@@ -2789,3 +2789,26 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Shield Redefines Archive Modernization For Financial Institutions, Announces Powerful New Archive Enhancements  - New Shield Archive Capabilities Break Down Modernization Barriers, Helping Financial Institutions Reduce Retention Costs And Maintain Complete, Accessible, And Defensible Communications Records](http://www.mondovisione.com/media-and-resources/news/shield-redefines-archive-modernization-for-financial-institutions-announces-pow-2026326/)
 append_entries: 1
 Finish: 2026-03-26 17:09:17.083839
+------------------------------------------------------
+Started: 2026-03-26 19:15:22.865623
+Existing_entries: 479
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Federal Reserve Board: Senior Credit Officer Opinion Survey On Dealer Financing Terms](http://www.mondovisione.com/media-and-resources/news/federal-reserve-board-senior-credit-officer-opinion-survey-on-dealer-financing-2026326/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FTSE Russell Announces Change To The FTSE UK Index Series Inclusion Criteria - Lowering Of The Minimum Free Float Requirement For Non-UK Incorporated Companies Effective From The June 2026 Index Review](http://www.mondovisione.com/media-and-resources/news/ftse-russell-announces-change-to-the-ftse-uk-index-series-inclusion-criteria-l-2026326/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Government Policy Paper - European Union Finances Statement 2025: Statement On The Implementation Of The Withdrawal Agreement](http://www.mondovisione.com/media-and-resources/news/uk-government-policy-paper-european-union-finances-statement-2025-statement-o-2026326/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Borsa Istanbul: BIST-KYD Corporate Eurobond Indices Periodic Review](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-bist-kyd-corporate-eurobond-indices-periodic-review-2026326/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Dubai Advances To 7th Ranking In Global Financial Centres Index, Highest Ever In Its History](http://www.mondovisione.com/media-and-resources/news/dubai-advances-to-7th-ranking-in-global-financial-centres-index-highest-ever-in-2026326/)
+Append: [Borsa Istanbul: BIST-KYD Fund Indices Periodic Review](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-bist-kyd-fund-indices-periodic-review-2026326/)
+Append: [Amman Stock Exchange Weekly Summary](http://www.mondovisione.com/media-and-resources/news/amman-stock-exchange-weekly-summary-2026326/)
+append_entries: 7
+Finish: 2026-03-26 19:15:24.070319
