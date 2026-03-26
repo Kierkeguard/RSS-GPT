@@ -2780,3 +2780,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ACER Updates Its REMIT Manual And FAQs To Report Inside Information](http://www.mondovisione.com/media-and-resources/news/acer-updates-its-remit-manual-and-faqs-to-report-inside-information-2026326/)
 append_entries: 1
 Finish: 2026-03-26 15:10:40.622001
+------------------------------------------------------
+Started: 2026-03-26 17:09:15.782050
+Existing_entries: 478
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Shield Redefines Archive Modernization For Financial Institutions, Announces Powerful New Archive Enhancements  - New Shield Archive Capabilities Break Down Modernization Barriers, Helping Financial Institutions Reduce Retention Costs And Maintain Complete, Accessible, And Defensible Communications Records](http://www.mondovisione.com/media-and-resources/news/shield-redefines-archive-modernization-for-financial-institutions-announces-pow-2026326/)
+append_entries: 1
+Finish: 2026-03-26 17:09:17.083839
