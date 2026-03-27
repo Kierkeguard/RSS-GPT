@@ -2851,3 +2851,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Global Financial Centres Index 39 - Top Four Financial Centres Clear Leaders](http://www.mondovisione.com/media-and-resources/news/global-financial-centres-index-39-top-four-financial-centres-clear-leaders-2026326/)
 append_entries: 5
 Finish: 2026-03-26 22:35:49.495425
+------------------------------------------------------
+Started: 2026-03-27 02:50:26.204598
+Existing_entries: 495
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-03-27 02:50:27.123297
