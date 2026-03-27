@@ -2981,3 +2981,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Nadex Product Schedule For The 2026 Good Friday And Easter Monday Holidays](http://www.mondovisione.com/media-and-resources/news/nadex-product-schedule-for-the-2026-good-friday-and-easter-monday-holidays-2026327/)
 append_entries: 3
 Finish: 2026-03-27 20:45:54.768884
+------------------------------------------------------
+Started: 2026-03-27 22:38:59.283621
+Existing_entries: 521
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-03-27 22:39:00.268068
