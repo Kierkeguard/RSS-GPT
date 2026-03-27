@@ -2901,3 +2901,24 @@ Existing_entries: 503
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-03-27 10:53:56.363514
+------------------------------------------------------
+Started: 2026-03-27 13:17:59.673024
+Existing_entries: 503
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Intercontinental Exchange Announces New $600 Million Investment In Polymarket](http://www.mondovisione.com/media-and-resources/news/intercontinental-exchange-announces-new-600-million-investment-in-polymarket-2026327/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ICE Reports Record Market Activity As Customers Respond To Middle East Impacts](http://www.mondovisione.com/media-and-resources/news/ice-reports-record-market-activity-as-customers-respond-to-middle-east-impacts-2026327/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Fines Dinosaur Merchant Bank Limited For Market Abuse Surveillance Failures](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-fines-dinosaur-merchant-bank-limited-for-market-a-2026327/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX, Bursa Malaysia Launch Co-Branded Index, Sign MOU To Enhance Market Connectivity](http://www.mondovisione.com/media-and-resources/news/hkex-bursa-malaysia-launch-co-branded-index-sign-mou-to-enhance-market-connect-2026327/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER Will Consult On Amendments To The Gas Network Code On Interoperability And Data Exchange](http://www.mondovisione.com/media-and-resources/news/acer-will-consult-on-amendments-to-the-gas-network-code-on-interoperability-and-2026327/)
+append_entries: 5
+Finish: 2026-03-27 13:18:00.719823
