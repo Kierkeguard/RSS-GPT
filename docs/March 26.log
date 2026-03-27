@@ -2966,3 +2966,18 @@ Append: [London Metal Exchange: Information Barriers Between Warehouse Companies
 Append: [Dubai Financial Market Regulated Short Sell – Weekly Summary - 23rd March 2026 To 27th March 2026](http://www.mondovisione.com/media-and-resources/news/dubai-financial-market-regulated-short-sell-weekly-summary-23rd-march-2026-t-2026327/)
 append_entries: 7
 Finish: 2026-03-27 19:02:21.582789
+------------------------------------------------------
+Started: 2026-03-27 20:45:53.848493
+Existing_entries: 518
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Option Exchanges - Change To The Penny Interval Program For April 1, 2026](http://www.mondovisione.com/media-and-resources/news/miax-option-exchanges-change-to-the-penny-interval-program-for-april-1-2026-2026327/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Commitments Of Traders Reports Update](http://www.mondovisione.com/media-and-resources/news/cftc-commitments-of-traders-reports-update-2026327/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nadex Product Schedule For The 2026 Good Friday And Easter Monday Holidays](http://www.mondovisione.com/media-and-resources/news/nadex-product-schedule-for-the-2026-good-friday-and-easter-monday-holidays-2026327/)
+append_entries: 3
+Finish: 2026-03-27 20:45:54.768884
