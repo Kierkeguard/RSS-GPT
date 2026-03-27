@@ -2863,3 +2863,26 @@ Existing_entries: 495
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-03-27 05:44:30.789268
+------------------------------------------------------
+Started: 2026-03-27 07:15:58.113395
+Existing_entries: 495
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group PLC Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-transaction-in-own-shares-2026327/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Updates Financial Reporting Relief Instruments](http://www.mondovisione.com/media-and-resources/news/asic-updates-financial-reporting-relief-instruments-2026327/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Singapore Sets Out Key Focus Areas To Develop Singapore As A Gold Trading Centre](http://www.mondovisione.com/media-and-resources/news/singapore-sets-out-key-focus-areas-to-develop-singapore-as-a-gold-trading-centre-2026327/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Invites Feedback On Proposed Derivative Transaction Reporting Rules Updates](http://www.mondovisione.com/media-and-resources/news/asic-invites-feedback-on-proposed-derivative-transaction-reporting-rules-updates-2026327/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Brief Remarks On The Economic Outlook And Monetary Policy, Federal Reserve Governor Michael S. Barr, At The Brookings Institution, Washington, D.C.](http://www.mondovisione.com/media-and-resources/news/brief-remarks-on-the-economic-outlook-and-monetary-policy-federal-reserve-gover-2026327/)
+Append: [Economic Outlook And Energy Effects, Federal Reserve Vice Chair Philip N. Jefferson, At The Global Perspectives Speaker Series, Federal Reserve Bank Of Dallas, Dallas, Texas](http://www.mondovisione.com/media-and-resources/news/economic-outlook-and-energy-effects-federal-reserve-vice-chair-philip-n-jeffer-2026327/)
+Append: [Prospects For Shrinking The Fed’s Balance Sheet, Federal Reserve Governor Stephen I. Miran, At The Economic Club Of Miami, Miami, Florida](http://www.mondovisione.com/media-and-resources/news/prospects-for-shrinking-the-feds-balance-sheet-federal-reserve-governor-stephe-2026327/)
+append_entries: 7
+Finish: 2026-03-27 07:15:59.156400
