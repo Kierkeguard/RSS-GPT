@@ -2886,3 +2886,12 @@ Append: [Economic Outlook And Energy Effects, Federal Reserve Vice Chair Philip 
 Append: [Prospects For Shrinking The Fed’s Balance Sheet, Federal Reserve Governor Stephen I. Miran, At The Economic Club Of Miami, Miami, Florida](http://www.mondovisione.com/media-and-resources/news/prospects-for-shrinking-the-feds-balance-sheet-federal-reserve-governor-stephe-2026327/)
 append_entries: 7
 Finish: 2026-03-27 07:15:59.156400
+------------------------------------------------------
+Started: 2026-03-27 09:00:01.193088
+Existing_entries: 502
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LuxSE Announces Strategic Changes In Its Top Leadership Team - In A Move To Further Strengthen Its Commercial Footprint And Ensure Resilient Operations, The Luxembourg Stock Exchange (LuxSE) Appoints Two New Members To Its Executive Committee](http://www.mondovisione.com/media-and-resources/news/luxse-announces-strategic-changes-in-its-top-leadership-team-in-a-move-to-furt-2026327/)
+append_entries: 1
+Finish: 2026-03-27 09:00:02.490228
