@@ -2931,3 +2931,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Avelacom Expands Across LATAM Through Direct Connection To nuam - Ultra-Low Latency Connectivity And Colocation Infrastructure For Chile, Colombia, And Peru Complements Avelacom’s Existing Footprint In Argentina And Brazil](http://www.mondovisione.com/media-and-resources/news/avelacom-expands-across-latam-through-direct-connection-to-nuam-ultra-low-late-2026327/)
 append_entries: 1
 Finish: 2026-03-27 14:55:52.708522
+------------------------------------------------------
+Started: 2026-03-27 17:00:03.713182
+Existing_entries: 509
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Moscow Exchange: Maintenance On T0 Securities And FX Test Environment](http://www.mondovisione.com/media-and-resources/news/moscow-exchange-maintenance-on-t0-securities-and-fx-test-environment-2026327/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Malawi Stock Exchange Weekly Summary Report, 27 March 2026](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-27-march-2026-2026327/)
+append_entries: 2
+Finish: 2026-03-27 17:00:05.033152
