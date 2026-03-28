@@ -2999,3 +2999,12 @@ Existing_entries: 521
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-03-28 05:22:52.372153
+------------------------------------------------------
+Started: 2026-03-28 07:05:15.703669
+Existing_entries: 521
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Approves Amendment To NMS Plan To Further Reduce The Costs Of The Consolidated Audit Trail](http://www.mondovisione.com/media-and-resources/news/sec-approves-amendment-to-nms-plan-to-further-reduce-the-costs-of-the-consolidat-2026328/)
+append_entries: 1
+Finish: 2026-03-28 07:05:16.781356
