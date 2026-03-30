@@ -3252,3 +3252,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Office Of The Comptroller Of The US Currency Reports Mortgage Performance For Fourth Quarter Of 2025](http://www.mondovisione.com/media-and-resources/news/office-of-the-comptroller-of-the-us-currency-reports-mortgage-performance-for-fo-2026330/)
 append_entries: 2
 Finish: 2026-03-30 20:52:40.302192
+------------------------------------------------------
+Started: 2026-03-30 22:42:14.427260
+Existing_entries: 548
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Zealand Financial Markets Authority: Class Exemption Provides Easier Pathway To Market For Green, Social, Sustainability And Sustainability-Linked Bonds](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-class-exemption-provides-easier-pathway-2026330/)
+append_entries: 1
+Finish: 2026-03-30 22:42:15.676523
