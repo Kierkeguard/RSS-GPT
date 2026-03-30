@@ -3128,3 +3128,15 @@ Existing_entries: 522
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-03-30 02:56:54.357879
+------------------------------------------------------
+Started: 2026-03-30 06:00:50.023313
+Existing_entries: 522
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Zealand Financial Markets Authority Cancels Saanvi’s Financial Advice Provider Licence](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-cancels-saanvis-financial-advice-provid-2026330/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Launches E-Learning Educational Modules On Sustainability Reporting](http://www.mondovisione.com/media-and-resources/news/asic-launches-e-learning-educational-modules-on-sustainability-reporting-2026330/)
+append_entries: 2
+Finish: 2026-03-30 06:00:50.904934
