@@ -3161,3 +3161,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Aave Launches On X Layer, Bringing the World's Leading DeFi Lending Protocol To OKX's L2 Ecosystem - The Most Trusted Name In Decentralized Lending Is Now Live On X Layer, Expanding DeFi Composability, Unlocking Permissionless Yield, And Deepening Liquidity For OKX Users Globally](http://www.mondovisione.com/media-and-resources/news/aave-launches-on-x-layer-bringing-the-worlds-leading-defi-lending-protocol-to-2026330/)
 append_entries: 5
 Finish: 2026-03-30 09:19:36.661079
+------------------------------------------------------
+Started: 2026-03-30 11:07:50.893741
+Existing_entries: 529
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SET Announces Criteria For 2026 SET Awards With List Of Initial Screening Pre-Assessed Companies](http://www.mondovisione.com/media-and-resources/news/set-announces-criteria-for-2026-set-awards-with-list-of-initial-screening-pre-as-2026330/)
+append_entries: 1
+Finish: 2026-03-30 11:07:51.935713
