@@ -3240,3 +3240,15 @@ Append: [SIFMA Statement On DOL Rule Proposal On Alternative Investments In Reti
 Append: [ISDA Selects Gentek AI To Develop DRR Traceability Tool](http://www.mondovisione.com/media-and-resources/news/isda-selects-gentek-ai-to-develop-drr-traceability-tool-2026330/)
 append_entries: 6
 Finish: 2026-03-30 19:06:40.052234
+------------------------------------------------------
+Started: 2026-03-30 20:52:39.332021
+Existing_entries: 546
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Swaps Report Update](http://www.mondovisione.com/media-and-resources/news/cftc-swaps-report-update-2026330/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Office Of The Comptroller Of The US Currency Reports Mortgage Performance For Fourth Quarter Of 2025](http://www.mondovisione.com/media-and-resources/news/office-of-the-comptroller-of-the-us-currency-reports-mortgage-performance-for-fo-2026330/)
+append_entries: 2
+Finish: 2026-03-30 20:52:40.302192
