@@ -3203,3 +3203,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [London Metal Exchange: Honorary Membership - Mr David Warren](http://www.mondovisione.com/media-and-resources/news/london-metal-exchange-honorary-membership-mr-david-warren-2026330/)
 append_entries: 3
 Finish: 2026-03-30 15:09:40.714175
+------------------------------------------------------
+Started: 2026-03-30 17:02:06.056828
+Existing_entries: 537
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Confirms Motor Finance Redress Scheme](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-confirms-motor-finance-redress-scheme-2026330/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Millions Of Car Finance Customers To Get Payouts This Year As UK Financial Conduct Authority Goes Ahead With Compensation Scheme](http://www.mondovisione.com/media-and-resources/news/millions-of-car-finance-customers-to-get-payouts-this-year-as-uk-financial-condu-2026330/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BSX Notice Of Easter Holiday Closure](http://www.mondovisione.com/media-and-resources/news/bsx-notice-of-easter-holiday-closure-2026330/)
+append_entries: 3
+Finish: 2026-03-30 17:02:07.338225
