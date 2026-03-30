@@ -3218,3 +3218,25 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [BSX Notice Of Easter Holiday Closure](http://www.mondovisione.com/media-and-resources/news/bsx-notice-of-easter-holiday-closure-2026330/)
 append_entries: 3
 Finish: 2026-03-30 17:02:07.338225
+------------------------------------------------------
+Started: 2026-03-30 19:06:38.752304
+Existing_entries: 540
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Alberta Securities Commission Announces Temporary Fee Coordination Approach With Canadian Investment Regulatory Organization To Keep Registration Costs Neutral](http://www.mondovisione.com/media-and-resources/news/alberta-securities-commission-announces-temporary-fee-coordination-approach-wit-2026330/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Ontario Securities Commission  Seeks Feedback On Efforts To Create A Machine-Readable Regulatory Framework](http://www.mondovisione.com/media-and-resources/news/ontario-securities-commission-seeks-feedback-on-efforts-to-create-a-machine-rea-2026330/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIFMA’s Quantum Dawn VIII Exercise Tests Readiness For Polycrisis Incidents](http://www.mondovisione.com/media-and-resources/news/sifmas-quantum-dawn-viii-exercise-tests-readiness-for-polycrisis-incidents-2026330/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Four Distinguished Financial Services Industry Leaders Join DTCC Board Of Directors - New Members Provide Deep Market Expertise And Strategic Insights To The DTCC Board](http://www.mondovisione.com/media-and-resources/news/four-distinguished-financial-services-industry-leaders-join-dtcc-board-of-direct-2026330/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIFMA Statement On DOL Rule Proposal On Alternative Investments In Retirement Accounts](http://www.mondovisione.com/media-and-resources/news/sifma-statement-on-dol-rule-proposal-on-alternative-investments-in-retirement-ac-2026330/)
+Append: [ISDA Selects Gentek AI To Develop DRR Traceability Tool](http://www.mondovisione.com/media-and-resources/news/isda-selects-gentek-ai-to-develop-drr-traceability-tool-2026330/)
+append_entries: 6
+Finish: 2026-03-30 19:06:40.052234
