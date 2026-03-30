@@ -3170,3 +3170,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SET Announces Criteria For 2026 SET Awards With List Of Initial Screening Pre-Assessed Companies](http://www.mondovisione.com/media-and-resources/news/set-announces-criteria-for-2026-set-awards-with-list-of-initial-screening-pre-as-2026330/)
 append_entries: 1
 Finish: 2026-03-30 11:07:51.935713
+------------------------------------------------------
+Started: 2026-03-30 13:45:51.642632
+Existing_entries: 530
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER Calls For Stronger Monitoring And Enforcement To Tackle Delays In Implementing EU Electricity Market Rules](http://www.mondovisione.com/media-and-resources/news/acer-calls-for-stronger-monitoring-and-enforcement-to-tackle-delays-in-implement-2026330/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NSE Indices Dashboard For March 2026](http://www.mondovisione.com/media-and-resources/news/nse-indices-dashboard-for-march-2026-2026330/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Stability Matters - Latest News From The FSB](http://www.mondovisione.com/media-and-resources/news/stability-matters-latest-news-from-the-fsb-2026330/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Concludes Public Consultation On Nasdaq-100 Index® Methodology](http://www.mondovisione.com/media-and-resources/news/nasdaq-concludes-public-consultation-on-nasdaq-100-index-methodology-2026330/)
+append_entries: 4
+Finish: 2026-03-30 13:45:52.823486
