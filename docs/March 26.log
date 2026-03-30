@@ -3188,3 +3188,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Nasdaq Concludes Public Consultation On Nasdaq-100 Index® Methodology](http://www.mondovisione.com/media-and-resources/news/nasdaq-concludes-public-consultation-on-nasdaq-100-index-methodology-2026330/)
 append_entries: 4
 Finish: 2026-03-30 13:45:52.823486
+------------------------------------------------------
+Started: 2026-03-30 15:09:39.262020
+Existing_entries: 534
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Options Exchange - Updated MEI, AIS And FOI Interface Specifications To Support Upcoming Enhancements](http://www.mondovisione.com/media-and-resources/news/miax-options-exchange-updated-mei-ais-and-foi-interface-specifications-to-sup-2026330/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Regulators Launch Joint Taskforce To Crack Down On Poor Practice In Motor Finance Claims](http://www.mondovisione.com/media-and-resources/news/uk-regulators-launch-joint-taskforce-to-crack-down-on-poor-practice-in-motor-fin-2026330/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Metal Exchange: Honorary Membership - Mr David Warren](http://www.mondovisione.com/media-and-resources/news/london-metal-exchange-honorary-membership-mr-david-warren-2026330/)
+append_entries: 3
+Finish: 2026-03-30 15:09:40.714175
