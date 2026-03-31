@@ -3420,3 +3420,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [S&P Global Names Firdaus Bhathena As Chief Technology & Transformation Officer To Lead Next Phase Of Growth And Innovation](http://www.mondovisione.com/media-and-resources/news/sandp-global-names-firdaus-bhathena-as-chief-technology-and-transformation-officer-t-2026331/)
 append_entries: 3
 Finish: 2026-03-31 20:50:07.303586
+------------------------------------------------------
+Started: 2026-03-31 22:39:03.587831
+Existing_entries: 586
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Option Exchanges - Change To The Penny Interval Program For April 1, 2026](http://www.mondovisione.com/media-and-resources/news/miax-option-exchanges-change-to-the-penny-interval-program-for-april-1-2026-2026331/)
+append_entries: 1
+Finish: 2026-03-31 22:39:04.671537
