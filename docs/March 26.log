@@ -3384,3 +3384,24 @@ Existing_entries: 578
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-03-31 17:04:24.564409
+------------------------------------------------------
+Started: 2026-03-31 19:08:48.936861
+Existing_entries: 578
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Office Of The Comptroller Of The US Currency Issues Final Rule To Rescind Recovery Planning Guidelines](http://www.mondovisione.com/media-and-resources/news/office-of-the-comptroller-of-the-us-currency-issues-final-rule-to-rescind-recove-2026331/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FINRA Launches Financial Intelligence Fusion Center To Combat Cybersecurity And Fraud Threats - New Timely Threat Intelligence Sharing Portal Will Help Protect Investors, Firms From Harm](http://www.mondovisione.com/media-and-resources/news/finra-launches-financial-intelligence-fusion-center-to-combat-cybersecurity-and-2026331/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Canadian Securities Administrators Invites Stakeholders To Participate In Tokenization Initiative](http://www.mondovisione.com/media-and-resources/news/canadian-securities-administrators-invites-stakeholders-to-participate-in-tokeni-2026331/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Highlights Financial Independence During Financial Literacy Month](http://www.mondovisione.com/media-and-resources/news/sec-highlights-financial-independence-during-financial-literacy-month-2026331/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Eurosystem Sets Out Comprehensive Strategy For Future Of European Payments](http://www.mondovisione.com/media-and-resources/news/eurosystem-sets-out-comprehensive-strategy-for-future-of-european-payments-2026331/)
+append_entries: 5
+Finish: 2026-03-31 19:08:49.884897
