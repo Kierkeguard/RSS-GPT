@@ -3279,3 +3279,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CFTC: Federal Court Enters Permanent Injunction Against Peken Global Limited - Peken Global Is Prohibited From Allowing U.S. Participants To Access KuCoin Exchange Without Registering As A Foreign Board Of Trade And Must Pay A $500,000 Penalty](http://www.mondovisione.com/media-and-resources/news/federal-court-enters-permanent-injunction-against-peken-global-limited-peken-g-2026331/)
 append_entries: 2
 Finish: 2026-03-31 05:46:22.959741
+------------------------------------------------------
+Started: 2026-03-31 07:23:39.815494
+Existing_entries: 551
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Qatar Stock Exchange Listed Companies Report QAR 53.3 Billion In Net Profits At The End Of 2025](http://www.mondovisione.com/media-and-resources/news/qatar-stock-exchange-listed-companies-report-qar-533-billion-in-net-profits-at-2026331/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SGX Derivatives To Launch Asia Pacific Government Bond Futures](http://www.mondovisione.com/media-and-resources/news/sgx-derivatives-to-launch-asia-pacific-government-bond-futures-2026331/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Shenzhen Stock Exchange Market Bulletin, March 27, 2026, Issue 5](http://www.mondovisione.com/media-and-resources/news/shenzhen-stock-exchange-market-bulletin-march-27-2026-issue-5-2026331/)
+append_entries: 3
+Finish: 2026-03-31 07:23:40.916067
