@@ -3294,3 +3294,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Shenzhen Stock Exchange Market Bulletin, March 27, 2026, Issue 5](http://www.mondovisione.com/media-and-resources/news/shenzhen-stock-exchange-market-bulletin-march-27-2026-issue-5-2026331/)
 append_entries: 3
 Finish: 2026-03-31 07:23:40.916067
+------------------------------------------------------
+Started: 2026-03-31 09:07:41.035251
+Existing_entries: 554
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Japan Financial Services Agency: Revision Of "Guidelines For Anti-Money Laundering And Combating The Financing Of Terrorism"](http://www.mondovisione.com/media-and-resources/news/japan-financial-services-agency-revision-of-guidelines-for-anti-money-launderi-2026331/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Earnings And Transaction Value Surge To Five-Year Highs For Hong Kong’s Securities Industry In 2025](http://www.mondovisione.com/media-and-resources/news/earnings-and-transaction-value-surge-to-five-year-highs-for-hong-kongs-securiti-2026331/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Remakes Technical Relief And Updated Credit Disclosure Instruments](http://www.mondovisione.com/media-and-resources/news/asic-remakes-technical-relief-and-updated-credit-disclosure-instruments-2026331/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Japan Financial Services Agency: Trends In High-Speed Trading](http://www.mondovisione.com/media-and-resources/news/japan-financial-services-agency-trends-in-high-speed-trading-2026331/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Remakes Relief Instruments For AFS Licensees And Overseas Banks](http://www.mondovisione.com/media-and-resources/news/asic-remakes-relief-instruments-for-afs-licensees-and-overseas-banks-2026331/)
+append_entries: 5
+Finish: 2026-03-31 09:07:42.063396
