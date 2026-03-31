@@ -3267,3 +3267,15 @@ Existing_entries: 549
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-03-31 02:49:40.960656
+------------------------------------------------------
+Started: 2026-03-31 05:46:22.146881
+Existing_entries: 549
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NZX Externalises QuayStreet To Enhance Growth Opportunities](http://www.mondovisione.com/media-and-resources/news/nzx-externalises-quaystreet-to-enhance-growth-opportunities-2026331/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC: Federal Court Enters Permanent Injunction Against Peken Global Limited - Peken Global Is Prohibited From Allowing U.S. Participants To Access KuCoin Exchange Without Registering As A Foreign Board Of Trade And Must Pay A $500,000 Penalty](http://www.mondovisione.com/media-and-resources/news/federal-court-enters-permanent-injunction-against-peken-global-limited-peken-g-2026331/)
+append_entries: 2
+Finish: 2026-03-31 05:46:22.959741
