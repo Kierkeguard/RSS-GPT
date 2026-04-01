@@ -3435,3 +3435,24 @@ Existing_entries: 587
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-04-01 03:19:35.934525
+------------------------------------------------------
+Started: 2026-04-01 05:58:09.964704
+Existing_entries: 587
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC: Three Public Companies Fined More Than A Million Dollars For Breaching Financial Reporting And Company Officer Obligations](http://www.mondovisione.com/media-and-resources/news/asic-three-public-companies-fined-more-than-a-million-dollars-for-breaching-fin-202641/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MSCI Upgrades The Greek Capital Market To Developed Market Status](http://www.mondovisione.com/media-and-resources/news/msci-upgrades-the-greek-capital-market-to-developed-market-status-202641/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Supporting Small Businesses, Federal Reserve Vice Chair For Supervision Michelle W. Bowman, At CBA LIVE 26, Consumer Bankers Association, San Diego, California](http://www.mondovisione.com/media-and-resources/news/supporting-small-businesses-federal-reserve-vice-chair-for-supervision-michelle-202641/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Office Of The Comptroller Of The US Currency Reports Fourth Quarter 2025 Bank Trading Revenue](http://www.mondovisione.com/media-and-resources/news/office-of-the-comptroller-of-the-us-currency-reports-fourth-quarter-2025-bank-tr-202641/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Ontario Securities Commission Alleges Auditing Failures By KPMG In Connection With Four Bridging Finance Inc. Funds](http://www.mondovisione.com/media-and-resources/news/ontario-securities-commission-alleges-auditing-failures-by-kpmg-in-connection-wi-202641/)
+append_entries: 5
+Finish: 2026-04-01 05:58:11.198733
