@@ -45,3 +45,26 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [DTCC Announces Launch Of Rapid Issuance, Providing Faster Market Access For Structured Note Securities Custodied At DTC](http://www.mondovisione.com/media-and-resources/news/dtcc-announces-launch-of-rapid-issuance-providing-faster-market-access-for-stru-202641/)
 append_entries: 5
 Finish: 2026-04-01 15:10:25.926280
+------------------------------------------------------
+Started: 2026-04-01 17:01:41.660109
+Existing_entries: 15
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [First Trade In Financially Settled California Carbon Allowance Futures On Nodal Exchange](http://www.mondovisione.com/media-and-resources/news/first-trade-in-financially-settled-california-carbon-allowance-futures-on-nodal-202641/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Investor Activity on GPW Markets in March 2026 - Trading data in March 2026](http://www.mondovisione.com/media-and-resources/news/investor-activity-on-gpw-markets-in-march-2026-trading-data-in-march-2026-202641/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Moscow Exchange Trading Volumes In March 2026](http://www.mondovisione.com/media-and-resources/news/moscow-exchange-trading-volumes-in-march-2026-202641/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Office Of The Comptroller Of The US Currency Releases CRA Performance Evaluations For 18 National Banks And Federal Savings Associations](http://www.mondovisione.com/media-and-resources/news/office-of-the-comptroller-of-the-us-currency-releases-cra-performance-evaluation-202641/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Restoring American Leadership In Financial Markets: CFTC Chairman Selig’s First 100 Days, CFTC Chairman Michael S. Selig, Washington, DC | April 01, 2026](http://www.mondovisione.com/media-and-resources/news/restoring-american-leadership-in-financial-markets-cftc-chairman-seligs-first-202641/)
+Append: [The Ontario Securities Commission Announces Fraud Allegations Against SponsorsOne Brands Inc. And Gary And Myles Bartholomew](http://www.mondovisione.com/media-and-resources/news/the-ontario-securities-commission-announces-fraud-allegations-against-sponsorson-202641/)
+Append: [Euronext Gathers High-Growth Companies, Banks And Investors During The Euronext European Funding Days](http://www.mondovisione.com/media-and-resources/news/euronext-gathers-high-growth-companies-banks-and-investors-during-the-euronext-202641/)
+append_entries: 7
+Finish: 2026-04-01 17:01:42.779654
