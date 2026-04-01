@@ -68,3 +68,12 @@ Append: [The Ontario Securities Commission Announces Fraud Allegations Against S
 Append: [Euronext Gathers High-Growth Companies, Banks And Investors During The Euronext European Funding Days](http://www.mondovisione.com/media-and-resources/news/euronext-gathers-high-growth-companies-banks-and-investors-during-the-euronext-202641/)
 append_entries: 7
 Finish: 2026-04-01 17:01:42.779654
+------------------------------------------------------
+Started: 2026-04-01 19:10:03.295942
+Existing_entries: 22
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Resolves Action Against Former FTX Head Of Engineering](http://www.mondovisione.com/media-and-resources/news/cftc-resolves-action-against-former-ftx-head-of-engineering-202641/)
+append_entries: 1
+Finish: 2026-04-01 19:10:04.270028
