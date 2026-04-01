@@ -77,3 +77,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CFTC Resolves Action Against Former FTX Head Of Engineering](http://www.mondovisione.com/media-and-resources/news/cftc-resolves-action-against-former-ftx-head-of-engineering-202641/)
 append_entries: 1
 Finish: 2026-04-01 19:10:04.270028
+------------------------------------------------------
+Started: 2026-04-01 20:52:15.705875
+Existing_entries: 23
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq To Hold First Quarter 2026 Investor Conference Call](http://www.mondovisione.com/media-and-resources/news/nasdaq-to-hold-first-quarter-2026-investor-conference-call-202641/)
+append_entries: 1
+Finish: 2026-04-01 20:52:16.420877
