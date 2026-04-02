@@ -155,3 +155,25 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ASIC: Simplification Update - 70% Of Paper Lodgements Now Enabled For Email](http://www.mondovisione.com/media-and-resources/news/asic-simplification-update-70-of-paper-lodgements-now-enabled-for-email-202642/)
 append_entries: 2
 Finish: 2026-04-02 10:56:30.280127
+------------------------------------------------------
+Started: 2026-04-02 13:25:54.211998
+Existing_entries: 35
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group Reaches All-Time Record Monthly And Quarterly Average Daily Volume](http://www.mondovisione.com/media-and-resources/news/cme-group-reaches-all-time-record-monthly-and-quarterly-average-daily-volume-202642/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BPX Appoints Charles McManus, Co-founder And former CEO Of ClearBank, As Advisor - As Financial Markets Undergo A Once-In-A-Generation Transformation, BPX Positions Itself At The Forefront Of Regulated Digital Capital Markets Infrastructure](http://www.mondovisione.com/media-and-resources/news/bpx-appoints-charles-mcmanus-co-founder-and-former-ceo-of-clearbank-as-advisor-202642/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bank Of England: Changes To Publication Dates Of The Decision Maker Panel Data And Agents’ Summary Of Business Conditions](http://www.mondovisione.com/media-and-resources/news/bank-of-england-changes-to-publication-dates-of-the-decision-maker-panel-data-a-202642/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tamam Finance Chooses TrafficGuard To Eliminate Fraudulent Downloads Accounting For 66% Of Installs, Strengthening Mobile Attribution Integrity - Tamam Finance Deploys TrafficGuard’s Mobile App Solution For Real-Time Ad Fraud Prevention, Ensuring High-Quality App Installations And $120,000 In Budget Efficiency Gains](http://www.mondovisione.com/media-and-resources/news/tamam-finance-chooses-trafficguard-to-eliminate-fraudulent-downloads-accounting-202642/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Graduation Keynote, Dato’ Mohammad Faiz Azmi, Chairman, Securities Commission Malaysia investED, For Returning Women Programme Graduation, 2 April 2026, 10.20 Am, Securities Commission Malaysia](http://www.mondovisione.com/media-and-resources/news/graduation-keynote-dato-mohammad-faiz-azmi-chairman-securities-commission-ma-202642/)
+Append: [Nasdaq Helsinki Welcomes Auroora Group To Main Market](http://www.mondovisione.com/media-and-resources/news/nasdaq-helsinki-welcomes-auroora-group-to-main-market-202642/)
+append_entries: 6
+Finish: 2026-04-02 13:25:55.387068
