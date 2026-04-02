@@ -216,3 +216,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Bank Of England - Minutes: CBDC Academic Advisory Group - January 2026](http://www.mondovisione.com/media-and-resources/news/bank-of-england-minutes-cbdc-academic-advisory-group-january-2026-202642/)
 append_entries: 4
 Finish: 2026-04-02 17:00:51.266347
+------------------------------------------------------
+Started: 2026-04-02 19:03:04.846381
+Existing_entries: 50
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Sues Trio of States to Reaffirm Its Exclusive Jurisdiction Over Prediction Markets](http://www.mondovisione.com/media-and-resources/news/cftc-sues-trio-of-states-to-reaffirm-its-exclusive-jurisdiction-over-prediction-202642/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Prediction Markets: Canadian Securities Administrators And Canadian Investment Regulatory Organization Remind Industry And Investors Of The Current Rules](http://www.mondovisione.com/media-and-resources/news/prediction-markets-canadian-securities-administrators-and-canadian-investment-r-202642/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New FINRA Foundation Research Examines The Characteristics, Behaviors And Outcomes Of Retail Investors Who Use Social Media - Younger Investors Turn To Finfluencers To Inform Decisions, But Face Knowledge Gaps And Elevated Fraud Risk](http://www.mondovisione.com/media-and-resources/news/new-finra-foundation-research-examines-the-characteristics-behaviors-and-outcom-202642/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Office Of The Comptroller Of The US Currency Announces Deputy Comptrollers For Chartering, Organization And Structure](http://www.mondovisione.com/media-and-resources/news/office-of-the-comptroller-of-the-us-currency-announces-deputy-comptrollers-for-c-202642/)
+append_entries: 4
+Finish: 2026-04-02 19:03:05.810549
