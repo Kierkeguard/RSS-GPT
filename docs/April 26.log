@@ -98,3 +98,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Robinhood Markets, Inc. To Announce First Quarter 2026 Results On April 28, 2026](http://www.mondovisione.com/media-and-resources/news/robinhood-markets-inc-to-announce-first-quarter-2026-results-on-april-28-2026-202641/)
 append_entries: 2
 Finish: 2026-04-01 22:44:09.606785
+------------------------------------------------------
+Started: 2026-04-02 02:45:45.379156
+Existing_entries: 26
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-04-02 02:45:46.400773
