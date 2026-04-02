@@ -177,3 +177,24 @@ Append: [Graduation Keynote, Dato’ Mohammad Faiz Azmi, Chairman, Securities Co
 Append: [Nasdaq Helsinki Welcomes Auroora Group To Main Market](http://www.mondovisione.com/media-and-resources/news/nasdaq-helsinki-welcomes-auroora-group-to-main-market-202642/)
 append_entries: 6
 Finish: 2026-04-02 13:25:55.387068
+------------------------------------------------------
+Started: 2026-04-02 15:01:21.339747
+Existing_entries: 41
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [OCC March 2026 Monthly Volume Report](http://www.mondovisione.com/media-and-resources/news/occ-march-2026-monthly-volume-report-202642/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Kaiko Integrates Bruce Markets Data Into Its Equity Reference Rates - Partnership Strengthens Institutional-Grade Pricing Infrastructure For Overnight Markets And Next-Generation Perpetual Products](http://www.mondovisione.com/media-and-resources/news/kaiko-integrates-bruce-markets-data-into-its-equity-reference-rates-partnershi-202642/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cboe Global Markets 2024 Annual Report](http://www.mondovisione.com/media-and-resources/news/cboe-global-markets-2024-annual-report-202642/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Small Business Sales Grew Steadily In March As Higher Ticket Sizes Offset Softer Foot Traffic, Fiserv Data Shows - Fiserv Small Business Index Rises To 144; Year-Over-Year Sales Grew +1.3%](http://www.mondovisione.com/media-and-resources/news/small-business-sales-grew-steadily-in-march-as-higher-ticket-sizes-offset-softer-202642/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Options And MIAX Emerald Options - Effective For Trade Date April 2, 2026 2X OPENING And INTRADAY Valid And Priority Quote Spread Relief In All Symbols](http://www.mondovisione.com/media-and-resources/news/miax-options-and-miax-emerald-options-effective-for-trade-date-april-2-2026-2-202642/)
+append_entries: 5
+Finish: 2026-04-02 15:01:22.643014
