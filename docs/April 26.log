@@ -143,3 +143,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ASIC Releases March 2026 Financial Adviser Exam Results](http://www.mondovisione.com/media-and-resources/news/asic-releases-march-2026-financial-adviser-exam-results-202642/)
 append_entries: 4
 Finish: 2026-04-02 09:04:36.968385
+------------------------------------------------------
+Started: 2026-04-02 10:56:29.193903
+Existing_entries: 33
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SET And LSX Sign MOU To Strengthen Cross-Border Capital Market Collaboration](http://www.mondovisione.com/media-and-resources/news/set-and-lsx-sign-mou-to-strengthen-cross-border-capital-market-collaboration-202642/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC: Simplification Update - 70% Of Paper Lodgements Now Enabled For Email](http://www.mondovisione.com/media-and-resources/news/asic-simplification-update-70-of-paper-lodgements-now-enabled-for-email-202642/)
+append_entries: 2
+Finish: 2026-04-02 10:56:30.280127
