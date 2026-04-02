@@ -198,3 +198,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [MIAX Options And MIAX Emerald Options - Effective For Trade Date April 2, 2026 2X OPENING And INTRADAY Valid And Priority Quote Spread Relief In All Symbols](http://www.mondovisione.com/media-and-resources/news/miax-options-and-miax-emerald-options-effective-for-trade-date-april-2-2026-2-202642/)
 append_entries: 5
 Finish: 2026-04-02 15:01:22.643014
+------------------------------------------------------
+Started: 2026-04-02 17:00:50.040340
+Existing_entries: 46
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Federal Court Grants CFTC Motion For Summary Judgment, Orders Former Hedge Fund Manager To Pay $2.2 Million For Swap Valuation Fraud](http://www.mondovisione.com/media-and-resources/news/federal-court-grants-cftc-motion-for-summary-judgment-orders-former-hedge-fund-202642/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nigerian Exchange Weekly Market Report And Weekly Summary For The Week Ended 2 April 2026](http://www.mondovisione.com/media-and-resources/news/nigerian-exchange-weekly-market-report-and-weekly-summary-for-the-week-ended-2-a-202642/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Malawi Stock Exchange Weekly Summary Report, 2 April 2026](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-2-april-2026-202642/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bank Of England - Minutes: CBDC Academic Advisory Group - January 2026](http://www.mondovisione.com/media-and-resources/news/bank-of-england-minutes-cbdc-academic-advisory-group-january-2026-202642/)
+append_entries: 4
+Finish: 2026-04-02 17:00:51.266347
