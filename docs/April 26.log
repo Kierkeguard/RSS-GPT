@@ -125,3 +125,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ASIC Publishes ASX Inquiry Panel Final Report And Acknowledges Observations](http://www.mondovisione.com/media-and-resources/news/asic-publishes-asx-inquiry-panel-final-report-and-acknowledges-observations-202642/)
 append_entries: 3
 Finish: 2026-04-02 07:20:41.594536
+------------------------------------------------------
+Started: 2026-04-02 09:04:35.840721
+Existing_entries: 29
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Vienna Stock Exchange Q1 2026: Volatile Market Drives Equity Trading Turnover](http://www.mondovisione.com/media-and-resources/news/vienna-stock-exchange-q1-2026-volatile-market-drives-equity-trading-turnover-202642/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group PLC Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-transaction-in-own-shares-202642/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SGX RegCo - Regulator’s Column: Expectations For AGM And Reporting Timeliness](http://www.mondovisione.com/media-and-resources/news/sgx-regco-regulators-column-expectations-for-agm-and-reporting-timeliness-202642/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Releases March 2026 Financial Adviser Exam Results](http://www.mondovisione.com/media-and-resources/news/asic-releases-march-2026-financial-adviser-exam-results-202642/)
+append_entries: 4
+Finish: 2026-04-02 09:04:36.968385
