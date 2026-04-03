@@ -309,3 +309,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CFTC Chairman Selig Announces Deputy General Counsel Appointments](http://www.mondovisione.com/media-and-resources/news/cftc-chairman-selig-announces-deputy-general-counsel-appointments-202643/)
 append_entries: 1
 Finish: 2026-04-03 14:50:21.742787
+------------------------------------------------------
+Started: 2026-04-03 16:49:16.409823
+Existing_entries: 61
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Dubai Financial Market Regulated Short Sell – Weekly Summary - 30th March 2026 To 3rd April 2026](http://www.mondovisione.com/media-and-resources/news/dubai-financial-market-regulated-short-sell-weekly-summary-30th-march-2026-202643/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Borsa Istanbul: BIST Buyback Index Periodic Review](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-bist-buyback-index-periodic-review-202643/)
+append_entries: 2
+Finish: 2026-04-03 16:49:17.547077
