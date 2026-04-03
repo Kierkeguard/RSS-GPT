@@ -285,3 +285,18 @@ Existing_entries: 57
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-04-03 10:49:29.025388
+------------------------------------------------------
+Started: 2026-04-03 13:14:51.454849
+Existing_entries: 57
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [JPX Market Innovation & Research, Inc. Launches Study For Industry-Wide Common Data Platform To Enhance Securities Operations](http://www.mondovisione.com/media-and-resources/news/jpx-market-innovation-and-research-inc-launches-study-for-industry-wide-common-d-202643/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Japan Financial Services Agency: Publication Of The Research Report, - “Strengthening The Management Of Third-Party Cybersecurity Risks By Financial Institutions”](http://www.mondovisione.com/media-and-resources/news/japan-financial-services-agency-publication-of-the-research-report-strength-202643/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Shanghai Gold Exchange Monthly Report of Data Highlights - March, 2026](http://www.mondovisione.com/media-and-resources/news/shanghai-gold-exchange-monthly-report-of-data-highlights-march-2026-202643/)
+append_entries: 3
+Finish: 2026-04-03 13:14:52.419882
