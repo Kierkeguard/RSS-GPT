@@ -264,3 +264,18 @@ Existing_entries: 54
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-04-03 07:17:17.580879
+------------------------------------------------------
+Started: 2026-04-03 09:01:26.271732
+Existing_entries: 54
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Montréal Exchange's Markets Closed Today, April 3, 2026](http://www.mondovisione.com/media-and-resources/news/montral-exchanges-markets-closed-today-april-3-2026-202643/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Announces Agenda And Panelists For Roundtable On Options Market Structure](http://www.mondovisione.com/media-and-resources/news/sec-announces-agenda-and-panelists-for-roundtable-on-options-market-structure-202643/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Canadian Securities Regulators Report On Key Oversight Activities Of Canadian Investment Regulatory Organization And Canadian Investor Protection Fund](http://www.mondovisione.com/media-and-resources/news/canadian-securities-regulators-report-on-key-oversight-activities-of-canadian-in-202643/)
+append_entries: 3
+Finish: 2026-04-03 09:01:27.194436
