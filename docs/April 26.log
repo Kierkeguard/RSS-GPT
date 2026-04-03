@@ -321,3 +321,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Borsa Istanbul: BIST Buyback Index Periodic Review](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-bist-buyback-index-periodic-review-202643/)
 append_entries: 2
 Finish: 2026-04-03 16:49:17.547077
+------------------------------------------------------
+Started: 2026-04-03 18:55:15.886323
+Existing_entries: 63
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-04-03 18:55:17.065942
