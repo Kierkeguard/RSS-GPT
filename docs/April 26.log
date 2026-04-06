@@ -531,3 +531,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ICE Mortgage Monitor: Early Spring Housing Market Shows Firmer Prices Amid Affordability Reset And Inventory Growth](http://www.mondovisione.com/media-and-resources/news/ice-mortgage-monitor-early-spring-housing-market-shows-firmer-prices-amid-affor-202646/)
 append_entries: 1
 Finish: 2026-04-06 14:54:33.205400
+------------------------------------------------------
+Started: 2026-04-06 16:56:17.771286
+Existing_entries: 71
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bursa Malaysia: Equities Trading Data Reclassification Takes Effect On 6 April 2026](http://www.mondovisione.com/media-and-resources/news/bursa-malaysia-equities-trading-data-reclassification-takes-effect-on-6-april-2-202646/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UAE’s Global Regulatory Leadership Affirmed By CMA CEO Waleed Al Awadhi Reappointment As Chair Of IOSCO’s Africa And Middle East Regional Committee](http://www.mondovisione.com/media-and-resources/news/uaes-global-regulatory-leadership-affirmed-by-cma-ceo-waleed-al-awadhi-reappoin-202646/)
+append_entries: 2
+Finish: 2026-04-06 16:56:18.701911
