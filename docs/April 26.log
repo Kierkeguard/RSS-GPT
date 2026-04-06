@@ -495,3 +495,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Borsa Istanbul : Announcement On Procedure For Theoretical/Reference Price Calculations In Cases Of Corporate Actions](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-announcement-on-procedure-for-theoreticalreference-price-calcu-202646/)
 append_entries: 1
 Finish: 2026-04-06 06:01:07.228987
+------------------------------------------------------
+Started: 2026-04-06 09:15:24.450805
+Existing_entries: 67
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-04-06 09:15:25.411216
