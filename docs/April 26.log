@@ -522,3 +522,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Miami International Holdings Reports Trading Results For March 2026 - MIAX Exchange Group Reports 26.6% Increase In Multi-List Options YTD ADV](http://www.mondovisione.com/media-and-resources/news/miami-international-holdings-reports-trading-results-for-march-2026-miax-excha-202646/)
 append_entries: 3
 Finish: 2026-04-06 13:21:36.100786
+------------------------------------------------------
+Started: 2026-04-06 14:54:31.848455
+Existing_entries: 70
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ICE Mortgage Monitor: Early Spring Housing Market Shows Firmer Prices Amid Affordability Reset And Inventory Growth](http://www.mondovisione.com/media-and-resources/news/ice-mortgage-monitor-early-spring-housing-market-shows-firmer-prices-amid-affor-202646/)
+append_entries: 1
+Finish: 2026-04-06 14:54:33.205400
