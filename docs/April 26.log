@@ -636,3 +636,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CCP Global Submits A Response To The Proposed EU Settlement Finality Regulation](http://www.mondovisione.com/media-and-resources/news/ccp-global-submits-a-response-to-the-proposed-eu-settlement-finality-regulation-202647/)
 append_entries: 2
 Finish: 2026-04-07 13:41:23.589401
+------------------------------------------------------
+Started: 2026-04-07 15:14:46.358804
+Existing_entries: 86
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Retail Trading Boom Fuels Demand For Structured Training And Insight As AIFO Launches Platform For Independent Traders](http://www.mondovisione.com/media-and-resources/news/uk-retail-trading-boom-fuels-demand-for-structured-training-and-insight-as-aifo-202647/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Purdue University/CME Group Ag Economy Barometer: Farmer Sentiment Improves Despite Rising Input Cost Concerns](http://www.mondovisione.com/media-and-resources/news/purdue-universitycme-group-ag-economy-barometer-farmer-sentiment-improves-desp-202647/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TMX Group Limited To Announce Q1 2026 Financial Results On Monday, May 4, 2026](http://www.mondovisione.com/media-and-resources/news/tmx-group-limited-to-announce-q1-2026-financial-results-on-monday-may-4-2026-202647/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group To Continue Expansion Of Regulated Crypto Suite With Launch Of Avalanche And Sui Futures](http://www.mondovisione.com/media-and-resources/news/cme-group-to-continue-expansion-of-regulated-crypto-suite-with-launch-of-avalanc-202647/)
+append_entries: 4
+Finish: 2026-04-07 15:14:47.696437
