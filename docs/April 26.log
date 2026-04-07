@@ -666,3 +666,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Dubai Financial Services Authority And Ministry Of Economy And Tourism Sign MoU To Enhance Financial Services Growth And Strengthen Audit And Regulatory Oversight](http://www.mondovisione.com/media-and-resources/news/dubai-financial-services-authority-and-ministry-of-economy-and-tourism-sign-mou-202647/)
 append_entries: 2
 Finish: 2026-04-07 17:06:58.408355
+------------------------------------------------------
+Started: 2026-04-07 19:12:12.731209
+Existing_entries: 92
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Ontario Securities Commission Investor Warnings And Alerts For March 17 – April 7, 2026](http://www.mondovisione.com/media-and-resources/news/ontario-securities-commission-investor-warnings-and-alerts-for-march-17-april-202647/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nodal Exchange Sets New Trading Volume Records In Q1 2026](http://www.mondovisione.com/media-and-resources/news/nodal-exchange-sets-new-trading-volume-records-in-q1-2026-202647/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Canadian Investment Regulatory Organization Sets 2027 Annual Priorities To Strengthen Investor Protection And Advance Regulatory Evolution - Priorities Continue To Focus On Areas Of Highest Impact To Stakeholders, Including Completing Integration Activities, Strengthening Cyber Resilience, And Reviewing Complaint Handling Practices](http://www.mondovisione.com/media-and-resources/news/canadian-investment-regulatory-organization-sets-2027-annual-priorities-to-stren-202647/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Measured Adjustments – ISDA IQ April 2026](http://www.mondovisione.com/media-and-resources/news/measured-adjustments-isda-iq-april-2026-202647/)
+append_entries: 4
+Finish: 2026-04-07 19:12:13.913677
