@@ -654,3 +654,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CME Group To Continue Expansion Of Regulated Crypto Suite With Launch Of Avalanche And Sui Futures](http://www.mondovisione.com/media-and-resources/news/cme-group-to-continue-expansion-of-regulated-crypto-suite-with-launch-of-avalanc-202647/)
 append_entries: 4
 Finish: 2026-04-07 15:14:47.696437
+------------------------------------------------------
+Started: 2026-04-07 17:06:57.257461
+Existing_entries: 90
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TMX Group Consolidated Trading Statistics – March 2026](http://www.mondovisione.com/media-and-resources/news/tmx-group-consolidated-trading-statistics-march-2026-202647/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Dubai Financial Services Authority And Ministry Of Economy And Tourism Sign MoU To Enhance Financial Services Growth And Strengthen Audit And Regulatory Oversight](http://www.mondovisione.com/media-and-resources/news/dubai-financial-services-authority-and-ministry-of-economy-and-tourism-sign-mou-202647/)
+append_entries: 2
+Finish: 2026-04-07 17:06:58.408355
