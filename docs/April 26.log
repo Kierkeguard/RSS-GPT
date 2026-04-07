@@ -588,3 +588,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ASIC Consults On Guidance To Appoint A Reviewing Liquidator](http://www.mondovisione.com/media-and-resources/news/asic-consults-on-guidance-to-appoint-a-reviewing-liquidator-202647/)
 append_entries: 3
 Finish: 2026-04-07 05:48:41.481629
+------------------------------------------------------
+Started: 2026-04-07 07:26:08.784359
+Existing_entries: 78
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group PLC Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-transaction-in-own-shares-202647/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Exchange Group - Options Markets - Listing Of Monday And Wednesday Weekly Expirations For Qualified Securities For Q2 2026](http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-options-markets-listing-of-monday-and-wednesday-weekly-e-202647/)
+append_entries: 2
+Finish: 2026-04-07 07:26:31.372534
