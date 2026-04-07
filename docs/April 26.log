@@ -693,3 +693,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SEC Announces Enforcement Results For Fiscal Year 2025 - Resets The Measure Of Enforcement Effectiveness To Investor Protection And Congressional Intent](http://www.mondovisione.com/media-and-resources/news/sec-announces-enforcement-results-for-fiscal-year-2025-resets-the-measure-of-e-202647/)
 append_entries: 1
 Finish: 2026-04-07 20:54:29.856690
+------------------------------------------------------
+Started: 2026-04-07 22:43:54.477576
+Existing_entries: 97
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FTSE Russell Announces Results Of March 2026 Semi-Annual Country Classification Review For Equities And Fixed Income](http://www.mondovisione.com/media-and-resources/news/ftse-russell-announces-results-of-march-2026-semi-annual-country-classification-202647/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Agencies Request Comment On Anti-Money Laundering/Countering The Financing Of Terrorism Proposed Rule](http://www.mondovisione.com/media-and-resources/news/us-agencies-request-comment-on-anti-money-launderingcountering-the-financing-of-202647/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Agencies Issue Final Rule To Prohibit Use Of Reputation Risk By Regulators](http://www.mondovisione.com/media-and-resources/news/us-agencies-issue-final-rule-to-prohibit-use-of-reputation-risk-by-regulators-202647/)
+append_entries: 3
+Finish: 2026-04-07 22:43:55.548751
