@@ -606,3 +606,21 @@ Existing_entries: 80
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-04-07 09:10:09.772469
+------------------------------------------------------
+Started: 2026-04-07 11:02:08.943342
+Existing_entries: 80
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LME Data Highlights: Q1 2026](http://www.mondovisione.com/media-and-resources/news/lme-data-highlights-q1-2026-202647/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Confluence® Technologies And ACA Group Partner To Automate GIPS® Verification Data Feeds](http://www.mondovisione.com/media-and-resources/news/confluence-technologies-and-aca-group-partner-to-automate-gips-verification-da-202647/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Broadridge Live With On-Chain Governance For Tokenized Equities, Extending Market Infrastructure Into Digital Assets - Galaxy Pioneers Full Ownership Rights Across Traditional And Tokenized Holdings](http://www.mondovisione.com/media-and-resources/news/broadridge-live-with-on-chain-governance-for-tokenized-equities-extending-marke-202647/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The World Federation Of Exchanges To Convene WFEClear 2026 In Toronto](http://www.mondovisione.com/media-and-resources/news/the-world-federation-of-exchanges-to-convene-wfeclear-2026-in-toronto-202647/)
+append_entries: 4
+Finish: 2026-04-07 11:02:09.948461
