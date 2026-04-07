@@ -600,3 +600,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [MIAX Exchange Group - Options Markets - Listing Of Monday And Wednesday Weekly Expirations For Qualified Securities For Q2 2026](http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-options-markets-listing-of-monday-and-wednesday-weekly-e-202647/)
 append_entries: 2
 Finish: 2026-04-07 07:26:31.372534
+------------------------------------------------------
+Started: 2026-04-07 09:10:08.623217
+Existing_entries: 80
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-04-07 09:10:09.772469
