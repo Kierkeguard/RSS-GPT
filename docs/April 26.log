@@ -573,3 +573,18 @@ Existing_entries: 75
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-04-07 02:51:07.777459
+------------------------------------------------------
+Started: 2026-04-07 05:48:39.800953
+Existing_entries: 75
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC And AASB Team Up To Help Smaller Companies Get Ready For Sustainability Reporting](http://www.mondovisione.com/media-and-resources/news/asic-and-aasb-team-up-to-help-smaller-companies-get-ready-for-sustainability-rep-202647/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Japan Financial Services Agency: "Cold Calling" - Investors Alert](http://www.mondovisione.com/media-and-resources/news/japan-financial-services-agency-cold-calling-investors-alert-202647/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Consults On Guidance To Appoint A Reviewing Liquidator](http://www.mondovisione.com/media-and-resources/news/asic-consults-on-guidance-to-appoint-a-reviewing-liquidator-202647/)
+append_entries: 3
+Finish: 2026-04-07 05:48:41.481629
