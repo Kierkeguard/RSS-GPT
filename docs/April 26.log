@@ -624,3 +624,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [The World Federation Of Exchanges To Convene WFEClear 2026 In Toronto](http://www.mondovisione.com/media-and-resources/news/the-world-federation-of-exchanges-to-convene-wfeclear-2026-in-toronto-202647/)
 append_entries: 4
 Finish: 2026-04-07 11:02:09.948461
+------------------------------------------------------
+Started: 2026-04-07 13:41:22.516957
+Existing_entries: 84
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tradeweb Reports Record March 2026 Total Trading Volume Of $87.0 Trillion And Record Average Daily Volume Of $3.8 Trillion](http://www.mondovisione.com/media-and-resources/news/tradeweb-reports-record-march-2026-total-trading-volume-of-870-trillion-and-re-202647/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CCP Global Submits A Response To The Proposed EU Settlement Finality Regulation](http://www.mondovisione.com/media-and-resources/news/ccp-global-submits-a-response-to-the-proposed-eu-settlement-finality-regulation-202647/)
+append_entries: 2
+Finish: 2026-04-07 13:41:23.589401
