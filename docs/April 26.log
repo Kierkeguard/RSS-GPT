@@ -720,3 +720,21 @@ Existing_entries: 100
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-04-08 05:49:19.350433
+------------------------------------------------------
+Started: 2026-04-08 07:42:44.995986
+Existing_entries: 100
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Ramps-Up Action To Protect Consumers From AI-Powered Online Investment Scams](http://www.mondovisione.com/media-and-resources/news/asic-ramps-up-action-to-protect-consumers-from-ai-powered-online-investment-scam-202648/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Economic Outlook And The Labor Market, Vice Chair Philip N. Jefferson, At The College Of Business Administration, University Of Detroit Mercy, Detroit, Michigan](http://www.mondovisione.com/media-and-resources/news/economic-outlook-and-the-labor-market-vice-chair-philip-n-jefferson-at-the-co-202648/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Remarks At The Texas Stock Exchange Event: Welcome To The Boom Belt: A Return To First Principles In Public Markets, Paul S. Atkins, SEC Chairman, Miami, Fl., April 7, 2026](http://www.mondovisione.com/media-and-resources/news/remarks-at-the-texas-stock-exchange-event-welcome-to-the-boom-belt-a-return-to-202648/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Comptroller Of The US Currency Statement On Final Rule Eliminating Reputation Risk From Bank Supervision](http://www.mondovisione.com/media-and-resources/news/comptroller-of-the-us-currency-statement-on-final-rule-eliminating-reputation-ri-202648/)
+append_entries: 4
+Finish: 2026-04-08 07:42:45.955129
