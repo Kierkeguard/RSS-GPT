@@ -708,3 +708,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [US Agencies Issue Final Rule To Prohibit Use Of Reputation Risk By Regulators](http://www.mondovisione.com/media-and-resources/news/us-agencies-issue-final-rule-to-prohibit-use-of-reputation-risk-by-regulators-202647/)
 append_entries: 3
 Finish: 2026-04-07 22:43:55.548751
+------------------------------------------------------
+Started: 2026-04-08 02:52:13.966215
+Existing_entries: 100
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-04-08 02:52:14.863394
