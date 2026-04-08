@@ -762,3 +762,21 @@ Append: [Announcement Of Approval Of Three Institutions Including The Hongkong A
 Append: [New Zealand Financial Markets Authority Warns Of Fraudulent Trading Platforms Using Fake News Articles To Entice Investors](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-warns-of-fraudulent-trading-platforms-us-202648/)
 append_entries: 8
 Finish: 2026-04-08 09:09:23.010215
+------------------------------------------------------
+Started: 2026-04-08 11:03:10.787017
+Existing_entries: 112
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Apax Digital Funds Invest $60 Million In MillTech To Fuel North American Expansion](http://www.mondovisione.com/media-and-resources/news/apax-digital-funds-invest-60-million-in-milltech-to-fuel-north-american-expansi-202648/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIX And Snowflake Join Forces To Streamline Delivery Of High-Quality Financial Data](http://www.mondovisione.com/media-and-resources/news/six-and-snowflake-join-forces-to-streamline-delivery-of-high-quality-financial-d-202648/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Lloyd Capital And HANetf Launch Lloyd International Equity UCITS ETF Tracking The Solactive Lloyd International Equity Index](http://www.mondovisione.com/media-and-resources/news/lloyd-capital-and-hanetf-launch-lloyd-international-equity-ucits-etf-tracking-th-202648/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FESE Position On The Market Integration & Supervision Package (MISP)](http://www.mondovisione.com/media-and-resources/news/fese-position-on-the-market-integration-and-supervision-package-misp-202648/)
+append_entries: 4
+Finish: 2026-04-08 11:03:12.093821
