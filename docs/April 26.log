@@ -780,3 +780,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [FESE Position On The Market Integration & Supervision Package (MISP)](http://www.mondovisione.com/media-and-resources/news/fese-position-on-the-market-integration-and-supervision-package-misp-202648/)
 append_entries: 4
 Finish: 2026-04-08 11:03:12.093821
+------------------------------------------------------
+Started: 2026-04-08 13:43:45.549279
+Existing_entries: 116
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TS Imagine Launches Integrated Lifecycle Management To Solve Fragmentation Challenge In Swaps Market - New Module Unites Lifecycle Management And Risk To Eliminate Reconciliation Gaps And Enable Intraday Hedge Monitoring](http://www.mondovisione.com/media-and-resources/news/ts-imagine-launches-integrated-lifecycle-management-to-solve-fragmentation-chall-202648/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Options And MIAX Emerald Options - Effective For Trade Dates April 8, 2026 Through April 10, 2026 2X OPENING And INTRADAY Valid And Priority Quote Spread Relief In All Symbols](http://www.mondovisione.com/media-and-resources/news/miax-options-and-miax-emerald-options-effective-for-trade-dates-april-8-2026-202648/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Leading German Bank Helaba Goes Live On MX.3 For Collateral Management Solution - Murex Platform Migration Lays Groundwork For Implementation At Landesbank](http://www.mondovisione.com/media-and-resources/news/leading-german-bank-helaba-goes-live-on-mx3-for-collateral-management-solution-202648/)
+append_entries: 3
+Finish: 2026-04-08 13:43:46.686916
