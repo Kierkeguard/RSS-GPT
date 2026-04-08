@@ -845,3 +845,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [BondXN Integrates With BlackRock’s Aladdin® Platform To Modernize MBS Trading - The Multi-Year Partnership Connects BondXN’s Trading Venue With OEMS Capabilities In The Aladdin Platform To Deliver Specified Pool And TBA Execution, MBS Market Aggregation, And Dealer Connectivity To Aladdin Users, Enhancing Price Discovery And Operational Efficiency Across The $8 Trillion Mortgage Backed Securities Market](http://www.mondovisione.com/media-and-resources/news/bondxn-integrates-with-blackrocks-aladdin-platform-to-modernize-mbs-trading-202648/)
 append_entries: 1
 Finish: 2026-04-08 19:24:21.433798
+------------------------------------------------------
+Started: 2026-04-08 20:51:47.435283
+Existing_entries: 131
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Minutes Of The Federal Open Market Committee, March 17–18, 2026](http://www.mondovisione.com/media-and-resources/news/minutes-of-the-federal-open-market-committee-march-1718-2026-202648/)
+append_entries: 1
+Finish: 2026-04-08 20:51:48.494122
