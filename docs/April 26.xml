@@ -5,11 +5,87 @@
 <link>http://www.mondovisione.com/media-and-resources/news/</link>
 
 <item>
+<title>U.S.-UK Financial Regulatory Working Group Winter 2026: Joint Statement</title>
+<link>http://www.mondovisione.com/media-and-resources/news/us-uk-financial-regulatory-working-group-winter-2026-joint-statement-202648/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/us-uk-financial-regulatory-working-group-winter-2026-joint-statement-202648/</guid>
+<content:encoded><![CDATA[
+
+<p>The 12th official meeting of the U.S.-UK Financial Regulatory Working Group (Working Group) was hosted by the U.S. Department of the Treasury in Washington, DC on February 25, 2026.</p>
+<p>Senior officials from the U.S. Treasury and His Majesty&rsquo;s (HM) Treasury were joined by representatives from the Board of Governors of the Federal Reserve System, Commodity Futures Trading Commission, Federal Deposit Insurance Corporation, Office of the Comptroller of the Currency, Securities and Exchange Commission, Bank of England, and Financial Conduct Authority. Participation varied across themes, with participants expressing views on issues in their organizations&rsquo; respective areas of responsibility.</p>
+<p>The Working Group emphasized close, ongoing U.S. and UK cooperation and focused on several key themes, including: 1) the economic and financial stability outlook, 2) the Transatlantic Taskforce for Markets of the Future (TTMF), 3) digital finance and innovation, and 4) regulatory modernization and developments.</p>
+<p>The meeting opened with a broad discussion of the U.S. and UK economic and financial stability outlooks, with participants taking stock of current economic trends and market conditions. Both U.S. Treasury and HM Treasury emphasized facilitating economic growth and cross-border activity, while also modernizing regulation and protecting financial stability.</p>
+<p>Participants received a progress report on the work of the TTMF, including a readout of a joint industry roundtable hosted in Washington, DC the prior day.&nbsp; During this TTMF engagement, U.S. Treasury hosted representatives from HM Treasury, and U.S. and UK regulatory agencies, for a second round of industry engagement exploring opportunities to improve links between our capital markets and to collaborate on digital assets.&nbsp; The TTMF aims to report back to both Treasuries with recommendations via the Working Group in summer 2026.</p>
+<p>Participants discussed issues related to digital finance and innovation, noting broad support for promoting the use and growth of digital assets and digital financial innovation globally. Authorities discussed their respective priorities for digital assets and provided updates on the progress of regulation in both jurisdictions, including to support the adoption of stablecoins for payments. UK participants also provided an update about their Digital Securities Sandbox, and the Working Group discussed potential opportunities to support cross-border innovation. Participants emphasized the importance of continued bilateral engagement on digital assets developments in their respective jurisdictions. Participants also shared recent developments in their respective work on payments modernization.&nbsp;</p>
+<p>Representatives exchanged views on their respective approaches to artificial intelligence (AI) and both current and future uses of AI in financial services. U.S. and UK authorities discussed ways to work together, to realize the potential of this technology and mitigate the potential risks of AI in financial services.</p>
+<p>The Working Group discussed approaches to cybersecurity and operational resilience for supervised institutions and their use of critical third parties, including opportunities for authorities&rsquo; further engagement. Participants continued discussions about the importance of working with industry to improve the resilience of the financial sector.</p>
+<p>The Working Group continued with a discussion of developments in non-bank financial intermediation (NBFI), with participants providing updates on their respective domestic agendas and support for continued international engagement on this topic. Participants also offered an overview of developments in their domestic banking systems and banking regulation.</p>
+<p>Participants conferred on the investment environment, including capital markets regulation. HM Treasury set out the UK government&rsquo;s program of reforms to reinvigorate capital markets, including its commitment to move to a T+1 settlement cycle in October 2027.&nbsp;</p>
+<p>The Working Group plans to formally reconvene in summer 2026 to continue its ongoing biannual dialogue, first established in 2018 to deepen bilateral regulatory cooperation between the UK and the U.S. and to enhance robust economic growth; financial stability; investor protection; fair, orderly, and efficient markets; and capital formation across both jurisdictions.&nbsp;</p>
+]]></content:encoded>
+<pubDate>Wed, 08 Apr 2026 14:54:17 GMT</pubDate>
+<pubDate>Wed, 08 Apr 2026 14:54:17 GMT</pubDate>
+</item>
+<item>
+<title>Exegy Optimizes Execution Stack Performance With Advanced Connectivity And A 71% Latency Reduction - New nxAccess Capabilities Enable Firms To Dynamically Switch To The Fastest Available Exchange Session And Private Links In Real-Time.</title>
+<link>http://www.mondovisione.com/media-and-resources/news/exegy-optimizes-execution-stack-performance-with-advanced-connectivity-and-a-71-202648/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/exegy-optimizes-execution-stack-performance-with-advanced-connectivity-and-a-71-202648/</guid>
+<content:encoded><![CDATA[
+
+<p><span>Exegy, a leading provider of market data, trading technology, and managed services for the capital markets, today announced a significant performance enhancement to nxAccess, its FPGA-based trading engine. The update introduces the Session Override feature and expanded connectivity options, delivering an impressive 71% reduction in execution-stack latency to help firms capture every market opportunity.</span></p>
+<p><span>As electronic trading infrastructure grows increasingly complex, the ability to choose the optimal path to local and remote venues is a significant driver of execution performance. The latest evolution of nxAccess addresses this by giving firms the agility to bypass traditional hardware constraints and pivot to the fastest available session or network link at the moment of execution.</span></p>
+<p><span>&ldquo;In today's fragmented markets, the fastest route at market open isn't necessarily the fastest at midday. Relying on static configurations creates 'latency leakage' that firms can no longer afford. nxAccess bridges this gap by turning connectivity into a dynamic asset rather than a hardware bottleneck," said </span><b><strong>Olivier Cousin, Director of Product, FPGA Solutions at Exegy.</strong></b><span> &ldquo;This reduction allows firms to maintain deterministic performance even during high-burst volatility, ensuring orders are filled at intended prices."</span></p>
+<p><span>The centerpiece of this release is Session Override, a built-in capability of nxAccess that allows firms to monitor session performance in real-time. Because local exchange latency can fluctuate throughout the day, Session Override enables an algorithm to select the best-performing session the instant a trigger occurs.</span></p>
+<p><span>Key benefits and enhancements of the new nxAccess release include:</span></p>
+<ul>
+<li dir="ltr" value="1"><span>&zwnj;</span><b><strong>Dramatic Latency Improvement: </strong></b><span>Achieves up to a 71% reduction in execution-stack latency, measured from Start-Of-Packet (SOP) to Start-Of-Packet (SOP) on the switch, ensuring deterministic performance for the most demanding environments.</span></li>
+<li dir="ltr" value="2"><span>&zwnj;</span><b><strong>Dynamic Session Optimization:</strong></b><span> The new Session Override feature allows firms to use their own software to measure session performance in real-time and automatically pivot to the fastest available path without the need for hardware re-coding.</span></li>
+<li dir="ltr" value="3"><span>&zwnj;</span><b><strong>Expanded Connectivity for Premium Links: </strong></b><span>Beyond standard TCP, nxAccess now supports UDP-based multicast and raw Ethernet frame transmission &ldquo;out of the box&rdquo;, allowing firms to leverage ultra-low latency wireless and private links immediately.</span></li>
+<li dir="ltr" value="4"><span>&zwnj;</span><b><strong>Accelerated Time-to-Production:</strong></b><span> As an off-the-shelf FPGA platform, nxAccess combines the raw speed of hardware with the flexibility of software, allowing firms to deploy these performance improvements without the long development cycles typical of custom FPGA builds.</span></li>
+</ul>
+<p><span>nxAccess is Exegy&rsquo;s premier FPGA-based trading engine, designed to load order templates via software while using hardware-level logic to trigger, update, and transmit orders with nanosecond precision.</span></p>
+]]></content:encoded>
+<pubDate>Wed, 08 Apr 2026 14:39:38 GMT</pubDate>
+<pubDate>Wed, 08 Apr 2026 14:39:38 GMT</pubDate>
+</item>
+<item>
+<title>Wedbush Fund Advisers Launches Dan IVES Wedbush AI Power &amp; Infrastructure ETF, Tracking The Solactive Wedbush AI Power &amp; Infrastructure Index</title>
+<link>http://www.mondovisione.com/media-and-resources/news/wedbush-fund-advisers-launches-dan-ives-wedbush-ai-power-and-infrastructure-etf-t-202648/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/wedbush-fund-advisers-launches-dan-ives-wedbush-ai-power-and-infrastructure-etf-t-202648/</guid>
+<content:encoded><![CDATA[
+
+<p><span>Wedbush Fund Advisers, LLC has launched the Dan IVES Wedbush AI Power &amp; Infrastructure ETF, which tracks the Solactive Wedbush AI Power &amp; Infrastructure Index. The ETF is designed to provide investors with targeted exposure to companies positioned to benefit from the growing need for electricity generation, grid expansion, and energy-efficient technologies supporting the buildout of AI and digital infrastructure. This launch builds on the thematic vision and research of acclaimed technology analyst Dan Ives, whose perspective on the next phase of AI adoption played a central role in shaping the index&rsquo;s design and focus.</span></p>
+<p>The rapid expansion of AI adoption is reshaping the physical infrastructure required to support the digital economy. As additional AI-focused data centers come online, demand is increasing for reliable electricity generation, transmission capacity, grid modernization, and technologies that improve energy efficiency across increasingly power-intensive systems.</p>
+<p>The&nbsp;<a href="https://www.solactive.com/index/DE000SL0TM64/">Solactive Wedbush AI Power &amp; Infrastructure Index</a>&nbsp;is constructed using the research of technology analyst Dan Ives. ARTIS&reg;, Solactive&rsquo;s proprietary natural language processing technology, is used to establish a broad starting universe of companies relevant to AI infrastructure and electrification. From there, defined market capitalization and trading volume thresholds are applied, and companies must be included in the Wedbush Industry Note on Disruptive Technology titled, Physical Foundation of the AI Revolution: Energy a Key Beneficiary of Buildout (the &ldquo;Wedbush Research Note&rdquo;), to be eligible for selection.</p>
+<p>The index applies a modified market capitalization weighting approach, seeking to provide diversified and meaningful exposure across the AI power and infrastructure value chain. It is rebalanced quarterly, with additional updates possible following the publication of changes to the Wedbush Research Note.</p>
+<p>The ETF listed on&nbsp;<span>8th April 2026</span>&nbsp;on NYSE Arca under the ticker symbol&nbsp;<span>IVEP</span>.</p>
+<p><span>Timo Pfeiffer, Chief Markets Officer at Solactive</span>, commented:&nbsp;<em>&ldquo;After the successful launch of the Dan IVES Wedbush AI Revolution ETF last year, we are pleased to extend our collaboration with Wedbush Fund Advisers to the infrastructure side of the AI buildout. This is a prime example of how differentiated research can be combined with tailored index engineering to create targeted market access to one of the most important enablers of AI adoption.&rdquo;</em></p>
+<p><em>&ldquo;As AI adoption accelerates, energy and infrastructure are emerging as key drivers,&rdquo;</em>&nbsp;said&nbsp;<span>Matt Bromberg, Chief Operating Officer of Wedbush Fund Advisers</span>.&nbsp;<em>&ldquo;AI implementation and adoption ultimately require energy, and the scale of demand is creating meaningful opportunities for the companies enabling that buildout. We designed IVEP to provide investors access to this physical backbone of AI.&rdquo;</em></p>
+]]></content:encoded>
+<pubDate>Wed, 08 Apr 2026 14:59:30 GMT</pubDate>
+<pubDate>Wed, 08 Apr 2026 14:59:30 GMT</pubDate>
+</item>
+<item>
+<title>Haruko Integrates With STS Digital To Enhance Risk And Portfolio Management For Options Trading</title>
+<link>http://www.mondovisione.com/media-and-resources/news/haruko-integrates-with-sts-digital-to-enhance-risk-and-portfolio-management-for-202648/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/haruko-integrates-with-sts-digital-to-enhance-risk-and-portfolio-management-for-202648/</guid>
+<content:encoded><![CDATA[
+
+<p>Haruko, a leading provider of institutional digital asset technology, is proud to announce its integration with STS Digital one of the world&rsquo;s leading principal derivatives trading firms. This strategic collaboration enhances Haruko&rsquo;s ability to deliver secure, scalable, and comprehensive portfolio risk management workflows tailored for institutional investors. &nbsp;</p>
+<p>Through this integration, STS Digital users will access real-time insights into trading activity, positions, and market exposure. Haruko consolidates data across STS Digital and other venues, providing a unified view of digital asset portfolios alongside advanced pricing, risk analytics, and performance reporting. &nbsp;</p>
+<p>&ldquo;Our collaboration with STS Digital is another step toward building a more connected, transparent and efficient institutional digital asset ecosystem,&rdquo; said Shamyl Malik, CEO of Haruko. &ldquo;By integrating with STS Digital, we&rsquo;re empowering institutional risk managers with the precision and clarity they need to navigate complex markets. This collaboration allows our clients to gain a unified view of their exposures, driving better decision-making and robust operational control. Together, we are setting a new standard for confidence in digital asset management.&rdquo; &nbsp;</p>
+<p>&nbsp;STS Digital is the leading regulated principal trading firm for digital asset derivatives, offering institutional clients vanilla and exotic options, spot, and structured products across more than 400 tokens via UI, API, and voice. The integration with Haruko follows the recent launch of its structured products platform and a $30 million strategic round led by CMT Digital, reinforcing the firm's position at the centre of institutional options infrastructure. &nbsp;</p>
+<p>&nbsp;&ldquo;Through this integration, Haruko clients who trade options on STS Digital's platform can now view those positions on an aggregated basis alongside all their other venues in a single risk dashboard," said Maxime Seiler, CEO and Co-Founder, STS Digital. &ldquo;With access to vanilla and exotic options, along with full visibility of trade history, exposures, and P&amp;L through Haruko, institutions can engage with digital asset options markets more seamlessly than ever.&rdquo; &nbsp;</p>
+<p>As institutional participation in digital assets accelerates, the need for transparency and operational clarity continues to grow. The collaboration between Haruko and STS Digital reflects a broader shift toward integrated infrastructure, where trading and risk management operate seamlessly together. &nbsp;</p>
+]]></content:encoded>
+<pubDate>Wed, 08 Apr 2026 14:51:36 GMT</pubDate>
+<pubDate>Wed, 08 Apr 2026 14:51:36 GMT</pubDate>
+</item>
+
+<item>
 <title>TS Imagine Launches Integrated Lifecycle Management To Solve Fragmentation Challenge In Swaps Market - New Module Unites Lifecycle Management And Risk To Eliminate Reconciliation Gaps And Enable Intraday Hedge Monitoring</title>
 <link>http://www.mondovisione.com/media-and-resources/news/ts-imagine-launches-integrated-lifecycle-management-to-solve-fragmentation-chall-202648/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/ts-imagine-launches-integrated-lifecycle-management-to-solve-fragmentation-chall-202648/</guid>
 <content:encoded><![CDATA[
-
 <p>TS Imagine, a leading global cross-asset provider of trading, portfolio, risk management and prime brokerage solutions, today announces a new module within its comprehensive, cross-asset class platform, designed to provide a fully integrated system for managing the economics and risk of swaps.&nbsp;The solution introduces a modular approach for synthetic prime brokerage desks and asset managers, replacing end-of-day reconciliation with a single, real-time intra-day view across swap positions and hedge books.</p>
 <p>User benefits include:</p>
 <ul>
@@ -25,17 +101,14 @@
 <p>TS Imagine's platform delivers comprehensive coverage across the entire trade lifecycle &mdash; from pre-trade through post-trade &mdash; within a single, seamlessly integrated environment. By collapsing fragmented systems into one operating environment, TS Imagine reduces cost, accelerates deployment, and creates a defensible competitive moat for clients. Natively integrated modules eliminate data handoffs and latency, enabling fluid transitions across front and middle office workflows. Built to support all major asset classes &mdash; including equities, fixed income, FX, and derivatives &mdash; the platform scales to meet the sophisticated demands of large, global institutions, with built-in multi-region compliance and margin optimization. Centralized real-time and historical market data ensures consistent pricing, analytics, and confident decision-making.</p>
 ]]></content:encoded>
 <pubDate>Wed, 08 Apr 2026 13:14:04 GMT</pubDate>
-<pubDate>Wed, 08 Apr 2026 13:14:04 GMT</pubDate>
 </item>
 <item>
 <title>MIAX Options And MIAX Emerald Options - Effective For Trade Dates April 8, 2026 Through April 10, 2026 2X OPENING And INTRADAY Valid And Priority Quote Spread Relief In All Symbols</title>
 <link>http://www.mondovisione.com/media-and-resources/news/miax-options-and-miax-emerald-options-effective-for-trade-dates-april-8-2026-202648/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/miax-options-and-miax-emerald-options-effective-for-trade-dates-april-8-2026-202648/</guid>
 <content:encoded><![CDATA[
-
 <p><span>Multiplier:&nbsp;2X</span><br /><span>Reason: In maintenance of a fair and orderly market.</span><br /><span>Time:&nbsp;</span><strong>OPENING and&nbsp;INTRADAY</strong><span></span><br /><span>Subject Summary: Please be advised,&nbsp;effective for trade dates April 8, 2026 through April 10, 2026, the MIAX Regulatory Department has granted 2 times&nbsp;</span><strong>OPENING</strong><span>&nbsp;and&nbsp;</span><strong>INTRADAY</strong><span>&nbsp;quote parameter relief for all symbols on MIAX Options and MIAX Emerald Options.&nbsp;</span><br /><br /><span>Please note, standard quote width is $5 wide, two (2) times width is $10.&nbsp; The quote width listed in the following will be two (2) times the listed width.</span><br /><br /><a class="safe---anchor---wc" href="https://www.miaxglobal.com/markets/us-options/miax-options/market-maker-requirements" rel="noopener noreferrer nofollow" target="_blank">https://www.miaxglobal.com/markets/us-options/miax-options/market-maker-requirements</a><span></span><br /><a class="safe---anchor---wc" href="https://www.miaxglobal.com/markets/us-options/emerald-options/market-maker-requirements" rel="noopener noreferrer nofollow" target="_blank">https://www.miaxglobal.com/markets/us-options/emerald-options/market-maker-requirements</a><span></span><br /><br /><span>For questions or comments, please contact the Regulatory Department at&nbsp;</span><a class="safe---anchor---wc" rel="noopener noreferrer nofollow">regulatory@miaxglobal.com.</a></p>
 ]]></content:encoded>
-<pubDate>Wed, 08 Apr 2026 13:33:52 GMT</pubDate>
 <pubDate>Wed, 08 Apr 2026 13:33:52 GMT</pubDate>
 </item>
 <item>
@@ -43,7 +116,6 @@
 <link>http://www.mondovisione.com/media-and-resources/news/leading-german-bank-helaba-goes-live-on-mx3-for-collateral-management-solution-202648/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/leading-german-bank-helaba-goes-live-on-mx3-for-collateral-management-solution-202648/</guid>
 <content:encoded><![CDATA[
-
 <p>Helaba has gone live on the MX.3 for Collateral Management solution from Murex.</p>
 <p>This is the latest milestone in a decades-long collaboration between the German financial institution and the global fintech leader. It will power an increased level of automation in collateral operations for the bank.</p>
 <p>Helaba is a Landesbank, minority owned by the federal states of Hesse and Thuringia. It is part of the Sparkassen-Finanzgruppe, a public sector bank network that is the largest by assets in Germany and Europe. Helaba serves corporates, institutional clients, the public sector and retail. Starting work with Murex in 1997, the bank completed migration to the MX.3 platform in 2023, which enabled the recent extension.</p>
@@ -55,9 +127,7 @@
 <p>&ldquo;Murex experts devoted a wide breadth of organizational expertise developed over more than 100 collateral management solution implementations worldwide, including three in Germany, to this successful collaboration with Helaba,&rdquo; said Murex&rsquo;s Central Europe Managing Director Luc Testud. &ldquo;The bank has gained leading standard market practices with the flexibility to achieve customizations as and when needed.&rdquo;</p>
 ]]></content:encoded>
 <pubDate>Wed, 08 Apr 2026 13:28:58 GMT</pubDate>
-<pubDate>Wed, 08 Apr 2026 13:28:58 GMT</pubDate>
 </item>
-
 <item>
 <title>Apax Digital Funds Invest $60 Million In MillTech To Fuel North American Expansion</title>
 <link>http://www.mondovisione.com/media-and-resources/news/apax-digital-funds-invest-60-million-in-milltech-to-fuel-north-american-expansi-202648/</link>

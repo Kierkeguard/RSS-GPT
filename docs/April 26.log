@@ -795,3 +795,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Leading German Bank Helaba Goes Live On MX.3 For Collateral Management Solution - Murex Platform Migration Lays Groundwork For Implementation At Landesbank](http://www.mondovisione.com/media-and-resources/news/leading-german-bank-helaba-goes-live-on-mx3-for-collateral-management-solution-202648/)
 append_entries: 3
 Finish: 2026-04-08 13:43:46.686916
+------------------------------------------------------
+Started: 2026-04-08 15:15:48.682422
+Existing_entries: 119
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [U.S.-UK Financial Regulatory Working Group Winter 2026: Joint Statement](http://www.mondovisione.com/media-and-resources/news/us-uk-financial-regulatory-working-group-winter-2026-joint-statement-202648/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Exegy Optimizes Execution Stack Performance With Advanced Connectivity And A 71% Latency Reduction - New nxAccess Capabilities Enable Firms To Dynamically Switch To The Fastest Available Exchange Session And Private Links In Real-Time.](http://www.mondovisione.com/media-and-resources/news/exegy-optimizes-execution-stack-performance-with-advanced-connectivity-and-a-71-202648/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Wedbush Fund Advisers Launches Dan IVES Wedbush AI Power & Infrastructure ETF, Tracking The Solactive Wedbush AI Power & Infrastructure Index](http://www.mondovisione.com/media-and-resources/news/wedbush-fund-advisers-launches-dan-ives-wedbush-ai-power-and-infrastructure-etf-t-202648/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Haruko Integrates With STS Digital To Enhance Risk And Portfolio Management For Options Trading](http://www.mondovisione.com/media-and-resources/news/haruko-integrates-with-sts-digital-to-enhance-risk-and-portfolio-management-for-202648/)
+append_entries: 4
+Finish: 2026-04-08 15:15:49.824209
