@@ -854,3 +854,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Minutes Of The Federal Open Market Committee, March 17–18, 2026](http://www.mondovisione.com/media-and-resources/news/minutes-of-the-federal-open-market-committee-march-1718-2026-202648/)
 append_entries: 1
 Finish: 2026-04-08 20:51:48.494122
+------------------------------------------------------
+Started: 2026-04-08 22:48:59.604696
+Existing_entries: 132
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Reports March 2026 Volumes And 1Q26 Statistics](http://www.mondovisione.com/media-and-resources/news/nasdaq-reports-march-2026-volumes-and-1q26-statistics-202648/)
+append_entries: 1
+Finish: 2026-04-08 22:49:00.392177
