@@ -969,3 +969,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Amman Stock Exchange Weekly Summary](http://www.mondovisione.com/media-and-resources/news/amman-stock-exchange-weekly-summary-202649/)
 append_entries: 3
 Finish: 2026-04-09 17:13:13.816685
+------------------------------------------------------
+Started: 2026-04-09 19:15:41.292000
+Existing_entries: 155
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Ontario Securities Commission: Operation Atlantic Disrupts More Than $45 Million In Cryptocurrency Fraud, Freezes $12 Million In Stolen Funds](http://www.mondovisione.com/media-and-resources/news/ontario-securities-commission-operation-atlantic-disrupts-more-than-45-million-202649/)
+append_entries: 1
+Finish: 2026-04-09 19:15:42.353366
