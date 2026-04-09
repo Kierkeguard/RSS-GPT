@@ -914,3 +914,25 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [London Stock Exchange Group PLC Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-transaction-in-own-shares-202649/)
 append_entries: 4
 Finish: 2026-04-09 09:15:44.015008
+------------------------------------------------------
+Started: 2026-04-09 13:54:51.281454
+Existing_entries: 142
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [dxFeed Launches Aggregated Overnight Market Data Feed For U.S. Equities](http://www.mondovisione.com/media-and-resources/news/dxfeed-launches-aggregated-overnight-market-data-feed-for-us-equities-202649/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TMX Group Equity Financing Statistics – March 2026](http://www.mondovisione.com/media-and-resources/news/tmx-group-equity-financing-statistics-march-2026-202649/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Miami International Holdings Announces The Passing Of Board Member Murray Stahl](http://www.mondovisione.com/media-and-resources/news/miami-international-holdings-announces-the-passing-of-board-member-murray-stahl-202649/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Dubai Financial Services Authority Announces Temporary Regulatory Relief Measures To Support The DIFC Financial Services Community - DFSA Announces Temporary Regulatory Relief Measures To Support The DIFC Financial Services Community](http://www.mondovisione.com/media-and-resources/news/dubai-financial-services-authority-announces-temporary-regulatory-relief-measure-202649/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The EBA Publishes List Of Known Data Point Model Issues To Enhance Transparency And Support Reporting Institutions](http://www.mondovisione.com/media-and-resources/news/the-eba-publishes-list-of-known-data-point-model-issues-to-enhance-transparency-202649/)
+Append: [Vienna Stock Exchange And Missing Link Launch New Podcast: "Safe! Stories About Investing"](http://www.mondovisione.com/media-and-resources/news/vienna-stock-exchange-and-missing-link-launch-new-podcast-safe-stories-about-202649/)
+append_entries: 6
+Finish: 2026-04-09 13:54:52.602317
