@@ -875,3 +875,24 @@ Existing_entries: 133
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-04-09 05:50:59.919169
+------------------------------------------------------
+Started: 2026-04-09 07:45:17.882800
+Existing_entries: 133
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Abu Dhabi Securities Exchange: 3 Stellar Winners From Al Ramz “1 Million Etihad Guest Miles” Trading Competition](http://www.mondovisione.com/media-and-resources/news/abu-dhabi-securities-exchange-3-stellar-winners-from-al-ramz-1-million-etihad-202649/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Taiwan Futures Exchange Newsletter - April 2026](http://www.mondovisione.com/media-and-resources/news/taiwan-futures-exchange-newsletter-april-2026-202649/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC: Electro Optic Systems Holdings Ordered To Pay $4 Million Penalty For Continuous Disclosure Breaches](http://www.mondovisione.com/media-and-resources/news/asic-electro-optic-systems-holdings-ordered-to-pay-4-million-penalty-for-conti-202649/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Japan Financial Services Agency: Publication Of The Report Of The "Working Group On Disclosure And Assurance Of Sustainability-Related Financial Information" Of The Financial System Council](http://www.mondovisione.com/media-and-resources/news/japan-financial-services-agency-publication-of-the-report-of-the-working-group-202649/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Zealand Financial Markets Authority Highlights Importance Of High Quality Financial Reporting Amid Global Uncertainty](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-highlights-importance-of-high-quality-fi-202649/)
+append_entries: 5
+Finish: 2026-04-09 07:45:18.978813
