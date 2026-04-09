@@ -896,3 +896,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [New Zealand Financial Markets Authority Highlights Importance Of High Quality Financial Reporting Amid Global Uncertainty](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-highlights-importance-of-high-quality-fi-202649/)
 append_entries: 5
 Finish: 2026-04-09 07:45:18.978813
+------------------------------------------------------
+Started: 2026-04-09 09:15:42.622487
+Existing_entries: 138
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Broadridge’s Distributed Ledger Repo Achieves 392% Year Over Year Growth; Processes $8 Trillion In March - March 2026 ADV Up 392% YOY, Highlighting The Rapid Adoption Of Tokenized Settlement](http://www.mondovisione.com/media-and-resources/news/broadridges-distributed-ledger-repo-achieves-392-year-over-year-growth-proces-202649/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Worldline Powers Next-Generation Stablecoin Payments With Circle Payments Network (CPN) Managed Payments](http://www.mondovisione.com/media-and-resources/news/worldline-powers-next-generation-stablecoin-payments-with-circle-payments-networ-202649/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group Plc - Commencement Of Share Buyback Programme](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-commencement-of-share-buyback-programme-202649/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group PLC Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-transaction-in-own-shares-202649/)
+append_entries: 4
+Finish: 2026-04-09 09:15:44.015008
