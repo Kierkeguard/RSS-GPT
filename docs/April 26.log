@@ -954,3 +954,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [The EBA Consults On Revised Guidelines On Limits On Exposures To Shadow Banking Entities Under The Capital Requirements Regulation](http://www.mondovisione.com/media-and-resources/news/the-eba-consults-on-revised-guidelines-on-limits-on-exposures-to-shadow-banking-202649/)
 append_entries: 4
 Finish: 2026-04-09 15:26:07.277163
+------------------------------------------------------
+Started: 2026-04-09 17:13:12.664747
+Existing_entries: 152
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Canadian Securities Administrators Publishes Proposed Amendment To Insider Reporting Requirements For Comment](http://www.mondovisione.com/media-and-resources/news/canadian-securities-administrators-publishes-proposed-amendment-to-insider-repor-202649/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Borsa İstanbul’s Opening Bell Rang For Ağaoğlu GYO](http://www.mondovisione.com/media-and-resources/news/borsa-istanbuls-opening-bell-rang-for-aaolu-gyo-202649/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Amman Stock Exchange Weekly Summary](http://www.mondovisione.com/media-and-resources/news/amman-stock-exchange-weekly-summary-202649/)
+append_entries: 3
+Finish: 2026-04-09 17:13:13.816685
