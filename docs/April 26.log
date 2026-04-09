@@ -936,3 +936,21 @@ Append: [The EBA Publishes List Of Known Data Point Model Issues To Enhance Tran
 Append: [Vienna Stock Exchange And Missing Link Launch New Podcast: "Safe! Stories About Investing"](http://www.mondovisione.com/media-and-resources/news/vienna-stock-exchange-and-missing-link-launch-new-podcast-safe-stories-about-202649/)
 append_entries: 6
 Finish: 2026-04-09 13:54:52.602317
+------------------------------------------------------
+Started: 2026-04-09 15:26:06.115427
+Existing_entries: 148
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [U.S. Department Of The Treasury Launches Cybersecurity Information Sharing Initiative For The Digital Asset Industry](http://www.mondovisione.com/media-and-resources/news/us-department-of-the-treasury-launches-cybersecurity-information-sharing-initi-202649/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Updated REMIT Framework Strengthens Trust In EU Energy Markets](http://www.mondovisione.com/media-and-resources/news/updated-remit-framework-strengthens-trust-in-eu-energy-markets-202649/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Seeks To Enjoin Arizona Criminal And Civil Enforcement Against Prediction Markets](http://www.mondovisione.com/media-and-resources/news/cftc-seeks-to-enjoin-arizona-criminal-and-civil-enforcement-against-prediction-m-202649/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The EBA Consults On Revised Guidelines On Limits On Exposures To Shadow Banking Entities Under The Capital Requirements Regulation](http://www.mondovisione.com/media-and-resources/news/the-eba-consults-on-revised-guidelines-on-limits-on-exposures-to-shadow-banking-202649/)
+append_entries: 4
+Finish: 2026-04-09 15:26:07.277163
