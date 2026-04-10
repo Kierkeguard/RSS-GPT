@@ -1045,3 +1045,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [New York Stock Exchange Celebrates 50 Years Of NYSE Arca Options Trading](http://www.mondovisione.com/media-and-resources/news/new-york-stock-exchange-celebrates-50-years-of-nyse-arca-options-trading-2026410/)
 append_entries: 1
 Finish: 2026-04-10 13:22:11.694846
+------------------------------------------------------
+Started: 2026-04-10 14:53:20.871111
+Existing_entries: 165
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Statement Regarding Staff No-Action Letter To Bank Of England, Paul S. Atkins, SEC Chairman, April 10, 2026](http://www.mondovisione.com/media-and-resources/news/statement-regarding-staff-no-action-letter-to-bank-of-england-paul-s-atkins-s-2026410/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Announces Agricultural Advisory Committee Members](http://www.mondovisione.com/media-and-resources/news/cftc-announces-agricultural-advisory-committee-members-2026410/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Malawi Stock Exchange Weekly Summary Report, 10 April 2026](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-10-april-2026-2026410/)
+append_entries: 3
+Finish: 2026-04-10 14:53:22.074731
