@@ -1002,3 +1002,25 @@ Existing_entries: 156
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-04-10 06:00:47.001431
+------------------------------------------------------
+Started: 2026-04-10 09:16:28.855712
+Existing_entries: 156
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SET Market Report For March 2026](http://www.mondovisione.com/media-and-resources/news/set-market-report-for-march-2026-2026410/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tokyo Stock Exchange: DX Stocks 2026 Announced](http://www.mondovisione.com/media-and-resources/news/tokyo-stock-exchange-dx-stocks-2026-announced-2026410/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Japan Financial Services Agency And Tokyo Stock Exchange: Draft Revisions To The Corporate Governance Code For Public Consultation](http://www.mondovisione.com/media-and-resources/news/japan-financial-services-agency-and-tokyo-stock-exchange-draft-revisions-to-the-2026410/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Updates Relief For Securitisation Entities From Holding An AFS Licence](http://www.mondovisione.com/media-and-resources/news/asic-updates-relief-for-securitisation-entities-from-holding-an-afs-licence-2026410/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Zealand Financial Markets Authority Seeks Liquidation Of Additional Chance Voight Entities](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-seeks-liquidation-of-additional-chance-v-2026410/)
+Append: [U.S. Department Of The Treasury Moves To Prevent Abuse Of Community Development Financial Institutions (CDFI) Fund Programs](http://www.mondovisione.com/media-and-resources/news/us-department-of-the-treasury-moves-to-prevent-abuse-of-community-development-2026410/)
+append_entries: 6
+Finish: 2026-04-10 09:16:29.738883
