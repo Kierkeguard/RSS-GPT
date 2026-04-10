@@ -1024,3 +1024,15 @@ Append: [New Zealand Financial Markets Authority Seeks Liquidation Of Additional
 Append: [U.S. Department Of The Treasury Moves To Prevent Abuse Of Community Development Financial Institutions (CDFI) Fund Programs](http://www.mondovisione.com/media-and-resources/news/us-department-of-the-treasury-moves-to-prevent-abuse-of-community-development-2026410/)
 append_entries: 6
 Finish: 2026-04-10 09:16:29.738883
+------------------------------------------------------
+Started: 2026-04-10 11:00:44.787410
+Existing_entries: 162
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Speech By European Commissioner Albuquerque At Financial And Capital Market Competitiveness Seminar, In Helsinki](http://www.mondovisione.com/media-and-resources/news/speech-by-european-commissioner-albuquerque-at-financial-and-capital-market-comp-2026410/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The EBA Consults On Major Simplification Of Supervisory Reporting To Deliver A Simpler, Smarter And More Proportionate Framework](http://www.mondovisione.com/media-and-resources/news/the-eba-consults-on-major-simplification-of-supervisory-reporting-to-deliver-a-s-2026410/)
+append_entries: 2
+Finish: 2026-04-10 11:00:46.246616
