@@ -1036,3 +1036,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [The EBA Consults On Major Simplification Of Supervisory Reporting To Deliver A Simpler, Smarter And More Proportionate Framework](http://www.mondovisione.com/media-and-resources/news/the-eba-consults-on-major-simplification-of-supervisory-reporting-to-deliver-a-s-2026410/)
 append_entries: 2
 Finish: 2026-04-10 11:00:46.246616
+------------------------------------------------------
+Started: 2026-04-10 13:22:10.406669
+Existing_entries: 164
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New York Stock Exchange Celebrates 50 Years Of NYSE Arca Options Trading](http://www.mondovisione.com/media-and-resources/news/new-york-stock-exchange-celebrates-50-years-of-nyse-arca-options-trading-2026410/)
+append_entries: 1
+Finish: 2026-04-10 13:22:11.694846
