@@ -1109,3 +1109,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CFTC Announces Innovation Task Force Staff](http://www.mondovisione.com/media-and-resources/news/cftc-announces-innovation-task-force-staff-2026410/)
 append_entries: 5
 Finish: 2026-04-10 20:45:43.892616
+------------------------------------------------------
+Started: 2026-04-10 22:42:20.248187
+Existing_entries: 179
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-04-10 22:42:21.106878
