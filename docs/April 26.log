@@ -1127,3 +1127,24 @@ Existing_entries: 179
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-04-11 05:26:46.442580
+------------------------------------------------------
+Started: 2026-04-11 08:52:20.587069
+Existing_entries: 179
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Sandisk Corporation To Join The Nasdaq-100 Index® Beginning April 20, 2026](http://www.mondovisione.com/media-and-resources/news/sandisk-corporation-to-join-the-nasdaq-100-index-beginning-april-20-2026-2026411/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC: Temporary Restraining Order Blocks Arizona Criminal Enforcement Proceedings On Prediction Markets](http://www.mondovisione.com/media-and-resources/news/cftc-temporary-restraining-order-blocks-arizona-criminal-enforcement-proceeding-2026411/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nadex Self-Certifies Multiple Contingent Derivatives Contracts](http://www.mondovisione.com/media-and-resources/news/nadex-self-certifies-multiple-contingent-derivatives-contracts-2026411/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Correction To TMX Group’s Management Information Circular](http://www.mondovisione.com/media-and-resources/news/correction-to-tmx-groups-management-information-circular-2026411/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nadex Self-Certifies Multiple Event Contracts](http://www.mondovisione.com/media-and-resources/news/nadex-self-certifies-multiple-event-contracts-2026411/)
+append_entries: 5
+Finish: 2026-04-11 08:52:21.549541
