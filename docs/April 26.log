@@ -1374,3 +1374,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [OpenText Enterprise Data And AI Solutions To Be Available On AWS European Sovereign Cloud - OpenText Will Offer Customers A Hybrid Sovereign Cloud Architecture That Supports Regulated European Union Organizations With Secure, AI‑Ready Data Platforms, Complementing What Is Available In North America Today](http://www.mondovisione.com/media-and-resources/news/opentext-enterprise-data-and-ai-solutions-to-be-available-on-aws-european-sovere-2026413/)
 append_entries: 5
 Finish: 2026-04-13 19:20:10.937490
+------------------------------------------------------
+Started: 2026-04-13 21:00:30.160704
+Existing_entries: 208
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Freedom Of Associations - Jamie Selway, Director, SEC Division Of Trading And Markets, Security Traders Association Of New York 90th Annual Conference, New York, NY, April 13, 2026](http://www.mondovisione.com/media-and-resources/news/freedom-of-associations-jamie-selway-director-sec-division-of-trading-and-ma-2026413/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Swaps Report Update](http://www.mondovisione.com/media-and-resources/news/cftc-swaps-report-update-2026413/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FSB Chair Warns Of Rising Financial Risks Stemming From Middle East Conflict](http://www.mondovisione.com/media-and-resources/news/fsb-chair-warns-of-rising-financial-risks-stemming-from-middle-east-conflict-2026413/)
+append_entries: 3
+Finish: 2026-04-13 21:00:31.081280
