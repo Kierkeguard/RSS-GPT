@@ -1284,3 +1284,21 @@ Append: [HSBC Announces Successful Tokenised Deposit Pilot On The Canton Network
 Append: [KraneShares Launches Public-Private AI ETF (AGIX) And Shari’ahCompliant Income ETF (KWIN) On The Abu Dhabi Securities Exchange (ADX)](http://www.mondovisione.com/media-and-resources/news/kraneshares-launches-public-private-ai-etf-agix-and-shariahcompliant-income-e-2026413/)
 append_entries: 6
 Finish: 2026-04-13 06:19:45.214146
+------------------------------------------------------
+Started: 2026-04-13 10:00:01.173475
+Existing_entries: 190
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX Advances Index Ecosystem With Two Tech-Focused Benchmarks](http://www.mondovisione.com/media-and-resources/news/hkex-advances-index-ecosystem-with-two-tech-focused-benchmarks-2026413/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SwapAgent Welcomes KEB Hana Bank As Member](http://www.mondovisione.com/media-and-resources/news/swapagent-welcomes-keb-hana-bank-as-member-2026413/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Deutsche Börse Group Invests In Index Provider MerQube](http://www.mondovisione.com/media-and-resources/news/deutsche-brse-group-invests-in-index-provider-merqube-2026413/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Avelacom Launches Ultra-Low Latency Hybrid Route Between Amsterdam And Tokyo - New Proprietary Fiber And Microwave Route Delivers Less Than 127ms Round-Trip Latency – A New Benchmark For Connectivity Between Amsterdam And Asia](http://www.mondovisione.com/media-and-resources/news/avelacom-launches-ultra-low-latency-hybrid-route-between-amsterdam-and-tokyo-n-2026413/)
+append_entries: 4
+Finish: 2026-04-13 10:00:02.372953
