@@ -1302,3 +1302,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Avelacom Launches Ultra-Low Latency Hybrid Route Between Amsterdam And Tokyo - New Proprietary Fiber And Microwave Route Delivers Less Than 127ms Round-Trip Latency – A New Benchmark For Connectivity Between Amsterdam And Asia](http://www.mondovisione.com/media-and-resources/news/avelacom-launches-ultra-low-latency-hybrid-route-between-amsterdam-and-tokyo-n-2026413/)
 append_entries: 4
 Finish: 2026-04-13 10:00:02.372953
+------------------------------------------------------
+Started: 2026-04-13 11:35:48.644129
+Existing_entries: 194
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Icon Solutions Appoints Anders Olofsson As EMEA Sales Director To Drive Global Adoption Of The Icon Payments Framework](http://www.mondovisione.com/media-and-resources/news/icon-solutions-appoints-anders-olofsson-as-emea-sales-director-to-drive-global-a-2026413/)
+append_entries: 1
+Finish: 2026-04-13 11:35:49.895677
