@@ -1389,3 +1389,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [FSB Chair Warns Of Rising Financial Risks Stemming From Middle East Conflict](http://www.mondovisione.com/media-and-resources/news/fsb-chair-warns-of-rising-financial-risks-stemming-from-middle-east-conflict-2026413/)
 append_entries: 3
 Finish: 2026-04-13 21:00:31.081280
+------------------------------------------------------
+Started: 2026-04-13 22:49:46.681376
+Existing_entries: 211
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-04-13 22:49:47.660849
