@@ -1323,3 +1323,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Deutsche Börse Group: Business Indicators For March 2026](http://www.mondovisione.com/media-and-resources/news/deutsche-brse-group-business-indicators-for-march-2026-2026413/)
 append_entries: 2
 Finish: 2026-04-13 13:51:50.789874
+------------------------------------------------------
+Started: 2026-04-13 15:19:05.704900
+Existing_entries: 197
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Update: Staff Statement Regarding Broker-Dealer Registration Of Certain User Interfaces Utilized To Prepare Transactions In Crypto Asset Securities, SEC Division Of Trading And Markets](http://www.mondovisione.com/media-and-resources/news/update-staff-statement-regarding-broker-dealer-registration-of-certain-user-int-2026413/)
+append_entries: 1
+Finish: 2026-04-13 15:19:07.096568
