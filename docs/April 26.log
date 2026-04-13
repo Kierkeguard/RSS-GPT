@@ -1262,3 +1262,25 @@ Existing_entries: 184
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-04-13 03:28:26.759877
+------------------------------------------------------
+Started: 2026-04-13 06:19:44.318576
+Existing_entries: 184
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BNP Paribas Extends Its Multi-Custodian Automated FX Solution For Securities Transactions To Continental Europe, With La Financière De l’Échiquier As First Client In France](http://www.mondovisione.com/media-and-resources/news/bnp-paribas-extends-its-multi-custodian-automated-fx-solution-for-securities-tra-2026413/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Viva Energy Reassesses Accounting Approach After ASIC Review, Resulting In $25 Million Impairment](http://www.mondovisione.com/media-and-resources/news/viva-energy-reassesses-accounting-approach-after-asic-review-resulting-in-25-m-2026413/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Zealand Financial Markets Authority Agrees To settle IPO Proceeding With CBL Director Peter Harris](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-agrees-to-settle-ipo-proceeding-with-cbl-2026413/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC - From Anxiety To Action: Helping Australians To Plan For Their Financial Future](http://www.mondovisione.com/media-and-resources/news/asic-from-anxiety-to-action-helping-australians-to-plan-for-their-financial-f-2026413/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HSBC Announces Successful Tokenised Deposit Pilot On The Canton Network, Demonstrating Interoperability](http://www.mondovisione.com/media-and-resources/news/hsbc-announces-successful-tokenised-deposit-pilot-on-the-canton-network-demonst-2026413/)
+Append: [KraneShares Launches Public-Private AI ETF (AGIX) And Shari’ahCompliant Income ETF (KWIN) On The Abu Dhabi Securities Exchange (ADX)](http://www.mondovisione.com/media-and-resources/news/kraneshares-launches-public-private-ai-etf-agix-and-shariahcompliant-income-e-2026413/)
+append_entries: 6
+Finish: 2026-04-13 06:19:45.214146
