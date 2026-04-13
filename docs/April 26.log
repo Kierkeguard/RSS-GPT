@@ -1353,3 +1353,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [The UAE Capital Market Authority Issues The Virtual Assets Framework, Establishing An Integrated Regulatory Regime Comprising Five Core Modules And Eight Regulated Activities](http://www.mondovisione.com/media-and-resources/news/the-uae-capital-market-authority-issues-the-virtual-assets-framework-establishi-2026413/)
 append_entries: 5
 Finish: 2026-04-13 17:09:48.976525
+------------------------------------------------------
+Started: 2026-04-13 19:20:09.649297
+Existing_entries: 203
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Secures Court Order Against Florida Resident To Pay Over $1.3 Million In Restitution, Penalties For Commodity Pool Fraud](http://www.mondovisione.com/media-and-resources/news/cftc-secures-court-order-against-florida-resident-to-pay-over-13-million-in-re-2026413/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Interfacing With Our Inner Demons: Comments On The Division Of Trading And Markets' Statement On Certain User Interfaces, SEC Commissioner Hester M. Peirce, April 13, 2026](http://www.mondovisione.com/media-and-resources/news/interfacing-with-our-inner-demons-comments-on-the-division-of-trading-and-marke-2026413/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [GFMA Report Examines Current Use And Future Of Digital Money In Capital Markets](http://www.mondovisione.com/media-and-resources/news/gfma-report-examines-current-use-and-future-of-digital-money-in-capital-markets-2026413/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [OpenText And S3NS Partner To Deliver European Sovereign Cloud Solutions With Google Cloud - Strategic Partnership To Expand European Trusted Cloud With Hybrid Architecture For Secure AI At Scale](http://www.mondovisione.com/media-and-resources/news/opentext-and-s3ns-partner-to-deliver-european-sovereign-cloud-solutions-with-goo-2026413/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [OpenText Enterprise Data And AI Solutions To Be Available On AWS European Sovereign Cloud - OpenText Will Offer Customers A Hybrid Sovereign Cloud Architecture That Supports Regulated European Union Organizations With Secure, AI‑Ready Data Platforms, Complementing What Is Available In North America Today](http://www.mondovisione.com/media-and-resources/news/opentext-enterprise-data-and-ai-solutions-to-be-available-on-aws-european-sovere-2026413/)
+append_entries: 5
+Finish: 2026-04-13 19:20:10.937490
