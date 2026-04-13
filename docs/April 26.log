@@ -1332,3 +1332,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Update: Staff Statement Regarding Broker-Dealer Registration Of Certain User Interfaces Utilized To Prepare Transactions In Crypto Asset Securities, SEC Division Of Trading And Markets](http://www.mondovisione.com/media-and-resources/news/update-staff-statement-regarding-broker-dealer-registration-of-certain-user-int-2026413/)
 append_entries: 1
 Finish: 2026-04-13 15:19:07.096568
+------------------------------------------------------
+Started: 2026-04-13 17:09:48.009771
+Existing_entries: 198
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc ("LSEG") Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transaction-in-own-shares-2026413/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESMA Releases Reporting Templates And Instructions For The Active Account Requirement](http://www.mondovisione.com/media-and-resources/news/esma-releases-reporting-templates-and-instructions-for-the-active-account-requir-2026413/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bank Of England: FXJSC Combined Operations And Legal Sub-Committee Meeting](http://www.mondovisione.com/media-and-resources/news/bank-of-england-fxjsc-combined-operations-and-legal-sub-committee-meeting-2026413/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The EBA Publishes Report On Banks’ Dry Run Testing Of Their Recovery Plans](http://www.mondovisione.com/media-and-resources/news/the-eba-publishes-report-on-banks-dry-run-testing-of-their-recovery-plans-2026413/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The UAE Capital Market Authority Issues The Virtual Assets Framework, Establishing An Integrated Regulatory Regime Comprising Five Core Modules And Eight Regulated Activities](http://www.mondovisione.com/media-and-resources/news/the-uae-capital-market-authority-issues-the-virtual-assets-framework-establishi-2026413/)
+append_entries: 5
+Finish: 2026-04-13 17:09:48.976525
