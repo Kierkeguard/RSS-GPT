@@ -1311,3 +1311,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Icon Solutions Appoints Anders Olofsson As EMEA Sales Director To Drive Global Adoption Of The Icon Payments Framework](http://www.mondovisione.com/media-and-resources/news/icon-solutions-appoints-anders-olofsson-as-emea-sales-director-to-drive-global-a-2026413/)
 append_entries: 1
 Finish: 2026-04-13 11:35:49.895677
+------------------------------------------------------
+Started: 2026-04-13 13:51:49.349124
+Existing_entries: 195
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Staff Statement Regarding Broker-Dealer Registration Of Certain User Interfaces Utilized To Prepare Transactions In Crypto Asset Securities, SEC Division Of Trading And Markets](http://www.mondovisione.com/media-and-resources/news/staff-statement-regarding-broker-dealer-registration-of-certain-user-interfaces-2026413/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Deutsche Börse Group: Business Indicators For March 2026](http://www.mondovisione.com/media-and-resources/news/deutsche-brse-group-business-indicators-for-march-2026-2026413/)
+append_entries: 2
+Finish: 2026-04-13 13:51:50.789874
