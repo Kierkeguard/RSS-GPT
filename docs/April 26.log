@@ -1419,3 +1419,28 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [United States Department Of The Treasury Announces Key Nomination](http://www.mondovisione.com/media-and-resources/news/united-states-department-of-the-treasury-announces-key-nomination-2026414/)
 append_entries: 4
 Finish: 2026-04-14 06:03:01.360484
+------------------------------------------------------
+Started: 2026-04-14 09:24:35.839186
+Existing_entries: 215
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Dirk Loscher Appointed To RAQUEST Advisory Board](http://www.mondovisione.com/media-and-resources/news/dirk-loscher-appointed-to-raquest-advisory-board-2026414/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Sets Out Vision For Open Finance To Empower Consumers And Businesses](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-sets-out-vision-for-open-finance-to-empower-consu-2026414/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ETFGI Reports That The European ETF Industry Recorded Record Net Inflows In The First Quarter, As The Industry Celebrated Its 26th Anniversary On April 11th](http://www.mondovisione.com/media-and-resources/news/etfgi-reports-that-the-european-etf-industry-recorded-record-net-inflows-in-the-2026414/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ING Appoints Joseph Kerkor As Head Of Emerging Markets Credit Trading, EMEA](http://www.mondovisione.com/media-and-resources/news/ing-appoints-joseph-kerkor-as-head-of-emerging-markets-credit-trading-emea-2026414/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [GCEX And Cumberland Partner To Strengthen Spot Crypto Liquidity For Institutional Clients](http://www.mondovisione.com/media-and-resources/news/gcex-and-cumberland-partner-to-strengthen-spot-crypto-liquidity-for-institutiona-2026414/)
+Append: [Visible Rise In Electricity Distribution Grid Investment: ACER Recommends Actions To Optimise The Ramp-Up](http://www.mondovisione.com/media-and-resources/news/visible-rise-in-electricity-distribution-grid-investment-acer-recommends-action-2026414/)
+Append: [Samsung Active Asset Management Launches The KoAct Global AI Memory Semiconductor Active, Benchmarked Against The Solactive Global AI Memory Semiconductor Index](http://www.mondovisione.com/media-and-resources/news/samsung-active-asset-management-launches-the-koact-global-ai-memory-semiconducto-2026414/)
+Append: [CoinShares: Risk Appetite Rebounds, Driving $1.1bn Inflows Into Digital Assets](http://www.mondovisione.com/media-and-resources/news/coinshares-risk-appetite-rebounds-driving-11bn-inflows-into-digital-assets-2026414/)
+Append: [BNP Paribas Appointed By Janus Henderson Group As Core Banking & Fund-Servicing Partner Across Selected European And Asia-Pacific Markets](http://www.mondovisione.com/media-and-resources/news/bnp-paribas-appointed-by-janus-henderson-group-as-core-banking-and-fund-servicing-2026414/)
+append_entries: 9
+Finish: 2026-04-14 09:24:36.686534
