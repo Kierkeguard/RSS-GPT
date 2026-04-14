@@ -1516,3 +1516,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Moscow Exchange: Updated Constituents List For OFZ Zero Coupon Yield Curve To Come Into Force On 15 April 2026](http://www.mondovisione.com/media-and-resources/news/moscow-exchange-updated-constituents-list-for-ofz-zero-coupon-yield-curve-to-co-2026414/)
 append_entries: 2
 Finish: 2026-04-14 21:00:40.648675
+------------------------------------------------------
+Started: 2026-04-14 22:51:30.983974
+Existing_entries: 236
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-04-14 22:51:32.430694
