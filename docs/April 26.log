@@ -1456,3 +1456,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Deutsche Börse Group Acquires A Stake In Kraken For $200 Million](http://www.mondovisione.com/media-and-resources/news/deutsche-brse-group-acquires-a-stake-in-kraken-for-200-million-2026414/)
 append_entries: 2
 Finish: 2026-04-14 11:08:11.285395
+------------------------------------------------------
+Started: 2026-04-14 13:57:06.090296
+Existing_entries: 226
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group To Launch Eris SOFR Swap Options On June 16](http://www.mondovisione.com/media-and-resources/news/cme-group-to-launch-eris-sofr-swap-options-on-june-16-2026414/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euronext: ELITE Expands Its Ecosystem With 19 New Italian Companies](http://www.mondovisione.com/media-and-resources/news/euronext-elite-expands-its-ecosystem-with-19-new-italian-companies-2026414/)
+append_entries: 2
+Finish: 2026-04-14 13:57:07.675534
