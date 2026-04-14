@@ -1468,3 +1468,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Euronext: ELITE Expands Its Ecosystem With 19 New Italian Companies](http://www.mondovisione.com/media-and-resources/news/euronext-elite-expands-its-ecosystem-with-19-new-italian-companies-2026414/)
 append_entries: 2
 Finish: 2026-04-14 13:57:07.675534
+------------------------------------------------------
+Started: 2026-04-14 15:19:35.518640
+Existing_entries: 228
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Exchange Of The Year Title Returns To LuxSE For The 8th Time](http://www.mondovisione.com/media-and-resources/news/exchange-of-the-year-title-returns-to-luxse-for-the-8th-time-2026414/)
+append_entries: 1
+Finish: 2026-04-14 15:19:36.970111
