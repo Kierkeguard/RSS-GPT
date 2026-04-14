@@ -1489,3 +1489,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [The Joint Bank Reporting Committee Launches Call To Join The Reporting Contact Group](http://www.mondovisione.com/media-and-resources/news/the-joint-bank-reporting-committee-launches-call-to-join-the-reporting-contact-g-2026414/)
 append_entries: 2
 Finish: 2026-04-14 17:16:31.690674
+------------------------------------------------------
+Started: 2026-04-14 19:23:54.538068
+Existing_entries: 231
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Central Bank Independence – In Need Of Further Thinking - Speech By Andrew Bailey, Governor, Bank Of England, Given At Columbia University, New York](http://www.mondovisione.com/media-and-resources/news/central-bank-independence-in-need-of-further-thinking-speech-by-andrew-baile-2026414/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ECB Governing Council Urges Single Market Boost To Strengthen Bank Competitiveness](http://www.mondovisione.com/media-and-resources/news/ecb-governing-council-urges-single-market-boost-to-strengthen-bank-competitivene-2026414/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Atradius Expands Middle East Presence With New DIFC Hub](http://www.mondovisione.com/media-and-resources/news/atradius-expands-middle-east-presence-with-new-difc-hub-2026414/)
+append_entries: 3
+Finish: 2026-04-14 19:23:55.421826
