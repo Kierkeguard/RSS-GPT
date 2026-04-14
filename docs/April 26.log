@@ -1444,3 +1444,15 @@ Append: [CoinShares: Risk Appetite Rebounds, Driving $1.1bn Inflows Into Digital
 Append: [BNP Paribas Appointed By Janus Henderson Group As Core Banking & Fund-Servicing Partner Across Selected European And Asia-Pacific Markets](http://www.mondovisione.com/media-and-resources/news/bnp-paribas-appointed-by-janus-henderson-group-as-core-banking-and-fund-servicing-2026414/)
 append_entries: 9
 Finish: 2026-04-14 09:24:36.686534
+------------------------------------------------------
+Started: 2026-04-14 11:08:09.920558
+Existing_entries: 224
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Bans CMC's Misleading Adverts](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-bans-cmcs-misleading-adverts-2026414/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Deutsche Börse Group Acquires A Stake In Kraken For $200 Million](http://www.mondovisione.com/media-and-resources/news/deutsche-brse-group-acquires-a-stake-in-kraken-for-200-million-2026414/)
+append_entries: 2
+Finish: 2026-04-14 11:08:11.285395
