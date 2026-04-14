@@ -1477,3 +1477,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Exchange Of The Year Title Returns To LuxSE For The 8th Time](http://www.mondovisione.com/media-and-resources/news/exchange-of-the-year-title-returns-to-luxse-for-the-8th-time-2026414/)
 append_entries: 1
 Finish: 2026-04-14 15:19:36.970111
+------------------------------------------------------
+Started: 2026-04-14 17:16:30.556500
+Existing_entries: 229
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Montréal Exchange Launches FTSE Canada Bank Credit Index Futures - New Credit Derivatives Contract Delivers A Powerful Tool To Trade And Manage Canadian Credit Risk](http://www.mondovisione.com/media-and-resources/news/montral-exchange-launches-ftse-canada-bank-credit-index-futures-new-credit-de-2026414/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Joint Bank Reporting Committee Launches Call To Join The Reporting Contact Group](http://www.mondovisione.com/media-and-resources/news/the-joint-bank-reporting-committee-launches-call-to-join-the-reporting-contact-g-2026414/)
+append_entries: 2
+Finish: 2026-04-14 17:16:31.690674
