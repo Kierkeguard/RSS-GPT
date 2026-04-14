@@ -1401,3 +1401,21 @@ Existing_entries: 211
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-04-14 03:18:18.503332
+------------------------------------------------------
+Started: 2026-04-14 06:03:00.093909
+Existing_entries: 211
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Monetary Authority Of Singapore Monetary Policy Statement - April 2026](http://www.mondovisione.com/media-and-resources/news/monetary-authority-of-singapore-monetary-policy-statement-april-2026-2026414/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NZX: BNP Paribas Accredited As Derivatives Market Maker](http://www.mondovisione.com/media-and-resources/news/nzx-bnp-paribas-accredited-as-derivatives-market-maker-2026414/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Zealand Financial Markets Authority: OCR Pass Through Transparency - Delivering Transparency On The Pace At Which Financial Institutions Respond To Changes In The Official Cash Rate](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-ocr-pass-through-transparency-deliver-2026414/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [United States Department Of The Treasury Announces Key Nomination](http://www.mondovisione.com/media-and-resources/news/united-states-department-of-the-treasury-announces-key-nomination-2026414/)
+append_entries: 4
+Finish: 2026-04-14 06:03:01.360484
