@@ -1504,3 +1504,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Atradius Expands Middle East Presence With New DIFC Hub](http://www.mondovisione.com/media-and-resources/news/atradius-expands-middle-east-presence-with-new-difc-hub-2026414/)
 append_entries: 3
 Finish: 2026-04-14 19:23:55.421826
+------------------------------------------------------
+Started: 2026-04-14 21:00:39.169631
+Existing_entries: 234
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Rural Communities: Worth The Investment, Federal Reserve Governor Michael S. Barr, At Strengthening America’s Economy Through Rural Investment: A Working Forum, Washington, D.C.](http://www.mondovisione.com/media-and-resources/news/rural-communities-worth-the-investment-federal-reserve-governor-michael-s-bar-2026414/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Moscow Exchange: Updated Constituents List For OFZ Zero Coupon Yield Curve To Come Into Force On 15 April 2026](http://www.mondovisione.com/media-and-resources/news/moscow-exchange-updated-constituents-list-for-ofz-zero-coupon-yield-curve-to-co-2026414/)
+append_entries: 2
+Finish: 2026-04-14 21:00:40.648675
