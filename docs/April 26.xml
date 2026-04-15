@@ -5,11 +5,170 @@
 <link>http://www.mondovisione.com/media-and-resources/news/</link>
 
 <item>
+<title>Sparking The Transformation Of Finance: Tokenisation And The Role Of Central Banks - Keynote Address By Piero Cipollone, Member Of The Executive Board Of The ECB, At The 24th Annual Symposium On “Building The Financial System Of The 21st Century: An Agenda For Europe And The United States”, Hosted By The Harvard Law School And The Program On International Financial Systems</title>
+<link>http://www.mondovisione.com/media-and-resources/news/sparking-the-transformation-of-finance-tokenisation-and-the-role-of-central-ban-2026415/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/sparking-the-transformation-of-finance-tokenisation-and-the-role-of-central-ban-2026415/</guid>
+<content:encoded><![CDATA[
+
+<p><img src="https://www.ecb.europa.eu/shared/img/boardmembers/cv_cipollone_portrait.jpg" /></p>
+<h3>Piero Cipollone</h3>
+<h3>Member of the ECB's Executive Board</h3>
+<p>Today I will discuss the role of technology in the future of finance.<span class="ecb-footnote-toggle"><sup>[<a class="ecb-footnote-number" href="https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260415~868b59bca9.en.html#footnote.1" id="fn1">1</a>]</sup></span>&nbsp;I will seek to outline the conditions needed for technological innovations to genuinely enhance the economic efficiency of the financial system, focusing on tokenisation and distributed ledger technology (DLT) as a case in point.</p>
+<p>Financial innovation should help capital find its most productive use and risk find its best owner at the lowest possible cost. These efficiency criteria have been used to justify and judge every major wave of innovation in modern finance, from the development of derivatives markets to electronic trading and dematerialisation. The distributional effects of innovation also need to be taken into account &ndash; that is, whether the gains from innovation are passed on to borrowers and savers or absorbed along the way.</p>
+<p>The historical record on this is striking and should make us pause for thought.</p>
+<p>Since the late 19th century, the financial sector has expanded enormously and technology has made markets more efficient. Yet the cost of connecting a borrower to a saver has barely moved at the aggregate level. The unit cost of financial intermediation in the United States has remained roughly constant, at around 2% of intermediated assets.<span class="ecb-footnote-toggle"><sup>[<a class="ecb-footnote-number" href="https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260415~868b59bca9.en.html#footnote.2" id="fn2">2</a>]</sup></span>&nbsp;These estimates also broadly hold for European countries such as Germany, France and the United Kingdom.<span class="ecb-footnote-toggle"><sup>[<a class="ecb-footnote-number" href="https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260415~868b59bca9.en.html#footnote.3" id="fn3">3</a>]</sup></span></p>
+<p>So the question I would like to address today is whether tokenisation can break with the historical pattern, allowing technical efficiency gains to reach borrowers and savers. I will argue that this is possible because, with tokenisation, we now have a technology that is genuinely different from what came before. It is possible but by no means certain. I will therefore outline the conditions that are necessary to achieve such a positive outcome, including the role that central banks can play in enabling this transformation.</p>
+<h2>The conditions for tokenisation and DLT to deliver genuine efficiency gains</h2>
+<h3>Recognising the transformative potential of tokenisation</h3>
+<p>Let me first explain why tokenisation and DLT have the potential to be transformative.</p>
+<p>Most financial innovations made the existing system more efficient without changing its fundamental architecture. The shift from paper-based to electronic messaging, trading and settlement over the past half-century is the clearest example. Swift transformed cross-border communication between banks by cutting transaction times. Electronic order books replaced trading floors, while settlement cycles were reduced from weeks to days. Each of these innovations made the existing system faster and more reliable. But the underlying architecture &ndash; in which trading, clearing, custody and settlement were separated into distinct institutional layers, each with their own infrastructure and intermediaries &ndash; remained intact. Even as financial markets have become increasingly sophisticated, the fundamental practice of bookkeeping across ledgers has remained largely unchanged. At each stage of the securities life cycle, banks, brokers, information providers and other market participants continue to play an essential role in intermediation.<span class="ecb-footnote-toggle"><sup>[<a class="ecb-footnote-number" href="https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260415~868b59bca9.en.html#footnote.4" id="fn4">4</a>]</sup></span></p>
+<p>Tokenisation belongs to a different class of innovation entirely, which economists call general-purpose technology. Rather than improving just one part of a system, these technologies reframe the logic of the system as a whole. By issuing or representing assets in the form of digital tokens<span class="ecb-footnote-toggle"><sup>[<a class="ecb-footnote-number" href="https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260415~868b59bca9.en.html#footnote.5" id="fn5">5</a>]</sup></span>&nbsp;that are&nbsp;typically recorded on DLT networks, tokenisation allows the full life cycle of a transaction &ndash; issuance, trading, settlement and custody &ndash; to take place within a single digital environment that is available 24/7. Tokenisation can provide a single, shared source of truth, avoiding the need to reconcile multiple proprietary ledgers. And it enables processes such as coupon payments to be automated through smart contracts. This has the potential to simplify access to finance, enhance financial services and reduce costs.</p>
+<h3>A system-wide paradigm shift</h3>
+<p>But a defining characteristic of a general-purpose technology is that the associated gains are conditional on the complementary components of a market adopting this technology simultaneously.</p>
+<p>Electricity is the clearest historical example. It was a transformative technology, but it required an extensive restructuring of production to unlock broad-based productivity increases. As Paul David showed in his seminal analysis of historical technological transitions, factories initially replaced steam engines with dynamos while keeping the existing centralised mechanical power system unchanged.<span class="ecb-footnote-toggle"><sup>[<a class="ecb-footnote-number" href="https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260415~868b59bca9.en.html#footnote.6" id="fn6">6</a>]</sup></span>&nbsp;Productivity gains only materialised once factories redesigned their entire workflows and floor plans around the logic of the new technology, adopting individual motors for each piece of equipment and building lighter and modular single-storey plants.</p>
+<p>Tokenisation could be similarly transformative thanks to its potential to rewire finance. But for the promised gains to materialise, the various components of the financial system need to embrace its new logic.</p>
+<p>The government bond market illustrates how much the different components complement each other &ndash; and why they need to move together. A liquid sovereign bond market requires a secondary market to provide tradability, which requires repo markets so that dealers can manage their inventories<span class="ecb-footnote-toggle"><sup>[<a class="ecb-footnote-number" href="https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260415~868b59bca9.en.html#footnote.7" id="fn7">7</a>]</sup></span>. And it requires derivatives so that investors can hedge rate exposure. Finally, all of these components require an adaptive legal framework, central bank liquidity and specialised courts. It is this complex, interlocking system, built up over centuries, that has improved conditions for both borrowers and savers in this market and the efficiency with which they are connected.</p>
+<p>These complementary components also create a coordination problem.</p>
+<p>No single component can transform the financial system on its own. This reduces the incentive to move to a new techno-economic paradigm before others do: whoever moves first faces certain costs and highly uncertain pay-offs. So while rational actors may experiment to be ready just in case, the structure of incentives discourages a unilateral move to the new technology.<span class="ecb-footnote-toggle"><sup>[<a class="ecb-footnote-number" href="https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260415~868b59bca9.en.html#footnote.8" id="fn8">8</a>]</sup></span>&nbsp;That is why factories continued to add electric dynamos to existing production systems designed for steam power, rather than redesigning these systems entirely. The challenge facing tokenisation is similar.</p>
+<p>Moreover, some intermediaries have a business model centred on addressing frictions in the system. When intermediation niches are structured in an oligopolistic way, incumbents can extract rents. These rents in turn reduce the incentive to invest in removing frictions.</p>
+<h3>An integrated and competitive market</h3>
+<p>But there is an additional dimension that the history of electricity shines a light on. The coordination problem is not only about&nbsp;<em>whether</em>&nbsp;the system moves, but&nbsp;<em>which configuration</em>&nbsp;it moves to.</p>
+<p>The US electrical industry of the 1880s was a landscape of incompatible local providers, competing on standards for electrical currents, and fragmented infrastructure that could not interconnect. The war of the currents between Edison&rsquo;s DC and Westinghouse&rsquo;s AC was resolved not by the market alone but by standardisation pressure and ultimately regulatory settlement. In the United States, industry associations such as the Institute of Electrical Engineers and the National Electric Light Association played a key role in standardising electrical machinery.<span class="ecb-footnote-toggle"><sup>[<a class="ecb-footnote-number" href="https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260415~868b59bca9.en.html#footnote.9" id="fn9">9</a>]</sup></span>&nbsp;In France, Japan and the United Kingdom, governments and public institutions led the electrification drive through a deliberate and organised effort.<span class="ecb-footnote-toggle"><sup>[<a class="ecb-footnote-number" href="https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260415~868b59bca9.en.html#footnote.10" id="fn10">10</a>]</sup></span>&nbsp;Institutional settlement preceded the productivity boom of the 1920s and shaped who controlled the infrastructure, on what terms, and who could ultimately capture its gains.</p>
+<p>With tokenised finance, we face the same pressing issues.</p>
+<p>There are many conceivable architectures for a DLT ecosystem &ndash; a single shared network, multiple interconnected networks, or a combination of the two. Each option involves trade-offs. For instance, a single shared network would, by design, avoid fragmentation and bring together the full value chain of wholesale financial markets. But this would imply that there is only competition at the services level. By contrast, multiple interconnected networks would support competition and innovation at the infrastructure level as well, but would increase the risk of&nbsp;fragmenting liquidity and assets.</p>
+<p>Independent of the future architecture, common standards will be crucial to ensure market integration and avoid walled gardens. In addition, the network layer should provide all participants with equal and non-discriminatory access. This will eliminate the need to create proprietary infrastructure in order to compete in the market, thereby reducing barriers to entry and increasing contestability. Ultimately, the costs for issuers and investors will fall.<span class="ecb-footnote-toggle"><sup>[<a class="ecb-footnote-number" href="https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260415~868b59bca9.en.html#footnote.11" id="fn11">11</a>]</sup></span></p>
+<p>The design choices that are being made at this early stage will determine which configuration the system locks into, and whether the gains of tokenisation are broadly distributed.</p>
+<h2>The role of the central bank</h2>
+<p>This brings me to the role of the central bank. In my view, we can make two key contributions to reduce the lag between financial innovation and broad productivity gains.</p>
+<h3>Central bank money and collateral eligibility</h3>
+<p>The first contribution relates to the key role played by central banks in encouraging the financial system to scale up and speed up its embrace of tokenisation.</p>
+<p>Central banks need to do their part in two core areas: first, as the issuer of central bank money and, second, as the provider of liquidity against collateral. Specifically, tokenised central bank money is necessary to offer a risk-free settlement asset in tokenised markets. And tokenised assets need to be eligible as collateral that can be mobilised in monetary policy operations. This will improve the liquidity of DLT-based assets, which is critical to making digital finance more scalable and attractive.&nbsp;</p>
+<p>Without tokenised central bank money as a settlement asset, every transaction in the new ecosystem would need to be settled using an instrument that (i) carries credit risk and (ii) does not provide the finality that only central bank money can.</p>
+<p>The private sector has sounded this warning: without a trusted public settlement anchor, sellers of a tokenised security may receive payment in an asset they are not comfortable holding. Tokenised central bank money is necessary for the market to expand and reach a tipping point &ndash; that is, the critical mass where it becomes rational for all the complementary components to adopt the new technology, thereby creating a new sustainable tokenised finance ecosystem.</p>
+<p>In 2024 the Eurosystem conducted exploratory work involving 50 trials across nine jurisdictions, with participants conducting transactions worth roughly &euro;1.6 billion. It showed that central bank money could be used to settle DLT-based transactions and compared possible technical solutions.<span class="ecb-footnote-toggle"><sup>[<a class="ecb-footnote-number" href="https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260415~868b59bca9.en.html#footnote.12" id="fn12">12</a>]</sup></span></p>
+<p>The lessons learned have shaped the Eurosystem&rsquo;s strategy. From September, we will offer tokenised central bank money settlement for DLT-based transactions as part of our Pontes project. This will provide a safe asset and a trusted common anchor that tokenised markets can use to grow at the speed and scale Europe needs.</p>
+<p>By offering a tokenised settlement asset in euro and issued by the central bank, we will also safeguard our monetary sovereignty, thereby reducing the risk that tokenisation leads to a growing dependency on non-European settlement assets.<span class="ecb-footnote-toggle"><sup>[<a class="ecb-footnote-number" href="https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260415~868b59bca9.en.html#footnote.13" id="fn13">13</a>]</sup></span></p>
+<p>In the area of collateral eligibility, for Eurosystem credit operations we have, since the end of March, accepted marketable assets issued in central securities depositories using DLT. These assets will be mobilised as collateral in line with the Eurosystem&rsquo;s existing collateral management practices, like any other marketable asset. We are also exploring ways to expand eligibility to assets that are issued using DLT and not represented in eligible securities settlement systems.<span class="ecb-footnote-toggle"><sup>[<a class="ecb-footnote-number" href="https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260415~868b59bca9.en.html#footnote.14" id="fn14">14</a>]</sup></span></p>
+<h3>The central bank as a catalyst</h3>
+<p>The second contribution the central bank can make relates to its role as a catalyst in the market &ndash; a role similar to that of the electricity regulators that standardised equipment and set the terms under which the grid would be open.</p>
+<p>Without a vision for an integrated and competitive tokenised ecosystem and further investigation into what it requires in terms of architecture and standards, the tokenised market risks becoming a landscape of non-interoperable networks and standards that fragment liquidity, limit competition and stifle innovation.</p>
+<p>This is precisely why we have developed the Appia roadmap<span class="ecb-footnote-toggle"><sup>[<a class="ecb-footnote-number" href="https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260415~868b59bca9.en.html#footnote.15" id="fn15">15</a>]</sup></span>, which we published in March. Appia sets out the longer-term vision for a European tokenised financial ecosystem. Through a combination of analytical and practical work, it aims to deliver a blueprint by 2028 in cooperation with all relevant private and public stakeholders.</p>
+<p>The topics we will tackle with Appia are structured around six building blocks ranging from technical standards and interoperability to monetary policy implementation, cross-border connectivity and the legal and regulatory foundations.</p>
+<p>Appia will use our policy objectives to assess whether a single European shared ledger, multiple interconnected networks, or a combination of both is the best solution for the network layer<span class="ecb-footnote-toggle"><sup>[<a class="ecb-footnote-number" href="https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260415~868b59bca9.en.html#footnote.16" id="fn16">16</a>]</sup></span>. It will also consider whether the Eurosystem would provide its core services on a network it operates directly or on other networks where governance is shared with other parties.</p>
+<p>Appia will help shape enhancements of Pontes, while at the same time benefiting from the operational lessons learned from Pontes. Taken together, Pontes and Appia could be seen as the institutional equivalent of the solution to the electrification coordination problem: a trusted common infrastructure that no single participant controls and that is organised based on terms that enable the surrounding system to move together in a configuration that distributes economic gains broadly.</p>
+<h2>Conclusion</h2>
+<p>Let me conclude.</p>
+<p>It&rsquo;s clear that tokenisation and DLT represent a different type of financial innovation &ndash; one that has the potential to deliver efficiency gains unmatched by previous waves of technological change. What&rsquo;s less clear, however, is how long it will take for tokenisation and DLT to be widely adopted and whether the resulting market structure will foster integration and competition.</p>
+<p>That question is, at its core, an institutional one. Whether tokenisation will create a financial system that reduces the gap between savers and borrowers depends on the policy choices we make, just like how the electrical industry was shaped by the regulatory and standardisation choices made in the early 20th century.</p>
+<p>We have a window of opportunity to ensure the foundational architecture of tokenised finance encourages an integrated and competitive ecosystem &ndash; anchored in central bank money &ndash; that truly improves the way in which the economy is financed. This will determine whether tokenisation will spark a transformation that genuinely reduces the cost of finance.</p>
+<p>Thank you.</p>
+<div class="footnotes"><ol>
+<li id="footnote-2">
+<p>I would like to thank Antoine Lallour, Cyril Max Neumann and Jean-Francois Jamet for their help in preparing this speech, as well as Alexander Duering and Thomas Vlassopoulos for their comments.</p>
+</li>
+<li id="footnote-3">
+<p>See Philippon, T. (2015), &ldquo;<a class="link-inline external" href="https://www.aeaweb.org/articles?id=10.1257/aer.20120578">Has the US Finance Industry Become Less Efficient? On the Theory and Measurement of Financial Intermediation</a>&rdquo;,&nbsp;<em>American Economic Review</em>, Vol. 105, No 4, pp. 1408-1438, April, and Philippon, T. (2016),&nbsp;<a class="link-inline external" href="https://www.brookings.edu/articles/finance-productivity-and-distribution/"><em>Finance, productivity, and distribution</em></a>, Brookings, 1 October. To estimate the unit cost, the income of the finance industry is divided by the quantity of intermediated assets. The connection of borrowers and savers will be more efficient for some subsectors or specific markets and instruments than for others.</p>
+</li>
+<li id="footnote-4">
+<p>Bazot, G. (2018), &ldquo;<a class="link-inline external" href="https://doi.org/10.1093/jeea/jvx008">Financial Consumption and the Cost of Finance: Measuring Financial Efficiency in Europe (1950-2007)</a>&rdquo;,&nbsp;<em>Journal of the European Economic Association</em>, Vol. 16, No 1, pp. 123-160, February.&nbsp;</p>
+</li>
+<li id="footnote-5">
+<p>Cipollone, P. (2024), &ldquo;<a class="link-inline arrow" href="https://www.ecb.europa.eu/press/key/date/2024/html/ecb.sp241007~cc903db51d.en.html">Towards a digital capital markets union</a>&rdquo;, keynote speech at the Bundesbank Symposium on the Future of Payments, Frankfurt am Main, 7 October.</p>
+</li>
+<li id="footnote-6">
+<p>Digital tokens are entries in a database that are recorded digitally and can contain information and functionality within the tokens themselves. See Bank for International Settlements (2024),&nbsp;<a class="link-inline pdf" href="https://www.bis.org/cpmi/publ/d225.pdf"><em>Tokenisation in the context of money and other assets: concepts and implications for central banks</em></a>, Joint report by the Bank for International Settlements and Committee on Payments and Market Infrastructures, October.</p>
+</li>
+<li id="footnote-7">
+<p>David, P.A. (1990), &ldquo;The Dynamo and the Computer: An Historical Perspective on the Modern Productivity Paradox&rdquo;,&nbsp;<em>The American Economic Review</em>, Vol. 80, No 2, May, pp. 355-361.</p>
+</li>
+<li id="footnote-8">
+<p>In a repo transaction, one party sells securities to another party with an agreement to buy them back at an agreed-upon price. Repo markets allow some market participants to source required short-term funding or collateral and others to undertake short-term, low-risk investment of cash. See Financial Stability Board (2026),&nbsp;<a class="link-inline pdf" href="https://www.fsb.org/uploads/P040226.pdf"><em>Vulnerabilities in Government Bond-backed Repo Markets</em></a>, 4 February.</p>
+</li>
+<li id="footnote-9">
+<p>Milgrom, P. and Roberts, J. (1995), &ldquo;<a class="link-inline external" href="https://www.sciencedirect.com/science/article/pii/016541019400382F">Complementarities and fit &ndash; Strategy, structure, and organizational change in manufacturing</a>&rdquo;,&nbsp;<em>Journal of Accounting and Economics</em>, Vol. 19, No 2-3, March-May, pp. 179-208.</p>
+</li>
+<li id="footnote-10">
+<p>Bradley, Jr., R.L. (1996), &ldquo;<a class="link-inline pdf" href="https://www.eba-net.org/wp-content/uploads/2023/02/4-Vol17_No1_1996_article_the_origins.pdf">The Origins of Political Electricity: Market Failure or Political Opportunism?</a>&rdquo;,&nbsp;<em>Energy Law Journal</em>, Vol.&nbsp;17, No 1, pp. 59-102.</p>
+</li>
+<li id="footnote-11">
+<p>That said, the Great East Japan Earthquake in March 2011 highlighted a critical structural weakness in Japan&rsquo;s power infrastructure: the East-West electrical divide. This divide dates back to when Japan first electrified. Tokyo imported 50 Hz generators from Germany while Osaka imported 60 Hz generators from General Electric, resulting in incompatibilities which persist to the present day.</p>
+</li>
+<li id="footnote-12">
+<p>Agur, I., Villegas-Bauer, G., Mancini-Griffoli, T. and Martinez Peria, M.S. (2025), &ldquo;<a class="link-inline external" href="https://www.imf.org/en/publications/fintech-notes/issues/2025/01/29/tokenization-and-financial-market-inefficiencies-561256">Tokenization and Financial Market Inefficiencies</a>&rdquo;,&nbsp;<em>Fintech Notes</em>, No 2025/001, IMF, 29 January.</p>
+</li>
+<li id="footnote-13">
+<p>ECB (2025),&nbsp;<a class="link-inline arrow" href="https://www.ecb.europa.eu/press/pubbydate/2025/html/ecb.exploratoryworknewtechnologies202506.en.html"><em>Bridging innovation and stability: the Eurosystem&rsquo;s exploratory work on new technologies for wholesale central bank money settlement</em></a>, June.</p>
+</li>
+<li id="footnote-14">
+<p>Rey, H. (2025), &ldquo;<a class="link-inline external" href="https://www.imf.org/en/publications/fandd/issues/2025/09/stablecoins-tokens-global-dominance-helene-rey">Stablecoins, Tokens, and Global Dominance</a>&rdquo;,&nbsp;<em>F&amp;D Magazine</em>, September.</p>
+</li>
+<li id="footnote-15">
+<p>ECB (2026), &ldquo;<a class="link-inline arrow" href="https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260127_1~a946167ce1.en.html">ECB paves way for acceptance of DLT-based assets as eligible Eurosystem collateral</a>&rdquo;,&nbsp;<em>press release</em>, 27 January.</p>
+</li>
+<li id="footnote-16">
+<p>ECB (2026),&nbsp;<a class="link-inline arrow" href="https://www.ecb.europa.eu/press/payments-news/ecb.pubconpm202603.en.html"><em>Appia &ndash; paving the way for a future-ready, integrated financial ecosystem leveraging tokenisation and DLT</em></a>.</p>
+</li>
+<li id="footnote-17">
+<p>With Appia, the Eurosystem is seeking to leverage DLT to achieve the following objectives: (i) ensure the effectiveness of monetary policy and financial stability and the smooth functioning of payment systems by maintaining central bank money as the anchor of a two-tier monetary system; (ii) foster a more integrated, competitive and innovative payments and securities ecosystem through efficient infrastructures for financial markets; (iii) support strategic autonomy and increased resilience; and (iv) ensure the relevance of the euro as an international currency.</p>
+</li>
+</ol></div>
+]]></content:encoded>
+<pubDate>Wed, 15 Apr 2026 17:32:21 GMT</pubDate>
+<pubDate>Wed, 15 Apr 2026 17:32:21 GMT</pubDate>
+</item>
+<item>
+<title>European Commission Sends Meta Fresh Charge Sheet On Possible Interim Measures To Reverse Exclusion Of Third-Party AI Assistants From WhatsApp</title>
+<link>http://www.mondovisione.com/media-and-resources/news/european-commission-sends-meta-fresh-charge-sheet-on-possible-interim-measures-t-2026415/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/european-commission-sends-meta-fresh-charge-sheet-on-possible-interim-measures-t-2026415/</guid>
+<content:encoded><![CDATA[
+
+<p>
+<div class="ecl-content-block__description">
+<p>The European Commission has sent a Supplementary Statement of Objections to Meta setting out the Commission's intention to order Meta to&nbsp;<span>reinstate third-party AI assistants'</span>&nbsp;<span>access to WhatsApp under the same conditions</span>&nbsp;as before its policy change of 15 October 2025. This is despite modifications announced by Meta on 4 March 2026.</p>
+<p>This is a further step in the Commission's interim measures procedure in the context of its investigation into a potential abuse of dominant position by Meta through restricting access of third-party AI assistants to its messaging app, WhatsApp. It follows a Statement of Objections sent on&nbsp;<a href="https://ec.europa.eu/commission/presscorner/detail/en/ip_26_310">9 February 2026</a>, in which the Commission set out its preliminary view that Meta breached EU antitrust rules by excluding third-party assistants from accessing and interacting with users on WhatsApp.</p>
+<p>In today's Supplementary Statement of Objections, the Commission assessed Meta's decision to re-instate access to WhatsApp for third-party AI assistants subject to the payment of a fee. The Commission has preliminarily found that this policy is in effect equivalent to the previous access ban. Meta's conduct risks blocking competitors from entering or expanding in the rapidly growing market for AI assistants.</p>
+<p>Therefore, the Commission intends to&nbsp;<span>impose interim measures to prevent these policy changes from causing serious and irreparable harm on</span>&nbsp;<span>the market</span>, subject to Meta's reply and rights of defence. The interim measures would remain in place until the Commission finishes its investigation and reaches a final decision on Meta's conduct.</p>
+<p>In a separate opening decision, in cooperation with the Italian competition authority, the Commission has today expanded its investigation also to Italy and therefore the findings of the Commission will now cover the whole of the EEA. Italy was previously excluded from the Commission's investigation, as the Italian competition authority had opened its own investigation on the matter.</p>
+<p><span>The Commission's investigation</span></p>
+<p>On 15 October 2025, Meta announced an update of its WhatsApp Business Solution Terms, effectively banning third-party general-purpose AI assistants from the application as of 15 January 2026.</p>
+<p>On&nbsp;<a href="https://ec.europa.eu/commission/presscorner/detail/en/ip_25_2896">4 December 2025</a>, the Commission opened formal proceedings in the context of this ongoing investigation and on&nbsp;<a href="https://ec.europa.eu/commission/presscorner/detail/en/ip_26_310">9 February 2026</a>&nbsp;sent a Statement of Objections notifying Meta that its conduct appears at first sight to be in breach of EU competition rules and of the Commission's intention to impose interim measures. On 2 March 2026, Meta submitted its response to the Statement of Objections.</p>
+<p>On 4 March 2026, Meta published a revised policy, reversing the ban but introducing a pricing framework applicable to third-party general purpose AI assistants.</p>
+<p>In today's Supplementary Statement of Objections, the Commission notified Meta that the revised policy seems to have the same effect of excluding third-party AI assistants from WhatsApp and thus appears at first sight to be in breach of EU competition rules. To prevent serious and irreparable harm to competition, the Commission intends to order Meta to reinstate access for third-party AI assistants under the same conditions as before 15 October 2025, until it reaches a final decision on Meta's conduct.</p>
+<p>The sending of this Supplementary Statement of Objections on interim measures does not prejudge the outcome of the investigation. Meta now has the possibility to reply to the Commission's concerns.</p>
+<p><span>Background</span></p>
+<p>Meta, headquartered in the US, is a multinational technology company. Its flagship products are its social networks, such as Facebook and Instagram, and consumer communication applications, such as WhatsApp and Messenger. It also operates online advertising services and virtual and augmented reality products. Meta provides a general-purpose AI assistant, Meta AI, and recently acquired another similar product, Manus AI.</p>
+<p><a href="https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX%3A12008E102">Article 102</a>&nbsp;TFEU and&nbsp;<a href="https://www.eftasurv.int/cms/sites/default/files/documents/Article-54.pdf">Article 54</a>&nbsp;of the European Economic Area ('EEA') Agreement prohibit the abuse of a dominant position that may affect trade and prevent or restrict competition within the Single Market. The implementation of Article 102 TFEU is defined in&nbsp;<a href="http://eur-lex.europa.eu/legal-content/en/ALL/?uri=CELEX:32003R0001">Regulation 1/2003</a>.</p>
+<p>Pursuant to Article 8(1) Regulation 1/2003, interim measures may be imposed if, at first sight, there is an infringement of competition law rules, as well as an urgent need for protective measures due to the risk of serious and irreparable harm to competition.</p>
+<p>A Supplementary Statement of Objections is a formal step in the Commission's investigations into the necessity of imposing interim measures. The Commission informs the parties concerned of its preliminary findings in writing. The parties can then examine the documents in the Commission's investigation file, reply in writing and request an oral hearing to present their views on the case before representatives of the Commission and national competition authorities.</p>
+<p>If the Commission concludes, after the parties have exercised their rights of defence, that the conditions for interim measures are met, it can adopt a decision imposing such measures. The adoption of an interim measures' decision does not prejudge the final findings of the Commission on the substance of the case.</p>
+<p><span>For more information</span></p>
+<p>More information will be made available under the case number&nbsp;<a href="https://competition-cases.ec.europa.eu/cases/AT.41034">AT.41034</a>&nbsp;in the&nbsp;<a href="https://competition-cases.ec.europa.eu/search">public case register</a>&nbsp;on the Commission's&nbsp;<a href="http://ec.europa.eu/competition/index_en.html">competition website</a>.</p>
+</div>
+<section class="ecpr-section">
+<h2 class="ecl-heading ecl-heading--h2" id="nav2">Quote(s)</h2>
+<div class="ecl-container">
+<div>
+<div><figure class="ecl-blockquote">
+<img alt="Teresa Ribera, Executive Vice-President for Clean, Just and Competitive Transition" class="ecl-blockquote__image" src="https://ec.europa.eu/commission/presscorner/api/image/content/teresa-ribera-rodriguez-cards-author-nms-120x12.png" />
+<div class="ecl-blockquote__body">
+<blockquote class="ecl-blockquote__quote">
+<p class="ecl-blockquote__citation" lang="en">&nbsp;Pushing out competitors in fast-evolving markets like AI is exactly the type of conduct that interim measures are designed to address. Replacing the legal ban with pricing that has a similar effect does not change our preliminary view that Meta&rsquo;s conduct appears to be an abuse of its dominant position, that may seriously harm competition on the market for AI assistants. This is why we continue our proceedings towards interim measures, which would reinstate full access for rival AI assistants to WhatsApp until we have analysed the matter in full.&nbsp;</p>
+<footer class="ecl-blockquote__attribution"><cite class="ecl-blockquote__author">Teresa Ribera, Executive Vice-President for Clean, Just and Competitive Transition</cite></footer></blockquote>
+</div>
+</figure></div>
+</div>
+</div>
+</section></p>
+]]></content:encoded>
+<pubDate>Wed, 15 Apr 2026 17:36:02 GMT</pubDate>
+<pubDate>Wed, 15 Apr 2026 17:36:02 GMT</pubDate>
+</item>
+
+<item>
 <title>S&amp;P Global Investment Manager Index™ (IMI™): Investor Risk Appetite Returns Amid Tentative Optimism For Near-Term Outlook</title>
 <link>http://www.mondovisione.com/media-and-resources/news/sandp-global-investment-manager-index-imi-investor-risk-appetite-returns-amid-2026415/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/sandp-global-investment-manager-index-imi-investor-risk-appetite-returns-amid-2026415/</guid>
 <content:encoded><![CDATA[
-
 <table border="0" cellpadding="0" cellspacing="0" id="templateContainer">
 <tbody>
 <tr>
@@ -91,14 +250,12 @@
 </table>
 ]]></content:encoded>
 <pubDate>Wed, 15 Apr 2026 15:53:53 GMT</pubDate>
-<pubDate>Wed, 15 Apr 2026 15:53:53 GMT</pubDate>
 </item>
 <item>
 <title>MIAX Exchange Group - Options &amp; Equities Markets - Reg SCI / SIFMA BCP Testing On Saturday, October 24, 2026</title>
 <link>http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-options-and-equities-markets-reg-sci-sifma-bcp-testing-o-2026415/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-options-and-equities-markets-reg-sci-sifma-bcp-testing-o-2026415/</guid>
 <content:encoded><![CDATA[
-
 <p><span>The&nbsp;MIAX Exchange Group will participate in the 2026 SIFMA&nbsp;BCP Testing on Saturday, October 24, 2026.&nbsp;</span><strong>All Members that are required to test with MIAX Options, MIAX Pearl Options, MIAX Emerald Options, MIAX</strong><span>&nbsp;</span><strong>Sapphire Options and/or MIAX Pearl Equities Exchanges in accordance with Regulation Systems Compliance and Integrity (Regulation SCI) have been notified</strong><span>. However, all Members are encouraged to test.&nbsp;</span><br /><br /><span>All Exchange designated Members are required to maintain connection to the MIAX Disaster Recovery (DR) environment for a 12-month period after receiving notification for mandatory testing.&nbsp;All Exchanges will operate out of the Chicago (CH4) DR site during the scheduled test.</span><br /><br /><strong>Designation Standards - Business Continuity and Disaster Recovery Plans Testing Member:</strong><span>&nbsp;</span></p>
 <ul>
 <li><a class="safe---anchor---wc" href="https://www.miaxglobal.com/sites/default/files/circular-files/MIAX_Options_RC_2025_107.pdf" rel="noopener noreferrer nofollow" target="_blank">MIAX Options Exchange MIAX_Options_RC_2025-107</a></li>
@@ -203,14 +360,12 @@
 </ul>
 ]]></content:encoded>
 <pubDate>Wed, 15 Apr 2026 15:14:45 GMT</pubDate>
-<pubDate>Wed, 15 Apr 2026 15:14:45 GMT</pubDate>
 </item>
 <item>
 <title>Finxact Named Best SaaS Platform At 2026 FinTech Awards - Award Recognizes Next-Gen Core Architecture And Proven Performance At Scale</title>
 <link>http://www.mondovisione.com/media-and-resources/news/finxact-named-best-saas-platform-at-2026-fintech-awards-award-recognizes-next-2026415/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/finxact-named-best-saas-platform-at-2026-fintech-awards-award-recognizes-next-2026415/</guid>
 <content:encoded><![CDATA[
-
 <p><a href="https://protect.checkpoint.com/v2/r01/___https:/www.fiserv.com/___.YzJ1OnBhdWxiYWtlcm5vdGlmaWVkY29tOmM6bzpiY2M0MjMwMDM5YTVjZGMzMDZhOTM3MDZlOTRkZGYxMTo3OjBkZDQ6NmJiOGJmOGVjNmFiY2JkYWI2MTZjZjE5NTA2NWE4YjE2MDRkN2UzN2FiNmZjMDIwZDdjZmI3YjM5ZGNiMWNlYTpwOlQ6Tg">Fiserv, Inc.</a>&nbsp;(NASDAQ: FISV), a leading global provider of payments and financial services technology, announced today that&nbsp;<a href="https://protect.checkpoint.com/v2/r01/___https:/www.finxact.com/___.YzJ1OnBhdWxiYWtlcm5vdGlmaWVkY29tOmM6bzpiY2M0MjMwMDM5YTVjZGMzMDZhOTM3MDZlOTRkZGYxMTo3OjQ1MDI6ZDU3NjQzM2I4MjAyMTE5ZDRkNTE2MDYwZmQyYzA4Y2Y5ZWQ5OTViYTMyZDczMmYzMGQwMzkyMTU4Yjg2YmY0YTpwOlQ6Tg">Finxact from Fiserv</a>&nbsp;has been named the best SaaS for FinTech at&nbsp;<a href="https://protect.checkpoint.com/v2/r01/___https:/www.cloud-awards.com/fintech-awards/___.YzJ1OnBhdWxiYWtlcm5vdGlmaWVkY29tOmM6bzpiY2M0MjMwMDM5YTVjZGMzMDZhOTM3MDZlOTRkZGYxMTo3OjEwYjU6MGRlMjRiZmFhMmE0ZWMxMDM0Nzk5ZGM0NjIxZGYxYzE1NTQ2NDViZmY3MWIyNTkwMTdmM2ZiZDVjMTMwMDBmZjpwOlQ6Tg">The 2026 FinTech Awards</a>, recognizing the platform&rsquo;s role in enabling modern, cloud‑native banking infrastructure at scale.</p>
 <p>Finxact is an API‑first core banking platform that provides financial institutions with a cloud-native, real‑time system of record for accounts and transaction processing engine. With over 30 million accounts live, Finxact enables banks, fintechs and customer-centric platforms with large, loyal user bases to build and scale modern embedded financial services through a secure, cloud-native architecture.</p>
 <p>&ldquo;This recognition underlines what financial institutions are asking for &mdash; a core foundation they can rely on as they evolve on their own terms,&rdquo; said Frank Sanchez, Head of Finxact and Vice Chairman, Fiserv. &ldquo;Finxact provides the flexibility to introduce new capabilities, serve clients in new ways, and meet rising expectations without disruption to the banking business or the people who depend on these services.&rdquo;</p>
@@ -220,9 +375,7 @@
 <p><span>About The FinTech Awards</span> &nbsp;&nbsp;<br /><a href="https://protect.checkpoint.com/v2/r01/___https:/www.cloud-awards.com/fintech-awards/___.YzJ1OnBhdWxiYWtlcm5vdGlmaWVkY29tOmM6bzpiY2M0MjMwMDM5YTVjZGMzMDZhOTM3MDZlOTRkZGYxMTo3OjEwYjU6MGRlMjRiZmFhMmE0ZWMxMDM0Nzk5ZGM0NjIxZGYxYzE1NTQ2NDViZmY3MWIyNTkwMTdmM2ZiZDVjMTMwMDBmZjpwOlQ6Tg">The FinTech Awards</a>&nbsp;focuses on the major innovations in the world of financial technology, including personal and corporate banking, insurance, and wealth management, business finance processes, and FinTech use within a selection of sectors, across 23 categories.</p>
 ]]></content:encoded>
 <pubDate>Wed, 15 Apr 2026 15:11:29 GMT</pubDate>
-<pubDate>Wed, 15 Apr 2026 15:11:29 GMT</pubDate>
 </item>
-
 <item>
 <title>EuroCTP Partners With Exegy To Power The European Union’s First Equities Consolidated Tape</title>
 <link>http://www.mondovisione.com/media-and-resources/news/euroctp-partners-with-exegy-to-power-the-european-unions-first-equities-consoli-2026415/</link>
