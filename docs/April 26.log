@@ -1570,3 +1570,26 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [WFE Says Good Markets Embody Resilient, Scalable And Innovative Networks By Design](http://www.mondovisione.com/media-and-resources/news/wfe-says-good-markets-embody-resilient-scalable-and-innovative-networks-by-desi-2026415/)
 append_entries: 4
 Finish: 2026-04-15 11:05:27.656258
+------------------------------------------------------
+Started: 2026-04-15 13:50:14.764127
+Existing_entries: 244
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [EuroCTP Partners With Exegy To Power The European Union’s First Equities Consolidated Tape](http://www.mondovisione.com/media-and-resources/news/euroctp-partners-with-exegy-to-power-the-european-unions-first-equities-consoli-2026415/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Consults On Guidance On UK’s Future Crypto Regime](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-consults-on-guidance-on-uks-future-crypto-regime-2026415/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group To Expand Equity Index Dividend Suite With New Mid-Curve Options And Quarterly Futures](http://www.mondovisione.com/media-and-resources/news/cme-group-to-expand-equity-index-dividend-suite-with-new-mid-curve-options-and-q-2026415/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER To Amend The Electricity Day-Ahead Capacity Calculation Methodology For The Core Region](http://www.mondovisione.com/media-and-resources/news/acer-to-amend-the-electricity-day-ahead-capacity-calculation-methodology-for-the-2026415/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Ondo, Clearstream And 360X Announce Partnership To Bridge Traditional And Digital Markets](http://www.mondovisione.com/media-and-resources/news/ondo-clearstream-and-360x-announce-partnership-to-bridge-traditional-and-digita-2026415/)
+Append: [DTCC Advances Cloud First Strategy To Modernize Core Market And Digital Market Infrastructures - Public Cloud Platforms Underpin Plans To Strengthen Innovation, Resiliency And Cyber Defenses](http://www.mondovisione.com/media-and-resources/news/dtcc-advances-cloud-first-strategy-to-modernize-core-market-and-digital-market-i-2026415/)
+Append: [HKEX: Forfeiture Of Unclaimed Second Interim Dividend For 2019](http://www.mondovisione.com/media-and-resources/news/hkex-forfeiture-of-unclaimed-second-interim-dividend-for-2019-2026415/)
+append_entries: 7
+Finish: 2026-04-15 13:50:16.276580
