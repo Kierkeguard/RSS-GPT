@@ -5,11 +5,30 @@
 <link>http://www.mondovisione.com/media-and-resources/news/</link>
 
 <item>
+<title>BMLL Historical Data Now Available Via Databricks</title>
+<link>http://www.mondovisione.com/media-and-resources/news/bmll-historical-data-now-available-via-databricks-2026415/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/bmll-historical-data-now-available-via-databricks-2026415/</guid>
+<content:encoded><![CDATA[
+
+<ul>
+<li> <span><strong><em><span>Gives users greater flexibility in how they access and use BMLL data across equities, futures and options</span></em></strong></span> </li>
+<li> <span><strong><em><span>Accelerates time to insight across use cases such as TCA, market surveillance, trade and execution analysis, backtesting, stress testing and strategy development</span></em></strong></span> </li>
+<li> <span><strong><em><span>Enables existing Databricks customers to rapidly access BMLL high-quality data with minimal integration effort or storage costs.&nbsp;</span></em></strong></span> </li>
+</ul>
+<p><span><span>BMLL, the leading independent provider of historical market data and analytics across global equity, ETFs, futures and options, today announced that the BMLL Historical Data is now available via Databricks. This move furthers BMLL&rsquo;s commitment to delivering content wherever customers need it, with initial users including some of the world&rsquo;s largest investment management firms.&nbsp;</span></span></p>
+<p><span>Driven by customer demand and BMLL&rsquo;s Client Product Advisory Board (CPAB), the collaboration reflects BMLL&rsquo;s ongoing strategy to give customers greater choice in how they discover, access and evaluate datasets. Alongside Databricks, BMLL data and analytics are available via a broad range of delivery mechanisms, including API, SFTP, S3 and more.&nbsp;&nbsp;</span></p>
+<p><span>By launching on Databricks, BMLL enables a wider range of market participants to accelerate time to insight and extract value faster. A series of marketplace notebooks, created by the BMLL team of expert quantitative analysts, allows Databricks users to easily and quickly discover and evaluate the BMLL product suite - with minimal integration effort or the costs associated with data storage. Use cases include execution analysis, research and backtesting, market structure analysis, TCA, market surveillance and risk.&nbsp;</span></p>
+<p><span><strong><span>Paul Humphrey, Chief Executive Officer of BMLL, said:</span></strong><span>&nbsp;&ldquo;Both the sophistication of the market and the demand for high-quality historical market data continue to grow. This is why firms rely on our robust engineering and normalisation processes to make effective use of our granular data, and we are excited to make BMLL datasets available on the Databricks platform. We essentially meet our customers where they need us to be - within their existing workflows. They now have additional choice and flexibility in how they access our data to carry out faster and more efficient analysis, at scale.&rdquo;</span></span></p>
+]]></content:encoded>
+<pubDate>Wed, 15 Apr 2026 08:06:32 GMT</pubDate>
+<pubDate>Wed, 15 Apr 2026 08:06:32 GMT</pubDate>
+</item>
+
+<item>
 <title>SIX And Chainlink Bring Data Of Swiss And Spanish Equities With A Combined Market Value Of €2 Trillion Onchain</title>
 <link>http://www.mondovisione.com/media-and-resources/news/six-and-chainlink-bring-data-of-swiss-and-spanish-equities-with-a-combined-marke-2026415/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/six-and-chainlink-bring-data-of-swiss-and-spanish-equities-with-a-combined-marke-2026415/</guid>
 <content:encoded><![CDATA[
-
 <p><span>For the first time, data of equities listed on SIX Swiss Exchange and BME Exchange with a value of over &euro;2 trillion is now available to over 2,600 applications in the Chainlink ecosystem across more than 75 public and private blockchains.</span></p>
 <p>SIX, the global financial data and market infrastructure provider, and Chainlink, the industry-standard oracle platform, announced today that equities data from the exchanges of SIX is available onchain for the first time via DataLink, an institutional-grade data publishing service powered by the Chainlink data standard, which underpins secure data delivery across leading public and private blockchain ecosystems.</p>
 <p>Through Chainlink, SIX is extending its reach into blockchain market infrastructure by making data for equities listed on its exchanges in Switzerland and Spain, equivalent to over &euro;2 trillion in market capitalization, available to over 2,600 applications across more than 75 blockchains. Equities data from the SIX Exchanges can now be programmatically accessed within standardized smart contract environments at scale.</p>
@@ -20,14 +39,12 @@
 <p><span><br /></span></p>
 ]]></content:encoded>
 <pubDate>Wed, 15 Apr 2026 06:50:03 GMT</pubDate>
-<pubDate>Wed, 15 Apr 2026 06:50:03 GMT</pubDate>
 </item>
 <item>
 <title>New Zealand Financial Markets Authority Anticipates KiwiSaver Providers Will Increase Investment In Private Assets</title>
 <link>http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-anticipates-kiwisaver-providers-will-inc-2026415/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-anticipates-kiwisaver-providers-will-inc-2026415/</guid>
 <content:encoded><![CDATA[
-
 <p>The Financial Markets Authority (FMA) - Te Mana Tātai Hokohoko has released a report providing a snapshot of how KiwiSaver providers are investing in private assets. While overall exposure to private assets remains comparatively low, most providers told the FMA they expect to increase allocations over the next three years.</p>
 <p>Where private assets are held in retail funds, they account for less than 5 percent of total assets under management, on average. Most KiwiSaver providers plan to increase allocations to private assets over the next three years, aligning with global trends of investment in private markets growing significantly as fund managers seek higher returns and more diversification.</p>
 <p>John Horner, Director Markets, Investors and Reporting, says the findings confirm the global trend of increased investment in private assets is likely to occur in New Zealand also, and while it is early days, there are encouraging signs of maturity in how risks around valuation are identified and managed.</p>
@@ -39,14 +56,12 @@
 <p>The full report&nbsp;<span><a href="https://www.fma.govt.nz/library/reports-and-papers/private-assets-in-managed-funds/" title="Link to report page">Private assets in managed funds: Investment landscape and valuation practices</a></span>&nbsp;is available on our website.</p>
 ]]></content:encoded>
 <pubDate>Wed, 15 Apr 2026 06:35:39 GMT</pubDate>
-<pubDate>Wed, 15 Apr 2026 06:35:39 GMT</pubDate>
 </item>
 <item>
 <title>New Zealand Financial Markets Authority - Operational Resilience Thematic: Findings And Insights</title>
 <link>http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-operational-resilience-thematic-findi-2026415/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-operational-resilience-thematic-findi-2026415/</guid>
 <content:encoded><![CDATA[
-
 <div class="element dnadesign__elemental__models__elementcontent" id="e12598">
 <div class="col-auto col-lg-6 content-element__content">
 <p>The Financial Markets Authority &ndash; Te Mana Tātai Hokohoko (FMA) is conducting a series of surveys as part of its thematic review of operational resilience, supporting the FMA&rsquo;s regulatory priority of identifying emerging risks and opportunities, to promote market integrity, transparency, and resilient markets and providers, as set out in the 2025 Financial Conduct Report.</p>
@@ -83,9 +98,7 @@
 </div>
 ]]></content:encoded>
 <pubDate>Wed, 15 Apr 2026 06:52:54 GMT</pubDate>
-<pubDate>Wed, 15 Apr 2026 06:52:54 GMT</pubDate>
 </item>
-
 <item>
 <title>Rural Communities: Worth The Investment, Federal Reserve Governor Michael S. Barr, At Strengthening America’s Economy Through Rural Investment: A Working Forum, Washington, D.C.</title>
 <link>http://www.mondovisione.com/media-and-resources/news/rural-communities-worth-the-investment-federal-reserve-governor-michael-s-bar-2026414/</link>

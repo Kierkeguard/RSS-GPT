@@ -1543,3 +1543,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [New Zealand Financial Markets Authority - Operational Resilience Thematic: Findings And Insights](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-operational-resilience-thematic-findi-2026415/)
 append_entries: 3
 Finish: 2026-04-15 06:02:53.191695
+------------------------------------------------------
+Started: 2026-04-15 09:26:02.085367
+Existing_entries: 239
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BMLL Historical Data Now Available Via Databricks](http://www.mondovisione.com/media-and-resources/news/bmll-historical-data-now-available-via-databricks-2026415/)
+append_entries: 1
+Finish: 2026-04-15 09:26:03.185917
