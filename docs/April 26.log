@@ -1647,3 +1647,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CFTC Approves Order To Further Strengthen U.S. Treasury Market Liquidity](http://www.mondovisione.com/media-and-resources/news/cftc-approves-order-to-further-strengthen-us-treasury-market-liquidity-2026415/)
 append_entries: 3
 Finish: 2026-04-15 20:57:13.564888
+------------------------------------------------------
+Started: 2026-04-15 22:48:45.345125
+Existing_entries: 261
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-04-15 22:48:46.577470
