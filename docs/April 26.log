@@ -1528,3 +1528,18 @@ Existing_entries: 236
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-04-15 02:57:12.285360
+------------------------------------------------------
+Started: 2026-04-15 06:02:52.157274
+Existing_entries: 236
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIX And Chainlink Bring Data Of Swiss And Spanish Equities With A Combined Market Value Of €2 Trillion Onchain](http://www.mondovisione.com/media-and-resources/news/six-and-chainlink-bring-data-of-swiss-and-spanish-equities-with-a-combined-marke-2026415/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Zealand Financial Markets Authority Anticipates KiwiSaver Providers Will Increase Investment In Private Assets](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-anticipates-kiwisaver-providers-will-inc-2026415/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Zealand Financial Markets Authority - Operational Resilience Thematic: Findings And Insights](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-operational-resilience-thematic-findi-2026415/)
+append_entries: 3
+Finish: 2026-04-15 06:02:53.191695
