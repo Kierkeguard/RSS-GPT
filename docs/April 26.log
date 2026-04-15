@@ -1552,3 +1552,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [BMLL Historical Data Now Available Via Databricks](http://www.mondovisione.com/media-and-resources/news/bmll-historical-data-now-available-via-databricks-2026415/)
 append_entries: 1
 Finish: 2026-04-15 09:26:03.185917
+------------------------------------------------------
+Started: 2026-04-15 11:05:25.710191
+Existing_entries: 240
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ETFGI Reports Global ETFs Industry Sets Q1 Record As YTD Net Inflows Surge 35% Past 2025 High](http://www.mondovisione.com/media-and-resources/news/etfgi-reports-global-etfs-industry-sets-q1-record-as-ytd-net-inflows-surge-35-p-2026415/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Global Markets Face Volatility Amid Oil Shock, Deutsche Börse And Tel Aviv Stock Exchange Show Notable Resilience](http://www.mondovisione.com/media-and-resources/news/global-markets-face-volatility-amid-oil-shock-deutsche-brse-and-tel-aviv-stock-2026415/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Takes Next Steps Toward Enforcement Action Against Hartley Pensions And An Individual](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-takes-next-steps-toward-enforcement-action-agains-2026415/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [WFE Says Good Markets Embody Resilient, Scalable And Innovative Networks By Design](http://www.mondovisione.com/media-and-resources/news/wfe-says-good-markets-embody-resilient-scalable-and-innovative-networks-by-desi-2026415/)
+append_entries: 4
+Finish: 2026-04-15 11:05:27.656258
