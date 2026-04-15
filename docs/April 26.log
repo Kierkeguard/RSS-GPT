@@ -1593,3 +1593,18 @@ Append: [DTCC Advances Cloud First Strategy To Modernize Core Market And Digital
 Append: [HKEX: Forfeiture Of Unclaimed Second Interim Dividend For 2019](http://www.mondovisione.com/media-and-resources/news/hkex-forfeiture-of-unclaimed-second-interim-dividend-for-2019-2026415/)
 append_entries: 7
 Finish: 2026-04-15 13:50:16.276580
+------------------------------------------------------
+Started: 2026-04-15 15:10:20.669529
+Existing_entries: 251
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [S&P Global Investment Manager Index™ (IMI™): Investor Risk Appetite Returns Amid Tentative Optimism For Near-Term Outlook](http://www.mondovisione.com/media-and-resources/news/sandp-global-investment-manager-index-imi-investor-risk-appetite-returns-amid-2026415/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Exchange Group - Options & Equities Markets - Reg SCI / SIFMA BCP Testing On Saturday, October 24, 2026](http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-options-and-equities-markets-reg-sci-sifma-bcp-testing-o-2026415/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Finxact Named Best SaaS Platform At 2026 FinTech Awards - Award Recognizes Next-Gen Core Architecture And Proven Performance At Scale](http://www.mondovisione.com/media-and-resources/news/finxact-named-best-saas-platform-at-2026-fintech-awards-award-recognizes-next-2026415/)
+append_entries: 3
+Finish: 2026-04-15 15:10:22.152021
