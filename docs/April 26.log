@@ -1632,3 +1632,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SIFMA Recognizes National Investing Day](http://www.mondovisione.com/media-and-resources/news/sifma-recognizes-national-investing-day-2026415/)
 append_entries: 2
 Finish: 2026-04-15 19:25:14.422566
+------------------------------------------------------
+Started: 2026-04-15 20:57:12.014377
+Existing_entries: 258
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Approves Exemptive Order And Proposed Rule Change To Permit Customer Cross-Margining In The U.S. Treasury Market](http://www.mondovisione.com/media-and-resources/news/sec-approves-exemptive-order-and-proposed-rule-change-to-permit-customer-cross-m-2026415/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Treasury International Capital Data For February](http://www.mondovisione.com/media-and-resources/news/treasury-international-capital-data-for-february-2026415/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Approves Order To Further Strengthen U.S. Treasury Market Liquidity](http://www.mondovisione.com/media-and-resources/news/cftc-approves-order-to-further-strengthen-us-treasury-market-liquidity-2026415/)
+append_entries: 3
+Finish: 2026-04-15 20:57:13.564888
