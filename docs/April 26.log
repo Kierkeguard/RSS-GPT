@@ -1689,3 +1689,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [KBC Asset Management Enters Europe’s Rapidly Growing ETF Market With Unique CZK Hedged ETF Tracking The Solactive GBS Developed Markets Large & Mid Cap Index](http://www.mondovisione.com/media-and-resources/news/kbc-asset-management-enters-europes-rapidly-growing-etf-market-with-unique-czk-2026416/)
 append_entries: 3
 Finish: 2026-04-16 09:25:00.714427
+------------------------------------------------------
+Started: 2026-04-16 11:08:58.760511
+Existing_entries: 267
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Dubai Sustains Strong Momentum In Q1 2026, Raising Over USD 8 Billion In Fixed Income Listings](http://www.mondovisione.com/media-and-resources/news/nasdaq-dubai-sustains-strong-momentum-in-q1-2026-raising-over-usd-8-billion-in-2026416/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Clear Street Expands European Market Access With MiFID II License In The Netherlands](http://www.mondovisione.com/media-and-resources/news/clear-street-expands-european-market-access-with-mifid-ii-license-in-the-netherl-2026416/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Introduces Clearer And Simpler Short Selling Rules](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-introduces-clearer-and-simpler-short-selling-rule-2026416/)
+append_entries: 3
+Finish: 2026-04-16 11:09:00.357425
