@@ -1704,3 +1704,26 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [UK Financial Conduct Authority Introduces Clearer And Simpler Short Selling Rules](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-introduces-clearer-and-simpler-short-selling-rule-2026416/)
 append_entries: 3
 Finish: 2026-04-16 11:09:00.357425
+------------------------------------------------------
+Started: 2026-04-16 13:59:11.194693
+Existing_entries: 270
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Opening Remarks At The Options Market Structure Roundtable, Jamie Selway, Director, SEC Division Of Trading And Markets, April 16, 2026](http://www.mondovisione.com/media-and-resources/news/opening-remarks-at-the-options-market-structure-roundtable-jamie-selway-direct-2026416/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Commencement Of Trading Of PREMIA Properties’ New Bond On The Athens Exchange](http://www.mondovisione.com/media-and-resources/news/commencement-of-trading-of-premia-properties-new-bond-on-the-athens-exchange-2026416/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [DTCC And CME Group Receive Regulatory Approvals To Launch Expanded U.S. Treasury Cross-Margining Arrangement For End-User Clients - New Services Will Offer Increased Margin Efficiencies For Offsetting Transactions Beginning April 30](http://www.mondovisione.com/media-and-resources/news/dtcc-and-cme-group-receive-regulatory-approvals-to-launch-expanded-us-treasury-2026416/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESMA Recognizes CME Group Benchmark Administration As A Third-Country Benchmark Administrator](http://www.mondovisione.com/media-and-resources/news/esma-recognizes-cme-group-benchmark-administration-as-a-third-country-benchmark-2026416/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Have Your Say! ACER Consultation On A New Guideline On REMIT Transaction Reporting Is Open](http://www.mondovisione.com/media-and-resources/news/have-your-say-acer-consultation-on-a-new-guideline-on-remit-transaction-reporti-2026416/)
+Append: [Miami International Holdings Announces Date Of First Quarter 2026 Earnings Release And Conference Call](http://www.mondovisione.com/media-and-resources/news/miami-international-holdings-announces-date-of-first-quarter-2026-earnings-relea-2026416/)
+Append: [UK Drops To Lowest FDI Ranking Since 2020 As Global Investors Demand Greater Clarity On Industrial Policy, Warns Kearney](http://www.mondovisione.com/media-and-resources/news/uk-drops-to-lowest-fdi-ranking-since-2020-as-global-investors-demand-greater-cla-2026416/)
+append_entries: 7
+Finish: 2026-04-16 13:59:12.445531
