@@ -1788,3 +1788,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Remarks At The Options Market Structure Roundtable, Paul S. Atkins, SEC Chairman, April 16, 2026](http://www.mondovisione.com/media-and-resources/news/remarks-at-the-options-market-structure-roundtable-paul-s-atkins-sec-chairman-2026416/)
 append_entries: 1
 Finish: 2026-04-16 20:55:15.572610
+------------------------------------------------------
+Started: 2026-04-16 22:49:21.297535
+Existing_entries: 292
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Chairman Atkins Launches 'Material Matters' Podcast](http://www.mondovisione.com/media-and-resources/news/sec-chairman-atkins-launches-material-matters-podcast-2026416/)
+append_entries: 1
+Finish: 2026-04-16 22:49:22.291081
