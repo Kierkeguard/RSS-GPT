@@ -1674,3 +1674,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Ontario Securities Commission Reaches Settlement With Liquidnet Canada Inc.](http://www.mondovisione.com/media-and-resources/news/ontario-securities-commission-reaches-settlement-with-liquidnet-canada-inc-2026416/)
 append_entries: 3
 Finish: 2026-04-16 06:05:25.947140
+------------------------------------------------------
+Started: 2026-04-16 09:24:58.706842
+Existing_entries: 264
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Last Day For Early Bird Discount | Register Now For The 7th Annual ETFGI Latin America Summit In Mexico City On May 20th & May 21st Virtual](http://www.mondovisione.com/media-and-resources/news/last-day-for-early-bird-discount-register-now-for-the-7th-annual-etfgi-latin-a-2026416/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CPMI-IOSCO Assesses That The United Kingdom Has Implemented The Principles For Financial Market Infrastructures (FMI) For Two FMI Types, But Recommends Some Improvements](http://www.mondovisione.com/media-and-resources/news/cpmi-iosco-assesses-that-the-united-kingdom-has-implemented-the-principles-for-f-2026416/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [KBC Asset Management Enters Europe’s Rapidly Growing ETF Market With Unique CZK Hedged ETF Tracking The Solactive GBS Developed Markets Large & Mid Cap Index](http://www.mondovisione.com/media-and-resources/news/kbc-asset-management-enters-europes-rapidly-growing-etf-market-with-unique-czk-2026416/)
+append_entries: 3
+Finish: 2026-04-16 09:25:00.714427
