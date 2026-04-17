@@ -1821,3 +1821,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Lucas West Appointed Executive Vice President And Head Of Advocacy For SIFMA](http://www.mondovisione.com/media-and-resources/news/lucas-west-appointed-executive-vice-president-and-head-of-advocacy-for-sifma-2026417/)
 append_entries: 4
 Finish: 2026-04-17 06:06:29.942884
+------------------------------------------------------
+Started: 2026-04-17 09:23:41.084904
+Existing_entries: 297
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [More Benefits For Investors: BISON Launches Exclusive Customer Program](http://www.mondovisione.com/media-and-resources/news/more-benefits-for-investors-bison-launches-exclusive-customer-program-2026417/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Centiel Goes Public On SIX Swiss Exchange](http://www.mondovisione.com/media-and-resources/news/centiel-goes-public-on-six-swiss-exchange-2026417/)
+append_entries: 2
+Finish: 2026-04-17 09:23:42.063880
