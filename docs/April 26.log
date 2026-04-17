@@ -1833,3 +1833,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Centiel Goes Public On SIX Swiss Exchange](http://www.mondovisione.com/media-and-resources/news/centiel-goes-public-on-six-swiss-exchange-2026417/)
 append_entries: 2
 Finish: 2026-04-17 09:23:42.063880
+------------------------------------------------------
+Started: 2026-04-17 11:02:09.469292
+Existing_entries: 299
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX Publishes Consultation Paper On Accelerated Settlement For Hong Kong Cash Market](http://www.mondovisione.com/media-and-resources/news/hkex-publishes-consultation-paper-on-accelerated-settlement-for-hong-kong-cash-m-2026417/)
+append_entries: 1
+Finish: 2026-04-17 11:02:10.306635
