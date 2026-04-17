@@ -1803,3 +1803,21 @@ Existing_entries: 293
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-04-17 03:19:15.091118
+------------------------------------------------------
+Started: 2026-04-17 06:06:28.820486
+Existing_entries: 293
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Situation In The Middle East On Energy Markets: Press Conference By KATAYAMA Satsuki, Japan Minister Of Finance And Minister Of State For Financial Services](http://www.mondovisione.com/media-and-resources/news/situation-in-the-middle-east-on-energy-markets-press-conference-by-katayama-sat-2026417/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Craigs Accredited As NZX Derivatives Trading Participant](http://www.mondovisione.com/media-and-resources/news/craigs-accredited-as-nzx-derivatives-trading-participant-2026417/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Financial Measures In Light Of The Situation In The Middle East: Press Conference By KATAYAMA Satsuki, Japan Minister Of Finance And Minister Of State For Financial Services](http://www.mondovisione.com/media-and-resources/news/financial-measures-in-light-of-the-situation-in-the-middle-east-press-conferenc-2026417/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Lucas West Appointed Executive Vice President And Head Of Advocacy For SIFMA](http://www.mondovisione.com/media-and-resources/news/lucas-west-appointed-executive-vice-president-and-head-of-advocacy-for-sifma-2026417/)
+append_entries: 4
+Finish: 2026-04-17 06:06:29.942884
