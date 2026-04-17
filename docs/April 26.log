@@ -1842,3 +1842,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [HKEX Publishes Consultation Paper On Accelerated Settlement For Hong Kong Cash Market](http://www.mondovisione.com/media-and-resources/news/hkex-publishes-consultation-paper-on-accelerated-settlement-for-hong-kong-cash-m-2026417/)
 append_entries: 1
 Finish: 2026-04-17 11:02:10.306635
+------------------------------------------------------
+Started: 2026-04-17 13:42:10.368078
+Existing_entries: 300
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Corporate And Municipal CUSIP Request Volumes Rise In March](http://www.mondovisione.com/media-and-resources/news/corporate-and-municipal-cusip-request-volumes-rise-in-march-2026417/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Dubai Financial Market’s Hong Kong Visit Drives Strong Investor Engagement At HSBC Global Investment Summit 2026](http://www.mondovisione.com/media-and-resources/news/dubai-financial-markets-hong-kong-visit-drives-strong-investor-engagement-at-hs-2026417/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Securities Commission Malaysia Explores Cross Border Opportunities With China](http://www.mondovisione.com/media-and-resources/news/securities-commission-malaysia-explores-cross-border-opportunities-with-china-2026417/)
+append_entries: 3
+Finish: 2026-04-17 13:42:11.418869
