@@ -1869,3 +1869,21 @@ Existing_entries: 303
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-04-17 16:58:05.991937
+------------------------------------------------------
+Started: 2026-04-17 19:08:47.060680
+Existing_entries: 303
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Metal Exchange Market Structure Modernisation Delivery Update](http://www.mondovisione.com/media-and-resources/news/london-metal-exchange-market-structure-modernisation-delivery-update-2026417/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Dubai Financial Market Regulated Short Sell – Weekly Summary - 13th April 2026 To 17th April 2026](http://www.mondovisione.com/media-and-resources/news/dubai-financial-market-regulated-short-sell-weekly-summary-13th-april-2026-t-2026417/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Borsa Istanbul: BIST Dividend And BIST Dividend 25 Indices Periodic Review](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-bist-dividend-and-bist-dividend-25-indices-periodic-review-2026417/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ADX Empowers Entrepreneurs And Investors At The Abu Dhabi Global Entrepreneurship Festival](http://www.mondovisione.com/media-and-resources/news/adx-empowers-entrepreneurs-and-investors-at-the-abu-dhabi-global-entrepreneurshi-2026417/)
+append_entries: 4
+Finish: 2026-04-17 19:08:47.876064
