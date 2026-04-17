@@ -1857,3 +1857,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Securities Commission Malaysia Explores Cross Border Opportunities With China](http://www.mondovisione.com/media-and-resources/news/securities-commission-malaysia-explores-cross-border-opportunities-with-china-2026417/)
 append_entries: 3
 Finish: 2026-04-17 13:42:11.418869
+------------------------------------------------------
+Started: 2026-04-17 15:00:01.531309
+Existing_entries: 303
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-04-17 15:00:02.793631
