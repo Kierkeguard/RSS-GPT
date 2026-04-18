@@ -1920,3 +1920,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Office Of The Comptroller Of The US Currency Issues Updated Model Risk Management Guidance](http://www.mondovisione.com/media-and-resources/news/office-of-the-comptroller-of-the-us-currency-issues-updated-model-risk-managemen-2026417/)
 append_entries: 1
 Finish: 2026-04-17 22:48:45.007340
+------------------------------------------------------
+Started: 2026-04-18 02:51:02.546013
+Existing_entries: 316
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-04-18 02:51:03.394279
