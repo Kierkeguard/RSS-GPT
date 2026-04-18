@@ -1941,3 +1941,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [NGX Expands Trading Window From 9:00 A.M. To 4:00 P.M](http://www.mondovisione.com/media-and-resources/news/ngx-expands-trading-window-from-900-am-to-400-pm-2026418/)
 append_entries: 1
 Finish: 2026-04-18 07:16:29.476115
+------------------------------------------------------
+Started: 2026-04-18 08:57:23.527586
+Existing_entries: 317
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-04-18 08:57:24.598838
