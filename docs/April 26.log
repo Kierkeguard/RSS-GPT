@@ -2189,3 +2189,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CFTC Swaps Report Update](http://www.mondovisione.com/media-and-resources/news/cftc-swaps-report-update-2026420/)
 append_entries: 4
 Finish: 2026-04-20 20:54:34.614677
+------------------------------------------------------
+Started: 2026-04-20 22:51:24.990959
+Existing_entries: 351
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Fiserv To Present At Upcoming Investor Conferences](http://www.mondovisione.com/media-and-resources/news/fiserv-to-present-at-upcoming-investor-conferences-2026420/)
+append_entries: 1
+Finish: 2026-04-20 22:51:26.239353
