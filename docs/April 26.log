@@ -2134,3 +2134,25 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Chair’s Statement Of The United States G20 Presidency](http://www.mondovisione.com/media-and-resources/news/chairs-statement-of-the-united-states-g20-presidency-2026420/)
 append_entries: 2
 Finish: 2026-04-20 15:19:49.956112
+------------------------------------------------------
+Started: 2026-04-20 17:10:40.846330
+Existing_entries: 338
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BIS: Statement On The Appointment Of Hyun Song Shin As Governor Of The Bank Of Korea](http://www.mondovisione.com/media-and-resources/news/bis-statement-on-the-appointment-of-hyun-song-shin-as-governor-of-the-bank-of-k-2026420/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc ("LSEG") Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transaction-in-own-shares-2026420/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC And SEC Jointly Propose Amendments To Strengthen Disclosure And Reduce Private Fund Reporting Burdens](http://www.mondovisione.com/media-and-resources/news/cftc-and-sec-jointly-propose-amendments-to-strengthen-disclosure-and-reduce-priv-2026420/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euronext Completes Rebranding Of Athens Stock Exchange To Euronext Athens, Marking A New Era For The Greek Capital Market - Euronext Athens’ New Name And Corporate Identity Is A Key Step Toward Its Integration Into Euronext’s Pan-European Single Technology Platform, Single Order Book, And Single Liquidity Pool Network, Paving The Way For New Pathways For International Growth And Technological Innovation](http://www.mondovisione.com/media-and-resources/news/euronext-completes-rebranding-of-athens-stock-exchange-to-euronext-athens-marki-2026420/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BME Launches New Futures And Options Contracts On HBX Shares](http://www.mondovisione.com/media-and-resources/news/bme-launches-new-futures-and-options-contracts-on-hbx-shares-2026420/)
+Append: [EEX - New Study: German Government Plans To Endorse Gas-Fired Power Plants Contradict Free-Market Principles And Key EU Regulations - Hedging Obligation Is The Better Alternative](http://www.mondovisione.com/media-and-resources/news/eex-new-study-german-government-plans-to-endorse-gas-fired-power-plants-contr-2026420/)
+append_entries: 6
+Finish: 2026-04-20 17:10:41.937224
