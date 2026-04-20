@@ -2122,3 +2122,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Capital.Com Issues Q1 2026 Trading Platform Update, Reports $1.27 Trillion In Client Trading Volume - Trading Volumes Rose 10.6% Quarter-On-Quarter As Gold, Oil And Crypto Dislocations Drove Heightened Trading Activity Across The Platform In January To March 2026](http://www.mondovisione.com/media-and-resources/news/capitalcom-issues-q1-2026-trading-platform-update-reports-127-trillion-in-cl-2026420/)
 append_entries: 5
 Finish: 2026-04-20 13:54:26.487632
+------------------------------------------------------
+Started: 2026-04-20 15:19:48.762451
+Existing_entries: 336
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC And CFTC Jointly Propose Amendments To Reduce Private Fund Reporting Burdens](http://www.mondovisione.com/media-and-resources/news/sec-and-cftc-jointly-propose-amendments-to-reduce-private-fund-reporting-burdens-2026420/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Chair’s Statement Of The United States G20 Presidency](http://www.mondovisione.com/media-and-resources/news/chairs-statement-of-the-united-states-g20-presidency-2026420/)
+append_entries: 2
+Finish: 2026-04-20 15:19:49.956112
