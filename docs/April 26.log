@@ -2171,3 +2171,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [AMF Québec, Ontario Securities Commission And AMF France Enter Into An Agreement To Support Cross-Listing Of Securities In Canada And France](http://www.mondovisione.com/media-and-resources/news/amf-qubec-ontario-securities-commission-and-amf-france-enter-into-an-agreement-2026420/)
 append_entries: 3
 Finish: 2026-04-20 19:13:51.875183
+------------------------------------------------------
+Started: 2026-04-20 20:54:33.327141
+Existing_entries: 347
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MarketAxess To Host Conference Call Announcing First Quarter 2026 Financial Results On Thursday, May 7, 2026](http://www.mondovisione.com/media-and-resources/news/marketaxess-to-host-conference-call-announcing-first-quarter-2026-financial-resu-2026420/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Update On The SEC’s Work Toward Treasury Clearing Implementation, SEC Commissioner Mark T. Uyeda, April 20, 2026](http://www.mondovisione.com/media-and-resources/news/update-on-the-secs-work-toward-treasury-clearing-implementation-sec-commission-2026420/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Statement On The Amendments To Form PF, SEC Commissioner Mark T. Uyeda, April 20, 2026](http://www.mondovisione.com/media-and-resources/news/statement-on-the-amendments-to-form-pf-sec-commissioner-mark-t-uyeda-april-20-2026420/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Swaps Report Update](http://www.mondovisione.com/media-and-resources/news/cftc-swaps-report-update-2026420/)
+append_entries: 4
+Finish: 2026-04-20 20:54:34.614677
