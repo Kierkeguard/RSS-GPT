@@ -2080,3 +2080,24 @@ Append: [ASIC Consults On Regulatory Guide Updates To Implement Financial Market
 Append: [Bursa Malaysia Launches National Investment Programme (NIP) To Advance Public Investment Literacy](http://www.mondovisione.com/media-and-resources/news/bursa-malaysia-launches-national-investment-programme-nip-to-advance-public-in-2026420/)
 append_entries: 9
 Finish: 2026-04-20 06:20:25.992639
+------------------------------------------------------
+Started: 2026-04-20 10:02:49.530302
+Existing_entries: 326
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CCP Global Submits A Response To EC's Consultation On The Competitiveness Of The EU Banking Sector](http://www.mondovisione.com/media-and-resources/news/ccp-global-submits-a-response-to-ecs-consultation-on-the-competitiveness-of-the-2026420/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX: Exchange Publishes Conclusions On Proposed Enhancements To Structured Products Listing Framework](http://www.mondovisione.com/media-and-resources/news/hkex-exchange-publishes-conclusions-on-proposed-enhancements-to-structured-prod-2026420/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cyprus Stock Exchange Monthly Bulletin - March 2026](http://www.mondovisione.com/media-and-resources/news/cyprus-stock-exchange-monthly-bulletin-march-2026-2026420/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Securities Commission Malaysia And Bursa Malaysia Introduce MY Value Up Programme - Aim Is To Boost Malaysian PLCs Corporate Valuation And Market Attractiveness](http://www.mondovisione.com/media-and-resources/news/securities-commission-malaysia-and-bursa-malaysia-introduce-my-value-up-programm-2026420/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Avelacom Launches Alternative Low-Latency Route Between Tokyo And London Cloud Infrastructure Via AWS Stockholm - Move Enables Direct Access To Leading Prediction Market Platforms Amid Growing Demand From Digital Asset Trading Firms](http://www.mondovisione.com/media-and-resources/news/avelacom-launches-alternative-low-latency-route-between-tokyo-and-london-cloud-i-2026420/)
+append_entries: 5
+Finish: 2026-04-20 10:02:54.437872
