@@ -2275,3 +2275,18 @@ Existing_entries: 370
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-04-21 15:18:37.178971
+------------------------------------------------------
+Started: 2026-04-21 17:09:50.275522
+Existing_entries: 370
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Moscow Exchange Changes The Tick Size From The 5th Of May 2026](http://www.mondovisione.com/media-and-resources/news/moscow-exchange-changes-the-tick-size-from-the-5th-of-may-2026-2026421/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [EEX And Baltpool Enter Strategic Co-Operation To Develop An Organised And Efficient German Biomass Market](http://www.mondovisione.com/media-and-resources/news/eex-and-baltpool-enter-strategic-co-operation-to-develop-an-organised-and-effici-2026421/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [DIFC To Become The World’s First AI Native Financial Centre](http://www.mondovisione.com/media-and-resources/news/difc-to-become-the-worlds-first-ai-native-financial-centre-2026421/)
+append_entries: 3
+Finish: 2026-04-21 17:09:51.414958
