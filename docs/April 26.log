@@ -2239,3 +2239,10 @@ Append: [Ebury Introduces Local German Ibans: Local Presence, Global Reach](http
 Append: [Representative Study: Crypto Interest Drives European Investors To Consider Switching Banks](http://www.mondovisione.com/media-and-resources/news/representative-study-crypto-interest-drives-european-investors-to-consider-swit-2026421/)
 append_entries: 10
 Finish: 2026-04-21 09:44:21.666572
+------------------------------------------------------
+Started: 2026-04-21 11:13:07.863784
+Existing_entries: 363
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Feed error: <unknown>:15:6: mismatched tag
+append_entries: 0
+error when rendering xml, skip docs/April 26
