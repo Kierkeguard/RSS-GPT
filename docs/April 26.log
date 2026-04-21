@@ -2204,3 +2204,12 @@ Existing_entries: 352
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-04-21 03:20:12.009893
+------------------------------------------------------
+Started: 2026-04-21 06:05:40.153530
+Existing_entries: 352
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Shanghai Gold Exchange: Announcement On Switchover To Disaster Recovery Data Center](http://www.mondovisione.com/media-and-resources/news/shanghai-gold-exchange-announcement-on-switchover-to-disaster-recovery-data-cen-2026421/)
+append_entries: 1
+Finish: 2026-04-21 06:05:41.070745
