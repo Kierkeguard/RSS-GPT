@@ -2246,3 +2246,26 @@ Fetching from https://mondovisione.com/media-and-resources/news/rss/
 Feed error: <unknown>:15:6: mismatched tag
 append_entries: 0
 error when rendering xml, skip docs/April 26
+------------------------------------------------------
+Started: 2026-04-21 13:55:12.167366
+Existing_entries: 363
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Keynote Remarks At The Economic Club Of Washington, Paul S. Atkins, SEC Chairman, Washington D.C., April 21, 2026](http://www.mondovisione.com/media-and-resources/news/keynote-remarks-at-the-economic-club-of-washington-paul-s-atkins-sec-chairman-2026421/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [STP Investment Services And CAPIS Launch Coordinated Outsourced Trading And Operations Model For Buy-Side Firms - Integration Of Flexible Outsourced Trading With Middle- And Back-Office Solutions Enables Investment Managers To Scale Without Expanding Headcount](http://www.mondovisione.com/media-and-resources/news/stp-investment-services-and-capis-launch-coordinated-outsourced-trading-and-oper-2026421/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Announces Second Cohort For AI Live Testing](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-announces-second-cohort-for-ai-live-testing-2026421/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LangWatch Launches Open-Source Framework That Detects Hidden AI Cybersecurity Risks](http://www.mondovisione.com/media-and-resources/news/langwatch-launches-open-source-framework-that-detects-hidden-ai-cybersecurity-ri-2026421/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [GlobalData Announces Top M&A Financial And Legal Advisers In Europe During Q1 2026](http://www.mondovisione.com/media-and-resources/news/globaldata-announces-top-manda-financial-and-legal-advisers-in-europe-during-q1-20-2026421/)
+Append: [Market Structure Partners Markets Unstructured Series: Final Paper - Paper III Explores Possible Industry Action That Could Be Taken To Address The Issues And Support Market Growth](http://www.mondovisione.com/media-and-resources/news/markets-unstructured-series-final-paper-paper-iii-explores-possible-industr-2026421/)
+Append: [HKEX Builds FIC Leadership Team With New Appointment](http://www.mondovisione.com/media-and-resources/news/hkex-builds-fic-leadership-team-with-new-appointment-2026421/)
+append_entries: 7
+Finish: 2026-04-21 13:55:13.336832
