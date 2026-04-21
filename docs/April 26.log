@@ -2213,3 +2213,29 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Shanghai Gold Exchange: Announcement On Switchover To Disaster Recovery Data Center](http://www.mondovisione.com/media-and-resources/news/shanghai-gold-exchange-announcement-on-switchover-to-disaster-recovery-data-cen-2026421/)
 append_entries: 1
 Finish: 2026-04-21 06:05:41.070745
+------------------------------------------------------
+Started: 2026-04-21 09:44:20.372984
+Existing_entries: 353
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Government - Consultation Outcome: A Streamlined Approach To Payment Systems Regulation Consultation](http://www.mondovisione.com/media-and-resources/news/uk-government-consultation-outcome-a-streamlined-approach-to-payment-systems-2026421/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Government Policy Paper - Policy Note: Draft Statutory Instrument Amending The Cryptoasset Regulations](http://www.mondovisione.com/media-and-resources/news/uk-government-policy-paper-policy-note-draft-statutory-instrument-amending-th-2026421/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HQLAX Announces Strategic Investments From Broadridge And Digital Asset To Support Its Next Phase Of Growth On Canton](http://www.mondovisione.com/media-and-resources/news/hqlax-announces-strategic-investments-from-broadridge-and-digital-asset-to-suppo-2026421/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tavira Selects Broadridge To Support Its Agency Brokerage Platform And Market Connectivity - Broadridge’s Integrated High Touch OMS, Connectivity, And Middle Office Capabilities Will Provide The Scale, Automation, And Global Market Access To Support Tavira’s Next Phase Of Growth](http://www.mondovisione.com/media-and-resources/news/tavira-selects-broadridge-to-support-its-agency-brokerage-platform-and-market-co-2026421/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Matsui Securities Adopts Broadridge’s JASDECPS On SaaS Platform, Transforming Securities Lending Business For Accelerated Growth - Matsui Utilizes Broadridge’s SaaS To Streamline Operations, Boost Efficiency, And Meet Japan's Emerging Market Changes](http://www.mondovisione.com/media-and-resources/news/matsui-securities-adopts-broadridges-jasdecps-on-saas-platform-transforming-se-2026421/)
+Append: [UK Fintech Backed To Embrace Future Payments Technology](http://www.mondovisione.com/media-and-resources/news/uk-fintech-backed-to-embrace-future-payments-technology-2026421/)
+Append: [BMLL Makes Significant Strategic Hires To Accelerate Growth - Appointments Follow BMLL’S Acquisition By Nordic Capital And Strategic Partnership To Drive Global Expansion](http://www.mondovisione.com/media-and-resources/news/bmll-makes-significant-strategic-hires-to-accelerate-growth-appointments-follo-2026421/)
+Append: [CoinShares Fund Flows: US$1.4B Inflows As Ceasefire Optimism And BTC Breakout Drive Risk Appetite](http://www.mondovisione.com/media-and-resources/news/coinshares-fund-flows-us14b-inflows-as-ceasefire-optimism-and-btc-breakout-dr-2026421/)
+Append: [Ebury Introduces Local German Ibans: Local Presence, Global Reach](http://www.mondovisione.com/media-and-resources/news/ebury-introduces-local-german-ibans-local-presence-global-reach-2026421/)
+Append: [Representative Study: Crypto Interest Drives European Investors To Consider Switching Banks](http://www.mondovisione.com/media-and-resources/news/representative-study-crypto-interest-drives-european-investors-to-consider-swit-2026421/)
+append_entries: 10
+Finish: 2026-04-21 09:44:21.666572
