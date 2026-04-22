@@ -2343,3 +2343,29 @@ Existing_entries: 382
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-04-22 06:03:04.742995
+------------------------------------------------------
+Started: 2026-04-22 09:25:55.116990
+Existing_entries: 382
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Broadridge Launches Central Risk And Liquidity Optimization Solution To Unify Trade Execution, Liquidity And Risk Management - New Integrated Front-Office Solution Enables Firms Centralize Risk, Internalize Client Flow, Optimize Liquidity, And Improve Capital Efficiency](http://www.mondovisione.com/media-and-resources/news/broadridge-launches-central-risk-and-liquidity-optimization-solution-to-unify-tr-2026422/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Wiener Börse AG Stays Committed To Xetra T7 Trading Technology](http://www.mondovisione.com/media-and-resources/news/wiener-brse-ag-stays-committed-to-xetra-t7-trading-technology-2026422/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Aura ETFs Launches U.S. Defense ETF Tracking The Solactive U.S. Defense Index](http://www.mondovisione.com/media-and-resources/news/aura-etfs-launches-us-defense-etf-tracking-the-solactive-us-defense-index-2026422/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Securities Commission Malaysia: Malaysian Capital Market Hits Record RM4.3 Trillion In 2025 - Stays Resilient Despite Heightened Volatility, Global Uncertainty](http://www.mondovisione.com/media-and-resources/news/securities-commission-malaysia-malaysian-capital-market-hits-record-rm43-trill-2026422/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [European Businesses Face “Digital Identity Crunch” As eIDAS 2.0 And AMLR Deadlines Loom - Signicat Launches A Unified Platform To Tackle The Complex Transition, As Companies Will Need To Support Both New EU Digital Identity Wallets And The Already Trusted National eIDs.](http://www.mondovisione.com/media-and-resources/news/european-businesses-face-digital-identity-crunch-as-eidas-20-and-amlr-deadlin-2026422/)
+Append: [Finansinspektionen: Consumer Protection Report 2026](http://www.mondovisione.com/media-and-resources/news/finansinspektionen-consumer-protection-report-2026-2026422/)
+Append: [HKEX Hosts 40th Asian And Oceanian Stock Exchanges Federation General Assembly](http://www.mondovisione.com/media-and-resources/news/hkex-hosts-40th-asian-and-oceanian-stock-exchanges-federation-general-assembly-2026422/)
+Append: [SGX RegCo Proposes Requiring Disclosures For Dividend, Remuneration And IR Policies](http://www.mondovisione.com/media-and-resources/news/sgx-regco-proposes-requiring-disclosures-for-dividend-remuneration-and-ir-polic-2026422/)
+Append: [Trading Technologies And Mercantile Exchange Of Vietnam Agree To Offer MXV Members Access To Global Derivatives Markets Through TT® Infrastructure](http://www.mondovisione.com/media-and-resources/news/trading-technologies-and-mercantile-exchange-of-vietnam-agree-to-offer-mxv-membe-2026422/)
+Append: [NZX Names Graham Law As Acting Chief Executive](http://www.mondovisione.com/media-and-resources/news/nzx-names-graham-law-as-acting-chief-executive-2026422/)
+append_entries: 10
+Finish: 2026-04-22 09:25:56.107864
