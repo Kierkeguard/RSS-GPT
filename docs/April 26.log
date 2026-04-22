@@ -2445,3 +2445,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Trading Technologies To Provide Connectivity To NZX, The National Stock Exchange Of New Zealand - Partnership Will Support NZX's Highly Anticipated Launch Of S&P/NZX 20 Index Futures Contract](http://www.mondovisione.com/media-and-resources/news/trading-technologies-to-provide-connectivity-to-nzx-the-national-stock-exchange-2026422/)
 append_entries: 1
 Finish: 2026-04-22 21:01:35.719246
+------------------------------------------------------
+Started: 2026-04-22 22:52:35.760777
+Existing_entries: 408
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-04-22 22:52:37.386603
