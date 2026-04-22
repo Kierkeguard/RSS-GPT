@@ -2331,3 +2331,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [EquiLend's Latest Quarterly Report, The Purple Issue 22: Securities Finance Revenue Hits Record $3.84B In Q1 As Iran Conflict Fuels Fresh Wave Of Short-Selling](http://www.mondovisione.com/media-and-resources/news/equilends-latest-quarterly-report-the-purple-issue-22-securities-finance-reve-2026421/)
 append_entries: 1
 Finish: 2026-04-21 22:41:59.851508
+------------------------------------------------------
+Started: 2026-04-22 03:18:52.039600
+Existing_entries: 382
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-04-22 03:18:53.186639
