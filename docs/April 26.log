@@ -2436,3 +2436,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Getting Firms Fit To Run, Speech By Sheree Howard, UK Financial Conduct Authority, Executive Director Of Authorisations, At The APCC Spring Conference 2026](http://www.mondovisione.com/media-and-resources/news/getting-firms-fit-to-run-speech-by-sheree-howard-uk-financial-conduct-authorit-2026422/)
 append_entries: 4
 Finish: 2026-04-22 19:21:36.551160
+------------------------------------------------------
+Started: 2026-04-22 21:01:34.527300
+Existing_entries: 407
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Trading Technologies To Provide Connectivity To NZX, The National Stock Exchange Of New Zealand - Partnership Will Support NZX's Highly Anticipated Launch Of S&P/NZX 20 Index Futures Contract](http://www.mondovisione.com/media-and-resources/news/trading-technologies-to-provide-connectivity-to-nzx-the-national-stock-exchange-2026422/)
+append_entries: 1
+Finish: 2026-04-22 21:01:35.719246
