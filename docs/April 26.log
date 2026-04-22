@@ -2406,3 +2406,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Mojaloop Appoints Jean Bosco Iyacu As CEO To Lead Next Phase Of Global Growth](http://www.mondovisione.com/media-and-resources/news/mojaloop-appoints-jean-bosco-iyacu-as-ceo-to-lead-next-phase-of-global-growth-2026422/)
 append_entries: 2
 Finish: 2026-04-22 13:55:16.490795
+------------------------------------------------------
+Started: 2026-04-22 15:18:55.963721
+Existing_entries: 403
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-04-22 15:18:57.586869
