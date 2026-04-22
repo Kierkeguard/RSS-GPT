@@ -2418,3 +2418,21 @@ Existing_entries: 403
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-04-22 17:08:22.726888
+------------------------------------------------------
+Started: 2026-04-22 19:21:35.041758
+Existing_entries: 403
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Opening Remarks At The 32nd Annual International Institute For Securities Market Growth And Development, Paul S. Atkins, SEC Chairman, April 22, 2026](http://www.mondovisione.com/media-and-resources/news/opening-remarks-at-the-32nd-annual-international-institute-for-securities-market-2026422/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [GPW Current Report | No. 3/2026](http://www.mondovisione.com/media-and-resources/news/gpw-current-report-no-32026-2026422/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Resolutions For A Better Bahamas - 8 Strategic Resolutions For Strengthening The Bahamian Capital Markets In A Global Context By  Holland Grant, Chief Operating Officer, Bahamas International Securities Exchange](http://www.mondovisione.com/media-and-resources/news/resolutions-for-a-better-bahamas-8-strategic-resolutions-for-strengthening-the-2026422/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Getting Firms Fit To Run, Speech By Sheree Howard, UK Financial Conduct Authority, Executive Director Of Authorisations, At The APCC Spring Conference 2026](http://www.mondovisione.com/media-and-resources/news/getting-firms-fit-to-run-speech-by-sheree-howard-uk-financial-conduct-authorit-2026422/)
+append_entries: 4
+Finish: 2026-04-22 19:21:36.551160
