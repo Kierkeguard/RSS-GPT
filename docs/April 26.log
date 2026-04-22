@@ -2394,3 +2394,15 @@ Append: [UK Government - Consultation Outcome - Consultation: Reforming The Seni
 Append: [Eurex: Q1 2026 Market Review: Long-Term Interest Rates - Q1 Markets Were Driven By Geopolitical Shocks And Renewed Inflation Concerns](http://www.mondovisione.com/media-and-resources/news/eurex-q1-2026-market-review-long-term-interest-rates-q1-markets-were-driven-2026422/)
 append_entries: 9
 Finish: 2026-04-22 11:11:31.570180
+------------------------------------------------------
+Started: 2026-04-22 13:55:15.095581
+Existing_entries: 401
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Government: Unlocking Private Investment To Drive UK Defence As An Engine For Growth](http://www.mondovisione.com/media-and-resources/news/uk-government-unlocking-private-investment-to-drive-uk-defence-as-an-engine-for-2026422/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Mojaloop Appoints Jean Bosco Iyacu As CEO To Lead Next Phase Of Global Growth](http://www.mondovisione.com/media-and-resources/news/mojaloop-appoints-jean-bosco-iyacu-as-ceo-to-lead-next-phase-of-global-growth-2026422/)
+append_entries: 2
+Finish: 2026-04-22 13:55:16.490795
