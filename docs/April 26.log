@@ -2572,3 +2572,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Bruce Markets Reports 66% Monthly Growth, Expanding Share Of Overnight U.S. Equities Trading As Average Notional Per Session Surpasses $500M - Growing Demand For Overnight Access Drives Bruce ATS Monthly Average Volume Per Session Above 10 Million Shares, Monthly Average Symbols Traded On The Platform Climb To 1,837](http://www.mondovisione.com/media-and-resources/news/bruce-markets-reports-66-monthly-growth-expanding-share-of-overnight-us-equi-2026423/)
 append_entries: 1
 Finish: 2026-04-23 19:19:24.543495
+------------------------------------------------------
+Started: 2026-04-23 20:57:26.634620
+Existing_entries: 433
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Comptroller Of The US Currency Gould Statement On Community Bank Leverage Ratio Final Rule](http://www.mondovisione.com/media-and-resources/news/comptroller-of-the-us-currency-gould-statement-on-community-bank-leverage-ratio-2026423/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [U.S. Department Of The Treasury Announces Form 990 Transparency Initiative To Expose Hidden Funding And Strengthen Oversight](http://www.mondovisione.com/media-and-resources/news/us-department-of-the-treasury-announces-form-990-transparency-initiative-to-ex-2026423/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Federal Bank Regulatory Agencies Finalize Changes To Enhance Community Bank Leverage Ratio](http://www.mondovisione.com/media-and-resources/news/us-federal-bank-regulatory-agencies-finalize-changes-to-enhance-community-bank-l-2026423/)
+append_entries: 3
+Finish: 2026-04-23 20:57:27.956580
