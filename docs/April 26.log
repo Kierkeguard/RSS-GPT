@@ -2587,3 +2587,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [US Federal Bank Regulatory Agencies Finalize Changes To Enhance Community Bank Leverage Ratio](http://www.mondovisione.com/media-and-resources/news/us-federal-bank-regulatory-agencies-finalize-changes-to-enhance-community-bank-l-2026423/)
 append_entries: 3
 Finish: 2026-04-23 20:57:27.956580
+------------------------------------------------------
+Started: 2026-04-23 22:53:13.493873
+Existing_entries: 436
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-04-23 22:53:14.342262
