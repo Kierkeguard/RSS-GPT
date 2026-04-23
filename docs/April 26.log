@@ -2563,3 +2563,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Euronext Strengthens Its Commitment To European Strategic Autonomy As Ambassador Of The Belgian Reserve](http://www.mondovisione.com/media-and-resources/news/euronext-strengthens-its-commitment-to-european-strategic-autonomy-as-ambassador-2026423/)
 append_entries: 5
 Finish: 2026-04-23 17:41:26.028351
+------------------------------------------------------
+Started: 2026-04-23 19:19:23.259808
+Existing_entries: 432
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bruce Markets Reports 66% Monthly Growth, Expanding Share Of Overnight U.S. Equities Trading As Average Notional Per Session Surpasses $500M - Growing Demand For Overnight Access Drives Bruce ATS Monthly Average Volume Per Session Above 10 Million Shares, Monthly Average Symbols Traded On The Platform Climb To 1,837](http://www.mondovisione.com/media-and-resources/news/bruce-markets-reports-66-monthly-growth-expanding-share-of-overnight-us-equi-2026423/)
+append_entries: 1
+Finish: 2026-04-23 19:19:24.543495
