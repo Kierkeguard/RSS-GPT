@@ -2542,3 +2542,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Moomoo Launches Agentic Investing With Introduction Of Moomoo API Skills - Bridging AI And Investing By Connecting Personal AI Agents To Moomoo's Trading Platform](http://www.mondovisione.com/media-and-resources/news/moomoo-launches-agentic-investing-with-introduction-of-moomoo-api-skills-bridg-2026423/)
 append_entries: 2
 Finish: 2026-04-23 16:00:07.553894
+------------------------------------------------------
+Started: 2026-04-23 17:41:25.070223
+Existing_entries: 427
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Canadian Securities Administrators Announces Adoption Of Final Amendments To Trading Fee Caps Charged By Marketplaces](http://www.mondovisione.com/media-and-resources/news/canadian-securities-administrators-announces-adoption-of-final-amendments-to-tra-2026423/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The EBA Responds To The Commission’s Proposed Changes To Its Draft Technical Standards On Operational Risk](http://www.mondovisione.com/media-and-resources/news/the-eba-responds-to-the-commissions-proposed-changes-to-its-draft-technical-sta-2026423/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Calls On Law Firms And Claims Management Companies To Consider The Position Of Their Clients](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-calls-on-law-firms-and-claims-management-companie-2026423/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Kongsberg Maritime ASA Lists On Euronext](http://www.mondovisione.com/media-and-resources/news/kongsberg-maritime-asa-lists-on-euronext-2026423/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euronext Strengthens Its Commitment To European Strategic Autonomy As Ambassador Of The Belgian Reserve](http://www.mondovisione.com/media-and-resources/news/euronext-strengthens-its-commitment-to-european-strategic-autonomy-as-ambassador-2026423/)
+append_entries: 5
+Finish: 2026-04-23 17:41:26.028351
