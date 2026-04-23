@@ -2457,3 +2457,21 @@ Existing_entries: 408
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-04-23 03:22:13.685684
+------------------------------------------------------
+Started: 2026-04-23 06:09:09.565159
+Existing_entries: 408
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SGX Stock Exchange Welcomes Kin Global Limited To Catalist](http://www.mondovisione.com/media-and-resources/news/sgx-stock-exchange-welcomes-kin-global-limited-to-catalist-2026423/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NZX Annual Meeting 2026 – Speeches And Presentation](http://www.mondovisione.com/media-and-resources/news/nzx-annual-meeting-2026-speeches-and-presentation-2026423/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Zealand Financial Markets Authority: QEX Director Jingjie Xue Banned And Ordered To Pay A Penalty](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-qex-director-jingjie-xue-banned-and-ord-2026423/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Results Of NZX Limited 2026 Annual Shareholders’ Meeting](http://www.mondovisione.com/media-and-resources/news/results-of-nzx-limited-2026-annual-shareholders-meeting-2026423/)
+append_entries: 4
+Finish: 2026-04-23 06:09:10.643115
