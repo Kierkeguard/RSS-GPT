@@ -2530,3 +2530,15 @@ Append: [Nasdaq Reports First Quarter 2026 Results - Strong Execution Drives Dou
 Append: [UK Generates £1.2bn From Global Carbon Markets As New Report Calls For Government Action To Secure 190x Growth Opportunity](http://www.mondovisione.com/media-and-resources/news/uk-generates-12bn-from-global-carbon-markets-as-new-report-calls-for-governmen-2026423/)
 append_entries: 6
 Finish: 2026-04-23 13:57:00.588762
+------------------------------------------------------
+Started: 2026-04-23 16:00:06.189722
+Existing_entries: 425
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority: Sapia Agrees To Pay More Than £19m To WealthTek Clients After Failing To Protect Client Money](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-sapia-agrees-to-pay-more-than-19m-to-wealthtek-2026423/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Moomoo Launches Agentic Investing With Introduction Of Moomoo API Skills - Bridging AI And Investing By Connecting Personal AI Agents To Moomoo's Trading Platform](http://www.mondovisione.com/media-and-resources/news/moomoo-launches-agentic-investing-with-introduction-of-moomoo-api-skills-bridg-2026423/)
+append_entries: 2
+Finish: 2026-04-23 16:00:07.553894
