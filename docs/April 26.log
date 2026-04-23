@@ -2496,3 +2496,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [London Stock Exchange Group Plc: Q1 2026 Trading Update - Record Performance: Strong Trading Volumes, Good Momentum In Subscription Businesses, High Pace Of New Product Innovation - Full-Year Revenue Growth Expected To Be In The Upper Half Of 6.5-7.5% Guidance Range](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-q1-2026-trading-update-record-performance-st-2026423/)
 append_entries: 5
 Finish: 2026-04-23 09:48:45.269576
+------------------------------------------------------
+Started: 2026-04-23 11:13:38.940678
+Existing_entries: 417
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [AI Innovation Surges As Security Fundamentals Lag, Kroll Research Finds](http://www.mondovisione.com/media-and-resources/news/ai-innovation-surges-as-security-fundamentals-lag-kroll-research-finds-2026423/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FIA Publishes Position Paper On The European Commission’s Market Integration And Supervision Package](http://www.mondovisione.com/media-and-resources/news/fia-publishes-position-paper-on-the-european-commissions-market-integration-and-2026423/)
+append_entries: 2
+Finish: 2026-04-23 11:13:39.885341
