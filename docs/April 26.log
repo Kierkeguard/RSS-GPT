@@ -2508,3 +2508,25 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [FIA Publishes Position Paper On The European Commission’s Market Integration And Supervision Package](http://www.mondovisione.com/media-and-resources/news/fia-publishes-position-paper-on-the-european-commissions-market-integration-and-2026423/)
 append_entries: 2
 Finish: 2026-04-23 11:13:39.885341
+------------------------------------------------------
+Started: 2026-04-23 13:56:58.803123
+Existing_entries: 419
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc Result Of AGM](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-result-of-agm-2026423/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Eurex: Global Exposure And Regional Leverage: U.S. Equity Total Return Futures For European And Asian Investors](http://www.mondovisione.com/media-and-resources/news/eurex-global-exposure-and-regional-leverage-us-equity-total-return-futures-f-2026423/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [EBA Report Shows Persistent Gender Imbalance And Pay Gaps In EU Banking Leadership](http://www.mondovisione.com/media-and-resources/news/eba-report-shows-persistent-gender-imbalance-and-pay-gaps-in-eu-banking-leadersh-2026423/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Announces Increase In Quarterly Dividend To $0.31 Per Share](http://www.mondovisione.com/media-and-resources/news/nasdaq-announces-increase-in-quarterly-dividend-to-031-per-share-2026423/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Reports First Quarter 2026 Results - Strong Execution Drives Double-Digit Net Revenue Growth Across All Divisions](http://www.mondovisione.com/media-and-resources/news/nasdaq-reports-first-quarter-2026-results-strong-execution-drives-double-digit-2026423/)
+Append: [UK Generates £1.2bn From Global Carbon Markets As New Report Calls For Government Action To Secure 190x Growth Opportunity](http://www.mondovisione.com/media-and-resources/news/uk-generates-12bn-from-global-carbon-markets-as-new-report-calls-for-governmen-2026423/)
+append_entries: 6
+Finish: 2026-04-23 13:57:00.588762
