@@ -2475,3 +2475,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Results Of NZX Limited 2026 Annual Shareholders’ Meeting](http://www.mondovisione.com/media-and-resources/news/results-of-nzx-limited-2026-annual-shareholders-meeting-2026423/)
 append_entries: 4
 Finish: 2026-04-23 06:09:10.643115
+------------------------------------------------------
+Started: 2026-04-23 09:48:43.767305
+Existing_entries: 412
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Regains The Lead In The China Construction Bank Global Green Finance Index](http://www.mondovisione.com/media-and-resources/news/london-regains-the-lead-in-the-china-construction-bank-global-green-finance-inde-2026423/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER - Middle East Impact: Filling EU Gas Storage Will Be Expensive In A Competitive LNG Market](http://www.mondovisione.com/media-and-resources/news/acer-middle-east-impact-filling-eu-gas-storage-will-be-expensive-in-a-competi-2026423/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SGX FX And Rand Merchant Bank (RMB) Enter Partnership To Strengthen Global Market Access To African Currencies](http://www.mondovisione.com/media-and-resources/news/sgx-fx-and-rand-merchant-bank-rmb-enter-partnership-to-strengthen-global-marke-2026423/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BMLL Partners With SpiderRock To Expand Cross-Asset Market Analytics](http://www.mondovisione.com/media-and-resources/news/bmll-partners-with-spiderrock-to-expand-cross-asset-market-analytics-2026423/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group Plc: Q1 2026 Trading Update - Record Performance: Strong Trading Volumes, Good Momentum In Subscription Businesses, High Pace Of New Product Innovation - Full-Year Revenue Growth Expected To Be In The Upper Half Of 6.5-7.5% Guidance Range](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-q1-2026-trading-update-record-performance-st-2026423/)
+append_entries: 5
+Finish: 2026-04-23 09:48:45.269576
