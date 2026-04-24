@@ -2640,3 +2640,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [BISON Expands Staking Portfolio To Include Solana](http://www.mondovisione.com/media-and-resources/news/bison-expands-staking-portfolio-to-include-solana-2026424/)
 append_entries: 4
 Finish: 2026-04-24 09:48:49.450701
+------------------------------------------------------
+Started: 2026-04-24 11:10:16.466137
+Existing_entries: 447
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SET Consults Market On Listing Rules Revisions To Attract New Economy And Foreign Companies Until May 8](http://www.mondovisione.com/media-and-resources/news/set-consults-market-on-listing-rules-revisions-to-attract-new-economy-and-foreig-2026424/)
+append_entries: 1
+Finish: 2026-04-24 11:10:17.295217
