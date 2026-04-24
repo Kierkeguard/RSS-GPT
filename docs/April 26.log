@@ -2691,3 +2691,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [European Union New TRM Report - Energy-Efficient Data Centres - A High-Level Overview](http://www.mondovisione.com/media-and-resources/news/european-union-new-trm-report-energy-efficient-data-centres-a-high-level-ov-2026424/)
 append_entries: 3
 Finish: 2026-04-24 17:03:32.579313
+------------------------------------------------------
+Started: 2026-04-24 19:01:12.718976
+Existing_entries: 456
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ISDA - The Swap, Episode 56: Countdown To Treasury Clearing](http://www.mondovisione.com/media-and-resources/news/isda-the-swap-episode-56-countdown-to-treasury-clearing-2026424/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [EU And Partners Sign The Global Green Bond Initiative Fund To Mobilise Up To €20 Billion In Investments For Sustainable Infrastructure](http://www.mondovisione.com/media-and-resources/news/eu-and-partners-sign-the-global-green-bond-initiative-fund-to-mobilise-up-to-20-2026424/)
+append_entries: 2
+Finish: 2026-04-24 19:01:14.137632
