@@ -2599,3 +2599,26 @@ Existing_entries: 436
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-04-24 03:24:40.102166
+------------------------------------------------------
+Started: 2026-04-24 06:11:44.442956
+Existing_entries: 436
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tokyo Stock Exchange Issues “BEYOND BORDERS,” A TSE Listing Handbook For Overseas Startups](http://www.mondovisione.com/media-and-resources/news/tokyo-stock-exchange-issues-beyond-borders-a-tse-listing-handbook-for-oversea-2026424/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Continues Finfluencer Crackdown Alongside Global Regulators](http://www.mondovisione.com/media-and-resources/news/asic-continues-finfluencer-crackdown-alongside-global-regulators-2026424/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The 40th Asian And Oceanian Stock Exchanges Federation General Assembly (GA40)](http://www.mondovisione.com/media-and-resources/news/the-40th-asian-and-oceanian-stock-exchanges-federation-general-assembly-ga40-2026424/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Updates Guidance On Financial Reporting And Audit Relief](http://www.mondovisione.com/media-and-resources/news/asic-updates-guidance-on-financial-reporting-and-audit-relief-2026424/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NZX: Morgan Stanley Accredited As Derivatives Participant](http://www.mondovisione.com/media-and-resources/news/nzx-morgan-stanley-accredited-as-derivatives-participant-2026424/)
+Append: [U.S. Justice Department: U.S. Soldier Charged With Using Classified Information To Profit From Prediction Market Bets - Gannon Ken Van Dyke Allegedly Made More Than $400,000 Trading On Polymarket On The Basis Of Classified Information Regarding The Timing Of A U.S. Military Operation To Capture Nicolás Maduro In Venezuela](http://www.mondovisione.com/media-and-resources/news/us-justice-department-us-soldier-charged-with-using-classified-information-2026424/)
+Append: [CFTC Charges U.S. Service Member With Insider Trading In Nicolás Maduro-Related Event Contracts](http://www.mondovisione.com/media-and-resources/news/cftc-charges-us-service-member-with-insider-trading-in-nicols-maduro-related-2026424/)
+append_entries: 7
+Finish: 2026-04-24 06:11:45.713398
