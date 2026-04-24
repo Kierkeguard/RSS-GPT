@@ -2703,3 +2703,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [EU And Partners Sign The Global Green Bond Initiative Fund To Mobilise Up To €20 Billion In Investments For Sustainable Infrastructure](http://www.mondovisione.com/media-and-resources/news/eu-and-partners-sign-the-global-green-bond-initiative-fund-to-mobilise-up-to-20-2026424/)
 append_entries: 2
 Finish: 2026-04-24 19:01:14.137632
+------------------------------------------------------
+Started: 2026-04-24 20:55:02.942617
+Existing_entries: 458
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [S&P Global 2026 Annual Meeting Of Shareholders To Be Held On May 20](http://www.mondovisione.com/media-and-resources/news/sandp-global-2026-annual-meeting-of-shareholders-to-be-held-on-may-20-2026424/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Announces Mid-Month Open Short Interest Positions In Nasdaq Stocks As Of Settlement Date April 15, 2026](http://www.mondovisione.com/media-and-resources/news/nasdaq-announces-mid-month-open-short-interest-positions-in-nasdaq-stocks-as-of-2026424/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NYSE Group Consolidated Short Interest Report](http://www.mondovisione.com/media-and-resources/news/nyse-group-consolidated-short-interest-report-2026424/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Commitments Of Traders Reports Update](http://www.mondovisione.com/media-and-resources/news/cftc-commitments-of-traders-reports-update-2026424/)
+append_entries: 4
+Finish: 2026-04-24 20:55:04.170021
