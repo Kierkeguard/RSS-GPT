@@ -2676,3 +2676,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Malawi Stock Exchange Weekly Summary Report, 24 April 2026](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-24-april-2026-2026424/)
 append_entries: 5
 Finish: 2026-04-24 15:12:13.252482
+------------------------------------------------------
+Started: 2026-04-24 17:03:31.165933
+Existing_entries: 453
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nigerian Exchange Weekly Market Report For The Week Ended 24 April 2026](http://www.mondovisione.com/media-and-resources/news/nigerian-exchange-weekly-market-report-for-the-week-ended-24-april-2026-2026424/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Green Lighting Capital Formation: Remarks At The SEC International Institute On Capital Formation, SEC Commissioner Hester M. Peirce, Washington D.C., April 24, 2026](http://www.mondovisione.com/media-and-resources/news/green-lighting-capital-formation-remarks-at-the-sec-international-institute-on-2026424/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [European Union New TRM Report - Energy-Efficient Data Centres - A High-Level Overview](http://www.mondovisione.com/media-and-resources/news/european-union-new-trm-report-energy-efficient-data-centres-a-high-level-ov-2026424/)
+append_entries: 3
+Finish: 2026-04-24 17:03:32.579313
