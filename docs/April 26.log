@@ -2622,3 +2622,21 @@ Append: [U.S. Justice Department: U.S. Soldier Charged With Using Classified Inf
 Append: [CFTC Charges U.S. Service Member With Insider Trading In Nicolás Maduro-Related Event Contracts](http://www.mondovisione.com/media-and-resources/news/cftc-charges-us-service-member-with-insider-trading-in-nicols-maduro-related-2026424/)
 append_entries: 7
 Finish: 2026-04-24 06:11:45.713398
+------------------------------------------------------
+Started: 2026-04-24 09:48:48.329912
+Existing_entries: 443
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Consumer Duty Compromise: New Broadridge Research Finds Legacy Regulation Is Undermining Customer Understanding - Comprehension More Than Doubles With Reimagined Communications, Broadridge's Behavioural Science Study Shows](http://www.mondovisione.com/media-and-resources/news/the-consumer-duty-compromise-new-broadridge-research-finds-legacy-regulation-is-2026424/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER’s Updated Unit Investment Indicators Show Rising Energy Infrastructure Costs That Call For Closer Monitoring](http://www.mondovisione.com/media-and-resources/news/acers-updated-unit-investment-indicators-show-rising-energy-infrastructure-cost-2026424/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Spearheads Global Action To Stop Illegal Finfluencers](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-spearheads-global-action-to-stop-illegal-finfluen-2026424/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BISON Expands Staking Portfolio To Include Solana](http://www.mondovisione.com/media-and-resources/news/bison-expands-staking-portfolio-to-include-solana-2026424/)
+append_entries: 4
+Finish: 2026-04-24 09:48:49.450701
