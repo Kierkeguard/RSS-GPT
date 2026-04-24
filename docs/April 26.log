@@ -2655,3 +2655,24 @@ Existing_entries: 448
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-04-24 13:48:26.047566
+------------------------------------------------------
+Started: 2026-04-24 15:12:12.125213
+Existing_entries: 448
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Seasonal Improvements Lowered Mortgage Delinquencies In March While Prepayment Activity Reached Nearly Four-Year High](http://www.mondovisione.com/media-and-resources/news/seasonal-improvements-lowered-mortgage-delinquencies-in-march-while-prepayment-a-2026424/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Dubai Financial Market Regulated Short Sell – Weekly Summary - 20th April 2026 To 24th April 2026](http://www.mondovisione.com/media-and-resources/news/dubai-financial-market-regulated-short-sell-weekly-summary-20th-april-2026-t-2026424/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ECB Signs Agreements With European Standard Setters To Facilitate Digital Euro Payments](http://www.mondovisione.com/media-and-resources/news/ecb-signs-agreements-with-european-standard-setters-to-facilitate-digital-euro-p-2026424/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Joint Committee Of European Supervisory Authorities Annual Report Highlights Digitalisation, Cyber Resilience And Sustainable Finance As Key Priorities Of 2025](http://www.mondovisione.com/media-and-resources/news/joint-committee-of-european-supervisory-authorities-annual-report-highlights-dig-2026424/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Malawi Stock Exchange Weekly Summary Report, 24 April 2026](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-24-april-2026-2026424/)
+append_entries: 5
+Finish: 2026-04-24 15:12:13.252482
