@@ -2775,3 +2775,12 @@ Existing_entries: 466
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-04-25 13:16:04.688006
+------------------------------------------------------
+Started: 2026-04-25 14:49:07.663686
+Existing_entries: 466
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euronext Inaugurates Technology And Support Centre In Athens, Strengthening Its European Technology Footprint](http://www.mondovisione.com/media-and-resources/news/euronext-inaugurates-technology-and-support-centre-in-athens-strengthening-its-2026425/)
+append_entries: 1
+Finish: 2026-04-25 14:49:08.828747
