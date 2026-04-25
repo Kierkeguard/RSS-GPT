@@ -2739,3 +2739,21 @@ Existing_entries: 462
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-04-25 05:50:46.105759
+------------------------------------------------------
+Started: 2026-04-25 07:25:54.048600
+Existing_entries: 462
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Reaffirms Exclusive Jurisdiction Over Prediction Markets in Massachusetts Supreme Judicial Court Filing](http://www.mondovisione.com/media-and-resources/news/cftc-reaffirms-exclusive-jurisdiction-over-prediction-markets-in-massachusetts-s-2026425/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New York Attorney General James And Governor Hochul Defend Enforcement Actions Against Prediction Markets](http://www.mondovisione.com/media-and-resources/news/new-york-attorney-general-james-and-governor-hochul-defend-enforcement-actions-a-2026425/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Sues New York Over Prediction Markets Amid Ongoing Efforts To Preserve Jurisdiction](http://www.mondovisione.com/media-and-resources/news/cftc-sues-new-york-over-prediction-markets-amid-ongoing-efforts-to-preserve-juri-2026425/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Office Of The Comptroller Of The US Currency Issues Two Interim Final Actions Clarifying Bank Powers Under Federal Law And The Preemption Of A Related State Law](http://www.mondovisione.com/media-and-resources/news/office-of-the-comptroller-of-the-us-currency-issues-two-interim-final-actions-cl-2026425/)
+append_entries: 4
+Finish: 2026-04-25 07:25:55.143438
