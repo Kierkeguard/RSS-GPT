@@ -2784,3 +2784,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Euronext Inaugurates Technology And Support Centre In Athens, Strengthening Its European Technology Footprint](http://www.mondovisione.com/media-and-resources/news/euronext-inaugurates-technology-and-support-centre-in-athens-strengthening-its-2026425/)
 append_entries: 1
 Finish: 2026-04-25 14:49:08.828747
+------------------------------------------------------
+Started: 2026-04-25 16:51:18.223236
+Existing_entries: 467
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NGX Group To Hold 65th Annual General Meeting](http://www.mondovisione.com/media-and-resources/news/ngx-group-to-hold-65th-annual-general-meeting-2026425/)
+append_entries: 1
+Finish: 2026-04-25 16:51:19.487061
