@@ -2793,3 +2793,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [NGX Group To Hold 65th Annual General Meeting](http://www.mondovisione.com/media-and-resources/news/ngx-group-to-hold-65th-annual-general-meeting-2026425/)
 append_entries: 1
 Finish: 2026-04-25 16:51:19.487061
+------------------------------------------------------
+Started: 2026-04-25 19:01:09.141556
+Existing_entries: 468
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-04-25 19:01:10.076527
