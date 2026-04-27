@@ -2954,3 +2954,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [GPW Management Board's Request To The Exchange Supervisory Board For An Opinion On The Proposal For Distribution Of The Company's Profit For 2025](http://www.mondovisione.com/media-and-resources/news/gpw-management-boards-request-to-the-exchange-supervisory-board-for-an-opinion-2026427/)
 append_entries: 1
 Finish: 2026-04-27 19:40:19.172188
+------------------------------------------------------
+Started: 2026-04-27 21:07:55.626191
+Existing_entries: 487
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [S&P Global Market Intelligence Data | Top 10 Most Shorted Stocks In The US](http://www.mondovisione.com/media-and-resources/news/sandp-global-market-intelligence-data-top-10-most-shorted-stocks-in-the-us-2026427/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Swaps Report Update](http://www.mondovisione.com/media-and-resources/news/cftc-swaps-report-update-2026427/)
+append_entries: 2
+Finish: 2026-04-27 21:07:56.650576
