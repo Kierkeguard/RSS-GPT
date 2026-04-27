@@ -2908,3 +2908,18 @@ Append: [GlobalData Announces Top M&A Financial And Legal Advisers In Metals & M
 Append: [New Survey Shows US Investment Research Budgets Recover Post-MiFID II, But European Research Spend Languishes](http://www.mondovisione.com/media-and-resources/news/new-survey-shows-us-investment-research-budgets-recover-post-mifid-ii-but-europ-2026427/)
 append_entries: 9
 Finish: 2026-04-27 10:22:14.848348
+------------------------------------------------------
+Started: 2026-04-27 14:06:44.503166
+Existing_entries: 477
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Europe's Race To T+1: Firms Urged To Shift From Planning To Action](http://www.mondovisione.com/media-and-resources/news/europes-race-to-t1-firms-urged-to-shift-from-planning-to-action-2026427/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Board Appoints 2 New Members To The Regulatory Decisions Committee](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-board-appoints-2-new-members-to-the-regulatory-de-2026427/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Consults On Changes To IPO Research Rules](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-consults-on-changes-to-ipo-research-rules-2026427/)
+append_entries: 3
+Finish: 2026-04-27 14:06:46.131374
