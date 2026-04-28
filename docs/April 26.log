@@ -2993,3 +2993,26 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Japan Exchange Group: Progress Of AI Utilization Under Medium-Term Management Plan 2027](http://www.mondovisione.com/media-and-resources/news/japan-exchange-group-progress-of-ai-utilization-under-medium-term-management-pl-2026428/)
 append_entries: 3
 Finish: 2026-04-28 06:33:02.932267
+------------------------------------------------------
+Started: 2026-04-28 10:20:16.864426
+Existing_entries: 492
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HM Treasury And UK Prudential Regulation Authority Performance Reviews](http://www.mondovisione.com/media-and-resources/news/hm-treasury-and-uk-prudential-regulation-authority-performance-reviews-2026428/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Ondo Finance Brings Shareholder Voting Capabilities To Tokenized Securities With Broadridge - Ondo Is Partnering With Broadridge To Enable Holders Of Tokenized Stocks And ETFs To Participate In Proxy Voting And Access Regulatory Filings And Issuer Communications For Underlying Securities](http://www.mondovisione.com/media-and-resources/news/ondo-finance-brings-shareholder-voting-capabilities-to-tokenized-securities-with-2026428/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Deutsche Börse Group Leads Series A Funding In Wealth Management System Provider Performativ](http://www.mondovisione.com/media-and-resources/news/deutsche-brse-group-leads-series-a-funding-in-wealth-management-system-provider-2026428/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CoinShares Fund Flows: Inflows Continue With US$1.2bn, Record Inflows In Blockchain Equities](http://www.mondovisione.com/media-and-resources/news/coinshares-fund-flows-inflows-continue-with-us12bn-record-inflows-in-blockch-2026428/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Securities Commission Malaysia’s RIFAR Youth-Led Challenge To Drive Awareness And Innovation For Malaysia’s Rivers](http://www.mondovisione.com/media-and-resources/news/securities-commission-malaysias-rifar-youth-led-challenge-to-drive-awareness-an-2026428/)
+Append: [Japan Exchange Group: Medium-Term Management Plan 2027 Update For FY2026](http://www.mondovisione.com/media-and-resources/news/japan-exchange-group-medium-term-management-plan-2027-update-for-fy2026-2026428/)
+Append: [Japan Exchange Group: Decision On Matters Regarding Acquisition Of Own Shares](http://www.mondovisione.com/media-and-resources/news/japan-exchange-group-decision-on-matters-regarding-acquisition-of-own-shares-2026428/)
+append_entries: 7
+Finish: 2026-04-28 10:20:17.813016
