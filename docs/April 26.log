@@ -3093,3 +3093,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Robinhood Reports First Quarter 2026 Results](http://www.mondovisione.com/media-and-resources/news/robinhood-reports-first-quarter-2026-results-2026428/)
 append_entries: 1
 Finish: 2026-04-28 21:11:09.716185
+------------------------------------------------------
+Started: 2026-04-28 22:59:28.511230
+Existing_entries: 520
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-04-28 22:59:29.634959
