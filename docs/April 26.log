@@ -2978,3 +2978,18 @@ Existing_entries: 489
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-04-28 03:40:01.617512
+------------------------------------------------------
+Started: 2026-04-28 06:33:01.557679
+Existing_entries: 489
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Japan Exchange Group, Inc. And Consolidated Subsidiaries Consolidated Financial Results For The Fiscal Year Ended March 31, 2026](http://www.mondovisione.com/media-and-resources/news/japan-exchange-group-inc-and-consolidated-subsidiaries-consolidated-financial-2026428/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Shenzhen Stock Exchange Market Bulletin, April 24, 2026, Issue 9](http://www.mondovisione.com/media-and-resources/news/shenzhen-stock-exchange-market-bulletin-april-24-2026-issue-9-2026428/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Japan Exchange Group: Progress Of AI Utilization Under Medium-Term Management Plan 2027](http://www.mondovisione.com/media-and-resources/news/japan-exchange-group-progress-of-ai-utilization-under-medium-term-management-pl-2026428/)
+append_entries: 3
+Finish: 2026-04-28 06:33:02.932267
