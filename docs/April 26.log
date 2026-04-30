@@ -3330,3 +3330,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ISDA Annual General Meeting, April 30, 2026, Welcoming Remarks, Scott O’Malia, ISDA CEO](http://www.mondovisione.com/media-and-resources/news/isda-annual-general-meeting-april-30-2026-welcoming-remarks-scott-omalia-i-2026430/)
 append_entries: 3
 Finish: 2026-04-30 21:06:00.412023
+------------------------------------------------------
+Started: 2026-04-30 22:56:44.429559
+Existing_entries: 579
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Deputy Director Of Enforcement Jason Burt To Conclude His Tenure At The SEC](http://www.mondovisione.com/media-and-resources/news/deputy-director-of-enforcement-jason-burt-to-conclude-his-tenure-at-the-sec-2026430/)
+append_entries: 1
+Finish: 2026-04-30 22:56:45.636405
