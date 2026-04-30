@@ -3214,3 +3214,24 @@ Existing_entries: 547
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-04-30 03:39:12.686272
+------------------------------------------------------
+Started: 2026-04-30 06:31:40.604506
+Existing_entries: 547
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Publication Of The SIX Disclosure Office’s 2025 Annual Report](http://www.mondovisione.com/media-and-resources/news/publication-of-the-six-disclosure-offices-2025-annual-report-2026430/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Apex Group And Truleum Venture Partners Announce DFSA-Regulated Tokenized Fund Launch In DIFC](http://www.mondovisione.com/media-and-resources/news/apex-group-and-truleum-venture-partners-announce-dfsa-regulated-tokenized-fund-l-2026430/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASX Announces Darren Yip As Interim Ceo](http://www.mondovisione.com/media-and-resources/news/asx-announces-darren-yip-as-interim-ceo-2026430/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ISDA AGM Studio: Sebastian ‘Benny’ Crapanzano II And Jacques Vigner](http://www.mondovisione.com/media-and-resources/news/isda-agm-studio-sebastian-benny-crapanzano-ii-and-jacques-vigner-2026430/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ISDA AGM Studio: Event Preview With ISDA CEO Scott O’Malia And ISDA Chair Amy Hong](http://www.mondovisione.com/media-and-resources/news/isda-agm-studio-event-preview-with-isda-ceo-scott-omalia-and-isda-chair-amy-ho-2026430/)
+append_entries: 5
+Finish: 2026-04-30 06:31:41.576459
