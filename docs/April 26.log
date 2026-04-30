@@ -3291,3 +3291,27 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [MNI Indicators: MNI Chicago Business Barometer: April 2026 - Chicago Business Barometer™ - Eased To 49.2 In April](http://www.mondovisione.com/media-and-resources/news/mni-indicators-mni-chicago-business-barometer-april-2026-chicago-business-ba-2026430/)
 append_entries: 4
 Finish: 2026-04-30 17:25:38.657401
+------------------------------------------------------
+Started: 2026-04-30 19:40:15.227290
+Existing_entries: 568
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Yakima Federal Helps Small Businesses Manage Cash Flow More Efficiently - First Experience Digital Deployment Of CashFlow Central Brings Modern, Unified AP And AR Into One Digital Experience](http://www.mondovisione.com/media-and-resources/news/yakima-federal-helps-small-businesses-manage-cash-flow-more-efficiently-first-2026430/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Keynote Remarks At ISDA Annual General Meeting, CFTC Chairman Michael S. Selig, April 30, 2026](http://www.mondovisione.com/media-and-resources/news/keynote-remarks-at-isda-annual-general-meeting-cftc-chairman-michael-s-selig-2026430/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Ontario Securities Commission Proposes Amendments To Fee Rules](http://www.mondovisione.com/media-and-resources/news/ontario-securities-commission-proposes-amendments-to-fee-rules-2026430/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ISDA AGM Studio: Scott O’Malia And Christopher Edmonds, Intercontinental Exchange](http://www.mondovisione.com/media-and-resources/news/isda-agm-studio-scott-omalia-and-christopher-edmonds-intercontinental-exchang-2026430/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nigerian Exchange Weekly Market Report For The Week Ended 30 April 2026](http://www.mondovisione.com/media-and-resources/news/nigerian-exchange-weekly-market-report-for-the-week-ended-30-april-2026-2026430/)
+Append: [Canadian Securities Administrators Issues Temporary Exemptions From Collection Of Certain Personal Registration Information](http://www.mondovisione.com/media-and-resources/news/canadian-securities-administrators-issues-temporary-exemptions-from-collection-o-2026430/)
+Append: [ISDA AGM Studio: Mark New And Bill Borden, Microsoft](http://www.mondovisione.com/media-and-resources/news/isda-agm-studio-mark-new-and-bill-borden-microsoft-2026430/)
+Append: [EACH Encourages Principles Based Reforms To CCP Collateral And Investment Rules](http://www.mondovisione.com/media-and-resources/news/each-encourages-principles-based-reforms-to-ccp-collateral-and-investment-rules-2026430/)
+append_entries: 8
+Finish: 2026-04-30 19:40:16.475054
