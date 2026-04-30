@@ -3235,3 +3235,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ISDA AGM Studio: Event Preview With ISDA CEO Scott O’Malia And ISDA Chair Amy Hong](http://www.mondovisione.com/media-and-resources/news/isda-agm-studio-event-preview-with-isda-ceo-scott-omalia-and-isda-chair-amy-ho-2026430/)
 append_entries: 5
 Finish: 2026-04-30 06:31:41.576459
+------------------------------------------------------
+Started: 2026-04-30 10:10:54.459790
+Existing_entries: 552
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER Calls For Improvements To The 2025 European Resource Adequacy Assessment (ERAA)](http://www.mondovisione.com/media-and-resources/news/acer-calls-for-improvements-to-the-2025-european-resource-adequacy-assessment-e-2026430/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [electrovac AG New In The Prime Standard Of The Frankfurt Stock Exchange](http://www.mondovisione.com/media-and-resources/news/electrovac-ag-new-in-the-prime-standard-of-the-frankfurt-stock-exchange-2026430/)
+append_entries: 2
+Finish: 2026-04-30 10:10:55.669895
