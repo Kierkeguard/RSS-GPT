@@ -3379,3 +3379,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [JPX Monthly Headlines - April 2026](http://www.mondovisione.com/media-and-resources/news/jpx-monthly-headlines-april-2026-202651/)
 append_entries: 2
 Finish: 2026-05-01 09:50:36.580830
+------------------------------------------------------
+Started: 2026-05-01 11:11:19.567439
+Existing_entries: 588
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc - Total Voting Rights](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-total-voting-rights-202651/)
+append_entries: 1
+Finish: 2026-05-01 11:11:20.462071
