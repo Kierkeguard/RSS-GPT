@@ -3388,3 +3388,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [London Stock Exchange Group plc - Total Voting Rights](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-total-voting-rights-202651/)
 append_entries: 1
 Finish: 2026-05-01 11:11:20.462071
+------------------------------------------------------
+Started: 2026-05-01 13:38:01.231582
+Existing_entries: 589
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CBOE First Quarter 2026 Earnings Presentation](http://www.mondovisione.com/media-and-resources/news/cboe-first-quarter-2026-earnings-presentation-202651/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cboe Global Markets Reports Results For First Quarter 2026 And Continued Execution Of Strategic Realignment](http://www.mondovisione.com/media-and-resources/news/cboe-global-markets-reports-results-for-first-quarter-2026-and-continued-executi-202651/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Statement On Legal Challenges To Motor Finance Scheme](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-statement-on-legal-challenges-to-motor-finance-sc-202651/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Broadridge Completes Acquisition Of CQG, Unlocking Globally Connected, Multi-Asset Trading Solutions](http://www.mondovisione.com/media-and-resources/news/broadridge-completes-acquisition-of-cqg-unlocking-globally-connected-multi-ass-202651/)
+append_entries: 4
+Finish: 2026-05-01 13:38:02.737310
