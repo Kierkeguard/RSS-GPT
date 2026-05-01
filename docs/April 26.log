@@ -3454,3 +3454,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [GoQuant Launches GoCredit, Replacing Fragmented Lending Environment With A Unified Marketplace - New Platform Replaces Fragmented Lending Workflows With Real-Time Rate Discovery And Risk Monitoring.](http://www.mondovisione.com/media-and-resources/news/goquant-launches-gocredit-replacing-fragmented-lending-environment-with-a-unifi-202651/)
 append_entries: 2
 Finish: 2026-05-01 19:18:26.230475
+------------------------------------------------------
+Started: 2026-05-01 20:58:08.914739
+Existing_entries: 603
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Commitments Of Traders Reports Update](http://www.mondovisione.com/media-and-resources/news/cftc-commitments-of-traders-reports-update-202651/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC - Self-Regulatory Organizations - New York Stock Exchange LLC - Notice Of Filing And Immediate Effectiveness Of Proposed Rule Change To Amend The Exchange’s Rules To Enable The Trading Of Securities On The Exchange In Tokenized Form](http://www.mondovisione.com/media-and-resources/news/sec-self-regulatory-organizations-new-york-stock-exchange-llc-notice-of-fi-202651/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [U.S. Department Of The Treasury Hosts Liberty University Summit On AI, Energy, And Emerging Technologies](http://www.mondovisione.com/media-and-resources/news/us-department-of-the-treasury-hosts-liberty-university-summit-on-ai-energy-a-202651/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Staff Issues Supplemental Letter Regarding No-Action Position On Reporting, Recordkeeping Requirements](http://www.mondovisione.com/media-and-resources/news/cftc-staff-issues-supplemental-letter-regarding-no-action-position-on-reporting-202651/)
+append_entries: 4
+Finish: 2026-05-01 20:58:09.752633
