@@ -3367,3 +3367,15 @@ Append: [CFTC Seeks Public Comment Relating To Commitments Of Traders Reports](h
 Append: [SIFMA White Paper Calls For New Approach To U.S. Capital Markets Sanctions To Mitigate U.S. Investor Harm And Compliance Burden](http://www.mondovisione.com/media-and-resources/news/sifma-white-paper-calls-for-new-approach-to-us-capital-markets-sanctions-to-mi-202651/)
 append_entries: 6
 Finish: 2026-05-01 06:40:36.662067
+------------------------------------------------------
+Started: 2026-05-01 09:50:35.261755
+Existing_entries: 586
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Japan Exchange Group Trading Overview In April 2026](http://www.mondovisione.com/media-and-resources/news/japan-exchange-group-trading-overview-in-april-2026-202651/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [JPX Monthly Headlines - April 2026](http://www.mondovisione.com/media-and-resources/news/jpx-monthly-headlines-april-2026-202651/)
+append_entries: 2
+Finish: 2026-05-01 09:50:36.580830
