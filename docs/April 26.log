@@ -3406,3 +3406,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Broadridge Completes Acquisition Of CQG, Unlocking Globally Connected, Multi-Asset Trading Solutions](http://www.mondovisione.com/media-and-resources/news/broadridge-completes-acquisition-of-cqg-unlocking-globally-connected-multi-ass-202651/)
 append_entries: 4
 Finish: 2026-05-01 13:38:02.737310
+------------------------------------------------------
+Started: 2026-05-01 15:00:20.904432
+Existing_entries: 593
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIFMA Celebrates Today As National Investing Day](http://www.mondovisione.com/media-and-resources/news/sifma-celebrates-today-as-national-investing-day-202651/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ISDA AGM Studio: Scott O’Malia And David Bailey, Bank Of England Executive Director, Prudential Policy](http://www.mondovisione.com/media-and-resources/news/isda-agm-studio-scott-omalia-and-david-bailey-bank-of-england-executive-direc-202651/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Exegy Nexus™ And nxAccess Win ‘Most Innovative Solution For Front-Office/Trading’ 2026](http://www.mondovisione.com/media-and-resources/news/exegy-nexus-and-nxaccess-win-most-innovative-solution-for-front-officetrading-202651/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ISDA AGM Studio: Harleen Bains And Sonali Das Theisen](http://www.mondovisione.com/media-and-resources/news/isda-agm-studio-harleen-bains-and-sonali-das-theisen-202651/)
+append_entries: 4
+Finish: 2026-05-01 15:00:22.544692
