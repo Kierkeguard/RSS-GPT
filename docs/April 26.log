@@ -3424,3 +3424,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ISDA AGM Studio: Harleen Bains And Sonali Das Theisen](http://www.mondovisione.com/media-and-resources/news/isda-agm-studio-harleen-bains-and-sonali-das-theisen-202651/)
 append_entries: 4
 Finish: 2026-05-01 15:00:22.544692
+------------------------------------------------------
+Started: 2026-05-01 17:02:07.040227
+Existing_entries: 597
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Fiserv Named A Charter Member Of The x402 Foundation - New Foundation To Serve As Home For Open x402 Protocol For Internet-Native Payments](http://www.mondovisione.com/media-and-resources/news/fiserv-named-a-charter-member-of-the-x402-foundation-new-foundation-to-serve-a-202651/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Ontario Securities Commission: Jimmy Delinis Pleads Guilty In $1.3 Million Investment Scheme](http://www.mondovisione.com/media-and-resources/news/ontario-securities-commission-jimmy-delinis-pleads-guilty-in-13-million-inves-202651/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Federal Bank Regulatory Agencies Issue Host State Loan-To-Deposit Ratios](http://www.mondovisione.com/media-and-resources/news/us-federal-bank-regulatory-agencies-issue-host-state-loan-to-deposit-ratios-202651/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Dubai Financial Market Regulated Short Sell – Weekly Summary - 27th April 2026 To 1st May 2026](http://www.mondovisione.com/media-and-resources/news/dubai-financial-market-regulated-short-sell-weekly-summary-27th-april-2026-t-202651/)
+append_entries: 4
+Finish: 2026-05-01 17:02:08.416840
