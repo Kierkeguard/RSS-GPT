@@ -3345,3 +3345,25 @@ Existing_entries: 580
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-05-01 03:52:00.997047
+------------------------------------------------------
+Started: 2026-05-01 06:40:35.280491
+Existing_entries: 580
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bursa Malaysia Announces New Islamic Capital Market Director](http://www.mondovisione.com/media-and-resources/news/bursa-malaysia-announces-new-islamic-capital-market-director-202651/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tokyo Financial Exchange Trading Volume In April 2026](http://www.mondovisione.com/media-and-resources/news/tokyo-financial-exchange-trading-volume-in-april-2026-202651/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Zealand Financial Markets Authority Discontinues CBL IPO Proceeding Against The Hutchison Estate](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-discontinues-cbl-ipo-proceeding-against-202651/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NZX Revenue & Shareholder Metrics - Q1 2026](http://www.mondovisione.com/media-and-resources/news/nzx-revenue-and-shareholder-metrics-q1-2026-202651/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Seeks Public Comment Relating To Commitments Of Traders Reports](http://www.mondovisione.com/media-and-resources/news/cftc-seeks-public-comment-relating-to-commitments-of-traders-reports-202651/)
+Append: [SIFMA White Paper Calls For New Approach To U.S. Capital Markets Sanctions To Mitigate U.S. Investor Harm And Compliance Burden](http://www.mondovisione.com/media-and-resources/news/sifma-white-paper-calls-for-new-approach-to-us-capital-markets-sanctions-to-mi-202651/)
+append_entries: 6
+Finish: 2026-05-01 06:40:36.662067
