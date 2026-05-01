@@ -3472,3 +3472,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CFTC Staff Issues Supplemental Letter Regarding No-Action Position On Reporting, Recordkeeping Requirements](http://www.mondovisione.com/media-and-resources/news/cftc-staff-issues-supplemental-letter-regarding-no-action-position-on-reporting-202651/)
 append_entries: 4
 Finish: 2026-05-01 20:58:09.752633
+------------------------------------------------------
+Started: 2026-05-01 22:54:00.298026
+Existing_entries: 607
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Secures Judgment Against Michigan Commodity Pool Operator And His Company Engaged In Fraud Scheme](http://www.mondovisione.com/media-and-resources/news/cftc-secures-judgment-against-michigan-commodity-pool-operator-and-his-company-e-202651/)
+append_entries: 1
+Finish: 2026-05-01 22:54:01.173651
