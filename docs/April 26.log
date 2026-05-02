@@ -3481,3 +3481,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CFTC Secures Judgment Against Michigan Commodity Pool Operator And His Company Engaged In Fraud Scheme](http://www.mondovisione.com/media-and-resources/news/cftc-secures-judgment-against-michigan-commodity-pool-operator-and-his-company-e-202651/)
 append_entries: 1
 Finish: 2026-05-01 22:54:01.173651
+------------------------------------------------------
+Started: 2026-05-02 03:25:31.061460
+Existing_entries: 608
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-05-02 03:25:32.185259
