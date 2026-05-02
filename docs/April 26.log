@@ -3487,3 +3487,15 @@ Existing_entries: 608
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-05-02 03:25:32.185259
+------------------------------------------------------
+Started: 2026-05-02 06:11:03.518511
+Existing_entries: 608
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [WSJ Letter To Editor | Prediction Markets Aren’t A New Vegas, CFTC Chairman Michael S. Selig, Washington, DC | May 01, 2026](http://www.mondovisione.com/media-and-resources/news/wsj-letter-to-editor-prediction-markets-arent-a-new-vegas-cftc-chairman-mich-202652/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIFMA Submits Recommendations To The OCC On Implementation Of The GENIUS Act](http://www.mondovisione.com/media-and-resources/news/sifma-submits-recommendations-to-the-occ-on-implementation-of-the-genius-act-202652/)
+append_entries: 2
+Finish: 2026-05-02 06:11:04.403915
