@@ -3583,3 +3583,12 @@ Existing_entries: 610
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-05-03 14:53:13.438143
+------------------------------------------------------
+Started: 2026-05-03 16:57:16.784176
+Existing_entries: 610
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Amid Exceptional Geopolitical Challenges, Boursa Kuwait Records A Net Profit Of KD 5.99 Million In The First Quarter Of 2026](http://www.mondovisione.com/media-and-resources/news/amid-exceptional-geopolitical-challenges-boursa-kuwait-records-a-net-profit-of-202653/)
+append_entries: 1
+Finish: 2026-05-03 16:57:17.551593
