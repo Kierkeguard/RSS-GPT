@@ -3616,3 +3616,18 @@ Existing_entries: 611
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-05-04 03:41:50.154168
+------------------------------------------------------
+Started: 2026-05-04 06:43:48.326448
+Existing_entries: 611
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC: Deadline Looms For Digital Asset Businesses To Apply For A Licence](http://www.mondovisione.com/media-and-resources/news/asic-deadline-looms-for-digital-asset-businesses-to-apply-for-a-licence-202654/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Joint Statement Of The 29th ASEAN+3 Finance Ministers’ And Central Bank Governors’ Meeting](http://www.mondovisione.com/media-and-resources/news/joint-statement-of-the-29th-asean3-finance-ministers-and-central-bank-governor-202654/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Qatar Stock Exchange Listed Companies Reported QR 12.76 Billion Net Profits For The Q1, 2026](http://www.mondovisione.com/media-and-resources/news/qatar-stock-exchange-listed-companies-reported-qr-1276-billion-net-profits-for-202654/)
+append_entries: 3
+Finish: 2026-05-04 06:43:49.234380
