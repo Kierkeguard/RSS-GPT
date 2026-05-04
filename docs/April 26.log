@@ -3694,3 +3694,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Digital Assets, Payment Efficiency And Monetary Policy - Speech By Piero Cipollone, Member Of The Executive Board Of The ECB, At A Workshop On Digital Assets And Monetary Policy Transmission Organised By The European Central Bank, Banca d’Italia, The Euro Area Business Cycle Network And The Centre For Economic Policy Research](http://www.mondovisione.com/media-and-resources/news/digital-assets-payment-efficiency-and-monetary-policy-speech-by-piero-cipollo-202654/)
 append_entries: 4
 Finish: 2026-05-04 17:44:59.115451
+------------------------------------------------------
+Started: 2026-05-04 19:47:00.730584
+Existing_entries: 631
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [U.S. Department Of The Treasury Announces Marketable Borrowing Estimates](http://www.mondovisione.com/media-and-resources/news/us-department-of-the-treasury-announces-marketable-borrowing-estimates-202654/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [S&P Global Market Intelligence Data | Top 10 Most Shorted Stocks In The US](http://www.mondovisione.com/media-and-resources/news/sandp-global-market-intelligence-data-top-10-most-shorted-stocks-in-the-us-202654/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Federal Reserve: Senior Loan Officer Opinion Survey On Bank Lending Practices](http://www.mondovisione.com/media-and-resources/news/us-federal-reserve-senior-loan-officer-opinion-survey-on-bank-lending-practices-202654/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Regulators And Audit Leaders Discuss Audit Quality And Confidence In Canada’s Financial Reporting](http://www.mondovisione.com/media-and-resources/news/regulators-and-audit-leaders-discuss-audit-quality-and-confidence-in-canadas-fi-202654/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Office Of The Comptroller Of The US Currency Releases CRA Performance Evaluations For 21 National Banks And Federal Savings Associations](http://www.mondovisione.com/media-and-resources/news/office-of-the-comptroller-of-the-us-currency-releases-cra-performance-evaluation-202654/)
+append_entries: 5
+Finish: 2026-05-04 19:47:01.907896
