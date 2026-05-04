@@ -3652,3 +3652,27 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [MENA Fintech Association Welcomes Intellect As A Member Of Its Wealth Management Working Group](http://www.mondovisione.com/media-and-resources/news/mena-fintech-association-welcomes-intellect-as-a-member-of-its-wealth-management-202654/)
 append_entries: 5
 Finish: 2026-05-04 10:17:53.292631
+------------------------------------------------------
+Started: 2026-05-04 14:14:59.533331
+Existing_entries: 619
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [OCC April 2026 Monthly Volume Report](http://www.mondovisione.com/media-and-resources/news/occ-april-2026-monthly-volume-report-202654/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Deutsche Börse Trading Volumes In April 2026](http://www.mondovisione.com/media-and-resources/news/deutsche-brse-trading-volumes-in-april-2026-202654/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Boerse Stuttgart Records April Turnover Of Around EUR 17 Billion - Increases In Structured Securities, Equities And Bonds Compared To The Same Month Of The Previous Year](http://www.mondovisione.com/media-and-resources/news/boerse-stuttgart-records-april-turnover-of-around-eur-17-billion-increases-in-202654/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Higher Prices Sustained Small Business Sales Growth In April, Fiserv Data Shows - Fiserv Small Business Index Remains Steady At 144 - Year-Over-Year Sales Grew +1.1%](http://www.mondovisione.com/media-and-resources/news/higher-prices-sustained-small-business-sales-growth-in-april-fiserv-data-shows-202654/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Nordic And Baltic Markets: Trading Statistics April 2026](http://www.mondovisione.com/media-and-resources/news/nasdaq-nordic-and-baltic-markets-trading-statistics-april-2026-202654/)
+Append: [DTCC Advances Development Of New Tokenization Service, Convenes 50+ Firms To Drive Digital Assets Adoption - DTCC To Facilitate Initial, Limited Production Trades Of Securities Tokenized Via DTC's Tokenization Service In July 2026, With Plans To Launch The Service In October 2026](http://www.mondovisione.com/media-and-resources/news/dtcc-advances-development-of-new-tokenization-service-convenes-50-firms-to-dri-202654/)
+Append: [CME Group Reports April 2026 ADV Of 25.9 Million Contracts](http://www.mondovisione.com/media-and-resources/news/cme-group-reports-april-2026-adv-of-259-million-contracts-202654/)
+Append: [World Economic Forum: New Report Shows How AI Gives Cybersecurity Competitive Advantage](http://www.mondovisione.com/media-and-resources/news/world-economic-forum-new-report-shows-how-ai-gives-cybersecurity-competitive-202654/)
+append_entries: 8
+Finish: 2026-05-04 14:15:00.589282
