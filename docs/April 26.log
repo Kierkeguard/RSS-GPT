@@ -3631,3 +3631,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Qatar Stock Exchange Listed Companies Reported QR 12.76 Billion Net Profits For The Q1, 2026](http://www.mondovisione.com/media-and-resources/news/qatar-stock-exchange-listed-companies-reported-qr-1276-billion-net-profits-for-202654/)
 append_entries: 3
 Finish: 2026-05-04 06:43:49.234380
+------------------------------------------------------
+Started: 2026-05-04 10:17:51.911278
+Existing_entries: 614
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIX Exchanges Figures: April 2026](http://www.mondovisione.com/media-and-resources/news/six-exchanges-figures-april-2026-202654/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Venture Capital Gains Fail To Offset M&A And Private Equity Slowdown In Q1 2026, Reveals GlobalData](http://www.mondovisione.com/media-and-resources/news/venture-capital-gains-fail-to-offset-manda-and-private-equity-slowdown-in-q1-2026-202654/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NSE Indices Fixed Income Index Dashboard For The Month Ended April 2026](http://www.mondovisione.com/media-and-resources/news/nse-indices-fixed-income-index-dashboard-for-the-month-ended-april-2026-202654/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BIS: Stablecoins, Financial Health And Cyber Risks](http://www.mondovisione.com/media-and-resources/news/bis-stablecoins-financial-health-and-cyber-risks-202654/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MENA Fintech Association Welcomes Intellect As A Member Of Its Wealth Management Working Group](http://www.mondovisione.com/media-and-resources/news/mena-fintech-association-welcomes-intellect-as-a-member-of-its-wealth-management-202654/)
+append_entries: 5
+Finish: 2026-05-04 10:17:53.292631
