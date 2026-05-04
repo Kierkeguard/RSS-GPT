@@ -3715,3 +3715,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Office Of The Comptroller Of The US Currency Releases CRA Performance Evaluations For 21 National Banks And Federal Savings Associations](http://www.mondovisione.com/media-and-resources/news/office-of-the-comptroller-of-the-us-currency-releases-cra-performance-evaluation-202654/)
 append_entries: 5
 Finish: 2026-05-04 19:47:01.907896
+------------------------------------------------------
+Started: 2026-05-04 21:12:35.530503
+Existing_entries: 636
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tug Of War Predictions And Options, By Kelvin To, Founder And President Of Data Boiler Technologies](http://www.mondovisione.com/media-and-resources/news/tug-of-war-predictions-and-options-by-kelvin-to-founder-and-president-of-data-202654/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Swaps Report Update](http://www.mondovisione.com/media-and-resources/news/cftc-swaps-report-update-202654/)
+append_entries: 2
+Finish: 2026-05-04 21:12:36.700226
