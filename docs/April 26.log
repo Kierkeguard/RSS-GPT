@@ -3840,3 +3840,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Fixing Failures To Communicate, Jamie Selway, Director, SEC Division Of Trading And Markets, Options Industry Conference, Palm Beach Gardens, Florida, May 5, 2026](http://www.mondovisione.com/media-and-resources/news/fixing-failures-to-communicate-jamie-selway-director-sec-division-of-trading-202655/)
 append_entries: 4
 Finish: 2026-05-05 21:07:30.331020
+------------------------------------------------------
+Started: 2026-05-05 22:59:24.265084
+Existing_entries: 671
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-05-05 22:59:25.676327
