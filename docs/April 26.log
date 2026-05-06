@@ -3962,3 +3962,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CME Group Announces First Trades Of New Avalanche And Sui Cryptocurrency Futures between G-20 Group And FalconX](http://www.mondovisione.com/media-and-resources/news/cme-group-announces-first-trades-of-new-avalanche-and-sui-cryptocurrency-futures-202656/)
 append_entries: 3
 Finish: 2026-05-06 21:14:32.310950
+------------------------------------------------------
+Started: 2026-05-06 22:55:33.620446
+Existing_entries: 701
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [U.S. Financial Stability Oversight Council Meeting](http://www.mondovisione.com/media-and-resources/news/us-financial-stability-oversight-council-meeting-202656/)
+append_entries: 1
+Finish: 2026-05-06 22:55:35.057539
