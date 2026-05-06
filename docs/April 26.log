@@ -3852,3 +3852,18 @@ Existing_entries: 671
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-05-06 03:38:39.893383
+------------------------------------------------------
+Started: 2026-05-06 06:34:03.889919
+Existing_entries: 671
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [PNGX Markets Limited Celebrates The Listing Of Papua New Guinea’s First Wholesale Corporate Bond](http://www.mondovisione.com/media-and-resources/news/pngx-markets-limited-celebrates-the-listing-of-papua-new-guineas-first-wholesal-202656/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Divisions Of Investment Management And Corporation Finance Issue Staff Guidance Supporting Retirement Plans For Small Businesses](http://www.mondovisione.com/media-and-resources/news/sec-divisions-of-investment-management-and-corporation-finance-issue-staff-guida-202656/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Facilitating Access To Trump Accounts, Paul S. Atkins, SEC Chairman](http://www.mondovisione.com/media-and-resources/news/facilitating-access-to-trump-accounts-paul-s-atkins-sec-chairman-202656/)
+append_entries: 3
+Finish: 2026-05-06 06:34:04.905247
