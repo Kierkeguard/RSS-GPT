@@ -3938,3 +3938,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Speech By European Commissioner Albuquerque At Better Finance's International Conference: Integrating Europe's Capital Markets: Delivering For Retail Investors](http://www.mondovisione.com/media-and-resources/news/speech-by-european-commissioner-albuquerque-at-better-finances-international-co-202656/)
 append_entries: 5
 Finish: 2026-05-06 17:45:14.831433
+------------------------------------------------------
+Started: 2026-05-06 19:51:57.495851
+Existing_entries: 697
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TMX Group Announces Election Of Directors](http://www.mondovisione.com/media-and-resources/news/tmx-group-announces-election-of-directors-202656/)
+append_entries: 1
+Finish: 2026-05-06 19:51:58.623014
