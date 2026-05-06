@@ -3917,3 +3917,24 @@ Append: [ACER Provides Its Opinions On Derogations From EU Gas Network Codes At 
 Append: [MarketAxess Announces Trading Volume Statistics For April 2026](http://www.mondovisione.com/media-and-resources/news/marketaxess-announces-trading-volume-statistics-for-april-2026-202656/)
 append_entries: 8
 Finish: 2026-05-06 14:26:20.452441
+------------------------------------------------------
+Started: 2026-05-06 17:45:13.835968
+Existing_entries: 692
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group Launches New Benchmark To Track Overnight Funding Costs - The U.S. Dollar RepoFunds Rate Provides A One-Day, Risk-Free Rate Based On Centrally Cleared U.S. Repo Trades Transacted On BrokerTec](http://www.mondovisione.com/media-and-resources/news/cme-group-launches-new-benchmark-to-track-overnight-funding-costs-the-us-dol-202656/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Ontario Securities Commission Issues 2026 Risk Assessment Questionnaire](http://www.mondovisione.com/media-and-resources/news/ontario-securities-commission-issues-2026-risk-assessment-questionnaire-202656/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Orders New York Trader To Pay $200,000 For Spoofing](http://www.mondovisione.com/media-and-resources/news/cftc-orders-new-york-trader-to-pay-200000-for-spoofing-202656/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESMA Promotes Proportionate Supervision Of MiFID II Sustainability Requirements](http://www.mondovisione.com/media-and-resources/news/esma-promotes-proportionate-supervision-of-mifid-ii-sustainability-requirements-202656/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Speech By European Commissioner Albuquerque At Better Finance's International Conference: Integrating Europe's Capital Markets: Delivering For Retail Investors](http://www.mondovisione.com/media-and-resources/news/speech-by-european-commissioner-albuquerque-at-better-finances-international-co-202656/)
+append_entries: 5
+Finish: 2026-05-06 17:45:14.831433
