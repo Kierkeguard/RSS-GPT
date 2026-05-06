@@ -3947,3 +3947,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [TMX Group Announces Election Of Directors](http://www.mondovisione.com/media-and-resources/news/tmx-group-announces-election-of-directors-202656/)
 append_entries: 1
 Finish: 2026-05-06 19:51:58.623014
+------------------------------------------------------
+Started: 2026-05-06 21:14:30.532090
+Existing_entries: 698
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Miami International Holdings Reports First Quarter 2026 Results](http://www.mondovisione.com/media-and-resources/news/miami-international-holdings-reports-first-quarter-2026-results-202656/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Miami International Holdings Reports Trading Results For April 2026 - MIAX Exchange Group Reports 23.9% Increase In Multi-List Options ADV YTD](http://www.mondovisione.com/media-and-resources/news/miami-international-holdings-reports-trading-results-for-april-2026-miax-excha-202656/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group Announces First Trades Of New Avalanche And Sui Cryptocurrency Futures between G-20 Group And FalconX](http://www.mondovisione.com/media-and-resources/news/cme-group-announces-first-trades-of-new-avalanche-and-sui-cryptocurrency-futures-202656/)
+append_entries: 3
+Finish: 2026-05-06 21:14:32.310950
