@@ -3992,3 +3992,26 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SEC Charges 21 Individuals With Alleged Wide-Reaching Insider Trading Scheme](http://www.mondovisione.com/media-and-resources/news/sec-charges-21-individuals-with-alleged-wide-reaching-insider-trading-scheme-202657/)
 append_entries: 3
 Finish: 2026-05-07 06:41:43.726598
+------------------------------------------------------
+Started: 2026-05-07 10:28:52.477953
+Existing_entries: 705
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SET Market Report For April 2026](http://www.mondovisione.com/media-and-resources/news/set-market-report-for-april-2026-202657/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Keystone Management Opens Trading On TASE In Celebration Of Its Joining TASE’s TA-90 Flagship Index](http://www.mondovisione.com/media-and-resources/news/keystone-management-opens-trading-on-tase-in-celebration-of-its-joining-tases-t-202657/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Securities Commission Malaysia’s investED Expands Capital Market Talent Pool With 65% Of Participants Landing Jobs](http://www.mondovisione.com/media-and-resources/news/securities-commission-malaysias-invested-expands-capital-market-talent-pool-wit-202657/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ISI Launches New Platform To Redefine Corporate Debt Intelligence In Emerging Markets](http://www.mondovisione.com/media-and-resources/news/isi-launches-new-platform-to-redefine-corporate-debt-intelligence-in-emerging-ma-202657/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Stockholm Welcomes Silex Microsystems AB To The Main Market](http://www.mondovisione.com/media-and-resources/news/nasdaq-stockholm-welcomes-silex-microsystems-ab-to-the-main-market-202657/)
+Append: [LiVEx Marks 4-Year Milestone With Investor Day 2026, Focusing On Thailand's New Economy](http://www.mondovisione.com/media-and-resources/news/livex-marks-4-year-milestone-with-investor-day-2026-focusing-on-thailands-new-202657/)
+Append: [Shenzhen Stock Exchange Market Bulletin, April 30, 2026, Issue 10](http://www.mondovisione.com/media-and-resources/news/shenzhen-stock-exchange-market-bulletin-april-30-2026-issue-10-202657/)
+append_entries: 7
+Finish: 2026-05-07 10:28:53.600083
