@@ -4068,3 +4068,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [U.S. Department Of The Treasury Hosts Convening with State Insurance Commissioners On Private Credit And The Insurance Sector](http://www.mondovisione.com/media-and-resources/news/us-department-of-the-treasury-hosts-convening-with-state-insurance-commissione-202657/)
 append_entries: 1
 Finish: 2026-05-07 19:46:58.359206
+------------------------------------------------------
+Started: 2026-05-07 21:08:02.278396
+Existing_entries: 725
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FIA Report: The Pathway To 24/7 Trading And Clearing](http://www.mondovisione.com/media-and-resources/news/fia-report-the-pathway-to-247-trading-and-clearing-202657/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Remarks At The 13th Annual Conference On Financial Market Regulation, SEC Commissioner Mark T. Uyeda, Washington D.C., May 7, 2026](http://www.mondovisione.com/media-and-resources/news/remarks-at-the-13th-annual-conference-on-financial-market-regulation-sec-commis-202657/)
+append_entries: 2
+Finish: 2026-05-07 21:08:04.066706
