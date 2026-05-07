@@ -4059,3 +4059,12 @@ Append: [The EBA Amends Guidelines On The Definition Of Default](http://www.mond
 Append: [Bitzero Holdings Inc. Announces Application To List On NASDAQ](http://www.mondovisione.com/media-and-resources/news/bitzero-holdings-inc-announces-application-to-list-on-nasdaq-202657/)
 append_entries: 7
 Finish: 2026-05-07 17:51:58.494192
+------------------------------------------------------
+Started: 2026-05-07 19:46:56.899100
+Existing_entries: 724
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [U.S. Department Of The Treasury Hosts Convening with State Insurance Commissioners On Private Credit And The Insurance Sector](http://www.mondovisione.com/media-and-resources/news/us-department-of-the-treasury-hosts-convening-with-state-insurance-commissione-202657/)
+append_entries: 1
+Finish: 2026-05-07 19:46:58.359206
