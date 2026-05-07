@@ -3977,3 +3977,18 @@ Existing_entries: 702
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-05-07 03:38:43.877005
+------------------------------------------------------
+Started: 2026-05-07 06:41:42.047895
+Existing_entries: 702
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Oral Reply To Singapore Parliamentary Question On The Effects Of Singapore Dollar Strengthening And Exchange Rate Stability](http://www.mondovisione.com/media-and-resources/news/oral-reply-to-singapore-parliamentary-question-on-the-effects-of-singapore-dolla-202657/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Power Of Public Accountability - Keynote Address By ASIC Chair Joe Longo At The 2026 Financial Counselling Australia Conference In Cairns On 7 May 2026](http://www.mondovisione.com/media-and-resources/news/the-power-of-public-accountability-keynote-address-by-asic-chair-joe-longo-at-202657/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Charges 21 Individuals With Alleged Wide-Reaching Insider Trading Scheme](http://www.mondovisione.com/media-and-resources/news/sec-charges-21-individuals-with-alleged-wide-reaching-insider-trading-scheme-202657/)
+append_entries: 3
+Finish: 2026-05-07 06:41:43.726598
