@@ -4080,3 +4080,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Remarks At The 13th Annual Conference On Financial Market Regulation, SEC Commissioner Mark T. Uyeda, Washington D.C., May 7, 2026](http://www.mondovisione.com/media-and-resources/news/remarks-at-the-13th-annual-conference-on-financial-market-regulation-sec-commis-202657/)
 append_entries: 2
 Finish: 2026-05-07 21:08:04.066706
+------------------------------------------------------
+Started: 2026-05-07 23:03:09.430514
+Existing_entries: 727
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Office Of The Comptroller Of The US Currency’s Semiannual Risk Perspective Highlights Key Risks In Federal Banking System](http://www.mondovisione.com/media-and-resources/news/office-of-the-comptroller-of-the-us-currencys-semiannual-risk-perspective-highl-202657/)
+append_entries: 1
+Finish: 2026-05-07 23:03:11.095336
