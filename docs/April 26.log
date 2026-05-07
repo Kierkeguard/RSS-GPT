@@ -3971,3 +3971,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [U.S. Financial Stability Oversight Council Meeting](http://www.mondovisione.com/media-and-resources/news/us-financial-stability-oversight-council-meeting-202656/)
 append_entries: 1
 Finish: 2026-05-06 22:55:35.057539
+------------------------------------------------------
+Started: 2026-05-07 03:38:42.473369
+Existing_entries: 702
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-05-07 03:38:43.877005
