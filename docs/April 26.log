@@ -4131,3 +4131,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Taiwan Futures Exchange Newsletter - May 2026](http://www.mondovisione.com/media-and-resources/news/taiwan-futures-exchange-newsletter-may-2026-202658/)
 append_entries: 1
 Finish: 2026-05-08 11:22:24.475416
+------------------------------------------------------
+Started: 2026-05-08 14:01:16.180114
+Existing_entries: 734
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER: The Ireland And Northern Ireland Adequacy Assessment Highlights Interconnection As Central To Security Of Electricity Supply](http://www.mondovisione.com/media-and-resources/news/acer-the-ireland-and-northern-ireland-adequacy-assessment-highlights-interconne-202658/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER Welcomes NRAs’ REMIT Enforcement And Calls For Targeted Improvements In Surveillance By Trading Intermediaries](http://www.mondovisione.com/media-and-resources/news/acer-welcomes-nras-remit-enforcement-and-calls-for-targeted-improvements-in-sur-202658/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Perspectives On Tokenization And Implications For The Financial System, Federal Reserve Governor Lisa D. Cook, At The Central Bank Of West African States (BCEAO) Conference On Digital Assets, Dakar, Senegal](http://www.mondovisione.com/media-and-resources/news/perspectives-on-tokenization-and-implications-for-the-financial-system-federal-202658/)
+append_entries: 3
+Finish: 2026-05-08 14:01:17.246045
