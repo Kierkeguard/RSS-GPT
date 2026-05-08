@@ -4170,3 +4170,24 @@ Append: [Malawi Stock Exchange Weekly Summary Report, 08 May 2026](http://www.mo
 Append: [EEX Group Monthly Volumes – April 2026](http://www.mondovisione.com/media-and-resources/news/eex-group-monthly-volumes-april-2026-202658/)
 append_entries: 8
 Finish: 2026-05-08 17:24:22.962404
+------------------------------------------------------
+Started: 2026-05-08 19:26:05.893258
+Existing_entries: 745
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nigerian Exchange Weekly Market Report For The Week Ended 08 May 2026](http://www.mondovisione.com/media-and-resources/news/nigerian-exchange-weekly-market-report-for-the-week-ended-08-may-2026-202658/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Dad Jokes: Remarks At The 13th Annual Conference On Financial Markets Regulation, SEC Commissioner Hester M. Peirce, May 8, 2026](http://www.mondovisione.com/media-and-resources/news/dad-jokes-remarks-at-the-13th-annual-conference-on-financial-markets-regulation-202658/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIFMA Fixed Income Market Close Recommendations In The U.S., The U.K., And Japan For The U.S. Memorial Day Holiday](http://www.mondovisione.com/media-and-resources/news/sifma-fixed-income-market-close-recommendations-in-the-us-the-uk-and-japan-202658/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Remarks At The Conference On Financial Market Regulation, Paul S. Atkins, SEC Chairman, Washington D.C., May 8, 2026](http://www.mondovisione.com/media-and-resources/news/remarks-at-the-conference-on-financial-market-regulation-paul-s-atkins-sec-ch-202658/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ISDA AGM Studio: Darcy Bradbury And Tyler Wellensiek](http://www.mondovisione.com/media-and-resources/news/isda-agm-studio-darcy-bradbury-and-tyler-wellensiek-202658/)
+append_entries: 5
+Finish: 2026-05-08 19:26:07.049858
