@@ -4089,3 +4089,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Office Of The Comptroller Of The US Currency’s Semiannual Risk Perspective Highlights Key Risks In Federal Banking System](http://www.mondovisione.com/media-and-resources/news/office-of-the-comptroller-of-the-us-currencys-semiannual-risk-perspective-highl-202657/)
 append_entries: 1
 Finish: 2026-05-07 23:03:11.095336
+------------------------------------------------------
+Started: 2026-05-08 03:33:03.397451
+Existing_entries: 728
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-05-08 03:33:05.154803
