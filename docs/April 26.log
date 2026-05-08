@@ -4101,3 +4101,24 @@ Existing_entries: 728
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-05-08 06:01:29.425562
+------------------------------------------------------
+Started: 2026-05-08 09:44:13.227392
+Existing_entries: 728
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER Webinar: Streamlining Capacity Mechanisms With The Updated European Resource Adequacy Assessment Methodology (26 May 2026)](http://www.mondovisione.com/media-and-resources/news/acer-webinar-streamlining-capacity-mechanisms-with-the-updated-european-resourc-202658/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Chair Joe Longo Spoke With MC And ABC Journalist Dan Ziffer At The 2026 Financial Counselling Australia Conference](http://www.mondovisione.com/media-and-resources/news/asic-chair-joe-longo-spoke-with-mc-and-abc-journalist-dan-ziffer-at-the-2026-fin-202658/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Dalian Commodity Exchange Deals With 23 Cases Of Abnormal Trading In April 2026](http://www.mondovisione.com/media-and-resources/news/dalian-commodity-exchange-deals-with-23-cases-of-abnormal-trading-in-april-2026-202658/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Have Your Say: Help Shape How ASIC Engages Your Business On Registry And Digital Changes](http://www.mondovisione.com/media-and-resources/news/have-your-say-help-shape-how-asic-engages-your-business-on-registry-and-digital-202658/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Calls For Urgent Cyber Uplift As AI Accelerates Cyber Threats](http://www.mondovisione.com/media-and-resources/news/asic-calls-for-urgent-cyber-uplift-as-ai-accelerates-cyber-threats-202658/)
+append_entries: 5
+Finish: 2026-05-08 09:44:15.391961
