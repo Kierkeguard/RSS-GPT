@@ -4221,3 +4221,18 @@ Existing_entries: 754
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-05-09 03:33:00.934543
+------------------------------------------------------
+Started: 2026-05-09 06:20:43.574337
+Existing_entries: 754
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Readout: US Financial Stability Oversight Council Meeting On May 6, 2026](http://www.mondovisione.com/media-and-resources/news/readout-us-financial-stability-oversight-council-meeting-on-may-6-2026-202659/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [When Regulation Reshapes Markets: The Migration Of Corporate Lending, Federal Reserve Vice Chair For Supervision Michelle W. Bowman, At The Hoover Institution Annual Monetary Policy Conference, Stanford, California](http://www.mondovisione.com/media-and-resources/news/when-regulation-reshapes-markets-the-migration-of-corporate-lending-federal-re-202659/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Update On Federal Reserve Bank Operations, Federal Reserve Governor Christopher J. Waller, At The Hoover Institution Annual Monetary Policy Conference, Stanford, California](http://www.mondovisione.com/media-and-resources/news/update-on-federal-reserve-bank-operations-federal-reserve-governor-christopher-202659/)
+append_entries: 3
+Finish: 2026-05-09 06:20:44.743024
