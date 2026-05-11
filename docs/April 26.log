@@ -4418,3 +4418,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [LME Commitments Of Traders Reports](http://www.mondovisione.com/media-and-resources/news/lme-commitments-of-traders-reports-2026511/)
 append_entries: 4
 Finish: 2026-05-11 17:58:30.486247
+------------------------------------------------------
+Started: 2026-05-11 19:59:26.942097
+Existing_entries: 773
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Ontario Securities Commission Reaches Settlements With Stan Bharti And Neil Said, Former Executives Of Medivolve Inc.](http://www.mondovisione.com/media-and-resources/news/ontario-securities-commission-reaches-settlements-with-stan-bharti-and-neil-said-2026511/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bank Of America Settles Insider Trading Allegations In India](http://www.mondovisione.com/media-and-resources/news/bank-of-america-settles-insider-trading-allegations-in-india-2026511/)
+append_entries: 2
+Finish: 2026-05-11 19:59:28.360298
