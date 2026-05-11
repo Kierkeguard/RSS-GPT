@@ -4353,3 +4353,15 @@ Existing_entries: 758
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-05-11 03:58:59.417944
+------------------------------------------------------
+Started: 2026-05-11 07:51:09.281323
+Existing_entries: 758
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Paris Plenary Meeting Of The International Forum Of Independent Audit Regulators (IFIAR)](http://www.mondovisione.com/media-and-resources/news/paris-plenary-meeting-of-the-international-forum-of-independent-audit-regulators-2026511/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [International Forum Of Independent Audit Regulators Published The New Report About Use Of Technology In Audits](http://www.mondovisione.com/media-and-resources/news/international-forum-of-independent-audit-regulators-published-the-new-report-abo-2026511/)
+append_entries: 2
+Finish: 2026-05-11 07:51:10.290973
