@@ -4430,3 +4430,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Bank Of America Settles Insider Trading Allegations In India](http://www.mondovisione.com/media-and-resources/news/bank-of-america-settles-insider-trading-allegations-in-india-2026511/)
 append_entries: 2
 Finish: 2026-05-11 19:59:28.360298
+------------------------------------------------------
+Started: 2026-05-11 21:25:15.481119
+Existing_entries: 775
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [S&P Global Market Intelligence Data | Top 10 Most Shorted Stocks In The US](http://www.mondovisione.com/media-and-resources/news/sandp-global-market-intelligence-data-top-10-most-shorted-stocks-in-the-us-2026511/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Announces End-of-Month Open Short Interest Positions In Nasdaq Stocks As Of Settlement Date April 30, 2026](http://www.mondovisione.com/media-and-resources/news/nasdaq-announces-end-of-month-open-short-interest-positions-in-nasdaq-stocks-as-2026511/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NYSE Group Consolidated Short Interest Report](http://www.mondovisione.com/media-and-resources/news/nyse-group-consolidated-short-interest-report-2026511/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Swaps Report Update](http://www.mondovisione.com/media-and-resources/news/cftc-swaps-report-update-2026511/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [EquiLend Names Simon Heath Chief Strategy Officer - Veteran Securities Finance Leader Joins From J.P. Morgan To Lead Long-Term Strategy And Growth](http://www.mondovisione.com/media-and-resources/news/equilend-names-simon-heath-chief-strategy-officer-veteran-securities-finance-2026511/)
+append_entries: 5
+Finish: 2026-05-11 21:25:16.566792
