@@ -4365,3 +4365,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [International Forum Of Independent Audit Regulators Published The New Report About Use Of Technology In Audits](http://www.mondovisione.com/media-and-resources/news/international-forum-of-independent-audit-regulators-published-the-new-report-abo-2026511/)
 append_entries: 2
 Finish: 2026-05-11 07:51:10.290973
+------------------------------------------------------
+Started: 2026-05-11 11:29:45.799262
+Existing_entries: 760
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LSEG Expands Models-as-a-Service With Open Risk Analytics · A Post Trade Solution Offering Scalable And Multi-Asset Risk Analytics](http://www.mondovisione.com/media-and-resources/news/lseg-expands-models-as-a-service-with-open-risk-analytics-a-post-trade-solutio-2026511/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Dominates High-Value VC Deal Activity As Investors Prioritize Mature Startup Ecosystems In Q1 2026, Reveals GlobalData](http://www.mondovisione.com/media-and-resources/news/us-dominates-high-value-vc-deal-activity-as-investors-prioritize-mature-startup-2026511/)
+append_entries: 2
+Finish: 2026-05-11 11:29:47.200666
