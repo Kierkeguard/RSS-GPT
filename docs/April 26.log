@@ -4552,3 +4552,21 @@ Append: [Bahamas International Securities Exchange Trading Notice Early Trade Da
 Append: [European Commission Launches Call For Candidates For The ESAs’ Board Of Appeal](http://www.mondovisione.com/media-and-resources/news/european-commission-launches-call-for-candidates-for-the-esas-board-of-appeal-2026512/)
 append_entries: 8
 Finish: 2026-05-12 18:03:19.298021
+------------------------------------------------------
+Started: 2026-05-12 21:22:52.647773
+Existing_entries: 805
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Reaffirms Exclusive Jurisdiction Over Prediction Markets In Sixth Circuit Amicus Brief](http://www.mondovisione.com/media-and-resources/news/cftc-reaffirms-exclusive-jurisdiction-over-prediction-markets-in-sixth-circuit-a-2026512/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ISDA AGM Studio: Julia Hueckel And Chris Zuehlke](http://www.mondovisione.com/media-and-resources/news/isda-agm-studio-julia-hueckel-and-chris-zuehlke-2026512/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [EquiLend Acquires Finadium, Expanding Presence In Securities Finance Research & Consulting - Finadium To Continue Operating Independently As A Subsidiary Of EquiLend](http://www.mondovisione.com/media-and-resources/news/equilend-acquires-finadium-expanding-presence-in-securities-finance-research-and-2026512/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ISDA AGM Studio: Nikita Cotton And Claire Gerrand](http://www.mondovisione.com/media-and-resources/news/isda-agm-studio-nikita-cotton-and-claire-gerrand-2026512/)
+append_entries: 4
+Finish: 2026-05-12 21:22:53.669271
