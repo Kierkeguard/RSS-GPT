@@ -4463,3 +4463,24 @@ Existing_entries: 780
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-05-12 03:41:57.779841
+------------------------------------------------------
+Started: 2026-05-12 06:40:26.009922
+Existing_entries: 780
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Real Estate Transactions Using Cryptoassets - Nikkei Stock Average Record Value: Press Conference By KATAYAMA Satsuki, Japan Minister Of Finance And Minister Of State For Financial Services](http://www.mondovisione.com/media-and-resources/news/real-estate-transactions-using-cryptoassets-nikkei-stock-average-record-value-2026512/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nikkei Stock Average Record High: Press Conference By KATAYAMA Satsuki, Japan Minister Of Finance And Minister Of State For Financial Services](http://www.mondovisione.com/media-and-resources/news/nikkei-stock-average-record-high-press-conference-by-katayama-satsuki-japan-mi-2026512/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Zealand Financial Markets Authority Releases Updated Guidance That Provides More Clarity On Sustainability-Related Disclosures](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-releases-updated-guidance-that-provides-2026512/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Strengthening Cybersecurity Measures In The Financial Sector Against AI-Related Threats: Press Conference By KATAYAMA Satsuki, Japan Minister Of Finance And Minister Of State For Financial Services](http://www.mondovisione.com/media-and-resources/news/strengthening-cybersecurity-measures-in-the-financial-sector-against-ai-related-2026512/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Option Exchanges - Update To Market Data Policies, Exchange Data Agreement, And Schedule B Data Feed Request Form](http://www.mondovisione.com/media-and-resources/news/miax-option-exchanges-update-to-market-data-policies-exchange-data-agreement-2026512/)
+append_entries: 5
+Finish: 2026-05-12 06:40:27.125263
