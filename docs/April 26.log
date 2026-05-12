@@ -4506,3 +4506,25 @@ Append: [Benchmarking Analyst Quality In An AI-Driven Research Market: Substanti
 Append: [CoinShares Fund Flows: Inflows Accelerate To US$857.9m As CLARITY Act Compromise Lifts Sentiment](http://www.mondovisione.com/media-and-resources/news/coinshares-fund-flows-inflows-accelerate-to-us8579m-as-clarity-act-compromise-2026512/)
 append_entries: 6
 Finish: 2026-05-12 10:36:35.895610
+------------------------------------------------------
+Started: 2026-05-12 14:35:01.589282
+Existing_entries: 791
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group And Silicon Data Partner To Launch First Compute Futures](http://www.mondovisione.com/media-and-resources/news/cme-group-and-silicon-data-partner-to-launch-first-compute-futures-2026512/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Toronto Stock Exchange, TSX Venture Exchange, TSX Alpha Exchange And Montréal Exchange Closed For Victoria Day](http://www.mondovisione.com/media-and-resources/news/toronto-stock-exchange-tsx-venture-exchange-tsx-alpha-exchange-and-montral-ex-2026512/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Fiserv Expands Clover’s Restaurant Portfolio With New Fine Dining Solution, Clover Reserve Powered By Tabit - New Partnership Brings An Enterprise-Grade, Full-Scale Solution To Help Full-Service And Fine Dining Restaurants Deliver Exceptional Hospitality And Increase Profits](http://www.mondovisione.com/media-and-resources/news/fiserv-expands-clovers-restaurant-portfolio-with-new-fine-dining-solution-clov-2026512/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Fines And Bans Frank Breuer For Serious Misconduct In Pension Transfer Advice](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-fines-and-bans-frank-breuer-for-serious-misconduc-2026512/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Broadridge Announces Integrated Infrastructure For Tokenized Securities](http://www.mondovisione.com/media-and-resources/news/broadridge-announces-integrated-infrastructure-for-tokenized-securities-2026512/)
+Append: [ING Appoints Andrea Burnett As UK Head Of Network Sector Coverage](http://www.mondovisione.com/media-and-resources/news/ing-appoints-andrea-burnett-as-uk-head-of-network-sector-coverage-2026512/)
+append_entries: 6
+Finish: 2026-05-12 14:35:02.370093
