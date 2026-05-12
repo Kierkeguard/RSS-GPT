@@ -4484,3 +4484,25 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [MIAX Option Exchanges - Update To Market Data Policies, Exchange Data Agreement, And Schedule B Data Feed Request Form](http://www.mondovisione.com/media-and-resources/news/miax-option-exchanges-update-to-market-data-policies-exchange-data-agreement-2026512/)
 append_entries: 5
 Finish: 2026-05-12 06:40:27.125263
+------------------------------------------------------
+Started: 2026-05-12 10:36:34.780858
+Existing_entries: 785
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Decision By The Nasdaq Stockholm Disciplinary Committee Regarding Taptravel Nordic AB (publ)](http://www.mondovisione.com/media-and-resources/news/decision-by-the-nasdaq-stockholm-disciplinary-committee-regarding-taptravel-nord-2026512/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Dubai Financial Services Authority Prohibits Reinsurance Broker Mr Mohsen And Fines Him USD 139,722 For Misleading And Deceptive Conduct](http://www.mondovisione.com/media-and-resources/news/the-dubai-financial-services-authority-prohibits-reinsurance-broker-mr-mohsen-an-2026512/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Eurex Clearing Recognised With Top Honour At WFEClear Innovation Awards; NSE Clearing Named Runner-Up](http://www.mondovisione.com/media-and-resources/news/eurex-clearing-recognised-with-top-honour-at-wfeclear-innovation-awards-nse-cle-2026512/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cyprus Stock Exchange Monthly Bulletin - April 2026](http://www.mondovisione.com/media-and-resources/news/cyprus-stock-exchange-monthly-bulletin-april-2026-2026512/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Benchmarking Analyst Quality In An AI-Driven Research Market: Substantive Research Launches Data-Driven Analyst Rankings](http://www.mondovisione.com/media-and-resources/news/benchmarking-analyst-quality-in-an-ai-driven-research-market-substantive-resear-2026512/)
+Append: [CoinShares Fund Flows: Inflows Accelerate To US$857.9m As CLARITY Act Compromise Lifts Sentiment](http://www.mondovisione.com/media-and-resources/news/coinshares-fund-flows-inflows-accelerate-to-us8579m-as-clarity-act-compromise-2026512/)
+append_entries: 6
+Finish: 2026-05-12 10:36:35.895610
