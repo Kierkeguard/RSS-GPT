@@ -4570,3 +4570,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ISDA AGM Studio: Nikita Cotton And Claire Gerrand](http://www.mondovisione.com/media-and-resources/news/isda-agm-studio-nikita-cotton-and-claire-gerrand-2026512/)
 append_entries: 4
 Finish: 2026-05-12 21:22:53.669271
+------------------------------------------------------
+Started: 2026-05-12 23:06:00.019173
+Existing_entries: 809
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-05-12 23:06:01.128641
