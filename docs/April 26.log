@@ -4588,3 +4588,27 @@ Existing_entries: 809
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-05-13 06:50:59.501754
+------------------------------------------------------
+Started: 2026-05-13 10:34:21.268172
+Existing_entries: 809
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Reviews Whether Investment Firms Are Doing Enough To Support Bereaved Customers](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-reviews-whether-investment-firms-are-doing-enough-2026513/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LSEG Brings Trusted Data To Gemini Enterprise Via MCP Connector](http://www.mondovisione.com/media-and-resources/news/lseg-brings-trusted-data-to-gemini-enterprise-via-mcp-connector-2026513/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [EU LNG Imports Hit Record High In 2025 – ACER Warns Of Growing Exposure To Global Market Risks](http://www.mondovisione.com/media-and-resources/news/eu-lng-imports-hit-record-high-in-2025-acer-warns-of-growing-exposure-to-globa-2026513/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Qatar Stock Exchange: MSCI Equity Indexes May 2026 Index Review Results](http://www.mondovisione.com/media-and-resources/news/qatar-stock-exchange-msci-equity-indexes-may-2026-index-review-results-2026513/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tickblaze Selects Sterling OMS 360 For Its Order Management System](http://www.mondovisione.com/media-and-resources/news/tickblaze-selects-sterling-oms-360-for-its-order-management-system-2026513/)
+Append: [Hong Kong Securities And Futures Commission Obtains Two-Year Disqualification Order Against Former Financial Controller And Company Secretary Of Qunxing Paper Holdings Company Limited](http://www.mondovisione.com/media-and-resources/news/hong-kong-securities-and-futures-commission-obtains-two-year-disqualification-or-2026513/)
+Append: [JPXI To Launch Tokyo Stock Exchange REIT High Yield 30 Index](http://www.mondovisione.com/media-and-resources/news/jpxi-to-launch-tokyo-stock-exchange-reit-high-yield-30-index-2026513/)
+Append: [NZX Names Acting CFO](http://www.mondovisione.com/media-and-resources/news/nzx-names-acting-cfo-2026513/)
+append_entries: 8
+Finish: 2026-05-13 10:34:22.388611
