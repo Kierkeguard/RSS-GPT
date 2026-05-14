@@ -4725,3 +4725,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Invoice AI: TRG Screen Automates Market Data's Most Time-Consuming Workflow - New Capability Within Optimize Spend Helps Firms Spend Less Time Processing Invoices And More Time Acting On Spend Data](http://www.mondovisione.com/media-and-resources/news/invoice-ai-trg-screen-automates-market-datas-most-time-consuming-workflow-ne-2026514/)
 append_entries: 4
 Finish: 2026-05-14 10:23:52.530147
+------------------------------------------------------
+Started: 2026-05-14 14:25:40.937436
+Existing_entries: 846
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Federal Reserve Board Releases Results From Two Surveys Of Senior Financial Officers At Banks About Their Views On Discount Window Operating Days And Their Strategies And Practices For Managing Reserve Balances](http://www.mondovisione.com/media-and-resources/news/federal-reserve-board-releases-results-from-two-surveys-of-senior-financial-offi-2026514/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group To Launch Nasdaq CME Crypto Index Futures](http://www.mondovisione.com/media-and-resources/news/cme-group-to-launch-nasdaq-cme-crypto-index-futures-2026514/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Fiserv Launches agentOS: The Operating System For Agentic AI In Banking](http://www.mondovisione.com/media-and-resources/news/fiserv-launches-agentos-the-operating-system-for-agentic-ai-in-banking-2026514/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cybersecurity / AI Executive Roundtable Delves Into Companies’ Challenges In Addressing Evolving Cyber Threats](http://www.mondovisione.com/media-and-resources/news/cybersecurity-ai-executive-roundtable-delves-into-companies-challenges-in-add-2026514/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Apex Group Provides Transfer Agency Services In Support Of The Launch Of Fidelity International’s First Tokenised Product](http://www.mondovisione.com/media-and-resources/news/apex-group-provides-transfer-agency-services-in-support-of-the-launch-of-fidelit-2026514/)
+append_entries: 5
+Finish: 2026-05-14 14:25:41.964868
