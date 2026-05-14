@@ -4707,3 +4707,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SIFMA Statement On Confirmation Of Kevin Warsh As Chairman Of The Federal Reserve](http://www.mondovisione.com/media-and-resources/news/sifma-statement-on-confirmation-of-kevin-warsh-as-chairman-of-the-federal-reserv-2026514/)
 append_entries: 2
 Finish: 2026-05-14 06:48:41.054677
+------------------------------------------------------
+Started: 2026-05-14 10:23:51.241511
+Existing_entries: 842
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Working Together Against Financial Crime - Speech By Nikhil Rathi, UK Financial Conduct Authority Chief Executive At The FCA's Financial Crime Conference](http://www.mondovisione.com/media-and-resources/news/working-together-against-financial-crime-speech-by-nikhil-rathi-uk-financial-2026514/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Broadridge Establishes Strategic Glasgow Hub To Strengthen Global BPO Delivery - New UK Delivery Center Strengthens Broadridge’s Global Footprint And Enhances Resilient, Near-Shore Operational Support For Leading Global Financial Institutions](http://www.mondovisione.com/media-and-resources/news/broadridge-establishes-strategic-glasgow-hub-to-strengthen-global-bpo-delivery-2026514/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The WFE Announces Host For WFEClear Conference 2027 In Almaty](http://www.mondovisione.com/media-and-resources/news/the-wfe-announces-host-for-wfeclear-conference-2027-in-almaty-2026514/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Invoice AI: TRG Screen Automates Market Data's Most Time-Consuming Workflow - New Capability Within Optimize Spend Helps Firms Spend Less Time Processing Invoices And More Time Acting On Spend Data](http://www.mondovisione.com/media-and-resources/news/invoice-ai-trg-screen-automates-market-datas-most-time-consuming-workflow-ne-2026514/)
+append_entries: 4
+Finish: 2026-05-14 10:23:52.530147
