@@ -4801,3 +4801,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Capital Markets Gateway Partners With BNP Paribas To Strengthen European Expansion - BNP Paribas Joins Capital Markets Gateway’s Global Network, Reinforcing Strategic Growth Across EMEA](http://www.mondovisione.com/media-and-resources/news/capital-markets-gateway-partners-with-bnp-paribas-to-strengthen-european-expansi-2026514/)
 append_entries: 2
 Finish: 2026-05-14 21:16:33.512527
+------------------------------------------------------
+Started: 2026-05-14 23:00:49.339401
+Existing_entries: 866
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-05-14 23:00:50.263211
