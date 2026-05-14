@@ -4695,3 +4695,15 @@ Existing_entries: 840
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-05-14 03:51:35.038188
+------------------------------------------------------
+Started: 2026-05-14 06:48:39.960145
+Existing_entries: 840
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Anthony Attia Appointed ASX Managing Director And CEO](http://www.mondovisione.com/media-and-resources/news/anthony-attia-appointed-asx-managing-director-and-ceo-2026514/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIFMA Statement On Confirmation Of Kevin Warsh As Chairman Of The Federal Reserve](http://www.mondovisione.com/media-and-resources/news/sifma-statement-on-confirmation-of-kevin-warsh-as-chairman-of-the-federal-reserv-2026514/)
+append_entries: 2
+Finish: 2026-05-14 06:48:41.054677
