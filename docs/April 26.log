@@ -4771,3 +4771,21 @@ Append: [Bank Of England: Slides From Huw Pill’s Fireside Chat At NatWest](htt
 Append: [FTSE Russell And Planetrics Announce Proposed Partnership To Develop Climate-Scenario Indices](http://www.mondovisione.com/media-and-resources/news/ftse-russell-and-planetrics-announce-proposed-partnership-to-develop-climate-sce-2026514/)
 append_entries: 9
 Finish: 2026-05-14 17:57:20.474974
+------------------------------------------------------
+Started: 2026-05-14 19:56:54.241656
+Existing_entries: 860
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group Inc. Announces Preliminary Results Of 2026 Annual Meeting](http://www.mondovisione.com/media-and-resources/news/cme-group-inc-announces-preliminary-results-of-2026-annual-meeting-2026514/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Stephen I. Miran Submits His Resignation As A Member Of The Federal Reserve Board, Effective When Or Shortly Before His Successor On The Board Is Sworn In](http://www.mondovisione.com/media-and-resources/news/stephen-i-miran-submits-his-resignation-as-a-member-of-the-federal-reserve-boar-2026514/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Registration, Inspections And Examinations Division Of The Ontario Securities Commission Sets Out Its 2026-2027 Examination Priorities](http://www.mondovisione.com/media-and-resources/news/the-registration-inspections-and-examinations-division-of-the-ontario-securitie-2026514/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Canadian Securities Administrators Publishes Proposed Amendments And Changes To Enhance Issuer Bid, Take-Over Bid, And Beneficial Ownership Reporting Regimes](http://www.mondovisione.com/media-and-resources/news/canadian-securities-administrators-publishes-proposed-amendments-and-changes-to-2026514/)
+append_entries: 4
+Finish: 2026-05-14 19:56:55.295139
