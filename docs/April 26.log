@@ -4893,3 +4893,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [UK Financial Conduct Authority, Bank Of England And Treasury Joint Statement On Frontier AI Models And Cyber Resilience](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-bank-of-england-and-treasury-joint-statement-on-2026515/)
 append_entries: 3
 Finish: 2026-05-15 19:45:04.497784
+------------------------------------------------------
+Started: 2026-05-15 21:09:07.725381
+Existing_entries: 884
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Commitments Of Traders Reports Update](http://www.mondovisione.com/media-and-resources/news/cftc-commitments-of-traders-reports-update-2026515/)
+append_entries: 1
+Finish: 2026-05-15 21:09:08.735001
