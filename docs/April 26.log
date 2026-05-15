@@ -4856,3 +4856,25 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Miami International Holdings Announces Participation In Upcoming June Investor Conferences](http://www.mondovisione.com/media-and-resources/news/miami-international-holdings-announces-participation-in-upcoming-june-investor-c-2026515/)
 append_entries: 2
 Finish: 2026-05-15 14:19:19.703326
+------------------------------------------------------
+Started: 2026-05-15 17:45:09.322075
+Existing_entries: 875
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TMX Group Limited Announces Approval Of An Amendment To Its Normal Course Issuer Bid](http://www.mondovisione.com/media-and-resources/news/tmx-group-limited-announces-approval-of-an-amendment-to-its-normal-course-issuer-2026515/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Federal Reserve Board Announces Termination Of Enforcement Actions With UBS Group AG, Credit Suisse AG, Credit Suisse Holdings (USA), Inc., And Credit Suisse AG, New York Branch](http://www.mondovisione.com/media-and-resources/news/federal-reserve-board-announces-termination-of-enforcement-actions-with-ubs-grou-2026515/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Malawi Stock Exchange Weekly Summary Report, 15 May 2026](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-15-may-2026-2026515/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Dubai Financial Market Regulated Short Sell – Weekly Summary - 11th May 2026 To 15th May 2026](http://www.mondovisione.com/media-and-resources/news/dubai-financial-market-regulated-short-sell-weekly-summary-11th-may-2026-to-2026515/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFFEX: Notice On Listing Of New Equity Index Futures And Options Contracts](http://www.mondovisione.com/media-and-resources/news/cffex-notice-on-listing-of-new-equity-index-futures-and-options-contracts-2026515/)
+Append: [Japan Financial Services Agency: Comment Letter On The Draft Delegated Regulation On Revised European Sustainability Reporting Standards (ESRS)](http://www.mondovisione.com/media-and-resources/news/japan-financial-services-agency-comment-letter-on-the-draft-delegated-regulatio-2026515/)
+append_entries: 6
+Finish: 2026-05-15 17:45:10.723834
