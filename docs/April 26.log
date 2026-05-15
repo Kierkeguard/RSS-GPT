@@ -4813,3 +4813,25 @@ Existing_entries: 866
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-05-15 03:55:03.463473
+------------------------------------------------------
+Started: 2026-05-15 07:28:08.394255
+Existing_entries: 866
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Monetary Authority Of Singapore Concludes Consultation On Enhancements To Product Highlights Sheets And Streamlined Framework For Complex Products](http://www.mondovisione.com/media-and-resources/news/monetary-authority-of-singapore-concludes-consultation-on-enhancements-to-produc-2026515/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Montréal Exchange  Interest Rate Derivative Trading Ceases At 13:30 Today, May 15, 2026 - Exchange's Markets Closed On May 18, 2026](http://www.mondovisione.com/media-and-resources/news/montral-exchange-interest-rate-derivative-trading-ceases-at-1330-today-may-1-2026515/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC: Australians Reminded To Check For Lost Money As $2.7 Billion Sits Unclaimed](http://www.mondovisione.com/media-and-resources/news/asic-australians-reminded-to-check-for-lost-money-as-27-billion-sits-unclaime-2026515/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Appeals $7 Million Penalty In Cigno Australia, BSF Solutions, And Directors’ Case](http://www.mondovisione.com/media-and-resources/news/asic-appeals-7-million-penalty-in-cigno-australia-bsf-solutions-and-directors-2026515/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Efficient And Effective Central Banking: Beyond The Balance Sheet, Federal Reserve Governor Michael S. Barr, At The Money Marketeers Of New York University, New York, New York](http://www.mondovisione.com/media-and-resources/news/efficient-and-effective-central-banking-beyond-the-balance-sheet-federal-reser-2026515/)
+Append: [Cboe Global Markets Declares Second-Quarter 2026 Dividend](http://www.mondovisione.com/media-and-resources/news/cboe-global-markets-declares-second-quarter-2026-dividend-2026515/)
+append_entries: 6
+Finish: 2026-05-15 07:28:09.738421
