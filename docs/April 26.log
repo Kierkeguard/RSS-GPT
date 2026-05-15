@@ -4844,3 +4844,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [NYSE President Lynn Martin Joins U.S. Presidential Delegation For Historic Trump-Xi China Summit In Beijing - Martin Calls For Global Coordination On AI Innovation As U.S. Business Representative To APEC 2026 Ministerial In Shanghai](http://www.mondovisione.com/media-and-resources/news/nyse-president-lynn-martin-joins-us-presidential-delegation-for-historic-trump-2026515/)
 append_entries: 1
 Finish: 2026-05-15 10:29:58.497795
+------------------------------------------------------
+Started: 2026-05-15 14:19:18.497615
+Existing_entries: 873
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LME Group Announces Senior Management Appointments](http://www.mondovisione.com/media-and-resources/news/lme-group-announces-senior-management-appointments-2026515/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Miami International Holdings Announces Participation In Upcoming June Investor Conferences](http://www.mondovisione.com/media-and-resources/news/miami-international-holdings-announces-participation-in-upcoming-june-investor-c-2026515/)
+append_entries: 2
+Finish: 2026-05-15 14:19:19.703326
