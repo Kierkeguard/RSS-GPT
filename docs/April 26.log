@@ -4835,3 +4835,12 @@ Append: [Efficient And Effective Central Banking: Beyond The Balance Sheet, Fede
 Append: [Cboe Global Markets Declares Second-Quarter 2026 Dividend](http://www.mondovisione.com/media-and-resources/news/cboe-global-markets-declares-second-quarter-2026-dividend-2026515/)
 append_entries: 6
 Finish: 2026-05-15 07:28:09.738421
+------------------------------------------------------
+Started: 2026-05-15 10:29:57.506892
+Existing_entries: 872
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NYSE President Lynn Martin Joins U.S. Presidential Delegation For Historic Trump-Xi China Summit In Beijing - Martin Calls For Global Coordination On AI Innovation As U.S. Business Representative To APEC 2026 Ministerial In Shanghai](http://www.mondovisione.com/media-and-resources/news/nyse-president-lynn-martin-joins-us-presidential-delegation-for-historic-trump-2026515/)
+append_entries: 1
+Finish: 2026-05-15 10:29:58.497795
