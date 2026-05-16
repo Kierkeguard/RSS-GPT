@@ -4914,3 +4914,21 @@ Existing_entries: 885
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-05-16 03:36:56.219993
+------------------------------------------------------
+Started: 2026-05-16 06:26:00.892499
+Existing_entries: 885
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Federal Reserve Board Names Jerome H. Powell As Chair Pro Tempore - Powell Will Serve As Chair Pro Tempore Until Kevin M. Warsh Is Sworn In As The New Chair](http://www.mondovisione.com/media-and-resources/news/federal-reserve-board-names-jerome-h-powell-as-chair-pro-tempore-powell-will-2026516/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [S&P Global To Present At Bernstein's 42nd Annual Strategic Decisions Conference On May 27, 2026](http://www.mondovisione.com/media-and-resources/news/sandp-global-to-present-at-bernsteins-42nd-annual-strategic-decisions-conference-2026516/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nadex Upcoming System Update And Temporary Delisting Of Contracts](http://www.mondovisione.com/media-and-resources/news/nadex-upcoming-system-update-and-temporary-delisting-of-contracts-2026516/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Unofficial Winners Announced For 3 Major CalPERS Board Seats](http://www.mondovisione.com/media-and-resources/news/unofficial-winners-announced-for-3-major-calpers-board-seats-2026516/)
+append_entries: 4
+Finish: 2026-05-16 06:26:01.752916
