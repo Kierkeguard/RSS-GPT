@@ -5046,3 +5046,25 @@ Existing_entries: 889
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-05-18 04:08:11.615394
+------------------------------------------------------
+Started: 2026-05-18 10:14:21.391598
+Existing_entries: 889
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Ingenico And Arrive Partner To Power Seamless Payments For On Street Parking And Urban Transport Worldwide](http://www.mondovisione.com/media-and-resources/news/ingenico-and-arrive-partner-to-power-seamless-payments-for-on-street-parking-and-2026518/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority And Bank Of England Set Out Shared Vision For Tokenisation In UK Wholesale Markets](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-and-bank-of-england-set-out-shared-vision-for-tok-2026518/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [WeSure Global Tech And Ayalon Insurance Company Opened Trading On Tel Aviv Stock ExchangeThis Morning Marking Their Inclusion In The TA 90 And TA 125 Indices](http://www.mondovisione.com/media-and-resources/news/wesure-global-tech-and-ayalon-insurance-company-opened-trading-on-tel-aviv-stock-2026518/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SGX FX Adopts Chainlink To Make Its Premium OTC FX Data Available To Thousands Of On-Chain Apps](http://www.mondovisione.com/media-and-resources/news/sgx-fx-adopts-chainlink-to-make-its-premium-otc-fx-data-available-to-thousands-o-2026518/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Sets Financial Reporting, Audit And Sustainability Focus Areas For FY 2026–27](http://www.mondovisione.com/media-and-resources/news/asic-sets-financial-reporting-audit-and-sustainability-focus-areas-for-fy-2026-2026518/)
+Append: [ASIC Issues Early Observations On Sustainability Reporting Ahead Of 30 June 2026](http://www.mondovisione.com/media-and-resources/news/asic-issues-early-observations-on-sustainability-reporting-ahead-of-30-june-2026-2026518/)
+append_entries: 6
+Finish: 2026-05-18 10:14:22.791922
