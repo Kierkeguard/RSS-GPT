@@ -5230,3 +5230,21 @@ Append: [Ontario Securities Commission Investor Warnings And Alerts For April 28
 Append: [G7 Finance Ministers' And Central Bank Governors’ Communiqué, 19 May 2026](http://www.mondovisione.com/media-and-resources/news/g7-finance-ministers-and-central-bank-governors-communiqu-19-may-2026-2026519/)
 append_entries: 6
 Finish: 2026-05-19 19:57:08.523098
+------------------------------------------------------
+Started: 2026-05-19 21:39:45.098582
+Existing_entries: 939
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Statement On Proposing Registered Offering Reform And Enhancement Of Emerging Growth Company Accommodations And Simplification Of Filer Status For Reporting Companies, SEC Commissioner Mark T. Uyeda, May 19, 2026](http://www.mondovisione.com/media-and-resources/news/statement-on-proposing-registered-offering-reform-and-enhancement-of-emerging-gr-2026519/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Intercontinental Exchange Announces Results From 2026 Annual Meeting Of Stockholders](http://www.mondovisione.com/media-and-resources/news/intercontinental-exchange-announces-results-from-2026-annual-meeting-of-stockhol-2026519/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Comptroller Of The US Currency Statement On Proposed Revisions To The Uniform Financial Institutions Ratings System](http://www.mondovisione.com/media-and-resources/news/comptroller-of-the-us-currency-statement-on-proposed-revisions-to-the-uniform-fi-2026519/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Staff Issues Advisory On Cooperation In Enforcement Matters](http://www.mondovisione.com/media-and-resources/news/cftc-staff-issues-advisory-on-cooperation-in-enforcement-matters-2026519/)
+append_entries: 4
+Finish: 2026-05-19 21:39:46.945353
