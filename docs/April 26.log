@@ -5248,3 +5248,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CFTC Staff Issues Advisory On Cooperation In Enforcement Matters](http://www.mondovisione.com/media-and-resources/news/cftc-staff-issues-advisory-on-cooperation-in-enforcement-matters-2026519/)
 append_entries: 4
 Finish: 2026-05-19 21:39:46.945353
+------------------------------------------------------
+Started: 2026-05-19 23:07:58.597037
+Existing_entries: 943
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [S&P Global Announces Pricing Of $2,000,000,000 Private Offering Of Senior Notes By Mobility Global Inc. Ahead Of Planned Separation](http://www.mondovisione.com/media-and-resources/news/sandp-global-announces-pricing-of-2000000000-private-offering-of-senior-notes-2026519/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority: Young Drivers Warned About Fake Insurance Sold On Social Media](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-young-drivers-warned-about-fake-insurance-sold-o-2026519/)
+append_entries: 2
+Finish: 2026-05-19 23:07:59.630571
