@@ -5171,3 +5171,15 @@ Append: [ASIC Continues To Ease Regulatory Burden](http://www.mondovisione.com/m
 Append: [Shenzhen Stock Exchange Market Bulletin, May15, 2026, Issue 11](http://www.mondovisione.com/media-and-resources/news/shenzhen-stock-exchange-market-bulletin-may15-2026-issue-11-2026519/)
 append_entries: 10
 Finish: 2026-05-19 09:55:23.193514
+------------------------------------------------------
+Started: 2026-05-19 12:44:13.185002
+Existing_entries: 922
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Miami International Holdings Announces Launch Of Tini Bloomberg 100 Index Futures On MIAX Futures](http://www.mondovisione.com/media-and-resources/news/miami-international-holdings-announces-launch-of-tini-bloomberg-100-index-future-2026519/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Smaller Exchanges Outshine Market Giants With Specialised Strategies In April 2026, Reports Mondo Visione](http://www.mondovisione.com/media-and-resources/news/smaller-exchanges-outshine-market-giants-with-specialised-strategies-in-april-20-2026519/)
+append_entries: 2
+Finish: 2026-05-19 12:44:14.483622
