@@ -5260,3 +5260,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [UK Financial Conduct Authority: Young Drivers Warned About Fake Insurance Sold On Social Media](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-young-drivers-warned-about-fake-insurance-sold-o-2026519/)
 append_entries: 2
 Finish: 2026-05-19 23:07:59.630571
+------------------------------------------------------
+Started: 2026-05-20 04:02:23.302464
+Existing_entries: 945
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-05-20 04:02:24.598740
