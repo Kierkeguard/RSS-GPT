@@ -5307,3 +5307,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Parameta Solutions Expands FX Spot Data Coverage Through Strategic Partnerships With Netdania And OANDA](http://www.mondovisione.com/media-and-resources/news/parameta-solutions-expands-fx-spot-data-coverage-through-strategic-partnerships-2026520/)
 append_entries: 3
 Finish: 2026-05-20 12:28:16.830570
+------------------------------------------------------
+Started: 2026-05-20 16:55:23.449614
+Existing_entries: 958
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FINRA Fines Pictet Overseas And Blue Ocean ATS For AML And Supervisory Violations Involving Low-Priced Securities - Pictet Overseas Ordered To Pay $610,000; Blue Ocean Ordered To Pay $550,000](http://www.mondovisione.com/media-and-resources/news/finra-fines-pictet-overseas-and-blue-ocean-ats-for-aml-and-supervisory-violation-2026520/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Federal Reserve Board:  Speech By Governor Barr On Consumer Financial Health Metrics At EMERGE Financial Health 2026 Scaling Progress, Shaping The Future, Atlanta, Georgia](http://www.mondovisione.com/media-and-resources/news/federal-reserve-board-speech-by-governor-barr-on-consumer-financial-health-met-2026520/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Miami International Holdings Announces OCC Clearing And Settlement Agreement For MIAX Futures Exchange](http://www.mondovisione.com/media-and-resources/news/miami-international-holdings-announces-occ-clearing-and-settlement-agreement-for-2026520/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER Launches New Tool To Improve Transparency Of European Electricity Network Tariffs](http://www.mondovisione.com/media-and-resources/news/acer-launches-new-tool-to-improve-transparency-of-european-electricity-network-t-2026520/)
+append_entries: 4
+Finish: 2026-05-20 16:55:24.621793
