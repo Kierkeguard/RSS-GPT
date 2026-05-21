@@ -5415,3 +5415,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Borr Drilling Lists On Euronext](http://www.mondovisione.com/media-and-resources/news/borr-drilling-lists-on-euronext-2026521/)
 append_entries: 4
 Finish: 2026-05-21 12:47:49.778953
+------------------------------------------------------
+Started: 2026-05-21 16:40:22.483827
+Existing_entries: 984
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ICE Financials Complex Helps Drive Record All Contract Open Interest At ICE](http://www.mondovisione.com/media-and-resources/news/ice-financials-complex-helps-drive-record-all-contract-open-interest-at-ice-2026521/)
+append_entries: 1
+Finish: 2026-05-21 16:40:23.642054
