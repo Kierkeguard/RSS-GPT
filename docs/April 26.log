@@ -5374,3 +5374,26 @@ Existing_entries: 973
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-05-21 04:11:35.039732
+------------------------------------------------------
+Started: 2026-05-21 09:52:08.369508
+Existing_entries: 973
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER’s Latest REMIT Quarterly Is Out](http://www.mondovisione.com/media-and-resources/news/acers-latest-remit-quarterly-is-out-2026521/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [IOSCO Publishes Reports On The Evolution Of Market Liquidity During The Trading Day For Equity Markets And On Extended Trading Hours For Equity Venues](http://www.mondovisione.com/media-and-resources/news/iosco-publishes-reports-on-the-evolution-of-market-liquidity-during-the-trading-2026521/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [flatexDEGIRO, Societe Generale, And SG-FORGE Join Seturion, Boerse Stuttgart Group’s European Settlement Platform For Tokenized Securities](http://www.mondovisione.com/media-and-resources/news/flatexdegiro-societe-generale-and-sg-forge-join-seturion-boerse-stuttgart-gro-2026521/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Meeting With U.S. Treasury Secretary Bessent: Press Conference By KATAYAMA Satsuki, Japan Minister Of Finance And Minister Of State For Financial Services](http://www.mondovisione.com/media-and-resources/news/meeting-with-us-treasury-secretary-bessent-press-conference-by-katayama-satsu-2026521/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC: Australia Well-Placed To Unlock Opportunities From Innovation In The Financial System](http://www.mondovisione.com/media-and-resources/news/asic-australia-well-placed-to-unlock-opportunities-from-innovation-in-the-finan-2026521/)
+Append: [The Unluckiest Inventor In History - Opening Remarks By ASIC Chair Joe Longo At The Tech Council Of Australia’s Future Of Innovation In Australia’s Financial Markets Event In Sydney On 21 May 2026](http://www.mondovisione.com/media-and-resources/news/the-unluckiest-inventor-in-history-opening-remarks-by-asic-chair-joe-longo-at-2026521/)
+Append: [New Zealand Financial Markets Authority Chief Executive To Conclude Term In January 2027](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-chief-executive-to-conclude-term-in-janu-2026521/)
+append_entries: 7
+Finish: 2026-05-21 09:52:09.664368
