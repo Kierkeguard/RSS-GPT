@@ -5486,3 +5486,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Welcome Remarks By Mr Edward S. Robinson, Deputy Managing Director (Economic Policy) & Chief Economist, Monetary Authority Of Singapore, And Member Of The ABFER Council At The 13th Asian Monetary Policy Forum On 22 May 2026](http://www.mondovisione.com/media-and-resources/news/welcome-remarks-by-mr-edward-s-robinson-deputy-managing-director-economic-pol-2026522/)
 append_entries: 4
 Finish: 2026-05-22 09:37:08.703101
+------------------------------------------------------
+Started: 2026-05-22 12:25:31.029743
+Existing_entries: 999
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-05-22 12:25:32.267770
