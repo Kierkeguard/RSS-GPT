@@ -5528,3 +5528,15 @@ Append: [Borsa İstanbul’s Opening Bell Rang For Ekinciler Demir Çelik](http:
 Append: [ADX Achieves 99% Compliance Rate In Q1 2026 - Financial Statements Disclosure By Public Listed Companies Trading On The Exchange](http://www.mondovisione.com/media-and-resources/news/adx-achieves-99-compliance-rate-in-q1-2026-financial-statements-disclosure-by-2026522/)
 append_entries: 8
 Finish: 2026-05-22 19:54:27.668291
+------------------------------------------------------
+Started: 2026-05-22 21:15:53.006140
+Existing_entries: 1008
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Commitments Of Traders Reports Update](http://www.mondovisione.com/media-and-resources/news/cftc-commitments-of-traders-reports-update-2026522/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Exchange Group - Options Markets - New Listings Effective For May 26, 2026](http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-options-markets-new-listings-effective-for-may-26-2026-2026522/)
+append_entries: 2
+Finish: 2026-05-22 21:15:53.872081
