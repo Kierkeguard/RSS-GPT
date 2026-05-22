@@ -5504,3 +5504,27 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Malawi Stock Exchange Weekly Summary Report, 22 May 2026](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-22-may-2026-2026522/)
 append_entries: 2
 Finish: 2026-05-22 16:28:53.153186
+------------------------------------------------------
+Started: 2026-05-22 19:54:26.679690
+Existing_entries: 1001
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Exchange Group - Options Markets - Market For Underlying Security Used For Openings On MIAX Options, MIAX Pearl Options, MIAX Emerald Options, And MIAX Sapphire Options For Newly Listed Symbols Effective Tuesday, May 26, 2026](http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-options-markets-market-for-underlying-security-used-for-2026522/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nigerian Exchange Weekly Market Report For The Week Ended 22 May 2026](http://www.mondovisione.com/media-and-resources/news/nigerian-exchange-weekly-market-report-for-the-week-ended-22-may-2026-2026522/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Announces Semi-Annual Changes To The OMX Stockholm 30™ Index](http://www.mondovisione.com/media-and-resources/news/nasdaq-announces-semi-annual-changes-to-the-omx-stockholm-30-index-2026522/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Announces Semi-Annual Changes To The OMX Helsinki Benchmark™ Index](http://www.mondovisione.com/media-and-resources/news/nasdaq-announces-semi-annual-changes-to-the-omx-helsinki-benchmark-index-2026522/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Announces Semi-Annual Changes To OMX Stockholm Benchmark™ Index](http://www.mondovisione.com/media-and-resources/news/nasdaq-announces-semi-annual-changes-to-omx-stockholm-benchmark-index-2026522/)
+Append: [Dubai Financial Market Regulated Short Sell – Weekly Summary](http://www.mondovisione.com/media-and-resources/news/dubai-financial-market-regulated-short-sell-weekly-summary-2026522/)
+Append: [Borsa İstanbul’s Opening Bell Rang For Ekinciler Demir Çelik](http://www.mondovisione.com/media-and-resources/news/borsa-istanbuls-opening-bell-rang-for-ekinciler-demir-elik-2026522/)
+Append: [ADX Achieves 99% Compliance Rate In Q1 2026 - Financial Statements Disclosure By Public Listed Companies Trading On The Exchange](http://www.mondovisione.com/media-and-resources/news/adx-achieves-99-compliance-rate-in-q1-2026-financial-statements-disclosure-by-2026522/)
+append_entries: 8
+Finish: 2026-05-22 19:54:27.668291
