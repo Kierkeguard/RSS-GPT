@@ -5561,3 +5561,12 @@ Existing_entries: 1003
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-05-23 03:44:53.664644
+------------------------------------------------------
+Started: 2026-05-23 06:37:32.735419
+Existing_entries: 1000
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nadex Product Schedule For The Week Of May 25, 2026 For The 2026 Memorial Day Holiday](http://www.mondovisione.com/media-and-resources/news/nadex-product-schedule-for-the-week-of-may-25-2026-for-the-2026-memorial-day-ho-2026523/)
+append_entries: 1
+Finish: 2026-05-23 06:37:33.895025
