@@ -5672,3 +5672,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Qatar Stock Exchange Announces Eid al-Adha Holiday](http://www.mondovisione.com/media-and-resources/news/qatar-stock-exchange-announces-eid-al-adha-holiday-2026524/)
 append_entries: 2
 Finish: 2026-05-24 21:02:17.359958
+------------------------------------------------------
+Started: 2026-05-24 23:01:43.407268
+Existing_entries: 1002
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-05-24 23:01:44.545000
