@@ -5660,3 +5660,15 @@ Existing_entries: 1000
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-05-24 19:23:31.017207
+------------------------------------------------------
+Started: 2026-05-24 21:02:16.277013
+Existing_entries: 1000
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Qatar Stock Exchange: FTSE Global Equity Index Series June 2026 Quarterly Review Changes](http://www.mondovisione.com/media-and-resources/news/qatar-stock-exchange-ftse-global-equity-index-series-june-2026-quarterly-review-2026524/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Qatar Stock Exchange Announces Eid al-Adha Holiday](http://www.mondovisione.com/media-and-resources/news/qatar-stock-exchange-announces-eid-al-adha-holiday-2026524/)
+append_entries: 2
+Finish: 2026-05-24 21:02:17.359958
