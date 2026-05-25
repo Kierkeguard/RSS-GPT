@@ -5684,3 +5684,28 @@ Existing_entries: 1000
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-05-25 04:17:03.994721
+------------------------------------------------------
+Started: 2026-05-25 10:18:49.691816
+Existing_entries: 1000
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK VC Funding Value Crosses $10 Billion During January-April 2026, Reveals GlobalData](http://www.mondovisione.com/media-and-resources/news/uk-vc-funding-value-crosses-10-billion-during-january-april-2026-reveals-globa-2026525/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [IOSCO Publishes AI Supervisory Toolkit](http://www.mondovisione.com/media-and-resources/news/iosco-publishes-ai-supervisory-toolkit-2026525/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Stockholm Welcomes Octave Intelligence plc To The Main Market](http://www.mondovisione.com/media-and-resources/news/nasdaq-stockholm-welcomes-octave-intelligence-plc-to-the-main-market-2026525/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Finansinspektionen - Bank Barometer H2 2025: Lending Growth Slowed And Banks’ Profitability Decreased](http://www.mondovisione.com/media-and-resources/news/finansinspektionen-bank-barometer-h2-2025-lending-growth-slowed-and-banks-pr-2026525/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Malaysia’s First Social Exchange Strengthens Access To Social Impact Financing - RM2 Million Grant Allocated To Support Non-Profit Organisations, 3 Corporate Donors Committed RM60,000](http://www.mondovisione.com/media-and-resources/news/malaysias-first-social-exchange-strengthens-access-to-social-impact-financing-2026525/)
+Append: [Borsa Istanbul: KONTR SSF Contracts For Which New Maturity Months Will Not Be Opened For Trading](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-kontr-ssf-contracts-for-which-new-maturity-months-will-not-be-op-2026525/)
+Append: [Opening Remarks By Mr Chia Der Jiun, Managing Director, Monetary Authority Of Singapore At The UBS Asian Investment Conference, Singapore Wealth Edition, On 25 May 2026](http://www.mondovisione.com/media-and-resources/news/opening-remarks-by-mr-chia-der-jiun-managing-director-monetary-authority-of-si-2026525/)
+Append: [Bursa Malaysia Honours Capital Market Players At The Bursa Malaysia Excellence Awards 2025](http://www.mondovisione.com/media-and-resources/news/bursa-malaysia-honours-capital-market-players-at-the-bursa-malaysia-excellence-a-2026525/)
+Append: [ASIC - Scam Alert: Scammers Luring Investors Onto Fake Crypto-Asset Trading Platforms](http://www.mondovisione.com/media-and-resources/news/asic-scam-alert-scammers-luring-investors-onto-fake-crypto-asset-trading-plat-2026525/)
+append_entries: 9
+Finish: 2026-05-25 10:18:50.999458
