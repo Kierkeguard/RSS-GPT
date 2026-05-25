@@ -5718,3 +5718,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [BME: Starting Tomorrow, The Medcap Forum Will Bring Together More Than 100 Companies And Nearly 170 Investors For Its 22nd Edition](http://www.mondovisione.com/media-and-resources/news/bme-starting-tomorrow-the-medcap-forum-will-bring-together-more-than-100-compa-2026525/)
 append_entries: 1
 Finish: 2026-05-25 15:17:45.012272
+------------------------------------------------------
+Started: 2026-05-25 17:47:49.851922
+Existing_entries: 1001
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Alberta Securities Commission Issues Cease-And-Desist Letters To Prevent Further Harm To Victims Of BG Wealth Sharing As Scam Collapses](http://www.mondovisione.com/media-and-resources/news/alberta-securities-commission-issues-cease-and-desist-letters-to-prevent-further-2026525/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Shenzhen Stock Exchange Market Bulletin, May22,2026, Issue 12](http://www.mondovisione.com/media-and-resources/news/shenzhen-stock-exchange-market-bulletin-may222026-issue-12-2026525/)
+append_entries: 2
+Finish: 2026-05-25 17:47:50.920188
