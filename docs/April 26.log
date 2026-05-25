@@ -5709,3 +5709,12 @@ Append: [Bursa Malaysia Honours Capital Market Players At The Bursa Malaysia Exc
 Append: [ASIC - Scam Alert: Scammers Luring Investors Onto Fake Crypto-Asset Trading Platforms](http://www.mondovisione.com/media-and-resources/news/asic-scam-alert-scammers-luring-investors-onto-fake-crypto-asset-trading-plat-2026525/)
 append_entries: 9
 Finish: 2026-05-25 10:18:50.999458
+------------------------------------------------------
+Started: 2026-05-25 15:17:44.005551
+Existing_entries: 1009
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BME: Starting Tomorrow, The Medcap Forum Will Bring Together More Than 100 Companies And Nearly 170 Investors For Its 22nd Edition](http://www.mondovisione.com/media-and-resources/news/bme-starting-tomorrow-the-medcap-forum-will-bring-together-more-than-100-compa-2026525/)
+append_entries: 1
+Finish: 2026-05-25 15:17:45.012272
