@@ -5739,3 +5739,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [A Strong Start To 2026 For The GPW Capital Group](http://www.mondovisione.com/media-and-resources/news/a-strong-start-to-2026-for-the-gpw-capital-group-2026525/)
 append_entries: 1
 Finish: 2026-05-25 19:48:14.208820
+------------------------------------------------------
+Started: 2026-05-25 21:15:00.565776
+Existing_entries: 1001
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-05-25 21:15:01.534675
