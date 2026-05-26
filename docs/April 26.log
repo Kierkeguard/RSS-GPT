@@ -5757,3 +5757,26 @@ Existing_entries: 1000
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-05-26 04:02:24.183887
+------------------------------------------------------
+Started: 2026-05-26 10:05:08.719822
+Existing_entries: 1000
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CoinShares Fund Flows: Outflows Deepen To US$1.47bn As Risk-Off Broadens Globally](http://www.mondovisione.com/media-and-resources/news/coinshares-fund-flows-outflows-deepen-to-us147bn-as-risk-off-broadens-globall-2026526/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [WFE Publishes Draft Principles For Listed Companies In Transition To Going Green](http://www.mondovisione.com/media-and-resources/news/wfe-publishes-draft-principles-for-listed-companies-in-transition-to-going-green-2026526/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Christian Lindner Strengthens International Advisory Council Of Boerse Stuttgart Group](http://www.mondovisione.com/media-and-resources/news/christian-lindner-strengthens-international-advisory-council-of-boerse-stuttgart-2026526/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Securities Commission Malaysia Wins Appeal To Reinstate Garnishee Order Against Former Deputy MD Of WCT And Director Of Ara Holdings Found Liable For Insider Trading In 2022 - Securities Commission Malaysia To Recover A Total Of RM5.83 Million](http://www.mondovisione.com/media-and-resources/news/securities-commission-malaysia-wins-appeal-to-reinstate-garnishee-order-against-2026526/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Avelacom Launches Direct Low-Latency Route Between Bangkok And Tokyo - New Optimized Terrestrial Segment Delivers Less Than 65 Ms Round-Trip Delay Between Bangkok And Tokyo](http://www.mondovisione.com/media-and-resources/news/avelacom-launches-direct-low-latency-route-between-bangkok-and-tokyo-new-optim-2026526/)
+Append: [ASX Provides Financial Guidance](http://www.mondovisione.com/media-and-resources/news/asx-provides-financial-guidance-2026526/)
+Append: [New Zealand Financial Markets Authority: Climate Disclosures Improving, But Sharper Focus Needed On Physical Risks And Impacts](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-climate-disclosures-improving-but-shar-2026526/)
+append_entries: 7
+Finish: 2026-05-26 10:05:09.720056
