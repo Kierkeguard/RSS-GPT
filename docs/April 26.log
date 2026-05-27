@@ -5928,3 +5928,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CAT On A Hot Tin Roof, Jamie Selway, Director, SEC Division Of Trading And Markets, The Intermarket Surveillance Group Conference, Washington D.C., May 27, 2026](http://www.mondovisione.com/media-and-resources/news/cat-on-a-hot-tin-roof-jamie-selway-director-sec-division-of-trading-and-marke-2026527/)
 append_entries: 5
 Finish: 2026-05-27 22:00:14.389785
+------------------------------------------------------
+Started: 2026-05-27 23:25:43.180797
+Existing_entries: 1005
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-05-27 23:25:44.274215
