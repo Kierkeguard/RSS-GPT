@@ -5848,3 +5848,27 @@ Existing_entries: 1000
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-05-27 04:16:14.415946
+------------------------------------------------------
+Started: 2026-05-27 10:02:45.304618
+Existing_entries: 1000
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Joint EACH/FESE Statement: MISP – An Effective And Efficient Supervisory System](http://www.mondovisione.com/media-and-resources/news/joint-eachfese-statement-misp-an-effective-and-efficient-supervisory-system-2026527/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Korea Investment & Securities Launches Four New ETNs Tracking Solactive Gold And Silver Total Return Leveraged Indices](http://www.mondovisione.com/media-and-resources/news/korea-investment-and-securities-launches-four-new-etns-tracking-solactive-gold-and-2026527/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MNI Indicators: MNI China Money Market Index™ – May Conditions Steady](http://www.mondovisione.com/media-and-resources/news/mni-indicators-mni-china-money-market-index-may-conditions-steady-2026527/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Proposes To Remake Six Legislative Instruments About Managed Investment Schemes](http://www.mondovisione.com/media-and-resources/news/asic-proposes-to-remake-six-legislative-instruments-about-managed-investment-sch-2026527/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Zealand Financial Markets Authority: Supporting Innovation In New Zealand’s Financial Markets](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-supporting-innovation-in-new-zealands-2026527/)
+Append: [ASIC Chair Joe Longo Speaks On Tech Council Of Australia Panel](http://www.mondovisione.com/media-and-resources/news/asic-chair-joe-longo-speaks-on-tech-council-of-australia-panel-2026527/)
+Append: [ASIC: Federal Court Orders Westpac To Pay $26 Million Penalty For Hardship Failures](http://www.mondovisione.com/media-and-resources/news/asic-federal-court-orders-westpac-to-pay-26-million-penalty-for-hardship-failu-2026527/)
+Append: [Remarks At The Stanford Rock Center For Corporate Governance, Paul S. Atkins, SEC Chairman, Menlo Park, CA, May 26, 2026](http://www.mondovisione.com/media-and-resources/news/remarks-at-the-stanford-rock-center-for-corporate-governance-paul-s-atkins-se-2026527/)
+append_entries: 8
+Finish: 2026-05-27 10:02:46.450666
