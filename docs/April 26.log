@@ -5872,3 +5872,15 @@ Append: [ASIC: Federal Court Orders Westpac To Pay $26 Million Penalty For Hards
 Append: [Remarks At The Stanford Rock Center For Corporate Governance, Paul S. Atkins, SEC Chairman, Menlo Park, CA, May 26, 2026](http://www.mondovisione.com/media-and-resources/news/remarks-at-the-stanford-rock-center-for-corporate-governance-paul-s-atkins-se-2026527/)
 append_entries: 8
 Finish: 2026-05-27 10:02:46.450666
+------------------------------------------------------
+Started: 2026-05-27 15:56:38.470481
+Existing_entries: 1008
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Broadridge Appoints Ian Williams As Head Of International Broadridge Trading And Connectivity Solutions - Seasoned Capital Markets Leader To Drive Alignment And Growth Across EMEA And APAC](http://www.mondovisione.com/media-and-resources/news/broadridge-appoints-ian-williams-as-head-of-international-broadridge-trading-and-2026527/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Duco Launches The First Agentic Operations Platform For Financial Services](http://www.mondovisione.com/media-and-resources/news/duco-launches-the-first-agentic-operations-platform-for-financial-services-2026527/)
+append_entries: 2
+Finish: 2026-05-27 15:56:39.518922
