@@ -5990,3 +5990,24 @@ Append: [UK Financial Conduct Authority: Firms Have Improved But Must Do More To
 Append: [Stability Matters, Latest news From The FSB, May 2026](http://www.mondovisione.com/media-and-resources/news/stability-matters-latest-news-from-the-fsb-may-2026-2026528/)
 append_entries: 8
 Finish: 2026-05-28 16:10:24.369436
+------------------------------------------------------
+Started: 2026-05-28 20:29:34.083380
+Existing_entries: 1008
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Sues To Block State Enforcement In Rhode Island Amid Ongoing Efforts To Preserve Jurisdiction](http://www.mondovisione.com/media-and-resources/news/cftc-sues-to-block-state-enforcement-in-rhode-island-amid-ongoing-efforts-to-pre-2026528/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Office Of The Comptroller Of The US Currency Issues Third Quarter 2026 CRA Evaluation Schedule](http://www.mondovisione.com/media-and-resources/news/office-of-the-comptroller-of-the-us-currency-issues-third-quarter-2026-cra-evalu-2026528/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Speech By Piero Cipollone, Member Of The Executive Board Of The ECB, At Istituto Affari Internazionali, Frankfurt am Main, 28 May 2026](http://www.mondovisione.com/media-and-resources/news/speech-by-piero-cipollone-member-of-the-executive-board-of-the-ecb-at-istituto-2026528/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [EquiLend Names Delta Capita As An Implementation Partner For EquiLend Spire - Strategic Partnership To Deliver A Structured, Scalable Onboarding And Experience For Spire Clients](http://www.mondovisione.com/media-and-resources/news/equilend-names-delta-capita-as-an-implementation-partner-for-equilend-spire-st-2026528/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [smartTrade Powers RateStream By LiquidityMatch](http://www.mondovisione.com/media-and-resources/news/smarttrade-powers-ratestream-by-liquiditymatch-2026528/)
+append_entries: 5
+Finish: 2026-05-28 20:29:35.428236
