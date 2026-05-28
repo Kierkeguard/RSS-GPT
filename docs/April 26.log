@@ -6011,3 +6011,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [smartTrade Powers RateStream By LiquidityMatch](http://www.mondovisione.com/media-and-resources/news/smarttrade-powers-ratestream-by-liquiditymatch-2026528/)
 append_entries: 5
 Finish: 2026-05-28 20:29:35.428236
+------------------------------------------------------
+Started: 2026-05-28 23:21:19.345682
+Existing_entries: 1005
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Executives To Present At Upcoming Investor Conferences](http://www.mondovisione.com/media-and-resources/news/nasdaq-executives-to-present-at-upcoming-investor-conferences-2026528/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cboe Receives SEC Approval To Offer Extended Trading Hours For Select Multi-Listed Single Stock Options](http://www.mondovisione.com/media-and-resources/news/cboe-receives-sec-approval-to-offer-extended-trading-hours-for-select-multi-list-2026528/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Options And MIAX Emerald Options - Change To Opening And Intra-day Quote Width Requirements For Certain Symbols Effective Friday, May 29, 2026](http://www.mondovisione.com/media-and-resources/news/miax-options-and-miax-emerald-options-change-to-opening-and-intra-day-quote-wi-2026528/)
+append_entries: 3
+Finish: 2026-05-28 23:21:20.458928
