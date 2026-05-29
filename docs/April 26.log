@@ -6094,3 +6094,28 @@ Existing_entries: 1002
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-05-29 21:55:20.716032
+------------------------------------------------------
+Started: 2026-05-29 23:17:42.590961
+Existing_entries: 1000
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ISDA: Market Transformation – IQ May 2026](http://www.mondovisione.com/media-and-resources/news/isda-market-transformation-iq-may-2026-2026530/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Commitments Of Traders Reports Update](http://www.mondovisione.com/media-and-resources/news/cftc-commitments-of-traders-reports-update-2026529/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Financial Data For Futures Commission Merchants Update](http://www.mondovisione.com/media-and-resources/news/cftc-financial-data-for-futures-commission-merchants-update-2026529/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nigerian Exchange Weekly Market Report For The Week Ended 29 May 2026](http://www.mondovisione.com/media-and-resources/news/nigerian-exchange-weekly-market-report-for-the-week-ended-29-may-2026-2026529/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Options Exchange, MIAX Pearl Options Exchange And MIAX Emerald Options Exchange - June 1, 2026 Fee Changes](http://www.mondovisione.com/media-and-resources/news/miax-options-exchange-miax-pearl-options-exchange-and-miax-emerald-options-exch-2026529/)
+Append: [Climate Change: Statement On Proposed Rescission Of Climate-Related Disclosure Rules, SEC Commissioner Hester M. Peirce, May 29, 2026](http://www.mondovisione.com/media-and-resources/news/climate-change-statement-on-proposed-rescission-of-climate-related-disclosure-r-2026530/)
+Append: [Keynote Remarks At The 2026 Reagan National Economic Forum, Paul S. Atkins, SEC Chairman, Simi Valley, CA, May 29, 2026](http://www.mondovisione.com/media-and-resources/news/keynote-remarks-at-the-2026-reagan-national-economic-forum-paul-s-atkins-sec-2026530/)
+Append: [Statement Of Commissioner Mark T. Uyeda On The Rescission Of Climate-Related Disclosure Rules, SEC Commissioner Mark T. Uyeda, May 29, 2026](http://www.mondovisione.com/media-and-resources/news/statement-of-commissioner-mark-t-uyeda-on-the-rescission-of-climate-related-dis-2026530/)
+Append: [Statement On Proposing Release For Rescission Of Climate-Related Disclosure Rules, Paul S. Atkins, SEC Chairman, May 29, 2026](http://www.mondovisione.com/media-and-resources/news/statement-on-proposing-release-for-rescission-of-climate-related-disclosure-rule-2026529/)
+append_entries: 9
+Finish: 2026-05-29 23:17:43.746685
