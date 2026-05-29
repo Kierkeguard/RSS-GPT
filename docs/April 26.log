@@ -6088,3 +6088,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SIX - Alpha League Table 2026: Who Are The French Champions Of Alpha?](http://www.mondovisione.com/media-and-resources/news/six-alpha-league-table-2026-who-are-the-french-champions-of-alpha-2026529/)
 append_entries: 2
 Finish: 2026-05-29 18:37:04.439719
+------------------------------------------------------
+Started: 2026-05-29 21:55:19.616266
+Existing_entries: 1002
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-05-29 21:55:20.716032
