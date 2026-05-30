@@ -6134,3 +6134,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CoinDesk Op-Ed | What American Crypto Asset Perpetuals Mean For The Future Of Crypto, CFTC Chairman Michael S. Selig, Washington, DC | May 29, 2026](http://www.mondovisione.com/media-and-resources/news/coindesk-op-ed-what-american-crypto-asset-perpetuals-mean-for-the-future-of-cr-2026530/)
 append_entries: 1
 Finish: 2026-05-30 06:50:55.982961
+------------------------------------------------------
+Started: 2026-05-30 10:04:24.593073
+Existing_entries: 1001
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-05-30 10:04:25.674629
