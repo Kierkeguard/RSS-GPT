@@ -6212,3 +6212,12 @@ Existing_entries: 1000
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-05-31 17:12:38.874824
+------------------------------------------------------
+Started: 2026-05-31 19:23:38.102910
+Existing_entries: 1000
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Qatar Stock Exchange: QE Index, QE Al Rayan Islamic Index And QE All Share Constituents Review June 1st, 2026](http://www.mondovisione.com/media-and-resources/news/qatar-stock-exchange-qe-index-qe-al-rayan-islamic-index-and-qe-all-share-const-2026531/)
+append_entries: 1
+Finish: 2026-05-31 19:23:39.278239
