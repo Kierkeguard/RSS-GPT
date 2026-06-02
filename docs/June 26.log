@@ -139,3 +139,25 @@ Append: [Anthropic IPO Filing Sparks Influencer Debate Over Commercial Viability
 Append: [Worldline And ING Complete A Live End-To-End European Agentic Payment In Production - Demonstrating With Mastercard That Secure And Compliant  Agentic Payment Is A Deployable Reality Today](http://www.mondovisione.com/media-and-resources/news/worldline-and-ing-complete-a-live-end-to-end-european-agentic-payment-in-product-202662/)
 append_entries: 10
 Finish: 2026-06-02 16:42:17.796316
+------------------------------------------------------
+Started: 2026-06-02 20:55:12.232654
+Existing_entries: 49
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Fiserv Named 2026 Financial Services Product Partner Of The Year By Snowflake](http://www.mondovisione.com/media-and-resources/news/fiserv-named-2026-financial-services-product-partner-of-the-year-by-snowflake-202662/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [S&P Global Market Intelligence Data | Top 10 Most Shorted Stocks In The US](http://www.mondovisione.com/media-and-resources/news/sandp-global-market-intelligence-data-top-10-most-shorted-stocks-in-the-us-202662/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Exchange Group - Option Markets - Options Regulatory Fee](http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-option-markets-options-regulatory-fee-202662/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BIS: Basel Committee Publishes Report On Information And Communication Technology Risk Management](http://www.mondovisione.com/media-and-resources/news/bis-basel-committee-publishes-report-on-information-and-communication-technolog-202662/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Federal Bank Agencies Remove Additional References To Reputation Risk](http://www.mondovisione.com/media-and-resources/news/us-federal-bank-agencies-remove-additional-references-to-reputation-risk-202662/)
+Append: [US Department Of Justice: Activist Short Seller Convicted For $21M Stock Market Manipulation Scheme](http://www.mondovisione.com/media-and-resources/news/us-department-of-justice-activist-short-seller-convicted-for-21m-stock-market-202662/)
+append_entries: 6
+Finish: 2026-06-02 20:55:13.175650
