@@ -228,3 +228,18 @@ Append: [Miami International Holdings Reports May 2026 Trading Results](http://w
 Append: [Checkout.Com Scales Stablecoin Settlement For US Merchants In Partnership With Fireblocks - Now Available Across The US In Supported Jurisdictions*, The Solution Lets Merchants Settle Into Their Preferred Stablecoin Wallet With A Payment Rail That Operates 24/7/365 – A Faster Alternative To Traditional Banking Rails.](http://www.mondovisione.com/media-and-resources/news/checkoutcom-scales-stablecoin-settlement-for-us-merchants-in-partnership-with-f-202663/)
 append_entries: 10
 Finish: 2026-06-03 16:58:56.403564
+------------------------------------------------------
+Started: 2026-06-03 21:20:42.582023
+Existing_entries: 76
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Reports May 2026 Volumes](http://www.mondovisione.com/media-and-resources/news/nasdaq-reports-may-2026-volumes-202663/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Staff Issues No-Action Position Related To Designated Contract Market Procedures](http://www.mondovisione.com/media-and-resources/news/cftc-staff-issues-no-action-position-related-to-designated-contract-market-proce-202663/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Base Case: Remarks At The IC3 Blockchain Camp, SEC Commissioner Hester M. Peirce, Princeton, N.J., June 2, 2026](http://www.mondovisione.com/media-and-resources/news/base-case-remarks-at-the-ic3-blockchain-camp-sec-commissioner-hester-m-peirce-202663/)
+append_entries: 3
+Finish: 2026-06-03 21:20:43.805704
