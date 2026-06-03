@@ -243,3 +243,26 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Base Case: Remarks At The IC3 Blockchain Camp, SEC Commissioner Hester M. Peirce, Princeton, N.J., June 2, 2026](http://www.mondovisione.com/media-and-resources/news/base-case-remarks-at-the-ic3-blockchain-camp-sec-commissioner-hester-m-peirce-202663/)
 append_entries: 3
 Finish: 2026-06-03 21:20:43.805704
+------------------------------------------------------
+Started: 2026-06-03 23:48:17.287476
+Existing_entries: 79
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Rescinds Policy Regarding Denials Of Settlements In Enforcement Actions](http://www.mondovisione.com/media-and-resources/news/cftc-rescinds-policy-regarding-denials-of-settlements-in-enforcement-actions-202663/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Supervision and Regulation, Federal Reserve Vice Chair For Supervision Michelle W. Bowman, Before The Committee On Financial Services, U.S. House Of Representatives, Washington, D.C.](http://www.mondovisione.com/media-and-resources/news/supervision-and-regulation-federal-reserve-vice-chair-for-supervision-michelle-202663/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cboe Global Markets Reports Trading Volume For May 2026](http://www.mondovisione.com/media-and-resources/news/cboe-global-markets-reports-trading-volume-for-may-2026-202663/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Federal Reserve Supervision And Regulation Report](http://www.mondovisione.com/media-and-resources/news/federal-reserve-supervision-and-regulation-report-202663/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Quarterly Adjustment Of GPW Benchmark Indices](http://www.mondovisione.com/media-and-resources/news/quarterly-adjustment-of-gpw-benchmark-indices-202663/)
+Append: [Exegy Expands Market Data Coverage Offering With New Middle East Markets](http://www.mondovisione.com/media-and-resources/news/exegy-expands-market-data-coverage-offering-with-new-middle-east-markets-202663/)
+Append: [IFC, NGX Group, LCCI Unveil Nigeria Gender Country Program At CEO Roundtable](http://www.mondovisione.com/media-and-resources/news/ifc-ngx-group-lcci-unveil-nigeria-gender-country-program-at-ceo-roundtable-202663/)
+append_entries: 7
+Finish: 2026-06-03 23:48:18.706669
