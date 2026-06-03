@@ -167,3 +167,12 @@ Existing_entries: 55
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-06-02 23:50:27.525895
+------------------------------------------------------
+Started: 2026-06-03 04:45:13.626205
+Existing_entries: 55
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NYSE Member Firms Report First Quarter Results](http://www.mondovisione.com/media-and-resources/news/nyse-member-firms-report-first-quarter-results-202663/)
+append_entries: 1
+Finish: 2026-06-03 04:45:14.534313
