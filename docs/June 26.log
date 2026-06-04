@@ -355,3 +355,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SEC Announces New Members Of Small Business Capital Formation Advisory Committee](http://www.mondovisione.com/media-and-resources/news/sec-announces-new-members-of-small-business-capital-formation-advisory-committee-202664/)
 append_entries: 2
 Finish: 2026-06-04 21:44:56.596400
+------------------------------------------------------
+Started: 2026-06-04 23:12:23.712357
+Existing_entries: 111
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-06-04 23:12:24.928544
