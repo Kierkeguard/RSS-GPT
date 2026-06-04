@@ -272,3 +272,24 @@ Existing_entries: 86
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-06-04 04:40:03.713988
+------------------------------------------------------
+Started: 2026-06-04 10:03:09.305947
+Existing_entries: 86
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Broadridge Appoints Ignacio Escobedo As Premier Account Leader For Southern Europe - Seasoned Financial Services Executive To Deepen Strategic Client Relationships And Increase Growth Across Key Southern European Accounts](http://www.mondovisione.com/media-and-resources/news/broadridge-appoints-ignacio-escobedo-as-premier-account-leader-for-southern-euro-202664/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASX Group Monthly Activity Report - May 2026](http://www.mondovisione.com/media-and-resources/news/asx-group-monthly-activity-report-may-2026-202664/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NZX Shareholder Metrics - May 2026](http://www.mondovisione.com/media-and-resources/news/nzx-shareholder-metrics-may-2026-202664/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ISDA The Swap - Episode 58: The AGM Agenda](http://www.mondovisione.com/media-and-resources/news/isda-the-swap-episode-58-the-agm-agenda-202664/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [B.C. Securities Commission Issues First Whistleblower Award](http://www.mondovisione.com/media-and-resources/news/bc-securities-commission-issues-first-whistleblower-award-202664/)
+append_entries: 5
+Finish: 2026-06-04 10:03:10.305787
