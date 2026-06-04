@@ -343,3 +343,15 @@ Append: [EEX Awarded Mandate To Host The Fourth EU Common Auction Platform (CAP4
 Append: [EEX Marks Sixth Anniversary Of Japanese Power Futures Market](http://www.mondovisione.com/media-and-resources/news/eex-marks-sixth-anniversary-of-japanese-power-futures-market-202664/)
 append_entries: 9
 Finish: 2026-06-04 18:23:03.063020
+------------------------------------------------------
+Started: 2026-06-04 21:44:55.504715
+Existing_entries: 109
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Remarks At The Investor Advisory Committee Meeting, Paul S. Atkins, SEC Chairman, Washington D.C., June 4, 2026](http://www.mondovisione.com/media-and-resources/news/remarks-at-the-investor-advisory-committee-meeting-paul-s-atkins-sec-chairman-202664/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Announces New Members Of Small Business Capital Formation Advisory Committee](http://www.mondovisione.com/media-and-resources/news/sec-announces-new-members-of-small-business-capital-formation-advisory-committee-202664/)
+append_entries: 2
+Finish: 2026-06-04 21:44:56.596400
