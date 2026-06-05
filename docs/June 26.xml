@@ -5,11 +5,195 @@
 <link>http://www.mondovisione.com/media-and-resources/news/</link>
 
 <item>
+<title>Euronext Announces Volumes For May 2026</title>
+<link>http://www.mondovisione.com/media-and-resources/news/euronext-announces-volumes-for-may-2026-202665/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/euronext-announces-volumes-for-may-2026-202665/</guid>
+<content:encoded><![CDATA[
+
+<p align="justify"><span>Euronext, the leading European capital market infrastructure, today announced trading volumes for May 2026.</span></p>
+<p align="justify"><span>Monthly and historical volume tables are available at this address:</span></p>
+<p align="justify"><span><a class="safe---anchor---wc" href="https://connect-eu.notified.com/Tracker?data=oD1QuqeNgwxFL98NSrYHqquZqer8fazIeBXmW4mbz1FsxeS-K90OUNrwqA7gCPCnWYgeuRGynzWXnCoQyEjnUmGkT13Q9hI5k2BSvG_Umm0XnRQ9jwcqh89wMsEBxsIjtwYwvkTrUtbq5iKXfEpDKiZQzL8wyOdRWkxK8lG3M3EwzCN89uNw74gVE1ysIxL3000364009789" rel="noopener noreferrer nofollow" target="_blank">euronext.com/investor-relations#monthly-volumes</a></span></p>
+]]></content:encoded>
+<pubDate>Fri, 05 Jun 2026 16:53:17 GMT</pubDate>
+<pubDate>Fri, 05 Jun 2026 16:53:17 GMT</pubDate>
+</item>
+<item>
+<title>UK Financial Conduct Authority Imposes Requirements On Euro Exchange Securities UK Limited And Interim Managers Appointed By The Court</title>
+<link>http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-imposes-requirements-on-euro-exchange-securities-202665/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-imposes-requirements-on-euro-exchange-securities-202665/</guid>
+<content:encoded><![CDATA[
+
+<p>On 4 June 2026, the FCA required Euro Exchange Securities UK Limited (EES) to cease carrying out any regulated electronic money or payment services and, on the FCA&rsquo;s application, interim managers were appointed by the Court over EES.</p>
+<p>Serious concerns around the way EES operated its business indicated there were significant risks of financial crime. This includes systemic weaknesses in the firm&rsquo;s financial crime framework and safeguarding arrangements, alongside its ownership and governance. These risks could have had an impact on both consumers and the integrity of the market.</p>
+<p>The appointment of the interim managers was made by the Court under the <a class="ext" href="https://www.legislation.gov.uk/ukdsi/2021/9780348222814/contents" rel="noreferrer noopener" target="_blank">Payment and Electronic Money Institution Insolvency Regulations 2021<span class="sr-only">Link is external</span><span class="ext">&nbsp;</span></a>.</p>
+<p>EES will have an opportunity to be heard on 11 June 2026, following which the Court may lift the current order or place EES into special administration.</p>
+<h2>Background</h2>
+<ol>
+<li>Duncan Perring and James Bennett of <a class="ext" href="https://www.teneo.com/uk/" rel="noreferrer noopener" target="_blank">Teneo Financial Advisory Limited<span class="sr-only">Link is external</span><span class="ext"></span></a>&nbsp;have been appointed as interim managers.</li>
+<li>The interim managers are officers of the Court, who have been appointed to temporarily oversee EES&rsquo; affairs until the next Court date, on 11 June 2026.</li>
+<li>Further information about the requirements applied to the firm can be found on the <a href="https://register.fca.org.uk/s/firm?id=0010X000046FWEaQAO#what-can-this-firm-do-restrictions" target="_blank">FCA Register</a>.</li>
+</ol>
+]]></content:encoded>
+<pubDate>Fri, 05 Jun 2026 16:35:05 GMT</pubDate>
+<pubDate>Fri, 05 Jun 2026 16:35:05 GMT</pubDate>
+</item>
+<item>
+<title>MIAX Exchange Group - Options Markets - SPCX Symbol To Cloud Allocation</title>
+<link>http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-options-markets-spcx-symbol-to-cloud-allocation-202665/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-options-markets-spcx-symbol-to-cloud-allocation-202665/</guid>
+<content:encoded><![CDATA[
+
+<p><span>In preparation for the SpaceX IPO (Symbol SPCX), the MIAX Options, MIAX Pearl Options, MIAX Emerald Options, and MIAX Sapphire Options Exchanges will list options on SPCX on the following Clouds:</span><br /><br /><strong>MIAX Options Exchange</strong><span>:</span></p>
+<ol>
+<li>Market Data Feed content for SPCX will be disseminated across the <strong>Cloud 20</strong> multicast addresses for:<ol>
+<li>Top of Market (ToM) Feed</li>
+<li>Complex Top of Market (cToM) Feed</li>
+<li>MIAX Order Feed (MOR)</li>
+<li>Administrative Information Subscriber (AIS) Feed</li>
+</ol></li>
+<li>MIAX Express Interface (MEI) customers will need to direct their interface activity for options on SPCX to their MEI sessions on <strong>Cloud 20</strong></li>
+<li>FIX Order Interface (FOI), Clearing Trade Drop (CTD) and FIX Drop Copy (FXD) customers are not impacted</li>
+</ol>
+<p><strong>MIAX Pearl Options and MIAX Emerald Options:</strong><span>&nbsp;</span></p>
+<ol>
+<li>Market Data Feed content for SPCX will be disseminated across the <strong>Cloud 10</strong> multicast addresses for:<ol>
+<li>Top of Market (ToM) Feed</li>
+<li>Complex Top of Market (cToM) Feed</li>
+<li>MIAX Order Feed (MOR)</li>
+<li>Administrative Information Subscriber (AIS) Feed</li>
+<li>Pearl Liquidity Feed (PLF)</li>
+</ol></li>
+<li>MIAX Express Interface (MEI) and/or MIAX Express Order (MEO) customers will need to direct their interface activity for options on SPCX to their MEI/MEO sessions on <strong>Cloud 10</strong></li>
+<li>FIX Order Interface (FOI), Clearing Trade Drop (CTD) and FIX Drop Copy (FXD) customers are not impacted</li>
+</ol>
+<p><strong>MIAX Sapphire Options</strong><span>:</span></p>
+<ol>
+<li>Market Data Feed content for SPCX will be disseminated across the <strong>Cloud 2</strong> multicast addresses for:<ol>
+<li>Top of Market (ToM) Feed</li>
+<li>Complex Top of Market (cToM) Feed</li>
+<li>Sapphire Liquidity Feed (SLF)</li>
+</ol></li>
+<li>MIAX Express Order (MEO) customers will need to direct their interface activity for options on SPCX to their MEO sessions on <strong>Cloud 2</strong></li>
+<li>FIX Order Interface (FOI), Clearing Trade Drop (CTD) and FIX Drop Copy (FXD) customers are not impacted</li>
+</ol>
+<p><span>For additional details, please visit </span><a class="safe---anchor---wc" href="https://www.miaxglobal.com/markets/us-options/miax-options/interface-specifications" rel="noopener noreferrer nofollow" target="_blank">MIAX Options Interface Specifications</a><span>, </span><a class="safe---anchor---wc" href="https://www.miaxglobal.com/markets/us-options/pearl-options/interface-specifications" rel="noopener noreferrer nofollow" target="_blank">MIAX Pearl Options Interface Specifications</a><span>, </span><a class="safe---anchor---wc" href="https://www.miaxglobal.com/markets/us-options/emerald-options/interface-specifications" rel="noopener noreferrer nofollow" target="_blank">MIAX Emerald Options Interface Specifications</a><span> and </span><a class="safe---anchor---wc" href="https://www.miaxglobal.com/markets/us-options/sapphire-options/interface-specifications" rel="noopener noreferrer nofollow" target="_blank">MIAX Sapphire Options Interface Specifications</a><span>.</span><br /><br /><span>If you have any questions, please contact Trading Operations at </span><a class="safe---anchor---wc" rel="noopener noreferrer nofollow">TradingOperations@miaxglobal.com</a><span> or (609) 897-7302.</span></p>
+]]></content:encoded>
+<pubDate>Fri, 05 Jun 2026 16:31:39 GMT</pubDate>
+<pubDate>Fri, 05 Jun 2026 16:31:39 GMT</pubDate>
+</item>
+<item>
+<title>CME Group Announces First Trades For New Bitcoin Volatility Futures</title>
+<link>http://www.mondovisione.com/media-and-resources/news/cme-group-announces-first-trades-for-new-bitcoin-volatility-futures-202665/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/cme-group-announces-first-trades-for-new-bitcoin-volatility-futures-202665/</guid>
+<content:encoded><![CDATA[
+
+<p>CME Group, the world's leading derivatives marketplace, announced its new <span>Bitcoin</span> Volatility Index futures are now available for trading. First trades were executed as blocks between DV Chain and Monarq Asset Management.</p>
+<p>"The early support we've seen for our new <span>Bitcoin</span> Volatility futures further demonstrates the growing client demand for more innovative tools to more efficiently protect against adverse market moves," said Giovanni Vicioso, Global Head of <span>Cryptocurrency</span> Products at CME Group. "Our new 24/7 trading framework expands the utility of these contracts, allowing investors to isolate and precisely manage their portfolio's volatility risk and exposure at any hour of the day, any day of the week &ndash; unlocking a critical new layer of risk management."</p>
+<p>"We are highly encouraged to see the market expanding with more regulated, institutional-grade futures contracts designed for expressing volatility on <span>bitcoin</span>," said Shiliang Tang, CEO of Monarq Asset Management. "As <span>bitcoin</span> continues to mature into a more mainstream institutional asset class, the demand for sophisticated risk management instruments grows alongside it. Robust tools like CME Group <span>Bitcoin</span> Volatility futures are exactly what investors need to accurately express their market viewpoints and efficiently hedge their portfolios within a secure, transparent framework."</p>
+<p>"We are proud to support the launch of CME Group's <span>Bitcoin</span> Volatility futures," said Dave Vizsoly, CEO and Head Trader at DV Chain. "As institutions increasingly seek advanced strategies to navigate today's markets, the ability to trade pure volatility independent of price direction on a regulated platform is a critical evolution for both our clients and the broader marketplace."</p>
+<p>CME Group's <span>Cryptocurrency</span> product suite continues to experience significant growth, including the successful launch of 24/7 trading on May 29. Additional year-to-date trading highlights include:</p>
+<ul>
+<li>Average daily volume (ADV) of 266,900 contracts, up 38% year-over-year.</li>
+<li>Average daily open interest of 274,500 contracts, up 18% year-over-year.</li>
+</ul>
+<p>For more information on <span>Bitcoin</span> Volatility futures, please visit <a href="https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4704947-1&amp;h=1780436735&amp;u=http%3A%2F%2Fwww.cmegroup.com%2FBVI&amp;a=www.cmegroup.com%2FBVI" rel="nofollow" target="_blank">www.cmegroup.com/BVI</a>.</p>
+]]></content:encoded>
+<pubDate>Fri, 05 Jun 2026 16:37:28 GMT</pubDate>
+<pubDate>Fri, 05 Jun 2026 16:37:28 GMT</pubDate>
+</item>
+<item>
+<title>AutoRek Wins Best Reconciliation Solution At FTF News Technology Innovation Awards 2026 - Peer-Voted Recognition Highlights Impact Of AutoRek ARIA, An AI Reconciliation Agent, On Operational Efficiency And Accuracy Across Capital Markets</title>
+<link>http://www.mondovisione.com/media-and-resources/news/autorek-wins-best-reconciliation-solution-at-ftf-news-technology-innovation-awar-202665/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/autorek-wins-best-reconciliation-solution-at-ftf-news-technology-innovation-awar-202665/</guid>
+<content:encoded><![CDATA[
+
+<p><a class="safe---anchor---wc" href="https://autorek.com/asset-management-and-capital-markets/?utm_source=PR&amp;utm_medium=PR&amp;utm_campaign=FTFawardwin" rel="noopener noreferrer nofollow" target="_blank">AutoRek</a>, a leading provider of automated reconciliation and financial controls solutions, has been named Best Reconciliation Solution at <a class="safe---anchor---wc" href="https://www.ftfnews.com/awards/ftf-news-technology-innovation-awards-2026/" rel="noopener noreferrer nofollow" target="_blank">the FTF News Technology Innovation Awards 2026</a>. Now in its 15th year, the awards program recognizes outstanding technology providers across securities operations, with winners selected by industry peers, clients and partners through an open vote. With this award, FTF News acknowledges AutoRek's continued innovation in reconciliation technology, including the introduction of AutoRek ARIA, an intelligent AI agent embedded directly within the platform.</p>
+<p>For more than 30 years, AutoRek has helped global asset managers, investment banks and brokers modernize and scale their reconciliation operations as financial data volumes and operational complexity continue to grow. AutoRek ARIA builds on that foundation by bringing AI directly into the reconciliation workflow, helping teams resolve exceptions faster, improve matching accuracy and make more informed decisions in real time.</p>
+<p>The launch of AutoRek ARIA addresses a pressing operational challenge facing the industry. AutoRek research shows that 79 percent of asset management and capital markets firms struggle to keep pace with current data volumes. AutoRek enables reconciliation teams to scale operations without compromising on accuracy or control. Now sitting within that platform, AutoRek ARIA has a powerful set of AI capabilities that accelerates and improves the workflow, in a way that ensures control and trust come first.&nbsp;&nbsp;</p>
+<p><i>"AutoRek has been leading this space for more than 30 years, and the problems firms face today around data volumes, operational complexity and the pressure to do more with less are bigger than ever,&rdquo; </i><b>Chris Livesey, CEO of AutoRek, said.</b> <i>&ldquo;With AutoRek ARIA offering a trusted control layer for next-generation financial operations, we enable firms to safely operate with more speed, accuracy, and intelligence. Winning this award matters because it's recognition that the approach we've taken, combining innovative technology with deep domain experience in complex reconciliations, is the right one."</i></p>
+<p><i>"There's no denying this industry is hard. It's competitive. It can be unforgiving. Nothing is ever given. Everything is earned through a lot of hard work, perseverance, and dedication. Which is why being voted the best service or solution by the very industry you serve is so incredibly rewarding,"</i> <b>said Maureen Lowe, founder and editor-in-chief of FTF News.</b></p>
+<p><i>"Every year, the FTF team puts on an awards celebration that matches what the winners deserve, and this year is no different. We're not just recognizing our 2026 FTF Award winners, we're also celebrating 20 years of FTF and 15 years of the Awards program. Let's get ready to party in NYC on June 16,"</i> <b>Lowe added.</b></p>
+<p>The FTF News Technology Innovation Awards celebrate solutions that are transforming operations across financial services. AutoRek was selected in the Best Reconciliation Solution category.</p>
+]]></content:encoded>
+<pubDate>Fri, 05 Jun 2026 16:41:30 GMT</pubDate>
+<pubDate>Fri, 05 Jun 2026 16:41:30 GMT</pubDate>
+</item>
+<item>
+<title>Malawi Stock Exchange Weekly Summary Report, 5 June 2026</title>
+<link>http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-5-june-2026-202665/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-5-june-2026-202665/</guid>
+<content:encoded><![CDATA[
+
+<p><span>Click </span><a href="https://mondovisione.com/_assets/files/MSE_Weekly-Summary-Report-05-June-2026.pdf" title="MSE_Weekly Summary Report 05 June 2026">here</a><span> to download Malawi Stock Exchange's weekly summary report.</span></p>
+]]></content:encoded>
+<pubDate>Fri, 05 Jun 2026 16:49:08 GMT</pubDate>
+<pubDate>Fri, 05 Jun 2026 16:49:08 GMT</pubDate>
+</item>
+<item>
+<title>ADX And Listed Companies To Showcase Proven Market Resilience And Robust Growth On London Roadshow</title>
+<link>http://www.mondovisione.com/media-and-resources/news/adx-and-listed-companies-to-showcase-proven-market-resilience-and-robust-growth-202665/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/adx-and-listed-companies-to-showcase-proven-market-resilience-and-robust-growth-202665/</guid>
+<content:encoded><![CDATA[
+
+<p>The Abu Dhabi Securities Exchange (ADX) Group, one of the world&rsquo;s fastest-growing exchanges, will lead a delegation of 23 prominent listed companies to the fifth HSBC GCC Exchanges Conference in London from 8 to 11 June to highlight the resilience, deep liquidity, and robust growth prospects of Abu Dhabi&rsquo;s capital market to global investors, business leaders, and policymakers.</p>
+<p>Headed by Chairman H.E. Ghannam Al Mazrouei and Group CEO Abdulla Salem Alnuaimi, the visit follows a period of recent global market volatility, during which ADX demonstrated notable resilience and recovered quickly relative to regional peers. The market&rsquo;s performance reflected the strength of its underlying infrastructure and prior market structure enhancements, which helped sustain liquidity. This performance highlights the strength of Abu Dhabi&rsquo;s capital market and its attractiveness to long-term international investors.</p>
+<p><b>Abdulla Salem Alnuaimi, Group Chief Executive Officer of the ADX Group</b>, said: &ldquo;Global investors can confidently look to Abu Dhabi as a market that continues to preserve and grow value across shifting economic cycles. ADX&rsquo;s recovery during recent volatility demonstrated the strength of our infrastructure, liquidity, and market structure. As we head to London alongside 23 leading ADX-listed companies, we are connecting international capital with long-term structural growth, supported by strong corporate performance. In Q1 2026, ADXlisted companies reported 48 billion dirhams, approximately USD 13.1 billion, in profits, up 17% year-on-year, while 66.2 billion dirhams in dividends have been announced to date this year, reinforcing the market&rsquo;s depth, resilience, and shareholder value.&rdquo;</p>
+<p>This operational resilience is underpinned by Abu Dhabi&rsquo;s strong economic fundamentals, including one of the highest sovereign credit ratings globally, and by the strong non-oil GDP growth of 7.6% year on year in Q3 2025, according to the latest figures from the Statistics Centre &ndash; Abu Dhabi (SCAD). At ADX, this resilience is reflected in the performance of its markets during the first four months of 2026. As of the end of April 2026, ADX&rsquo;s market capitalization stood at 2.83 trillion dirhams, approximately USD 771 billion, while average daily trading value reached 1.4 billion dirhams, approximately USD 381 million, representing an 8.2% year-on-year increase compared to the same period in 2025.</p>
+<p>During the same four-month period, institutional investors recorded 182 billion dirhams, approximately USD 49.6 billion, in buy and sell trading value, accounting for 77% of the exchange&rsquo;s total trading value. They also conducted 30,000 buy and sell trades on ADX, representing a 19% year-on-year increase.</p>
+<p>Foreign investors accounted for 47.3% of total trading value during the first four months of 2026, amounting to 111 billion dirhams or approximately USD 30.4 billion. This builds on last year&rsquo;s momentum, when foreign investment rose by nearly 14% year-on-year and institutional trading increased by 10%.</p>
+<p>Since the beginning of 2026, ADX-listed companies have announced cash dividends totaling 66.2 billion dirhams, or approximately USD 18 billion, while continuing to deliver strong earnings, significant shareholder returns, and sustained business growth.</p>
+<p>For this London Roadshow, ADX will bring along a delegation featuring 23 ADX-listed companies representing key growth sectors across Abu Dhabi&rsquo;s thriving diversified economy.&nbsp;</p>
+<ul>
+<li>Energy &amp; Infrastructure:, ADNOC Distribution, ADNOC Drilling, ADNOC Gas, ADNOC Logistics &amp; Services, Borouge, Dana Gas, Fertiglobe, NMDC Energy, and NMDC Group. </li>
+<li>Financial Services &amp; Conglomerates: Abu Dhabi Commercial Bank, Abu Dhabi Islamic Bank, First Abu Dhabi Bank, 2PointZero, and Waha Capital. </li>
+<li>Real Estate &amp; Logistics: Aldar Properties, AD Ports Group, Agility Global, and Modon Holding. </li>
+<li>Healthcare &amp; Consumer Goods: Burjeel Holdings, PureHealth. </li>
+<li>SpaceTech &amp; AI: Presight, Space42. </li>
+<li>Telecommunications: e&amp; </li>
+</ul>
+]]></content:encoded>
+<pubDate>Fri, 05 Jun 2026 17:22:47 GMT</pubDate>
+<pubDate>Fri, 05 Jun 2026 17:22:47 GMT</pubDate>
+</item>
+<item>
+<title>Dubai Financial Market Regulated Short Sell – Weekly Summary - 1st June 2026 To 05th June 2026</title>
+<link>http://www.mondovisione.com/media-and-resources/news/dubai-financial-market-regulated-short-sell-weekly-summary-1st-june-2026-to-202665/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/dubai-financial-market-regulated-short-sell-weekly-summary-1st-june-2026-to-202665/</guid>
+<content:encoded><![CDATA[
+
+<p>The following is the weekly trading summary for DFM Regulated Short Sell Transactions for the abovementioned period.</p>
+<p>** No RSS Trades for the period from 01<sup>st</sup> June 2026 to 05<sup>th</sup> June 2026.</p>
+<p>For further information on RSS, please check the DFM Market Rules Module Three Membership, Trading, And Derivatives Rules &amp;</p>
+<p>Operational Model and Procedures for Implementation of Regulated Short Selling available at &nbsp;<a href="http://www.dfm.ae/the-exchange/regulation/market-rules">http://www.dfm.ae/the</a><a href="http://www.dfm.ae/the-exchange/regulation/market-rules">-</a><a href="http://www.dfm.ae/the-exchange/regulation/market-rules">exchange/regulation/market</a><a href="http://www.dfm.ae/the-exchange/regulation/market-rules">-</a><a href="http://www.dfm.ae/the-exchange/regulation/market-rules">rules</a></p>
+<p>This Dubai Financial Market Announcement will be available on the website at&nbsp; <a href="https://www.dfm.ae/the-exchange/news-disclosures/market-announcements">https://www.dfm.ae/the</a><a href="https://www.dfm.ae/the-exchange/news-disclosures/market-announcements">-</a><a href="https://www.dfm.ae/the-exchange/news-disclosures/market-announcements">exchange/news</a><a href="https://www.dfm.ae/the-exchange/news-disclosures/market-announcements">-</a><a href="https://www.dfm.ae/the-exchange/news-disclosures/market-announcements">disclosures/market</a><a href="https://www.dfm.ae/the-exchange/news-disclosures/market-announcements">-</a><a href="https://www.dfm.ae/the-exchange/news-disclosures/market-announcements">announcements</a></p>
+]]></content:encoded>
+<pubDate>Fri, 05 Jun 2026 17:18:26 GMT</pubDate>
+<pubDate>Fri, 05 Jun 2026 17:18:26 GMT</pubDate>
+</item>
+<item>
+<title>ICE Benchmark Administration Launches ICE Swap Rate® Inflation Swap Benchmarks In GBP And EUR</title>
+<link>http://www.mondovisione.com/media-and-resources/news/ice-benchmark-administration-launches-ice-swap-rate-inflation-swap-benchmarks-i-202665/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/ice-benchmark-administration-launches-ice-swap-rate-inflation-swap-benchmarks-i-202665/</guid>
+<content:encoded><![CDATA[
+
+<p>Intercontinental Exchange, Inc. (NYSE:ICE), one of the world's leading providers of financial market technology and data powering global capital markets, today announced that ICE Benchmark Administration Limited (IBA), a leading administrator of regulated benchmarks, has launched two new ICE Swap Rate&reg; Inflation Swap benchmarks.</p>
+<p>The new benchmarks reference the U.K. Retail Prices Index (RPI) for GBP and the Eurozone Harmonised Index of Consumer Prices excluding tobacco (HICP ex-tobacco) for EUR, based on zero-coupon inflation index swaps. The RPI and HICP ex-tobacco are key U.K. and Eurozone indices which measure inflation by tracking the changing cost of a representative basket of goods and services.</p>
+<p>ICE Swap Rate&reg; Inflation Swap benchmarks aim to provide market participants with robust, transparent reference rates for use in transactions and valuations. The GBP and EUR reference rates are calculated daily using the <a href="https://www.ice.com/publicdocs/ICE_Swap_Rate_Calculation_Waterfall_Methodology.pdf" rel="nofollow" shape="rect">ICE Swap Rate&reg; Waterfall Methodology</a> based on dealer-to-client data provided by Tradeweb and are published in tenors from 1 to 30 years.</p>
+<p>&ldquo;As a global leader in regulated benchmark administration, IBA is uniquely positioned to bring the same rigorous governance, data management and technology that underpins the existing ICE Swap Rate&reg; suite of benchmarks to the inflation swap market,&rdquo; said Clive de Ruig, President of IBA.</p>
+<p>&ldquo;Amid evolving inflationary pressures and shifting central bank policies across the U.K. and Eurozone, the demand for inflation risk management tools has grown, and ICE Swap Rate&reg; Inflation Swap benchmarks are designed to give market participants regulated, transparent reference rates to ensure certainty and predictability in inflation swap settlement,&rdquo; continued de Ruig.</p>
+<p>In addition to ICE Swap Rate&reg; Inflation Swap benchmarks, IBA publishes ICE Swap Rate&reg; benchmarks based on swaps referencing EURIBOR, &euro;STR, SONIA and SOFR, and swap spreads linked to SOFR. IBA also publishes SONIA spread-adjusted and SOFR spread-adjusted ICE Swap Rate&reg; settings.</p>
+<p>ICE Swap Rate&reg; is designated as a &ldquo;critical benchmark&rdquo; under the U.K. Benchmarks Regulation and has been specified as a &ldquo;significant benchmark&rdquo; under the EU Benchmarks Regulation.</p>
+<p>ICE Swap Rate&reg; benchmark settings are available under licence, including for redistribution, valuation and pricing activities and for use in transactions and financial products. Prospective licensees should contact IBA's licensing team at <a href="mailto:IBA-Licensing@ice.com" rel="nofollow" shape="rect">IBA-Licensing@ice.com</a>.</p>
+]]></content:encoded>
+<pubDate>Fri, 05 Jun 2026 16:43:42 GMT</pubDate>
+<pubDate>Fri, 05 Jun 2026 16:43:42 GMT</pubDate>
+</item>
+
+<item>
 <title>Disciplinary Committee Of Nasdaq Helsinki Fine Imposed To Faron Pharmaceuticals Ltd For Breaching The Rules Of Nasdaq First North</title>
 <link>http://www.mondovisione.com/media-and-resources/news/disciplinary-committee-of-nasdaq-helsinki-fine-imposed-to-faron-pharmaceuticals-202665/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/disciplinary-committee-of-nasdaq-helsinki-fine-imposed-to-faron-pharmaceuticals-202665/</guid>
 <content:encoded><![CDATA[
-
 <p><span>The Disciplinary Committee of Nasdaq Helsinki Ltd has imposed a fine of EUR 30,000 to Faron Pharmaceuticals Ltd (trading code: FARON) due to the breaches of the rules of Nasdaq Helsinki Ltd (&ldquo;the Exchange&rdquo;).</span><br /><br /><span>Faron Pharmaceuticals Ltd (&ldquo;the Company&rdquo;) breached the Nasdaq First North Growth Market Rulebook for Issuers of Shares (&ldquo;Rules&rdquo;) of the Exchange&rdquo; when disclosing the seizure of its bank accounts in February, the change of its CEO in April and its share issue in June 2024. The Disciplinary Committee concluded in its decision that the Company did not disclose the information in timely manner as soon as possible.</span><br /><br /><span>In addition, the matter concerned whether the statements of the CEO given in an interview in May 2024 were contrary to good securities market practice. Disciplinary Committee noted that although the interview highlighted uncertainties related to drug development and the Company&rsquo;s products, the probability of success in drug development was portrayed in a manner that was, in part, overly positive and thus provided misleading information. Furthermore, statements regarding the timing and uniqueness of the investment were considered inappropriate. The Disciplinary Committee stated in its decision that the Company&rsquo;s CEO&rsquo;s conduct during the interview was not in accordance with good securities market practice.</span><br /><br /><span>Furthermore, the Disciplinary Committee stated that the Company&rsquo;s numerous and consecutive, yet separate, breaches of the Rules have in themselves been material and have concerned the fundamental obligations of a listed company, and failure of these may adversely affect the position of investors as well as the reliability of the securities markets and the operations of the Exchange. On the other hand, the Disciplinary Committee has considered that the violations have, in part, been minor. Taking into account the Company&rsquo;s financial situation, the Disciplinary Committee considered that a disciplinary fine of EUR 30,000 should be imposed on the Company in this case as a proportionate sanction.</span><br /><br /><span>The Disciplinary Committee also dismissed two other alleged rule violations asserted by Market Surveillance of the Exchange.</span></p>
 <p><span>The decision of the Disciplinary Committee is available:</span><br /><a class="safe---anchor---wc" href="https://www.nasdaq.com/market-regulation/nordic/helsinki/disciplinary/decisions-sanctions" rel="noopener noreferrer nofollow" target="_blank"><span>&nbsp;</span></a><a class="safe---anchor---wc" href="https://www.nasdaq.com/market-regulation/nordic/helsinki/disciplinary/decisions-sanctions" rel="noopener noreferrer nofollow" target="_blank">https://www.nasdaq.com/market-regulation/nordic/helsinki/disciplinary/decisions-sanctions</a></p>
 <h4><strong><span>Surveillance at Nasdaq Helsinki and the Disciplinary Committee</span></strong></h4>
@@ -18,14 +202,12 @@
 <p><span>Established in 2006, the Foundation supports financial markets through scientific research. The Nasdaq Nordic Foundation receives paid fines from breaches by members or listed companies in Nasdaq Helsinki, Nasdaq Copenhagen, and Nasdaq Stockholm. The Foundation&rsquo;s mission is to promote scientific research and other initiatives related to financial markets in Finland, Denmark, and Sweden, with the goal of increasing competence and competitiveness for the financial markets in these countries.</span></p>
 ]]></content:encoded>
 <pubDate>Fri, 05 Jun 2026 11:42:30 GMT</pubDate>
-<pubDate>Fri, 05 Jun 2026 11:42:30 GMT</pubDate>
 </item>
 <item>
 <title>UK Financial Conduct Authority: Simpler Climate Reporting Rules Could Save Firms £20m Annually</title>
 <link>http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-simpler-climate-reporting-rules-could-save-firms-202665/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-simpler-climate-reporting-rules-could-save-firms-202665/</guid>
 <content:encoded><![CDATA[
-
 <p>Investment firms could save around &pound;20m a year under new proposals from the FCA to simplify climate reporting for investment products.</p>
 <p>The FCA estimates it could deliver these savings by replacing detailed product-level reports based on the <a href="https://www.fca.org.uk/publications/policy-statements/ps-21-24-climate-related-disclosures-asset-managers-life-insurers-regulated-pensions" title="PS21/24: Enhancing climate-related disclosures by asset managers, life insurers and FCA-regulated pension providers">Task Force on Climate-related Financial Disclosures (TCFD)</a> with simpler, more targeted information for retail investors, in line with the Consumer Duty.</p>
 <p>The changes aim to give investors clearer insight into how climate risks &ndash; such as floods, storms and other extreme weather events &ndash; could affect investment performance, while reducing unnecessary costs to firms.</p>
@@ -51,9 +233,7 @@
 </ul>
 ]]></content:encoded>
 <pubDate>Fri, 05 Jun 2026 11:38:08 GMT</pubDate>
-<pubDate>Fri, 05 Jun 2026 11:38:08 GMT</pubDate>
 </item>
-
 <item>
 <title>Additional Budget Estimates, Opening Statement By ASIC Chair Sarah Court, Senate Economics Legislation Committee, 5 June 2026</title>
 <link>http://www.mondovisione.com/media-and-resources/news/additional-budget-estimates-opening-statement-by-asic-chair-sarah-court-senate-202665/</link>
