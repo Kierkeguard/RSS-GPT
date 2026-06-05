@@ -379,3 +379,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ASIC Proposes To Withdraw Financial Reporting Relief For Uncontactable Members](http://www.mondovisione.com/media-and-resources/news/asic-proposes-to-withdraw-financial-reporting-relief-for-uncontactable-members-202665/)
 append_entries: 2
 Finish: 2026-06-05 10:00:24.366048
+------------------------------------------------------
+Started: 2026-06-05 12:46:45.144279
+Existing_entries: 113
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Disciplinary Committee Of Nasdaq Helsinki Fine Imposed To Faron Pharmaceuticals Ltd For Breaching The Rules Of Nasdaq First North](http://www.mondovisione.com/media-and-resources/news/disciplinary-committee-of-nasdaq-helsinki-fine-imposed-to-faron-pharmaceuticals-202665/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority: Simpler Climate Reporting Rules Could Save Firms £20m Annually](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-simpler-climate-reporting-rules-could-save-firms-202665/)
+append_entries: 2
+Finish: 2026-06-05 12:46:46.134956
