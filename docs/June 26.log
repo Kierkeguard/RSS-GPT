@@ -416,3 +416,24 @@ Append: [Dubai Financial Market Regulated Short Sell – Weekly Summary - 1st Ju
 Append: [ICE Benchmark Administration Launches ICE Swap Rate® Inflation Swap Benchmarks In GBP And EUR](http://www.mondovisione.com/media-and-resources/news/ice-benchmark-administration-launches-ice-swap-rate-inflation-swap-benchmarks-i-202665/)
 append_entries: 9
 Finish: 2026-06-05 16:31:19.748961
+------------------------------------------------------
+Started: 2026-06-05 20:00:52.596810
+Existing_entries: 124
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Commitments Of Traders Reports Update](http://www.mondovisione.com/media-and-resources/news/cftc-commitments-of-traders-reports-update-202665/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TMX Group Equity Financing Statistics – May 2026](http://www.mondovisione.com/media-and-resources/news/tmx-group-equity-financing-statistics-may-2026-202665/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nigerian Exchange Weekly Market Report For The Week Ended 5 June 2026](http://www.mondovisione.com/media-and-resources/news/nigerian-exchange-weekly-market-report-for-the-week-ended-5-june-2026-202665/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Exchange Group - Options Markets - Market For Underlying Security Used For Openings For Newly Listed Symbols Effective Monday, June 8, 2026](http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-options-markets-market-for-underlying-security-used-for-202665/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIFMA Fixed Income Market Close Recommendation In The U.S., The U.K., And Japan For Juneteenth](http://www.mondovisione.com/media-and-resources/news/sifma-fixed-income-market-close-recommendation-in-the-us-the-uk-and-japan-202665/)
+append_entries: 5
+Finish: 2026-06-05 20:00:53.477170
