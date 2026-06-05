@@ -367,3 +367,15 @@ Existing_entries: 111
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-06-05 04:13:23.985646
+------------------------------------------------------
+Started: 2026-06-05 10:00:22.986270
+Existing_entries: 111
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Additional Budget Estimates, Opening Statement By ASIC Chair Sarah Court, Senate Economics Legislation Committee, 5 June 2026](http://www.mondovisione.com/media-and-resources/news/additional-budget-estimates-opening-statement-by-asic-chair-sarah-court-senate-202665/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Proposes To Withdraw Financial Reporting Relief For Uncontactable Members](http://www.mondovisione.com/media-and-resources/news/asic-proposes-to-withdraw-financial-reporting-relief-for-uncontactable-members-202665/)
+append_entries: 2
+Finish: 2026-06-05 10:00:24.366048
