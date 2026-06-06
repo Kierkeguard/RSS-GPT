@@ -458,3 +458,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [S&P Global To Present At Mizuho Technology Conference 2026 On June 10, 2026 - Session Will Be Webcast](http://www.mondovisione.com/media-and-resources/news/sandp-global-to-present-at-mizuho-technology-conference-2026-on-june-10-2026-se-202666/)
 append_entries: 1
 Finish: 2026-06-06 07:21:05.321577
+------------------------------------------------------
+Started: 2026-06-06 10:09:18.671395
+Existing_entries: 130
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-06-06 10:09:19.559248
