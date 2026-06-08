@@ -608,3 +608,21 @@ Append: [FTSE SET Index Series June 2026 Semi-Annual Review](http://www.mondovis
 Append: [SET Scales Up Its “Teachers As Learning Facilitators” Model To Expand Financial And Investment Literacy Nationwide](http://www.mondovisione.com/media-and-resources/news/set-scales-up-its-teachers-as-learning-facilitators-model-to-expand-financial-202668/)
 append_entries: 10
 Finish: 2026-06-08 16:02:43.134708
+------------------------------------------------------
+Started: 2026-06-08 20:24:36.410122
+Existing_entries: 150
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Swaps Report Update](http://www.mondovisione.com/media-and-resources/news/cftc-swaps-report-update-202668/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [S&P Global Market Intelligence Data | Top 10 Most Shorted Stocks In The US](http://www.mondovisione.com/media-and-resources/news/sandp-global-market-intelligence-data-top-10-most-shorted-stocks-in-the-us-202668/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc ("LSEG") Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transaction-in-own-shares-202668/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The EBA Launches Discussion Paper On Pillar 3 Data Hub For Small Banks](http://www.mondovisione.com/media-and-resources/news/the-eba-launches-discussion-paper-on-pillar-3-data-hub-for-small-banks-202668/)
+append_entries: 4
+Finish: 2026-06-08 20:24:37.480381
