@@ -5,11 +5,78 @@
 <link>http://www.mondovisione.com/media-and-resources/news/</link>
 
 <item>
+<title>MIAX Exchange Group - Options Markets - Update: SpaceX Cloud Allocation Multicast Addresses And Symbol Range Changes On MIAX Sapphire Clouds 6 And 7</title>
+<link>http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-options-markets-update-spacex-cloud-allocation-multicas-202669/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-options-markets-update-spacex-cloud-allocation-multicas-202669/</guid>
+<content:encoded><![CDATA[
+
+<p><span>As previously announced in the </span><a class="safe---anchor---wc" href="https://www.miaxglobal.com/alert/2026/06/05/miax-exchange-group-options-markets-spcx-symbol-cloud-allocation-0" rel="noopener noreferrer nofollow" target="_blank">June 5, 2026 Alert</a><span>, the MIAX Options, MIAX Pearl Options, MIAX Emerald Options, and MIAX Sapphire Options Exchanges will list options on SpaceX (symbol SPCX) once they are approved for trading. Below are updates to Cloud allocations for each exchange:</span><br /><br /><strong>MIAX Options Exchange</strong><span>:</span></p>
+<ol>
+<li>Market Data Feed content for SPCX will be disseminated across <strong>Cloud 22 </strong>(previously Cloud 20) multicast addresses for:<ol>
+<li>Top of Market (ToM) Feed</li>
+<li>Complex Top of Market (cToM) Feed</li>
+<li>MIAX Order Feed (MOR)</li>
+<li>Administrative Information Subscriber (AIS) Feed</li>
+</ol></li>
+<li>MIAX Express Interface (MEI) customers will need to direct their interface activity for options on SPCX to their MEI sessions on <strong>Cloud 22 </strong>(previously Cloud 20)</li>
+<li>FIX Order Interface (FOI), Clearing Trade Drop (CTD) and FIX Drop Copy (FXD) customers are not impacted</li>
+</ol>
+<p><strong>MIAX Pearl Options and MIAX Emerald Options:</strong><span>&nbsp;</span></p>
+<ol>
+<li>Market Data Feed content for SPCX will be disseminated across <strong>Cloud 8 </strong>(previously Cloud 10) multicast addresses for:<ol>
+<li>Top of Market (ToM) Feed</li>
+<li>Complex Top of Market (cToM) Feed</li>
+<li>MIAX Order Feed (MOR)</li>
+<li>Administrative Information Subscriber (AIS) Feed</li>
+<li>Pearl Liquidity Feed (PLF)</li>
+</ol></li>
+<li>MIAX Express Interface (MEI) and/or MIAX Express Order (MEO) customers will need to direct their interface activity for options on SPCX to their MEI/MEO sessions on <strong>Cloud 8</strong> (previously Cloud 10)</li>
+<li>FIX Order Interface (FOI), Clearing Trade Drop (CTD) and FIX Drop Copy (FXD) customers are not impacted</li>
+</ol>
+<p><strong>MIAX Sapphire Options</strong><span>:</span></p>
+<ol>
+<li>Market Data Feed content for SPCX will be disseminated across <strong>Cloud 7 </strong>(previously Cloud 2) multicast addresses for:<ol>
+<li>Top of Market (ToM) Feed</li>
+<li>Complex Top of Market (cToM) Feed</li>
+<li>Sapphire Liquidity Feed (SLF)</li>
+</ol></li>
+<li>MIAX Express Order (MEO) customers will need to direct their interface activity for options on SPCX to their MEO sessions on <strong>Cloud 7 </strong>(previously Cloud 2)</li>
+<li>FIX Order Interface (FOI), Clearing Trade Drop (CTD) and FIX Drop Copy (FXD) customers are not impacted</li>
+<li><strong>In addition to the allocation of symbol SPCX to Cloud 7, MIAX Sapphire Options will also move symbol range (YALA-ZWS)</strong>&nbsp;<strong>&nbsp;from Cloud 7 to Cloud 6.</strong><ol>
+<li><strong>Effective for trading on Monday, June 15, 2026:</strong><ol>
+<li><strong>Cloud 6:&nbsp; T-Z&nbsp; (with the exception of symbol ZYME)</strong></li>
+<li><strong>Cloud 7: ZYME&nbsp; &nbsp;(and symbol SPCX once options begin trading)</strong></li>
+</ol></li>
+</ol></li>
+</ol>
+<p><span>For additional details, please visit </span><a class="safe---anchor---wc" href="https://www.miaxglobal.com/markets/us-options/miax-options/interface-specifications" rel="noopener noreferrer nofollow" target="_blank">MIAX Options Interface Specifications</a><span>, </span><a class="safe---anchor---wc" href="https://www.miaxglobal.com/markets/us-options/pearl-options/interface-specifications" rel="noopener noreferrer nofollow" target="_blank">MIAX Pearl Options Interface Specifications</a><span>, </span><a class="safe---anchor---wc" href="https://www.miaxglobal.com/markets/us-options/emerald-options/interface-specifications" rel="noopener noreferrer nofollow" target="_blank">MIAX Emerald Options Interface Specifications</a><span> and </span><a class="safe---anchor---wc" href="https://www.miaxglobal.com/markets/us-options/sapphire-options/interface-specifications" rel="noopener noreferrer nofollow" target="_blank">MIAX Sapphire Options Interface Specifications</a><span>.</span><br /><br /><span>If you have any questions, please contact Trading Operations at </span><a class="safe---anchor---wc" rel="noopener noreferrer nofollow">TradingOperations@miaxglobal.com</a><span> or (609) 897-7302.</span></p>
+]]></content:encoded>
+<pubDate>Tue, 09 Jun 2026 16:00:19 GMT</pubDate>
+<pubDate>Tue, 09 Jun 2026 16:00:19 GMT</pubDate>
+</item>
+<item>
+<title>ICE Launches AI-Powered Fixed Income Pre-Trade Analytics For Buyside Investors - Enables Institutional Investors And Asset Managers To Estimate Counterparty Price Commitment Prior To Indicating Intent To Trade - T. Rowe Price Signs On As Anchor Client</title>
+<link>http://www.mondovisione.com/media-and-resources/news/powered-fixed-income-pre-trade-analytics-for-buyside-investors-enables-institu-202669/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/powered-fixed-income-pre-trade-analytics-for-buyside-investors-enables-institu-202669/</guid>
+<content:encoded><![CDATA[
+
+<p>Intercontinental Exchange, Inc. (NYSE: ICE), one of the world's leading providers of financial market technology and data powering global capital markets, today announced the launch of ICE Compass, an AI-powered trading analytics platform that gives buy-side fixed income trading desks prioritized trader counterparty rankings and price estimates before executing trades. T. Rowe Price, which provided valuable feedback during the development process and beta testing, has signed on as an anchor client.</p>
+<p>ICE Compass enables customers to combine their own real-time and historical trading data with ICE&rsquo;s market data and pricing streams, as well as the millions of bids and offers, indications of interest and other pricing data points that they receive from trading counterparties each day. The model tracks intraday market movements, trading costs and trading behaviors to generate estimates that help support counterparty selection and pre-trade cost analysis.</p>
+<p>&ldquo;Since our founding, innovation and electronification of markets have been key components of the company&rsquo;s DNA,&rdquo; said Chris Edmonds, President of ICE&rsquo;s Fixed Income and Data Services. &ldquo;ICE Compass embodies those founding principles and builds on the broad platform that we&rsquo;ve built around fixed income trading and data at ICE over the years to offer a new level of transparency to the pre-trade lifecycle.&rdquo;</p>
+<p>ICE Compass is built on ICE&rsquo;s proprietary data assets, including ICE Continuous Evaluated Pricing, fixed income liquidity metrics and indices. The Compass data model improves over time and is continuously refined as new trading data is incorporated. By applying AI and data science expertise, the ICE Compass platform is able to estimate trading counterparty price commitment prior to indicating trading intent and ranks trading counterparties on the competitiveness of their prices across corporates and sovereign bonds globally.</p>
+<p>&ldquo;Finding useful, pre-trade intelligence in the enormous amount of data that buyside firms are bombarded with each day has become increasingly difficult,&rdquo; said Varun Pawar, Chief Product Officer, Data Services at ICE. &ldquo;By pooling together data from across firms, trading counterparties and ICE&rsquo;s vast data warehouse, we&rsquo;re able to create a pre-trade view of dealer rankings and final cost-of-trade estimates across the market, giving customers a powerful new tool for optimizing their trading strategies and managing risk.&rdquo;</p>
+<p>&ldquo;At T. Rowe Price, we are focused on using data, technology, and market insight to make faster, more informed trading decisions and enhance execution outcomes for our clients,&rdquo; said Dwayne Middleton, Global Head of Fixed Income Trading at T. Rowe Price. &ldquo;Our collaboration with ICE on Compass reflects that priority and supports our continued evolution toward a more transparent, data-driven, and scalable trading model.&rdquo;</p>
+<p>ICE Compass leverages ICE&rsquo;s vast fixed income and data services platform, which includes comprehensive fixed income execution, clearing and data solutions that can help enhance market insights, manage risks, and uncover investment opportunities. ICE provides fixed income evaluations on approximately three million instruments, reference data across global markets, and indices across all asset classes, with $2 trillion in AUM benchmarked to them. For connectivity and data access, ICE offers a suite of desktop solutions and data feeds, as well as the ICE Global Network, which offers high-quality content, delivery and execution services through ultra-secure, highly resilient fiber and wireless networks.</p>
+]]></content:encoded>
+<pubDate>Tue, 09 Jun 2026 16:04:08 GMT</pubDate>
+<pubDate>Tue, 09 Jun 2026 16:04:08 GMT</pubDate>
+</item>
+
+<item>
 <title>GLEIF And Global Energy Monitor Partner To Increase Transparency In Energy Asset Ownership</title>
 <link>http://www.mondovisione.com/media-and-resources/news/gleif-and-global-energy-monitor-partner-to-increase-transparency-in-energy-asset-202669/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/gleif-and-global-energy-monitor-partner-to-increase-transparency-in-energy-asset-202669/</guid>
 <content:encoded><![CDATA[
-
 <p>The <a class="safe---anchor---wc" href="https://cisionone-email.iseepr.co.uk/c/eJwsy72O6yAQQOGngQ4Lhh8zBUWavEY0eIYEXTu-i61kH3-V1bbf0eESBEONWoqbs0W0KWX9KJEaWggWHdboWoQZm1iEmi3PMUfdSyKYF6iM3IBvzi2CNvpGKtijs_zrX2ajvso4zBxawrgsjc363cY6fYJey-M8_x_KXxRcFVzf7_d0X6W3aR93BVd56k24kxmyCh1iOpdfuP2B8hfANCevRxHu5z5UsNv-5P3Vj74_ZVr2TR_nENk-M6GLKYM3LWUwATKZSrEaT76yI2JoVr8K_AQAAP___-tVjg" rel="noopener noreferrer nofollow" target="_blank">Global Legal Entity Identifier Foundation</a> (GLEIF) and Global Energy Monitor (GEM) have completed the first certified mapping between GEM Entity ID and the Legal Entity Identifier (LEI), making it possible to trace the legal ownership of energy assets worldwide through standardized, openly accessible data. The first open mapping file will be published in June 2026, with integration into GLEIF&rsquo;s API and LEI Search to follow.</p>
 <p>There are hundreds of thousands of energy assets globally &ndash; such as coal mines, combustion power plants, iron and steel plants, cement plants, oil extraction fields, and gas pipelines &ndash; which often have complex and opaque ownership arrangements. Consequently, it has proved difficult for organizations and regulators to fully assess exposure and risk.</p>
 <p>By increasing transparency of energy asset ownership, the mapping gives companies a direct way to meet climate-related reporting and due diligence requirements under frameworks such as the EU Corporate Sustainability Due Diligence Directive (CSDDD). It also supports investor portfolio screening against verified ownership data and helps regulators cross-check reported ownership structures against authoritative open-source data.</p>
@@ -20,14 +87,12 @@
 <p>GLEIF&rsquo;s free LEI Mapping Certification service is key to enabling this interoperability. It overcomes the fragmentation risks posed by a single legal entity being associated with multiple identifiers by linking existing identifiers to the globally recognized LEI. In addition to GEM, GLEIF has also certified mapping relationships between S&amp;P CIQ Company ID, SWIFT&rsquo;s Market Identifier Code (MIC) and Business Identifier Code (BIC), the Association of National Numbering Agencies&rsquo; (ANNA) International Securities Identification Numbers (ISIN), and Qichacha&rsquo;s QCC Code.</p>
 ]]></content:encoded>
 <pubDate>Tue, 09 Jun 2026 10:23:08 GMT</pubDate>
-<pubDate>Tue, 09 Jun 2026 10:23:08 GMT</pubDate>
 </item>
 <item>
 <title>Nasdaq Copenhagen Welcomes BAR DJUS A/S To The Nasdaq First North Growth Market Denmark</title>
 <link>http://www.mondovisione.com/media-and-resources/news/nasdaq-copenhagen-welcomes-bar-djus-as-to-the-nasdaq-first-north-growth-market-202669/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/nasdaq-copenhagen-welcomes-bar-djus-as-to-the-nasdaq-first-north-growth-market-202669/</guid>
 <content:encoded><![CDATA[
-
 <p class="Paragraph SCXW189022880 BCX0"><span><span class="TextRun SCXW189022880 BCX0" lang="EN-US" xml:lang="EN-US">Nasdaq (Nasdaq: NDAQ) announces that trading in BAR DJUS A/S (ticker: BARDJU) will commence today on the Nasdaq First North Growth Market Denmark. BAR DJUS belongs to the Consumer Staples sector, and it is the </span><span class="TextRun SCXW189022880 BCX0" lang="EN-US" xml:lang="EN-US">16</span><span class="TextRun SCXW189022880 BCX0" lang="EN-US" xml:lang="EN-US">th company to be admitted to trading on Nasdaq&rsquo;s Nordic and Baltic markets* in 2026.</span><span class="EOP SCXW189022880 BCX0">&nbsp;</span></span></p>
 <p class="Paragraph SCXW189022880 BCX0"><span><span class="TextRun SCXW189022880 BCX0" lang="EN-US" xml:lang="EN-US">BAR DJUS is a Danish producer of premium juice ingredients for restaurants, hotels, cocktail bars, and foodservice operators across the Nordic region. Over the past decade, the company has established a strong market position as a supplier to some of the most quality-conscious gastronomic businesses in the Nordics and has been profitable in nine of its first ten years of operation. BAR DJUS is pursuing an ambition to increase revenue by up to 300% by 2028.</span><span class="EOP SCXW189022880 BCX0">&nbsp;</span></span></p>
 <p class="Paragraph SCXW189022880 BCX0"><span><span class="TextRun SCXW189022880 BCX0" lang="EN-US" xml:lang="EN-US">"The listing on Nasdaq First North Growth Market Denmark marks a major milestone in the history of BAR DJUS. We are both proud and humbled by the confidence investors have shown in us. The fact that more than 1,500 people have chosen to become shareholders in BAR DJUS is a strong endorsement of our strategy, our employees, and our ambitions for the future," says Daniel Pontoppidan Szylit, CEO and Founder of BAR DJUS.</span><span class="EOP SCXW189022880 BCX0">&nbsp;</span></span></p>
@@ -35,14 +100,12 @@
 <p class="Paragraph SCXW189022880 BCX0"><em><span class="TextRun SCXW189022880 BCX0" lang="EN-US" xml:lang="EN-US">*Main markets and Nasdaq First North at Nasdaq Copenhagen, Nasdaq Helsinki, Nasdaq Iceland and Nasdaq Stockholm as well as Nasdaq Baltic</span><span class="EOP SCXW189022880 BCX0">&nbsp;</span></em></p>
 ]]></content:encoded>
 <pubDate>Tue, 09 Jun 2026 10:19:34 GMT</pubDate>
-<pubDate>Tue, 09 Jun 2026 10:19:34 GMT</pubDate>
 </item>
 <item>
 <title>UK Financial Conduct Authority Proposes Changes To Help More People Access Mortgages</title>
 <link>http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-proposes-changes-to-help-more-people-access-mortg-202669/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-proposes-changes-to-help-more-people-access-mortg-202669/</guid>
 <content:encoded><![CDATA[
-
 <p>First-time buyers, older borrowers and the self-employed could find it easier to get a mortgage, as the FCA sets out next steps to help reform the market.</p>
 <p>Its proposed mortgage rule changes would give lenders more flexibility to consider individual circumstances and develop products that better meet people's needs &ndash; while maintaining strong consumer protections.</p>
 <p>They include:</p>
@@ -67,20 +130,17 @@
 </ol>
 ]]></content:encoded>
 <pubDate>Tue, 09 Jun 2026 10:26:39 GMT</pubDate>
-<pubDate>Tue, 09 Jun 2026 10:26:39 GMT</pubDate>
 </item>
 <item>
 <title>Nasdaq Stockholm Welcomes Paradox Interactive AB To The Main Market</title>
 <link>http://www.mondovisione.com/media-and-resources/news/nasdaq-stockholm-welcomes-paradox-interactive-ab-to-the-main-market-202669/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/nasdaq-stockholm-welcomes-paradox-interactive-ab-to-the-main-market-202669/</guid>
 <content:encoded><![CDATA[
-
 <p class="Paragraph SCXW209192603 BCX0"><span class="TextRun SCXW209192603 BCX0" lang="EN-US" xml:lang="EN-US">Nasdaq (Nasdaq: NDAQ) announces that trading in Paradox Interactive AB (publ) (ticker: PDX) will commence today on the Nasdaq Stockholm Main Market. Paradox Interactive is a Large Cap company within the Consumer Discretionary sector. It is the 15th company to be admitted to trading on Nasdaq&rsquo;s Nordic and Baltic markets* in 2026 and the 150th company to transfer from Nasdaq First North Growth Market to Nasdaq Main Markets in the Nordics.</span><span class="EOP SCXW209192603 BCX0">&nbsp;</span></p>
 <p class="Paragraph SCXW209192603 BCX0"><span><span class="TextRun SCXW209192603 BCX0" lang="EN-US" xml:lang="EN-US">Paradox Interactive is one of the premier developers and publishers of strategy and management games on PC and consoles. The group today consists of publishing and five studios in five countries that develop gaming experiences for the company&rsquo;s over five million monthly active users. The players are located all over the world, but some of the biggest markets are North America, Western Europe, and Asia.</span><span class="EOP SCXW209192603 BCX0">&nbsp;</span></span></p>
 <p class="Paragraph SCXW209192603 BCX0"><span><span class="TextRun SCXW209192603 BCX0" lang="EN-US" xml:lang="EN-US">&ldquo;Having spent nearly ten years on First North, moving to Nasdaq Stockholm is a milestone for Paradox. It&rsquo;s a validation of the company that so many talented people have helped build and marks an important next step in our journey. The move opens up new opportunities for us and adds further momentum to our ambition to become the leading developer and publisher of strategy and management games. We&rsquo;re very proud to start this next exciting chapter,&rdquo; says Fredrik Wester, CEO of Paradox.</span><span class="EOP SCXW209192603 BCX0">&nbsp;</span></span></p>
 <p class="Paragraph SCXW209192603 BCX0"><span><span class="TextRun SCXW209192603 BCX0" lang="EN-US" xml:lang="EN-US">&ldquo;We are pleased to welcome Paradox Interactive to Nasdaq Stockholm&rsquo;s Main Market. The transition reflects the company&rsquo;s continued development and strong position within the global gaming industry. Reaching the milestone of 150 transfers from Nasdaq First North Growth Market to the Main Markets in the Nordics is a significant achievement and highlights the role First North has played in supporting companies over the past 20 years. As we celebrate two decades of First North, we remain proud to support companies like Paradox as they progress on their growth journey,&rdquo; says Adam Kosty&aacute;l, Head of European Listings at Nasdaq and President of Nasdaq Stockholm.</span><span class="LineBreakBlob BlobObject DragDrop SCXW209192603 BCX0">&nbsp;</span></span><br class="SCXW209192603 BCX0" /><span class="LineBreakBlob BlobObject DragDrop SCXW209192603 BCX0">&nbsp;</span><br class="SCXW209192603 BCX0" /><em><span class="TextRun SCXW209192603 BCX0" lang="EN-US" xml:lang="EN-US">*Main markets and Nasdaq First North at Nasdaq Copenhagen, Nasdaq Helsinki, Nasdaq Iceland and Nasdaq Stockholm as well as Nasdaq Baltic</span><span class="EOP SCXW209192603 BCX0">&nbsp;</span></em></p>
 ]]></content:encoded>
-<pubDate>Tue, 09 Jun 2026 10:17:26 GMT</pubDate>
 <pubDate>Tue, 09 Jun 2026 10:17:26 GMT</pubDate>
 </item>
 <item>
@@ -88,7 +148,6 @@
 <link>http://www.mondovisione.com/media-and-resources/news/set-launches-wiset-thailands-first-all-in-one-investor-app-202669/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/set-launches-wiset-thailands-first-all-in-one-investor-app-202669/</guid>
 <content:encoded><![CDATA[
-
 <h4>KEY POINTS</h4>
 <ul>
 <li><b>SET has launched "wiset," Thailand's first all-in-one investor app, under the concept "Making Your Investing Extraordinary," unifying investment data and services into a single, seamless application.</b></li>
@@ -103,9 +162,7 @@
 <p><b>"wiset"</b> is now available for download on both the App Store and Google Play. For more information, please visit&nbsp;<a href="http://www.set.or.th/wisetapp" title="http://www.set.or.th/wisetapp">www.set.or.th/wisetapp</a>&nbsp;or contact the SET Contact Center at +66 (0) 2009 9999.</p>
 ]]></content:encoded>
 <pubDate>Tue, 09 Jun 2026 10:13:23 GMT</pubDate>
-<pubDate>Tue, 09 Jun 2026 10:13:23 GMT</pubDate>
 </item>
-
 <item>
 <title>Dubai Financial Market Recognised By Switzerland's FINMA As A Foreign Trading Venue In A Drive To Expand International Market Access</title>
 <link>http://www.mondovisione.com/media-and-resources/news/dubai-financial-market-recognised-by-switzerlands-finma-as-a-foreign-trading-ve-202669/</link>

@@ -671,3 +671,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SET Launches “wiset” — Thailand’s First All-In-One Investor App](http://www.mondovisione.com/media-and-resources/news/set-launches-wiset-thailands-first-all-in-one-investor-app-202669/)
 append_entries: 5
 Finish: 2026-06-09 11:25:36.257499
+------------------------------------------------------
+Started: 2026-06-09 15:14:40.196107
+Existing_entries: 161
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Exchange Group - Options Markets - Update: SpaceX Cloud Allocation Multicast Addresses And Symbol Range Changes On MIAX Sapphire Clouds 6 And 7](http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-options-markets-update-spacex-cloud-allocation-multicas-202669/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ICE Launches AI-Powered Fixed Income Pre-Trade Analytics For Buyside Investors - Enables Institutional Investors And Asset Managers To Estimate Counterparty Price Commitment Prior To Indicating Intent To Trade - T. Rowe Price Signs On As Anchor Client](http://www.mondovisione.com/media-and-resources/news/powered-fixed-income-pre-trade-analytics-for-buyside-investors-enables-institu-202669/)
+append_entries: 2
+Finish: 2026-06-09 15:14:41.411468
