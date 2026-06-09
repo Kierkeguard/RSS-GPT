@@ -650,3 +650,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ASIC Updates Guidance On Advertising Financial Products And Services](http://www.mondovisione.com/media-and-resources/news/asic-updates-guidance-on-advertising-financial-products-and-services-202669/)
 append_entries: 2
 Finish: 2026-06-09 07:58:12.338288
+------------------------------------------------------
+Started: 2026-06-09 11:25:34.993436
+Existing_entries: 156
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [GLEIF And Global Energy Monitor Partner To Increase Transparency In Energy Asset Ownership](http://www.mondovisione.com/media-and-resources/news/gleif-and-global-energy-monitor-partner-to-increase-transparency-in-energy-asset-202669/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Copenhagen Welcomes BAR DJUS A/S To The Nasdaq First North Growth Market Denmark](http://www.mondovisione.com/media-and-resources/news/nasdaq-copenhagen-welcomes-bar-djus-as-to-the-nasdaq-first-north-growth-market-202669/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Proposes Changes To Help More People Access Mortgages](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-proposes-changes-to-help-more-people-access-mortg-202669/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Stockholm Welcomes Paradox Interactive AB To The Main Market](http://www.mondovisione.com/media-and-resources/news/nasdaq-stockholm-welcomes-paradox-interactive-ab-to-the-main-market-202669/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SET Launches “wiset” — Thailand’s First All-In-One Investor App](http://www.mondovisione.com/media-and-resources/news/set-launches-wiset-thailands-first-all-in-one-investor-app-202669/)
+append_entries: 5
+Finish: 2026-06-09 11:25:36.257499
