@@ -683,3 +683,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ICE Launches AI-Powered Fixed Income Pre-Trade Analytics For Buyside Investors - Enables Institutional Investors And Asset Managers To Estimate Counterparty Price Commitment Prior To Indicating Intent To Trade - T. Rowe Price Signs On As Anchor Client](http://www.mondovisione.com/media-and-resources/news/powered-fixed-income-pre-trade-analytics-for-buyside-investors-enables-institu-202669/)
 append_entries: 2
 Finish: 2026-06-09 15:14:41.411468
+------------------------------------------------------
+Started: 2026-06-09 18:11:43.400719
+Existing_entries: 163
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc ("LSEG") Capital Reduction](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-capital-reduction-202669/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euronext Announces June 2026 Quarterly Review Results Of The AEX® Family](http://www.mondovisione.com/media-and-resources/news/euronext-announces-june-2026-quarterly-review-results-of-the-aex-family-202669/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euronext Announces March 2026 Annual Review Results Of The PSI®](http://www.mondovisione.com/media-and-resources/news/euronext-announces-march-2026-annual-review-results-of-the-psi-202669/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [GCC Financial Markets Committee Announces Progress Towards Launching Unified GCC Investor Number Definition Across Central Securities Depository Systems](http://www.mondovisione.com/media-and-resources/news/gcc-financial-markets-committee-announces-progress-towards-launching-unified-gcc-202669/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Securities Commission Malaysia And Bursa Malaysia Launch MY Value Up Guidebook](http://www.mondovisione.com/media-and-resources/news/securities-commission-malaysia-and-bursa-malaysia-launch-my-value-up-guidebook-202669/)
+append_entries: 5
+Finish: 2026-06-09 18:11:44.473877
