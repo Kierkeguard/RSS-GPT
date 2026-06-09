@@ -638,3 +638,15 @@ Existing_entries: 154
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-06-09 03:59:34.373751
+------------------------------------------------------
+Started: 2026-06-09 07:58:11.214625
+Existing_entries: 154
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Dubai Financial Market Recognised By Switzerland's FINMA As A Foreign Trading Venue In A Drive To Expand International Market Access](http://www.mondovisione.com/media-and-resources/news/dubai-financial-market-recognised-by-switzerlands-finma-as-a-foreign-trading-ve-202669/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Updates Guidance On Advertising Financial Products And Services](http://www.mondovisione.com/media-and-resources/news/asic-updates-guidance-on-advertising-financial-products-and-services-202669/)
+append_entries: 2
+Finish: 2026-06-09 07:58:12.338288
