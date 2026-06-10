@@ -785,3 +785,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [FIA Tech Enhances Transparency And Pre-Trade Confidence In Nasdaq Custom Basket Derivatives](http://www.mondovisione.com/media-and-resources/news/fia-tech-enhances-transparency-and-pre-trade-confidence-in-nasdaq-custom-basket-2026610/)
 append_entries: 5
 Finish: 2026-06-10 15:49:02.407536
+------------------------------------------------------
+Started: 2026-06-10 18:33:22.441593
+Existing_entries: 189
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIFMA Submits Recommendations On GENIUS Act AML/CFT And Sanctions Rules For Payment Stablecoin Issuers](http://www.mondovisione.com/media-and-resources/news/sifma-submits-recommendations-on-genius-act-amlcft-and-sanctions-rules-for-paym-2026610/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc ("LSEG") Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-lseg-transaction-in-own-shares-2026610/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ISDA Launches ISDA-Actrix US Treasury Repo Market Clearing Indicators](http://www.mondovisione.com/media-and-resources/news/isda-launches-isda-actrix-us-treasury-repo-market-clearing-indicators-2026610/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euronext Announces 2026 Quarterly Review Results Of The BEL® Family Indices](http://www.mondovisione.com/media-and-resources/news/euronext-announces-2026-quarterly-review-results-of-the-bel-family-indices-2026610/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euronext Athens: Commencement Of Trading Of Lamda Development’s New Corporate Bond](http://www.mondovisione.com/media-and-resources/news/euronext-athens-commencement-of-trading-of-lamda-developments-new-corporate-bo-2026610/)
+append_entries: 5
+Finish: 2026-06-10 18:33:23.350276
