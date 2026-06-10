@@ -806,3 +806,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Euronext Athens: Commencement Of Trading Of Lamda Development’s New Corporate Bond](http://www.mondovisione.com/media-and-resources/news/euronext-athens-commencement-of-trading-of-lamda-developments-new-corporate-bo-2026610/)
 append_entries: 5
 Finish: 2026-06-10 18:33:23.350276
+------------------------------------------------------
+Started: 2026-06-10 22:07:41.170373
+Existing_entries: 194
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group And Morningstar Announce Exclusive Index Derivatives Licensing Agreement](http://www.mondovisione.com/media-and-resources/news/cme-group-and-morningstar-announce-exclusive-index-derivatives-licensing-agreeme-2026610/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [This Old House: Improving And Remodeling Our Registered Offering And Filer Status Regimes, Jim Moloney, Director, SEC Division Of Corporation Finance, June 10, 2026](http://www.mondovisione.com/media-and-resources/news/this-old-house-improving-and-remodeling-our-registered-offering-and-filer-statu-2026610/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Announces Results From 2026 Annual Meeting Of Shareholders - All 12 Nominated Directors Elected - Nasdaq Board Re-elects Adena T. Friedman As Chair Of The Board](http://www.mondovisione.com/media-and-resources/news/nasdaq-announces-results-from-2026-annual-meeting-of-shareholders-all-12-nomin-2026610/)
+append_entries: 3
+Finish: 2026-06-10 22:07:42.356633
