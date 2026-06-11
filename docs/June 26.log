@@ -897,3 +897,15 @@ Append: [Canadian Securities Regulators Publish Final Amendments To The Principa
 Append: [Euronext Announces June 2026 Quarterly Review Results Of The ISEQ® Family](http://www.mondovisione.com/media-and-resources/news/euronext-announces-june-2026-quarterly-review-results-of-the-iseq-family-2026611/)
 append_entries: 6
 Finish: 2026-06-11 20:26:58.085582
+------------------------------------------------------
+Started: 2026-06-11 23:40:13.025244
+Existing_entries: 219
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TMX Group Limited Announces Agreement To Acquire RAFI Indices From Research Affiliates - Acquisition More Than Triples TMX VettaFi's Assets Under Indexing](http://www.mondovisione.com/media-and-resources/news/tmx-group-limited-announces-agreement-to-acquire-rafi-indices-from-research-affi-2026611/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group To Expand 24/7 Trading For WTI Crude Oil And Gold](http://www.mondovisione.com/media-and-resources/news/cme-group-to-expand-247-trading-for-wti-crude-oil-and-gold-2026611/)
+append_entries: 2
+Finish: 2026-06-11 23:40:14.125810
