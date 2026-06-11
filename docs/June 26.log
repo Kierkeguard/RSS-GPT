@@ -875,3 +875,25 @@ Append: [UK Financial Conduct Authority: Court Orders Appointment Of Special Adm
 Append: [CME Group To Expand Equity Index Suite With Launch Of Four New E-mini Futures Contracts](http://www.mondovisione.com/media-and-resources/news/cme-group-to-expand-equity-index-suite-with-launch-of-four-new-e-mini-futures-co-2026611/)
 append_entries: 10
 Finish: 2026-06-11 16:10:52.151974
+------------------------------------------------------
+Started: 2026-06-11 20:26:56.992231
+Existing_entries: 213
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Statement Regarding Minimum Pricing Increments And Access Fee Caps, Paul S. Atkins, SEC Chairman, June 11, 2026](http://www.mondovisione.com/media-and-resources/news/statement-regarding-minimum-pricing-increments-and-access-fee-caps-paul-s-atki-2026611/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nigerian Exchange Weekly Market Report For The Week Ended 11 June 2026](http://www.mondovisione.com/media-and-resources/news/nigerian-exchange-weekly-market-report-for-the-week-ended-11-june-2026-2026611/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Moscow Exchange: Updated Constituents List For OFZ Zero Coupon Yield Curve To Come Into Force On 15 June 2026](http://www.mondovisione.com/media-and-resources/news/moscow-exchange-updated-constituents-list-for-ofz-zero-coupon-yield-curve-to-co-2026611/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Disorder Protection Rule: Statement On The Proposed Amendments To Rule 611 And Other Provisions Of Regulation NMS, SEC Commissioner Hester M. Peirce, June 11, 2026](http://www.mondovisione.com/media-and-resources/news/disorder-protection-rule-statement-on-the-proposed-amendments-to-rule-611-and-o-2026611/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Canadian Securities Regulators Publish Final Amendments To The Principal Distributor Model](http://www.mondovisione.com/media-and-resources/news/canadian-securities-regulators-publish-final-amendments-to-the-principal-distrib-2026611/)
+Append: [Euronext Announces June 2026 Quarterly Review Results Of The ISEQ® Family](http://www.mondovisione.com/media-and-resources/news/euronext-announces-june-2026-quarterly-review-results-of-the-iseq-family-2026611/)
+append_entries: 6
+Finish: 2026-06-11 20:26:58.085582
