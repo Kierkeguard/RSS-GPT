@@ -827,3 +827,25 @@ Existing_entries: 197
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-06-11 04:23:59.586946
+------------------------------------------------------
+Started: 2026-06-11 10:45:42.224239
+Existing_entries: 197
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Government Policy Paper: HM Treasury Market Engagement Group](http://www.mondovisione.com/media-and-resources/news/uk-government-policy-paper-hm-treasury-market-engagement-group-2026611/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US And UK Payments Firms Racing To Deploy AI Without Modernizing Financial Infrastructure - Internal Legacy Systems Remain The Top Driver Of Data Fragmentation Year Over Year, Limiting AI Returns Across Payments Operations](http://www.mondovisione.com/media-and-resources/news/us-and-uk-payments-firms-racing-to-deploy-ai-without-modernizing-financial-infra-2026611/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Clearstream Unveils Next-Generation Digital Securities Infrastructure](http://www.mondovisione.com/media-and-resources/news/clearstream-unveils-next-generation-digital-securities-infrastructure-2026611/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Copenhagen Welcomes InstallatørGruppen A/S To The Main Market](http://www.mondovisione.com/media-and-resources/news/nasdaq-copenhagen-welcomes-installatrgruppen-as-to-the-main-market-2026611/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Zealand Financial Markets Authority: Ensuring Fair Consumer Outcomes From Insurer Benefits And Campaigns](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-ensuring-fair-consumer-outcomes-from-in-2026611/)
+Append: [Washington Reporter Op-Ed | The CFTC Is Modernizing Rule 40.11, Thereby Furthering America’s Leadership In Responsible Financial Innovation, CFTC Chairman Michael S. Selig, Washington, DC | June 10, 2026](http://www.mondovisione.com/media-and-resources/news/washington-reporter-op-ed-the-cftc-is-modernizing-rule-4011-thereby-furtheri-2026611/)
+append_entries: 6
+Finish: 2026-06-11 10:45:43.296137
