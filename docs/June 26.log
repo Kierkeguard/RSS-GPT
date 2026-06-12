@@ -909,3 +909,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CME Group To Expand 24/7 Trading For WTI Crude Oil And Gold](http://www.mondovisione.com/media-and-resources/news/cme-group-to-expand-247-trading-for-wti-crude-oil-and-gold-2026611/)
 append_entries: 2
 Finish: 2026-06-11 23:40:14.125810
+------------------------------------------------------
+Started: 2026-06-12 04:26:37.550779
+Existing_entries: 221
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-06-12 04:26:38.372779
