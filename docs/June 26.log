@@ -997,3 +997,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CFTC Sues New Mexico As The State Becomes The Latest Attempting To Infringe On Federal Jurisdiction](http://www.mondovisione.com/media-and-resources/news/cftc-sues-new-mexico-as-the-state-becomes-the-latest-attempting-to-infringe-on-f-2026612/)
 append_entries: 2
 Finish: 2026-06-12 21:52:20.752321
+------------------------------------------------------
+Started: 2026-06-12 23:22:23.603872
+Existing_entries: 245
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-06-12 23:22:24.690882
