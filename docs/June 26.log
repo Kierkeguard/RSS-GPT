@@ -1009,3 +1009,12 @@ Existing_entries: 245
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-06-13 04:15:25.972155
+------------------------------------------------------
+Started: 2026-06-13 09:23:28.348736
+Existing_entries: 245
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Issues No-Action Letter For DCMs Converting Existing Perpetual-Style Digital Commodity Futures Into True Digital Commodity Perpetual Futures](http://www.mondovisione.com/media-and-resources/news/cftc-issues-no-action-letter-for-dcms-converting-existing-perpetual-style-digita-2026613/)
+append_entries: 1
+Finish: 2026-06-13 09:23:29.487482
