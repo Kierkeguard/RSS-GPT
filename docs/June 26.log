@@ -1075,3 +1075,12 @@ Existing_entries: 247
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-06-14 15:49:50.958244
+------------------------------------------------------
+Started: 2026-06-14 17:23:54.029632
+Existing_entries: 247
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Dandy Announces The Offering Of Its Shares Through The Book-Building Mechanism And Its Listing On The Main Market Of The Qatar Stock Exchange](http://www.mondovisione.com/media-and-resources/news/dandy-announces-the-offering-of-its-shares-through-the-book-building-mechanism-a-2026614/)
+append_entries: 1
+Finish: 2026-06-14 17:23:55.098884
