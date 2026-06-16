@@ -1250,3 +1250,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CFTC Issues A Request For Information To Facilitate Innovation And Competition For Fintech Firms](http://www.mondovisione.com/media-and-resources/news/cftc-issues-a-request-for-information-to-facilitate-innovation-and-competition-f-2026616/)
 append_entries: 2
 Finish: 2026-06-16 20:57:26.465373
+------------------------------------------------------
+Started: 2026-06-16 23:26:03.611206
+Existing_entries: 292
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-06-16 23:26:04.382361
