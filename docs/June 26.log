@@ -1309,3 +1309,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Broadridge Joins Anthropic's Project Glasswing - Strategic AI Partnership Helping Secure Critical Software In The AI Era](http://www.mondovisione.com/media-and-resources/news/broadridge-joins-anthropics-project-glasswing-strategic-ai-partnership-helpin-2026617/)
 append_entries: 5
 Finish: 2026-06-17 15:46:27.466962
+------------------------------------------------------
+Started: 2026-06-17 18:25:00.426448
+Existing_entries: 307
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Federal Reserve Board And Federal Open Market Committee Release Economic Projections From The June 16-17 FOMC Meeting](http://www.mondovisione.com/media-and-resources/news/federal-reserve-board-and-federal-open-market-committee-release-economic-project-2026617/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Federal Reserve Issues FOMC Statement](http://www.mondovisione.com/media-and-resources/news/federal-reserve-issues-fomc-statement-2026617/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [EEX To Launch New Natural Gas Spot Trading System In 2027](http://www.mondovisione.com/media-and-resources/news/eex-to-launch-new-natural-gas-spot-trading-system-in-2027-2026617/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BME Admits The New Bond Issues Of The Community Of Madrid And Euskadi To Trading](http://www.mondovisione.com/media-and-resources/news/bme-admits-the-new-bond-issues-of-the-community-of-madrid-and-euskadi-to-trading-2026617/)
+append_entries: 4
+Finish: 2026-06-17 18:25:01.233565
