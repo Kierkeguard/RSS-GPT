@@ -1435,3 +1435,21 @@ Append: [Bank Of England: Minutes Of The Meeting Of The Court Of Directors Held 
 Append: [Piero Cipollone: Digital Euro: The Future Of Money](http://www.mondovisione.com/media-and-resources/news/piero-cipollone-digital-euro-the-future-of-money-2026618/)
 append_entries: 10
 Finish: 2026-06-18 18:28:24.028826
+------------------------------------------------------
+Started: 2026-06-18 22:17:25.046623
+Existing_entries: 349
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC, CFTC Seek Public Input On Data Reporting Frameworks For Security-Based Swap And Swap Markets](http://www.mondovisione.com/media-and-resources/news/sec-cftc-seek-public-input-on-data-reporting-frameworks-for-security-based-swap-2026618/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC, CFTC Seek Public Comment To Further Clarify And Harmonize Derivatives Product Definitions](http://www.mondovisione.com/media-and-resources/news/sec-cftc-seek-public-comment-to-further-clarify-and-harmonize-derivatives-produ-2026618/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Commitments Of Traders: Weekly Report Will Be Released Monday, June 22](http://www.mondovisione.com/media-and-resources/news/cftc-commitments-of-traders-weekly-report-will-be-released-monday-june-22-2026618/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Resolves Action Against Celsius Founder](http://www.mondovisione.com/media-and-resources/news/cftc-resolves-action-against-celsius-founder-2026618/)
+append_entries: 4
+Finish: 2026-06-18 22:17:26.014435
