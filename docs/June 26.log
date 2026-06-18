@@ -1357,3 +1357,29 @@ Existing_entries: 319
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-06-18 04:26:17.910970
+------------------------------------------------------
+Started: 2026-06-18 10:37:34.045411
+Existing_entries: 319
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX Renews Memorandum Of Understanding With China Financial Futures Exchange](http://www.mondovisione.com/media-and-resources/news/hkex-renews-memorandum-of-understanding-with-china-financial-futures-exchange-2026618/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX To Debut China Government Bond Futures On 3 August 2026](http://www.mondovisione.com/media-and-resources/news/hkex-to-debut-china-government-bond-futures-on-3-august-2026-2026618/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX And Hong Kong Monetary Authority Launch Pilot Project To Enable Digital Payment Solution For Derivatives After-Hours Trading](http://www.mondovisione.com/media-and-resources/news/hkex-and-hong-kong-monetary-authority-launch-pilot-project-to-enable-digital-pay-2026618/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CLS FX Trading Activity | May 2026](http://www.mondovisione.com/media-and-resources/news/cls-fx-trading-activity-may-2026-2026618/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Vienna Stock Exchange: FIT GROUP AG Enters Direct Market Plus](http://www.mondovisione.com/media-and-resources/news/vienna-stock-exchange-fit-group-ag-enters-direct-market-plus-2026618/)
+Append: [Swedish Financial Supervisory Authority - Report: Prioritised Risks Related To Money Laundering, Terrorism Financing And International Sanctions](http://www.mondovisione.com/media-and-resources/news/swedish-financial-supervisory-authority-report-prioritised-risks-related-to-m-2026618/)
+Append: [ASIC Puts Private Credit On Notice, Ahead Of 30 June Valuations And Reporting](http://www.mondovisione.com/media-and-resources/news/asic-puts-private-credit-on-notice-ahead-of-30-june-valuations-and-reporting-2026618/)
+Append: [New Zealand Financial Markets Authority: No Action On Climate Reporting Obligations For Health And Life Insurers](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-no-action-on-climate-reporting-obligati-2026618/)
+Append: [ASIC Chair Sarah Court Speaks At ABA Conference](http://www.mondovisione.com/media-and-resources/news/asic-chair-sarah-court-speaks-at-aba-conference-2026618/)
+Append: [New Zealand Financial Markets Authority: NZX Meets Market Operator Obligations In Annual Review](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-nzx-meets-market-operator-obligations-i-2026618/)
+append_entries: 10
+Finish: 2026-06-18 10:37:34.880847
