@@ -1453,3 +1453,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CFTC Resolves Action Against Celsius Founder](http://www.mondovisione.com/media-and-resources/news/cftc-resolves-action-against-celsius-founder-2026618/)
 append_entries: 4
 Finish: 2026-06-18 22:17:26.014435
+------------------------------------------------------
+Started: 2026-06-19 04:54:16.960337
+Existing_entries: 353
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-06-19 04:54:18.232633
