@@ -1493,3 +1493,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Biotech Funding Recovery Favors Late-Stage, Lower-Risk Assets, Reveals GlobalData](http://www.mondovisione.com/media-and-resources/news/biotech-funding-recovery-favors-late-stage-lower-risk-assets-reveals-globaldat-2026619/)
 append_entries: 2
 Finish: 2026-06-19 15:30:34.504309
+------------------------------------------------------
+Started: 2026-06-19 18:02:19.559305
+Existing_entries: 361
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nigerian Exchange Weekly Market Report For The Week Ended 19 June 2026](http://www.mondovisione.com/media-and-resources/news/nigerian-exchange-weekly-market-report-for-the-week-ended-19-june-2026-2026619/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Dubai Financial Market Regulated Short Sell – Weekly Summary - 16th June 2026 To 19th June 2026](http://www.mondovisione.com/media-and-resources/news/dubai-financial-market-regulated-short-sell-weekly-summary-16th-june-2026-to-2026619/)
+append_entries: 2
+Finish: 2026-06-19 18:02:20.339595
