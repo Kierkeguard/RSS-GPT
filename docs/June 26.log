@@ -1459,3 +1459,25 @@ Existing_entries: 353
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-06-19 04:54:18.232633
+------------------------------------------------------
+Started: 2026-06-19 10:45:08.124255
+Existing_entries: 353
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESMA Contributes To Global CCP Fire Drill Exercise](http://www.mondovisione.com/media-and-resources/news/esma-contributes-to-global-ccp-fire-drill-exercise-2026619/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Prudential Regulation Authority Sets Out Adjustments To Its Market Risk Internal Model Approach Under Basel 3.1](http://www.mondovisione.com/media-and-resources/news/uk-prudential-regulation-authority-sets-out-adjustments-to-its-market-risk-inter-2026619/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BME: MARF Registers A New Commercial Paper Programme From Culmia For €50 Million](http://www.mondovisione.com/media-and-resources/news/bme-marf-registers-a-new-commercial-paper-programme-from-culmia-for-50-million-2026619/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CCP Global Submits A Response To The US Basel III Endgame Re-Proposals](http://www.mondovisione.com/media-and-resources/news/ccp-global-submits-a-response-to-the-us-basel-iii-endgame-re-proposals-2026619/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Boerse Stuttgart Group’s Seturion, Weltix And BlockInvest Start Strategic Collaboration To Build The First End-To-End Infrastructure For The Issuance And Settlement Of Tokenized Securities In Italy](http://www.mondovisione.com/media-and-resources/news/boerse-stuttgart-groups-seturion-weltix-and-blockinvest-start-strategic-collab-2026619/)
+Append: [Landmark Cursor Deal Signals SpaceX’s Post-IPO Acquisition Push, Says GlobalData](http://www.mondovisione.com/media-and-resources/news/landmark-cursor-deal-signals-spacexs-post-ipo-acquisition-push-says-globaldata-2026619/)
+append_entries: 6
+Finish: 2026-06-19 10:45:09.409619
