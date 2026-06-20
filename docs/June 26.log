@@ -1538,3 +1538,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Strong Investor Sentiment For Green Financing At Tehran Securities Exchange](http://www.mondovisione.com/media-and-resources/news/strong-investor-sentiment-for-green-financing-at-tehran-securities-exchange-2026620/)
 append_entries: 1
 Finish: 2026-06-20 12:00:42.764368
+------------------------------------------------------
+Started: 2026-06-20 15:46:25.954489
+Existing_entries: 364
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tehran Securities Exchange Weekly Report, 13-17 June 2026](http://www.mondovisione.com/media-and-resources/news/tehran-securities-exchange-weekly-report-13-17-june-2026-2026620/)
+append_entries: 1
+Finish: 2026-06-20 15:46:26.696183
