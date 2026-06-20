@@ -1529,3 +1529,12 @@ Existing_entries: 363
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-06-20 09:25:31.027718
+------------------------------------------------------
+Started: 2026-06-20 12:00:41.927462
+Existing_entries: 363
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Strong Investor Sentiment For Green Financing At Tehran Securities Exchange](http://www.mondovisione.com/media-and-resources/news/strong-investor-sentiment-for-green-financing-at-tehran-securities-exchange-2026620/)
+append_entries: 1
+Finish: 2026-06-20 12:00:42.764368
