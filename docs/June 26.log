@@ -1589,3 +1589,12 @@ Existing_entries: 365
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-06-21 12:14:14.643691
+------------------------------------------------------
+Started: 2026-06-21 15:57:08.840430
+Existing_entries: 365
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Automaker Marks Milestone: Rings Opening Bell At Tehran Securities Exchange - SAIPA’s Executives Joined Tehran Securities Exchange’s Opening Bell Ceremony On Sunday, 21st June 2026](http://www.mondovisione.com/media-and-resources/news/automaker-marks-milestone-rings-opening-bell-at-tehran-securities-exchange-sa-2026621/)
+append_entries: 1
+Finish: 2026-06-21 15:57:09.845673
