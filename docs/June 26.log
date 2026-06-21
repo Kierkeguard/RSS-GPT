@@ -1610,3 +1610,12 @@ Existing_entries: 366
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-06-21 19:50:19.881964
+------------------------------------------------------
+Started: 2026-06-21 21:19:40.406660
+Existing_entries: 366
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Delegation Visits Amman Stock Exchange And Discusses The Resilience Of The Exchange And Jordan’s Economy, And Explores Opportunities For Promoting Investment Opportunities At The ASE](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-delegation-visits-amman-stock-exchange-and-discusses-the-r-2026621/)
+append_entries: 1
+Finish: 2026-06-21 21:19:41.375094
