@@ -1682,3 +1682,18 @@ Append: [Aubrey Capital Management And LarrainVial Bring Global Investment Exper
 Append: [Latest EBA MREL Dashboard Shows That MREL Requirements Range From 25% To 29% Of Risk-Weighted Assets, Depending On Bank Category, While Bail-In Remains The Preferred Resolution Strategy](http://www.mondovisione.com/media-and-resources/news/latest-eba-mrel-dashboard-shows-that-mrel-requirements-range-from-25-to-29-of-2026622/)
 append_entries: 10
 Finish: 2026-06-22 18:13:46.529253
+------------------------------------------------------
+Started: 2026-06-22 22:07:35.055612
+Existing_entries: 386
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Seeks Public Comment On The Extension Of Standard Futures Contracts To 24/7 Trading And On Perpetual Contracts Referencing Physically Delivered Or Storable Energy Commodities](http://www.mondovisione.com/media-and-resources/news/cftc-seeks-public-comment-on-the-extension-of-standard-futures-contracts-to-247-2026622/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Commitments Of Traders Reports Update](http://www.mondovisione.com/media-and-resources/news/cftc-commitments-of-traders-reports-update-2026622/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Swaps Report Update](http://www.mondovisione.com/media-and-resources/news/cftc-swaps-report-update-2026622/)
+append_entries: 3
+Finish: 2026-06-22 22:07:35.951890
