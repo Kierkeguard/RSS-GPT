@@ -1703,3 +1703,25 @@ Existing_entries: 389
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-06-23 03:59:03.676248
+------------------------------------------------------
+Started: 2026-06-23 07:55:35.505550
+Existing_entries: 389
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MKI Global Partners Opens Washington DC Office - A Permanent Presence Where Policy, Regulation And Markets Converge](http://www.mondovisione.com/media-and-resources/news/mki-global-partners-opens-washington-dc-office-a-permanent-presence-where-poli-2026623/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Helsinki Welcomes Savox Communications To Main Market](http://www.mondovisione.com/media-and-resources/news/nasdaq-helsinki-welcomes-savox-communications-to-main-market-2026623/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Productivity Is A Team Sport: ASIC’s Contribution From In Goals - Keynote Address By ASIC Commissioner Kate O’Rourke At The AFIA Risk Summit In Melbourne On 23 June 2026](http://www.mondovisione.com/media-and-resources/news/productivity-is-a-team-sport-asics-contribution-from-in-goals-keynote-addres-2026623/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bank Negara Malaysia, Securities Commission Malaysia Align Strategic Priorities In Advancing Malaysia's Global Islamic Finance Leadership](http://www.mondovisione.com/media-and-resources/news/bank-negara-malaysia-securities-commission-malaysia-align-strategic-priorities-2026623/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC - Simplification Update: Email Lodgement Now Enabled For Almost All Paper Forms](http://www.mondovisione.com/media-and-resources/news/asic-simplification-update-email-lodgement-now-enabled-for-almost-all-paper-f-2026623/)
+Append: [S&P Global Declares Third Quarter Dividend](http://www.mondovisione.com/media-and-resources/news/sandp-global-declares-third-quarter-dividend-2026623/)
+append_entries: 6
+Finish: 2026-06-23 07:55:36.676493
