@@ -1748,3 +1748,15 @@ Append: [Tradeweb Launches Spread Trading For European Credit Portfolios - Enabl
 Append: [Global Deal Activity Down By 7% YoY During January-May 2026, Reveals GlobalData](http://www.mondovisione.com/media-and-resources/news/global-deal-activity-down-by-7-yoy-during-january-may-2026-reveals-globaldata-2026623/)
 append_entries: 7
 Finish: 2026-06-23 11:22:28.562614
+------------------------------------------------------
+Started: 2026-06-23 15:11:37.113756
+Existing_entries: 402
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [tZERO To Bring Archax $GOVY To US Institutional Investors – Unlocking Tokenised Treasuries Access Through Regulated US Infrastructure - Partnership Will Enable US Distribution Of Archax’s Tokenised Short-Term Treasuries Product Via tZERO’s SEC- And FINRA-Regulated Broker-Dealer Ecosystem](http://www.mondovisione.com/media-and-resources/news/tzero-to-bring-archax-govy-to-us-institutional-investors-unlocking-tokenised-2026623/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [GPW Current Report | No. 9/2026](http://www.mondovisione.com/media-and-resources/news/gpw-current-report-no-92026-2026623/)
+append_entries: 2
+Finish: 2026-06-23 15:11:38.401724
