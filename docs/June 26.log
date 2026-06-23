@@ -1725,3 +1725,26 @@ Append: [ASIC - Simplification Update: Email Lodgement Now Enabled For Almost Al
 Append: [S&P Global Declares Third Quarter Dividend](http://www.mondovisione.com/media-and-resources/news/sandp-global-declares-third-quarter-dividend-2026623/)
 append_entries: 6
 Finish: 2026-06-23 07:55:36.676493
+------------------------------------------------------
+Started: 2026-06-23 11:22:27.240597
+Existing_entries: 395
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Broadridge Names Mark Nichols Co-President Of Digital Assets](http://www.mondovisione.com/media-and-resources/news/broadridge-names-mark-nichols-co-president-of-digital-assets-2026623/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ETFGI Reports Active ETFs Assets Hit A Record US$2.49 Trillion And Record Net Inflows Of US$412 Bn YTD At The End Of May](http://www.mondovisione.com/media-and-resources/news/etfgi-reports-active-etfs-assets-hit-a-record-us249-trillion-and-record-net-in-2026623/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Capital.Com Enters South Africa Under Dual FSCA Regulatory Licence - The Global Fintech Group Has Been Authorised As An Over-The-Counter Derivatives Provider And Category 1 Financial Services Provider, Establishing Its Regulated Operating Framework In The Country](http://www.mondovisione.com/media-and-resources/news/capitalcom-enters-south-africa-under-dual-fsca-regulatory-licence-the-global-2026623/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [APAC Deal Volume Dips 12% During January-May 2026 As VC Resilience Clashes With M&A Retreat, Reveals GlobalData](http://www.mondovisione.com/media-and-resources/news/apac-deal-volume-dips-12-during-january-may-2026-as-vc-resilience-clashes-with-2026623/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Lunate Launches Chimera Solactive GCC Shariah Dividend ETF Tracking The Solactive GCC Shariah Dividend Index](http://www.mondovisione.com/media-and-resources/news/lunate-launches-chimera-solactive-gcc-shariah-dividend-etf-tracking-the-solactiv-2026623/)
+Append: [Tradeweb Launches Spread Trading For European Credit Portfolios - Enables Portfolio-Level Execution On A Spread Within A Single, Integrated Workflow](http://www.mondovisione.com/media-and-resources/news/tradeweb-launches-spread-trading-for-european-credit-portfolios-enables-portfo-2026623/)
+Append: [Global Deal Activity Down By 7% YoY During January-May 2026, Reveals GlobalData](http://www.mondovisione.com/media-and-resources/news/global-deal-activity-down-by-7-yoy-during-january-may-2026-reveals-globaldata-2026623/)
+append_entries: 7
+Finish: 2026-06-23 11:22:28.562614
