@@ -1882,3 +1882,21 @@ Append: [ECB Reports On Progress Towards Euro Adoption](http://www.mondovisione.
 Append: [Commodity Traders Offer £1m To Crisis Fund After UK Financial Conduct Authority Competition Probe](http://www.mondovisione.com/media-and-resources/news/commodity-traders-offer-1m-to-crisis-fund-after-uk-financial-conduct-authority-2026624/)
 append_entries: 6
 Finish: 2026-06-24 16:25:01.037381
+------------------------------------------------------
+Started: 2026-06-24 19:52:31.294383
+Existing_entries: 434
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Welcome Remarks, Federal Reserve Governor Lisa D. Cook, At The State Of Small Business Symposium Hosted By The Federal Reserve Bank Of Cleveland (Via Pre-Recorded Video)](http://www.mondovisione.com/media-and-resources/news/welcome-remarks-federal-reserve-governor-lisa-d-cook-at-the-state-of-small-bu-2026624/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Exchange Group - Options Markets - New Listings Effective For June 25, 2026](http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-options-markets-new-listings-effective-for-june-25-2026-2026624/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Iceland Joins TIPS For Instant Payments](http://www.mondovisione.com/media-and-resources/news/iceland-joins-tips-for-instant-payments-2026624/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Running On Empty: Climate Risks And The Fragility Of Global Energy And Food Supply Chains − Speech By Swati Dhingra, Bank Of England, Member Of The Monetary Policy Committee, Given At The World Resources Institute, London](http://www.mondovisione.com/media-and-resources/news/running-on-empty-climate-risks-and-the-fragility-of-global-energy-and-food-supp-2026624/)
+append_entries: 4
+Finish: 2026-06-24 19:52:32.277716
