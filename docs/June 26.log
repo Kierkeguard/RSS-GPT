@@ -1918,3 +1918,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [MIAX Exchange Group - Options Markets - Market For Underlying Security Used For Openings For Newly Listed Symbols Effective Thursday, June 25, 2026](http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-options-markets-market-for-underlying-security-used-for-2026624/)
 append_entries: 4
 Finish: 2026-06-24 21:25:52.668555
+------------------------------------------------------
+Started: 2026-06-24 23:09:08.975066
+Existing_entries: 442
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-06-24 23:09:10.068540
