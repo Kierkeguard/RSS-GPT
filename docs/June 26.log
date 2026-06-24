@@ -1838,3 +1838,25 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Cboe Introduces Cboe Predicts, Launching First Products In New Prediction Markets Suite](http://www.mondovisione.com/media-and-resources/news/cboe-introduces-cboe-predicts-launching-first-products-in-new-prediction-market-2026624/)
 append_entries: 5
 Finish: 2026-06-24 09:39:06.250883
+------------------------------------------------------
+Started: 2026-06-24 12:21:55.508739
+Existing_entries: 422
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Re-Thinking Regulation For The Age Of AI - Speech By Nikhil Rathi, UK Financial Conduct Authority Chief Executive At techUK's Agents Of Change: Generative And Agentic AI In Financial Services 2026](http://www.mondovisione.com/media-and-resources/news/re-thinking-regulation-for-the-age-of-ai-speech-by-nikhil-rathi-uk-financial-2026624/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER Updates Methodology For A More Efficient Assessment Of Regional Electricity Reserve Requirements](http://www.mondovisione.com/media-and-resources/news/acer-updates-methodology-for-a-more-efficient-assessment-of-regional-electricity-2026624/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [AutoRek Expands US Presence With Miami Office And Two Senior Hires - Gil Johnson And James Inskip Join As Reconciliation Specialists And Leaders In AI-Driven Growth, Accelerating North American Growth](http://www.mondovisione.com/media-and-resources/news/autorek-expands-us-presence-with-miami-office-and-two-senior-hires-gil-johnson-2026624/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Fiserv Announces Results Of Tender Offers For Any And All Of Its Outstanding 5.150% Senior Notes Due 2027 And 4.400% Senior Notes Due 2049](http://www.mondovisione.com/media-and-resources/news/fiserv-announces-results-of-tender-offers-for-any-and-all-of-its-outstanding-51-2026624/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Worldline Is First In Europe To Bring Click To Pay To Recurring Payments - Boosting Cross-Border Conversion And Reducing Churn For Subscription Businesses](http://www.mondovisione.com/media-and-resources/news/worldline-is-first-in-europe-to-bring-click-to-pay-to-recurring-payments-boost-2026624/)
+Append: [Zenith Joins Japanese Megabank Working Group To Tokenize $1.6 Trillion JGB Repo Market On-Chain - The Collaboration Aims To Upgrade Traditional Securities Lending With Blockchain-Powered Tokenized Japanese Government Bonds And Stablecoin Repo](http://www.mondovisione.com/media-and-resources/news/zenith-joins-japanese-megabank-working-group-to-tokenize-16-trillion-jgb-repo-2026624/)
+append_entries: 6
+Finish: 2026-06-24 12:21:56.791460
