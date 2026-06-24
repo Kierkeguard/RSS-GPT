@@ -1817,3 +1817,24 @@ Existing_entries: 417
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-06-24 04:01:11.891142
+------------------------------------------------------
+Started: 2026-06-24 09:39:05.341076
+Existing_entries: 417
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MNI Indicators: MNI China Money Market Index™ – June Conditions Steady](http://www.mondovisione.com/media-and-resources/news/mni-indicators-mni-china-money-market-index-june-conditions-steady-2026624/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Diversified Engines Underpin High-Quality Growth To Bolster Global Standing Of Hong Kong Capital Markets: Hong Kong Securities And Futures Commission Annual Report](http://www.mondovisione.com/media-and-resources/news/diversified-engines-underpin-high-quality-growth-to-bolster-global-standing-of-h-2026624/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Lifts Bonnet On Car Finance Costs And Distribution Concerns](http://www.mondovisione.com/media-and-resources/news/asic-lifts-bonnet-on-car-finance-costs-and-distribution-concerns-2026624/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Shanghai Gold Exchange: Announcement On Switchover To Disaster Recovery Data Center](http://www.mondovisione.com/media-and-resources/news/shanghai-gold-exchange-announcement-on-switchover-to-disaster-recovery-data-cen-2026624/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cboe Introduces Cboe Predicts, Launching First Products In New Prediction Markets Suite](http://www.mondovisione.com/media-and-resources/news/cboe-introduces-cboe-predicts-launching-first-products-in-new-prediction-market-2026624/)
+append_entries: 5
+Finish: 2026-06-24 09:39:06.250883
