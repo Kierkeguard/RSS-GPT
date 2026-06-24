@@ -1900,3 +1900,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Running On Empty: Climate Risks And The Fragility Of Global Energy And Food Supply Chains − Speech By Swati Dhingra, Bank Of England, Member Of The Monetary Policy Committee, Given At The World Resources Institute, London](http://www.mondovisione.com/media-and-resources/news/running-on-empty-climate-risks-and-the-fragility-of-global-energy-and-food-supp-2026624/)
 append_entries: 4
 Finish: 2026-06-24 19:52:32.277716
+------------------------------------------------------
+Started: 2026-06-24 21:25:51.635484
+Existing_entries: 438
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Avelacom Optimizes Low-Latency Network Routes From Shanghai Tonglian Data Center](http://www.mondovisione.com/media-and-resources/news/avelacom-optimizes-low-latency-network-routes-from-shanghai-tonglian-data-center-2026624/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Federal Reserve Board's Annual Bank Stress Test Confirms That Large Banks Are Well Positioned To Weather A Severe Recession And Able To Continue To Lend To Households And Businesses](http://www.mondovisione.com/media-and-resources/news/federal-reserve-boards-annual-bank-stress-test-confirms-that-large-banks-are-we-2026624/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Appoints Kathleen Hutchinson As Director Of Office Of International Affairs](http://www.mondovisione.com/media-and-resources/news/sec-appoints-kathleen-hutchinson-as-director-of-office-of-international-affairs-2026624/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Exchange Group - Options Markets - Market For Underlying Security Used For Openings For Newly Listed Symbols Effective Thursday, June 25, 2026](http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-options-markets-market-for-underlying-security-used-for-2026624/)
+append_entries: 4
+Finish: 2026-06-24 21:25:52.668555
