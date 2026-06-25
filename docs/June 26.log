@@ -1930,3 +1930,24 @@ Existing_entries: 442
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-06-25 04:01:37.289341
+------------------------------------------------------
+Started: 2026-06-25 09:31:45.392906
+Existing_entries: 442
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Eduform’Action Lists On Euronext](http://www.mondovisione.com/media-and-resources/news/eduformaction-lists-on-euronext-2026625/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Clearstream Opens Kenya Market Link](http://www.mondovisione.com/media-and-resources/news/clearstream-opens-kenya-market-link-2026625/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FTSE Russell And China Construction Bank Launch FTSE CCB Dim Sum Green Bond Index - New Co-Branded Index Provides A Transparent And Investable Benchmark For Offshore RMB Green Bonds](http://www.mondovisione.com/media-and-resources/news/ftse-russell-and-china-construction-bank-launch-ftse-ccb-dim-sum-green-bond-inde-2026625/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Stockholm Welcomes Flat Capital AB To The Main Market](http://www.mondovisione.com/media-and-resources/news/nasdaq-stockholm-welcomes-flat-capital-ab-to-the-main-market-2026625/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Dubai Financial Services Authority Annual Report 2025: The DFSA Records Third Consecutive Year Of Double-Digit Registration Growth As Dubai Advances To Highest-Ever Global Financial Centres Index Ranking](http://www.mondovisione.com/media-and-resources/news/dubai-financial-services-authority-annual-report-2025-the-dfsa-records-third-co-2026625/)
+append_entries: 5
+Finish: 2026-06-25 09:31:46.218073
