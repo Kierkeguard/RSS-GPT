@@ -1973,3 +1973,18 @@ Append: [Bank Of England: A Sea Change In Regulatory Investigations And Enforcem
 Append: [Captura Raises $12.5M In First Close Of Series B Financing To Expand Electrodialysis Platform Across Critical Minerals, Carbon Removal, And Industrial Markets](http://www.mondovisione.com/media-and-resources/news/captura-raises-125m-in-first-close-of-series-b-financing-to-expand-electrodial-2026625/)
 append_entries: 6
 Finish: 2026-06-25 12:25:28.014230
+------------------------------------------------------
+Started: 2026-06-25 16:29:00.118335
+Existing_entries: 453
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LuxSE Reports All-Time High Listing Numbers And Strong Financial Results For 2025](http://www.mondovisione.com/media-and-resources/news/luxse-reports-all-time-high-listing-numbers-and-strong-financial-results-for-202-2026625/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Borsa Istanbul: BIST-KYD Fund Indices Periodic Review](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-bist-kyd-fund-indices-periodic-review-2026625/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [June 30 Revolution Holiday At EGX](http://www.mondovisione.com/media-and-resources/news/june-30-revolution-holiday-at-egx-2026625/)
+append_entries: 3
+Finish: 2026-06-25 16:29:01.245258
