@@ -2012,3 +2012,18 @@ Append: [Borsa Istanbul: BIST-KYD Corporate Eurobond Indices Periodic Review](ht
 Append: [Nasdaq Texas Convenes Inaugural Advisory Board To Strengthen Support For Texas Business Community - The Newly Formed Board Will Leverage The Momentum Of The Dual-Listing Platform To Deepen Business And Community Connections Across The Lone Star State](http://www.mondovisione.com/media-and-resources/news/nasdaq-texas-convenes-inaugural-advisory-board-to-strengthen-support-for-texas-b-2026625/)
 append_entries: 8
 Finish: 2026-06-25 20:07:25.564099
+------------------------------------------------------
+Started: 2026-06-25 23:22:16.863422
+Existing_entries: 464
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Seeks Public Comment On Notice Of Proposed Rulemaking Concerning Data Reporting Requirements For Certain Event Contracts](http://www.mondovisione.com/media-and-resources/news/cftc-seeks-public-comment-on-notice-of-proposed-rulemaking-concerning-data-repor-2026625/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Announces Mid-Month Open Short Interest Positions In Nasdaq Stocks As Of Settlement Date June 15, 2026](http://www.mondovisione.com/media-and-resources/news/nasdaq-announces-mid-month-open-short-interest-positions-in-nasdaq-stocks-as-of-2026625/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NYSE Group Consolidated Short Interest Report](http://www.mondovisione.com/media-and-resources/news/nyse-group-consolidated-short-interest-report-2026625/)
+append_entries: 3
+Finish: 2026-06-25 23:22:18.101344
