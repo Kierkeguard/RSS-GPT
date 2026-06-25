@@ -1988,3 +1988,27 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [June 30 Revolution Holiday At EGX](http://www.mondovisione.com/media-and-resources/news/june-30-revolution-holiday-at-egx-2026625/)
 append_entries: 3
 Finish: 2026-06-25 16:29:01.245258
+------------------------------------------------------
+Started: 2026-06-25 20:07:24.074409
+Existing_entries: 456
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Federal Reserve: Senior Credit Officer Opinion Survey On Dealer Financing Terms](http://www.mondovisione.com/media-and-resources/news/federal-reserve-senior-credit-officer-opinion-survey-on-dealer-financing-terms-2026625/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [EACH’s Women In Clearing Series – Inspiration From Sandra Andersson, Head Of Government Affairs, Euronext In Belgium](http://www.mondovisione.com/media-and-resources/news/eachs-women-in-clearing-series-inspiration-from-sandra-andersson-head-of-gov-2026625/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Andrew Kriegler To Conclude Tenure As Canadian Investment Regulatory Organization President And CEO - Board Commences Search For Successor](http://www.mondovisione.com/media-and-resources/news/andrew-kriegler-to-conclude-tenure-as-canadian-investment-regulatory-organizatio-2026625/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Canadian Securities Administrators Announces Final Amendments And Changes To Implement An Access Model For Certain Continuous Disclosure Documents Of Reporting Issuers Other Than Investment Funds](http://www.mondovisione.com/media-and-resources/news/canadian-securities-administrators-announces-final-amendments-and-changes-to-imp-2026625/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Central Bank Money For The Digital Era: Piero Cipollone Member Of The Executive Board Of The ECB](http://www.mondovisione.com/media-and-resources/news/central-bank-money-for-the-digital-era-piero-cipollone-member-of-the-executive-2026625/)
+Append: [Bank Of England: The Retail Payments Infrastructure Board launches Consultation On The Next Generation UK Payments Infrastructure](http://www.mondovisione.com/media-and-resources/news/bank-of-england-the-retail-payments-infrastructure-board-launches-consultation-2026625/)
+Append: [Borsa Istanbul: BIST-KYD Corporate Eurobond Indices Periodic Review](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-bist-kyd-corporate-eurobond-indices-periodic-review-2026625/)
+Append: [Nasdaq Texas Convenes Inaugural Advisory Board To Strengthen Support For Texas Business Community - The Newly Formed Board Will Leverage The Momentum Of The Dual-Listing Platform To Deepen Business And Community Connections Across The Lone Star State](http://www.mondovisione.com/media-and-resources/news/nasdaq-texas-convenes-inaugural-advisory-board-to-strengthen-support-for-texas-b-2026625/)
+append_entries: 8
+Finish: 2026-06-25 20:07:25.564099
