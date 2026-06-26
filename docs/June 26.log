@@ -2116,3 +2116,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Record Trading Volume On The Nasdaq Closing Cross During The June 2026 Russell US Indexes Reconstitution - 4,594,880,616 Shares Traded Amounting To $334.027 Billion](http://www.mondovisione.com/media-and-resources/news/record-trading-volume-on-the-nasdaq-closing-cross-during-the-june-2026-russell-u-2026626/)
 append_entries: 1
 Finish: 2026-06-26 21:24:40.106082
+------------------------------------------------------
+Started: 2026-06-26 23:11:58.662329
+Existing_entries: 488
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-06-26 23:11:59.706350
