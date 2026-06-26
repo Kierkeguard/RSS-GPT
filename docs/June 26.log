@@ -2107,3 +2107,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [The EBA Reaches Another Important Milestone In Enhancing Supervisory Efficiency With Its Revised SREP Guidelines](http://www.mondovisione.com/media-and-resources/news/the-eba-reaches-another-important-milestone-in-enhancing-supervisory-efficiency-2026626/)
 append_entries: 5
 Finish: 2026-06-26 19:56:54.642449
+------------------------------------------------------
+Started: 2026-06-26 21:24:39.061454
+Existing_entries: 487
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Record Trading Volume On The Nasdaq Closing Cross During The June 2026 Russell US Indexes Reconstitution - 4,594,880,616 Shares Traded Amounting To $334.027 Billion](http://www.mondovisione.com/media-and-resources/news/record-trading-volume-on-the-nasdaq-closing-cross-during-the-june-2026-russell-u-2026626/)
+append_entries: 1
+Finish: 2026-06-26 21:24:40.106082
