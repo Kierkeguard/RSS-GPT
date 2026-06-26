@@ -2086,3 +2086,24 @@ Append: [UK Financial Conduct Authority Consults On Targeted Changes To Listing 
 Append: [Hong Kong Securities And Futures Commission Welcomes Appointment And Re-Appointment Of Non-Executive Directors](http://www.mondovisione.com/media-and-resources/news/hong-kong-securities-and-futures-commission-welcomes-appointment-and-re-appointm-2026626/)
 append_entries: 7
 Finish: 2026-06-26 16:20:32.697068
+------------------------------------------------------
+Started: 2026-06-26 19:56:53.457617
+Existing_entries: 482
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Commitments Of Traders Reports Update](http://www.mondovisione.com/media-and-resources/news/cftc-commitments-of-traders-reports-update-2026626/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Canadian Investment Regulatory Organization Pilots Program To Support Self-Represented Respondents - Partners With The National Self-Represented Litigants Project (NSRLP) To Provide Third-Party, Independent Assistance Across Canada](http://www.mondovisione.com/media-and-resources/news/canadian-investment-regulatory-organization-pilots-program-to-support-self-repre-2026626/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Swedish Financial Supervisory Authority: Major Changes In Periodic AML Reporting](http://www.mondovisione.com/media-and-resources/news/swedish-financial-supervisory-authority-major-changes-in-periodic-aml-reporting-2026626/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The European Banking Authority Consults On A Draft Methodology For Setting Fines Under The Markets In Crypto-Assets Regulation (MiCA)](http://www.mondovisione.com/media-and-resources/news/the-european-banking-authority-consults-on-a-draft-methodology-for-setting-fines-2026626/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The EBA Reaches Another Important Milestone In Enhancing Supervisory Efficiency With Its Revised SREP Guidelines](http://www.mondovisione.com/media-and-resources/news/the-eba-reaches-another-important-milestone-in-enhancing-supervisory-efficiency-2026626/)
+append_entries: 5
+Finish: 2026-06-26 19:56:54.642449
