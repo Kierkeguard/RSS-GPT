@@ -2033,3 +2033,27 @@ Existing_entries: 467
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-06-26 04:08:59.160171
+------------------------------------------------------
+Started: 2026-06-26 09:36:18.283702
+Existing_entries: 467
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Dubai Welcomes The Arab Energy Fund’s USD 500 Million Sukuk Listing](http://www.mondovisione.com/media-and-resources/news/nasdaq-dubai-welcomes-the-arab-energy-funds-usd-500-million-sukuk-listing-2026626/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Emerald Horizon AG Listed On The Vienna Stock Exchange](http://www.mondovisione.com/media-and-resources/news/emerald-horizon-ag-listed-on-the-vienna-stock-exchange-2026626/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Capital Investment Trust Corporation Launches Capital US Tech Giant ETF In First Collaboration With Solactive](http://www.mondovisione.com/media-and-resources/news/capital-investment-trust-corporation-launches-capital-us-tech-giant-etf-in-first-2026626/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX Welcomes Listing Of First ETF Tracking HKEX Tech 100 Index](http://www.mondovisione.com/media-and-resources/news/hkex-welcomes-listing-of-first-etf-tracking-hkex-tech-100-index-2026626/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Sues Former Keystone Asset Management Directors And Compliance Committee Members Over Alleged Shield Failures](http://www.mondovisione.com/media-and-resources/news/asic-sues-former-keystone-asset-management-directors-and-compliance-committee-me-2026626/)
+Append: [ASX Releases Inaugural Supervision Report For Listed Companies Focusing On Market Integrity And Disclosure Practices](http://www.mondovisione.com/media-and-resources/news/asx-releases-inaugural-supervision-report-for-listed-companies-focusing-on-marke-2026626/)
+Append: [Registered Company Auditor John Gordon Owenell Hands In Registration Following Independence Concerns Raised By ASIC](http://www.mondovisione.com/media-and-resources/news/registered-company-auditor-john-gordon-owenell-hands-in-registration-following-i-2026626/)
+Append: [Comptroller Of The US Currency Issues Statement At FDIC Board Meeting](http://www.mondovisione.com/media-and-resources/news/comptroller-of-the-us-currency-issues-statement-at-fdic-board-meeting-2026626/)
+append_entries: 8
+Finish: 2026-06-26 09:36:19.221237
