@@ -2128,3 +2128,15 @@ Existing_entries: 488
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-06-27 03:54:56.007465
+------------------------------------------------------
+Started: 2026-06-27 06:56:55.038997
+Existing_entries: 488
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Space Exploration Technologies Corporation To Join The Nasdaq-100 Index® Beginning July 7, 2026](http://www.mondovisione.com/media-and-resources/news/space-exploration-technologies-corporation-to-join-the-nasdaq-100-index-beginni-2026627/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nigerian Exchange Group: Weekly Market Report For The Week Ended 26 June 2026](http://www.mondovisione.com/media-and-resources/news/nigerian-exchange-group-weekly-market-report-for-the-week-ended-26-june-2026-2026627/)
+append_entries: 2
+Finish: 2026-06-27 06:56:55.958029
