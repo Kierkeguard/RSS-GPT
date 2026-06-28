@@ -2203,3 +2203,12 @@ Existing_entries: 491
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-06-28 11:48:57.908770
+------------------------------------------------------
+Started: 2026-06-28 13:58:41.080221
+Existing_entries: 491
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BIS Annual Economic Report 2026](http://www.mondovisione.com/media-and-resources/news/bis-annual-economic-report-2026-2026628/)
+append_entries: 1
+Finish: 2026-06-28 13:58:42.187778
