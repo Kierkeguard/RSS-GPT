@@ -2413,3 +2413,25 @@ Append: [Borsa İstanbul To Launch New Data Center Tomorrow](http://www.mondovis
 Append: [NSE Indices Dashboard For June 2026](http://www.mondovisione.com/media-and-resources/news/nse-indices-dashboard-for-june-2026-2026630/)
 append_entries: 10
 Finish: 2026-06-30 16:23:59.917710
+------------------------------------------------------
+Started: 2026-06-30 20:04:29.185220
+Existing_entries: 541
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Remarks At The Economic Club Of New York, Paul S. Atkins, SEC Chairman, New York, N.Y., June 30, 2026](http://www.mondovisione.com/media-and-resources/news/remarks-at-the-economic-club-of-new-york-paul-s-atkins-sec-chairman-new-york-2026630/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Office Of The Comptroller Of The US Currency Reports First Quarter 2026 Bank Trading Revenue](http://www.mondovisione.com/media-and-resources/news/us-office-of-the-comptroller-of-the-us-currency-reports-first-quarter-2026-bank-2026630/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Renewed Interest From European Bidders Helps Fuel £36bn UK M&A Market In H1 2026 - UK Public M&A H1 2026 Market Update](http://www.mondovisione.com/media-and-resources/news/renewed-interest-from-european-bidders-helps-fuel-36bn-uk-manda-market-in-h1-2026-2026630/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Office Of The Comptroller Of The US Currency Reports Mortgage Performance For First Quarter Of 2026](http://www.mondovisione.com/media-and-resources/news/office-of-the-comptroller-of-the-us-currency-reports-mortgage-performance-for-fi-2026630/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIX: New Collaborative Platform To Help Combat Fraud](http://www.mondovisione.com/media-and-resources/news/six-new-collaborative-platform-to-help-combat-fraud-2026630/)
+Append: [Ontario Securities Commission Investor Warnings And Alerts For June 9 – 30, 2026](http://www.mondovisione.com/media-and-resources/news/ontario-securities-commission-investor-warnings-and-alerts-for-june-9-30-2026-2026630/)
+append_entries: 6
+Finish: 2026-06-30 20:04:30.090627
