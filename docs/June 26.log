@@ -2435,3 +2435,12 @@ Append: [SIX: New Collaborative Platform To Help Combat Fraud](http://www.mondov
 Append: [Ontario Securities Commission Investor Warnings And Alerts For June 9 – 30, 2026](http://www.mondovisione.com/media-and-resources/news/ontario-securities-commission-investor-warnings-and-alerts-for-june-9-30-2026-2026630/)
 append_entries: 6
 Finish: 2026-06-30 20:04:30.090627
+------------------------------------------------------
+Started: 2026-06-30 23:17:17.371496
+Existing_entries: 547
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Exchange Group - Options Markets - July 1, 2026 Fee Changes](http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-options-markets-july-1-2026-fee-changes-2026630/)
+append_entries: 1
+Finish: 2026-06-30 23:17:18.403529
