@@ -2476,3 +2476,21 @@ Append: [The WFE Publishes Position Paper On Mythos AI Cybersecurity Model](http
 Append: [FESE Response To ESMA Call For Evidence On The Market Structure Of European Equity Markets](http://www.mondovisione.com/media-and-resources/news/fese-response-to-esma-call-for-evidence-on-the-market-structure-of-european-equi-202671/)
 append_entries: 10
 Finish: 2026-07-01 09:58:07.143012
+------------------------------------------------------
+Started: 2026-07-01 12:41:02.044195
+Existing_entries: 558
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESMA Consults On Simplifying EU Taxonomy Disclosure Framework](http://www.mondovisione.com/media-and-resources/news/esma-consults-on-simplifying-eu-taxonomy-disclosure-framework-202671/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Boerse Stuttgart Records June Turnover Of Around EUR 20 Billion - High Increases In All Asset Classes Compared To The Same Month Of The Previous Year](http://www.mondovisione.com/media-and-resources/news/boerse-stuttgart-records-june-turnover-of-around-eur-20-billion-high-increases-202671/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESMA Appoints Peter Tkáč As The New Member Of Its Management Board](http://www.mondovisione.com/media-and-resources/news/esma-appoints-peter-tk-as-the-new-member-of-its-management-board-202671/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Gold Road International Lists On Euronext Growth](http://www.mondovisione.com/media-and-resources/news/gold-road-international-lists-on-euronext-growth-202671/)
+append_entries: 4
+Finish: 2026-07-01 12:41:03.432457
