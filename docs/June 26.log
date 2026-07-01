@@ -2444,3 +2444,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [MIAX Exchange Group - Options Markets - July 1, 2026 Fee Changes](http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-options-markets-july-1-2026-fee-changes-2026630/)
 append_entries: 1
 Finish: 2026-06-30 23:17:18.403529
+------------------------------------------------------
+Started: 2026-07-01 04:19:42.262389
+Existing_entries: 548
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-07-01 04:19:43.089356
