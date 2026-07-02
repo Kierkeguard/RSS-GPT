@@ -2554,3 +2554,18 @@ Existing_entries: 578
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-07-02 03:59:26.610830
+------------------------------------------------------
+Started: 2026-07-02 07:38:38.949860
+Existing_entries: 578
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Hong Kong’s AUM Grew 20% To Record High: Hong Kong Securities And Futures Commission's 2025 Survey On Asset And Wealth Management](http://www.mondovisione.com/media-and-resources/news/hong-kongs-aum-grew-20-to-record-high-hong-kong-securities-and-futures-commis-202672/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASX ETF Market Reaches Record Year Milestone](http://www.mondovisione.com/media-and-resources/news/asx-etf-market-reaches-record-year-milestone-202672/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Launches Refreshed Companies Search Service](http://www.mondovisione.com/media-and-resources/news/asic-launches-refreshed-companies-search-service-202672/)
+append_entries: 3
+Finish: 2026-07-02 07:38:40.164151
