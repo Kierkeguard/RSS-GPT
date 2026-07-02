@@ -83,3 +83,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Office Of The Comptroller Of The US Currency Announces Deputy Comptroller For Supervision System And Analytical Support](http://www.mondovisione.com/media-and-resources/news/office-of-the-comptroller-of-the-us-currency-announces-deputy-comptroller-for-su-202672/)
 append_entries: 2
 Finish: 2026-07-02 19:38:52.537321
+------------------------------------------------------
+Started: 2026-07-02 21:13:34.614175
+Existing_entries: 27
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Robinhood Markets, Inc. To Announce Second Quarter 2026 Results On July 29, 2026](http://www.mondovisione.com/media-and-resources/news/robinhood-markets-inc-to-announce-second-quarter-2026-results-on-july-29-2026-202672/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Financial Data For Futures Commission Merchants Update](http://www.mondovisione.com/media-and-resources/news/cftc-financial-data-for-futures-commission-merchants-update-202672/)
+append_entries: 2
+Finish: 2026-07-02 21:13:35.490779
