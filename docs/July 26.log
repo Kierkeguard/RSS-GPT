@@ -71,3 +71,15 @@ Append: [Targeted EBA Peer Review Finds High Compliance On Pillar 3 Disclosures 
 Append: [Attica Department Stores Lists On Euronext](http://www.mondovisione.com/media-and-resources/news/attica-department-stores-lists-on-euronext-202672/)
 append_entries: 8
 Finish: 2026-07-02 17:54:16.747391
+------------------------------------------------------
+Started: 2026-07-02 19:38:51.185218
+Existing_entries: 25
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Signicat And TrustTech Bring Reusable Identity To European Businesses Through Private Wallets, Ahead Of New EU Rules](http://www.mondovisione.com/media-and-resources/news/signicat-and-trusttech-bring-reusable-identity-to-european-businesses-through-pr-202672/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Office Of The Comptroller Of The US Currency Announces Deputy Comptroller For Supervision System And Analytical Support](http://www.mondovisione.com/media-and-resources/news/office-of-the-comptroller-of-the-us-currency-announces-deputy-comptroller-for-su-202672/)
+append_entries: 2
+Finish: 2026-07-02 19:38:52.537321
