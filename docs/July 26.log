@@ -24,3 +24,26 @@ Append: [Statistics From Nasdaq Nordic Exchange June 2026](http://www.mondovisio
 Append: [EEX Successfully Conducts First nEHS Auction](http://www.mondovisione.com/media-and-resources/news/eex-successfully-conducts-first-nehs-auction-202672/)
 append_entries: 10
 Finish: 2026-07-02 10:45:28.508472
+------------------------------------------------------
+Started: 2026-07-02 14:11:41.809728
+Existing_entries: 10
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Canadian Derivatives Clearing Corporation Announces Inaugural Subscription Of Secured General Collateral Notes (SGC Notes)](http://www.mondovisione.com/media-and-resources/news/canadian-derivatives-clearing-corporation-announces-inaugural-subscription-of-se-202672/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Ondo Finance Launches First-Ever Custodial Tokenized Securities In The U.S., Broadridge Partners To Integrate World Class Governance](http://www.mondovisione.com/media-and-resources/news/ondo-finance-launches-first-ever-custodial-tokenized-securities-in-the-us-bro-202672/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Worldline, ING And Visa Complete A Live Agentic Payment Transaction In Europe - A New Use Case Illustrating How Agentic Payments Can Operate Securely With Strong Customer And Biometric Authentication](http://www.mondovisione.com/media-and-resources/news/worldline-ing-and-visa-complete-a-live-agentic-payment-transaction-in-europe-202672/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group Reports Record June Average Daily Volume And Second-Highest Q2 Ever](http://www.mondovisione.com/media-and-resources/news/cme-group-reports-record-june-average-daily-volume-and-second-highest-q2-ever-202672/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority: Motor Finance Scheme Partially Suspended](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-motor-finance-scheme-partially-suspended-202672/)
+Append: [UK Financial Conduct Authority: Pension Firms Must Do More For Customers In Older Pensions And Fund Savings](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-pension-firms-must-do-more-for-customers-in-olde-202672/)
+Append: [UK Government Policy Paper: National Payments Vision](http://www.mondovisione.com/media-and-resources/news/uk-government-policy-paper-national-payments-vision-202672/)
+append_entries: 7
+Finish: 2026-07-02 14:11:43.099359
