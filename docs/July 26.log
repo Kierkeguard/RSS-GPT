@@ -163,3 +163,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ByteTravel Begins Trading On BME Growth Following Its Time On BME Scaleup](http://www.mondovisione.com/media-and-resources/news/bytetravel-begins-trading-on-bme-growth-following-its-time-on-bme-scaleup-202673/)
 append_entries: 3
 Finish: 2026-07-03 17:37:49.503372
+------------------------------------------------------
+Started: 2026-07-03 19:36:22.912138
+Existing_entries: 43
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Ontario Securities Commission Files Bankruptcy Application Against Harry Stinson Over Unpaid Sanctions](http://www.mondovisione.com/media-and-resources/news/ontario-securities-commission-files-bankruptcy-application-against-harry-stinson-202673/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Recognition Of The Chambre de l’assurance: Autorité des Marchés Financiers Announces Effective Date For Recognition Order And Amendments For Canadian Investment Regulatory Organization](http://www.mondovisione.com/media-and-resources/news/recognition-of-the-chambre-de-lassurance-autorit-des-marchs-financiers-annou-202673/)
+append_entries: 2
+Finish: 2026-07-03 19:36:23.833462
