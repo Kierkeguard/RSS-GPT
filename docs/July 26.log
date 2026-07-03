@@ -148,3 +148,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Malawi Stock Exchange Weekly Summary Report, 3 July 2026](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-3-july-2026-202673/)
 append_entries: 1
 Finish: 2026-07-03 14:19:29.580451
+------------------------------------------------------
+Started: 2026-07-03 17:37:48.346586
+Existing_entries: 40
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nigerian Exchange Weekly Report For The Week Ended 3 July 2026](http://www.mondovisione.com/media-and-resources/news/nigerian-exchange-weekly-report-for-the-week-ended-3-july-2026-202673/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESMA Launches Common Supervisory Action With NCAs On The Risk Management Function](http://www.mondovisione.com/media-and-resources/news/esma-launches-common-supervisory-action-with-ncas-on-the-risk-management-functio-202673/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ByteTravel Begins Trading On BME Growth Following Its Time On BME Scaleup](http://www.mondovisione.com/media-and-resources/news/bytetravel-begins-trading-on-bme-growth-following-its-time-on-bme-scaleup-202673/)
+append_entries: 3
+Finish: 2026-07-03 17:37:49.503372
