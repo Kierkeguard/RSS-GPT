@@ -139,3 +139,12 @@ Append: [Monetary Authority Of Singapore Partners Industry To Develop Safeguards
 Append: [Japan Financial Services Agency: Publication Of The "Initiatives And Challenges In Anti-Money Laundering And Countering Financial Crime (July 2026)"](http://www.mondovisione.com/media-and-resources/news/japan-financial-services-agency-publication-of-the-initiatives-and-challenges-202673/)
 append_entries: 10
 Finish: 2026-07-03 10:41:57.204316
+------------------------------------------------------
+Started: 2026-07-03 14:19:28.463067
+Existing_entries: 39
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Malawi Stock Exchange Weekly Summary Report, 3 July 2026](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-3-july-2026-202673/)
+append_entries: 1
+Finish: 2026-07-03 14:19:29.580451
