@@ -175,3 +175,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Recognition Of The Chambre de l’assurance: Autorité des Marchés Financiers Announces Effective Date For Recognition Order And Amendments For Canadian Investment Regulatory Organization](http://www.mondovisione.com/media-and-resources/news/recognition-of-the-chambre-de-lassurance-autorit-des-marchs-financiers-annou-202673/)
 append_entries: 2
 Finish: 2026-07-03 19:36:23.833462
+------------------------------------------------------
+Started: 2026-07-03 21:12:55.845604
+Existing_entries: 45
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-07-03 21:12:56.815984
