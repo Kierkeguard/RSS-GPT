@@ -301,3 +301,28 @@ Existing_entries: 45
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-07-06 04:01:15.753505
+------------------------------------------------------
+Started: 2026-07-06 10:46:53.272445
+Existing_entries: 45
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ETFGI Reports 336 Providers Launch Record 1,397 New ETF Products Across 33 Exchanges Through May 2026](http://www.mondovisione.com/media-and-resources/news/etfgi-reports-336-providers-launch-record-1397-new-etf-products-across-33-excha-202676/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SET Launches "Waste Exchange Station@Bueng Phra Ram 9 Phatthana Community"  – A Model For Sustainable Waste Management](http://www.mondovisione.com/media-and-resources/news/set-launches-waste-exchange-stationbueng-phra-ram-9-phatthana-community-a-202676/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Appointment Of HKEX Risk Management Committee (Statutory) Member](http://www.mondovisione.com/media-and-resources/news/appointment-of-hkex-risk-management-committee-statutory-member-202676/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Your Bourse Integrates TradingView Charts And Trading Platform Library With Trade Server](http://www.mondovisione.com/media-and-resources/news/your-bourse-integrates-tradingview-charts-and-trading-platform-library-with-trad-202676/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Publishes Landmark Review Into Impact Of AI On Retail Financial Services](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-publishes-landmark-review-into-impact-of-ai-on-re-202676/)
+Append: [Boerse Stuttgart: Financial Knowledge In Europe: Two-Thirds Feel Well Informed](http://www.mondovisione.com/media-and-resources/news/boerse-stuttgart-financial-knowledge-in-europe-two-thirds-feel-well-informed-202676/)
+Append: [MENA Fintech Association And Fireblocks Launch UAE Stablecoin Payments Playbook To Guide Institutional Adoption Of Digital Payments](http://www.mondovisione.com/media-and-resources/news/mena-fintech-association-and-fireblocks-launch-uae-stablecoin-payments-playbook-202676/)
+Append: [ASX Group Monthly Activity Report - June 2026](http://www.mondovisione.com/media-and-resources/news/asx-group-monthly-activity-report-june-2026-202676/)
+Append: [ASIC Seeks Feedback On Remaking Financial Market Relief Instruments](http://www.mondovisione.com/media-and-resources/news/asic-seeks-feedback-on-remaking-financial-market-relief-instruments-202676/)
+append_entries: 9
+Finish: 2026-07-06 10:46:54.536732
