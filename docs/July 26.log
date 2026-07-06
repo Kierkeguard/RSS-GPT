@@ -372,3 +372,25 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ESMA Selects Etrading Software (Netherlands) B.V. As Consolidated Tape Provider For OTC Derivatives](http://www.mondovisione.com/media-and-resources/news/esma-selects-etrading-software-netherlands-bv-as-consolidated-tape-provider-202676/)
 append_entries: 5
 Finish: 2026-07-06 18:14:01.106948
+------------------------------------------------------
+Started: 2026-07-06 21:39:40.068426
+Existing_entries: 68
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [S&P Global Market Intelligence Data | Top 10 Most Shorted Stocks In The US](http://www.mondovisione.com/media-and-resources/news/sandp-global-market-intelligence-data-top-10-most-shorted-stocks-in-the-us-202676/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cboe Global Markets Announces Date Of Second-Quarter 2026 Earnings Release And Conference Call](http://www.mondovisione.com/media-and-resources/news/cboe-global-markets-announces-date-of-second-quarter-2026-earnings-release-and-c-202676/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cboe Global Markets Reports Trading Volume For June 2026](http://www.mondovisione.com/media-and-resources/news/cboe-global-markets-reports-trading-volume-for-june-2026-202676/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Commitments Of Traders Reports Update](http://www.mondovisione.com/media-and-resources/news/cftc-commitments-of-traders-reports-update-202676/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Swaps Report Update](http://www.mondovisione.com/media-and-resources/news/cftc-swaps-report-update-202676/)
+Append: [SEC Names Paul Knight As Chief Operating Officer](http://www.mondovisione.com/media-and-resources/news/sec-names-paul-knight-as-chief-operating-officer-202676/)
+append_entries: 6
+Finish: 2026-07-06 21:39:40.991354
