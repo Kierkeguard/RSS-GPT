@@ -351,3 +351,24 @@ Append: [S&P Global Schedules Second Quarter 2026 Earnings Announcement And Conf
 Append: [S&P Global Provides Pro Forma And Recast Financial Results And Updated Segment Information](http://www.mondovisione.com/media-and-resources/news/sandp-global-provides-pro-forma-and-recast-financial-results-and-updated-segment-i-202676/)
 append_entries: 9
 Finish: 2026-07-06 15:42:24.994220
+------------------------------------------------------
+Started: 2026-07-06 18:14:00.074868
+Existing_entries: 63
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euronext Announces Volumes For June 2026](http://www.mondovisione.com/media-and-resources/news/euronext-announces-volumes-for-june-2026-202676/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Rings Opening Bell At The White House To Mark America 250 And The First Trading Day For Trump Accounts](http://www.mondovisione.com/media-and-resources/news/nasdaq-rings-opening-bell-at-the-white-house-to-mark-america-250-and-the-first-t-202676/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESMA Publishes Preliminary Findings On The Active Account Requirement And The First Annual Report Of The Joint Monitoring Mechanism](http://www.mondovisione.com/media-and-resources/news/esma-publishes-preliminary-findings-on-the-active-account-requirement-and-the-fi-202676/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bank Of England Appoints Rhys Phillips As The New Chief Cashier](http://www.mondovisione.com/media-and-resources/news/bank-of-england-appoints-rhys-phillips-as-the-new-chief-cashier-202676/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESMA Selects Etrading Software (Netherlands) B.V. As Consolidated Tape Provider For OTC Derivatives](http://www.mondovisione.com/media-and-resources/news/esma-selects-etrading-software-netherlands-bv-as-consolidated-tape-provider-202676/)
+append_entries: 5
+Finish: 2026-07-06 18:14:01.106948
