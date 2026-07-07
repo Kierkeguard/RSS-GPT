@@ -438,3 +438,25 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CoinShares Comment - Hyperliquid Continues To Trade Near Its All-Time High - Hyperliquid Continues To Outperform, Driven By Strong ETF Flows](http://www.mondovisione.com/media-and-resources/news/coinshares-comment-hyperliquid-continues-to-trade-near-its-all-time-high-hyp-202677/)
 append_entries: 1
 Finish: 2026-07-07 11:12:34.773721
+------------------------------------------------------
+Started: 2026-07-07 14:47:29.550948
+Existing_entries: 82
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tradeweb Reports June 2026 Total Trading Volume Of $69.7 Trillion And Average Daily Volume Of $3.2 Trillion](http://www.mondovisione.com/media-and-resources/news/tradeweb-reports-june-2026-total-trading-volume-of-697-trillion-and-average-da-202677/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Opening Remarks On Sound Practices For Artificial Intelligence, Federal Reserve Vice Chair For Supervision Michelle W. Bowman, At The Financial Stability Board Virtual Outreach Event](http://www.mondovisione.com/media-and-resources/news/opening-remarks-on-sound-practices-for-artificial-intelligence-federal-reserve-202677/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Miami International Holdings Reports June 2026 Trading Results - MIAX Exchange Group Reports 26.0% Increase In Multi-List Options ADV YTD](http://www.mondovisione.com/media-and-resources/news/miami-international-holdings-reports-june-2026-trading-results-miax-exchange-g-202677/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Broadridge's Distributed Ledger Repo Processes $7.5 Trillion In June](http://www.mondovisione.com/media-and-resources/news/broadridges-distributed-ledger-repo-processes-75-trillion-in-june-202677/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Industry Leaders Convene To Advance Hong Kong’s FIC Ecosystem](http://www.mondovisione.com/media-and-resources/news/industry-leaders-convene-to-advance-hong-kongs-fic-ecosystem-202677/)
+Append: [MarketAxess Announces Trading Volume Statistics For June And Second Quarter 2026](http://www.mondovisione.com/media-and-resources/news/marketaxess-announces-trading-volume-statistics-for-june-and-second-quarter-2026-202677/)
+append_entries: 6
+Finish: 2026-07-07 14:47:32.504418
