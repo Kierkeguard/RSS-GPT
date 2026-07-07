@@ -406,3 +406,26 @@ Existing_entries: 74
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-07-07 03:52:19.672701
+------------------------------------------------------
+Started: 2026-07-07 07:44:24.768008
+Existing_entries: 74
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Hong Kong Securities And Futures Commission Welcomes New Initiatives To Advance Hong Kong’s Fixed Income And Currency Markets](http://www.mondovisione.com/media-and-resources/news/hong-kong-securities-and-futures-commission-welcomes-new-initiatives-to-advance-202677/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX, CIPS Sign MOU To Strengthen Hong Kong’s Offshore RMB Settlement Infrastructure](http://www.mondovisione.com/media-and-resources/news/hkex-cips-sign-mou-to-strengthen-hong-kongs-offshore-rmb-settlement-infrastruc-202677/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Issues Simplified Legislative Instrument For Platform Operators](http://www.mondovisione.com/media-and-resources/news/asic-issues-simplified-legislative-instrument-for-platform-operators-202677/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Completing The Rainbow For The Next Stage Of Hong Kong’s FIC Development, Welcome Remarks At The Hong Kong FIC & Bond Connect Summit, Dr Kelvin Wong , Hong Kong Securities And Futures Commission Chairman, 7 July 2026](http://www.mondovisione.com/media-and-resources/news/completing-the-rainbow-for-the-next-stage-of-hong-kongs-fic-development-welcom-202677/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Review Provides Insights Into Voluntary Administration And Deed Of Company Arrangement Outcomes](http://www.mondovisione.com/media-and-resources/news/asic-review-provides-insights-into-voluntary-administration-and-deed-of-company-202677/)
+Append: [Announcement Of Approval Of Hong Kong Precious Metals Central Clearing Company Limited As Shanghai Gold Exchange’s International Member](http://www.mondovisione.com/media-and-resources/news/announcement-of-approval-of-hong-kong-precious-metals-central-clearing-company-l-202677/)
+Append: [Advancing The Transformation Of Hong Kong’s FIC Market, Panel Remarks At Hong Kong FIC & Bond Connect Summit, Ms Julia Leung, Hong Kong Securities And Futures Commission Chief Executive Officer, 7 July 2026](http://www.mondovisione.com/media-and-resources/news/advancing-the-transformation-of-hong-kongs-fic-market-panel-remarks-at-hong-ko-202677/)
+append_entries: 7
+Finish: 2026-07-07 07:44:25.827014
