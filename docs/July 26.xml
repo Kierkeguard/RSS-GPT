@@ -5,11 +5,207 @@
 <link>http://www.mondovisione.com/media-and-resources/news/</link>
 
 <item>
+<title>CFTC Charges North Carolina Commodity Pool Operator And His Company With Fraud</title>
+<link>http://www.mondovisione.com/media-and-resources/news/cftc-charges-north-carolina-commodity-pool-operator-and-his-company-with-fraud-202677/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/cftc-charges-north-carolina-commodity-pool-operator-and-his-company-with-fraud-202677/</guid>
+<content:encoded><![CDATA[
+
+<p>The Commodity Futures Trading Commission today announced it filed a complaint in the U.S. District Court for the Western District of North Carolina against <strong>Trevor L. Vernon</strong> and his company <strong>Argent Capital Management LLC</strong>, a Delaware company based in Franklin, North Carolina.</p>
+<p>According to the complaint, the defendants operated a fraudulent commodity pool that traded equity index futures contracts, options on equity index futures, and crypto assets, among other purported investments.&nbsp;</p>
+<p>The complaint alleges, from at least March 2022 through February 2026, the defendants fraudulently solicited over $14 million from at least 60 participants to invest in a commodity pool operated by ACM.&nbsp;</p>
+<p>The complaint further alleges the defendants falsely claimed Vernon was a successful trader and his commodity pool was extraordinarily profitable. In reality, his trading of participants&rsquo; funds resulted in consistent and catastrophic losses. The complaint also alleges the defendants sent participants false performance results in monthly emails and quarterly updates showing ever-increasing account balances from purported gains that did not exist.</p>
+<p>The defendants also allegedly misappropriated pool funds, in part by using money from new participants to make payments to existing participants in a Ponzi-like scheme to hide the pool&rsquo;s losses and conceal the fraud.</p>
+<p>In addition, the complaint alleges Vernon knowingly made false statements during sworn testimony taken as part of the Commission&rsquo;s investigation, and the defendants violated multiple registration provisions under the Commodity Exchange Act and CFTC regulations.</p>
+<p>The CFTC seeks restitution, disgorgement, civil monetary penalties, trading and registration bans, and a permanent injunction against further violations of the CEA and CFTC regulations, as charged.</p>
+<h2 class="block-title">RELATED LINKS</h2>
+<div class="form-group">
+<div class="view view-related-links-side-bar view-id-related_links_side_bar view-display-id-block_1 js-view-dom-id-2b28a922419db13f837d8e66c8f8df293bf43ba276f0a13293211f2f4c27793c">
+<div class="view-content">
+<div class="item-list">
+<ul>
+<li>
+<div class="views-field views-field-field-related-links">
+<div class="field-content"><a href="https://www.cftc.gov/media/14301/ENF_VernonComplaint070726/download">Complaint: Trevor Vernon, et al.</a></div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+]]></content:encoded>
+<pubDate>Tue, 07 Jul 2026 20:21:01 GMT</pubDate>
+<pubDate>Tue, 07 Jul 2026 20:21:01 GMT</pubDate>
+</item>
+<item>
+<title>Federal Reserve Board Requests Comment On A Proposal To Amend Its Requirements For Banks To Maintain Anti-Money Laundering Programs</title>
+<link>http://www.mondovisione.com/media-and-resources/news/federal-reserve-board-requests-comment-on-a-proposal-to-amend-its-requirements-f-202677/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/federal-reserve-board-requests-comment-on-a-proposal-to-amend-its-requirements-f-202677/</guid>
+<content:encoded><![CDATA[
+
+<p>The Federal Reserve Board on Tuesday requested comment on a proposal to amend its requirements for banks to maintain anti-money laundering programs. The amendments are intended to align with changes to anti-money laundering program requirements separately proposed by four other agencies.</p>
+<p>Among other changes, the proposal would require banks to focus their anti-money laundering resources based on risk, with more attention given to higher-risk customers and activities. The proposed amendments would also require banks to incorporate the Financial Crimes Enforcement Network's anti-money laundering priorities into their risk assessment processes. Under the proposal, once a bank has established an anti-money laundering program, the Federal Reserve would focus supervision and enforcement activities on significant failures to implement the program.</p>
+<p>Comments on the proposal are due 60 days after publication in the <em>Federal Register</em>.</p>
+<div class="panel panel-attachments col-xs-12 col-sm-8 col-md-8">
+<div class="panel-body">
+<ul class="list-unstyled">
+<p><a href="https://www.federalreserve.gov/newsevents/pressreleases/files/bcreg20260707a1.pdf"><em>Federal Register</em> notice: Anti-Money Laundering and Countering the Financing of Terrorism Programs (PDF)</a></p>
+<p><a href="https://www.federalreserve.gov/newsevents/pressreleases/barr-statement-20260707.htm">Statement by Governor Barr</a></p>
+</ul>
+</div>
+</div>
+]]></content:encoded>
+<pubDate>Tue, 07 Jul 2026 20:35:00 GMT</pubDate>
+<pubDate>Tue, 07 Jul 2026 20:35:00 GMT</pubDate>
+</item>
+<item>
+<title>FIX Trading Community Modernises Standards Development With Orchestra DSL And Automated Repository Management</title>
+<link>http://www.mondovisione.com/media-and-resources/news/fix-trading-community-modernises-standards-development-with-orchestra-dsl-and-au-202677/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/fix-trading-community-modernises-standards-development-with-orchestra-dsl-and-au-202677/</guid>
+<content:encoded><![CDATA[
+
+<p>The FIX Trading Community today announced the adoption of an automated development workflow for the FIX Standard based on the Orchestra Domain Specific Language (DSL), supported by tooling from Atomic Wire Technology.</p>
+<p>The initiative modernises the way changes to the FIX Standard are authored, validated and published, providing a more structured and transparent approach to standards development while preserving the collaborative governance that has underpinned FIX for more than three decades.</p>
+<p>Rather than manually maintaining repository artefacts, the Orchestra DSL enables proposed changes to be expressed in a structured, machine-readable form. These changes can then be automatically validated, combined and used to generate updated repository artefacts, providing greater consistency, traceability and confidence throughout the standards development lifecycle.</p>
+<p>The automated workflow introduces validation throughout the build process, helping identify issues such as incompatible changes and repository inconsistencies earlier in the development cycle. It also creates a complete audit trail of how the standard evolves over time and supports parallel development, enabling multiple working groups to contribute more eﬃciently.</p>
+<p>In addition to producing the authoritative repository, the build process automatically generates a range of derived artefacts, including FIXML schemas and implementation reports, ensuring consistency across all published outputs.</p>
+<p>Jim Kaye, Executive Director of the FIX Trading Community, said:<br />"The FIX Standard continues to evolve alongside increasingly sophisticated global markets. By<br />adopting an automated development workflow based on the Orchestra DSL, we are modernising the way the standard is developed and published, improving eﬃciency for our contributors while strengthening the quality and consistency of our releases."</p>
+<p>Martin Swanson, Founder of Atomic Wire, said:<br />"This is about applying modern software engineering principles to standards development. The Orchestra DSL provides a structured way to describe the evolution of the standard, while automation ensures those changes can be validated, managed and published consistently. It creates a stronger foundation for the future evolution of FIX and for the tooling and services that will build upon it."</p>
+<p>This announcement represents the first step in a broader programme to modernise the infrastructure supporting the FIX Standard. By establishing an automated standards<br />development pipeline, the FIX Trading Community is creating a foundation for future improvements in how the standard is published, consumed and integrated into the wider financial technology ecosystem.</p>
+]]></content:encoded>
+<pubDate>Tue, 07 Jul 2026 20:46:39 GMT</pubDate>
+<pubDate>Tue, 07 Jul 2026 20:46:39 GMT</pubDate>
+</item>
+<item>
+<title>ACER: The EU Will Need Higher LNG Imports To Refill Gas Storage Ahead Of Winter</title>
+<link>http://www.mondovisione.com/media-and-resources/news/axer-the-eu-will-need-higher-lng-imports-to-refill-gas-storage-ahead-of-winter-202677/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/axer-the-eu-will-need-higher-lng-imports-to-refill-gas-storage-ahead-of-winter-202677/</guid>
+<content:encoded><![CDATA[
+
+<table cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td>
+<div class="clearfix text-formatted field field--name-body  field--type-text-with-summary field--label-hidden field__item">
+<p>In its <a class="safe---anchor---wc" href="https://www.entsog.eu/sites/default/files/2026-04/SO0069-26_Summer%20Supply%20Outlook%202026.pdf" rel="noopener noreferrer nofollow" target="_blank">Summer Supply Outlook 2026</a>, the European Network of Transmission System Operators for Gas (ENTSOG) assesses whether the EU&rsquo;s gas system can meet demand, support exports and storage injections over the summer under normal market conditions. <span>The report also includes an analysis of supplies and storage inventories to assess security of supply for winter 2026/27 and evaluates the system&rsquo;s resilience under different stress scenarios, including supply disruptions.</span></p>
+<p>ACER acknowledges the storage-filling challenges identified by ENTSOG. As this year&rsquo;s reference scenario does not introduce major methodological changes compared with previous editions, ACER is not issuing a formal opinion on the 2026 edition.</p>
+<h3><strong>Key findings from the 2026 Summer Supply Outlook:</strong></h3>
+<ul type="disc">
+<li><strong>Low storage levels: </strong>At the start of the gas summer season (1 April 2026), average EU gas storage stood at 28% capacity, below the levels recorded at the start of the previous three summer seasons.</li>
+<li><strong>High LNG demand:</strong> Refilling storage to the 90% target before winter (by 1 November) will require greater use of the EU&rsquo;s gas infrastructure and higher liquefied natural gas (LNG) imports than in previous years.</li>
+<li><strong>Supply disruption risks: </strong>The ongoing conflict in the Middle East is pushing up gas prices and weakening economic incentives for storage injections.</li>
+<li><strong>A resilient system:</strong> The EU&rsquo;s LNG regasification capacity is expected to help compensate for lower storage levels and support winter demand, provided adequate LNG supplies are secured.</li>
+</ul>
+<h3><span class="3rdlevelHeadingChar">What are ACER&rsquo;s main considerations?</span></h3>
+<p>ACER highlights the challenges ahead, as identified in ENTSOG&rsquo;s assessment:</p>
+<ul>
+<li><a class="safe---anchor---wc">ACER&rsquo;s latest analysis of </a><a class="safe---anchor---wc" href="https://www.acer.europa.eu/sites/default/files/documents/Publications/2026-ACER-Gas-Key-Developments-winter.pdf" rel="noopener noreferrer nofollow" target="_blank">European gas wholesale markets (winter 2025/2026)</a><span> confirms that the </span>EU&rsquo;s LNG imports will need to rise by around 13% over 2025 levels to meet summer demand and reach the 90% storage target before winter. The 80% target remains achievable with 2025 LNG import levels.</li>
+<li>Storage refilling could become more challenging in the months ahead due to unfavourable winter&ndash;summer price spreads, the phase-out of short-term Russian LNG and pipeline gas contracts under the <a class="safe---anchor---wc" href="https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202600261" rel="noopener noreferrer nofollow" target="_blank">REPowerEU Gas Regulation</a> and continued volatility due to the Middle East conflict.</li>
+<li><a class="safe---anchor---wc">ACER&rsquo;s analysis shows that storage </a>injections remain below both the 10-year summer average and 2025 levels, while EU gas storage currently stands at around 49% capacity, similar to 2021 levels.</li>
+</ul>
+<p><span>Given these risks, </span>ACER encourages Member States and competent authorities to closely monitor storage-filling trajectories in the coming <a class="safe---anchor---wc">months and actively manage risks in compliance with the </a><a class="safe---anchor---wc" href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.173.01.0017.01.ENG&amp;toc=OJ%3AL%3A2022%3A173%3ATOC" rel="noopener noreferrer nofollow" target="_blank">Gas Storage Regulation</a><a class="safe---anchor---wc">.</a></p>
+<h3><span>Looking ahead</span></h3>
+<p>ACER welcomes ENTSOG&rsquo;s ongoing monitoring of storage injections and LNG import availability and underlines the importance of continuing to assess how supply disruptions could affect EU&rsquo;s storage-filling targets<a class="safe---anchor---wc">.&nbsp;</a></p>
+<p><span>Finally, ACER highlights the need for timely storage injections in the coming months.</span></p>
+<div class="custom_button">
+<table border="0" cellpadding="0" cellspacing="0" class="table">
+<tbody>
+<tr>
+<td bgcolor="#004FEE"><a class="safe---anchor---wc" href="https://www.acer.europa.eu/news/eu-will-need-higher-lng-imports-refill-gas-storage-ahead-winter" rel="noopener noreferrer nofollow" target="_blank"><span>Read more</span></a></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+]]></content:encoded>
+<pubDate>Tue, 07 Jul 2026 19:18:10 GMT</pubDate>
+<pubDate>Tue, 07 Jul 2026 19:18:10 GMT</pubDate>
+</item>
+<item>
+<title>Guowei Zhang Appointed Head Of Prudential Policy For SIFMA</title>
+<link>http://www.mondovisione.com/media-and-resources/news/guowei-zhang-appointed-head-of-prudential-policy-for-sifma-202677/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/guowei-zhang-appointed-head-of-prudential-policy-for-sifma-202677/</guid>
+<content:encoded><![CDATA[
+
+<p>SIFMA today announced the promotion of Guowei Zhang to Head of the Prudential Policy Group, effective September 1, 2026.</p>
+<p>In this role, Guowei will be SIFMA&rsquo;s senior prudential staff advisor and lead SIFMA&rsquo;s related committees and forums.</p>
+<p>&ldquo;Since joining SIFMA in 2021, Guowei has proven to be an effective leader on a range of prudential issues on behalf of our members.&nbsp; He is a seasoned bank capital expert bringing both technical and policy expertise, earning the respect of our members and regulatory policy makers,&rdquo; said Kenneth E. Bentsen, Jr., SIFMA president and CEO. &ldquo;We are confident in his ability to lead our prudential team.&rdquo;</p>
+<p>&ldquo;Guowei has solid industry expertise, having served over 12 years at the Office of the Comptroller of the Currency (OCC),&rdquo; said Joe Seidel, SIFMA COO. &ldquo;He has consistently demonstrated the ability to navigate complex policy issues while keeping members&rsquo; priorities front and center, and I am confident he will continue to deliver excellent results for our members.&rdquo;</p>
+<p>Prior to joining SIFMA, Guowei served as senior policy advisor at the OCC, focused on banking capital policy development, analysis and compliance examination.&nbsp; His areas of expertise include risk identification, analysis and capital adequacy policy and he has worked extensively on different components of Basel standards and implementation, including those related to crypto assets, climate risk, FRTB, CVA and Basel reforms.</p>
+<p>Guowei received his Bachelor&rsquo;s in Management Information Systems from Tsinghua University in China and received a M.S. in Computer Science, a M.S. in Applied Mathematics and a Ph.D. in Finance from the University of Houston in Texas.</p>
+<p>Guowei will report to Joe Seidel and will be a member of SIFMA&rsquo;s Management Committee.</p>
+]]></content:encoded>
+<pubDate>Tue, 07 Jul 2026 20:24:00 GMT</pubDate>
+<pubDate>Tue, 07 Jul 2026 20:24:00 GMT</pubDate>
+</item>
+<item>
+<title>Canadian Investment Regulatory Organization Continues To Strengthen Investor Protection With Appointment Of Three New Investor Advisory Panel Members</title>
+<link>http://www.mondovisione.com/media-and-resources/news/canadian-investment-regulatory-organization-continues-to-strengthen-investor-pro-202677/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/canadian-investment-regulatory-organization-continues-to-strengthen-investor-pro-202677/</guid>
+<content:encoded><![CDATA[
+
+<p>The Canadian Investment Regulatory Organization (CIRO) has appointed three new members to its Investor Advisory Panel (IAP): Brett Kimak, Rob Wells, and Christine Zalzal. CIRO&rsquo;s Investor Advisory Panel plays an important role in shaping regulatory policy, annual priorities, strategic plans, and other key initiatives. Its mandate is to help CIRO fulfill its public interest responsibilities by bringing forward issues that matter to investors and ensuring their perspectives are considered in CIRO&rsquo;s work.</p>
+<p>&ldquo;The investment industry continues to evolve,&rdquo; said Alexandra Williams, Senior Vice-President, Strategy, Innovation, and Stakeholder Protection at CIRO. "CIRO&rsquo;s IAP is committed to ensuring we keep pace with that change. Our focus is on strengthening the investor voice as new products, services and channels emerge&mdash;from advice and Order-Execution-Only platforms to crypto assets and innovative models like prediction markets. Our role is to help ensure Canadian investors have the information to stay informed in a rapidly shifting landscape.&rdquo;</p>
+<p>&ldquo;From cryptocurrency to prediction markets to AI and emerging technology, the issues facing Canadian investors today are complex,&rdquo; said Dorothy Sanford, Chair of the Investor Advisory Panel at CIRO. &ldquo;With the addition of these new members, CIRO is in a strong position to support investors&rsquo; evolving needs.&rdquo;</p>
+<h2>Biographies of the new members are as follows:</h2>
+<h3>Brett Kimak</h3>
+<p>Brett Kimak is an executive leader with nearly 30 years of experience in securities regulation, governance, risk and compliance across Canadian financial services. Through this experience, Mr. Kimak has deep and direct experience with investors and the issues that matter most to them. He has dealt directly with clients on complaint handling and has expertise on the regulatory regime that applies to those complaints. Earlier in his career, Mr. Kimak worked in enforcement with a securities regulator, providing direct exposure to investor protection and market conduct matters. He has held senior leadership roles within regulated investment management and wealth management organizations, including Chief Compliance Officer, Chief Risk Officer, Chief Operating Officer, and President &amp; Ultimate Designated Person (UDP). Mr. Kimak has provided comments to securities regulators on policy and other initiatives and has advised financial institutions through consulting roles focused on financial services regulation, compliance program enhancement, governance, operational risk, and regulatory change initiatives. He has also served on several industry boards, councils, and advisory committees, including leadership roles supporting regulatory and industry engagement.</p>
+<p>Mr. Kimak holds a Master of Business Administration degree, is a Chartered Financial Analyst (CFA) charterholder, and holds the ICD.D designation from the Institute of Corporate Directors.</p>
+<hr />
+<h3>Rob Wells</h3>
+<p>Rob Wells is a senior investment industry professional with nearly four decades of experience in the Canadian capital markets as a registered investment advisor, branch manager and senior vice-president at a major Canadian financial institution. Throughout his career, Mr. Wells worked directly with a diverse array of investors and has extensive experience operating within Canada&rsquo;s regulated securities environment, including specialized knowledge of advisor and dealer complaint handling, regulatory compliance and investor advisory services. Mr. Wells has worked with investors to improve their financial literacy and has advocated for improved investment and tax reporting for retail investors to ensure they are better informed about the financial and wealth management decisions they make. Mr. Wells holds numerous industry credentials and courses and has board experience.</p>
+<hr />
+<h3>Christine Zalzal</h3>
+<p>Christine Zalzal is an award-winning financial services executive and experienced board director with more than 35 years of leadership in banking, wealth management, and insurance. Most recently, she served as head of one of Canada's order-execution-only (OEO) investment brokerage firms, leading digital transformation, and enhanced client experience and complaint handling initiatives. She spearheaded market-leading innovations that personalized the investor experience, leveraging AI to provide investors with relevant, informative and actionable insights at greater speed. Ms. Zalzal brings a unique perspective to the IAP as someone who has heard the voice of the OEO investor and can speak to the challenges and experiences this growing client segment encounters.</p>
+<p>Christine has built a distinguished career driving strategic change, transformation and operational excellence across the financial services industry and currently serves on several corporate and nonprofit boards, along with her community-involvement initiatives. She is widely recognized for her investor-focused leadership and expertise in governance, and risk management.</p>
+<hr />
+<p>All members of the IAP are appointed for a minimum of two years. For more information, including biographies of all members, visit: <a href="https://www.ciro.ca/office-investor/investor-advisory-panel" rel="noreferrer noopener noopener" target="_self" title="Investor Advisory Panel (IAP)">Investor Advisory Panel (IAP)</a>.</p>
+]]></content:encoded>
+<pubDate>Tue, 07 Jul 2026 20:10:41 GMT</pubDate>
+<pubDate>Tue, 07 Jul 2026 20:10:41 GMT</pubDate>
+</item>
+<item>
+<title>Nodal Exchange Achieves Strong Performance In Power, Gas And Environmental Futures In The First Half Of 2026</title>
+<link>http://www.mondovisione.com/media-and-resources/news/nodal-exchange-achieves-strong-performance-in-power-gas-and-environmental-futur-202677/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/nodal-exchange-achieves-strong-performance-in-power-gas-and-environmental-futur-202677/</guid>
+<content:encoded><![CDATA[
+
+<p>Nodal Exchange today announced strong performance in power, environmental, and natural gas futures as of the end of June 2026. Power futures traded volume was 211 million MWh in June, up 28% from the same period in 2025. For the first half of 2026, traded volume was 1.58 billion MWh.<span id="more-31039">&nbsp;</span> Nodal achieved 1.506 billion MWh of open interest as of the end of June 2026 up 2% from 1.481 billion MWh at the end of June 2025. This represents $176 billion of notional value based on both sides. Nodal Exchange remains the leading power futures exchange in North America with 56% U.S. power futures open interest.</p>
+<p>Total open interest in Nodal environmental products ended June 2026 with 493,977 lots, up 20% from 410,510 lots a year earlier.</p>
+<p>Environmental futures and options volume totaled 400,224 lots for the first half of 2026.&nbsp; Carbon futures and options posted volume of 106,822 lots in the first half of 2026 up 56% from a year earlier.</p>
+<p>Renewable energy certificate (REC) futures and options posted volume of 31,371 lots in June 2026, up 31% from a year earlier and ended the month with open interest of 415,262 lots, up 28%.</p>
+<p>Open interest in Nodal&rsquo;s natural gas markets reached 53,070,000 MMBtus as of the end of June 2026, a 295% increase from a year ago.</p>
+<p>&ldquo;Nodal Exchange is proud to serve these markets, and we are very pleased to see them continue to grow,&rdquo; said Paul Cusenza, Chairman and CEO of Nodal Exchange. &ldquo;As the year progresses, we look forward to continuing to develop and offer innovative products that meet the evolving needs of our markets.&rdquo;</p>
+]]></content:encoded>
+<pubDate>Tue, 07 Jul 2026 20:17:00 GMT</pubDate>
+<pubDate>Tue, 07 Jul 2026 20:17:00 GMT</pubDate>
+</item>
+<item>
+<title>ISDA derivatiViews: SA-CCR Own Goal Must Be Corrected</title>
+<link>http://www.mondovisione.com/media-and-resources/news/isda-derivativiews-sa-ccr-own-goal-must-be-corrected-202677/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/isda-derivativiews-sa-ccr-own-goal-must-be-corrected-202677/</guid>
+<content:encoded><![CDATA[
+
+<p>In soccer, own goals do occasionally occur, when a defending player accidentally hits the ball into his or her own net, usually under intense pressure from the opposing team. In fact, the current FIFA World Cup looks set to break the record for own goals, with 12 conceded in the group stage of the tournament alone. Unfortunately, US financial regulators are in danger of chalking up one of their own if they don&rsquo;t correct a serious calibration mistake in the standardized approach for counterparty credit risk (SA-CCR), a key component of the Basel III endgame framework. This is an own goal that is entirely unforced and threatens to jeopardize liquidity and risk management in the US Treasury market. The good news is that they still have the chance to deflect the ball and implement a more appropriate SA-CCR methodology that supports the efficiency and resilience of US Treasuries.</p>
+<p>Once Basel III come into force in the US, SA-CRR will be the only way banks can calculate capital for counterparty credit risk. Under the original endgame proposal in 2023, they would have had to capitalize their derivatives and repos on a product-by-product basis without being able to net exposures at the portfolio level. The issue is particularly problematic given the development of a cross-margining arrangement by the Fixed Income Clearing Corporation and CME Group, which delivers margin efficiencies for clients by recognizing offsets in a portfolio of cash, futures and repo transactions. The resulting lower margin posted by clients would significantly increase bank capital requirements, creating a disconnect between regulatory capital and the underlying risk. That would cause serious problems for banks, constraining their capacity to provide liquidity in the US Treasury market.</p>
+<p>In the <a href="https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260319a.htm">revised Basel III proposal</a>, published on March 19, US policymakers permitted cross-product netting under SA-CCR for certain repo and derivatives trades, including those between clearing members and their clients. This was an important step forward, but the proposed methodology is overly blunt and would still lead to disproportionately high capital requirements that don&rsquo;t accurately reflect the economic risk of well-hedged portfolios.</p>
+<p>Revising the SA-CCR methodology must be an urgent priority. In less than six months&rsquo; time, regulations requiring clearing of US Treasuries will come into effect, starting with cash transactions at the end of 2026 and followed by repos six months later. The objective of clearing is to reduce risk, but its success depends on banks being able to clear on behalf of other market participants &ndash; something they will struggle with if they face disproportionate capital requirements.</p>
+<p>In <a href="https://www.isda.org/2026/06/18/isda-sifma-iif-respond-to-2026-us-basel-iii-proposal/">our response to the US Basel III consultation last month</a>, ISDA recommended that a hedge coverage ratio should be incorporated into SA-CCR. This would calibrate the netting benefit according to how well the repos in a portfolio actually hedge the derivatives, leading to a more risk-appropriate treatment that aligns capital for a portfolio of futures and repos with actual risk.</p>
+<p>We have an opportunity to implement US Treasury clearing efficiently by allowing banks to recognize risk offsets in a portfolio of repo and derivatives when calculating capital, mirroring the margin efficiencies that clients will realize through clearing house cross-margining arrangements. This will free up bank balance sheets to support this transformational change in market structure. The alternative is a capital framework that hinders rather than supports clearing. Like this year&rsquo;s World Cup, Basel III is now advancing towards the crunch stage, and this is an own goal that simply must be avoided. Let&rsquo;s work together to shoot the ball in the right direction.</p>
+]]></content:encoded>
+<pubDate>Tue, 07 Jul 2026 20:27:24 GMT</pubDate>
+<pubDate>Tue, 07 Jul 2026 20:27:24 GMT</pubDate>
+</item>
+
+<item>
 <title>SEC Forms New Retail Fraud Working Group</title>
 <link>http://www.mondovisione.com/media-and-resources/news/sec-forms-new-retail-fraud-working-group-202677/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/sec-forms-new-retail-fraud-working-group-202677/</guid>
 <content:encoded><![CDATA[
-
 <p>The Securities and Exchange Commission today announced the creation of the Retail Fraud Working Group designed to strengthen the Division of Enforcement&rsquo;s efforts to identify and combat fraud targeting everyday investors.</p>
 <p>The Retail Fraud Working Group will leverage staff and resources across the Commission to identify fraud and other misconduct targeting retail investors, including offering frauds, pump-and-dump schemes, market manipulation, and breaches of duties to customers by investment advisers and broker dealers. The working group will serve as a dedicated resource for proactive case generation, play an important role in coordinating with the Commission&rsquo;s regulatory partners and foreign counterparts, and participate in educational outreach to retail investors in coordination with the SEC&rsquo;s Office of Investor Education and Assistance.</p>
 <p>"This new working group reflects our commitment to protect investors from fraud and is a return to the core values and principles of the enforcement program," said SEC Chairman Paul S. Atkins. &ldquo;I am grateful to the Director of Enforcement, David Woodock, and the Division&rsquo;s staff for their leadership on this initiative and look forward to its many positive impacts.&rdquo;</p>
@@ -17,14 +213,12 @@
 <p>The Retail Fraud Working Group will be led by the Division of Enforcement&rsquo;s Kate Zoladz, Deputy Director, West, and Kim Frederick, Assistant Director, Asset Management Unit.</p>
 ]]></content:encoded>
 <pubDate>Tue, 07 Jul 2026 17:57:40 GMT</pubDate>
-<pubDate>Tue, 07 Jul 2026 17:57:40 GMT</pubDate>
 </item>
 <item>
 <title>ESRB Warns Of Vulnerabilities In The Financial System Linked To Frontier AI Models</title>
 <link>http://www.mondovisione.com/media-and-resources/news/esrb-warns-of-vulnerabilities-in-the-financial-system-linked-to-frontier-ai-mode-202677/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/esrb-warns-of-vulnerabilities-in-the-financial-system-linked-to-frontier-ai-mode-202677/</guid>
 <content:encoded><![CDATA[
-
 <p><span>The European Systemic Risk Board (ESRB), the EU&rsquo;s macroprudential oversight authority, is issuing a formal warning regarding vulnerabilities in the financial system linked to frontier AI models. The ESRB's warning calls for relevant authorities to reflect these risks in supervisory and oversight work.</span></p>
 <p>The rapid development of AI models capable of identifying vulnerabilities in critical software and ways of exploiting them is leading to increased cyber security risks.</p>
 <p>At EU level, the ESRB&rsquo;s General Board &ndash; of which the Riksbank and Finansinspektionen (the Swedish Financial Supervisory Authority) are members &ndash; is now issuing a formal warning to the EU regarding the risk of vulnerabilities in the financial system linked to frontier AI models. The aim is to safeguard the resilience of the EU&rsquo;s financial system by raising awareness of these risks and highlighting the need to counter them. The ESRB warns that frontier AI models are changing the cyber threat landscape for EU&rsquo;s financial system and that these models may increase speed, scale and sophistication of cyberattacks. The ESRB also emphasises that relevant authorities should reflect these risks in supervisory and oversight work.</p>
@@ -36,14 +230,12 @@
 <p><span><a class="fui-Link ___1q1shib f2hkw1w f3rmtva f1ewtqcl fyind8e f1k6fduh f1w7gpdv fk6fouc fjoy568 figsok6 f1s184ao f1mk8lai fnbmjn9 f1o700av f13mvf36 f1cmlufx f9n3di6 f1ids18y f1tx3yz7 f1deo86v f1eh06m1 f1iescvh fhgqx19 f1olyrje f1p93eir f1nev41a f1h8hb77 f1lqvz6u f10aw75t fsle3fq f17ae5zn" href="https://www.esrb.europa.eu/pub/pdf/warnings/esrb.warning260625_on_systemic_cyber_risks_stemming_from_frontier_ai_models~ef424708cf.en.pdf" id="menuranm" rel="noreferrer noopener" target="_blank">ESRB warning on systemic cyber risks stemming from frontier artificial intelligence models (ESRB)</a></span></p>
 ]]></content:encoded>
 <pubDate>Tue, 07 Jul 2026 17:41:41 GMT</pubDate>
-<pubDate>Tue, 07 Jul 2026 17:41:41 GMT</pubDate>
 </item>
 <item>
 <title>Statement On The 2026 Regulatory Agenda, Paul S. Atkins, SEC Chairman</title>
 <link>http://www.mondovisione.com/media-and-resources/news/statement-on-the-2026-regulatory-agenda-paul-s-atkins-sec-chairman-202677/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/statement-on-the-2026-regulatory-agenda-paul-s-atkins-sec-chairman-202677/</guid>
 <content:encoded><![CDATA[
-
 <p>The <a href="https://www.reginfo.gov/public/do/eAgendaMain?operation=OPERATION_GET_AGENCY_RULE_LIST&amp;currentPub=true&amp;agencyCode=&amp;showStage=active&amp;agencyCd=3235&amp;csrf_token=DF18DEC037C6B7413A2711AFEFB3C495C59E06BFCDE7E1BE46A6C4146A2687B824ADE53473DD4A3583D506204D82DFD751C6">2026 Regulatory Agenda</a> reflects the robust rulemaking we are pursuing under my chairmanship. Now that we are just over one year into my tenure, we have made significant progress in returning the agency to its core mission of protecting investors; facilitating capital formation; and maintaining fair, orderly, and efficient markets &ndash; a charge that will guide the Commission as we continue to enact this important agenda.&nbsp;</p>
 <p>This Commission recognizes the importance of advancing our regulatory framework to reflect the realities of today&rsquo;s operating environment &ndash; embracing innovation and new technology. To deliver on President Trump&rsquo;s goal to ensure that the United States is the crypto capital of the world, we are embracing innovation to bring more products onshore, creating clear rules of the road for capital raising with crypto assets, and providing clarity as to how market participants can custody and facilitate trading of tokenized securities onchain. All while ensuring strong investor protection guardrails are in place and continuing to pursue bad actors who violate the law.&nbsp;</p>
 <p>I have also consistently highlighted the importance of reversing the decline of public companies and revitalizing our public markets to Make IPOs Great Again. This agenda includes a number of proposals critical to realizing that mission by transforming our disclosure regime. Every IPO is an invitation to workers and savers to participate in the prosperity of the next generation of American enterprise. When fewer companies go public, fewer investors receive that invitation. Guided by materiality, the proposed reforms aim to reduce compliance burdens and further facilitate capital formation in our public markets, while maintaining critical investor protections.&nbsp;</p>
@@ -51,14 +243,12 @@
 <p>Having just celebrated the 250th year of our Republic, we have a mandate to preserve the promise of our capital markets for the next quarter millennium, and we intend to fulfill it. Anchored to the mission that Congress set for the agency, we will ensure that the next chapter of financial leadership is written in the U.S., and that our capital markets continue to lead the world &ndash; in their depth, their dynamism, and their unrivaled ability to transform ingenuity into prosperity.</p>
 ]]></content:encoded>
 <pubDate>Tue, 07 Jul 2026 16:19:42 GMT</pubDate>
-<pubDate>Tue, 07 Jul 2026 16:19:42 GMT</pubDate>
 </item>
 <item>
 <title>Purdue University/CME Group Ag Economy Barometer: High Input-Cost Concerns Continue To Weigh On Farmer Sentiment</title>
 <link>http://www.mondovisione.com/media-and-resources/news/purdue-universitycme-group-ag-economy-barometer-high-input-cost-concerns-conti-202677/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/purdue-universitycme-group-ag-economy-barometer-high-input-cost-concerns-conti-202677/</guid>
 <content:encoded><![CDATA[
-
 <p>Producers continued to express concern about farm finances as the June <a href="https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4726255-1&amp;h=2835085134&amp;u=https%3A%2F%2Fag.purdue.edu%2Fcommercialag%2Fageconomybarometer%2F&amp;a=Purdue+University%2FCME+Group+Ag+Economy+Barometer" rel="nofollow" target="_blank">Purdue University/CME Group Ag Economy Barometer</a> recorded a 6-point decline in farmer sentiment to 113. The Current Conditions Index fell to an 18-month low of 102, and the Future Expectations Index dropped 7 points. High input costs remained producers' top concern, with 47% identifying them as the biggest challenge facing their operation, followed by low crop and livestock prices at 23%. A related question revealed that 42% of respondents feel high input costs are limiting improvements in their financial position this year. The survey was conducted among 400 farmers across the nation from June 15-19.</p>
 <p>Additional survey results illustrated the financial challenges facing producers. Just 12% of respondents said their farms were better off financially than a year ago, while only 22% expected their operations to improve over the next 12 months. Reflecting that cautious outlook, the Farm Capital Investment Index has continued its fall from the March 2026 survey to 40, its lowest level since September 2024.</p>
 <p>When asked what was limiting improvement in their farm's financial situation, 42% of respondents cited high input costs, while low output prices, at 17%, ranked second among responses. Weather risk (14%), policy uncertainty (11%), labor and equipment concerns (9%), and debt or financial pressure (8%) rounded out the remaining responses.</p>
@@ -73,14 +263,12 @@
 <p>The <a href="https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4726255-1&amp;h=1021785032&amp;u=https%3A%2F%2Fag.purdue.edu%2Fcommercialag%2Fhome%2F&amp;a=Center+for+Commercial+Agriculture" rel="nofollow" target="_blank">Center for Commercial Agriculture</a> was founded in 2011 to provide professional development and educational programs for farmers. Housed within Purdue University's Department of Agricultural Economics, the center's faculty and staff develop and execute research and educational programs that address the different needs of managing in today's business environment.</p>
 ]]></content:encoded>
 <pubDate>Tue, 07 Jul 2026 16:15:46 GMT</pubDate>
-<pubDate>Tue, 07 Jul 2026 16:15:46 GMT</pubDate>
 </item>
 <item>
 <title>N5X Selects Vermiculus To Power The First Regulated Energy Derivatives Clearinghouse In Brazil</title>
 <link>http://www.mondovisione.com/media-and-resources/news/n5x-selects-vermiculus-to-power-the-first-regulated-energy-derivatives-clearingh-202677/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/n5x-selects-vermiculus-to-power-the-first-regulated-energy-derivatives-clearingh-202677/</guid>
 <content:encoded><![CDATA[
-
 <div>
 <p><span><span><strong><span>With VeriClear<sup>&reg;</sup>, N5X will:</span></strong></span></span></p>
 <ul>
@@ -102,18 +290,15 @@
 </div>
 ]]></content:encoded>
 <pubDate>Tue, 07 Jul 2026 16:36:00 GMT</pubDate>
-<pubDate>Tue, 07 Jul 2026 16:36:00 GMT</pubDate>
 </item>
 <item>
 <title>TMX Group Consolidated Trading Statistics – June 2026</title>
 <link>http://www.mondovisione.com/media-and-resources/news/tmx-group-consolidated-trading-statistics-june-2026-202677/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/tmx-group-consolidated-trading-statistics-june-2026-202677/</guid>
 <content:encoded><![CDATA[
-
 <p class="sizeable">TMX Group Limited today announced June 2026 trading statistics for its marketplaces &ndash; Toronto Stock Exchange, TSX Venture Exchange, TSX Alpha Exchange (Alpha), including Alpha-X &amp; Alpha DRK, and Montr&eacute;al Exchange (MX).</p>
 <p class="sizeable"><span>Related Document:<br /></span><a class="blank pdf" href="https://www.tmx.com/en/resource/1034" target="_blank">TMX Group Consolidated Trading Statistics &ndash; June 2026</a></p>
 ]]></content:encoded>
-<pubDate>Tue, 07 Jul 2026 16:12:36 GMT</pubDate>
 <pubDate>Tue, 07 Jul 2026 16:12:36 GMT</pubDate>
 </item>
 <item>
@@ -121,7 +306,6 @@
 <link>http://www.mondovisione.com/media-and-resources/news/ice-benchmark-administration-now-operates-the-lbma-platinum-and-palladium-prices-202677/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/ice-benchmark-administration-now-operates-the-lbma-platinum-and-palladium-prices-202677/</guid>
 <content:encoded><![CDATA[
-
 <p>Intercontinental Exchange, Inc. (NYSE:ICE), one of the world's leading providers of financial market technology and data powering global capital markets, today announced that ICE Benchmark Administration Limited (IBA), a leading administrator of regulated benchmarks, now operates the London Bullion Market Association (LBMA) Platinum and Palladium Prices and the daily auctions which set these benchmark prices, adding to its role as the administrator of the LBMA Gold and Silver Prices and auctions.</p>
 <p>In January 2026, the LBMA announced its intention to appoint IBA as administrator of the LBMA Platinum and Palladium Prices and auctions. The daily auctions began July 1, 2026, taking place twice daily at 9:45 a.m. and 2 p.m. London time. The platinum auction runs first, with the respective palladium auction commencing after the platinum price is published.</p>
 <p>&ldquo;Backed by ICE technology, IBA has demonstrated over more than a decade that it can deliver the governance and market expertise that global benchmark users depend on, with the auctions providing the foundational infrastructure upon which global precious metals price formation occurs,&rdquo; said Clive de Ruig, President of ICE Benchmark Administration.</p>
@@ -130,14 +314,12 @@
 <p>LBMA Gold, Silver, Platinum and Palladium Price benchmark settings are available under licence from IBA, including for redistribution, valuation, pricing activities and for use in transactions and financial products. Prospective licensees should contact IBA's licensing team at <a href="mailto:IBA-Licensing@ice.com" rel="nofollow" shape="rect">IBA-Licensing@ice.com</a>.</p>
 ]]></content:encoded>
 <pubDate>Tue, 07 Jul 2026 16:55:29 GMT</pubDate>
-<pubDate>Tue, 07 Jul 2026 16:55:29 GMT</pubDate>
 </item>
 <item>
 <title>Joint Announcement Of The Hong Kong FIC Trading Platform</title>
 <link>http://www.mondovisione.com/media-and-resources/news/joint-announcement-of-the-hong-kong-fic-trading-platform-202677/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/joint-announcement-of-the-hong-kong-fic-trading-platform-202677/</guid>
 <content:encoded><![CDATA[
-
 <p>The People&rsquo;s Bank of China (PBOC), the Hong Kong Monetary Authority (HKMA) and the Securities and Futures Commission (SFC) jointly welcomed the collaboration between the China Foreign Exchange Trade System (CFETS) and Hong Kong Exchanges and Clearing Limited (HKEX) to develop an electronic fixed income and currency trading platform (the FIC Trading Platform) in Hong Kong. This initiative will further strengthen the financial cooperation between Hong Kong and the Chinese Mainland, and reinforce Hong Kong&rsquo;s position as an international financial centre and an offshore RMB business hub.</p>
 <p>In 2025, the SFC and the HKMA jointly announced <em>Hong Kong&rsquo;s Roadmap for the Development of FIC Markets</em> (Roadmap). One of the key initiatives outlined in the Roadmap is to support the development of a next-generation electronic trading platform. The FIC Trading Platform will provide an open, fair, efficient, and robust platform for both local and international institutions, following the key principles below:</p>
 <ul>
@@ -149,14 +331,12 @@
 <p>Further details of the FIC Trading Platform, including the launch timeline, will be announced in due course.</p>
 ]]></content:encoded>
 <pubDate>Tue, 07 Jul 2026 17:34:07 GMT</pubDate>
-<pubDate>Tue, 07 Jul 2026 17:34:07 GMT</pubDate>
 </item>
 <item>
 <title>June 2026 Figures At Eurex</title>
 <link>http://www.mondovisione.com/media-and-resources/news/june-2026-figures-at-eurex-202677/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/june-2026-figures-at-eurex-202677/</guid>
 <content:encoded><![CDATA[
-
 <ul class="rte--list">
 <li>Overall volumes in listed derivatives saw a 32 percent growth in June 2026 with an exceptional 105 percent increase in equity derivatives.</li>
 <li>OTC Clearing showed robust growth, with outstanding notional volumes rising 23 percent.</li>
@@ -430,9 +610,7 @@
 <p><sup>1</sup> The total number of contracts traded includes other asset classes such as commodities.<br /><sup>2 </sup>Notional cleared volumes including post trading events such as compression.<br /><sup>3</sup> Includes all currencies.&nbsp;&nbsp;</p>
 ]]></content:encoded>
 <pubDate>Tue, 07 Jul 2026 18:47:05 GMT</pubDate>
-<pubDate>Tue, 07 Jul 2026 18:47:05 GMT</pubDate>
 </item>
-
 <item>
 <title>Tradeweb Reports June 2026 Total Trading Volume Of $69.7 Trillion And Average Daily Volume Of $3.2 Trillion</title>
 <link>http://www.mondovisione.com/media-and-resources/news/tradeweb-reports-june-2026-total-trading-volume-of-697-trillion-and-average-da-202677/</link>
