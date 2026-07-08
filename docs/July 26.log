@@ -590,3 +590,18 @@ Append: [UK Financial Conduct Authority Appoints New Members To The Seco
 Append: [The EBA Issues Opinion On The Implementation Of IFRS 18 In Supervisory Financial Reporting To Support Consistency With IFRS Requirements](http://www.mondovisione.com/media-and-resources/news/the-eba-issues-opinion-on-the-implementation-of-ifrs-18-in-supervisory-financial-202678/)
 append_entries: 10
 Finish: 2026-07-08 17:42:03.122505
+------------------------------------------------------
+Started: 2026-07-08 19:40:10.177919
+Existing_entries: 126
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Minutes Of The Federal Open Market Committee, June 16-17, 2026](http://www.mondovisione.com/media-and-resources/news/minutes-of-the-federal-open-market-committee-june-16-17-2026-202678/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Puneet Pardasani Joins Clear Street To Lead Global Institutional Sales And Sales Trading - Clear Street Also Strengthens Its Institutional And Clearing Businesses With Additional Senior Appointments](http://www.mondovisione.com/media-and-resources/news/puneet-pardasani-joins-clear-street-to-lead-global-institutional-sales-and-sales-202678/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Corporate Report - The Value Of Resilience: Cyber Resilience In UK Financial Services](http://www.mondovisione.com/media-and-resources/news/corporate-report-the-value-of-resilience-cyber-resilience-in-uk-financial-ser-202678/)
+append_entries: 3
+Finish: 2026-07-08 19:40:11.110291
