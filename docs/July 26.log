@@ -617,3 +617,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SEC To Host Virtual Roundtable On Modernizing IPOs And Expanding Access To Public Markets](http://www.mondovisione.com/media-and-resources/news/sec-to-host-virtual-roundtable-on-modernizing-ipos-and-expanding-access-to-publi-202678/)
 append_entries: 2
 Finish: 2026-07-08 21:12:50.181733
+------------------------------------------------------
+Started: 2026-07-08 23:12:29.330720
+Existing_entries: 131
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-07-08 23:12:30.351339
