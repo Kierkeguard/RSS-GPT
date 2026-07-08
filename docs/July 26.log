@@ -564,3 +564,29 @@ Existing_entries: 116
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-07-08 14:25:34.557625
+------------------------------------------------------
+Started: 2026-07-08 17:42:01.771281
+Existing_entries: 116
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIX: Index Adjustments On The Occasion Of The Ordinary Index Review](http://www.mondovisione.com/media-and-resources/news/six-index-adjustments-on-the-occasion-of-the-ordinary-index-review-202678/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Charges Individual With Insider Dealing](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-charges-individual-with-insider-dealing-202678/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Wayve Completes Its First Transaction On The Private Securities Market, Offering Liquidity To Employees](http://www.mondovisione.com/media-and-resources/news/wayve-completes-its-first-transaction-on-the-private-securities-market-offering-202678/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Small Business Advisory Committee To Explore Modernizing Market Access](http://www.mondovisione.com/media-and-resources/news/sec-small-business-advisory-committee-to-explore-modernizing-market-access-202678/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Showing Our Workings: Solving For Growth, Risk And Trust - Speech By Sarah Pritchard, UK Financial Conduct Authority Deputy Chief Executive, At A Breakfast Briefing At The Whitehall Industry Group](http://www.mondovisione.com/media-and-resources/news/showing-our-workings-solving-for-growth-risk-and-trust-speech-by-sarah-pritc-202678/)
+Append: [ESMA Launches Common Supervisory Action On CASPs’ Digital Operational Resilience For Custody](http://www.mondovisione.com/media-and-resources/news/esma-launches-common-supervisory-action-on-casps-digital-operational-resilience-202678/)
+Append: [Bank Of England: Minutes Of The UK Money Markets Code Sub-Committee – June 2026](http://www.mondovisione.com/media-and-resources/news/bank-of-england-minutes-of-the-uk-money-markets-code-sub-committee-june-2026-202678/)
+Append: [ESMA Publishes Technical Standards On CCP Admission Criteria Elements](http://www.mondovisione.com/media-and-resources/news/esma-publishes-technical-standards-on-ccp-admission-criteria-elements-202678/)
+Append: [UK Financial Conduct Authority Appoints New Members To The Secondary Markets Advisory Committee](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-appoints-new-members-to-the-secondary-markets-adv-202678/)
+Append: [The EBA Issues Opinion On The Implementation Of IFRS 18 In Supervisory Financial Reporting To Support Consistency With IFRS Requirements](http://www.mondovisione.com/media-and-resources/news/the-eba-issues-opinion-on-the-implementation-of-ifrs-18-in-supervisory-financial-202678/)
+append_entries: 10
+Finish: 2026-07-08 17:42:03.122505
