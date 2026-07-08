@@ -605,3 +605,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Corporate Report - The Value Of Resilience: Cyber Resilience In UK Financial Services](http://www.mondovisione.com/media-and-resources/news/corporate-report-the-value-of-resilience-cyber-resilience-in-uk-financial-ser-202678/)
 append_entries: 3
 Finish: 2026-07-08 19:40:11.110291
+------------------------------------------------------
+Started: 2026-07-08 21:12:49.108228
+Existing_entries: 129
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Reports June 2026 Volumes And 2Q26 Statistics](http://www.mondovisione.com/media-and-resources/news/nasdaq-reports-june-2026-volumes-and-2q26-statistics-202678/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC To Host Virtual Roundtable On Modernizing IPOs And Expanding Access To Public Markets](http://www.mondovisione.com/media-and-resources/news/sec-to-host-virtual-roundtable-on-modernizing-ipos-and-expanding-access-to-publi-202678/)
+append_entries: 2
+Finish: 2026-07-08 21:12:50.181733
