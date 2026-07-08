@@ -521,3 +521,15 @@ Existing_entries: 105
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-07-08 03:19:07.587459
+------------------------------------------------------
+Started: 2026-07-08 06:32:18.338481
+Existing_entries: 105
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tabadul Marks Four Years Of Regional Market Connectivity As H1 2026 Trading Value Surpasses Full-Year 2025](http://www.mondovisione.com/media-and-resources/news/tabadul-marks-four-years-of-regional-market-connectivity-as-h1-2026-trading-valu-202678/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Zealand Financial Markets Authority: Operational Resilience Thematic: Findings And Insights](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-operational-resilience-thematic-findin-202678/)
+append_entries: 2
+Finish: 2026-07-08 06:32:19.291866
