@@ -641,3 +641,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Monetary Authority Of Singapore And Singapore Police Force: Samlit Moneychanger Pte. Ltd., Its Director And Compliance Manager To Be Charged For Offences Under The Financial Services And Markets Act 2022](http://www.mondovisione.com/media-and-resources/news/monetary-authority-of-singapore-and-singapore-police-force-samlit-moneychanger-202679/)
 append_entries: 2
 Finish: 2026-07-09 07:41:01.771784
+------------------------------------------------------
+Started: 2026-07-09 11:08:38.395646
+Existing_entries: 133
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Miami International Holdings Announces Date Of Second Quarter 2026 Earnings Release And Conference Call](http://www.mondovisione.com/media-and-resources/news/miami-international-holdings-announces-date-of-second-quarter-2026-earnings-rele-202679/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The UK Payment Systems Regulator Annual Report And Accounts 2025 To 2026](http://www.mondovisione.com/media-and-resources/news/the-uk-payment-systems-regulator-annual-report-and-accounts-2025-to-2026-202679/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Broadridge Delivers Next-Generation Reconciliation Platform To Raiffeisen Bank International - International Bank Selects BRx Match To Support Growing Transaction Volumes And  ISO 20022 Compliance Across Global Markets](http://www.mondovisione.com/media-and-resources/news/broadridge-delivers-next-generation-reconciliation-platform-to-raiffeisen-bank-i-202679/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LME Appoints Independent Non-Executive Directors](http://www.mondovisione.com/media-and-resources/news/lme-appoints-independent-non-executive-directors-202679/)
+append_entries: 4
+Finish: 2026-07-09 11:08:39.130263
