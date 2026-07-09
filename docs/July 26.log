@@ -683,3 +683,21 @@ Append: [Cyprus Stock Exchange Monthly Bulletin For June 2026](http://www.mondov
 Append: [Bloomberg Introduces Electronic Trading Workflow For Indian Government Bonds](http://www.mondovisione.com/media-and-resources/news/bloomberg-introduces-electronic-trading-workflow-for-indian-government-bonds-202679/)
 append_entries: 8
 Finish: 2026-07-09 15:20:00.886448
+------------------------------------------------------
+Started: 2026-07-09 18:00:10.030980
+Existing_entries: 145
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Remarks At The Society For Corporate Governance Conference, Paul S. Atkins, SEC Chairman, Nashville, Tenn., July 9, 2026](http://www.mondovisione.com/media-and-resources/news/remarks-at-the-society-for-corporate-governance-conference-paul-s-atkins-sec-202679/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Canadian Investment Regulatory Organization Proposes Rule Amendments To Harmonize Advisor Compensation - Adoption Of Incorporated Advisor Compensation Option Would Deliver On Key Integration Priority, Providing Equity, Flexibility And Consistency For Advisors.](http://www.mondovisione.com/media-and-resources/news/canadian-investment-regulatory-organization-proposes-rule-amendments-to-harmoniz-202679/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Canadian Securities Administrators Market Update](http://www.mondovisione.com/media-and-resources/news/canadian-securities-administrators-market-update-202679/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESMA: Financial Firms Keep EU Carbon Markets Moving](http://www.mondovisione.com/media-and-resources/news/esma-financial-firms-keep-eu-carbon-markets-moving-202679/)
+append_entries: 4
+Finish: 2026-07-09 18:00:11.412706
