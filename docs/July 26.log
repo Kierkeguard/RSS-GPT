@@ -722,3 +722,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Alberta Securities Commission Sanctions Glenn Hunter, Kyle Watters, HW & Associates Inc. And HW TradeFX LLC](http://www.mondovisione.com/media-and-resources/news/alberta-securities-commission-sanctions-glenn-hunter-kyle-watters-hw-and-associa-202679/)
 append_entries: 3
 Finish: 2026-07-09 21:38:10.904792
+------------------------------------------------------
+Started: 2026-07-09 23:16:32.384820
+Existing_entries: 152
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-07-09 23:16:33.678741
