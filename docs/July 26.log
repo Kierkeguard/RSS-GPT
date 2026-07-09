@@ -701,3 +701,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ESMA: Financial Firms Keep EU Carbon Markets Moving](http://www.mondovisione.com/media-and-resources/news/esma-financial-firms-keep-eu-carbon-markets-moving-202679/)
 append_entries: 4
 Finish: 2026-07-09 18:00:11.412706
+------------------------------------------------------
+Started: 2026-07-09 19:59:28.710374
+Existing_entries: 149
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-07-09 19:59:29.640405
