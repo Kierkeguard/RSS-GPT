@@ -707,3 +707,18 @@ Existing_entries: 149
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-07-09 19:59:29.640405
+------------------------------------------------------
+Started: 2026-07-09 21:38:09.471377
+Existing_entries: 149
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TMX Group Equity Financing Statistics – June 2026](http://www.mondovisione.com/media-and-resources/news/tmx-group-equity-financing-statistics-june-2026-202679/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Federal Reserve Announces The Leadership And Objectives Of Its Task Forces To Advance The Conduct Of Monetary Policy](http://www.mondovisione.com/media-and-resources/news/federal-reserve-announces-the-leadership-and-objectives-of-its-task-forces-to-ad-202679/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Alberta Securities Commission Sanctions Glenn Hunter, Kyle Watters, HW & Associates Inc. And HW TradeFX LLC](http://www.mondovisione.com/media-and-resources/news/alberta-securities-commission-sanctions-glenn-hunter-kyle-watters-hw-and-associa-202679/)
+append_entries: 3
+Finish: 2026-07-09 21:38:10.904792
