@@ -629,3 +629,15 @@ Existing_entries: 131
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-07-09 03:45:20.548869
+------------------------------------------------------
+Started: 2026-07-09 07:41:00.847132
+Existing_entries: 131
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Infracore Goes Public On SIX Swiss Exchange](http://www.mondovisione.com/media-and-resources/news/infracore-goes-public-on-six-swiss-exchange-202679/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Monetary Authority Of Singapore And Singapore Police Force: Samlit Moneychanger Pte. Ltd., Its Director And Compliance Manager To Be Charged For Offences Under The Financial Services And Markets Act 2022](http://www.mondovisione.com/media-and-resources/news/monetary-authority-of-singapore-and-singapore-police-force-samlit-moneychanger-202679/)
+append_entries: 2
+Finish: 2026-07-09 07:41:01.771784
