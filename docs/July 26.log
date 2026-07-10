@@ -785,3 +785,25 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Malawi Stock Exchange Weekly Summary Report, 10 July 2026](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-10-july-2026-2026710/)
 append_entries: 4
 Finish: 2026-07-10 14:38:12.538129
+------------------------------------------------------
+Started: 2026-07-10 17:50:10.525821
+Existing_entries: 163
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Office Of Municipal Securities Updates FAQs For Registration Of Municipal Advisors](http://www.mondovisione.com/media-and-resources/news/sec-office-of-municipal-securities-updates-faqs-for-registration-of-municipal-ad-2026710/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nigerian Exchange Weekly Market Report  And Statistics For The Week Ended 10 July 2026](http://www.mondovisione.com/media-and-resources/news/nigerian-exchange-weekly-market-report-and-statistics-for-the-week-ended-10-jul-2026710/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Federal Reserve: Monetary Policy Report](http://www.mondovisione.com/media-and-resources/news/federal-reserve-monetary-policy-report-2026710/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESMA Launches Data Collection Under The First Phase Of ESAP](http://www.mondovisione.com/media-and-resources/news/esma-launches-data-collection-under-the-first-phase-of-esap-2026710/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CCP Global Submits A Response To The CFTC's Request For Information On Fintech Firms](http://www.mondovisione.com/media-and-resources/news/ccp-global-submits-a-response-to-the-cftcs-request-for-information-on-fintech-f-2026710/)
+Append: [Dubai Financial Market Regulated Short Sell – Weekly Summary - 6th July 2026 To 10th July 2026](http://www.mondovisione.com/media-and-resources/news/dubai-financial-market-regulated-short-sell-weekly-summary-6th-july-2026-to-2026710/)
+append_entries: 6
+Finish: 2026-07-10 17:50:11.872778
