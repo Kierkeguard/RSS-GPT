@@ -746,3 +746,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Japan Financial Services Agency: "Cold Calling" - Investors Alert](http://www.mondovisione.com/media-and-resources/news/japan-financial-services-agency-cold-calling-investors-alert-2026710/)
 append_entries: 2
 Finish: 2026-07-10 07:40:27.357722
+------------------------------------------------------
+Started: 2026-07-10 11:09:05.144778
+Existing_entries: 154
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Have Your Say! ACER Consults On Changes To The Harmonised Allocation Rules And Requirements For The Single Allocation Platform](http://www.mondovisione.com/media-and-resources/news/have-your-say-acer-consults-on-changes-to-the-harmonised-allocation-rules-and-r-2026710/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LME Data Highlights:  Q2 2026](http://www.mondovisione.com/media-and-resources/news/lme-data-highlights-q2-2026-2026710/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial System Strengthened With New Safeguards For Major Technology Providers](http://www.mondovisione.com/media-and-resources/news/uk-financial-system-strengthened-with-new-safeguards-for-major-technology-provid-2026710/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX: Appointment Of Listing Committee Members](http://www.mondovisione.com/media-and-resources/news/hkex-appointment-of-listing-committee-members-2026710/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Product Innovation Rises As ETF Issuers Extend The Wrapper Into New Asset Classes: Acuiti ETF Management Insight Report](http://www.mondovisione.com/media-and-resources/news/product-innovation-rises-as-etf-issuers-extend-the-wrapper-into-new-asset-classe-2026710/)
+append_entries: 5
+Finish: 2026-07-10 11:09:06.493101
