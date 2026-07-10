@@ -767,3 +767,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Product Innovation Rises As ETF Issuers Extend The Wrapper Into New Asset Classes: Acuiti ETF Management Insight Report](http://www.mondovisione.com/media-and-resources/news/product-innovation-rises-as-etf-issuers-extend-the-wrapper-into-new-asset-classe-2026710/)
 append_entries: 5
 Finish: 2026-07-10 11:09:06.493101
+------------------------------------------------------
+Started: 2026-07-10 14:38:11.342756
+Existing_entries: 159
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER: Romanian Adequacy Assessment: Delayed Energy Transition Affects Security Of Supply Decisions](http://www.mondovisione.com/media-and-resources/news/acer-romanian-adequacy-assessment-delayed-energy-transition-affects-security-o-2026710/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Deutsche Börse Group: Business Indicators For June 2026](http://www.mondovisione.com/media-and-resources/news/deutsche-brse-group-business-indicators-for-june-2026-2026710/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TMX Group CFO David Arnold To Present At The Canaccord Genuity 46th Annual Growth Conference](http://www.mondovisione.com/media-and-resources/news/tmx-group-cfo-david-arnold-to-present-at-the-canaccord-genuity-46th-annual-growt-2026710/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Malawi Stock Exchange Weekly Summary Report, 10 July 2026](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-10-july-2026-2026710/)
+append_entries: 4
+Finish: 2026-07-10 14:38:12.538129
