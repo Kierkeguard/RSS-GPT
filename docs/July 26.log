@@ -936,3 +936,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Petrochemical Company Marks Milestone: Rings Opening Bell At Tehran Securities Exchange - TAPPICO’s Executives Joined Tehran Securities Exchange’s Opening Bell Ceremony Of The Issuer’s Listing Anniversary On Sunday, 12th July 2026](http://www.mondovisione.com/media-and-resources/news/petrochemical-company-marks-milestone-rings-opening-bell-at-tehran-securities-e-2026712/)
 append_entries: 1
 Finish: 2026-07-12 13:37:24.226576
+------------------------------------------------------
+Started: 2026-07-12 15:01:02.531513
+Existing_entries: 176
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-07-12 15:01:03.403466
