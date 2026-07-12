@@ -942,3 +942,15 @@ Existing_entries: 176
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-07-12 15:01:03.403466
+------------------------------------------------------
+Started: 2026-07-12 17:03:57.070476
+Existing_entries: 176
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Egyptian Exchange Announces Amendments To The Announcement And Implementation Timeline Of Periodic Reviews For Its Main Market Indices](http://www.mondovisione.com/media-and-resources/news/the-egyptian-exchange-announces-amendments-to-the-announcement-and-implementatio-2026712/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Qatar Stock Exchange: Official Mourning Holiday In The State Of Qatar](http://www.mondovisione.com/media-and-resources/news/qatar-stock-exchange-official-mourning-holiday-in-the-state-of-qatar-2026712/)
+append_entries: 2
+Finish: 2026-07-12 17:03:58.121474
