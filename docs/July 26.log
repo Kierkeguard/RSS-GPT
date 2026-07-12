@@ -954,3 +954,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Qatar Stock Exchange: Official Mourning Holiday In The State Of Qatar](http://www.mondovisione.com/media-and-resources/news/qatar-stock-exchange-official-mourning-holiday-in-the-state-of-qatar-2026712/)
 append_entries: 2
 Finish: 2026-07-12 17:03:58.121474
+------------------------------------------------------
+Started: 2026-07-12 19:11:29.105546
+Existing_entries: 178
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nigeria's Private Sector Launches Gender Country Program To Unlock Inclusive Growth](http://www.mondovisione.com/media-and-resources/news/nigerias-private-sector-launches-gender-country-program-to-unlock-inclusive-gro-2026712/)
+append_entries: 1
+Finish: 2026-07-12 19:11:30.281462
