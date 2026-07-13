@@ -1030,3 +1030,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [UK Unveils 12-Month Roadmap To Accelerate Financial Market Tokenisation](http://www.mondovisione.com/media-and-resources/news/uk-unveils-12-month-roadmap-to-accelerate-financial-market-tokenisation-2026713/)
 append_entries: 2
 Finish: 2026-07-13 14:44:44.172911
+------------------------------------------------------
+Started: 2026-07-13 17:58:11.754803
+Existing_entries: 192
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Monetary Policy At A Crossroads, Federal Reserve Governor Christopher J. Waller, At The New York Association For Business Economics, New York, New York](http://www.mondovisione.com/media-and-resources/news/monetary-policy-at-a-crossroads-federal-reserve-governor-christopher-j-waller-2026713/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Options Exchange - Reminder: Symbol To Cloud Allocation Rebalance](http://www.mondovisione.com/media-and-resources/news/miax-options-exchange-reminder-symbol-to-cloud-allocation-rebalance-2026713/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Testing Times Require Time For Testing − Speech By Ruth Smith, Bank Of England, Executive Director, Resolution, Given At UK Finance](http://www.mondovisione.com/media-and-resources/news/testing-times-require-time-for-testing-speech-by-ruth-smith-bank-of-england-2026713/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Initial Prospectus For Ahorro Familiar SOCIMI’s Listing On BME Scaleup](http://www.mondovisione.com/media-and-resources/news/new-initial-prospectus-for-ahorro-familiar-socimis-listing-on-bme-scaleup-2026713/)
+append_entries: 4
+Finish: 2026-07-13 17:58:12.902185
