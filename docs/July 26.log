@@ -981,3 +981,15 @@ Existing_entries: 179
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-07-13 03:28:30.342781
+------------------------------------------------------
+Started: 2026-07-13 07:25:49.959005
+Existing_entries: 179
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX To Introduce 18 Stock Option Classes With Weekly And Monthly Expiries](http://www.mondovisione.com/media-and-resources/news/hkex-to-introduce-18-stock-option-classes-with-weekly-and-monthly-expiries-2026713/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Taiwan Futures Exchange Newsletter - July 2026](http://www.mondovisione.com/media-and-resources/news/taiwan-futures-exchange-newsletter-july-2026-2026713/)
+append_entries: 2
+Finish: 2026-07-13 07:25:50.949756
