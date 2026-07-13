@@ -1078,3 +1078,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CCP Global Publishes The CIDS 2025 Post-Exercise Report](http://www.mondovisione.com/media-and-resources/news/ccp-global-publishes-the-cids-2025-post-exercise-report-2026713/)
 append_entries: 3
 Finish: 2026-07-13 21:01:11.260649
+------------------------------------------------------
+Started: 2026-07-13 22:58:39.419185
+Existing_entries: 202
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-07-13 22:58:40.825990
