@@ -1048,3 +1048,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [New Initial Prospectus For Ahorro Familiar SOCIMI’s Listing On BME Scaleup](http://www.mondovisione.com/media-and-resources/news/new-initial-prospectus-for-ahorro-familiar-socimis-listing-on-bme-scaleup-2026713/)
 append_entries: 4
 Finish: 2026-07-13 17:58:12.902185
+------------------------------------------------------
+Started: 2026-07-13 19:40:34.551704
+Existing_entries: 196
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Correspondence - Recommendations For The UK Financial Conduct Authority: November 2024 - Update](http://www.mondovisione.com/media-and-resources/news/correspondence-recommendations-for-the-uk-financial-conduct-authority-novembe-2026713/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Federal Agencies Issue Guidance On Lending To Individuals Not Legally Authorized To Work In The United States](http://www.mondovisione.com/media-and-resources/news/us-federal-agencies-issue-guidance-on-lending-to-individuals-not-legally-authori-2026713/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CalPERS Posts 14.8% Preliminary Investment Return for Fiscal Year 2025-26](http://www.mondovisione.com/media-and-resources/news/calpers-posts-148-preliminary-investment-return-for-fiscal-year-2025-26-2026713/)
+append_entries: 3
+Finish: 2026-07-13 19:40:35.403928
