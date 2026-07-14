@@ -1148,3 +1148,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ETFGI Reports ETF Industry In The United States Reaches Record US$15.78 Trillion As YTD Inflows Surpass US$1 Trillion At The End Of June](http://www.mondovisione.com/media-and-resources/news/etfgi-reports-etf-industry-in-the-united-states-reaches-record-us1578-trillion-2026714/)
 append_entries: 1
 Finish: 2026-07-14 15:25:58.723561
+------------------------------------------------------
+Started: 2026-07-14 17:19:15.307781
+Existing_entries: 216
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Moscow Exchange: Updated Constituents List For OFZ Zero Coupon Yield Curve To Come Into Force On 15 July 2026](http://www.mondovisione.com/media-and-resources/news/moscow-exchange-updated-constituents-list-for-ofz-zero-coupon-yield-curve-to-co-2026714/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Seanergy Maritime Holdings Corp. Raises €100 Million Through A Corporate Bond Listed On Euronext](http://www.mondovisione.com/media-and-resources/news/seanergy-maritime-holdings-corp-raises-100-million-through-a-corporate-bond-li-2026714/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tel Aviv Stock Exchange: Maala Marks 20 Years Of Corporate Responsibility Rating In Israel](http://www.mondovisione.com/media-and-resources/news/tel-aviv-stock-exchange-maala-marks-20-years-of-corporate-responsibility-rating-2026714/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority: New Member Appointed To The Regulatory Decisions Committee](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-new-member-appointed-to-the-regulatory-decisions-2026714/)
+append_entries: 4
+Finish: 2026-07-14 17:19:16.678709
