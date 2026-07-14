@@ -1139,3 +1139,12 @@ Append: [UK Government Policy paper: Alternative Investment Fund Managers Regula
 Append: [Global Exchanges Deliver Strong Q2 2026 Growth Despite June Stock Price Pullback - AI Infrastructure Boom, Shifting Economic Data, And Landmark Market Events Drive Record Trading Activity Worldwide](http://www.mondovisione.com/media-and-resources/news/global-exchanges-deliver-strong-q2-2026-growth-despite-june-stock-price-pullback-2026714/)
 append_entries: 9
 Finish: 2026-07-14 13:55:22.786451
+------------------------------------------------------
+Started: 2026-07-14 15:25:57.496793
+Existing_entries: 215
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ETFGI Reports ETF Industry In The United States Reaches Record US$15.78 Trillion As YTD Inflows Surpass US$1 Trillion At The End Of June](http://www.mondovisione.com/media-and-resources/news/etfgi-reports-etf-industry-in-the-united-states-reaches-record-us1578-trillion-2026714/)
+append_entries: 1
+Finish: 2026-07-14 15:25:58.723561
