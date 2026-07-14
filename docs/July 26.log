@@ -1114,3 +1114,28 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Shenzhen Stock Exchange Market Bulletin July 10, 2026, Issue 16](http://www.mondovisione.com/media-and-resources/news/shenzhen-stock-exchange-market-bulletin-july-10-2026-issue-16-2026714/)
 append_entries: 3
 Finish: 2026-07-14 10:02:39.166586
+------------------------------------------------------
+Started: 2026-07-14 13:55:21.476778
+Existing_entries: 206
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Semiannual Monetary Policy Report To The Congress, Federal Reserve Chairman Kevin Warsh, Before The Committee On Financial Services, U.S. House Of Representatives](http://www.mondovisione.com/media-and-resources/news/semiannual-monetary-policy-report-to-the-congress-federal-reserve-chairman-kevi-2026714/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ICE’s North American Financial Natural Gas Markets Reach Record Open Interest As Customers Manage Supply And Demand Dynamics Across Natural Gas Hubs - Record OI Across ICE’s Global Power Futures Markets](http://www.mondovisione.com/media-and-resources/news/ices-north-american-financial-natural-gas-markets-reach-record-open-interest-as-2026714/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Rothera Selects Adaptive’s Aeron Exchange Accelerator To Build Its CFTC-Regulated Event Contracts Exchange And Clearing Platform](http://www.mondovisione.com/media-and-resources/news/rothera-selects-adaptives-aeron-exchange-accelerator-to-build-its-cftc-regulate-2026714/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Dubai Welcomes Ajman Bank's USD 300 Million Additional Tier 1 Perpetual Sukuk](http://www.mondovisione.com/media-and-resources/news/nasdaq-dubai-welcomes-ajman-banks-usd-300-million-additional-tier-1-perpetual-s-2026714/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [RS2 Financial Services GmbH Selected To Participate In ECB Digital Euro Pilot - German-Regulated E-Money Institution Will Contribute Acquiring Expertise To Practical Testing Of A Possible Future Digital Euro](http://www.mondovisione.com/media-and-resources/news/rs2-financial-services-gmbh-selected-to-participate-in-ecb-digital-euro-pilot-2026714/)
+Append: [Nexi Among The Payment Service Providers That Will Participate In The Digital Euro Pilot Phase - The European PayTech Will Contribute Its Expertise To Testing The Technical Functionalities, Operational Processes And User Experience Of The Payment System](http://www.mondovisione.com/media-and-resources/news/nexi-among-the-payment-service-providers-that-will-participate-in-the-digital-eu-2026714/)
+Append: [UK Financial Conduct Authority: Streamlined Rulebook To Save Asset Managers £128m A Year](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-streamlined-rulebook-to-save-asset-managers-128-2026714/)
+Append: [UK Government Policy paper: Alternative Investment Fund Managers Regulation – Draft SI And Policy Note](http://www.mondovisione.com/media-and-resources/news/uk-government-policy-paper-alternative-investment-fund-managers-regulation-dr-2026714/)
+Append: [Global Exchanges Deliver Strong Q2 2026 Growth Despite June Stock Price Pullback - AI Infrastructure Boom, Shifting Economic Data, And Landmark Market Events Drive Record Trading Activity Worldwide](http://www.mondovisione.com/media-and-resources/news/global-exchanges-deliver-strong-q2-2026-growth-despite-june-stock-price-pullback-2026714/)
+append_entries: 9
+Finish: 2026-07-14 13:55:22.786451
