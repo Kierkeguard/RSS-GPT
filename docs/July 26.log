@@ -1099,3 +1099,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CFTC Approves Final Rule Amending Margin Requirements For Uncleared Swaps](http://www.mondovisione.com/media-and-resources/news/cftc-approves-final-rule-amending-margin-requirements-for-uncleared-swaps-2026714/)
 append_entries: 1
 Finish: 2026-07-14 06:15:48.113413
+------------------------------------------------------
+Started: 2026-07-14 10:02:37.940011
+Existing_entries: 203
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Securities Commission Malaysia: Court Of Appeal Upholds Insider Trading Civil Judgment Against Former WCT Deputy MD And Another Defendant](http://www.mondovisione.com/media-and-resources/news/securities-commission-malaysia-court-of-appeal-upholds-insider-trading-civil-ju-2026714/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Opening Remarks, Dato’ Mohammad Faiz Azmi, Chairman, Securities Commission Malaysia, 4th SC Nadwah for Shariah Advisers, 14 July 2026, 9.20AM, Auditorium, Securities Commission Malaysia](http://www.mondovisione.com/media-and-resources/news/opening-remarks-dato-mohammad-faiz-azmi-chairman-securities-commission-malay-2026714/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Shenzhen Stock Exchange Market Bulletin July 10, 2026, Issue 16](http://www.mondovisione.com/media-and-resources/news/shenzhen-stock-exchange-market-bulletin-july-10-2026-issue-16-2026714/)
+append_entries: 3
+Finish: 2026-07-14 10:02:39.166586
