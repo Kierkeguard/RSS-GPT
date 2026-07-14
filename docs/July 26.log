@@ -1090,3 +1090,12 @@ Existing_entries: 202
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-07-14 02:50:45.578212
+------------------------------------------------------
+Started: 2026-07-14 06:15:46.835220
+Existing_entries: 202
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Approves Final Rule Amending Margin Requirements For Uncleared Swaps](http://www.mondovisione.com/media-and-resources/news/cftc-approves-final-rule-amending-margin-requirements-for-uncleared-swaps-2026714/)
+append_entries: 1
+Finish: 2026-07-14 06:15:48.113413
