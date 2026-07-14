@@ -1207,3 +1207,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [S&P Global Market Intelligence Data | Top 10 Most Shorted Stocks In The US](http://www.mondovisione.com/media-and-resources/news/sandp-global-market-intelligence-data-top-10-most-shorted-stocks-in-the-us-2026714/)
 append_entries: 4
 Finish: 2026-07-14 21:04:03.503957
+------------------------------------------------------
+Started: 2026-07-14 23:00:08.191630
+Existing_entries: 231
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Fiserv To Release Second Quarter Earnings Results On August 6, 2026](http://www.mondovisione.com/media-and-resources/news/fiserv-to-release-second-quarter-earnings-results-on-august-6-2026-2026714/)
+append_entries: 1
+Finish: 2026-07-14 23:00:09.673199
