@@ -1255,3 +1255,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Growth And Regulation - Speech By Andrew Bailey, Governor, Bank Of England, Given At The Financial And Professional Services Dinner, Mansion House](http://www.mondovisione.com/media-and-resources/news/growth-and-regulation-speech-by-andrew-bailey-governor-bank-of-england-give-2026715/)
 append_entries: 3
 Finish: 2026-07-15 10:07:11.711724
+------------------------------------------------------
+Started: 2026-07-15 13:52:05.016495
+Existing_entries: 239
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MarketAxess To Host Conference Call Announcing Second Quarter 2026 Financial Results On Friday, August 7, 2026](http://www.mondovisione.com/media-and-resources/news/marketaxess-to-host-conference-call-announcing-second-quarter-2026-financial-res-2026715/)
+append_entries: 1
+Finish: 2026-07-15 13:52:06.063594
