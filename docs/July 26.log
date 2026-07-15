@@ -1264,3 +1264,27 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [MarketAxess To Host Conference Call Announcing Second Quarter 2026 Financial Results On Friday, August 7, 2026](http://www.mondovisione.com/media-and-resources/news/marketaxess-to-host-conference-call-announcing-second-quarter-2026-financial-res-2026715/)
 append_entries: 1
 Finish: 2026-07-15 13:52:06.063594
+------------------------------------------------------
+Started: 2026-07-15 15:36:39.765778
+Existing_entries: 240
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [S&P Invests In SSImple](http://www.mondovisione.com/media-and-resources/news/sandp-invests-in-ssimple-2026715/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Open Consultation: Updating The Bank Of England’s Fee Regime For Recognised Payment Systems](http://www.mondovisione.com/media-and-resources/news/open-consultation-updating-the-bank-of-englands-fee-regime-for-recognised-paym-2026715/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tradeweb Announces Partnership With Professional Golfer James Nicholas - Multi-Year Partnership Reflects A Shared Belief That Long-Term Success Is Built Through Discipline, Preparation, And Transparency - Nicholas Makes British Open Debut This Week Wearing Tradeweb Logo](http://www.mondovisione.com/media-and-resources/news/tradeweb-announces-partnership-with-professional-golfer-james-nicholas-multi-y-2026715/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Corporate And Municipal CUSIP Request Volumes Rise In June](http://www.mondovisione.com/media-and-resources/news/corporate-and-municipal-cusip-request-volumes-rise-in-june-2026715/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Securities Commission Malaysia Charges Brothers For Dealing In Securities Without Licence](http://www.mondovisione.com/media-and-resources/news/securities-commission-malaysia-charges-brothers-for-dealing-in-securities-withou-2026715/)
+Append: [Securities Commission Malaysia: Former Company Director Jailed Five Years For Unlicensed Fund Management Activities And Money Laundering](http://www.mondovisione.com/media-and-resources/news/securities-commission-malaysia-former-company-director-jailed-five-years-for-un-2026715/)
+Append: [Worldline Selected For The Eurosystem’s Digital Euro Pilot - Worldline Reinforces Its Position As A Trusted Partner For Banks And Merchants Preparing For The Digital Euro](http://www.mondovisione.com/media-and-resources/news/worldline-selected-for-the-eurosystems-digital-euro-pilot-worldline-reinforce-2026715/)
+Append: [ETFGI Reports Global ETF Industry Reaches Record US$23.09 Trillion As YTD Net Inflows Hit All-Time High Of US$1.33 Trillion At The End Of June](http://www.mondovisione.com/media-and-resources/news/etfgi-reports-global-etf-industry-reaches-record-us2309-trillion-as-ytd-net-in-2026715/)
+append_entries: 8
+Finish: 2026-07-15 15:36:41.026448
