@@ -1222,3 +1222,21 @@ Existing_entries: 232
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-07-15 02:49:30.303714
+------------------------------------------------------
+Started: 2026-07-15 06:19:23.926409
+Existing_entries: 232
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MENA Fintech Association Partners As A Regional Sponsor Of Jordan Fintech Festival, Reinforcing Strategic Collaboration With The Central Bank Of Jordan](http://www.mondovisione.com/media-and-resources/news/mena-fintech-association-partners-as-a-regional-sponsor-of-jordan-fintech-festiv-2026715/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Proposes To Remake Qualified Accountant Legislative Instrument](http://www.mondovisione.com/media-and-resources/news/asic-proposes-to-remake-qualified-accountant-legislative-instrument-2026715/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Zealand OCR Pass Through Transparency](http://www.mondovisione.com/media-and-resources/news/new-zealand-ocr-pass-through-transparency-2026715/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Chancellor Of The Exchequer Rachel Reeves Mansion House 2026 Speech](http://www.mondovisione.com/media-and-resources/news/uk-chancellor-of-the-exchequer-rachel-reeves-mansion-house-2026-speech-2026715/)
+append_entries: 4
+Finish: 2026-07-15 06:19:25.053071
