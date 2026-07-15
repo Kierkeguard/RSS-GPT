@@ -1240,3 +1240,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [UK Chancellor Of The Exchequer Rachel Reeves Mansion House 2026 Speech](http://www.mondovisione.com/media-and-resources/news/uk-chancellor-of-the-exchequer-rachel-reeves-mansion-house-2026-speech-2026715/)
 append_entries: 4
 Finish: 2026-07-15 06:19:25.053071
+------------------------------------------------------
+Started: 2026-07-15 10:07:10.844611
+Existing_entries: 236
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Eurex: The Early Years And Expansion In APAC - 15 Years In Asia: From Access To Impact (Part 1)](http://www.mondovisione.com/media-and-resources/news/eurex-he-early-years-and-expansion-in-apac-15-years-in-asia-from-access-to-i-2026715/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Single Rulebook Partners With Sigma AI To Deliver Defensible, Purpose-Built AI For Compliance Teams And Front-Office Teams - Combining Trusted Capital Markets Regulatory Intelligence With Advanced AI Analytics To Accelerate Decision-Making](http://www.mondovisione.com/media-and-resources/news/single-rulebook-partners-with-sigma-ai-to-deliver-defensible-purpose-built-ai-f-2026715/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Growth And Regulation - Speech By Andrew Bailey, Governor, Bank Of England, Given At The Financial And Professional Services Dinner, Mansion House](http://www.mondovisione.com/media-and-resources/news/growth-and-regulation-speech-by-andrew-bailey-governor-bank-of-england-give-2026715/)
+append_entries: 3
+Finish: 2026-07-15 10:07:11.711724
