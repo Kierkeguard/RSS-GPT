@@ -1316,3 +1316,15 @@ Append: [Canadian Securities Administrators Publishes Updated Cybersecurity Find
 Append: [The Role Of Research In Prudential Regulation − Speech By David Bailey, Bank Of England Executive Director, Prudential Policy, Given At IFABS 2026 London](http://www.mondovisione.com/media-and-resources/news/the-role-of-research-in-prudential-regulation-speech-by-david-bailey-bank-of-2026715/)
 append_entries: 6
 Finish: 2026-07-15 19:18:30.706620
+------------------------------------------------------
+Started: 2026-07-15 21:04:09.147438
+Existing_entries: 254
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Chairman Selig Announces CFTC Agricultural Advisory Committee To Meet July 29 In Washington](http://www.mondovisione.com/media-and-resources/news/chairman-selig-announces-cftc-agricultural-advisory-committee-to-meet-july-29-in-2026715/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Economic Outlook, Federal Reserve Governor Lisa D. Cook, At The Exchequer Club Of Washington D.C., Washington, D.C.](http://www.mondovisione.com/media-and-resources/news/economic-outlook-federal-reserve-governor-lisa-d-cook-at-the-exchequer-club-o-2026715/)
+append_entries: 2
+Finish: 2026-07-15 21:04:10.238735
