@@ -1294,3 +1294,25 @@ Existing_entries: 248
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-07-15 17:21:22.022796
+------------------------------------------------------
+Started: 2026-07-15 19:18:29.471676
+Existing_entries: 248
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [DTCC Turns Tokenization Into Reality: U.S. Trades Successfully Processed Using DTC-Tokenized Assets](http://www.mondovisione.com/media-and-resources/news/dtcc-turns-tokenization-into-reality-us-trades-successfully-processed-using-d-2026715/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Jonathan V. Gould Marks One Year As Comptroller Of The US Currency](http://www.mondovisione.com/media-and-resources/news/jonathan-v-gould-marks-one-year-as-comptroller-of-the-us-currency-2026715/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Ontario Securities Commission: Ian McSevney Pleads Guilty In $5.3 Million Investment Scheme](http://www.mondovisione.com/media-and-resources/news/ontario-securities-commission-ian-mcsevney-pleads-guilty-in-53-million-invest-2026715/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ISDA derivatiViews: Building Markets, Creating Opportunity](http://www.mondovisione.com/media-and-resources/news/isda-derivativiews-building-markets-creating-opportunity-2026715/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Canadian Securities Administrators Publishes Updated Cybersecurity Findings And Guidance For Registered Firms](http://www.mondovisione.com/media-and-resources/news/canadian-securities-administrators-publishes-updated-cybersecurity-findings-and-2026715/)
+Append: [The Role Of Research In Prudential Regulation − Speech By David Bailey, Bank Of England Executive Director, Prudential Policy, Given At IFABS 2026 London](http://www.mondovisione.com/media-and-resources/news/the-role-of-research-in-prudential-regulation-speech-by-david-bailey-bank-of-2026715/)
+append_entries: 6
+Finish: 2026-07-15 19:18:30.706620
