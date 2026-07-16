@@ -1340,3 +1340,18 @@ Existing_entries: 256
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-07-16 02:56:06.708532
+------------------------------------------------------
+Started: 2026-07-16 06:22:41.514846
+Existing_entries: 256
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASX Delivers Strongest Listings Result Since FY22](http://www.mondovisione.com/media-and-resources/news/asx-delivers-strongest-listings-result-since-fy22-2026716/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Statement Of Intent](http://www.mondovisione.com/media-and-resources/news/asic-statement-of-intent-2026716/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Company That Purported To Trade Foreign Currencies Committed Fraud And Illegal Distribution, BC Securities Commission Alleges](http://www.mondovisione.com/media-and-resources/news/company-that-purported-to-trade-foreign-currencies-committed-fraud-and-illegal-d-2026716/)
+append_entries: 3
+Finish: 2026-07-16 06:22:42.586756
