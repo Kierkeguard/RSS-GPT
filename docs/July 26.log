@@ -1426,3 +1426,21 @@ Append: [UK Financial Stability Report Meetings](http://www.mondovisione.com/med
 Append: [Joe Tuccio Joins Spotex As Head Of Digital Assets](http://www.mondovisione.com/media-and-resources/news/joe-tuccio-joins-spotex-as-head-of-digital-assets-2026716/)
 append_entries: 10
 Finish: 2026-07-16 17:23:16.998269
+------------------------------------------------------
+Started: 2026-07-16 19:19:25.233205
+Existing_entries: 282
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Federal Bank Regulatory Agencies Issue Joint Statement On Handling Of Highly Sensitive Information During Bank Examinations](http://www.mondovisione.com/media-and-resources/news/us-federal-bank-regulatory-agencies-issue-joint-statement-on-handling-of-highly-2026716/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Moscow Exchange: Concentration Limits Per Issuer On Securities Market](http://www.mondovisione.com/media-and-resources/news/moscow-exchange-concentration-limits-per-issuer-on-securities-market-2026716/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Remarks Before The American-Hellenic Chamber Of Commerce, SEC Commissioner Mark T. Uyeda, Athens, Greece, July 13, 2026](http://www.mondovisione.com/media-and-resources/news/remarks-before-the-american-hellenic-chamber-of-commerce-sec-commissioner-mark-2026716/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Office Of The Comptroller Of The US Currency Announces Enforcement Actions For July 2026](http://www.mondovisione.com/media-and-resources/news/office-of-the-comptroller-of-the-us-currency-announces-enforcement-actions-for-j-2026716/)
+append_entries: 4
+Finish: 2026-07-16 19:19:26.020517
