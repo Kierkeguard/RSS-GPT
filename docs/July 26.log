@@ -1355,3 +1355,26 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Company That Purported To Trade Foreign Currencies Committed Fraud And Illegal Distribution, BC Securities Commission Alleges](http://www.mondovisione.com/media-and-resources/news/company-that-purported-to-trade-foreign-currencies-committed-fraud-and-illegal-d-2026716/)
 append_entries: 3
 Finish: 2026-07-16 06:22:42.586756
+------------------------------------------------------
+Started: 2026-07-16 10:14:04.498504
+Existing_entries: 259
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Joint UK Taskforce Continues Crack Down On Misleading Car Finance Claims Adverts](http://www.mondovisione.com/media-and-resources/news/joint-uk-taskforce-continues-crack-down-on-misleading-car-finance-claims-adverts-2026716/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SET Expands Public Access To Government Savings Bonds Through Securities Accounts For The First Time; “Government Retail Bond Aom Plus” Subscription Opens August 3–5](http://www.mondovisione.com/media-and-resources/news/set-expands-public-access-to-government-savings-bonds-through-securities-account-2026716/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Have Your Say: ACER Consultation On Details Of How To Report Energy Derivative Transactions Under REMIT Is Open](http://www.mondovisione.com/media-and-resources/news/have-your-say-acer-consultation-on-details-of-how-to-report-energy-derivative-t-2026716/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LSEG Brings Trusted Financial Data Into Model ML Through MCP Connector](http://www.mondovisione.com/media-and-resources/news/lseg-brings-trusted-financial-data-into-model-ml-through-mcp-connector-2026716/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tokenized Assets A Key Priority For Financial Services Firms, Broadridge Survey Finds - New Tokenization Pulse Survey Reveals Increasing Strategic Importance And Investment, With Firms Focused On A Hybrid Market Infrastructure](http://www.mondovisione.com/media-and-resources/news/tokenized-assets-a-key-priority-for-financial-services-firms-broadridge-survey-2026716/)
+Append: [Open Supply Hub, Wikimedia Deutschland And Wikirate International Join GLEIF's Global Open Data Integration Network (GODIN) To Advance Interoperable Data For Transparency, Sustainability, And Digital Trust](http://www.mondovisione.com/media-and-resources/news/open-supply-hub-wikimedia-deutschland-and-wikirate-international-join-gleifs-g-2026716/)
+Append: [TRG Screen Acquires BST America To Strengthen Market Data Advisory Capability - Acquisition Adds Greater Commercial And Strategic Depth Across The Market Data Lifecycle](http://www.mondovisione.com/media-and-resources/news/trg-screen-acquires-bst-america-to-strengthen-market-data-advisory-capability-2026716/)
+append_entries: 7
+Finish: 2026-07-16 10:14:05.392505
