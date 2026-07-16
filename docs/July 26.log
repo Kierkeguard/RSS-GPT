@@ -1444,3 +1444,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Office Of The Comptroller Of The US Currency Announces Enforcement Actions For July 2026](http://www.mondovisione.com/media-and-resources/news/office-of-the-comptroller-of-the-us-currency-announces-enforcement-actions-for-j-2026716/)
 append_entries: 4
 Finish: 2026-07-16 19:19:26.020517
+------------------------------------------------------
+Started: 2026-07-16 21:06:10.082276
+Existing_entries: 286
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Option Exchanges - Amendment To Rules Regarding Members And Persons Associated With A Member Who Are Or Become Subject To A Statutory Disqualification](http://www.mondovisione.com/media-and-resources/news/miax-option-exchanges-amendment-to-rules-regarding-members-and-persons-associa-2026716/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Options Exchange - New Selective Liquidity Auto Purge (SLAP) Functionality Implementation Date](http://www.mondovisione.com/media-and-resources/news/miax-options-exchange-new-selective-liquidity-auto-purge-slap-functionality-2026716/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Options Exchange - Administrative Information Subscriber Feed Update To Include Origin In Liquidity Seeking Event Notification Messages](http://www.mondovisione.com/media-and-resources/news/miax-options-exchange-administrative-information-subscriber-feed-update-to-inc-2026716/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Options Exchange - Aggregate Risk Manager Change To Adopt Origin Multiplier](http://www.mondovisione.com/media-and-resources/news/miax-options-exchange-aggregate-risk-manager-change-to-adopt-origin-multiplier-2026716/)
+append_entries: 4
+Finish: 2026-07-16 21:06:10.888738
