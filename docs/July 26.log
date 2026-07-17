@@ -1495,3 +1495,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Financial Services GmbH Selected To Participate In ECB Digital Euro Pilot - German-Regulated E-Money Institution Will Contribute Acquiring Expertise To Practical Testing Of A Possible Future](http://www.mondovisione.com/media-and-resources/news/financial-services-gmbh-selected-to-participate-in-ecb-digital-euro-pilot-germ-2026717/)
 append_entries: 1
 Finish: 2026-07-17 10:02:43.450399
+------------------------------------------------------
+Started: 2026-07-17 13:48:11.934278
+Existing_entries: 295
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-07-17 13:48:13.330671
