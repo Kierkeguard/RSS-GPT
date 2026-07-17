@@ -1468,3 +1468,21 @@ Existing_entries: 290
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-07-17 03:13:11.789815
+------------------------------------------------------
+Started: 2026-07-17 06:20:52.015910
+Existing_entries: 290
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX To Facilitate Stamp Duty And Trading-Related Fees Payment In RMB](http://www.mondovisione.com/media-and-resources/news/hkex-to-facilitate-stamp-duty-and-trading-related-fees-payment-in-rmb-2026717/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Warning: Pump And Dump Scammers Intensify Use Of Fake Celebrity Endorsements](http://www.mondovisione.com/media-and-resources/news/asic-warning-pump-and-dump-scammers-intensify-use-of-fake-celebrity-endorsement-2026717/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Releases Key Themes And Areas Of Focus From Its Financial Markets And Innovation Roundtable](http://www.mondovisione.com/media-and-resources/news/asic-releases-key-themes-and-areas-of-focus-from-its-financial-markets-and-innov-2026717/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Navigating Economic Shocks: A Monetary Policymaker’s Perspective, Federal Reserve Vice Chair Philip N. Jefferson, At The Stanford Institute For Economic Policy Research, Stanford University, Stanford, California](http://www.mondovisione.com/media-and-resources/news/navigating-economic-shocks-a-monetary-policymakers-perspective-federal-reserv-2026717/)
+append_entries: 4
+Finish: 2026-07-17 06:20:52.857875
