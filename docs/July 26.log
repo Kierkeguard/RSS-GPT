@@ -1519,3 +1519,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [HKEX Signs MOUs With Shanghai Stock Exchange And Shenzhen Stock Exchange To Facilitate Information Exchange Under Northbound Stock Connect](http://www.mondovisione.com/media-and-resources/news/hkex-signs-mous-with-shanghai-stock-exchange-and-shenzhen-stock-exchange-to-faci-2026717/)
 append_entries: 4
 Finish: 2026-07-17 15:17:13.974388
+------------------------------------------------------
+Started: 2026-07-17 17:16:30.899179
+Existing_entries: 299
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Dubai Financial Market Regulated Short Sell – Weekly Summary - 13th July 2026 To 17th July 2026](http://www.mondovisione.com/media-and-resources/news/dubai-financial-market-regulated-short-sell-weekly-summary-13th-july-2026-to-2026717/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Malawi Stock Exchange Weekly Summary Report, 17 July 2026](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-17-july-2026-2026717/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [GlobalData Announces Top M&A Financial And Legal Advisers In North America During H1 2026](http://www.mondovisione.com/media-and-resources/news/globaldata-announces-top-manda-financial-and-legal-advisers-in-north-america-durin-2026717/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Borsa İstanbul’s Opening Bell Rang For Şa-Ra Enerji İnşaat Tic. ve San. A.Ş.](http://www.mondovisione.com/media-and-resources/news/borsa-istanbuls-opening-bell-rang-for-a-ra-enerji-inaat-tic-ve-san-a-2026717/)
+append_entries: 4
+Finish: 2026-07-17 17:16:32.099825
