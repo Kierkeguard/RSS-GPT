@@ -1559,3 +1559,12 @@ Append: [BC Securities Commission Alleges Companies Failed To Disclose Directorâ
 Append: [The EBA Publishes Its Final Draft Technical Standards On Material Acquisitions, Material Transfers, Mergers And Divisions Under The Capital Requirements Directive](http://www.mondovisione.com/media-and-resources/news/the-eba-publishes-its-final-draft-technical-standards-on-material-acquisitions-2026717/)
 append_entries: 6
 Finish: 2026-07-17 19:17:06.896173
+------------------------------------------------------
+Started: 2026-07-17 21:00:37.122045
+Existing_entries: 309
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Commitments Of Traders Reports Update](http://www.mondovisione.com/media-and-resources/news/cftc-commitments-of-traders-reports-update-2026717/)
+append_entries: 1
+Finish: 2026-07-17 21:00:38.168138
