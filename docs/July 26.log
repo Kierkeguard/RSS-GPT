@@ -1462,3 +1462,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [MIAX Options Exchange - Aggregate Risk Manager Change To Adopt Origin Multiplier](http://www.mondovisione.com/media-and-resources/news/miax-options-exchange-aggregate-risk-manager-change-to-adopt-origin-multiplier-2026716/)
 append_entries: 4
 Finish: 2026-07-16 21:06:10.888738
+------------------------------------------------------
+Started: 2026-07-17 03:13:10.955241
+Existing_entries: 290
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-07-17 03:13:11.789815
