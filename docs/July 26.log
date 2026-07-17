@@ -1537,3 +1537,25 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Borsa İstanbul’s Opening Bell Rang For Şa-Ra Enerji İnşaat Tic. ve San. A.Ş.](http://www.mondovisione.com/media-and-resources/news/borsa-istanbuls-opening-bell-rang-for-a-ra-enerji-inaat-tic-ve-san-a-2026717/)
 append_entries: 4
 Finish: 2026-07-17 17:16:32.099825
+------------------------------------------------------
+Started: 2026-07-17 19:17:05.625501
+Existing_entries: 303
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Sunsets Routine Large Trader Reporting Requirements For Physical Commodity Swaps](http://www.mondovisione.com/media-and-resources/news/cftc-sunsets-routine-large-trader-reporting-requirements-for-physical-commodity-2026717/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nigerian Exchange Weekly Market Report For The Week Ended 17 July 2026](http://www.mondovisione.com/media-and-resources/news/nigerian-exchange-weekly-market-report-for-the-week-ended-17-july-2026-2026717/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FINRA Announces Results Of Board Of Governors Elections - Member Firms Reelect Scott Curtis As Large Firm Governor And Elect Jay Gettenberg As Small Firm Governor](http://www.mondovisione.com/media-and-resources/news/finra-announces-results-of-board-of-governors-elections-member-firms-reelect-s-2026717/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIFMA Statement On Announcement From Federal Financial Regulators On Data Security](http://www.mondovisione.com/media-and-resources/news/sifma-statement-on-announcement-from-federal-financial-regulators-on-data-securi-2026717/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BC Securities Commission Alleges Companies Failed To Disclose Director’s Disciplinary History In AGM Materials](http://www.mondovisione.com/media-and-resources/news/bc-securities-commission-alleges-companies-failed-to-disclose-directors-discipl-2026717/)
+Append: [The EBA Publishes Its Final Draft Technical Standards On Material Acquisitions, Material Transfers, Mergers And Divisions Under The Capital Requirements Directive](http://www.mondovisione.com/media-and-resources/news/the-eba-publishes-its-final-draft-technical-standards-on-material-acquisitions-2026717/)
+append_entries: 6
+Finish: 2026-07-17 19:17:06.896173
