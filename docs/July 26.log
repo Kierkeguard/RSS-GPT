@@ -1486,3 +1486,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Navigating Economic Shocks: A Monetary Policymaker’s Perspective, Federal Reserve Vice Chair Philip N. Jefferson, At The Stanford Institute For Economic Policy Research, Stanford University, Stanford, California](http://www.mondovisione.com/media-and-resources/news/navigating-economic-shocks-a-monetary-policymakers-perspective-federal-reserv-2026717/)
 append_entries: 4
 Finish: 2026-07-17 06:20:52.857875
+------------------------------------------------------
+Started: 2026-07-17 10:02:42.048580
+Existing_entries: 294
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Financial Services GmbH Selected To Participate In ECB Digital Euro Pilot - German-Regulated E-Money Institution Will Contribute Acquiring Expertise To Practical Testing Of A Possible Future](http://www.mondovisione.com/media-and-resources/news/financial-services-gmbh-selected-to-participate-in-ecb-digital-euro-pilot-germ-2026717/)
+append_entries: 1
+Finish: 2026-07-17 10:02:43.450399
