@@ -1670,3 +1670,12 @@ Existing_entries: 310
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-07-19 15:00:47.000394
+------------------------------------------------------
+Started: 2026-07-19 17:02:27.453752
+Existing_entries: 310
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tehran Securities Exchange Weekly Market Report, 11-15 July 2026](http://www.mondovisione.com/media-and-resources/news/tehran-securities-exchange-weekly-market-report-11-15-july-2026-2026719/)
+append_entries: 1
+Finish: 2026-07-19 17:02:28.684270
