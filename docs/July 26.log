@@ -1703,3 +1703,15 @@ Existing_entries: 311
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-07-20 03:35:43.349982
+------------------------------------------------------
+Started: 2026-07-20 06:51:53.287984
+Existing_entries: 311
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASX: Webcast Details And Key Dates For 2026 Full-Year Results](http://www.mondovisione.com/media-and-resources/news/asx-webcast-details-and-key-dates-for-2026-full-year-results-2026720/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Secures Record $830 Million In Civil Penalties Orders And $644 Million Back To Australians In 2025-26](http://www.mondovisione.com/media-and-resources/news/asic-secures-record-830-million-in-civil-penalties-orders-and-644-million-back-2026720/)
+append_entries: 2
+Finish: 2026-07-20 06:51:54.378040
