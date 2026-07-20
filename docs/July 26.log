@@ -1730,3 +1730,25 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Industry Backs DSB's Discovery-Led Approach And Holistic Review Of User Model - The DSB Has Published The Final Report On Its Ninth Annual Industry Consultation, Revealing Broad Support For A More Holistic, Evidence-Based Review Of Its User Model](http://www.mondovisione.com/media-and-resources/news/industry-backs-dsbs-discovery-led-approach-and-holistic-review-of-user-model-2026720/)
 append_entries: 3
 Finish: 2026-07-20 10:56:57.345895
+------------------------------------------------------
+Started: 2026-07-20 14:17:17.406303
+Existing_entries: 316
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESMA Publishes Report On Cross-Border Investment Services Supervision](http://www.mondovisione.com/media-and-resources/news/esma-publishes-report-on-cross-border-investment-services-supervision-2026720/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Investment House - Aspire Investments - Will Join Tel Aviv Stock Exchange As A Member](http://www.mondovisione.com/media-and-resources/news/new-investment-house-aspire-investments-will-join-tel-aviv-stock-exchange-as-2026720/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Prudential Regulation Authority Fines HDI Global SE £4,165,000 For Inaccurate Reporting Of FSCS Liabilities And FSCS Fee Tariff Data](http://www.mondovisione.com/media-and-resources/news/uk-prudential-regulation-authority-fines-hdi-global-se-4165000-for-inaccurate-2026720/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESMA Calls On Firms To Finalise Preparations Ahead Of T+1 Settlement Deadlines](http://www.mondovisione.com/media-and-resources/news/esma-calls-on-firms-to-finalise-preparations-ahead-of-t1-settlement-deadlines-2026720/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Ecoinmo Spaces SOCIMI Joins BME Scaleup On July 22](http://www.mondovisione.com/media-and-resources/news/ecoinmo-spaces-socimi-joins-bme-scaleup-on-july-22-2026720/)
+Append: [Georgia's Five Largest Banks To Transform Treasury Infrastructure In Landmark Partnership Between Nasdaq Calypso And The National Bank Of Georgia - Shared Platform Backed By The National Bank Of Georgia Will Deliver Trusted Global Infrastructure To Support Growth Of The Banking Sector](http://www.mondovisione.com/media-and-resources/news/georgias-five-largest-banks-to-transform-treasury-infrastructure-in-landmark-pa-2026720/)
+append_entries: 6
+Finish: 2026-07-20 14:17:18.404836
