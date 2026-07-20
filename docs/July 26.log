@@ -1770,3 +1770,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Securing True FinTech Competition And Integrity: By Kelvin To, Founder And President Of Data Boiler Technologies](http://www.mondovisione.com/media-and-resources/news/securing-true-fintech-competition-and-integrity-by-kelvin-to-founder-and-presi-2026720/)
 append_entries: 4
 Finish: 2026-07-20 18:08:26.711361
+------------------------------------------------------
+Started: 2026-07-20 21:15:17.216479
+Existing_entries: 326
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Swaps Report Update](http://www.mondovisione.com/media-and-resources/news/cftc-swaps-report-update-2026720/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nodal Exchange Announces Plan To Launch Power Hourly Futures Contracts On August 31st](http://www.mondovisione.com/media-and-resources/news/nodal-exchange-announces-plan-to-launch-power-hourly-futures-contracts-on-august-2026720/)
+append_entries: 2
+Finish: 2026-07-20 21:15:18.452954
