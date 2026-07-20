@@ -1715,3 +1715,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ASIC Secures Record $830 Million In Civil Penalties Orders And $644 Million Back To Australians In 2025-26](http://www.mondovisione.com/media-and-resources/news/asic-secures-record-830-million-in-civil-penalties-orders-and-644-million-back-2026720/)
 append_entries: 2
 Finish: 2026-07-20 06:51:54.378040
+------------------------------------------------------
+Started: 2026-07-20 10:56:56.565384
+Existing_entries: 313
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Alpaca And Broadridge Announce Governance Solution For Tokenized Securities - Broadridge Enables Proxy Voting, Investor Communications, And Voting Entitlement Reconciliation Across Alpaca's Platform](http://www.mondovisione.com/media-and-resources/news/alpaca-and-broadridge-announce-governance-solution-for-tokenized-securities-br-2026720/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Moscow Exchange: Maintenance On T1 Securities And FX Test Environment](http://www.mondovisione.com/media-and-resources/news/moscow-exchange-maintenance-on-t1-securities-and-fx-test-environment-2026720/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Industry Backs DSB's Discovery-Led Approach And Holistic Review Of User Model - The DSB Has Published The Final Report On Its Ninth Annual Industry Consultation, Revealing Broad Support For A More Holistic, Evidence-Based Review Of Its User Model](http://www.mondovisione.com/media-and-resources/news/industry-backs-dsbs-discovery-led-approach-and-holistic-review-of-user-model-2026720/)
+append_entries: 3
+Finish: 2026-07-20 10:56:57.345895
