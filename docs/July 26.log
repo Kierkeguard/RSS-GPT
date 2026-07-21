@@ -1794,3 +1794,21 @@ Existing_entries: 328
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-07-21 03:16:22.340088
+------------------------------------------------------
+Started: 2026-07-21 06:33:16.454282
+Existing_entries: 328
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Financial Services Agency Of Japan And Tokyo Stock Exchange: Finalization Of The Corporate Governance Code (2026 Revision)](http://www.mondovisione.com/media-and-resources/news/financial-services-agency-of-japan-and-tokyo-stock-exchange-finalization-of-the-2026721/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASX Consults On Updated And Simplified Next Edition Of Corporate Governance Principles And Recommendations](http://www.mondovisione.com/media-and-resources/news/asx-consults-on-updated-and-simplified-next-edition-of-corporate-governance-prin-2026721/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Japan Financial Services Agency: The Expert Panel On The Revision Of The Corporate Governance Code](http://www.mondovisione.com/media-and-resources/news/japan-financial-services-agency-the-expert-panel-on-the-revision-of-the-corpora-2026721/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tokyo Stock Exchange: Corporate Governance Code (July 2026 Revision) Published](http://www.mondovisione.com/media-and-resources/news/tokyo-stock-exchange-corporate-governance-code-july-2026-revision-published-2026721/)
+append_entries: 4
+Finish: 2026-07-21 06:33:17.306772
