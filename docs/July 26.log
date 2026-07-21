@@ -1905,3 +1905,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [MIAX Options Exchange - Roll Out Schedule For August 2026 Enhancements](http://www.mondovisione.com/media-and-resources/news/miax-options-exchange-roll-out-schedule-for-august-2026-enhancements-2026721/)
 append_entries: 2
 Finish: 2026-07-21 21:14:54.504190
+------------------------------------------------------
+Started: 2026-07-21 23:01:11.181806
+Existing_entries: 355
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-07-21 23:01:12.012538
