@@ -1812,3 +1812,25 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Tokyo Stock Exchange: Corporate Governance Code (July 2026 Revision) Published](http://www.mondovisione.com/media-and-resources/news/tokyo-stock-exchange-corporate-governance-code-july-2026-revision-published-2026721/)
 append_entries: 4
 Finish: 2026-07-21 06:33:17.306772
+------------------------------------------------------
+Started: 2026-07-21 10:28:07.464591
+Existing_entries: 332
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NIMP CoSIF Expands Digitalisation Support With New Smart Manufacturing Scheme - Government To Contribute RM2 For Every RM1 Raised In New Strategic Scheme; Interim Ratio Boost For All Other Sectors](http://www.mondovisione.com/media-and-resources/news/nimp-cosif-expands-digitalisation-support-with-new-smart-manufacturing-scheme-2026721/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Clearstream And 360T Join Forces With International Offshore Sailing Team Malizia](http://www.mondovisione.com/media-and-resources/news/clearstream-and-360t-join-forces-with-international-offshore-sailing-team-malizi-2026721/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Puro.earth Certifies World's First Permanent Carbon Removal From Biogas Production, Developed By Inherit Carbon Solutions](http://www.mondovisione.com/media-and-resources/news/puroearth-certifies-worlds-first-permanent-carbon-removal-from-biogas-producti-2026721/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [G.H. Financials Deploys Baton’s Liquidity Management Platform To Unify Real-Time Cash, Margin And Collateral Visibility](http://www.mondovisione.com/media-and-resources/news/gh-financials-deploys-batons-liquidity-management-platform-to-unify-real-time-2026721/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange To Launch LSE 24](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-to-launch-lse-24-2026721/)
+Append: [CoinShares Launches Bitcoin Mining UCITS ETF, A Regulated, Diversified Route To Bitcoin Without Holding Bitcoin - Irish-Domiciled UCITS ETF Listing On Xetra On July 21, 2026 — Tracking the CoinShares Bitcoin Mining Index, A Quality-Scored Basket Of The World's Leading Listed Bitcoin Miners](http://www.mondovisione.com/media-and-resources/news/coinshares-launches-bitcoin-mining-ucits-etf-a-regulated-diversified-route-to-2026721/)
+append_entries: 6
+Finish: 2026-07-21 10:28:08.616424
