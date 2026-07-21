@@ -1834,3 +1834,18 @@ Append: [London Stock Exchange To Launch LSE 24](http://www.mondovisione.com/med
 Append: [CoinShares Launches Bitcoin Mining UCITS ETF, A Regulated, Diversified Route To Bitcoin Without Holding Bitcoin - Irish-Domiciled UCITS ETF Listing On Xetra On July 21, 2026 — Tracking the CoinShares Bitcoin Mining Index, A Quality-Scored Basket Of The World's Leading Listed Bitcoin Miners](http://www.mondovisione.com/media-and-resources/news/coinshares-launches-bitcoin-mining-ucits-etf-a-regulated-diversified-route-to-2026721/)
 append_entries: 6
 Finish: 2026-07-21 10:28:08.616424
+------------------------------------------------------
+Started: 2026-07-21 14:03:49.696878
+Existing_entries: 338
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER To Decide On The Minimum Activation Period Of Frequency Containment Reserves Providers](http://www.mondovisione.com/media-and-resources/news/acer-to-decide-on-the-minimum-activation-period-of-frequency-containment-reserve-2026721/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Fiserv To Power Embedded Banking And Payments For Datavault AI, Including Its NIL Exchange - Powering No-Cost Athlete Payment Wallets And Debit Cards On Datavault AI’s Planned NIL Exchange, With Embedded Banking Across The Information Data Exchange®](http://www.mondovisione.com/media-and-resources/news/fiserv-to-power-embedded-banking-and-payments-for-datavault-ai-including-its-ni-2026721/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SET Joins Forces With All Sectors To Strengthen Thai Supply Chain Amid Global Volatility](http://www.mondovisione.com/media-and-resources/news/set-joins-forces-with-all-sectors-to-strengthen-thai-supply-chain-amid-global-vo-2026721/)
+append_entries: 3
+Finish: 2026-07-21 14:03:51.036244
