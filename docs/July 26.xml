@@ -5,11 +5,94 @@
 <link>http://www.mondovisione.com/media-and-resources/news/</link>
 
 <item>
+<title>Moscow Exchange Changes The Tick Size From The 4th Of August 2026</title>
+<link>http://www.mondovisione.com/media-and-resources/news/moscow-exchange-changes-the-tick-size-from-the-4th-of-august-2026-2026721/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/moscow-exchange-changes-the-tick-size-from-the-4th-of-august-2026-2026721/</guid>
+<content:encoded><![CDATA[
+
+<p>To increase the effectiveness of equity market microstructure, MOEX establishes the new tick size and Decimals parameter for the <a href="https://fs.moex.com/f/23908/min-step-04-08-2026-eng.xlsx"><span style="text-decoration: underline;">following stocks</span></a> starting 4<sup>th</sup> August 2026 in the following trading modes:</p>
+<ul>
+<li>Main trading mode Т+ ("Т+1" order book)</li>
+<li>Odd lots trading mode</li>
+<li>Negotiated trades mode (NTM)</li>
+<li>NTM with CCP trading mode</li>
+</ul>
+<p>The new approach to setting the tick size was <a href="http://fs.moex.com/files/16989">approved</a> by the MOEX Securities Market committee.</p>
+<p>The methodology includes:</p>
+<ul>
+<li>The tick size equals (1,2,5)*10<sup>N</sup>, where N &ndash; integer;</li>
+<li>Increasing the number of price ranges to 25, and the ranges of liquidity - up to 7;</li>
+<li>For each liquidity range a recommended range price tick sizes in the spread is established;</li>
+<li>The maximum allowed relative tick size &ndash; 1%</li>
+</ul>
+<table>
+</table>
+<p>&nbsp;</p>
+]]></content:encoded>
+<pubDate>Tue, 21 Jul 2026 21:16:24 GMT</pubDate>
+<pubDate>Tue, 21 Jul 2026 21:16:24 GMT</pubDate>
+</item>
+<item>
+<title>MIAX Options Exchange - Roll Out Schedule For August 2026 Enhancements</title>
+<link>http://www.mondovisione.com/media-and-resources/news/miax-options-exchange-roll-out-schedule-for-august-2026-enhancements-2026721/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/miax-options-exchange-roll-out-schedule-for-august-2026-enhancements-2026721/</guid>
+<content:encoded><![CDATA[
+
+<p><span>As previously announced in the </span><a class="safe---anchor---wc" href="https://www.miaxglobal.com/alert/2026/03/30/miax-options-exchange-updated-mei-ais-and-foi-interface-specifications" rel="noopener noreferrer nofollow" target="_blank">March 30, 2026 Alert</a><span>, the MIAX Options Exchange will roll out the following functionality in August 2026:</span></p>
+<ol>
+<li><strong>Available Tuesday, August 25, 2026</strong><ol>
+<li><strong>Quote Width Relief Notification Functionality</strong><ol>
+<li>This optional feature allows members to subscribe to the &ldquo;Free Trading Quote Width Relief Notification&rdquo; to receive a real-time notification when MIAX grants relief to the valid quote width parameters during trading hours.</li>
+<li>This relief is only applicable for the current trading day.</li>
+<li>This enhancement is contained within the MEI Interface (v2.11) release.</li>
+<li><strong>This feature requires certification prior to being used in production.</strong></li>
+</ol></li>
+<li><strong>Mass Cancel Trigger Reason on Line Disconnect</strong><ol>
+<li>This optional feature allows members to receive a mass cancel trigger reason specific to Line Disconnect available in the &ldquo;Simple Quote or Complex Liquidity Protection Trigger Notification&rdquo;.</li>
+<li>This enhancement is contained within the MEI Interface (v2.11) release.</li>
+<li><strong>This feature requires certification prior to being used in production.</strong></li>
+</ol></li>
+<li><strong>Administrative Information Subscriber (AIS) Feed Update</strong><ol>
+<li>This enhancement allows members to identify the Origin of the liquidity that initiated a Liquidity Seeking Event (LSE) via the new &ldquo;Origin&rdquo; field in both the Simple and Complex Liquidity Seeking Event Notifications.</li>
+<li>Note that a blank Origin will be sent in the event an LSE is initiated by multiple liquidities with different origin types.</li>
+<li>This enhancement is contained within the AIS Interface (v2.6) release.</li>
+<li>On the date of activation, the updated Simple and Complex Liquidity Seeking Event Notifications with the new Origin field will replace the current version of each of these messages.</li>
+</ol></li>
+</ol></li>
+<li><strong>Available Monday, August 31, 2026</strong><ol>
+<li><strong>Selective Liquidity Auto Purge (SLAP) Functionality</strong><ol>
+<li>This optional feature enhances the Mass Cancellation functionality by providing members the ability to remove a subset of its quotes in the system atomically.&nbsp;</li>
+<li>With the introduction of a new field &ldquo;SLAP Codes&rdquo; in the Simple Bulk Quote Message, members can specify custom SLAP codes on some or all of its liquidity, providing more granular control of the Mass Liquidity Cancel Request when attempting to &ldquo;Selectively Purge&rdquo; specific targeted liquidity.</li>
+<li>This enhancement is contained within the MEI Interface (v2.11) release.</li>
+<li><strong>This feature requires certification prior to being used in production.</strong></li>
+</ol></li>
+<li><strong>Aggregate Risk Manager (ARM) Origin Multiplier Functionality</strong><ol>
+<li>This optional feature allows members to configure an &ldquo;ARM Origin Multiplier&rdquo; for each contra-side origin type. The multiplier will be applied to each ARM-eligible trade size based on the contra-side origin type, allowing members to establish a custom ARM profile individually weighted by contra-side origin type.&nbsp;</li>
+<li>Members wishing to only apply an Origin Multiplier to select origin types should set the origin types they do not wish to change to a value of 10 (i.e., use the original trade size with multiplier 1x).</li>
+<li>Note that for firms using old application protocols, their current settings will extend to all contra-types at 100% weightings by default.</li>
+<li>This enhancement is contained within the MEI Interface (v2.11) release.</li>
+<li><strong>This feature requires certification prior to being used in production.</strong></li>
+</ol></li>
+<li>As the SLAP and ARM Origin Multiplier enhancements are contained within the same MEI Interface (v2.11) release, firms looking to use the SLAP functionality must additionally code to the new ARM Settings Update Request (Message Type &ldquo;RS&rdquo;) or vice versa.</li>
+</ol></li>
+<li>Postponed to a Future Release<ol>
+<li><strong>Market Maker on PRIME/cPRIME Contra Functionality</strong><ol>
+<li>This optional feature would allow a Market Maker (MM) origin on the contra side of PRIME and cPRIME via the &ldquo;CustomerOrFirm&rdquo; field in the enhanced New Order Cross and New Order Cross Multileg messages.</li>
+<li>This enhancement will be removed from the FOI Interface (v2.7) release.This feature activation will be announced at a future date.</li>
+</ol></li>
+</ol></li>
+</ol>
+<p><span>Please contact MIAX Trading Operations at </span><a class="safe---anchor---wc" rel="noopener noreferrer nofollow">TradingOperations@miaxglobal.com</a><span> or (609) 897-7302 to discuss any specific issues, update configurations and to arrange interface testing.</span></p>
+]]></content:encoded>
+<pubDate>Tue, 21 Jul 2026 20:41:11 GMT</pubDate>
+<pubDate>Tue, 21 Jul 2026 20:41:11 GMT</pubDate>
+</item>
+
+<item>
 <title>Seeking Public Comment On Seeking Public Capital: Remarks Before The Small Business Capital Formation Advisory Committee, SEC Commissioner Hester M. Peirce, July 21, 2026</title>
 <link>http://www.mondovisione.com/media-and-resources/news/seeking-public-comment-on-seeking-public-capital-remarks-before-the-small-busin-2026721/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/seeking-public-comment-on-seeking-public-capital-remarks-before-the-small-busin-2026721/</guid>
 <content:encoded><![CDATA[
-
 <p>Good morning. I would like to welcome the Committee&rsquo;s new members and thank all of you for your continued work on behalf of investors and small issuers. And as always, thank you to the SEC&rsquo;s Office of the Advocate for Small Business Capital Formation for supporting this work and facilitating these meetings. Welcome back to former Committee member Sue Washer. I appreciate your and Dan Zinn&rsquo;s willingness to share your expertise as panelists with the Committee today.&nbsp;</p>
 <p>Today&rsquo;s topic&mdash;Modernizing Market Access and Encouraging IPOs and Small Public Company Capital Formation&mdash;is an important one. I look forward to the continuation of last meeting&rsquo;s fascinating discussion on the topic. I particularly enjoyed hearing Committee members&rsquo; thoughts and reactions to the panelists and look forward to recommendations that come out of these discussions.&nbsp;</p>
 <p>At the Committee&rsquo;s February meeting, I spoke about the value of our public markets and the unique benefits they offer companies, benefits that &ldquo;simply cannot be re-created privately.&rdquo;<span class="footnote__citations-wrapper"><a class="footnote__citation js-footnote-citation" href="https://www.sec.gov/newsroom/speeches-statements/peirce-remarks-small-business-capital-formation-advisory-committee-072126#footnote__4gLjYf8Ko2qDpoop9nro9JkJsWF43Gs3KU5vzgpD0w_1" id="footnoteref__4gLjYf8Ko2qDpoop9nro9JkJsWF43Gs3KU5vzgpD0w_1" title="Commissioner Hester M. Peirce, Primarily Secondaries: Remarks Before the Small Business Capital Formation Advisory Committee (February 24, 2026), https://www.sec.gov/newsroom/speeches-statements/peirce-022426-primarily-secondaries-remarks-small-business-capital-formation-advisory-committee.">1</a></span> This morning, I would like to focus on the Commission&rsquo;s recent efforts to extend those benefits to a broader range of issuers and the process behind those efforts.&nbsp;</p>
@@ -35,14 +118,12 @@
 </ul>
 ]]></content:encoded>
 <pubDate>Tue, 21 Jul 2026 18:16:34 GMT</pubDate>
-<pubDate>Tue, 21 Jul 2026 18:16:34 GMT</pubDate>
 </item>
 <item>
 <title>Remarks To The Small Business Capital Formation Advisory Committee, SEC Commissioner Mark T. Uyeda, Washington D.C., July 21, 2026</title>
 <link>http://www.mondovisione.com/media-and-resources/news/remarks-to-the-small-business-capital-formation-advisory-committee-sec-commissi-2026721/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/remarks-to-the-small-business-capital-formation-advisory-committee-sec-commissi-2026721/</guid>
 <content:encoded><![CDATA[
-
 <p>Good morning, and thank you all for being here.<a class="ck-anchor" href="https://www.sec.gov/newsroom/speeches-statements/uyeda-remarks-sbcfac-072126#_edn1" id="_ednref1">[1]</a> Before turning to today&rsquo;s agenda, I want to welcome the five new members who joined this Committee last month: Anya Coverman, Joseph Lucosky, Andrew Prystai, Rodrigo Seira, and Erik Syvertsen. You bring perspectives from portfolio alternatives, capital markets law, early-stage venture, and fund formation. I look forward to your future contributions and this Committee will be stronger for them.</p>
 <p>At the last meeting in April, I raised several concerns about barriers for small companies accessing public markets: fixed compliance costs, underwriter economics that disfavored smaller companies, and a regulatory framework calibrated for large issuers.<a class="ck-anchor" href="https://www.sec.gov/newsroom/speeches-statements/uyeda-remarks-sbcfac-072126#_edn2" id="_ednref2">[2]</a> Now I&rsquo;d like us to spend less time on diagnosis and more time on potential solutions. Thus, I am pleased that the Committee will be briefed on the three proposals moving through the Commission right now: expanding Form S-3 eligibility and taking other steps to modernize the registered offering process, enhancing emerging growth company accommodations and simplifying filer status, and providing options for companies and their shareholders to determine their optimal periodic reporting cycles, whether that be semiannual or quarterly. Today you will hear directly from the Division of Corporation Finance on these three specific reforms.</p>
 <p>Modernizing our rulebook is important. The Commission last took a hard look at improving the capital formation environment more than two decades ago. These proposals address concerns that our rules, forms, and guidance for public companies are outdated and disproportionately burdensome for smaller companies relative to benefits.</p>
@@ -64,14 +145,12 @@
 </div>
 ]]></content:encoded>
 <pubDate>Tue, 21 Jul 2026 18:21:17 GMT</pubDate>
-<pubDate>Tue, 21 Jul 2026 18:21:17 GMT</pubDate>
 </item>
 <item>
 <title>Mid-Year SIFMA Economist Council Survey Forecasts Solid 2.2% GDP Growth And The Fed Holding Rates Steady Through 2026</title>
 <link>http://www.mondovisione.com/media-and-resources/news/mid-year-sifma-economist-council-survey-forecasts-solid-22-gdp-growth-and-the-2026721/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/mid-year-sifma-economist-council-survey-forecasts-solid-22-gdp-growth-and-the-2026721/</guid>
 <content:encoded><![CDATA[
-
 <p>Today, the Securities Industry and Financial Markets Association (SIFMA) published the results of its Economist Council <a href="https://www.sifma.org/research/economics/us-economic-survey">semiannual survey</a>. The SIFMA Economist Council comprises U.S. economists from over 30 global and regional financial institutions. The survey assesses the current economic landscape and the outlook for inflation, labor markets, monetary policy, and more. The median outlook for 4Q/4Q growth in SIFMA&rsquo;s H1 2026 economic forecast stands at 2.2% for 2026, unchanged from the H2 2025 forecast, and 2.0% for 2027.</p>
 <p>&ldquo;The U.S. economic outlook has remained remarkably stable since our last survey despite rapidly evolving shocks and underlying structural changes,&rdquo; said Scott Anderson, Ph.D., Managing Director and Chief U.S. Economist at BMO Capital Markets and Co-Chair of the SIFMA Economist Council. &ldquo;The overall GDP growth outlook for 2026 remains resilient, but uneven, as robust AI-driven business investment overshadows consumers contending with slower job growth, deteriorating real disposable income growth, and diminished personal savings. It&rsquo;s important to acknowledge that 61% of respondents reported an elevated 15% to 30% chance of a negative quarter of GDP growth over the coming year, highlighting the unusual level of uncertainty that still exists in the economic outlook. Even so, the Economist Council generally sees a robust and resilient U.S. economic and labor market outlook through 2027 that continues to run at or slightly above its potential, as developments regarding the AI investment boom, equity valuations, productivity, and labor market impacts loom large.&rdquo;</p>
 <p>Key Takeaways:</p>
@@ -84,14 +163,12 @@
 <p>The full report can be found <a href="https://www.sifma.org/research/economics/us-economic-survey">here</a>.</p>
 ]]></content:encoded>
 <pubDate>Tue, 21 Jul 2026 18:23:17 GMT</pubDate>
-<pubDate>Tue, 21 Jul 2026 18:23:17 GMT</pubDate>
 </item>
 <item>
 <title>Remarks At The Small Business Capital Formation Advisory Committee Meeting, Paul S. Atkins, SEC Chairman, Washington D.C., July 21, 2026</title>
 <link>http://www.mondovisione.com/media-and-resources/news/remarks-at-the-small-business-capital-formation-advisory-committee-meeting-paul-2026721/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/remarks-at-the-small-business-capital-formation-advisory-committee-meeting-paul-2026721/</guid>
 <content:encoded><![CDATA[
-
 <div class="clearfix text-formatted usa-prose field field--name-body field--type-text-with-summary field--label-hidden field__item">
 <p>Good morning, ladies and gentlemen, and thank you for being here today.</p>
 <p>I should like to begin by extending a warm welcome to the Committee&rsquo;s new members&mdash;Anya Coverman, Joseph Lucosky, Andrew Prystai, Rodrigo Seira, and Erik Syvertsen. I am certain that your collective expertise and many contributions will prove invaluable as we work to widen pathways to capital for small businesses.</p>
@@ -118,14 +195,12 @@
 <div class="date-modified usa-prose"></div>
 ]]></content:encoded>
 <pubDate>Tue, 21 Jul 2026 18:18:54 GMT</pubDate>
-<pubDate>Tue, 21 Jul 2026 18:18:54 GMT</pubDate>
 </item>
 <item>
 <title>The ISDA Notices Hub: One Year On</title>
 <link>http://www.mondovisione.com/media-and-resources/news/the-isda-notices-hub-one-year-on-2026721/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/the-isda-notices-hub-one-year-on-2026721/</guid>
 <content:encoded><![CDATA[
-
 <p>In times of war, armed forces are often required to mobilize over large distances at short notice. The most dreaded response to the question of how they are to be transported is &lsquo;by LPC&rsquo;, meaning &lsquo;leather personnel carrier&rsquo; &ndash; the humble boot. Remarkably, until this time last year, the delivery of critical derivatives trade termination notices remained dependent on the exact same technology.</p>
 <p>Our market is renowned for its emphasis on speed: quant traders move their computers into exchanges to reduce time-to-execution, while trades are marked-to-market and collateral values monitored in real time. Against that backdrop, it seems surreal that once the decision to terminate a trading relationship following an event of default has been made, the only available method of execution has been to deliver a physical notice to the counterparty&rsquo;s office &ndash; no matter where that might be &ndash; by LPC.</p>
 <p>That&rsquo;s why ISDA launched the ISDA Notices Hub on S&amp;P&rsquo;s Counterparty Manager Platform one year ago. It enables instantaneous delivery of termination-related notices regardless of time or distance and provides recipients with an alert when a notice arrives. And because physical delivery of those and other types of notice might still be valuable, it facilitates address updates via a single entry that flows through to the agreements of all counterparties on the platform. Free to buy-side firms, with a protocol that&rsquo;s free to the buy and sell side, and with no systems build required, the adoption process has been designed to be as intuitive and painless as possible.</p>
@@ -136,9 +211,7 @@
 <p>Visit the <a href="https://www.isda.org/isda-solutions-infohub/">ISDA Solutions Hub</a> for more information.</p>
 ]]></content:encoded>
 <pubDate>Tue, 21 Jul 2026 18:26:30 GMT</pubDate>
-<pubDate>Tue, 21 Jul 2026 18:26:30 GMT</pubDate>
 </item>
-
 <item>
 <title>Ontario Securities Commission Investor Warnings And Alerts For June 30 – July 21, 2026</title>
 <link>http://www.mondovisione.com/media-and-resources/news/ontario-securities-commission-investor-warnings-and-alerts-for-june-30-july-21-2026721/</link>

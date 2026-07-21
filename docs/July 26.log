@@ -1893,3 +1893,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [The ISDA Notices Hub: One Year On](http://www.mondovisione.com/media-and-resources/news/the-isda-notices-hub-one-year-on-2026721/)
 append_entries: 5
 Finish: 2026-07-21 19:38:02.079670
+------------------------------------------------------
+Started: 2026-07-21 21:14:53.202651
+Existing_entries: 353
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Moscow Exchange Changes The Tick Size From The 4th Of August 2026](http://www.mondovisione.com/media-and-resources/news/moscow-exchange-changes-the-tick-size-from-the-4th-of-august-2026-2026721/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Options Exchange - Roll Out Schedule For August 2026 Enhancements](http://www.mondovisione.com/media-and-resources/news/miax-options-exchange-roll-out-schedule-for-august-2026-enhancements-2026721/)
+append_entries: 2
+Finish: 2026-07-21 21:14:54.504190
