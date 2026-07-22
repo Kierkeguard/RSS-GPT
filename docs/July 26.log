@@ -2005,3 +2005,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [MIAX Exchange Group - Options Markets - New Listings Effective For July 23, 2026](http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-options-markets-new-listings-effective-for-july-23-2026-2026722/)
 append_entries: 3
 Finish: 2026-07-22 19:26:45.535426
+------------------------------------------------------
+Started: 2026-07-22 21:13:52.794454
+Existing_entries: 379
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-07-22 21:13:53.976134
