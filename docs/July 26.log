@@ -1923,3 +1923,27 @@ Existing_entries: 355
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-07-22 06:33:18.674241
+------------------------------------------------------
+Started: 2026-07-22 10:29:25.376818
+Existing_entries: 355
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority: Arrests And Searches Made As Part Of A Fraud And Money Laundering Investigation](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-arrests-and-searches-made-as-part-of-a-fraud-and-2026722/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LME Clear Confirms The Appointment Of Chair Of The Board](http://www.mondovisione.com/media-and-resources/news/lme-clear-confirms-the-appointment-of-chair-of-the-board-2026722/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Prudential Regulation Authority Consults On Updated Guidance For Friendly Society Amalgamations And Transfers](http://www.mondovisione.com/media-and-resources/news/uk-prudential-regulation-authority-consults-on-updated-guidance-for-friendly-soc-2026722/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Eurex - Building Global Markets - 15 Years In Asia: From Access To Impact (Part 2)](http://www.mondovisione.com/media-and-resources/news/eurex-building-global-markets-15-years-in-asia-from-access-to-impact-part-2026722/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Anthropic To Support UK Financial Conduct Authority’s Supercharged Sandbox](http://www.mondovisione.com/media-and-resources/news/anthropic-to-support-uk-financial-conduct-authoritys-supercharged-sandbox-2026722/)
+Append: [BMLL And SIGMA AI Partner To Deliver Historically Benchmarked, Real-Time Execution Intelligence - BMLL's High-Fidelity Historical Order Book Data Will Act As The Analytical Foundation For SIGMA’s AI-Driven, Real-Time Alerting, Anomaly Detection And Decision Support](http://www.mondovisione.com/media-and-resources/news/bmll-and-sigma-ai-partner-to-deliver-historically-benchmarked-real-time-executi-2026722/)
+Append: [Bankruptcy Of Zentoshin: Press Conference By KATAYAMA Satsuki, Japan Minister Of Finance And Minister Of State For Financial Services](http://www.mondovisione.com/media-and-resources/news/bankruptcy-of-zentoshin-press-conference-by-katayama-satsuki-japan-minister-of-2026722/)
+Append: [ASIC Reminds Registered Company Auditors Of Their Obligations And Outlines Stronger Oversight](http://www.mondovisione.com/media-and-resources/news/asic-reminds-registered-company-auditors-of-their-obligations-and-outlines-stron-2026722/)
+append_entries: 8
+Finish: 2026-07-22 10:29:26.472551
