@@ -2101,3 +2101,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SEC Announces Roundtable On Preparations For 24-Hour Trading](http://www.mondovisione.com/media-and-resources/news/sec-announces-roundtable-on-preparations-for-24-hour-trading-2026723/)
 append_entries: 1
 Finish: 2026-07-23 17:27:57.708470
+------------------------------------------------------
+Started: 2026-07-23 19:24:55.433380
+Existing_entries: 401
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The EBA Consults On Rules To Further Improve Depositor Protection Under The Revised Deposit Guarantee Schemes Directive](http://www.mondovisione.com/media-and-resources/news/the-eba-consults-on-rules-to-further-improve-depositor-protection-under-the-revi-2026723/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Monetary Policy Statement: Christine Lagarde, President Of The ECB, Boris Vujčić, Vice-President Of The ECB](http://www.mondovisione.com/media-and-resources/news/monetary-policy-statement-christine-lagarde-president-of-the-ecb-boris-vuji-2026723/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ECB: Monetary Policy Decisions](http://www.mondovisione.com/media-and-resources/news/ecb-monetary-policy-decisions-2026723/)
+append_entries: 3
+Finish: 2026-07-23 19:24:56.505816
