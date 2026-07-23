@@ -2137,3 +2137,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Letter From The Bank Of England Governor To The Daily Mail - Letter From Governor Andrew Bailey To The Daily Mail On The Subject Of AI And Cyber-Attacks](http://www.mondovisione.com/media-and-resources/news/letter-from-the-bank-of-england-governor-to-the-daily-mail-letter-from-governo-2026723/)
 append_entries: 5
 Finish: 2026-07-23 21:08:58.699124
+------------------------------------------------------
+Started: 2026-07-23 23:00:37.176029
+Existing_entries: 409
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Extends Public Comment Period On Proposed Rule On The Extension Of Standard Futures Contracts To 24/7 Trading And On Perpetual Contracts Referencing Physically Delivered Or Storable Energy Commodities](http://www.mondovisione.com/media-and-resources/news/cftc-extends-public-comment-period-on-proposed-rule-on-the-extension-of-standard-2026723/)
+append_entries: 1
+Finish: 2026-07-23 23:00:38.442614
