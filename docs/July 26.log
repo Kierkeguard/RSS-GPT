@@ -2023,3 +2023,26 @@ Existing_entries: 379
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-07-23 03:20:47.568632
+------------------------------------------------------
+Started: 2026-07-23 06:34:02.282318
+Existing_entries: 379
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [From Strengthened Partnership To Shared Prosperity For Hong Kong And Malaysian Capital Markets, Remarks At Hong Kong Securities And Futures Commission And Securities Commission Malaysia’s Memorandum Of Understanding Signing Ceremony, Dr Kelvin Wong Chairman, Hong Kong Securities And Futures Commission](http://www.mondovisione.com/media-and-resources/news/from-strengthened-partnership-to-shared-prosperity-for-hong-kong-and-malaysian-c-2026723/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Seeks Feedback On Remaking Low-Volume Financial Market Relief](http://www.mondovisione.com/media-and-resources/news/asic-seeks-feedback-on-remaking-low-volume-financial-market-relief-2026723/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX Adds Bursa Malaysia As Recognised Stock Exchange](http://www.mondovisione.com/media-and-resources/news/hkex-adds-bursa-malaysia-as-recognised-stock-exchange-2026723/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Deepening Malaysia-Hong Kong Partnership To Unlock Cross-Border Market Synergies, Remarks At Hong Kong Securities And Futures Commission and Securities Commission Malaysia MoU Signing Ceremony, Ms Julia Leung, Hong Kong Securities And Futures Commission Chief Executive Officer](http://www.mondovisione.com/media-and-resources/news/deepening-malaysia-hong-kong-partnership-to-unlock-cross-border-market-synergies-2026723/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Hong Kong Securities And Futures Commission And Securities Commission Malaysia Sign MoU To Expand Mutual Recognition Of Funds And Facilitate Simplified Dual IPO Listing Framework](http://www.mondovisione.com/media-and-resources/news/hong-kong-securities-and-futures-commission-and-securities-commission-malaysia-s-2026723/)
+Append: [ASIC Moves To Simplify Sell-Side Research Guidance To Support Capital Raising Activity](http://www.mondovisione.com/media-and-resources/news/asic-moves-to-simplify-sell-side-research-guidance-to-support-capital-raising-ac-2026723/)
+Append: [BC Securities Commission Alleges Former B.C. Man Committed Multi-Million Dollar Fraud Involving Dozens Of Investors](http://www.mondovisione.com/media-and-resources/news/bc-securities-commission-alleges-former-bc-man-committed-multi-million-dollar-2026723/)
+append_entries: 7
+Finish: 2026-07-23 06:34:03.354441
