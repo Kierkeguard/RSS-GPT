@@ -2092,3 +2092,12 @@ Append: [Crypto’s Scaling Success: Coinbase Boosts Acceptance](http://www.mond
 Append: [ACER: Regulators Seek More Time To Decide On The Amendment To The Core Intraday Capacity Calculation Methodology](http://www.mondovisione.com/media-and-resources/news/regulators-seek-more-time-to-decide-on-the-amendment-to-the-core-intraday-capaci-2026723/)
 append_entries: 7
 Finish: 2026-07-23 14:11:52.149229
+------------------------------------------------------
+Started: 2026-07-23 17:27:56.647643
+Existing_entries: 400
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Announces Roundtable On Preparations For 24-Hour Trading](http://www.mondovisione.com/media-and-resources/news/sec-announces-roundtable-on-preparations-for-24-hour-trading-2026723/)
+append_entries: 1
+Finish: 2026-07-23 17:27:57.708470
