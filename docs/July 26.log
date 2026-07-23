@@ -2116,3 +2116,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ECB: Monetary Policy Decisions](http://www.mondovisione.com/media-and-resources/news/ecb-monetary-policy-decisions-2026723/)
 append_entries: 3
 Finish: 2026-07-23 19:24:56.505816
+------------------------------------------------------
+Started: 2026-07-23 21:08:57.537919
+Existing_entries: 404
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Chairman Selig Announces Agenda For July 29 Agricultural Advisory Committee Meeting In Washington](http://www.mondovisione.com/media-and-resources/news/chairman-selig-announces-agenda-for-july-29-agricultural-advisory-committee-meet-2026723/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Canadian Securities Administrators Proposes To Codify Higher Limits For Listed Issuer Financing Exemption After Strong Uptake](http://www.mondovisione.com/media-and-resources/news/anadian-securities-administrators-proposes-to-codify-higher-limits-for-listed-is-2026723/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Ontario Securities Commission Announces Allegations Against Craig Dunkerley (BG Wealth Group)](http://www.mondovisione.com/media-and-resources/news/ontario-securities-commission-announces-allegations-against-craig-dunkerley-bg-2026723/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ISDA derivatiViews: An Important Step Towards Efficient Reporting](http://www.mondovisione.com/media-and-resources/news/isda-derivativiews-an-important-step-towards-efficient-reporting-2026723/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Letter From The Bank Of England Governor To The Daily Mail - Letter From Governor Andrew Bailey To The Daily Mail On The Subject Of AI And Cyber-Attacks](http://www.mondovisione.com/media-and-resources/news/letter-from-the-bank-of-england-governor-to-the-daily-mail-letter-from-governo-2026723/)
+append_entries: 5
+Finish: 2026-07-23 21:08:58.699124
