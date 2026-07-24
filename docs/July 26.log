@@ -2238,3 +2238,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Nigerian Exchange Weekly Market Report For The Week Ended 24 July 2026](http://www.mondovisione.com/media-and-resources/news/nigerian-exchange-weekly-market-report-for-the-week-ended-24-july-2026-2026724/)
 append_entries: 1
 Finish: 2026-07-24 19:35:43.680997
+------------------------------------------------------
+Started: 2026-07-24 21:08:07.678699
+Existing_entries: 428
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Announces Mid-Month Open Short Interest Positions In Nasdaq Stocks As Of Settlement Date April 15, 2026](http://www.mondovisione.com/media-and-resources/news/nasdaq-announces-mid-month-open-short-interest-positions-in-nasdaq-stocks-as-of-2026724/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NYSE Group Consolidated Short Interest Report](http://www.mondovisione.com/media-and-resources/news/nyse-group-consolidated-short-interest-report-2026724/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Releases Advisory On Self-Certification Of An Event Contract Series](http://www.mondovisione.com/media-and-resources/news/cftc-releases-advisory-on-self-certification-of-an-event-contract-series-2026724/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Commitments Of Traders Reports Update](http://www.mondovisione.com/media-and-resources/news/cftc-commitments-of-traders-reports-update-2026724/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Staff Issues No-Action Position On Designated Contract Market Procedures](http://www.mondovisione.com/media-and-resources/news/cftc-staff-issues-no-action-position-on-designated-contract-market-procedures-2026724/)
+append_entries: 5
+Finish: 2026-07-24 21:08:08.792836
