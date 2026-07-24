@@ -2188,3 +2188,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [HKEX: Exchange Publishes Consultation Conclusions On Proposals To Enhance Listing Competitiveness](http://www.mondovisione.com/media-and-resources/news/hkex-exchange-publishes-consultation-conclusions-on-proposals-to-enhance-listin-2026724/)
 append_entries: 1
 Finish: 2026-07-24 13:53:56.610324
+------------------------------------------------------
+Started: 2026-07-24 15:27:56.649906
+Existing_entries: 416
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ICE First Look At Mortgage Performance: New Default Activity Posts Annual Decline Led By FHA Loans](http://www.mondovisione.com/media-and-resources/news/ice-first-look-at-mortgage-performance-new-default-activity-posts-annual-declin-2026724/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Malawi Stock Exchange Weekly Summary Report, 24 July 2026](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-24-july-2026-2026724/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER: High Energy Bills And Fixed Contracts Continue To Prevail In EU Retail Energy Markets](http://www.mondovisione.com/media-and-resources/news/acer-high-energy-bills-and-fixed-contracts-continue-to-prevail-in-eu-retail-ene-2026724/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Circular On Releasing The Contract Specifications Of Hot Rolled Coils Options And Stainless Steel Options Of The Shanghai Futures Exchange](http://www.mondovisione.com/media-and-resources/news/circular-on-releasing-the-contract-specifications-of-hot-rolled-coils-options-an-2026724/)
+append_entries: 4
+Finish: 2026-07-24 15:27:57.945209
