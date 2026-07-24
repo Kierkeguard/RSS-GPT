@@ -2229,3 +2229,12 @@ Append: [Borsa Istanbul: BIST Sustainability Themed Debt Securities Indices Peri
 Append: [ECB To Extend Use Of Climate Factors In Eurosystem Collateral Framework To Non-Financial Corporate Credit Claims](http://www.mondovisione.com/media-and-resources/news/ecb-to-extend-use-of-climate-factors-in-eurosystem-collateral-framework-to-non-f-2026724/)
 append_entries: 7
 Finish: 2026-07-24 17:41:27.001276
+------------------------------------------------------
+Started: 2026-07-24 19:35:42.603428
+Existing_entries: 427
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nigerian Exchange Weekly Market Report For The Week Ended 24 July 2026](http://www.mondovisione.com/media-and-resources/news/nigerian-exchange-weekly-market-report-for-the-week-ended-24-july-2026-2026724/)
+append_entries: 1
+Finish: 2026-07-24 19:35:43.680997
