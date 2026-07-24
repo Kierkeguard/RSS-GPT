@@ -2179,3 +2179,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Bitcoin Whipsaws On Regulatory Headlines As Market Awaits Clarity Act Vote](http://www.mondovisione.com/media-and-resources/news/bitcoin-whipsaws-on-regulatory-headlines-as-market-awaits-clarity-act-vote-2026724/)
 append_entries: 1
 Finish: 2026-07-24 10:23:22.228465
+------------------------------------------------------
+Started: 2026-07-24 13:53:55.455722
+Existing_entries: 415
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX: Exchange Publishes Consultation Conclusions On Proposals To Enhance Listing Competitiveness](http://www.mondovisione.com/media-and-resources/news/hkex-exchange-publishes-consultation-conclusions-on-proposals-to-enhance-listin-2026724/)
+append_entries: 1
+Finish: 2026-07-24 13:53:56.610324
