@@ -2152,3 +2152,21 @@ Existing_entries: 410
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-07-24 03:14:54.327875
+------------------------------------------------------
+Started: 2026-07-24 06:29:38.338513
+Existing_entries: 410
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASX: Retirement Of Chief Financial Officer](http://www.mondovisione.com/media-and-resources/news/asx-retirement-of-chief-financial-officer-2026724/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Monetary Authority Of Singapore And Bank Of Thailand Sign Memorandum Of Understanding On Cybersecurity Cooperation And Digital Fraud Protection](http://www.mondovisione.com/media-and-resources/news/monetary-authority-of-singapore-and-bank-of-thailand-sign-memorandum-of-understa-2026724/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Zealand Financial Markets Authority: Chance Voight Companies Placed In Liquidation](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-chance-voight-companies-placed-in-liqui-2026724/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [For Examiner Eyes Only: The Safest Ways For Financial Institutions To Share Sensitive Information](http://www.mondovisione.com/media-and-resources/news/for-examiner-eyes-only-the-safest-ways-for-financial-institutions-to-share-sens-2026724/)
+append_entries: 4
+Finish: 2026-07-24 06:29:39.133997
