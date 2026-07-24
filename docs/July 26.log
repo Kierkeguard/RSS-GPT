@@ -2170,3 +2170,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [For Examiner Eyes Only: The Safest Ways For Financial Institutions To Share Sensitive Information](http://www.mondovisione.com/media-and-resources/news/for-examiner-eyes-only-the-safest-ways-for-financial-institutions-to-share-sens-2026724/)
 append_entries: 4
 Finish: 2026-07-24 06:29:39.133997
+------------------------------------------------------
+Started: 2026-07-24 10:23:21.309151
+Existing_entries: 414
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bitcoin Whipsaws On Regulatory Headlines As Market Awaits Clarity Act Vote](http://www.mondovisione.com/media-and-resources/news/bitcoin-whipsaws-on-regulatory-headlines-as-market-awaits-clarity-act-vote-2026724/)
+append_entries: 1
+Finish: 2026-07-24 10:23:22.228465
