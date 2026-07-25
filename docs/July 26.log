@@ -2289,3 +2289,12 @@ Existing_entries: 433
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-07-25 11:14:56.918928
+------------------------------------------------------
+Started: 2026-07-25 13:44:49.653133
+Existing_entries: 433
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tehran Securities Exchange Holds General Assembly](http://www.mondovisione.com/media-and-resources/news/tehran-securities-exchange-holds-general-assembly-2026725/)
+append_entries: 1
+Finish: 2026-07-25 13:44:50.791983
