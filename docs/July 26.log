@@ -2298,3 +2298,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Tehran Securities Exchange Holds General Assembly](http://www.mondovisione.com/media-and-resources/news/tehran-securities-exchange-holds-general-assembly-2026725/)
 append_entries: 1
 Finish: 2026-07-25 13:44:50.791983
+------------------------------------------------------
+Started: 2026-07-25 15:07:20.238693
+Existing_entries: 434
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-07-25 15:07:21.322120
