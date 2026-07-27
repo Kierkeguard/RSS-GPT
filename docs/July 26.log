@@ -2472,3 +2472,21 @@ Existing_entries: 452
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-07-27 19:41:28.555427
+------------------------------------------------------
+Started: 2026-07-27 21:15:33.290001
+Existing_entries: 452
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Swaps Report Update](http://www.mondovisione.com/media-and-resources/news/cftc-swaps-report-update-2026727/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [S&P Global Market Intelligence Data | Top 10 Most Shorted Stocks In The US](http://www.mondovisione.com/media-and-resources/news/sandp-global-market-intelligence-data-top-10-most-shorted-stocks-in-the-us-2026727/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Comptroller Of The US Currency Gould Highlights OCC’s Financial Literacy Efforts At Financial Literacy And Education Commission Meeting](http://www.mondovisione.com/media-and-resources/news/comptroller-of-the-us-currency-gould-highlights-occs-financial-literacy-efforts-2026727/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Traders Drive Strong Demand In First Weekend Of CME Group's 24/7 Gold Futures](http://www.mondovisione.com/media-and-resources/news/traders-drive-strong-demand-in-first-weekend-of-cme-groups-247-gold-futures-2026727/)
+append_entries: 4
+Finish: 2026-07-27 21:15:34.578658
