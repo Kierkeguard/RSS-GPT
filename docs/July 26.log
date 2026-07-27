@@ -2490,3 +2490,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Traders Drive Strong Demand In First Weekend Of CME Group's 24/7 Gold Futures](http://www.mondovisione.com/media-and-resources/news/traders-drive-strong-demand-in-first-weekend-of-cme-groups-247-gold-futures-2026727/)
 append_entries: 4
 Finish: 2026-07-27 21:15:34.578658
+------------------------------------------------------
+Started: 2026-07-27 23:07:45.684349
+Existing_entries: 456
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC: Small Business Forum’s Report To Congress Highlights Recommendations To Improve Capital-Raising Policy](http://www.mondovisione.com/media-and-resources/news/sec-small-business-forums-report-to-congress-highlights-recommendations-to-imp-2026727/)
+append_entries: 1
+Finish: 2026-07-27 23:07:47.156758
