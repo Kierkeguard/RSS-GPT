@@ -2391,3 +2391,21 @@ Existing_entries: 435
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-07-27 03:35:44.408226
+------------------------------------------------------
+Started: 2026-07-27 07:37:19.298278
+Existing_entries: 435
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX Enhances Product Offering With Zhongji InnoLight Debut](http://www.mondovisione.com/media-and-resources/news/hkex-enhances-product-offering-with-zhongji-innolight-debut-2026727/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [JPX Market Innovation & Research, Inc. Adds New Ownership Datasets To J-Quants Pro](http://www.mondovisione.com/media-and-resources/news/jpx-market-innovation-and-research-inc-adds-new-ownership-datasets-to-j-quants-p-2026727/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Monetary Authority Of Singapore Monetary Policy Statement - July 2026](http://www.mondovisione.com/media-and-resources/news/monetary-authority-of-singapore-monetary-policy-statement-july-2026-2026727/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Amman Stock Exchange Requests Listed Companies To File Interim Financial Statements Of The Second Quarter 2026 Before The End Of The Specified Date](http://www.mondovisione.com/media-and-resources/news/the-amman-stock-exchange-requests-listed-companies-to-file-interim-financial-sta-2026727/)
+append_entries: 4
+Finish: 2026-07-27 07:37:20.410328
