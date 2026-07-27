@@ -2445,3 +2445,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Market Participant Firms Making Significant Progress Toward U.S. Treasury Cash Clearing Deadline, According To Latest DTCC Survey](http://www.mondovisione.com/media-and-resources/news/market-participant-firms-making-significant-progress-toward-us-treasury-cash-c-2026727/)
 append_entries: 4
 Finish: 2026-07-27 14:46:10.262157
+------------------------------------------------------
+Started: 2026-07-27 17:46:21.333482
+Existing_entries: 447
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Stability Matters: Latest News From The FSB - July 2026](http://www.mondovisione.com/media-and-resources/news/stability-matters-latest-news-from-the-fsb-july-2026-2026727/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESMA Authorises EuroCTP As The Consolidated Tape Provider For Shares And Exchange-Traded Funds](http://www.mondovisione.com/media-and-resources/news/esma-authorises-euroctp-as-the-consolidated-tape-provider-for-shares-and-exchang-2026727/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [First Point Lists On Euronext](http://www.mondovisione.com/media-and-resources/news/first-point-lists-on-euronext-2026727/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Announcement On Amendments Regarding Debt Securities Market Procedure, Swap Market Procedure And Borsa İstanbul Money Market Procedure](http://www.mondovisione.com/media-and-resources/news/announcement-on-amendments-regarding-debt-securities-market-procedure-swap-mark-2026727/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CCP Global Publishes Its Summer 2026 Newsletter](http://www.mondovisione.com/media-and-resources/news/ccp-global-publishes-its-summer-2026-newsletter-2026727/)
+append_entries: 5
+Finish: 2026-07-27 17:46:22.841658
