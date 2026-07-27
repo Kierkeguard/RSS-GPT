@@ -2409,3 +2409,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [The Amman Stock Exchange Requests Listed Companies To File Interim Financial Statements Of The Second Quarter 2026 Before The End Of The Specified Date](http://www.mondovisione.com/media-and-resources/news/the-amman-stock-exchange-requests-listed-companies-to-file-interim-financial-sta-2026727/)
 append_entries: 4
 Finish: 2026-07-27 07:37:20.410328
+------------------------------------------------------
+Started: 2026-07-27 11:29:31.704281
+Existing_entries: 439
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [You Don't Need To Pay To Claim: UK Financial Conduct Authority Launches Nationwide Car Finance Campaign](http://www.mondovisione.com/media-and-resources/news/you-dont-need-to-pay-to-claim-uk-financial-conduct-authority-launches-nationwi-2026727/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ETFGI Reports Global Active ETFs Gather Record US$500.88 Billion In YTD Net Inflows As Assets Climb to US$2.56 Trillion At The End Of June](http://www.mondovisione.com/media-and-resources/news/etfgi-reports-global-active-etfs-gather-record-us50088-billion-in-ytd-net-infl-2026727/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UmweltBank Launches Three New ETFs Tracking The Solactive Sustainable Indices](http://www.mondovisione.com/media-and-resources/news/umweltbank-launches-three-new-etfs-tracking-the-solactive-sustainable-indices-2026727/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The WFE Launches New Academic Journal For Exchange And Post-Trade Research - The Journal Of Exchanges, Clearing & Settlement (JECS) Will Provide A Forum For Research On Financial Market Infrastructure From Academics, Practitioners And Policymakers](http://www.mondovisione.com/media-and-resources/news/the-wfe-launches-new-academic-journal-for-exchange-and-post-trade-research-the-2026727/)
+append_entries: 4
+Finish: 2026-07-27 11:29:32.725297
