@@ -2466,3 +2466,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CCP Global Publishes Its Summer 2026 Newsletter](http://www.mondovisione.com/media-and-resources/news/ccp-global-publishes-its-summer-2026-newsletter-2026727/)
 append_entries: 5
 Finish: 2026-07-27 17:46:22.841658
+------------------------------------------------------
+Started: 2026-07-27 19:41:27.499696
+Existing_entries: 452
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-07-27 19:41:28.555427
