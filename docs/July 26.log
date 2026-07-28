@@ -2505,3 +2505,21 @@ Existing_entries: 457
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-07-28 02:51:46.127128
+------------------------------------------------------
+Started: 2026-07-28 06:30:31.790051
+Existing_entries: 457
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [DIGITEC Launches D3 DataHub For Connectivity To Multiple Market Data Providers](http://www.mondovisione.com/media-and-resources/news/digitec-launches-d3-datahub-for-connectivity-to-multiple-market-data-providers-2026728/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Japan Exchange Group, Inc. And Consolidated Subsidiaries Consolidated Financial Results For The Three Months Ended June 30, 2026 (Based On IFRS), Unaudited](http://www.mondovisione.com/media-and-resources/news/japan-exchange-group-inc-and-consolidated-subsidiaries-consolidated-financial-2026728/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC: Harvey Norman And Latitude Ordered To Pay Combined $55 Million Penalties For Misleading Customers](http://www.mondovisione.com/media-and-resources/news/asic-harvey-norman-and-latitude-ordered-to-pay-combined-55-million-penalties-f-2026728/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Zealand Financial Markets Authority Chief Executive Samantha Barrass Keynote Speech To Financial Advice NZ Policy Summit](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-chief-executive-samantha-barrass-keynote-2026728/)
+append_entries: 4
+Finish: 2026-07-28 06:30:32.654677
