@@ -2535,3 +2535,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [HELIOS SOLAR AG New In The General Standard Of The Frankfurt Stock Exchange](http://www.mondovisione.com/media-and-resources/news/helios-solar-ag-new-in-the-general-standard-of-the-frankfurt-stock-exchange-2026728/)
 append_entries: 2
 Finish: 2026-07-28 10:39:56.736914
+------------------------------------------------------
+Started: 2026-07-28 14:20:23.340544
+Existing_entries: 463
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [S&P Global Reports Second Quarter Results](http://www.mondovisione.com/media-and-resources/news/sandp-global-reports-second-quarter-results-2026728/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Acuiti And TS Imagine Report: Leverage Constraints And Margin Frustrations Open The Door To New Prime Brokerage Entrants](http://www.mondovisione.com/media-and-resources/news/acuiti-and-ts-imagine-report-leverage-constraints-and-margin-frustrations-open-2026728/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Rothera Implements Eventus Validus Platform For Mission-Critical Trade Surveillance Of Event Contract Exchange](http://www.mondovisione.com/media-and-resources/news/rothera-implements-eventus-validus-platform-for-mission-critical-trade-surveilla-2026728/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Guidotti Ships Lists On Euronext](http://www.mondovisione.com/media-and-resources/news/guidotti-ships-lists-on-euronext-2026728/)
+append_entries: 4
+Finish: 2026-07-28 14:20:24.626436
