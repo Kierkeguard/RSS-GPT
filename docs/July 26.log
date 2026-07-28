@@ -2571,3 +2571,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Save By Registering Before July 29 For The 7th Annual ETFGI Global ETFs Insights Summit - Asia Pacific On Sept 9th In Hong Kong And 10th Virtually](http://www.mondovisione.com/media-and-resources/news/save-by-registering-before-july-29-for-the-7th-annual-etfgi-global-etfs-insight-2026728/)
 append_entries: 4
 Finish: 2026-07-28 17:38:30.272123
+------------------------------------------------------
+Started: 2026-07-28 19:38:51.921966
+Existing_entries: 471
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Interactive Brokers Opens AI Connectivity To Any Tool Built On The MCP Standard - Clients Can Now Connect Their Accounts To The AI Tools They Already Use, Built On The Open Model Context Protocol Standard](http://www.mondovisione.com/media-and-resources/news/interactive-brokers-opens-ai-connectivity-to-any-tool-built-on-the-mcp-standard-2026728/)
+append_entries: 1
+Finish: 2026-07-28 19:38:53.007516
