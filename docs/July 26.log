@@ -2553,3 +2553,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Guidotti Ships Lists On Euronext](http://www.mondovisione.com/media-and-resources/news/guidotti-ships-lists-on-euronext-2026728/)
 append_entries: 4
 Finish: 2026-07-28 14:20:24.626436
+------------------------------------------------------
+Started: 2026-07-28 17:38:28.978476
+Existing_entries: 467
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Ontario Securities Commission  Finds Growing Awareness, Ownership And Optimism Toward Crypto Assets](http://www.mondovisione.com/media-and-resources/news/ontario-securities-commission-finds-growing-awareness-ownership-and-optimism-t-2026728/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [DIFC Records Industry Leading Achievements In H1 2026 - Reinforcing Its Position As The Region's Leading Global Financial Centre](http://www.mondovisione.com/media-and-resources/news/difc-records-industry-leading-achievements-in-h1-2026-reinforcing-its-position-2026728/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euronext Athens: Commencement Of Trading Of Aktor’s New Shares](http://www.mondovisione.com/media-and-resources/news/euronext-athens-commencement-of-trading-of-aktors-new-shares-2026728/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Save By Registering Before July 29 For The 7th Annual ETFGI Global ETFs Insights Summit - Asia Pacific On Sept 9th In Hong Kong And 10th Virtually](http://www.mondovisione.com/media-and-resources/news/save-by-registering-before-july-29-for-the-7th-annual-etfgi-global-etfs-insight-2026728/)
+append_entries: 4
+Finish: 2026-07-28 17:38:30.272123
