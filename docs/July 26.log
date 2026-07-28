@@ -2523,3 +2523,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [New Zealand Financial Markets Authority Chief Executive Samantha Barrass Keynote Speech To Financial Advice NZ Policy Summit](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-chief-executive-samantha-barrass-keynote-2026728/)
 append_entries: 4
 Finish: 2026-07-28 06:30:32.654677
+------------------------------------------------------
+Started: 2026-07-28 10:39:54.659504
+Existing_entries: 461
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FTSE EU SAS Receives ESMA Authorisation For Endorsement Of Third-Country Benchmarks Under The EU Benchmark Regulation](http://www.mondovisione.com/media-and-resources/news/ftse-eu-sas-receives-esma-authorisation-for-endorsement-of-third-country-benchma-2026728/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HELIOS SOLAR AG New In The General Standard Of The Frankfurt Stock Exchange](http://www.mondovisione.com/media-and-resources/news/helios-solar-ag-new-in-the-general-standard-of-the-frankfurt-stock-exchange-2026728/)
+append_entries: 2
+Finish: 2026-07-28 10:39:56.736914
