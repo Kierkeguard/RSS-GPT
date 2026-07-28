@@ -2580,3 +2580,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Interactive Brokers Opens AI Connectivity To Any Tool Built On The MCP Standard - Clients Can Now Connect Their Accounts To The AI Tools They Already Use, Built On The Open Model Context Protocol Standard](http://www.mondovisione.com/media-and-resources/news/interactive-brokers-opens-ai-connectivity-to-any-tool-built-on-the-mcp-standard-2026728/)
 append_entries: 1
 Finish: 2026-07-28 19:38:53.007516
+------------------------------------------------------
+Started: 2026-07-28 21:12:19.816489
+Existing_entries: 472
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-07-28 21:12:20.793188
