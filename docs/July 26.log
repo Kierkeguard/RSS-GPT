@@ -2668,3 +2668,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Borsa İstanbul’s Opening Bell Rang For Albayrak Hazır Beton Sanayi ve Ticaret A.Ş.](http://www.mondovisione.com/media-and-resources/news/borsa-istanbuls-opening-bell-rang-for-albayrak-hazr-beton-sanayi-ve-ticaret-a-2026729/)
 append_entries: 2
 Finish: 2026-07-29 17:19:15.743067
+------------------------------------------------------
+Started: 2026-07-29 19:23:51.700744
+Existing_entries: 488
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Federal Reserve Issues FOMC Statement](http://www.mondovisione.com/media-and-resources/news/federal-reserve-issues-fomc-statement-2026729/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Canadian Securities Administrators And Canadian Investment Regulatory Organization  Issue Guidance On Foreign-Listed ETF Practices](http://www.mondovisione.com/media-and-resources/news/canadian-securities-administrators-and-canadian-investment-regulatory-organizati-2026729/)
+append_entries: 2
+Finish: 2026-07-29 19:23:52.998028
