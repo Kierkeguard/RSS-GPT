@@ -2598,3 +2598,18 @@ Existing_entries: 472
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-07-29 03:11:41.265180
+------------------------------------------------------
+Started: 2026-07-29 06:35:19.847734
+Existing_entries: 472
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [JPX Market Innovation & Research, Inc. To Launch Daily Distribution Service For Outstanding Margin Trading By Issue](http://www.mondovisione.com/media-and-resources/news/jpx-market-innovation-and-research-inc-to-launch-daily-distribution-service-for-2026729/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SGX Stock Exchange Welcomes EGP Energy Corporation Limited To Mainboard](http://www.mondovisione.com/media-and-resources/news/sgx-stock-exchange-welcomes-egp-energy-corporation-limited-to-mainboard-2026729/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC: Hidden Mortgage Offset Failures Costing Australians Millions In Lost Interest Savings](http://www.mondovisione.com/media-and-resources/news/asic-hidden-mortgage-offset-failures-costing-australians-millions-in-lost-inter-2026729/)
+append_entries: 3
+Finish: 2026-07-29 06:35:21.050892
