@@ -2656,3 +2656,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Oxford Risk Partners With Nomo To Power Risk Suitability Assessment For New Sharia-Compliant Investments Proposition](http://www.mondovisione.com/media-and-resources/news/oxford-risk-partners-with-nomo-to-power-risk-suitability-assessment-for-new-shar-2026729/)
 append_entries: 5
 Finish: 2026-07-29 14:20:24.063921
+------------------------------------------------------
+Started: 2026-07-29 17:19:14.936174
+Existing_entries: 486
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Initial Prospectus For Access To BME Scaleup By Rentas Noblejas 3 SOCIMI](http://www.mondovisione.com/media-and-resources/news/new-initial-prospectus-for-access-to-bme-scaleup-by-rentas-noblejas-3-socimi-2026729/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Borsa İstanbul’s Opening Bell Rang For Albayrak Hazır Beton Sanayi ve Ticaret A.Ş.](http://www.mondovisione.com/media-and-resources/news/borsa-istanbuls-opening-bell-rang-for-albayrak-hazr-beton-sanayi-ve-ticaret-a-2026729/)
+append_entries: 2
+Finish: 2026-07-29 17:19:15.743067
