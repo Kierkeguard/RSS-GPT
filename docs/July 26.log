@@ -2680,3 +2680,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Canadian Securities Administrators And Canadian Investment Regulatory Organization  Issue Guidance On Foreign-Listed ETF Practices](http://www.mondovisione.com/media-and-resources/news/canadian-securities-administrators-and-canadian-investment-regulatory-organizati-2026729/)
 append_entries: 2
 Finish: 2026-07-29 19:23:52.998028
+------------------------------------------------------
+Started: 2026-07-29 21:01:22.950006
+Existing_entries: 490
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Robinhood Reports Second Quarter 2026 Results](http://www.mondovisione.com/media-and-resources/news/robinhood-reports-second-quarter-2026-results-2026729/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Clear Street Promotes Senior Leaders From Within For Next Phase Of Growth](http://www.mondovisione.com/media-and-resources/news/clear-street-promotes-senior-leaders-from-within-for-next-phase-of-growth-2026729/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Digital Prime Technologies Announces Continued Expansion Of Its Digital Asset Financing Marketplace As Leading Global Institutions Accelerate Adoption - Launch Partners Bring More Than $1 Billion Both In Inventory And Demand To Tokenet, Following Strategic Investment From And Partnership With EquiLend](http://www.mondovisione.com/media-and-resources/news/digital-prime-technologies-announces-continued-expansion-of-its-digital-asset-fi-2026729/)
+append_entries: 3
+Finish: 2026-07-29 21:01:24.933948
