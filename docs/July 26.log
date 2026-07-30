@@ -2707,3 +2707,25 @@ Existing_entries: 493
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-07-30 02:44:03.315647
+------------------------------------------------------
+Started: 2026-07-30 06:32:13.018687
+Existing_entries: 493
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Chair Sarah Court Speaks At Mortgage Offset Press Conference - Press Conference Was Held On 29 July 2026](http://www.mondovisione.com/media-and-resources/news/asic-chair-sarah-court-speaks-at-mortgage-offset-press-conference-press-confer-2026730/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SGX Stock Exchange Welcomes Ambiq Micro, Inc. To Mainboard](http://www.mondovisione.com/media-and-resources/news/sgx-stock-exchange-welcomes-ambiq-micro-inc-to-mainboard-2026730/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Announces Changes To Net Tangible Assets Requirement For Responsible Entities](http://www.mondovisione.com/media-and-resources/news/asic-announces-changes-to-net-tangible-assets-requirement-for-responsible-entiti-2026730/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Japan Financial Services Agency: Publication Of Analytical Report On IT Resilience In The Financial Sector](http://www.mondovisione.com/media-and-resources/news/japan-financial-services-agency-publication-of-analytical-report-on-it-resilien-2026730/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Paves The Way For Greater Transparency Of Listed Entity Ownership And Control](http://www.mondovisione.com/media-and-resources/news/asic-paves-the-way-for-greater-transparency-of-listed-entity-ownership-and-contr-2026730/)
+Append: [Remarks At Agricultural Advisory Committee Meeting, CFTC Chairman Michael S. Selig, Washington, DC | July 29, 2026](http://www.mondovisione.com/media-and-resources/news/remarks-at-agricultural-advisory-committee-meeting-cftc-chairman-michael-s-sel-2026730/)
+append_entries: 6
+Finish: 2026-07-30 06:32:14.393238
