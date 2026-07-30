@@ -2815,3 +2815,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [MIAX Options Exchange - Updated AIS Interface Specification And Implementation Schedule For Upcoming Enhancements](http://www.mondovisione.com/media-and-resources/news/miax-options-exchange-updated-ais-interface-specification-and-implementation-s-2026730/)
 append_entries: 2
 Finish: 2026-07-30 21:15:37.783828
+------------------------------------------------------
+Started: 2026-07-30 23:11:40.826656
+Existing_entries: 521
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-07-30 23:11:41.804361
