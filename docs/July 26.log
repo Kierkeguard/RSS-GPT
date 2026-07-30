@@ -2803,3 +2803,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ISDA - The Swap - Episode 59: Reducing Burdens](http://www.mondovisione.com/media-and-resources/news/isda-the-swap-episode-59-reducing-burdens-2026730/)
 append_entries: 2
 Finish: 2026-07-30 19:39:43.297785
+------------------------------------------------------
+Started: 2026-07-30 21:15:36.789069
+Existing_entries: 519
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Office Of The Comptroller Of The Currency Releases CRA Performance Evaluations For 14 National Banks And Federal Savings Associations](http://www.mondovisione.com/media-and-resources/news/office-of-the-comptroller-of-the-currency-releases-cra-performance-evaluations-f-2026730/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Options Exchange - Updated AIS Interface Specification And Implementation Schedule For Upcoming Enhancements](http://www.mondovisione.com/media-and-resources/news/miax-options-exchange-updated-ais-interface-specification-and-implementation-s-2026730/)
+append_entries: 2
+Finish: 2026-07-30 21:15:37.783828
