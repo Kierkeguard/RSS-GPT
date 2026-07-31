@@ -2852,3 +2852,21 @@ Append: [CatalX And CEO Settle With Alberta Securities Commission For Breaches O
 Append: [SIFMA Publishes U.S. Treasury Done-Away Securities Clearing Agreement](http://www.mondovisione.com/media-and-resources/news/sifma-publishes-us-treasury-done-away-securities-clearing-agreement-2026731/)
 append_entries: 9
 Finish: 2026-07-31 06:48:59.607888
+------------------------------------------------------
+Started: 2026-07-31 10:43:46.011789
+Existing_entries: 530
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [European Outlet Mall Platform Raises €750 Million In Inaugural Green Bond](http://www.mondovisione.com/media-and-resources/news/european-outlet-mall-platform-raises-750-million-in-inaugural-green-bond-2026731/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Advances Package Of Equity Market Transparency Reforms](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-advances-package-of-equity-market-transparency-re-2026731/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Market Comment From Alexandre Schmidt, Equity Index Manager At CoinShares](http://www.mondovisione.com/media-and-resources/news/market-comment-from-alexandre-schmidt-equity-index-manager-at-coinshares-2026731/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Asset Management One Launches ETF Tracking The Solactive JGB Futures Short Index](http://www.mondovisione.com/media-and-resources/news/asset-management-one-launches-etf-tracking-the-solactive-jgb-futures-short-index-2026731/)
+append_entries: 4
+Finish: 2026-07-31 10:43:47.265772
