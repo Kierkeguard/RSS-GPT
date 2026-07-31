@@ -2870,3 +2870,27 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Asset Management One Launches ETF Tracking The Solactive JGB Futures Short Index](http://www.mondovisione.com/media-and-resources/news/asset-management-one-launches-etf-tracking-the-solactive-jgb-futures-short-index-2026731/)
 append_entries: 4
 Finish: 2026-07-31 10:43:47.265772
+------------------------------------------------------
+Started: 2026-07-31 14:19:24.772874
+Existing_entries: 534
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Chicago Business Barometer™ - Advanced To 57.6 In July](http://www.mondovisione.com/media-and-resources/news/chicago-business-barometer-advanced-to-576-in-july-2026731/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX Report On Initial Public Offering Applications, Delisting And Suspensions (July 2026)](http://www.mondovisione.com/media-and-resources/news/hkex-report-on-initial-public-offering-applications-delisting-and-suspensions-2026731/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NSE Indices Dashboard For July 2026](http://www.mondovisione.com/media-and-resources/news/nse-indices-dashboard-for-july-2026-2026731/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Malawi Stock Exchange Weekly Summary Report, 31July 2026](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-31july-2026-2026731/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CBOE Second Quarter 2026 - Earnings Presentation](http://www.mondovisione.com/media-and-resources/news/cboe-second-quarter-2026-earnings-presentation-2026731/)
+Append: [Cboe Global Markets Reports Results For Second Quarter 2026](http://www.mondovisione.com/media-and-resources/news/cboe-global-markets-reports-results-for-second-quarter-2026-2026731/)
+Append: [LME Progresses Warehouse And Physical Market Enhancements And Consults On Streamlined Brand Listing](http://www.mondovisione.com/media-and-resources/news/lme-progresses-warehouse-and-physical-market-enhancements-and-consults-on-stream-2026731/)
+Append: [HKEX: Forfeiture Of Unclaimed First Interim Dividend For 2020](http://www.mondovisione.com/media-and-resources/news/hkex-forfeiture-of-unclaimed-first-interim-dividend-for-2020-2026731/)
+append_entries: 8
+Finish: 2026-07-31 14:19:27.251563
