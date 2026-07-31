@@ -2928,3 +2928,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Office Of The Comptroller Of The US Currency And The Federal Deposit Insurance Corporation Agencies Issue Joint Proposal Amending The Community Reinvestment Act Rules](http://www.mondovisione.com/media-and-resources/news/office-of-the-comptroller-of-the-us-currency-and-the-federal-deposit-insurance-c-2026731/)
 append_entries: 1
 Finish: 2026-07-31 19:41:05.069520
+------------------------------------------------------
+Started: 2026-07-31 21:11:07.406874
+Existing_entries: 552
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Exchange Group - Options Markets - August 1, 2026 Fee Changes](http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-options-markets-august-1-2026-fee-changes-2026731/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Orders George Santos To Pay $35,000 For Manipulative Trading Of State-Of-The-Union Event Contract](http://www.mondovisione.com/media-and-resources/news/cftc-orders-george-santos-to-pay-35000-for-manipulative-trading-of-state-of-th-2026731/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Commitments Of Traders Reports Update](http://www.mondovisione.com/media-and-resources/news/cftc-commitments-of-traders-reports-update-2026731/)
+append_entries: 3
+Finish: 2026-07-31 21:11:08.539587
