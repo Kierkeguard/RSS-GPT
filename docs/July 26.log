@@ -3060,3 +3060,15 @@ Existing_entries: 558
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-08-02 21:00:27.669642
+------------------------------------------------------
+Started: 2026-08-02 22:59:17.990871
+Existing_entries: 558
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TMX Group Completes Acquisition Of Cboe Australia - TMX Group Completes Acquisition Of Cboe Australia](http://www.mondovisione.com/media-and-resources/news/tmx-group-completes-acquisition-of-cboe-australia-tmx-group-completes-acquisit-202682/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cboe Completes Sale Of Cboe Australia To TMX Group](http://www.mondovisione.com/media-and-resources/news/cboe-completes-sale-of-cboe-australia-to-tmx-group-202682/)
+append_entries: 2
+Finish: 2026-08-02 22:59:18.979778
