@@ -3179,3 +3179,18 @@ Existing_entries: 591
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-08-03 19:43:17.345478
+------------------------------------------------------
+Started: 2026-08-03 21:08:31.366339
+Existing_entries: 591
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Swaps Report Update](http://www.mondovisione.com/media-and-resources/news/cftc-swaps-report-update-202683/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [S&P Global Market Intelligence Data | Top 10 Most Shorted Stocks In The US](http://www.mondovisione.com/media-and-resources/news/sandp-global-market-intelligence-data-top-10-most-shorted-stocks-in-the-us-202683/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Federal Reserve Senior Loan Officer Opinion Survey On Bank Lending Practices](http://www.mondovisione.com/media-and-resources/news/senior-loan-officer-opinion-survey-on-bank-lending-practices-202683/)
+append_entries: 3
+Finish: 2026-08-03 21:08:32.622958
