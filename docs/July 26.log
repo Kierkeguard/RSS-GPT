@@ -3194,3 +3194,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Federal Reserve Senior Loan Officer Opinion Survey On Bank Lending Practices](http://www.mondovisione.com/media-and-resources/news/senior-loan-officer-opinion-survey-on-bank-lending-practices-202683/)
 append_entries: 3
 Finish: 2026-08-03 21:08:32.622958
+------------------------------------------------------
+Started: 2026-08-03 23:06:51.559056
+Existing_entries: 594
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-08-03 23:06:52.822651
