@@ -3078,3 +3078,27 @@ Existing_entries: 560
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-08-03 03:26:47.887722
+------------------------------------------------------
+Started: 2026-08-03 07:32:33.400639
+Existing_entries: 560
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Daiwa Asset Management Launches iFreeETF German Government 0-3 Month Bill Tracking The Solactive German Government 0-3 Month Bill Index](http://www.mondovisione.com/media-and-resources/news/daiwa-asset-management-launches-ifreeetf-german-government-0-3-month-bill-tracki-202683/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX Launches 5-Year China Government Bond Futures](http://www.mondovisione.com/media-and-resources/news/hkex-launches-5-year-china-government-bond-futures-202683/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SET And TGO Partner To Empower Workforce And Advance Thailand's Carbon Market](http://www.mondovisione.com/media-and-resources/news/set-and-tgo-partner-to-empower-workforce-and-advance-thailands-carbon-market-202683/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tokyo Financial Exchange Trading Volume In July 2026](http://www.mondovisione.com/media-and-resources/news/tokyo-financial-exchange-trading-volume-in-july-2026-202683/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Japan Exchange Group Trading Overview In July 2026](http://www.mondovisione.com/media-and-resources/news/japan-exchange-group-trading-overview-in-july-2026-202683/)
+Append: [Hong Kong  Securities And Futures Commission  And China Securities Regulatory Commission Jointly Announce New Measures To Deepen Practical Cooperation And Close Coordinated Development Between The Two Markets](http://www.mondovisione.com/media-and-resources/news/hong-kong-securities-and-futures-commission-and-china-securities-regulatory-co-202683/)
+Append: [ASIC Acknowledges TMX Group’s Acquisition Of Cboe Australia](http://www.mondovisione.com/media-and-resources/news/asic-acknowledges-tmx-groups-acquisition-of-cboe-australia-202683/)
+Append: [The Egyptian Exchange Announces The Review Calendar For The September 2026 Periodic Review Of Its Main Market Indices](http://www.mondovisione.com/media-and-resources/news/the-egyptian-exchange-announces-the-review-calendar-for-the-september-2026-perio-202683/)
+append_entries: 8
+Finish: 2026-08-03 07:32:34.515616
