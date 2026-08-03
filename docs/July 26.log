@@ -3072,3 +3072,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Cboe Completes Sale Of Cboe Australia To TMX Group](http://www.mondovisione.com/media-and-resources/news/cboe-completes-sale-of-cboe-australia-to-tmx-group-202682/)
 append_entries: 2
 Finish: 2026-08-02 22:59:18.979778
+------------------------------------------------------
+Started: 2026-08-03 03:26:46.816361
+Existing_entries: 560
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-08-03 03:26:47.887722
