@@ -3215,3 +3215,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ASIC Proposes Improved Pre-IPO Advertising Flexibility And Global Alignment](http://www.mondovisione.com/media-and-resources/news/asic-proposes-improved-pre-ipo-advertising-flexibility-and-global-alignment-202684/)
 append_entries: 1
 Finish: 2026-08-04 06:31:25.258686
+------------------------------------------------------
+Started: 2026-08-04 10:43:54.415212
+Existing_entries: 595
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Axiology Strengthens Board With Senior Appointments From State Street And SIX  - Fintech Firm Bolsters Executive Board As It Continues To Advance Digital Asset Infrastructure Ambitions](http://www.mondovisione.com/media-and-resources/news/axiology-strengthens-board-with-senior-appointments-from-state-street-and-six-202684/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ANNA Announces Digital Token Identifier Integration Into The ANNA Service Bureau - Digital Token Identifier Available Through The ANNA Service Bureau From July 2026](http://www.mondovisione.com/media-and-resources/news/anna-announces-digital-token-identifier-integration-into-the-anna-service-bureau-202684/)
+append_entries: 2
+Finish: 2026-08-04 10:43:55.270444
