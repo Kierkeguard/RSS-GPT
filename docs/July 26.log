@@ -3287,3 +3287,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Euronext Athens: Changes In Index Composition](http://www.mondovisione.com/media-and-resources/news/euronext-athens-changes-in-index-composition-202684/)
 append_entries: 5
 Finish: 2026-08-04 19:42:32.831215
+------------------------------------------------------
+Started: 2026-08-04 21:15:41.591974
+Existing_entries: 611
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-08-04 21:15:42.464186
