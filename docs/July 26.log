@@ -3206,3 +3206,12 @@ Existing_entries: 594
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-08-04 02:55:32.721702
+------------------------------------------------------
+Started: 2026-08-04 06:31:24.095232
+Existing_entries: 594
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Proposes Improved Pre-IPO Advertising Flexibility And Global Alignment](http://www.mondovisione.com/media-and-resources/news/asic-proposes-improved-pre-ipo-advertising-flexibility-and-global-alignment-202684/)
+append_entries: 1
+Finish: 2026-08-04 06:31:25.258686
