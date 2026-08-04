@@ -3227,3 +3227,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ANNA Announces Digital Token Identifier Integration Into The ANNA Service Bureau - Digital Token Identifier Available Through The ANNA Service Bureau From July 2026](http://www.mondovisione.com/media-and-resources/news/anna-announces-digital-token-identifier-integration-into-the-anna-service-bureau-202684/)
 append_entries: 2
 Finish: 2026-08-04 10:43:55.270444
+------------------------------------------------------
+Started: 2026-08-04 14:26:39.680243
+Existing_entries: 597
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Fiserv And Mastercard Deepen Global Partnership To Help Merchants Innovate & Expand](http://www.mondovisione.com/media-and-resources/news/fiserv-and-mastercard-deepen-global-partnership-to-help-merchants-innovate-and-exp-202684/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group July Volume Hits New Record Of 27 Million Contracts, Up 23% Year Over Year](http://www.mondovisione.com/media-and-resources/news/cme-group-july-volume-hits-new-record-of-27-million-contracts-up-23-year-over-202684/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tribunal Upholds UK Financial Conduct Authority Ban On Pair Involved In Pension Transfer Advice And Reduces Fines](http://www.mondovisione.com/media-and-resources/news/tribunal-upholds-uk-financial-conduct-authority-ban-on-pair-involved-in-pension-202684/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FutureSports And The NHL Announce Exclusive Partnership To Create Broad-Based Indexes](http://www.mondovisione.com/media-and-resources/news/futuresports-and-the-nhl-announce-exclusive-partnership-to-create-broad-based-in-202684/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Rimes Launches “The Intelligence Fabric For Capital Markets”](http://www.mondovisione.com/media-and-resources/news/rimes-launches-the-intelligence-fabric-for-capital-markets-202684/)
+append_entries: 5
+Finish: 2026-08-04 14:26:40.959725
