@@ -3266,3 +3266,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Tel Aviv Stock Exchange Reports The Results Of The Financial Statements For The Second Quarter And The First Half Of 2026](http://www.mondovisione.com/media-and-resources/news/tel-aviv-stock-exchange-reports-the-results-of-the-financial-statements-for-the-202684/)
 append_entries: 4
 Finish: 2026-08-04 17:52:26.694611
+------------------------------------------------------
+Started: 2026-08-04 19:42:31.579685
+Existing_entries: 606
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FNZ Agrees Sale Of FNZ Bank To Advent](http://www.mondovisione.com/media-and-resources/news/fnz-agrees-sale-of-fnz-bank-to-advent-202684/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK – U.S. Financial Regulatory Working Group Summer 2026: Joint Statement](http://www.mondovisione.com/media-and-resources/news/uk-us-financial-regulatory-working-group-summer-2026-joint-statement-202684/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK-US Financial Regulatory Working Group: Joint Statements](http://www.mondovisione.com/media-and-resources/news/uk-us-financial-regulatory-working-group-joint-statements-202684/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ISDA Expands SwapsInfo With US FX Derivatives Data](http://www.mondovisione.com/media-and-resources/news/isda-expands-swapsinfo-with-us-fx-derivatives-data-202684/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euronext Athens: Changes In Index Composition](http://www.mondovisione.com/media-and-resources/news/euronext-athens-changes-in-index-composition-202684/)
+append_entries: 5
+Finish: 2026-08-04 19:42:32.831215
