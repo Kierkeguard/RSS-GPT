@@ -3388,3 +3388,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [The EBA Consults On Reporting Framework For Validation And Monitoring Of ISDA Standard Initial Margin Model](http://www.mondovisione.com/media-and-resources/news/the-eba-consults-on-reporting-framework-for-validation-and-monitoring-of-isda-st-202685/)
 append_entries: 3
 Finish: 2026-08-05 17:44:49.012378
+------------------------------------------------------
+Started: 2026-08-05 19:41:33.910499
+Existing_entries: 636
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-08-05 19:41:35.131116
