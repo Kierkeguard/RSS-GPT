@@ -3305,3 +3305,27 @@ Existing_entries: 611
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-08-05 02:51:38.865849
+------------------------------------------------------
+Started: 2026-08-05 06:32:24.983494
+Existing_entries: 611
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SGX Stock Exchange Welcomes All-Link Air & Sea Limited To Mainboard](http://www.mondovisione.com/media-and-resources/news/sgx-stock-exchange-welcomes-all-link-air-and-sea-limited-to-mainboard-202685/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Launches New Digital Resources For Small Business Directors](http://www.mondovisione.com/media-and-resources/news/asic-launches-new-digital-resources-for-small-business-directors-202685/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Shenzhen Stock Exchange Market Bulletin July 31, 2026, Issue 17](http://www.mondovisione.com/media-and-resources/news/shenzhen-stock-exchange-market-bulletin-july-31-2026-issue-17-202685/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Launches Small Business Strategy, Helping To Educate And Protect Small Businesses](http://www.mondovisione.com/media-and-resources/news/asic-launches-small-business-strategy-helping-to-educate-and-protect-small-busi-202685/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Keynote By Tan Boon Gin, SGX RegCo CEO, At The Singapore Governance And Transparency Forum 2026](http://www.mondovisione.com/media-and-resources/news/keynote-by-tan-boon-gin-sgx-regco-ceo-at-the-singapore-governance-and-transpar-202685/)
+Append: [NZX Shareholder Metrics - July 2026](http://www.mondovisione.com/media-and-resources/news/nzx-shareholder-metrics-july-2026-202685/)
+Append: [Investor Alert: Fraudsters Impersonate Union Bancaire Privée, UBP SA To Target Canadian Investors](http://www.mondovisione.com/media-and-resources/news/investor-alert-fraudsters-impersonate-union-bancaire-prive-ubp-sa-to-target-c-202685/)
+Append: [B.C. Man Restricted From Investment Market And Must Pay $40,000 For Defying  BC Securities Commission Order](http://www.mondovisione.com/media-and-resources/news/bc-man-restricted-from-investment-market-and-must-pay-40000-for-defying-bc-202685/)
+append_entries: 8
+Finish: 2026-08-05 06:32:26.076374
