@@ -3394,3 +3394,24 @@ Existing_entries: 636
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-08-05 19:41:35.131116
+------------------------------------------------------
+Started: 2026-08-05 21:17:06.864609
+Existing_entries: 636
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cboe Global Markets Reports Trading Volume For July 2026](http://www.mondovisione.com/media-and-resources/news/cboe-global-markets-reports-trading-volume-for-july-2026-202685/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Miami International Holdings Reports Second Quarter 2026 Results](http://www.mondovisione.com/media-and-resources/news/miami-international-holdings-reports-second-quarter-2026-results-202685/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Outlook For The U.S. And Alaskan Economies, Federal Reserve Governor Lisa D. Cook, At The 2026 Economic Luncheon Of The Anchorage Economic Development Corporation, Anchorage, Alaska](http://www.mondovisione.com/media-and-resources/news/outlook-for-the-us-and-alaskan-economies-federal-reserve-governor-lisa-d-coo-202685/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Reports July 2026 Volumes](http://www.mondovisione.com/media-and-resources/news/nasdaq-reports-july-2026-volumes-202685/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Establishes Financial Reporting And Accounting Unit In Enforcement Division](http://www.mondovisione.com/media-and-resources/news/sec-establishes-financial-reporting-and-accounting-unit-in-enforcement-division-202685/)
+append_entries: 5
+Finish: 2026-08-05 21:17:09.432261
