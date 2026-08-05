@@ -3329,3 +3329,21 @@ Append: [Investor Alert: Fraudsters Impersonate Union Bancaire Privée, UBP SA T
 Append: [B.C. Man Restricted From Investment Market And Must Pay $40,000 For Defying  BC Securities Commission Order](http://www.mondovisione.com/media-and-resources/news/bc-man-restricted-from-investment-market-and-must-pay-40000-for-defying-bc-202685/)
 append_entries: 8
 Finish: 2026-08-05 06:32:26.076374
+------------------------------------------------------
+Started: 2026-08-05 10:40:51.440090
+Existing_entries: 619
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Simplifies IPO Rules To Support UK Listings](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-simplifies-ipo-rules-to-support-uk-listings-202685/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX Announces Senior Appointments](http://www.mondovisione.com/media-and-resources/news/hkex-announces-senior-appointments-202685/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Erste Asset Management Introduces First ETFs With Austrian Investment Manager Tracking Solactive 250 Base Indices](http://www.mondovisione.com/media-and-resources/news/erste-asset-management-introduces-first-etfs-with-austrian-investment-manager-tr-202685/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Boerse Stuttgart Digital And tradias Close Merger And Aim For European Leadership In Cryptocurrencies And Digital Assets - Ownership Control Procedure Completed - Merger Creates Leading European Infrastructure Provider For Cryptocurrencies And Digital Assets - Dr. Ulli Spankowski And Christopher Beck Will Lead The New Business Unit Of Boerse Stuttgart Group As Co-CEOs](http://www.mondovisione.com/media-and-resources/news/boerse-stuttgart-digital-and-tradias-close-merger-and-aim-for-european-leadershi-202685/)
+append_entries: 4
+Finish: 2026-08-05 10:40:52.636771
