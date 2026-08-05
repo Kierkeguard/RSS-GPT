@@ -3373,3 +3373,18 @@ Append: [UK Financial Conduct Authority Streamlines UK IPO Process To Reduce Cos
 Append: [Broadridge And Payward Services Collaborate To Give xStocks Holders a Voice in Corporate Governance - Broadridge’s Unified Governance Platform Enables xStocks Holders To Submit Voting Preferences For Shares Underpinning Their Tokenized Equities, Closing One Of The Clearest Gaps Between Tokenized Equities And Traditional Stock Ownership](http://www.mondovisione.com/media-and-resources/news/broadridge-and-payward-services-collaborate-to-give-xstocks-holders-a-voice-in-c-202685/)
 append_entries: 10
 Finish: 2026-08-05 14:19:26.642400
+------------------------------------------------------
+Started: 2026-08-05 17:44:47.522973
+Existing_entries: 633
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New York State Department Of Financial Services Secures Cybersecurity Settlement With Order Express, Inc. - Investigation Uncovered Poor Cybersecurity Controls](http://www.mondovisione.com/media-and-resources/news/new-york-state-department-of-financial-services-secures-cybersecurity-settlement-202685/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bank Of England: Artificial Intelligence Consortium Minutes – June 2026](http://www.mondovisione.com/media-and-resources/news/bank-of-england-artificial-intelligence-consortium-minutes-june-2026-202685/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The EBA Consults On Reporting Framework For Validation And Monitoring Of ISDA Standard Initial Margin Model](http://www.mondovisione.com/media-and-resources/news/the-eba-consults-on-reporting-framework-for-validation-and-monitoring-of-isda-st-202685/)
+append_entries: 3
+Finish: 2026-08-05 17:44:49.012378
