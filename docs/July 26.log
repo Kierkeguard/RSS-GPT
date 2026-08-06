@@ -3459,3 +3459,21 @@ Append: [ASX Group Monthly Activity Report - July 2026](http://www.mondovisione.
 Append: [Japan Financial Services Agency: Publication Of The Summary Of "Annual Report On Insurance Monitoring 2026"](http://www.mondovisione.com/media-and-resources/news/japan-financial-services-agency-publication-of-the-summary-of-annual-report-on-202686/)
 append_entries: 10
 Finish: 2026-08-06 10:43:54.187751
+------------------------------------------------------
+Started: 2026-08-06 14:22:58.797894
+Existing_entries: 651
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group Latin American FX Futures And Options Hit New Records In H1 2026](http://www.mondovisione.com/media-and-resources/news/cme-group-latin-american-fx-futures-and-options-hit-new-records-in-h1-2026-202686/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tradeweb Reports July 2026 Total Trading Volume Of $67.5 Trillion And Average Daily Volume Of $2.9 Trillion - July 2026 ADV Up 23.3% YoY](http://www.mondovisione.com/media-and-resources/news/tradeweb-reports-july-2026-total-trading-volume-of-675-trillion-and-average-da-202686/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group Declares Quarterly Dividend](http://www.mondovisione.com/media-and-resources/news/cme-group-declares-quarterly-dividend-202686/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Fiserv Reports Second Quarter 2026 Results](http://www.mondovisione.com/media-and-resources/news/fiserv-reports-second-quarter-2026-results-202686/)
+append_entries: 4
+Finish: 2026-08-06 14:23:00.351873
