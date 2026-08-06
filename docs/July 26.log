@@ -3433,3 +3433,29 @@ Existing_entries: 641
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-08-06 06:35:11.154806
+------------------------------------------------------
+Started: 2026-08-06 10:43:52.934402
+Existing_entries: 641
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SET Market Report For July 2026](http://www.mondovisione.com/media-and-resources/news/set-market-report-for-july-2026-202686/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cboe Clear Europe To Expand Securities Financing Transactions Clearing Into Fixed Income](http://www.mondovisione.com/media-and-resources/news/cboe-clear-europe-to-expand-securities-financing-transactions-clearing-into-fixe-202686/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Taiwan Futures Exchange Newsletter - August 2026](http://www.mondovisione.com/media-and-resources/news/taiwan-futures-exchange-newsletter-august-2026-202686/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TP ICAP Group Interim Results For The Six Months Ended 30 June 2026 (“H1 2026”)](http://www.mondovisione.com/media-and-resources/news/tp-icap-group-interim-results-for-the-six-months-ended-30-june-2026-h1-2026-202686/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CoinShares - Treasuries, Gold And The S&P 500: The Assets Growing Fastest On-Chain Are the Most Traditional Ones](http://www.mondovisione.com/media-and-resources/news/coinshares-treasuries-gold-and-the-sandp-500-the-assets-growing-fastest-on-cha-202686/)
+Append: [APAC Deal Activity Drops 12% YoY In H1 2026 Amid M&A And PE Slump, Reveals GlobalData](http://www.mondovisione.com/media-and-resources/news/apac-deal-activity-drops-12-yoy-in-h1-2026-amid-manda-and-pe-slump-reveals-globa-202686/)
+Append: [Securities Commission Malaysia - AOB: Audit Firms Strengthen Governance, Transparency And Commitment To Audit Quality](http://www.mondovisione.com/media-and-resources/news/securities-commission-malaysia-aob-audit-firms-strengthen-governance-transpa-202686/)
+Append: [Tokyo Stock Exchange: Public Release Of The Report From The Working Group On Trading Rules](http://www.mondovisione.com/media-and-resources/news/tokyo-stock-exchange-public-release-of-the-report-from-the-working-group-on-tra-202686/)
+Append: [ASX Group Monthly Activity Report - July 2026](http://www.mondovisione.com/media-and-resources/news/asx-group-monthly-activity-report-july-2026-202686/)
+Append: [Japan Financial Services Agency: Publication Of The Summary Of "Annual Report On Insurance Monitoring 2026"](http://www.mondovisione.com/media-and-resources/news/japan-financial-services-agency-publication-of-the-summary-of-annual-report-on-202686/)
+append_entries: 10
+Finish: 2026-08-06 10:43:54.187751
