@@ -3560,3 +3560,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Malawi Stock Exchange Weekly Summary Report, 7 August 2026](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-7-august-2026-202687/)
 append_entries: 2
 Finish: 2026-08-07 14:56:52.272728
+------------------------------------------------------
+Started: 2026-08-07 16:57:20.848947
+Existing_entries: 670
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Announcement On The Amendments To The Detailed Rules Of Coke Futures Of Dalian Commodity Exchange](http://www.mondovisione.com/media-and-resources/news/announcement-on-the-amendments-to-the-detailed-rules-of-coke-futures-of-dalian-c-202687/)
+append_entries: 1
+Finish: 2026-08-07 16:57:22.189164
