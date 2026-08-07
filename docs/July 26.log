@@ -3477,3 +3477,26 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Fiserv Reports Second Quarter 2026 Results](http://www.mondovisione.com/media-and-resources/news/fiserv-reports-second-quarter-2026-results-202686/)
 append_entries: 4
 Finish: 2026-08-06 14:23:00.351873
+------------------------------------------------------
+Started: 2026-08-07 00:05:54.703006
+Existing_entries: 655
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [OCC July 2026 Monthly Volume Data](http://www.mondovisione.com/media-and-resources/news/occ-july-2026-monthly-volume-data-202686/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIFMA President And CEO Kenneth E. Bentsen, Jr. Testifies At Senate Banking Committee Hearing On Capital Formation](http://www.mondovisione.com/media-and-resources/news/sifma-president-and-ceo-kenneth-e-bentsen-jr-testifies-at-senate-banking-comm-202686/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Economist Op-Ed | The New Era Of Finance Needs Innovation More Than Consensus, CFTC Chairman Michael S. Selig, Washington, DC | August 06, 2026](http://www.mondovisione.com/media-and-resources/news/the-economist-op-ed-the-new-era-of-finance-needs-innovation-more-than-consensu-202686/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nodal Exchange Achieves New Records In Power And Environmental Markets In July](http://www.mondovisione.com/media-and-resources/news/nodal-exchange-achieves-new-records-in-power-and-environmental-markets-in-july-202686/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euronext Announces Volumes For July 2026](http://www.mondovisione.com/media-and-resources/news/euronext-announces-volumes-for-july-2026-202686/)
+Append: [EBA ESG Risk Dashboard Shows Stable Climate Risk Exposures And Continued Improvements In Data Quality](http://www.mondovisione.com/media-and-resources/news/eba-esg-risk-dashboard-shows-stable-climate-risk-exposures-and-continued-improve-202686/)
+Append: [July 2026 Figures At Eurex](http://www.mondovisione.com/media-and-resources/news/july-2026-figures-at-eurex-202686/)
+append_entries: 7
+Finish: 2026-08-07 00:05:55.740318
