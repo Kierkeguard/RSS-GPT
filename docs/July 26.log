@@ -3539,3 +3539,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Eurex - Strengthening Client Relationships Across APAC - 15 Years In Asia: From Access To Impact (Part 3)](http://www.mondovisione.com/media-and-resources/news/eurex-strengthening-client-relationships-across-apac-15-years-in-asia-from-202687/)
 append_entries: 2
 Finish: 2026-08-07 10:56:45.231317
+------------------------------------------------------
+Started: 2026-08-07 13:13:47.950804
+Existing_entries: 667
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Applying Increased Scrutiny To Annex 1 Firms](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-applying-increased-scrutiny-to-annex-1-firms-202687/)
+append_entries: 1
+Finish: 2026-08-07 13:13:48.896841
