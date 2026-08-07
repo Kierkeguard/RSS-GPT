@@ -3584,3 +3584,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ADX And Al Ramz Capital Announces Round 3 Trading Champions, Accelerating Retail Investor Engagement In UAE Capital Markets](http://www.mondovisione.com/media-and-resources/news/adx-and-al-ramz-capital-announces-round-3-trading-champions-accelerating-retail-202687/)
 append_entries: 3
 Finish: 2026-08-07 19:03:16.268035
+------------------------------------------------------
+Started: 2026-08-07 20:46:31.017722
+Existing_entries: 674
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Option Exchanges - Amendment To Waiting Periods For Retaking FINRA Qualification Examinations](http://www.mondovisione.com/media-and-resources/news/miax-option-exchanges-amendment-to-waiting-periods-for-retaking-finra-qualific-202687/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Commitments Of Traders Reports Update](http://www.mondovisione.com/media-and-resources/news/cftc-commitments-of-traders-reports-update-202687/)
+append_entries: 2
+Finish: 2026-08-07 20:46:31.925686
