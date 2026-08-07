@@ -3506,3 +3506,15 @@ Existing_entries: 662
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-08-07 04:28:34.179571
+------------------------------------------------------
+Started: 2026-08-07 07:22:51.222532
+Existing_entries: 662
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Initiative Summary Of Upgrading The Japan  Financial Services Agency](http://www.mondovisione.com/media-and-resources/news/initiative-summary-of-upgrading-the-japan-financial-services-agency-202687/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Secretary Of The Treasury Scott Bessent, Comptroller Of The US Currency Jonathan Gould Highlight Community Bank Comeback At Arizona Bankers Association Roundtable](http://www.mondovisione.com/media-and-resources/news/us-secretary-of-the-treasury-scott-bessent-comptroller-of-the-us-currency-jonat-202687/)
+append_entries: 2
+Finish: 2026-08-07 07:22:52.563498
