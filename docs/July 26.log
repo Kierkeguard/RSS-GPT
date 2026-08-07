@@ -3518,3 +3518,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [US Secretary Of The Treasury Scott Bessent, Comptroller Of The US Currency Jonathan Gould Highlight Community Bank Comeback At Arizona Bankers Association Roundtable](http://www.mondovisione.com/media-and-resources/news/us-secretary-of-the-treasury-scott-bessent-comptroller-of-the-us-currency-jonat-202687/)
 append_entries: 2
 Finish: 2026-08-07 07:22:52.563498
+------------------------------------------------------
+Started: 2026-08-07 09:04:12.950396
+Existing_entries: 664
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Allianz Global Investors Joins SIX Swiss Exchange As New ETF Issuer](http://www.mondovisione.com/media-and-resources/news/allianz-global-investors-joins-six-swiss-exchange-as-new-etf-issuer-202687/)
+append_entries: 1
+Finish: 2026-08-07 09:04:13.814407
