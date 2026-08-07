@@ -3527,3 +3527,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Allianz Global Investors Joins SIX Swiss Exchange As New ETF Issuer](http://www.mondovisione.com/media-and-resources/news/allianz-global-investors-joins-six-swiss-exchange-as-new-etf-issuer-202687/)
 append_entries: 1
 Finish: 2026-08-07 09:04:13.814407
+------------------------------------------------------
+Started: 2026-08-07 10:56:43.945214
+Existing_entries: 665
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BME: MARF Admits A Pioneering Issue Of Mandatory Convertible Bonds By Ecoener For 15 Million Euros](http://www.mondovisione.com/media-and-resources/news/marf-admits-a-pioneering-issue-of-mandatory-convertible-bonds-by-ecoener-for-15-202687/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Eurex - Strengthening Client Relationships Across APAC - 15 Years In Asia: From Access To Impact (Part 3)](http://www.mondovisione.com/media-and-resources/news/eurex-strengthening-client-relationships-across-apac-15-years-in-asia-from-202687/)
+append_entries: 2
+Finish: 2026-08-07 10:56:45.231317
