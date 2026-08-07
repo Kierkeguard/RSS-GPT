@@ -3569,3 +3569,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Announcement On The Amendments To The Detailed Rules Of Coke Futures Of Dalian Commodity Exchange](http://www.mondovisione.com/media-and-resources/news/announcement-on-the-amendments-to-the-detailed-rules-of-coke-futures-of-dalian-c-202687/)
 append_entries: 1
 Finish: 2026-08-07 16:57:22.189164
+------------------------------------------------------
+Started: 2026-08-07 19:03:15.222818
+Existing_entries: 671
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nigerian Exchange Weekly Market Report For The Week Ended 7 July 2026](http://www.mondovisione.com/media-and-resources/news/nigerian-exchange-weekly-market-report-for-the-week-ended-7-july-2026-202687/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Dubai Financial Market Regulated Short Sell – Weekly Summary - 3rd August 2026 To 7th August 2026](http://www.mondovisione.com/media-and-resources/news/dubai-financial-market-regulated-short-sell-weekly-summary-3rd-august-2026-t-202687/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ADX And Al Ramz Capital Announces Round 3 Trading Champions, Accelerating Retail Investor Engagement In UAE Capital Markets](http://www.mondovisione.com/media-and-resources/news/adx-and-al-ramz-capital-announces-round-3-trading-champions-accelerating-retail-202687/)
+append_entries: 3
+Finish: 2026-08-07 19:03:16.268035
