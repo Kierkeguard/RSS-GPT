@@ -3548,3 +3548,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [UK Financial Conduct Authority Applying Increased Scrutiny To Annex 1 Firms](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-applying-increased-scrutiny-to-annex-1-firms-202687/)
 append_entries: 1
 Finish: 2026-08-07 13:13:48.896841
+------------------------------------------------------
+Started: 2026-08-07 14:56:51.218334
+Existing_entries: 668
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TMX Group Consolidated Trading Statistics – July 2026](http://www.mondovisione.com/media-and-resources/news/tmx-group-consolidated-trading-statistics-july-2026-202687/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Malawi Stock Exchange Weekly Summary Report, 7 August 2026](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-7-august-2026-202687/)
+append_entries: 2
+Finish: 2026-08-07 14:56:52.272728
