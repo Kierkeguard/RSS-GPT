@@ -3614,3 +3614,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [US Treasury Releases CFIUS Annual Report For 2025](http://www.mondovisione.com/media-and-resources/news/us-treasury-releases-cfius-annual-report-for-2025-202687/)
 append_entries: 4
 Finish: 2026-08-07 22:41:03.886358
+------------------------------------------------------
+Started: 2026-08-08 01:55:43.374397
+Existing_entries: 680
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-08-08 01:55:44.578508
