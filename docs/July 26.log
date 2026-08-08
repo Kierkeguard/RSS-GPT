@@ -3632,3 +3632,12 @@ Existing_entries: 680
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-08-08 05:01:39.731602
+------------------------------------------------------
+Started: 2026-08-08 07:00:28.151295
+Existing_entries: 680
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Update On The SEC’s Work Toward Treasury Clearing Implementation [August 2026], SEC Commissioner Mark T. Uyeda, Aug. 7, 2026](http://www.mondovisione.com/media-and-resources/news/update-on-the-secs-work-toward-treasury-clearing-implementation-august-2026-202688/)
+append_entries: 1
+Finish: 2026-08-08 07:00:29.016641
