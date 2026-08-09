@@ -3722,3 +3722,12 @@ Existing_entries: 682
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-08-09 10:39:02.899659
+------------------------------------------------------
+Started: 2026-08-09 13:00:01.005054
+Existing_entries: 682
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tehran Securities Exchange: Iran Largest Telecom Co. Celebrates Listing Day](http://www.mondovisione.com/media-and-resources/news/tehran-securities-exchange-iran-largest-telecom-co-celebrates-listing-day-202689/)
+append_entries: 1
+Finish: 2026-08-09 13:00:02.464625
