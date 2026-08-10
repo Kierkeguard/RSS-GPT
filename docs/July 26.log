@@ -3809,3 +3809,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Global Exchange Markets Rebound Strongly In July 2026 - FTSE Mondo Visione Index Surges 14.6%](http://www.mondovisione.com/media-and-resources/news/global-exchange-markets-rebound-strongly-in-july-2026-ftse-mondo-visione-index-2026810/)
 append_entries: 2
 Finish: 2026-08-10 11:12:11.932562
+------------------------------------------------------
+Started: 2026-08-10 13:18:40.465702
+Existing_entries: 689
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Trading Technologies Appoints Sal Lombardi As CFO - Executive Has More Than 25 Years Of Experience In Finance Leadership For Technology Companies](http://www.mondovisione.com/media-and-resources/news/trading-technologies-appoints-sal-lombardi-as-cfo-executive-has-more-than-25-y-2026810/)
+append_entries: 1
+Finish: 2026-08-10 13:18:41.676065
