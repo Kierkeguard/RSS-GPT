@@ -3818,3 +3818,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Trading Technologies Appoints Sal Lombardi As CFO - Executive Has More Than 25 Years Of Experience In Finance Leadership For Technology Companies](http://www.mondovisione.com/media-and-resources/news/trading-technologies-appoints-sal-lombardi-as-cfo-executive-has-more-than-25-y-2026810/)
 append_entries: 1
 Finish: 2026-08-10 13:18:41.676065
+------------------------------------------------------
+Started: 2026-08-10 15:03:20.147440
+Existing_entries: 690
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Ayman M. Al-Sayari Appointed FSB’s Regional Engagement Chair](http://www.mondovisione.com/media-and-resources/news/ayman-m-al-sayari-appointed-fsbs-regional-engagement-chair-2026810/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LDA Delivers High-Density 25G Layer 1 Connectivity At 3.6ns](http://www.mondovisione.com/media-and-resources/news/lda-delivers-high-density-25g-layer-1-connectivity-at-36ns-2026810/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ICE Mortgage Monitor: Mortgage Holder Equity Climbs To Record $18 Trillion As Annual Home Price Growth Reaches 14-Month High](http://www.mondovisione.com/media-and-resources/news/ice-mortgage-monitor-mortgage-holder-equity-climbs-to-record-18-trillion-as-an-2026810/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc Publication Of Final Terms](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-publication-of-final-terms-2026810/)
+append_entries: 4
+Finish: 2026-08-10 15:03:21.477388
