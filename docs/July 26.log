@@ -3848,3 +3848,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CFTC Chairman Selig Announces Inaugural CFTC Innovation Advisory Committee Meeting On August 20 In Washington](http://www.mondovisione.com/media-and-resources/news/cftc-chairman-selig-announces-inaugural-cftc-innovation-advisory-committee-meeti-2026810/)
 append_entries: 2
 Finish: 2026-08-10 16:57:30.962743
+------------------------------------------------------
+Started: 2026-08-10 19:03:06.701150
+Existing_entries: 696
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-transaction-in-own-shares-2026810/)
+append_entries: 1
+Finish: 2026-08-10 19:03:08.027008
