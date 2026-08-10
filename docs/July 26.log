@@ -3836,3 +3836,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [London Stock Exchange Group plc Publication Of Final Terms](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-publication-of-final-terms-2026810/)
 append_entries: 4
 Finish: 2026-08-10 15:03:21.477388
+------------------------------------------------------
+Started: 2026-08-10 16:57:29.547834
+Existing_entries: 694
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Moscow Exchange: Risk Parameters Changes On Securities Market CCP NCC Changes The Following Risk Parameters On Securities](http://www.mondovisione.com/media-and-resources/news/moscow-exchange-risk-parameters-changes-on-securities-market-ccp-ncc-changes-t-2026810/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Chairman Selig Announces Inaugural CFTC Innovation Advisory Committee Meeting On August 20 In Washington](http://www.mondovisione.com/media-and-resources/news/cftc-chairman-selig-announces-inaugural-cftc-innovation-advisory-committee-meeti-2026810/)
+append_entries: 2
+Finish: 2026-08-10 16:57:30.962743
