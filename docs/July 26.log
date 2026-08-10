@@ -3782,3 +3782,18 @@ Existing_entries: 684
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-08-10 07:49:40.180491
+------------------------------------------------------
+Started: 2026-08-10 09:26:58.927406
+Existing_entries: 684
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Boosts Support For Innovative Firms As They Scale And Grow](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-boosts-support-for-innovative-firms-as-they-scale-2026810/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Court Of Appeal Dismisses Ricky Wong’s Appeal Against Injunction Order In Relation To Securities Commission Malaysia’s Suit](http://www.mondovisione.com/media-and-resources/news/court-of-appeal-dismisses-ricky-wongs-appeal-against-injunction-order-in-relati-2026810/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Global M&A Deal Value Up 47% In H1 2026 Amid Supply Chain Push, Reveals GlobalData](http://www.mondovisione.com/media-and-resources/news/global-manda-deal-value-up-47-in-h1-2026-amid-supply-chain-push-reveals-globalda-2026810/)
+append_entries: 3
+Finish: 2026-08-10 09:27:00.123817
