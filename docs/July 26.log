@@ -3797,3 +3797,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Global M&A Deal Value Up 47% In H1 2026 Amid Supply Chain Push, Reveals GlobalData](http://www.mondovisione.com/media-and-resources/news/global-manda-deal-value-up-47-in-h1-2026-amid-supply-chain-push-reveals-globalda-2026810/)
 append_entries: 3
 Finish: 2026-08-10 09:27:00.123817
+------------------------------------------------------
+Started: 2026-08-10 11:12:10.742092
+Existing_entries: 687
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Broadridge’s Distributed Ledger Repo Processes $8.0 Trillion In July - July 2026 ADV Reaches $365 Billion; Institutional Adoption Continues As Tokenized Funding Markets Mature](http://www.mondovisione.com/media-and-resources/news/broadridges-distributed-ledger-repo-processes-80-trillion-in-july-july-2026-2026810/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Global Exchange Markets Rebound Strongly In July 2026 - FTSE Mondo Visione Index Surges 14.6%](http://www.mondovisione.com/media-and-resources/news/global-exchange-markets-rebound-strongly-in-july-2026-ftse-mondo-visione-index-2026810/)
+append_entries: 2
+Finish: 2026-08-10 11:12:11.932562
