@@ -3857,3 +3857,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [London Stock Exchange Group plc Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-transaction-in-own-shares-2026810/)
 append_entries: 1
 Finish: 2026-08-10 19:03:08.027008
+------------------------------------------------------
+Started: 2026-08-10 20:48:57.421083
+Existing_entries: 697
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Charges Private Fund Adviser Adit Ventures Management, Its CEO And Affiliated General Partners In Alleged Fraud](http://www.mondovisione.com/media-and-resources/news/sec-charges-private-fund-adviser-adit-ventures-management-its-ceo-and-affiliate-2026810/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Announces The Board Of Directors Of Its U.S. Exchanges](http://www.mondovisione.com/media-and-resources/news/nasdaq-announces-the-board-of-directors-of-its-us-exchanges-2026810/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Swaps Report Update](http://www.mondovisione.com/media-and-resources/news/cftc-swaps-report-update-2026810/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Financial Data For Futures Commission Merchants Update](http://www.mondovisione.com/media-and-resources/news/cftc-financial-data-for-futures-commission-merchants-update-2026810/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Chairman Selig Announces CFTC Innovation Advisory Committee To Meet August 20th In Washington](http://www.mondovisione.com/media-and-resources/news/cftc-chairman-selig-announces-cftc-innovation-advisory-committee-to-meet-august-2026810/)
+append_entries: 5
+Finish: 2026-08-10 20:48:58.466870
