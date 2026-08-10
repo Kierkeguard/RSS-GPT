@@ -3767,3 +3767,12 @@ Existing_entries: 683
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-08-10 02:07:59.847681
+------------------------------------------------------
+Started: 2026-08-10 05:36:45.811708
+Existing_entries: 683
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Protects Consumers By Removing High-Risk Financial Sector Participants](http://www.mondovisione.com/media-and-resources/news/asic-protects-consumers-by-removing-high-risk-financial-sector-participants-2026810/)
+append_entries: 1
+Finish: 2026-08-10 05:36:47.199550
