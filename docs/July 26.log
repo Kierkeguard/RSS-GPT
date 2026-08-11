@@ -3896,3 +3896,21 @@ Existing_entries: 702
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-08-11 05:13:24.946730
+------------------------------------------------------
+Started: 2026-08-11 07:14:55.031902
+Existing_entries: 702
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Mark Reeves Joins Qubealgo As Head Of Sales](http://www.mondovisione.com/media-and-resources/news/mark-reeves-joins-qubealgo-as-head-of-sales-2026811/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ADX Strengthens Market Depth, Broadens International Access, And Increases Investor Participation In H1 2026 Growth](http://www.mondovisione.com/media-and-resources/news/adx-strengthens-market-depth-broadens-international-access-and-increases-inves-2026811/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Proposes To Extend Financial Services, Credit And Markets Legislative Instruments](http://www.mondovisione.com/media-and-resources/news/asic-proposes-to-extend-financial-services-credit-and-markets-legislative-instr-2026811/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Consumers Left In The Dark About Rising Car Insurance Premiums, ASIC Warns](http://www.mondovisione.com/media-and-resources/news/consumers-left-in-the-dark-about-rising-car-insurance-premiums-asic-warns-2026811/)
+append_entries: 4
+Finish: 2026-08-11 07:14:55.981377
