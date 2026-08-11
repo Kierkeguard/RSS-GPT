@@ -3920,3 +3920,25 @@ Existing_entries: 706
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-08-11 09:02:56.589431
+------------------------------------------------------
+Started: 2026-08-11 10:53:35.023261
+Existing_entries: 706
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Statement Of The IFRS Foundation Monitoring Board On The Appointment Of Mr. Steven Maijoor As Chair Of The IFRS Foundation Trustees](http://www.mondovisione.com/media-and-resources/news/statement-of-the-ifrs-foundation-monitoring-board-on-the-appointment-of-mr-stev-2026811/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Statement Of The IFRS Foundation Monitoring Board On The Appointment Of Mr. Sam Woods As The Next Chair Of The IASB](http://www.mondovisione.com/media-and-resources/news/statement-of-the-ifrs-foundation-monitoring-board-on-the-appointment-of-mr-sam-2026811/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FIX Calls For Global Approach To AI: IOSCO](http://www.mondovisione.com/media-and-resources/news/fix-calls-for-global-approach-to-ai-iosco-2026811/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Gold-i Integrates Hyperliquid Node Connectivity Into MatrixNET](http://www.mondovisione.com/media-and-resources/news/gold-i-integrates-hyperliquid-node-connectivity-into-matrixnet-2026811/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bitcoin Poised To End Year Higher, Says CoinShares Research Head](http://www.mondovisione.com/media-and-resources/news/bitcoin-poised-to-end-year-higher-says-coinshares-research-head-2026811/)
+Append: [United Fintech Enters Its Next Chapter As Infrastructure For Wholesale Finance - Company Establishes Long-Term Partnership Model And Senior Leadership Team To Support Its Next Phase Of Growth](http://www.mondovisione.com/media-and-resources/news/united-fintech-enters-its-next-chapter-as-infrastructure-for-wholesale-finance-2026811/)
+append_entries: 6
+Finish: 2026-08-11 10:53:36.500362
