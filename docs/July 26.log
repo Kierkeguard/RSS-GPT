@@ -4024,3 +4024,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CFTC Charges Goliath Ventures Inc. And CEO With $400 Million Fraud Scheme](http://www.mondovisione.com/media-and-resources/news/cftc-charges-goliath-ventures-inc-and-ceo-with-400-million-fraud-scheme-2026811/)
 append_entries: 5
 Finish: 2026-08-11 20:51:52.513330
+------------------------------------------------------
+Started: 2026-08-11 22:49:18.038788
+Existing_entries: 732
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-08-11 22:49:18.866511
