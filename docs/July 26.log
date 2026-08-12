@@ -4084,3 +4084,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [LSEG And BNI Announce Strategic Data And Analytics Partnership To Strengthen Client Delivery](http://www.mondovisione.com/media-and-resources/news/lseg-and-bni-announce-strategic-data-and-analytics-partnership-to-strengthen-cli-2026812/)
 append_entries: 4
 Finish: 2026-08-12 11:02:12.610501
+------------------------------------------------------
+Started: 2026-08-12 13:19:30.391743
+Existing_entries: 740
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Study Says FX Traders Want EMS Consolidation](http://www.mondovisione.com/media-and-resources/news/new-study-says-fx-traders-want-ems-consolidation-2026812/)
+append_entries: 1
+Finish: 2026-08-12 13:19:31.307620
