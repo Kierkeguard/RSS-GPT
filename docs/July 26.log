@@ -4102,3 +4102,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Chinese-Linked Hackers Use Autonomous AI Agents to Breach Taiwanese Government Systems](http://www.mondovisione.com/media-and-resources/news/chinese-linked-hackers-use-autonomous-ai-agents-to-breach-taiwanese-government-s-2026812/)
 append_entries: 1
 Finish: 2026-08-12 15:01:23.585643
+------------------------------------------------------
+Started: 2026-08-12 17:00:09.898649
+Existing_entries: 742
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-08-12 17:00:10.960896
