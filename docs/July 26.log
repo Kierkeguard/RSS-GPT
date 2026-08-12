@@ -4108,3 +4108,18 @@ Existing_entries: 742
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-08-12 17:00:10.960896
+------------------------------------------------------
+Started: 2026-08-12 19:06:56.070599
+Existing_entries: 742
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New York State Department Of Financial Services Announces $15.5 Million Multi-State Settlement With Mortgage Servicer - Company Erroneously Charged Customers For Force-Placed Insurance](http://www.mondovisione.com/media-and-resources/news/new-york-state-department-of-financial-services-announces-155-million-multi-st-2026812/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tokyo Stock Exchange: Results Of Institutional Investor Survey On Companies Demonstrating Meaningful Progress](http://www.mondovisione.com/media-and-resources/news/tokyo-stock-exchange-results-of-institutional-investor-survey-on-companies-demo-2026812/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tokyo Stock Exchange: Results Of Corporate Survey On Expectations Of And Requests To Investors](http://www.mondovisione.com/media-and-resources/news/tokyo-stock-exchange-results-of-corporate-survey-on-expectations-of-and-request-2026812/)
+append_entries: 3
+Finish: 2026-08-12 19:06:57.171345
