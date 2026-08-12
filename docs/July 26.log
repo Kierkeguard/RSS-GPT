@@ -4060,3 +4060,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ASIC Warns Against Yepbit And Yepbit Exchange](http://www.mondovisione.com/media-and-resources/news/asic-warns-against-yepbit-and-yepbit-exchange-2026812/)
 append_entries: 3
 Finish: 2026-08-12 07:38:54.247719
+------------------------------------------------------
+Started: 2026-08-12 09:15:52.752283
+Existing_entries: 736
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-08-12 09:15:53.755634
