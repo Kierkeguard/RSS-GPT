@@ -4036,3 +4036,12 @@ Existing_entries: 732
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-08-12 02:19:41.442033
+------------------------------------------------------
+Started: 2026-08-12 05:40:15.453987
+Existing_entries: 732
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Exercises Emergency Authority To Ensure Market Stability](http://www.mondovisione.com/media-and-resources/news/cftc-exercises-emergency-authority-to-ensure-market-stability-2026812/)
+append_entries: 1
+Finish: 2026-08-12 05:40:16.576364
