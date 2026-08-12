@@ -4129,3 +4129,15 @@ Existing_entries: 745
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-08-12 20:51:08.980085
+------------------------------------------------------
+Started: 2026-08-12 22:46:56.981807
+Existing_entries: 745
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Releases Advisory On Self-Certification Of Incentive Programs For Prediction Markets](http://www.mondovisione.com/media-and-resources/news/cftc-releases-advisory-on-self-certification-of-incentive-programs-for-predictio-2026812/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Robinhood Markets, Inc. Reports July 2026 Operating Data](http://www.mondovisione.com/media-and-resources/news/robinhood-markets-inc-reports-july-2026-operating-data-2026812/)
+append_entries: 2
+Finish: 2026-08-12 22:46:58.100730
