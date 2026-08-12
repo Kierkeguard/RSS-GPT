@@ -4066,3 +4066,21 @@ Existing_entries: 736
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-08-12 09:15:53.755634
+------------------------------------------------------
+Started: 2026-08-12 11:02:11.596512
+Existing_entries: 736
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Securities Commission Malaysia: High Court Grants Leave To Commence Committal Proceedings Against Former Group Executive Director Of APL Industries Berhad For Breach Of Consent Judgment In Insider Trading Case](http://www.mondovisione.com/media-and-resources/news/securities-commission-malaysia-high-court-grants-leave-to-commence-committal-pr-2026812/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Exchange Data International Eliminates Manual Index Monitoring With The Launch Of The Index Rebalancing Calendar - New Calendar For Tracking 7,000+ Global Benchmark Indices To Plan Ahead And Respond Precisely To Index Reconstitutions Changes.](http://www.mondovisione.com/media-and-resources/news/exchange-data-international-eliminates-manual-index-monitoring-with-the-launch-o-2026812/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group: Admission Of Notes To Trading](http://www.mondovisione.com/media-and-resources/news/admission-of-notes-to-trading-group-admission-of-notes-to-trading-2026812/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LSEG And BNI Announce Strategic Data And Analytics Partnership To Strengthen Client Delivery](http://www.mondovisione.com/media-and-resources/news/lseg-and-bni-announce-strategic-data-and-analytics-partnership-to-strengthen-cli-2026812/)
+append_entries: 4
+Finish: 2026-08-12 11:02:12.610501
