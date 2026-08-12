@@ -4045,3 +4045,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CFTC Exercises Emergency Authority To Ensure Market Stability](http://www.mondovisione.com/media-and-resources/news/cftc-exercises-emergency-authority-to-ensure-market-stability-2026812/)
 append_entries: 1
 Finish: 2026-08-12 05:40:16.576364
+------------------------------------------------------
+Started: 2026-08-12 07:38:53.139665
+Existing_entries: 733
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SGX Group Extends Strong Performance Into FY2027 On Robust July Trading Activity Across Securities And Derivatives](http://www.mondovisione.com/media-and-resources/news/sgx-group-extends-strong-performance-into-fy2027-on-robust-july-trading-activity-2026812/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASX: Acknowledgement Of Notice Of Proposed Application For Leave To Commence A Statutory Derivative Action](http://www.mondovisione.com/media-and-resources/news/asx-acknowledgement-of-notice-of-proposed-application-for-leave-to-commence-a-s-2026812/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Warns Against Yepbit And Yepbit Exchange](http://www.mondovisione.com/media-and-resources/news/asic-warns-against-yepbit-and-yepbit-exchange-2026812/)
+append_entries: 3
+Finish: 2026-08-12 07:38:54.247719
