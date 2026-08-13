@@ -4189,3 +4189,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [View The Speakers, The Agenda And Register For The 7th Annual ETFGI Global ETFs Insights Summit – Asia Pacific](http://www.mondovisione.com/media-and-resources/news/view-the-speakers-the-agenda-and-register-for-the-7th-annual-etfgi-global-etfs-2026813/)
 append_entries: 3
 Finish: 2026-08-13 11:02:51.285575
+------------------------------------------------------
+Started: 2026-08-13 13:21:22.058419
+Existing_entries: 753
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Deutsche Börse Group: Business Indicators For July 2026](http://www.mondovisione.com/media-and-resources/news/deutsche-brse-group-business-indicators-for-july-2026-2026813/)
+append_entries: 1
+Finish: 2026-08-13 13:21:23.344011
