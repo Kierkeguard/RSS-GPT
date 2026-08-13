@@ -4225,3 +4225,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Hong Kong Securities And Futures Commission Obtains Six-Year Disqualification Order Against Former Executive Director Of National United Resources Holdings Limited Over Fictitious Transactions](http://www.mondovisione.com/media-and-resources/news/hong-kong-securities-and-futures-commission-obtains-six-year-disqualification-or-2026813/)
 append_entries: 4
 Finish: 2026-08-13 17:00:06.181612
+------------------------------------------------------
+Started: 2026-08-13 19:07:16.821952
+Existing_entries: 759
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Exchange Group - Options Markets - Market For Underlying Security Used For Openings For Newly Listed Symbols Effective Friday, August 14, 2026](http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-options-markets-market-for-underlying-security-used-for-2026813/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CLS FX Trading Activity July 2026 2.66USD Trillion - Total Daily Traded Volume Submitted To CLS Up 14.7% From July 2025](http://www.mondovisione.com/media-and-resources/news/cls-fx-trading-activity-july-2026-266usd-trillion-total-daily-traded-volume-s-2026813/)
+append_entries: 2
+Finish: 2026-08-13 19:07:17.802770
