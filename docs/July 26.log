@@ -4174,3 +4174,18 @@ Existing_entries: 750
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-08-13 09:16:35.680788
+------------------------------------------------------
+Started: 2026-08-13 11:02:49.877845
+Existing_entries: 750
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Joint Statement By Bank Negara Malaysia And Securities Commission Malaysia - Updates From The 17th Joint Committee On Climate Change (JC3) Meeting](http://www.mondovisione.com/media-and-resources/news/joint-statement-by-bank-negara-malaysia-and-securities-commission-malaysia-upd-2026813/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SET Foundation Aand RLG launch "EF Children, Think Smart, Money Smart" To Build Brain Skills And Financial Discipline In Thai Youth](http://www.mondovisione.com/media-and-resources/news/set-foundation-aand-rlg-launch-ef-children-think-smart-money-smart-to-build-2026813/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [View The Speakers, The Agenda And Register For The 7th Annual ETFGI Global ETFs Insights Summit – Asia Pacific](http://www.mondovisione.com/media-and-resources/news/view-the-speakers-the-agenda-and-register-for-the-7th-annual-etfgi-global-etfs-2026813/)
+append_entries: 3
+Finish: 2026-08-13 11:02:51.285575
