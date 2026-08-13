@@ -4237,3 +4237,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CLS FX Trading Activity July 2026 2.66USD Trillion - Total Daily Traded Volume Submitted To CLS Up 14.7% From July 2025](http://www.mondovisione.com/media-and-resources/news/cls-fx-trading-activity-july-2026-266usd-trillion-total-daily-traded-volume-s-2026813/)
 append_entries: 2
 Finish: 2026-08-13 19:07:17.802770
+------------------------------------------------------
+Started: 2026-08-13 20:48:47.725305
+Existing_entries: 761
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cboe Global Markets Declares Increased Third-Quarter 2026 Dividend](http://www.mondovisione.com/media-and-resources/news/cboe-global-markets-declares-increased-third-quarter-2026-dividend-2026813/)
+append_entries: 1
+Finish: 2026-08-13 20:48:49.086758
