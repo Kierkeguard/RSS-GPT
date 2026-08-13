@@ -4207,3 +4207,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CME Group Foundation Invests $360K In First-Generation Illinois Scholars](http://www.mondovisione.com/media-and-resources/news/cme-group-foundation-invests-360k-in-first-generation-illinois-scholars-2026813/)
 append_entries: 1
 Finish: 2026-08-13 15:01:32.971638
+------------------------------------------------------
+Started: 2026-08-13 17:00:05.054969
+Existing_entries: 755
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Chairman Selig Announces Agenda For August 20 Innovation Advisory Committee Meeting In Washington](http://www.mondovisione.com/media-and-resources/news/cftc-chairman-selig-announces-agenda-for-august-20-innovation-advisory-committee-2026813/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Qatar Stock Exchange: MSCI Equity Indexes August 2026 Index Review Results](http://www.mondovisione.com/media-and-resources/news/qatar-stock-exchange-msci-equity-indexes-august-2026-index-review-results-2026813/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Hearing Adjourned In Criminal Prosecution For Noncompliance With Hong Kong  Securities And Futures Commission Notices In Market Manipulation Investigations](http://www.mondovisione.com/media-and-resources/news/hearing-adjourned-in-criminal-prosecution-for-noncompliance-with-hong-kong-secu-2026813/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Hong Kong Securities And Futures Commission Obtains Six-Year Disqualification Order Against Former Executive Director Of National United Resources Holdings Limited Over Fictitious Transactions](http://www.mondovisione.com/media-and-resources/news/hong-kong-securities-and-futures-commission-obtains-six-year-disqualification-or-2026813/)
+append_entries: 4
+Finish: 2026-08-13 17:00:06.181612
