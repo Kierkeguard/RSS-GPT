@@ -4261,3 +4261,12 @@ Existing_entries: 763
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-08-14 02:19:59.848721
+------------------------------------------------------
+Started: 2026-08-14 05:40:17.816043
+Existing_entries: 763
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ADX Becomes First MENA Exchange To Open “Live: Market Data Directly To ChatGPT, Claude And Other AI Platforms”](http://www.mondovisione.com/media-and-resources/news/adx-becomes-first-mena-exchange-to-open-live-market-data-directly-to-chatgpt-2026814/)
+append_entries: 1
+Finish: 2026-08-14 05:40:18.955340
