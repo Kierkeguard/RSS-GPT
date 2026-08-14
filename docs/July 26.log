@@ -4297,3 +4297,18 @@ Existing_entries: 765
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-08-14 13:16:05.018349
+------------------------------------------------------
+Started: 2026-08-14 14:55:50.283960
+Existing_entries: 765
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Updated Statement Regarding The SEC Division Of Corporation Finance’s Role In The Exchange Act Rule 14a-8 Process](http://www.mondovisione.com/media-and-resources/news/updated-statement-regarding-the-sec-division-of-corporation-finances-role-in-th-2026814/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Malawi Stock Exchange's Weekly Summary Report, 14 August 2026](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchanges-weekly-summary-report-14-august-2026-2026814/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESMA Confirms Go-Live For Weekly Commodity Derivatives Position Reporting](http://www.mondovisione.com/media-and-resources/news/esma-confirms-go-live-for-weekly-commodity-derivatives-position-reporting-2026814/)
+append_entries: 3
+Finish: 2026-08-14 14:55:51.508917
