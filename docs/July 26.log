@@ -4285,3 +4285,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [UK Financial Conduct Authority: CEO Banned For False And Misleading Statements Made In Attempt To Buy Bank And Football Club](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-ceo-banned-for-false-and-misleading-statements-m-2026814/)
 append_entries: 1
 Finish: 2026-08-14 09:11:32.895844
+------------------------------------------------------
+Started: 2026-08-14 11:00:18.471448
+Existing_entries: 765
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-08-14 11:00:19.441340
