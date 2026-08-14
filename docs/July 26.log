@@ -4255,3 +4255,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SEC Charges Toms River Trio In Connection With Alleged $47 Million Fraud Targeting Orthodox Jewish Communities](http://www.mondovisione.com/media-and-resources/news/sec-charges-toms-river-trio-in-connection-with-alleged-47-million-fraud-targeti-2026813/)
 append_entries: 1
 Finish: 2026-08-13 22:49:10.111561
+------------------------------------------------------
+Started: 2026-08-14 02:19:58.870093
+Existing_entries: 763
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-08-14 02:19:59.848721
