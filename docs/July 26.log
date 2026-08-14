@@ -4334,3 +4334,12 @@ Append: [Eurex - Growing A Clearing Operations Hub In Singapore - 15 Years In As
 Append: [Dubai Financial Market Regulated Short Sell – Weekly Summary](http://www.mondovisione.com/media-and-resources/news/dubai-financial-market-regulated-short-sell-weekly-summary-2026814/)
 append_entries: 6
 Finish: 2026-08-14 16:58:17.642046
+------------------------------------------------------
+Started: 2026-08-14 18:59:46.422127
+Existing_entries: 774
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Office Of The Comptroller Of The US Currency: Bank Accounting Advisory Series Updated](http://www.mondovisione.com/media-and-resources/news/office-of-the-comptroller-of-the-us-currency-bank-accounting-advisory-series-up-2026814/)
+append_entries: 1
+Finish: 2026-08-14 18:59:47.678441
