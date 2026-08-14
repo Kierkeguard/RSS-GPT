@@ -4343,3 +4343,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Office Of The Comptroller Of The US Currency: Bank Accounting Advisory Series Updated](http://www.mondovisione.com/media-and-resources/news/office-of-the-comptroller-of-the-us-currency-bank-accounting-advisory-series-up-2026814/)
 append_entries: 1
 Finish: 2026-08-14 18:59:47.678441
+------------------------------------------------------
+Started: 2026-08-14 20:34:48.430282
+Existing_entries: 775
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Commitments Of Traders Reports Update](http://www.mondovisione.com/media-and-resources/news/cftc-commitments-of-traders-reports-update-2026814/)
+append_entries: 1
+Finish: 2026-08-14 20:34:49.432349
