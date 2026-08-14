@@ -4312,3 +4312,25 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ESMA Confirms Go-Live For Weekly Commodity Derivatives Position Reporting](http://www.mondovisione.com/media-and-resources/news/esma-confirms-go-live-for-weekly-commodity-derivatives-position-reporting-2026814/)
 append_entries: 3
 Finish: 2026-08-14 14:55:51.508917
+------------------------------------------------------
+Started: 2026-08-14 16:58:16.631120
+Existing_entries: 768
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Moscow Exchange: Updated Constituents List For OFZ Zero Coupon Yield Curve To Come Into Force On 17 August 2026](http://www.mondovisione.com/media-and-resources/news/moscow-exchange-updated-constituents-list-for-ofz-zero-coupon-yield-curve-to-co-2026814/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nigerian Exchange Weekly Market Report For The Week Ended 14 August 2026](http://www.mondovisione.com/media-and-resources/news/nigerian-exchange-weekly-market-report-for-the-week-ended-14-august-2026-2026814/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Algorithmic Trading In Energy Markets Features Again In ACER's Latest REMIT Quarterly](http://www.mondovisione.com/media-and-resources/news/algorithmic-trading-in-energy-markets-features-again-in-acers-latest-remit-quar-2026814/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ETFGI Reports ETFs Industry In The United States Gathered A Record US$ 1.23 Trillion In YTD Net Inflows At End Of July](http://www.mondovisione.com/media-and-resources/news/etfgi-reports-etfs-industry-in-the-united-states-gathered-a-record-us-123-tril-2026814/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Eurex - Growing A Clearing Operations Hub In Singapore - 15 Years In Asia: From Access To Impact (Part 4)](http://www.mondovisione.com/media-and-resources/news/eurex-growing-a-clearing-operations-hub-in-singapore-15-years-in-asia-from-a-2026814/)
+Append: [Dubai Financial Market Regulated Short Sell – Weekly Summary](http://www.mondovisione.com/media-and-resources/news/dubai-financial-market-regulated-short-sell-weekly-summary-2026814/)
+append_entries: 6
+Finish: 2026-08-14 16:58:17.642046
