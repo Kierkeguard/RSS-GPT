@@ -4490,3 +4490,18 @@ Existing_entries: 778
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-08-16 16:30:25.139776
+------------------------------------------------------
+Started: 2026-08-16 18:34:31.363447
+Existing_entries: 778
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Qatar Stock Exchange Listed Companies Reported QR 23.63 Billion For The Semi-Annual Financial Statement Of 2026](http://www.mondovisione.com/media-and-resources/news/qatar-stock-exchange-listed-companies-reported-qr-2363-billion-for-the-semi-ann-2026816/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Egyptian Exchange (EGX) Announces The Semi-Annual Review Of Its Market Indices “September 2026”](http://www.mondovisione.com/media-and-resources/news/the-egyptian-exchange-egx-announces-the-semi-annual-review-of-its-market-indic-2026816/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Al-Sudairi Extends His Thanks To The Leadership On The Issuance Of The Royal Order Appointing Him As Chairman Of The Board Of The Saudi Arabia Capital Market Authority With The Rank Of Minister](http://www.mondovisione.com/media-and-resources/news/al-sudairi-extends-his-thanks-to-the-leadership-on-the-issuance-of-the-royal-ord-2026816/)
+append_entries: 3
+Finish: 2026-08-16 18:34:32.705902
