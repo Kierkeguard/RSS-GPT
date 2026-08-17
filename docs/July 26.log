@@ -4568,3 +4568,26 @@ Existing_entries: 786
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-08-17 10:35:57.147311
+------------------------------------------------------
+Started: 2026-08-17 12:52:26.162977
+Existing_entries: 786
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Renewal Of Contract Of HKEX Chief Executive Officer](http://www.mondovisione.com/media-and-resources/news/renewal-of-contract-of-hkex-chief-executive-officer-2026817/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tölt Strategies Provided Key Regulatory, Strategic Role Enabling Touchmark To Launch Aug. 14 Amid Intense Interest In New Compute Forward And Futures Markets](http://www.mondovisione.com/media-and-resources/news/tlt-strategies-provided-key-regulatory-strategic-role-enabling-touchmark-to-la-2026817/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cyprus Stock Exchange Monthly Bulletin, July 2026](http://www.mondovisione.com/media-and-resources/news/cyprus-stock-exchange-monthly-bulletin-july-2026-2026817/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ETFGI Reports Canadian ETF Industry Assets Reach Record US$730 Bn As YTD Net Inflows Climb To Record US$109 Bn At End Of July](http://www.mondovisione.com/media-and-resources/news/etfgi-reports-canadian-etf-industry-assets-reach-record-us730-bn-as-ytd-net-inf-2026817/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ETFGI Reports ETFs Industry In Europe Reaches Record USD3.80 Tn In Assets As YTD Net Inflows Climb To Record USD323.59 Bn](http://www.mondovisione.com/media-and-resources/news/etfgi-reports-etfs-industry-in-europe-reaches-record-usd380-tn-in-assets-as-ytd-2026817/)
+Append: [ETFGI Reports That Assets Of US$843.42 Billion Were Invested In The ETFs Industry In Japan At The End Of July](http://www.mondovisione.com/media-and-resources/news/etfgi-reports-that-assets-of-us84342-billion-were-invested-in-the-etfs-industr-2026817/)
+Append: [Decision By The Nasdaq Stockholm Disciplinary Committee RRegarding Magle Chemoswed Holding AB](http://www.mondovisione.com/media-and-resources/news/decision-by-the-nasdaq-stockholm-disciplinary-committee-rregarding-magle-chemosw-2026817/)
+append_entries: 7
+Finish: 2026-08-17 12:52:27.222390
