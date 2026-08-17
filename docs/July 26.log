@@ -4618,3 +4618,15 @@ Existing_entries: 798
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-08-17 16:32:26.771727
+------------------------------------------------------
+Started: 2026-08-17 18:45:45.843680
+Existing_entries: 798
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nodal Exchange And OPIS Partner To Launch New Environmental Market Contracts With Cooperation From IncubEx - New Financially Settled Contracts Based On OPIS Daily Price Assessments Expand Access To Hedging Solutions Across North American Carbon And Renewable Fuel Markets](http://www.mondovisione.com/media-and-resources/news/nodal-exchange-and-opis-partner-to-launch-new-environmental-market-contracts-wit-2026817/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-transaction-in-own-shares-2026817/)
+append_entries: 2
+Finish: 2026-08-17 18:45:47.100701
