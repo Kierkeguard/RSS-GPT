@@ -4630,3 +4630,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [London Stock Exchange Group plc Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-transaction-in-own-shares-2026817/)
 append_entries: 2
 Finish: 2026-08-17 18:45:47.100701
+------------------------------------------------------
+Started: 2026-08-17 20:32:36.250731
+Existing_entries: 800
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Treasury International Capital Data For June](http://www.mondovisione.com/media-and-resources/news/treasury-international-capital-data-for-june-2026817/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [S&P Global Market Intelligence Data | Top 10 Most Shorted Stocks In The US](http://www.mondovisione.com/media-and-resources/news/sandp-global-market-intelligence-data-top-10-most-shorted-stocks-in-the-us-2026817/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Swaps Report Update](http://www.mondovisione.com/media-and-resources/news/cftc-swaps-report-update-2026817/)
+append_entries: 3
+Finish: 2026-08-17 20:32:37.618533
