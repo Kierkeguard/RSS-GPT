@@ -4535,3 +4535,21 @@ Existing_entries: 781
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-08-17 04:48:11.723277
+------------------------------------------------------
+Started: 2026-08-17 07:03:45.572310
+Existing_entries: 781
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Personnel Changes Involving Senior Officials Of The Japan Ministry Of Finance And The Japan  Financial Services Agency: Press Conference By KATAYAMA Satsuki, Japan Minister Of Finance And Minister Of State For Financial Services](http://www.mondovisione.com/media-and-resources/news/personnel-changes-involving-senior-officials-of-the-japan-ministry-of-finance-an-2026817/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Former Hong Kong Securities And Futures Commission Staff Member Charged Following Joint Investigation With Independent Commission Against Corruption](http://www.mondovisione.com/media-and-resources/news/former-hong-kong-securities-and-futures-commission-staff-member-charged-followin-2026817/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Warns Scammers Are Using AI To Spin Vast Webs Of Deception](http://www.mondovisione.com/media-and-resources/news/asic-warns-scammers-are-using-ai-to-spin-vast-webs-of-deception-2026817/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [2026 Kumamoto Earthquake: Press Conference By KATAYAMA Satsuki, Japan Minister Of Finance And Minister Of State For Financial Services](http://www.mondovisione.com/media-and-resources/news/2026-kumamoto-earthquake-press-conference-by-katayama-satsuki-japan-minister-o-2026817/)
+append_entries: 4
+Finish: 2026-08-17 07:03:46.792453
