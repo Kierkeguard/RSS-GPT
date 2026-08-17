@@ -4591,3 +4591,24 @@ Append: [ETFGI Reports That Assets Of US$843.42 Billion Were Invested In The ETF
 Append: [Decision By The Nasdaq Stockholm Disciplinary Committee RRegarding Magle Chemoswed Holding AB](http://www.mondovisione.com/media-and-resources/news/decision-by-the-nasdaq-stockholm-disciplinary-committee-rregarding-magle-chemosw-2026817/)
 append_entries: 7
 Finish: 2026-08-17 12:52:27.222390
+------------------------------------------------------
+Started: 2026-08-17 14:32:14.198883
+Existing_entries: 793
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Elavon Renews Partnership With Sage To Simplify Payments For Growing Businesses](http://www.mondovisione.com/media-and-resources/news/elavon-renews-partnership-with-sage-to-simplify-payments-for-growing-businesses-2026817/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Jennifer Falco Joins Pirum’s New York Office As North American Network Growth Drives Team Expansion](http://www.mondovisione.com/media-and-resources/news/jennifer-falco-joins-pirums-new-york-office-as-north-american-network-growth-dr-2026817/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TMX Group CFO And Toronto Stock Exchange CEO To Present At The 2026 Scotiabank Financials Summit](http://www.mondovisione.com/media-and-resources/news/tmx-group-cfo-and-toronto-stock-exchange-ceo-to-present-at-the-2026-scotiabank-f-2026817/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Treasury Seeks Public Comment On GENIUS Act Proposed Rulemaking](http://www.mondovisione.com/media-and-resources/news/us-treasury-seeks-public-comment-on-genius-act-proposed-rulemaking-2026817/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Fiserv And Flagstar Bank Announce Strategic Core Banking Relationship - Flagstar Selects Finxact, Next-Generation Core Banking Platform, As A Foundation For Modernization Strategy And Key Pillar Of The Flagstar S2 Platform](http://www.mondovisione.com/media-and-resources/news/fiserv-and-flagstar-bank-announce-strategic-core-banking-relationship-flagstar-2026817/)
+append_entries: 5
+Finish: 2026-08-17 14:32:15.198169
