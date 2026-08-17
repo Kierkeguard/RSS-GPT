@@ -4553,3 +4553,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [2026 Kumamoto Earthquake: Press Conference By KATAYAMA Satsuki, Japan Minister Of Finance And Minister Of State For Financial Services](http://www.mondovisione.com/media-and-resources/news/2026-kumamoto-earthquake-press-conference-by-katayama-satsuki-japan-minister-o-2026817/)
 append_entries: 4
 Finish: 2026-08-17 07:03:46.792453
+------------------------------------------------------
+Started: 2026-08-17 08:49:15.182651
+Existing_entries: 785
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Expands Global Presence With New Attachés In India And UAE](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-expands-global-presence-with-new-attachs-in-indi-2026817/)
+append_entries: 1
+Finish: 2026-08-17 08:49:16.447988
