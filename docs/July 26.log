@@ -4768,3 +4768,25 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Defense Technology Company Cando Drones Becomes The 20th Company To Join The Tel Aviv Stock Exchange In 2026 - Cando Drones Management Opened Trading This Morning To Mark The Company's IPO](http://www.mondovisione.com/media-and-resources/news/defense-technology-company-cando-drones-becomes-the-20th-company-to-join-the-tel-2026818/)
 append_entries: 4
 Finish: 2026-08-18 18:44:37.932868
+------------------------------------------------------
+Started: 2026-08-18 20:28:55.033224
+Existing_entries: 822
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Charges Former Executives With Fraud In Connection With $1.9 Billion Collapse Of Subprime Auto Lender Tricolor](http://www.mondovisione.com/media-and-resources/news/sec-charges-former-executives-with-fraud-in-connection-with-19-billion-collaps-2026818/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Options - Change To The Implementation Date Of The Administrative Information Subscriber Feed Update To Include Origin In Liquidity Seeking Event Notification Messages](http://www.mondovisione.com/media-and-resources/news/miax-options-change-to-the-implementation-date-of-the-administrative-informati-2026818/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Filling The Regulatory Tank: Regulation Crypto Assets Proposing Release, SEC Commissioner Hester M. Peirce, Aug. 18, 2026](http://www.mondovisione.com/media-and-resources/news/filling-the-regulatory-tank-regulation-crypto-assets-proposing-release-sec-com-2026818/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Statement On Regulation Crypto Assets: Fit-For-Purpose Exemptions For Crypto Market Innovation, Paul S. Atkins, SEC Chairman, Aug. 18, 2026](http://www.mondovisione.com/media-and-resources/news/statement-on-regulation-crypto-assets-fit-for-purpose-exemptions-for-crypto-mar-2026818/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Proposes New Regulation Crypto Assets - Proposed Rules Would Create A Tailored Securities Offering Regime For Certain Investment Contracts Involving Crypto Assets](http://www.mondovisione.com/media-and-resources/news/sec-proposes-new-regulation-crypto-assets-proposed-rules-would-create-a-tailor-2026818/)
+Append: [Statement On Regulation Crypto Assets, SEC Commissioner Mark T. Uyeda, Aug. 18, 2026](http://www.mondovisione.com/media-and-resources/news/statement-on-regulation-crypto-assets-sec-commissioner-mark-t-uyeda-aug-18-2026818/)
+append_entries: 6
+Finish: 2026-08-18 20:28:56.202846
