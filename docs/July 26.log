@@ -4669,3 +4669,18 @@ Existing_entries: 803
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-08-18 04:39:38.265649
+------------------------------------------------------
+Started: 2026-08-18 06:51:05.431421
+Existing_entries: 803
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TRAFiX Supports Sigma Capital Partners MENA Limited’s International Expansion - Partnership Broadens Sigma's Global Execution Capabilities And Expands TRAFiX Middle East Presence](http://www.mondovisione.com/media-and-resources/news/trafix-supports-sigma-capital-partners-mena-limiteds-international-expansion-2026818/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Exchange Group - Options Markets - Listing Of Additional Weekly Expirations For Qualified Securities](http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-options-markets-listing-of-additional-weekly-expirations-2026818/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIFMA Comments On SEC Proposal To Rescind Rule 611](http://www.mondovisione.com/media-and-resources/news/sifma-comments-on-sec-proposal-to-rescind-rule-611-2026818/)
+append_entries: 3
+Finish: 2026-08-18 06:51:06.696294
