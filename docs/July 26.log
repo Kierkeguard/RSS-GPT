@@ -4732,3 +4732,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Tehran Securities Exchange Leads Second 2026 FEAS Working Group Session On Market Oversight](http://www.mondovisione.com/media-and-resources/news/tehran-securities-exchange-leads-second-2026-feas-working-group-session-on-marke-2026818/)
 append_entries: 2
 Finish: 2026-08-18 14:37:19.319931
+------------------------------------------------------
+Started: 2026-08-18 16:36:23.463552
+Existing_entries: 814
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Clear Street Partners With STS Digital To Expand Institutional Digital Asset Derivatives Offering - Partnership Brings Institutional-Grade Spot, Options, Structured Products And Digital Asset Treasury Capabilities Onto Clear Street’s Cloud-Native Platform](http://www.mondovisione.com/media-and-resources/news/clear-street-partners-with-sts-digital-to-expand-institutional-digital-asset-der-2026818/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [EDX Markets Announces Partnership With StoneX Digital To Strengthen Institutional Digital Asset Capabilities](http://www.mondovisione.com/media-and-resources/news/edx-markets-announces-partnership-with-stonex-digital-to-strengthen-institutiona-2026818/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Seeks Public Comment On Proposed Rule Changes For Commodity Pool Operator And Commodity Trading Advisor Registration](http://www.mondovisione.com/media-and-resources/news/cftc-seeks-public-comment-on-proposed-rule-changes-for-commodity-pool-operator-a-2026818/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Xceptor Extends SaaS Offering To Switzerland And Japan](http://www.mondovisione.com/media-and-resources/news/xceptor-extends-saas-offering-to-switzerland-and-japan-2026818/)
+append_entries: 4
+Finish: 2026-08-18 16:36:24.474763
