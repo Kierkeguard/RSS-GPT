@@ -4720,3 +4720,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [HKEX Welcomes Mainland Insurance Funds To Invest In Hong Kong ETFs](http://www.mondovisione.com/media-and-resources/news/hkex-welcomes-mainland-insurance-funds-to-invest-in-hong-kong-etfs-2026818/)
 append_entries: 3
 Finish: 2026-08-18 12:54:03.980830
+------------------------------------------------------
+Started: 2026-08-18 14:37:18.352413
+Existing_entries: 812
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TMX Group Limited Completes Acquisition Of RAFI Indices From Research Affiliates](http://www.mondovisione.com/media-and-resources/news/tmx-group-limited-completes-acquisition-of-rafi-indices-from-research-affiliates-2026818/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tehran Securities Exchange Leads Second 2026 FEAS Working Group Session On Market Oversight](http://www.mondovisione.com/media-and-resources/news/tehran-securities-exchange-leads-second-2026-feas-working-group-session-on-marke-2026818/)
+append_entries: 2
+Finish: 2026-08-18 14:37:19.319931
