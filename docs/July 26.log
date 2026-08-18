@@ -4684,3 +4684,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SIFMA Comments On SEC Proposal To Rescind Rule 611](http://www.mondovisione.com/media-and-resources/news/sifma-comments-on-sec-proposal-to-rescind-rule-611-2026818/)
 append_entries: 3
 Finish: 2026-08-18 06:51:06.696294
+------------------------------------------------------
+Started: 2026-08-18 08:42:04.416238
+Existing_entries: 806
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TNS Appoints Michael Johnson As Global Managing Director, Payments Market Business](http://www.mondovisione.com/media-and-resources/news/tns-appoints-michael-johnson-as-global-managing-director-payments-market-busine-2026818/)
+append_entries: 1
+Finish: 2026-08-18 08:42:05.700209
