@@ -4693,3 +4693,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [TNS Appoints Michael Johnson As Global Managing Director, Payments Market Business](http://www.mondovisione.com/media-and-resources/news/tns-appoints-michael-johnson-as-global-managing-director-payments-market-busine-2026818/)
 append_entries: 1
 Finish: 2026-08-18 08:42:05.700209
+------------------------------------------------------
+Started: 2026-08-18 10:33:10.868071
+Existing_entries: 807
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX Enhances HKEX Tech 100 Index Methodology](http://www.mondovisione.com/media-and-resources/news/hkex-enhances-hkex-tech-100-index-methodology-2026818/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Bans Senior Manager For Lack Of Honesty And Integrity](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-bans-senior-manager-for-lack-of-honesty-and-integ-2026818/)
+append_entries: 2
+Finish: 2026-08-18 10:33:12.290667
