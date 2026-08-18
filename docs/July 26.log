@@ -4705,3 +4705,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [UK Financial Conduct Authority Bans Senior Manager For Lack Of Honesty And Integrity](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-bans-senior-manager-for-lack-of-honesty-and-integ-2026818/)
 append_entries: 2
 Finish: 2026-08-18 10:33:12.290667
+------------------------------------------------------
+Started: 2026-08-18 12:54:02.932623
+Existing_entries: 809
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Trading Technologies To Expand Prediction Markets And Crypto Derivatives Access with Support For OG.com And Crypto.com](http://www.mondovisione.com/media-and-resources/news/trading-technologies-to-expand-prediction-markets-and-crypto-derivatives-access-2026818/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NYSE Member Firms Report Second Quarter Results](http://www.mondovisione.com/media-and-resources/news/nyse-member-firms-report-second-quarter-results-2026818/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX Welcomes Mainland Insurance Funds To Invest In Hong Kong ETFs](http://www.mondovisione.com/media-and-resources/news/hkex-welcomes-mainland-insurance-funds-to-invest-in-hong-kong-etfs-2026818/)
+append_entries: 3
+Finish: 2026-08-18 12:54:03.980830
