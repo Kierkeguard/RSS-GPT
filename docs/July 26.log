@@ -4832,3 +4832,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [NZX Board Appoints Hishaam Mirza As Chief Executive](http://www.mondovisione.com/media-and-resources/news/nzx-board-appoints-hishaam-mirza-as-chief-executive-2026819/)
 append_entries: 4
 Finish: 2026-08-19 06:51:26.974409
+------------------------------------------------------
+Started: 2026-08-19 08:42:08.919324
+Existing_entries: 832
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HSBC And Standard Chartered Execute First Live Tokenised Deposit Transaction On Swift’s Blockchain-Based Ledger - Milestone Signals Next Step For Cross-Border Payments As Regulated Deposits Issued By Banks Are Connected Through Swift’s Digital Blockchain-Based Ledger](http://www.mondovisione.com/media-and-resources/news/hsbc-and-standard-chartered-execute-first-live-tokenised-deposit-transaction-on-2026819/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Mirae Asset Securities Launches WTI Leverage ETNs In First Partnership With Solactive](http://www.mondovisione.com/media-and-resources/news/mirae-asset-securities-launches-wti-leverage-etns-in-first-partnership-with-sola-2026819/)
+append_entries: 2
+Finish: 2026-08-19 08:42:10.089731
