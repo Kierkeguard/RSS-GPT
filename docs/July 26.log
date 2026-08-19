@@ -4895,3 +4895,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CFTC Resolves Actions Against Former Alameda CEO, And Alameda And FTX Co-Founder](http://www.mondovisione.com/media-and-resources/news/cftc-resolves-actions-against-former-alameda-ceo-and-alameda-and-ftx-co-founder-2026819/)
 append_entries: 1
 Finish: 2026-08-19 16:35:51.407403
+------------------------------------------------------
+Started: 2026-08-19 18:40:38.952803
+Existing_entries: 843
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Minutes Of The Federal Open Market Committee, July 28–29, 2026](http://www.mondovisione.com/media-and-resources/news/minutes-of-the-federal-open-market-committee-july-2829-2026-2026819/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Requests Comment On The Listing Of Compute Derivatives Contracts](http://www.mondovisione.com/media-and-resources/news/cftc-requests-comment-on-the-listing-of-compute-derivatives-contracts-2026819/)
+append_entries: 2
+Finish: 2026-08-19 18:40:40.105362
