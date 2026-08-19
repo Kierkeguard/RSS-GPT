@@ -4868,3 +4868,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [HKEX: Condensed Consolidated Financial Statements For The Six Months Ended 30 June 2026 (Unaudited)](http://www.mondovisione.com/media-and-resources/news/hkex-condensed-consolidated-financial-statements-for-the-six-months-ended-30-ju-2026819/)
 append_entries: 2
 Finish: 2026-08-19 12:55:11.127701
+------------------------------------------------------
+Started: 2026-08-19 14:37:58.910122
+Existing_entries: 838
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACO Battery IPO: A New Industry Emerges On Tehran Securities Exchange](http://www.mondovisione.com/media-and-resources/news/aco-battery-ipo-a-new-industry-emerges-on-tehran-securities-exchange-2026819/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Fines And Bans Former SVS Securities CEO](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-fines-and-bans-former-svs-securities-ceo-2026819/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Treasury Announces Increased Sizes Of Nominal Long-End Liquidity Support Buybacks Beginning September 9, 2026](http://www.mondovisione.com/media-and-resources/news/us-treasury-announces-increased-sizes-of-nominal-long-end-liquidity-support-buyb-2026819/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ICE’s Global Sugar Markets Hit Record Open Interest On Strong Demand For Hedging - Surpassing Previous Record Set In 2010](http://www.mondovisione.com/media-and-resources/news/ices-global-sugar-markets-hit-record-open-interest-on-strong-demand-for-hedging-2026819/)
+append_entries: 4
+Finish: 2026-08-19 14:38:00.198349
