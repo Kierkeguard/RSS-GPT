@@ -4814,3 +4814,21 @@ Existing_entries: 828
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-08-19 04:43:23.829292
+------------------------------------------------------
+Started: 2026-08-19 06:51:25.895626
+Existing_entries: 828
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Monetary Authority Of Singapore Introduces Measures To Strengthen Singapore’s Competitiveness As A Leading Asset Management Hub](http://www.mondovisione.com/media-and-resources/news/monetary-authority-of-singapore-introduces-measures-to-strengthen-singapores-co-2026819/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Qatar Stock Exchange: QE Index, QE Al Rayan Islamic Index And QE All Share Index Constituents (Quarterly Index Review September 1st, 2026)](http://www.mondovisione.com/media-and-resources/news/qatar-stock-exchange-qe-index-qe-al-rayan-islamic-index-and-qe-all-share-index-2026819/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX 2026 Interim Results](http://www.mondovisione.com/media-and-resources/news/hkex-2026-interim-results-2026819/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NZX Board Appoints Hishaam Mirza As Chief Executive](http://www.mondovisione.com/media-and-resources/news/nzx-board-appoints-hishaam-mirza-as-chief-executive-2026819/)
+append_entries: 4
+Finish: 2026-08-19 06:51:26.974409
