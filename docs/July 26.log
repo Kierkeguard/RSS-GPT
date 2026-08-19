@@ -4886,3 +4886,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ICE’s Global Sugar Markets Hit Record Open Interest On Strong Demand For Hedging - Surpassing Previous Record Set In 2010](http://www.mondovisione.com/media-and-resources/news/ices-global-sugar-markets-hit-record-open-interest-on-strong-demand-for-hedging-2026819/)
 append_entries: 4
 Finish: 2026-08-19 14:38:00.198349
+------------------------------------------------------
+Started: 2026-08-19 16:35:50.149282
+Existing_entries: 842
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Resolves Actions Against Former Alameda CEO, And Alameda And FTX Co-Founder](http://www.mondovisione.com/media-and-resources/news/cftc-resolves-actions-against-former-alameda-ceo-and-alameda-and-ftx-co-founder-2026819/)
+append_entries: 1
+Finish: 2026-08-19 16:35:51.407403
