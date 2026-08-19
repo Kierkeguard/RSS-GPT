@@ -4844,3 +4844,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Mirae Asset Securities Launches WTI Leverage ETNs In First Partnership With Solactive](http://www.mondovisione.com/media-and-resources/news/mirae-asset-securities-launches-wti-leverage-etns-in-first-partnership-with-sola-2026819/)
 append_entries: 2
 Finish: 2026-08-19 08:42:10.089731
+------------------------------------------------------
+Started: 2026-08-19 10:32:59.917918
+Existing_entries: 834
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tokenovate Appoints Dr Alec Burns To Scale Legal-First Infrastructure For Tokenised Capital Markets - Former VeChain AI Leader And ‘Untangling Web3’ Host Joins To Accelerate Enterprise Production Of Tokenovate’s Deterministic Post-Trade Operating Layer](http://www.mondovisione.com/media-and-resources/news/tokenovate-appoints-dr-alec-burns-to-scale-legal-first-infrastructure-for-tokeni-2026819/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Securities Commission Malaysia Bridges Semiconductor Funding Gap Through Capital Market Financing Solutions](http://www.mondovisione.com/media-and-resources/news/securities-commission-malaysia-bridges-semiconductor-funding-gap-through-capital-2026819/)
+append_entries: 2
+Finish: 2026-08-19 10:33:00.928493
