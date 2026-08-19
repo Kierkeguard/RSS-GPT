@@ -4919,3 +4919,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Comptroller Of The US Currency Gould Discusses Digital Asset Innovation, GENIUS Next Steps](http://www.mondovisione.com/media-and-resources/news/comptroller-of-the-us-currency-gould-discusses-digital-asset-innovation-genius-2026819/)
 append_entries: 2
 Finish: 2026-08-19 20:33:14.691792
+------------------------------------------------------
+Started: 2026-08-19 22:28:43.944962
+Existing_entries: 847
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NZX H1 2026 Results & Interim Report Published](http://www.mondovisione.com/media-and-resources/news/nzx-h1-2026-results-and-interim-report-published-2026819/)
+append_entries: 1
+Finish: 2026-08-19 22:28:44.978476
