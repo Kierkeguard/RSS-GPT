@@ -4907,3 +4907,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CFTC Requests Comment On The Listing Of Compute Derivatives Contracts](http://www.mondovisione.com/media-and-resources/news/cftc-requests-comment-on-the-listing-of-compute-derivatives-contracts-2026819/)
 append_entries: 2
 Finish: 2026-08-19 18:40:40.105362
+------------------------------------------------------
+Started: 2026-08-19 20:33:13.453989
+Existing_entries: 845
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Options Exchange - Amendment To Request For Response Messages To Remove Initiating Price For PRIME And cPRIME Auctions](http://www.mondovisione.com/media-and-resources/news/miax-options-exchange-amendment-to-request-for-response-messages-to-remove-ini-2026819/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Comptroller Of The US Currency Gould Discusses Digital Asset Innovation, GENIUS Next Steps](http://www.mondovisione.com/media-and-resources/news/comptroller-of-the-us-currency-gould-discusses-digital-asset-innovation-genius-2026819/)
+append_entries: 2
+Finish: 2026-08-19 20:33:14.691792
