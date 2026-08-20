@@ -5006,3 +5006,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CoinShares Market Commentary - Bitcoin's Latest Rally Is A Macro Story, Not A Crypto One](http://www.mondovisione.com/media-and-resources/news/coinshares-market-commentary-bitcoins-latest-rally-is-a-macro-story-not-a-cr-2026820/)
 append_entries: 1
 Finish: 2026-08-20 14:39:45.088664
+------------------------------------------------------
+Started: 2026-08-20 16:39:33.956973
+Existing_entries: 858
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Announcement To All Participants Regarding The Periodic Review Of EGX Market Segments](http://www.mondovisione.com/media-and-resources/news/announcement-to-all-participants-regarding-the-periodic-review-of-egx-market-seg-2026820/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Circular Of Shanghai International Energy Exchange On Further Expanding the Investment Scope Of Qualified Foreign Investors In Commodity Futures And Options](http://www.mondovisione.com/media-and-resources/news/circular-of-shanghai-international-energy-exchange-on-further-expanding-the-inve-2026820/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bursa Malaysia And FTSE Russell Announce Enhancements To FBMKLCI And FBM70 Indices To Reflect A Broader, More Diversified Equity Market](http://www.mondovisione.com/media-and-resources/news/bursa-malaysia-and-ftse-russell-announce-enhancements-to-fbmklci-and-fbm70-indic-2026820/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Notice Of Shanghai International Energy Exchange On Further Expanding The Investment Scope Of Qualified Foreign Investors In Commodity Futures And Options](http://www.mondovisione.com/media-and-resources/news/notice-of-shanghai-international-energy-exchange-on-further-expanding-the-invest-2026820/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Bursa Malaysia Securities Publicly Reprimands Hua Yang Berhad](http://www.mondovisione.com/media-and-resources/news/bursa-malaysia-securities-publicly-reprimands-hua-yang-berhad-2026820/)
+append_entries: 5
+Finish: 2026-08-20 16:39:34.944851
