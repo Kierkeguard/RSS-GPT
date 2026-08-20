@@ -4946,3 +4946,21 @@ Existing_entries: 848
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-08-20 04:41:29.054970
+------------------------------------------------------
+Started: 2026-08-20 06:53:09.302344
+Existing_entries: 848
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Superannuation And Whole-Of-Business Retirement - Opening Remarks By ASIC Commissioner Simone Constant At The Conexus Retirement Leaders’ Summit In Canberra On 19 August 2026](http://www.mondovisione.com/media-and-resources/news/superannuation-and-whole-of-business-retirement-opening-remarks-by-asic-commis-2026820/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Zealand Financial Markets Authority: Add On Insurance Review Highlights Insurers' Responsibility To Deliver Fair Outcomes](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-add-on-insurance-review-highlights-insu-2026820/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Remarks At White House Innovation Meeting, CFTC Chairman Michael S. Selig, Washington, DC | August 19, 2026](http://www.mondovisione.com/media-and-resources/news/remarks-at-white-house-innovation-meeting-cftc-chairman-michael-s-selig-washi-2026820/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Corporate Insider Pays BC Securities Commission $50,000 For Failing To File Insider Reports](http://www.mondovisione.com/media-and-resources/news/corporate-insider-pays-bc-securities-commission-50000-for-failing-to-file-insi-2026820/)
+append_entries: 4
+Finish: 2026-08-20 06:53:10.505091
