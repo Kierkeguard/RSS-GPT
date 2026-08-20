@@ -5027,3 +5027,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Bursa Malaysia Securities Publicly Reprimands Hua Yang Berhad](http://www.mondovisione.com/media-and-resources/news/bursa-malaysia-securities-publicly-reprimands-hua-yang-berhad-2026820/)
 append_entries: 5
 Finish: 2026-08-20 16:39:34.944851
+------------------------------------------------------
+Started: 2026-08-20 18:45:52.650834
+Existing_entries: 863
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Seeks Public Comments On Proposed Elimination Of SEF Order Book Requirement For Permitted Transactions](http://www.mondovisione.com/media-and-resources/news/cftc-seeks-public-comments-on-proposed-elimination-of-sef-order-book-requirement-2026820/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Office Of The Comptroller Of The US Currency Announces Enforcement Actions for August 2026](http://www.mondovisione.com/media-and-resources/news/office-of-the-comptroller-of-the-us-currency-announces-enforcement-actions-for-a-2026820/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority - Unregulated Loan Notes And Mini-Bonds: Don't Risk Your Savings On Promises Of High Returns](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-unregulated-loan-notes-and-mini-bonds-dont-ri-2026820/)
+append_entries: 3
+Finish: 2026-08-20 18:45:53.704698
