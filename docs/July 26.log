@@ -4964,3 +4964,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Corporate Insider Pays BC Securities Commission $50,000 For Failing To File Insider Reports](http://www.mondovisione.com/media-and-resources/news/corporate-insider-pays-bc-securities-commission-50000-for-failing-to-file-insi-2026820/)
 append_entries: 4
 Finish: 2026-08-20 06:53:10.505091
+------------------------------------------------------
+Started: 2026-08-20 08:44:05.351595
+Existing_entries: 852
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-08-20 08:44:06.263514
