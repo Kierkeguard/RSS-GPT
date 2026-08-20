@@ -5048,3 +5048,21 @@ Existing_entries: 866
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-08-20 20:33:09.525092
+------------------------------------------------------
+Started: 2026-08-20 22:31:48.569370
+Existing_entries: 866
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Options Exchange - Update To New Selective Liquidity Auto Purge (SLAP) Functionality Implementation Date](http://www.mondovisione.com/media-and-resources/news/miax-options-exchange-update-to-new-selective-liquidity-auto-purge-slap-func-2026820/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Options Exchange - Update To Aggregate Risk Manager Change To Adopt Origin Multiplier Implementation Date](http://www.mondovisione.com/media-and-resources/news/miax-options-exchange-update-to-aggregate-risk-manager-change-to-adopt-origin-2026820/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Exchange Group - Options Markets - Market For Underlying Security Used For Openings for Newly Listed Symbols Effective Friday, August 21, 2026](http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-options-markets-market-for-underlying-security-used-for-2026820/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Apex Group and OpenVC Partne To Advance Private Markets Transparency Through New Real-World Asset Indices - Partnership Combines Apex Group's Proprietary Private Markets Data And Distribution Capabilities With OpenVC's Expertise In Private Market Indexing](http://www.mondovisione.com/media-and-resources/news/apex-group-and-openvc-partne-to-advance-private-markets-transparency-through-new-2026820/)
+append_entries: 4
+Finish: 2026-08-20 22:31:50.062042
