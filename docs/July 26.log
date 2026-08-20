@@ -4970,3 +4970,24 @@ Existing_entries: 852
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-08-20 08:44:06.263514
+------------------------------------------------------
+Started: 2026-08-20 10:35:04.386450
+Existing_entries: 852
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Securities Commission Malaysia Wins Suit Against Tey Por Yee And Four Other Defendants For Scheme To Defraud And Causing Wrongful Loss To Four Public Listed Companies - Defendants Ordered To Pay A Total Of RM103.75 Million](http://www.mondovisione.com/media-and-resources/news/securities-commission-malaysia-wins-suit-against-tey-por-yee-and-four-other-defe-2026820/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ETFGI Reports Global ETF Industry Assets Reach Record US$ 23.11 Trillion At The End Of July And YTD Inflows Hit All-Time High Us$ 1.71 Trillion](http://www.mondovisione.com/media-and-resources/news/etfgi-reports-global-etf-industry-assets-reach-record-us-2311-trillion-at-the-2026820/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Axiology Selected To Participate In ECB’s Pontes Initial Launch And Appia Contact Group - Axiology Joins The First Group Of DLT Operators Registered For Pontes And Has Been Selected To Join The ECB Forum Supporting Both Pontes And The Longer-Term Appia Roadmap](http://www.mondovisione.com/media-and-resources/news/axiology-selected-to-participate-in-ecbs-pontes-initial-launch-and-appia-contac-2026820/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority: Consumers Warned To Beware Of Risky Mini-Bonds And Loan Notes](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-consumers-warned-to-beware-of-risky-mini-bonds-a-2026820/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [STAC Summit Tokyo 2026](http://www.mondovisione.com/media-and-resources/news/stac-summit-tokyo-2026-2026820/)
+append_entries: 5
+Finish: 2026-08-20 10:35:05.551672
