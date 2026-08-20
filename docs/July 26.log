@@ -4991,3 +4991,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [STAC Summit Tokyo 2026](http://www.mondovisione.com/media-and-resources/news/stac-summit-tokyo-2026-2026820/)
 append_entries: 5
 Finish: 2026-08-20 10:35:05.551672
+------------------------------------------------------
+Started: 2026-08-20 12:57:07.542595
+Existing_entries: 857
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-08-20 12:57:08.930894
