@@ -5,11 +5,256 @@
 <link>http://www.mondovisione.com/media-and-resources/news/</link>
 
 <item>
+<title>SEC: Section 6(b) Filing Fee Rate Advisory For Fiscal Year 2027</title>
+<link>http://www.mondovisione.com/media-and-resources/news/sec-section-6b-filing-fee-rate-advisory-for-fiscal-year-2027-2026821/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/sec-section-6b-filing-fee-rate-advisory-for-fiscal-year-2027-2026821/</guid>
+<content:encoded><![CDATA[
+
+<p>The Securities and Exchange Commission Commission today announced that the fees that public companies and other issuers pay to register their securities with the Commission will decrease from $138.10 per million dollars to $87.00 per million dollars, effective Oct. 1. The new fee rate will be applicable to the registration of securities under Section 6(b) of the Securities Act of 1933, the repurchase of securities under Section 13(e) of the Securities Exchange Act of 1934, and proxy solicitations and specified tender offers under Section 14(g) of the Securities Exchange Act of 1934.</p>
+<p>The securities laws require the Commission to make annual adjustments to the rates for fees paid under Section 6(b) of the Securities Act of 1933, which also adjusts the annual fee rates under Sections 13(e) and 14(g) of the Securities Exchange Act of 1934, as well as Rule 24f-2 under the Investment Company Act of 1940. The Commission must set rates for the fees paid under Section 6(b) to levels that the Commission projects will generate collections equal to annual statutory target amounts. The Commission&rsquo;s projections are calculated using a methodology developed in consultation with the Congressional Budget Office and the Office of Management and Budget. The Commission determined the statutory target amount for fiscal year 2027 to be $919,148,792 by adjusting the fiscal year 2026 target collection amount of $887,800,554 for the rate of inflation.</p>
+<p>The Commission will issue further notices as appropriate to keep the public informed of developments relating to fees.&nbsp;&nbsp;</p>
+<h2>Resources</h2>
+<ul class="field field--name-field-related-materials field--type-link field--label-hidden field__items">
+<li class="field__item"><a href="https://www.sec.gov/files/rules/other/2026/33-11436.pdf">SEC Order</a></li>
+</ul>
+]]></content:encoded>
+<pubDate>Fri, 21 Aug 2026 17:36:52 GMT</pubDate>
+<pubDate>Fri, 21 Aug 2026 17:36:52 GMT</pubDate>
+</item>
+<item>
+<title>MIAX Options Exchange - Updated Interface Specifications And Implementation Schedule For Upcoming Enhancements</title>
+<link>http://www.mondovisione.com/media-and-resources/news/miax-options-exchange-updated-interface-specifications-and-implementation-sche-2026821/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/miax-options-exchange-updated-interface-specifications-and-implementation-sche-2026821/</guid>
+<content:encoded><![CDATA[
+
+<p><span>As previously announced in the </span><a class="safe---anchor---wc" href="https://www.miaxglobal.com/alert/2026/03/30/miax-options-exchange-updated-mei-ais-and-foi-interface-specifications" rel="noopener noreferrer nofollow" target="_blank">March 30, 2026 Alert</a><span>, the MIAX Options Exchange will implement the below functionality enhancements.</span></p>
+<ol>
+<li><strong>Functionality Enhancements</strong>:<ol>
+<li><strong>Support for IEX and MX2 Options Exchange</strong><ol>
+<li>Updates to the following Interface Specifications are as follows:<ol>
+<li><strong>FOI Interface Specification v2.7a</strong>: SecurityExchange (tag = 207) field of ExecutionReport message (MsgType = 8) to include IEX and MX2 Options Exchange MIC code</li>
+<li><strong>FXD Interface Specification v2.6c</strong>: SecurityExchange (tag = 207) field of ExecutionReport message (MsgType = 8) to include IEX and MX2 Options Exchange MIC code</li>
+<li><strong>CTD Interface Specification v2.6d</strong>: Execution Exchange field of Trade message (Message Type = T) to include IEX and MX2 Options Exchange Code</li>
+</ol></li>
+</ol></li>
+<li><strong>Previously announced Local Market Maker on PRIME/cPRIME Contra Functionality</strong><ol>
+<li>The functionality, previously published in the <a class="safe---anchor---wc" href="https://www.miaxglobal.com/alert/2026/03/30/miax-options-exchange-updated-mei-ais-and-foi-interface-specifications" rel="noopener noreferrer nofollow" target="_blank">March 30, 2026 Alert</a>, has been reverted back to its prior state.</li>
+<li>Updates to the <strong>FOI Interface Specification v2.7a</strong> are as follows:<ol>
+<li>New Order Cross message to exclude Market Maker (MM) as a valid &ldquo;CustomerOrFirm&rdquo; value for PRIME.</li>
+<li>New Order Cross &ndash; Multileg message to exclude Market Maker (MM) as a valid &ldquo;CustomerOrFirm&rdquo; value for cPRIME.</li>
+</ol></li>
+</ol></li>
+</ol></li>
+<li><strong>Schedule for All Enhancements:</strong><ol>
+<li><strong>MEI v2.11 Changes</strong><ol>
+<li><strong>Friday, September 4, 2026</strong><ol>
+<li>Quote Width Relief Notification Functionality</li>
+<li>Mass Cancel Trigger Reason on Line Disconnect</li>
+</ol></li>
+<li><strong>Friday, September 11, 2026</strong><ol>
+<li>Selective Liquidity Auto Purge (SLAP) Functionality</li>
+<li>Aggregate Risk Manager (ARM) Origin Multiplier Functionality</li>
+</ol></li>
+<li>All MEI v2.11 features require a certification.</li>
+</ol></li>
+<li><strong>AIS v2.6a Changes</strong><ol>
+<li>Updates:<ol>
+<li>New &ldquo;Origin&rdquo; field in both Simple and Complex Liquidity Seeking Event Notifications</li>
+<li>PRIME and cPRIME Auction Start Price will no longer be disseminated (i.e. will always be 0) via the AIS Feed</li>
+</ol></li>
+<li>Roll out schedule will be cloud by cloud:<ol>
+<li><strong>Day 1 - Tuesday, September 1, 2026</strong>: Cloud 21 &nbsp;</li>
+<li><strong>Day 2 - Wednesday, September 2, 2026</strong>: Clouds 18 &ndash; 20</li>
+<li><strong>Day 3 - Thursday, September 3, 2026</strong>: Clouds 1 &ndash; 8</li>
+<li><strong>Day 4 - Friday, September 4, 2026</strong>: &nbsp;Clouds 9 &ndash; 17 and 22 &ndash; 24</li>
+</ol></li>
+</ol></li>
+</ol></li>
+<li><strong>Additional Details</strong>:<ol>
+<li>These changes are available in the MIAX Options Exchange's Firm Test Bed (FTB2) environment.</li>
+<li>Visit <a class="safe---anchor---wc" href="https://www.miaxglobal.com/markets/us-options/miax-options/interface-specifications" rel="noopener noreferrer nofollow" target="_blank">MIAX Options Interface Specifications</a> for additional details.</li>
+</ol></li>
+</ol>
+<p><span>Please contact MIAX Trading Operations at </span><a class="safe---anchor---wc" rel="noopener noreferrer nofollow">TradingOperations@miaxglobal.com</a><span> or (609) 897-7302 to discuss any specific issues, update configurations and to arrange interface testing.</span></p>
+]]></content:encoded>
+<pubDate>Fri, 21 Aug 2026 16:59:35 GMT</pubDate>
+<pubDate>Fri, 21 Aug 2026 16:59:35 GMT</pubDate>
+</item>
+<item>
+<title>ETFGI: Korean Retail Investors Continue To Embrace U.S.-Listed ETFs, With 21 ETFs Among Top 50 Overseas Securities Purchased In July</title>
+<link>http://www.mondovisione.com/media-and-resources/news/etfgi-korean-retail-investors-continue-to-embrace-us-listed-etfs-with-21-etf-2026821/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/etfgi-korean-retail-investors-continue-to-embrace-us-listed-etfs-with-21-etf-2026821/</guid>
+<content:encoded><![CDATA[
+
+<p>ETFGI, a leading independent research and consultancy firm covering trends in the global ETFs industry, reported today that 21 of the top 50 overseas securities purchased by Korean retail investors in July 2026 were U.S.-listed ETFs. This compares with 22 U.S.-listed ETFs among the top 50 overseas securities purchases in June, May, and April 2026, indicating continued strong investor demand for ETF products despite a modest decline in representation.</p>
+<p>In dollar terms, Korean retail investors purchased US$12.61 billion of U.S.-listed ETFs in July 2026. While this remains a significant level of investment activity, it is below the 2025 monthly peak of US$15.85 billion recorded in October, highlighting some moderation in buying activity from record levels. &nbsp;(All dollar values in USD unless otherwise noted)</p>
+<p>&nbsp;</p>
+<p><strong>Highlights</strong></p>
+<ul>
+<li class="ck-list-marker-bold"><strong>Korean retail investors purchased US$12.61 billion and sold US$6.95 billion of the top overseas ETFs in July 2026.</strong></li>
+<li class="ck-list-marker-bold"><strong>Twenty-one of the top 50 overseas securities purchased by Korean retail investors in July were U.S.-listed ETFs.</strong></li>
+<li class="ck-list-marker-bold"><strong>More than half of these ETFs (11 of 21) provided leveraged or inverse exposure, highlighting investors' continued interest in tactical and high-conviction trading strategies.</strong></li>
+<li class="ck-list-marker-bold"><strong>The Direxion Daily Semiconductor Bull 3X Shares ETF (SOXL) was the most purchased overseas ETF, attracting US$7.87 billion in gross purchases during July.</strong></li>
+<li class="ck-list-marker-bold"><strong>The Direxion Daily Semiconductor Bull 3X Shares ETF (SOXL) was also the most sold overseas ETF, with US$4.08 billion in gross sales during the month.</strong></li>
+<li class="ck-list-marker-bold"><strong>Despite significant profit-taking activity, the Direxion Daily Semiconductor Bull 3X Shares ETF (SOXL) recorded the largest net purchase settlement among overseas ETFs, with net inflows of US$3.79 billion in July.&nbsp;</strong></li>
+</ul>
+<p>Korea has become one of the most closely watched leveraged ETF markets globally following the launch of its first single-stock leveraged and inverse ETFs linked to Samsung Electronics and SK Hynix in May 2026. The products attracted extraordinary retail investor demand, with more than 100,000 investors completing mandatory training before launch and retail trading volumes rapidly reaching trillions of won.</p>
+<p>However, the rapid growth of these products coincided with heightened volatility in Korean semiconductor stocks and the broader KOSPI market. Regulators became concerned that the daily rebalancing requirements of leveraged ETFs were amplifying market moves and increasing risks for retail investors.</p>
+<p>In response, the Financial Services Commission (FSC) introduced a series of measures in July 2026, including tripling the minimum investment requirement from KRW 10 million to KRW 30 million, restricting the use of securities as collateral, suspending new product launches, banning promotional activity, and considering limits on investor exposure to these products.</p>
+<p>The regulatory intervention has significantly reduced trading activity and shifted investor assets toward broader index-based leveraged ETFs. Nevertheless, leveraged and inverse ETFs remain highly active trading tools, particularly during periods of heightened volatility in Samsung Electronics and SK Hynix shares.</p>
+<p><strong>Total Amount of top overseas ETFs purchased by Korean retail investors by month&nbsp;</strong></p>
+<p><img height="468" src="https://etfgi.com/sites/default/files/inline-images/image_166.png" width="856" /></p>
+<p><span lang="EN-US">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Source: Korea Securities Depository</span></p>
+<p><span lang="EN-GB"><strong>Total Amount of top overseas ETFs sold by Korean retail investors by month&nbsp;</strong></span></p>
+<div class="embedded-entity"><img class="img-responsive" height="408" src="https://etfgi.com/sites/default/files/pic_2.png" width="771" /></div>
+<p><span lang="EN-US">Source: Korea Securities Depository</span></p>
+<p><span lang="EN-GB"><strong>Total Amount of top overseas ETFs net purchase settlements by Korean retail investors by month</strong>&nbsp;</span></p>
+<div class="embedded-entity"><img class="img-responsive" height="503" src="https://etfgi.com/sites/default/files/pic_3.png" width="776" /></div>
+<p>&nbsp;&nbsp;<span lang="EN-US">&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Source: Korea Securities Depository</span></p>
+<p><span lang="EN-US">Click <a href="https://etfgi.com/news/press-releases/2026/08/korean-retail-investors-continue-embrace-us-listed-etfs-21-etfs-among" title="here">here</a> for full details.</span></p>
+]]></content:encoded>
+<pubDate>Fri, 21 Aug 2026 16:51:44 GMT</pubDate>
+<pubDate>Fri, 21 Aug 2026 16:51:44 GMT</pubDate>
+</item>
+<item>
+<title>Rates, Equity Volumes, And Market Structure: What's Shaping Markets In 2025: Jeffrey O'Connor, US Head Of Market Structure And Sell Side ATS Strategy At Liquidnet</title>
+<link>http://www.mondovisione.com/media-and-resources/news/rates-equity-volumes-and-market-structure-whats-shaping-markets-in-2025-jef-2026821/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/rates-equity-volumes-and-market-structure-whats-shaping-markets-in-2025-jef-2026821/</guid>
+<content:encoded><![CDATA[
+
+<p>Jeffrey O'Connor, US Head of Market Structure and Sell Side ATS Strategy at Liquidnet, shares his outlook on the key forces driving markets this year.</p>
+<h4>Rate Uncertainty to Dominate Through Year-End</h4>
+<p>With the 10-year Treasury yield back above 4.7%, the long end of the curve is sitting at generational highs &mdash; and according to O'Connor, that uncertainty isn't going anywhere soon.</p>
+<p>"Everything right now is focused on rates and that uncertainty will dominate for the rest of the year," he said.<br />O'Connor points to the post-financial crisis era &mdash; where rates hovered around 1% or lower for nearly eight years &mdash; as an anomaly, not the norm. What markets are experiencing now, he argues, is a long-overdue correction.</p>
+<p>"What we are seeing now is the big normalization, a reversion to what a functioning economy has historically looked like."<br />While corporate and economic growth remain strong by most measures, the inflation and rates overhang continues to weigh on companies, forcing them to rethink growth strategies in a sustained higher-rate environment.</p>
+<h4>Fed vs. Treasury: Who's Really Setting Rates?</h4>
+<p>The Treasury's recent announcement on buying back long-dated securities drew attention, though O'Connor notes its notional impact was limited. The bigger question it raises, he says, is who is actually steering rate direction &mdash; the Fed or the Treasury.</p>
+<p>Adding to that tension is Fed Chair Warsh's approach of minimal communication and his stated intention to reduce the balance sheet. With Jackson Hole, the September 11 CPI print, and the upcoming FOMC decision on the horizon, O'Connor believes the picture will become clearer as markets move into the fall.</p>
+<h4>Equity Volumes Look Strong &mdash; But Don't Be Fooled</h4>
+<p>Summer volumes have finally arrived in both equity and bond markets, but O'Connor urges caution when interpreting the headline numbers. While equity volumes are running around 60% higher than 2024, he argues that growth is structural rather than institutional.</p>
+<p>"That growth reflects the omnipresence of non-bank market makers rather than executable institutional depth," he explained, adding that the lack of conviction from traditional institutional traders is making conditions increasingly difficult.</p>
+<h4>SEC's Order Protection Rule Review Draws Industry Scrutiny</h4>
+<p>On the market structure front, the SEC's comment period on rescinding the order protection rule closed this week, drawing considerable attention across the industry. O'Connor notes that while the intent behind the review is broadly supported, the potential consequences are a serious concern.</p>
+<p>"If the rule were rescinded in full, it would be the most significant market structure change since Reg NMS in 2005-06," he warned.</p>
+]]></content:encoded>
+<pubDate>Fri, 21 Aug 2026 16:00:08 GMT</pubDate>
+<pubDate>Fri, 21 Aug 2026 16:00:08 GMT</pubDate>
+</item>
+<item>
+<title>Speakers &amp; Topics Announced For The 7th Annual ETFGI Global ETFs Insights Summit – United States On September 29 In New York City</title>
+<link>http://www.mondovisione.com/media-and-resources/news/speakers-and-topics-announced-for-the-7th-annual-etfgi-global-etfs-insights-summit-2026821/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/speakers-and-topics-announced-for-the-7th-annual-etfgi-global-etfs-insights-summit-2026821/</guid>
+<content:encoded><![CDATA[
+
+<table border="0" cellpadding="0" cellspacing="0" class="templateContainer" width="100%">
+<tbody>
+<tr>
+<td id="templateHeader" valign="top"><br /></td>
+</tr>
+<tr>
+<td id="templateBody" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" class="mcnTextBlock" width="100%">
+<tbody class="mcnTextBlockOuter">
+<tr>
+<td class="mcnTextBlockInner" valign="top">
+<table align="left" border="0" cellpadding="0" cellspacing="0" class="mcnTextContentContainer" width="100%">
+<tbody>
+<tr>
+<td class="mcnTextContent" valign="top">
+<div>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td valign="top">
+<table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td valign="top">
+<p lang="EN-US" xml:lang="EN-US"><span><span>EFTGI is delighted to unveil some of our speakers and topics for the</span></span><span><span> 7th Annual <a href="https://www.linkedin.com/company/etfgi-global-etfs-insights-summits/" target="_blank">ETFGI Global ETFs Insights Summit</a> - United States, taking place on September 29 in New York City. <a href="https://www.eventbrite.ie/e/7th-annual-etfgi-global-etfs-insights-summit-united-states-tickets-1982956979706?aff=oddtdtcreator" rel="noreferrer noopener" target="_blank">Register now</a> to join us to meet, network with, and hear from industry leaders across the region.</span></span></p>
+<p id="ember57"><span><span>The summit is designed as an educational event for financial advisors and institutional investors in the United States. Industry leaders from issuers, regulators, investors, exchanges, and trading firms will share insights on the selection, use and trading of ETFs, including active, virtual assets, market structure, regulations, novel ETFs, tokenisation, prediction markets and technological advancements shaping ETF innovation and usage.</span></span><br /><br /><span><span>🆓<strong>Free Registration:</strong> For CFA members, buy-side institutional investors, and financial advisors.<br />📚<strong>CPD Credits:</strong> Earn educational credits<br />🐤<strong>Early Bird Discount Ends August 28</strong>: Secure your place today and benefit from the reduced registration rate<br /><br />👉 <strong><em><a href="https://www.eventbrite.ie/e/7th-annual-etfgi-global-etfs-insights-summit-united-states-tickets-1982956979706?aff=oddtdtcreator" target="_blank">CLICK HERE TO REGISTER NOW</a></em></strong></span></span><br /><br /><span><span><span>TOPICS WILL INCLUDE:</span></span></span></p>
+<ul>
+<li><span><span>Welcome Remarks</span></span></li>
+<li><span><span>ETF Industry Trends &ndash; ETFGI Research</span></span></li>
+<li><span><span>SEC's, Finra and CFTC&rsquo;s Regulatory Agenda: Hot Topics</span></span></li>
+<li><span><span>ETF Share Classes, 351 Conversions and the Future of Mutual Funds</span></span></li>
+<li><span><span>ETF Tax Efficiency Under Scrutiny</span></span></li>
+<li><span><span>Active ETF Growth &amp; Regulatory Framework</span></span></li>
+<li><span><span>The Future of Income Investing: Covered Calls, Buffer ETFs and Fixed Income ETFs</span></span></li>
+<li><span><span>Crypto ETFs, Tokenization and Digital Asset Products</span></span></li>
+<li><span><span>Commodities, Precious Metals and Critical Materials in 2026: What's Driving ETF Prices?</span></span></li>
+<li><span><span>India Opportunity &ndash; Local Growth, Global Interest</span></span></li>
+<li><span><span>How Investors Are Selecting and Using ETFs</span></span></li>
+<li><span><span>Understanding the Offshore U.S. ETF Market: Investors, Products, and Opportunities</span></span></li>
+<li><span><span>Tapping into the Opportunity for ETFs in Europe and Beyond</span></span></li>
+<li><span><span>Outlook for the Asset Management and ETF Industry</span></span></li>
+<li><span><span>Women in ETFs panel / Fireside Chat</span></span></li>
+<li><span><span>Networking Drinks &ndash; Hosted by Nasdaq</span></span></li>
+</ul>
+<p><span><span><span>SPEAKERS WILL INCLUDE:</span></span></span></p>
+<ul>
+<li><span><span><strong>Edward B. Baer, </strong>Partner, <strong>K&amp;L Gates&nbsp;</strong></span></span></li>
+<li><span><span><strong>Eric Biegeleisen, CFA, </strong>Partner, Deputy CIO,<strong> 3EDGE Asset Management&nbsp;</strong></span></span></li>
+<li><span><span><strong>Monica Camino, </strong>Head of US Offshore, <strong>Vanguard</strong>&nbsp;</span></span></li>
+<li><span><span><strong>Aniruddha Chatterjee, </strong>CEO - NSE Indices, Data and Cogencis<strong>, NSE Indices Limited</strong></span></span></li>
+<li><span><span><strong>Ed Coyne, </strong>Senior Managing Partner, Global Sales, <strong>Sprott Inc.</strong></span></span></li>
+<li><span><span><strong>Deborah Fuhr, </strong>Managing Partner &amp; Founder<strong>, ETFGI</strong></span></span></li>
+<li><span><span><strong>Barry Hurley, </strong>Director Business Development,<strong> Universal Investment&nbsp;</strong></span></span></li>
+<li><span><span><strong>Richard Malinowski, </strong>Co-CEO, General Counsel, <strong>Exchange Traded Concepts&nbsp;</strong></span></span></li>
+<li><span><span><strong>Leah J. Miller, </strong>Vice President, Model Portfolio Strategy<strong>, BlackRock</strong>&nbsp;</span></span></li>
+<li><span><span><strong>Ciara O&rsquo;Leary, </strong>Partner, <strong>McCann FitzGerald LLP&nbsp;</strong></span></span></li>
+<li><span><span><strong>Tara O'Reilly, </strong>Partner and Head of ETF Strategy<strong>, Arthur Cox LLP</strong>&nbsp;</span></span></li>
+<li><span><span><strong>Kim Tilley, </strong>Managing Director, Head of Investment Solutions, <strong>Lazard Asset Management</strong>&nbsp;</span></span></li>
+<li><span><span><strong>Richard Tseng,</strong> Senior Portfolio Manager, <strong>Bank of America Merrill Lynch</strong>&nbsp;</span></span></li>
+<li><span><span><strong>Clair Turketo, </strong>Managing Director, Client Solutions, <strong>Carne Group&nbsp;</strong></span></span></li>
+<li><span><span><strong>Richard Vagnoni, </strong>Senior Economist,<strong> FINRA</strong>&nbsp;</span></span></li>
+<li><span><span><strong>Morrison Warren, </strong>Partner<strong>, Chapman and Cutler</strong> <strong>LLP</strong></span></span></li>
+</ul>
+<p lang="EN-US" xml:lang="EN-US"><span><span><span>EVENT DETAILS:</span></span></span><br /><span><span><span>📅</span><span>Tuesday, September 29th</span><br />⏰ Full day event including a networking drinks reception<br />📍The Yale Club, 50 Vanderbilt Ave, New York, NY 10017, United States</span></span><br /><span><span>🌐 Website and registration <a href="https://bit.ly/4biukB1" tabindex="0" target="_self">https://bit.ly/4biukB1</a><br />🐤Early Bird Discount Ends August 28: Secure your place today and benefit from the reduced registration rate</span></span><br /><br /><span><span>📋View the agenda, speakers, and topics from last year's successful annual ETFGI Global ETFs Insights Summit - United States <a href="https://vimeo.com/1164299154?share=copy&amp;fl=sv&amp;fe=ci">here</a>.</span></span><br /><br /><span><span>Don&rsquo;t miss this opportunity to explore key trends and network with industry leaders driving the future of ETFs,</span></span> <span><span><a href="https://www.eventbrite.ie/e/7th-annual-etfgi-global-etfs-insights-summit-united-states-tickets-1982956979706?aff=oddtdtcreator" rel="noreferrer noopener" target="_blank">register now</a>.</span></span></p>
+<p><img height="725" src="https://mcusercontent.com/551a1415abdf7c25dbc1a66fe/images/a07c6b95-7650-2f3b-b845-b202387d32b9.png" width="600" /></p>
+<hr />
+<p><span><span>Register to join one or more of our upcoming ETFGI Global ETFs Insights Summits in 2026:</span></span></p>
+<ul>
+<li><span><span>7th Annual - Asia Pacific, September 9th in Hong Kong and September 10th virtual. <a href="https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fetfgi.com%2Fevents%2F2026%2F09%2F7th-annual-etfgi-global-etfs-insights-summit-asia-pacific-september-9th-hong-kong&amp;data=05%7C02%7CAishwarya.Shinde%40etfgi.com%7C4d00754a4d534f16eae408dee99382d4%7Cbc6bbece035444658f345aec66548aca%7C1%7C0%7C639205016938866616%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=0VTLpaFkKD5stpAvh4nZ2iqZxRzuGIyK9dbjA0lmCGI%3D&amp;reserved=0" title="Original URL: https://etfgi.com/events/2026/09/7th-annual-etfgi-global-etfs-insights-summit-asia-pacific-september-9th-hong-kong. Click or tap if you trust this link.">Register</a> now.&nbsp;</span></span></li>
+<li><span><span>7th Annual - United States, September 29th in New York City. Early bird expires on August 28th - <a href="https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fetfgi.com%2Fevents%2F2026%2F09%2F7th-annual-etfgi-global-etfs-insights-summit-united-states-september-29th-new-york&amp;data=05%7C02%7CAishwarya.Shinde%40etfgi.com%7C4d00754a4d534f16eae408dee99382d4%7Cbc6bbece035444658f345aec66548aca%7C1%7C0%7C639205016938890567%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=kxxHqZ6I75807rTd9bXjyt2z6Nve6Yt2sX7cFdRKlzQ%3D&amp;reserved=0" title="Original URL: https://etfgi.com/events/2026/09/7th-annual-etfgi-global-etfs-insights-summit-united-states-september-29th-new-york. Click or tap if you trust this link.">Register</a> now.</span></span></li>
+<li><span><span>7th Annual - Middle East &amp; GCC, October 20th in Dubai. Early bird expires on September 11th - <a href="https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fetfgi.com%2Fevents%2F2026%2F10%2F7th-annual-etfgi-global-etfs-insights-summit-middle-east-gcc-october-20th-dubai&amp;data=05%7C02%7CAishwarya.Shinde%40etfgi.com%7C4d00754a4d534f16eae408dee99382d4%7Cbc6bbece035444658f345aec66548aca%7C1%7C0%7C639205016938913045%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=bCkMq93Px%2BJJgGdZB7cK1Cv%2Fd3Xu%2FviXgZ3xCKxMWhw%3D&amp;reserved=0" title="Original URL: https://etfgi.com/events/2026/10/7th-annual-etfgi-global-etfs-insights-summit-middle-east-gcc-october-20th-dubai. Click or tap if you trust this link.">Register</a> now.</span></span></li>
+<li><span><span>7th Annual - Europe &amp; Africa, November 19th in London and November 20th virtual. Early bird expires on October 9th - <a href="https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fetfgi.com%2Fevents%2F2026%2F11%2F7th-annual-etfgi-global-etfs-insights-summit-europe-africa-november-19th-london-and&amp;data=05%7C02%7CAishwarya.Shinde%40etfgi.com%7C4d00754a4d534f16eae408dee99382d4%7Cbc6bbece035444658f345aec66548aca%7C1%7C0%7C639205016938934938%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=xk%2BAIPKs%2BSWZS8GgL0Lg0gwFfFk4c3mFgINpfH4QQJI%3D&amp;reserved=0" title="Original URL: https://etfgi.com/events/2026/11/7th-annual-etfgi-global-etfs-insights-summit-europe-africa-november-19th-london-and. Click or tap if you trust this link.">Register</a> now.</span></span></li>
+<li><span><span>8th Annual - Canada, December 8th in Toronto at <a href="https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fblglaw%2F&amp;data=05%7C02%7CAishwarya.Shinde%40etfgi.com%7C4d00754a4d534f16eae408dee99382d4%7Cbc6bbece035444658f345aec66548aca%7C1%7C0%7C639205016938957407%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=UNulLcRkRv5UBWBeQNhWzw3ppPEFnwlrsyehXQUqX3g%3D&amp;reserved=0" title="Original URL: https://www.linkedin.com/company/blglaw/. Click or tap if you trust this link.">Borden Ladner Gervais LLP (BLG)</a>'s office. Early bird expires on October 27th - <a href="https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fetfgi.com%2Fevents%2F2026%2F12%2F8th-annual-etfgi-global-etfs-insights-summit-canada-december-8th-toronto&amp;data=05%7C02%7CAishwarya.Shinde%40etfgi.com%7C4d00754a4d534f16eae408dee99382d4%7Cbc6bbece035444658f345aec66548aca%7C1%7C0%7C639205016938981694%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=90uPR0tbgmWD8zgxaTAZmEn403LPBs1ORUzrUvBMYls%3D&amp;reserved=0" title="Original URL: https://etfgi.com/events/2026/12/8th-annual-etfgi-global-etfs-insights-summit-canada-december-8th-toronto. Click or tap if you trust this link.">Register</a> now.</span></span></li>
+</ul>
+<p><span><span>Upcoming ETFGI Global ETFs Insights Summits in 2027:</span></span></p>
+<ul type="disc">
+<li><span><span>8th Annual - Latin America, day 1 in Mexico City and day 2 virtual. <a href="https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fbit.ly%2F4owhh3O&amp;data=05%7C02%7CAishwarya.Shinde%40etfgi.com%7C4d00754a4d534f16eae408dee99382d4%7Cbc6bbece035444658f345aec66548aca%7C1%7C0%7C639205016939004065%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=FL9sr961CxtKdFUf%2F2P2vkTZ14A8WgvBxsDhZhzFU2g%3D&amp;reserved=0" title="Original URL: https://bit.ly/4owhh3O. Click or tap if you trust this link.">Register</a> your interest.</span></span></li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+]]></content:encoded>
+<pubDate>Fri, 21 Aug 2026 16:03:37 GMT</pubDate>
+<pubDate>Fri, 21 Aug 2026 16:03:37 GMT</pubDate>
+</item>
+
+<item>
 <title>KraneShares Launches Asia AI Technology ETF Tracking The Solactive Asia AI Technology USD Index</title>
 <link>http://www.mondovisione.com/media-and-resources/news/kraneshares-launches-asia-ai-technology-etf-tracking-the-solactive-asia-ai-techn-2026821/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/kraneshares-launches-asia-ai-technology-etf-tracking-the-solactive-asia-ai-techn-2026821/</guid>
 <content:encoded><![CDATA[
-
 <p><span>Solactive is pleased to announce its collaboration with KraneShares on the KraneShares Asia AI Technology ETF, which tracks the Solactive Asia AI Technology USD Index. The ETF seeks to provide exposure to Asian companies positioned across the AI technology value chain, with a particular focus on the infrastructure and industrial capabilities supporting AI development and deployment.</span></p>
 <p>As artificial intelligence adoption continues to expand, demand for technologies enabling AI systems has increased across semiconductors, memory, data center infrastructure, networking equipment, AI server manufacturing, and semiconductor capital equipment. Against this backdrop, the strategy is intended to capture companies with measurable business exposure to the AI ecosystem in Asia, reflecting the region's role in the global supply chain supporting AI innovation.</p>
 <p>The <span><a href="https://www.solactive.com/index/DE000SL0U012/">Solactive Asia AI Technology USD Index</a></span> selects constituents from the <span><a href="https://www.solactive.com/index/DE000SLA78E2/">Solactive GBS Global Markets All Cap USD Index</a></span> that satisfy regional, size, and liquidity requirements. Eligible companies are headquartered, located, or primarily listed in Taiwan, Japan, South Korea, China, Hong Kong, or Macao. Constituents are selected based on their Thematic Relevance Score, which reflects their exposure to the AI technology ecosystem across advanced semiconductor foundry and packaging services, high-bandwidth memory, optical communications and AI networking hardware, data center power, thermal and electrical infrastructure, AI server original design manufacturing and systems integration, semiconductor capital equipment and test systems, and AI semiconductor materials and specialty chemicals. The weighting approach combines free-float market capitalization with thematic relevance, allocating 20% to company size and 80% to thematic relevance. Individual constituent weights are capped at 8%, while the combined weight of constituents exceeding 5% is limited to 45%. The index is rebalanced quarterly.</p>
@@ -18,9 +263,7 @@
 <p>&ldquo;We believe Asia plays a foundational role in enabling the global AI buildout, with leadership across many of the most capacity-constrained and technologically complex segments of the value chain,&rdquo; said <span>Jonathan Krane, Founder and Chief Executive Officer of KraneShares</span>. &ldquo;Working with Solactive as our index provider, we are launching KAIT to provide investors with targeted access to the companies and regions we believe will drive the next phase of AI-driven growth.&rdquo;</p>
 ]]></content:encoded>
 <pubDate>Fri, 21 Aug 2026 15:24:16 GMT</pubDate>
-<pubDate>Fri, 21 Aug 2026 15:24:16 GMT</pubDate>
 </item>
-
 <item>
 <title>SET And Partners To Boost Environmental Resilience in Lampang Communities</title>
 <link>http://www.mondovisione.com/media-and-resources/news/set-and-partners-to-boost-environmental-resilience-in-lampang-communities-2026821/</link>

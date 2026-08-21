@@ -5132,3 +5132,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [KraneShares Launches Asia AI Technology ETF Tracking The Solactive Asia AI Technology USD Index](http://www.mondovisione.com/media-and-resources/news/kraneshares-launches-asia-ai-technology-etf-tracking-the-solactive-asia-ai-techn-2026821/)
 append_entries: 1
 Finish: 2026-08-21 14:39:19.084673
+------------------------------------------------------
+Started: 2026-08-21 16:39:07.104090
+Existing_entries: 876
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC: Section 6(b) Filing Fee Rate Advisory For Fiscal Year 2027](http://www.mondovisione.com/media-and-resources/news/sec-section-6b-filing-fee-rate-advisory-for-fiscal-year-2027-2026821/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Options Exchange - Updated Interface Specifications And Implementation Schedule For Upcoming Enhancements](http://www.mondovisione.com/media-and-resources/news/miax-options-exchange-updated-interface-specifications-and-implementation-sche-2026821/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ETFGI: Korean Retail Investors Continue To Embrace U.S.-Listed ETFs, With 21 ETFs Among Top 50 Overseas Securities Purchased In July](http://www.mondovisione.com/media-and-resources/news/etfgi-korean-retail-investors-continue-to-embrace-us-listed-etfs-with-21-etf-2026821/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Rates, Equity Volumes, And Market Structure: What's Shaping Markets In 2025: Jeffrey O'Connor, US Head Of Market Structure And Sell Side ATS Strategy At Liquidnet](http://www.mondovisione.com/media-and-resources/news/rates-equity-volumes-and-market-structure-whats-shaping-markets-in-2025-jef-2026821/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Speakers & Topics Announced For The 7th Annual ETFGI Global ETFs Insights Summit – United States On September 29 In New York City](http://www.mondovisione.com/media-and-resources/news/speakers-and-topics-announced-for-the-7th-annual-etfgi-global-etfs-insights-summit-2026821/)
+append_entries: 5
+Finish: 2026-08-21 16:39:08.617243
