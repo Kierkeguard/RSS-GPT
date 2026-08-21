@@ -5123,3 +5123,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [HKEX: The Exchange To Extend Validity Period Of New Listing Applications](http://www.mondovisione.com/media-and-resources/news/hkex-the-exchange-to-extend-validity-period-of-new-listing-applications-2026821/)
 append_entries: 2
 Finish: 2026-08-21 12:56:10.012942
+------------------------------------------------------
+Started: 2026-08-21 14:39:17.991234
+Existing_entries: 875
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [KraneShares Launches Asia AI Technology ETF Tracking The Solactive Asia AI Technology USD Index](http://www.mondovisione.com/media-and-resources/news/kraneshares-launches-asia-ai-technology-etf-tracking-the-solactive-asia-ai-techn-2026821/)
+append_entries: 1
+Finish: 2026-08-21 14:39:19.084673
