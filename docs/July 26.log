@@ -5093,3 +5093,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Remarks At Innovation Advisory Committee Conference, CFTC Chairman Michael S. Selig, Washington, DC | August 20, 2026](http://www.mondovisione.com/media-and-resources/news/remarks-at-innovation-advisory-committee-conference-cftc-chairman-michael-s-se-2026821/)
 append_entries: 1
 Finish: 2026-08-21 06:53:59.299248
+------------------------------------------------------
+Started: 2026-08-21 08:46:08.683288
+Existing_entries: 871
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Exchange Group - Options Markets - New Listings Effective For August 21, 2026](http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-options-markets-new-listings-effective-for-august-21-20-2026821/)
+append_entries: 1
+Finish: 2026-08-21 08:46:10.042767
