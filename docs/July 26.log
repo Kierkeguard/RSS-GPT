@@ -5153,3 +5153,21 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Speakers & Topics Announced For The 7th Annual ETFGI Global ETFs Insights Summit – United States On September 29 In New York City](http://www.mondovisione.com/media-and-resources/news/speakers-and-topics-announced-for-the-7th-annual-etfgi-global-etfs-insights-summit-2026821/)
 append_entries: 5
 Finish: 2026-08-21 16:39:08.617243
+------------------------------------------------------
+Started: 2026-08-21 18:42:06.777904
+Existing_entries: 881
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ICYMI: Members Of The CFTC’s Innovation Advisory Committee Join Chairman Selig In Washington At Inaugural Meeting](http://www.mondovisione.com/media-and-resources/news/icymi-members-of-the-cftcs-innovation-advisory-committee-join-chairman-selig-i-2026821/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ETFGI Reports Global Thematic ETF Industry Gathered A Record US$ 43.99 Billion In July As YTD Net Inflows Reach All-Time High Of US$ 112.26 Billion](http://www.mondovisione.com/media-and-resources/news/etfgi-reports-global-thematic-etf-industry-gathered-a-record-us-4399-billion-i-2026821/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Borsa İstanbul’s Opening Bell Rang for Kapeks Kimya Sanayi A.Ş.](http://www.mondovisione.com/media-and-resources/news/borsa-istanbuls-opening-bell-rang-for-kapeks-kimya-sanayi-a-2026821/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Abu Dhabi Securities Exchange Achieves 99% In Disclosure Compliance Of Financial Statements Of H1 2026 Of The Traded Listed Companies](http://www.mondovisione.com/media-and-resources/news/abu-dhabi-securities-exchange-achieves-99-in-disclosure-compliance-of-financial-2026821/)
+append_entries: 4
+Finish: 2026-08-21 18:42:07.785672
