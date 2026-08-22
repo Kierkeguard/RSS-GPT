@@ -5219,3 +5219,12 @@ Existing_entries: 887
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-08-22 08:35:02.948377
+------------------------------------------------------
+Started: 2026-08-22 10:27:54.296320
+Existing_entries: 887
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SET: LiVE Platform Organizes The 2nd Annual Event “SME Must Survive 2026”, Uniting National Business Experts To Unlock Thai SME Potential](http://www.mondovisione.com/media-and-resources/news/set-live-platform-organizes-the-2nd-annual-event-sme-must-survive-2026-uniti-2026822/)
+append_entries: 1
+Finish: 2026-08-22 10:27:55.076105
