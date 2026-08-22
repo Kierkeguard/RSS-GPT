@@ -5237,3 +5237,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Tehran Securities Exchange Weekly Market Report, 15-19 August 2026](http://www.mondovisione.com/media-and-resources/news/tehran-securities-exchange-weekly-market-report-15-19-august-2026-2026822/)
 append_entries: 1
 Finish: 2026-08-22 12:47:41.359894
+------------------------------------------------------
+Started: 2026-08-22 14:26:00.063563
+Existing_entries: 889
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-08-22 14:26:01.049395
