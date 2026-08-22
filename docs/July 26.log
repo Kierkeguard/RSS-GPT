@@ -5189,3 +5189,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Nigerian Exchange Weekly Market Report For The Week Ended 21 August 2026](http://www.mondovisione.com/media-and-resources/news/nigerian-exchange-weekly-market-report-for-the-week-ended-21-august-2026-2026821/)
 append_entries: 2
 Finish: 2026-08-21 22:29:21.149121
+------------------------------------------------------
+Started: 2026-08-22 01:26:37.560569
+Existing_entries: 887
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-08-22 01:26:38.680636
