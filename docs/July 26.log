@@ -5456,3 +5456,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [US Treasury Announces The Quantum-Readiness Task Force](http://www.mondovisione.com/media-and-resources/news/us-treasury-announces-yhe-quantum-readiness-task-force-2026824/)
 append_entries: 2
 Finish: 2026-08-24 20:35:02.718412
+------------------------------------------------------
+Started: 2026-08-24 22:30:55.577249
+Existing_entries: 908
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-08-24 22:30:56.666676
