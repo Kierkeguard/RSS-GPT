@@ -5421,3 +5421,26 @@ Existing_entries: 899
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-08-24 16:42:56.507232
+------------------------------------------------------
+Started: 2026-08-24 18:47:19.635609
+Existing_entries: 899
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Options And MIAX Emerald Options - Market For Underlying Security Used For Openings For Newly Listed Symbols Effective Tuesday, August 25, 2026](http://www.mondovisione.com/media-and-resources/news/miax-options-and-miax-emerald-options-market-for-underlying-security-used-for-2026824/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-transaction-in-own-shares-2026824/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [DIFC: Innovo Group Partners With Dubai PropTech Hub To Accelerate Construction Innovation](http://www.mondovisione.com/media-and-resources/news/difc-innovo-group-partners-with-dubai-proptech-hub-to-accelerate-construction-i-2026824/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Prophet Mohamed's Birthday (Mawled El Nabi) Holiday At EGX](http://www.mondovisione.com/media-and-resources/news/prophet-mohameds-birthday-mawled-el-nabi-holiday-at-egx-2026824/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Japan Financial Services Agency: Joint Session Of The 57th General Meeting Of Financial System Council And The 45th Meeting Of Sectional Committee On Financial System](http://www.mondovisione.com/media-and-resources/news/japan-financial-services-agency-joint-session-of-the-57th-general-meeting-of-fi-2026824/)
+Append: [Hong Kong Securities And Futures Commission Revokes Ernest Chan Tsz Kin’s Licence And Bans Him For 10 Years](http://www.mondovisione.com/media-and-resources/news/hong-kong-securities-and-futures-commission-revokes-ernest-chan-tsz-kins-licenc-2026824/)
+Append: [Circular On Releasing The Revised Stainless Steel Futures Rules Of The Shanghai Futures Exchange](http://www.mondovisione.com/media-and-resources/news/circular-on-releasing-the-revised-stainless-steel-futures-rules-of-the-shanghai-2026824/)
+append_entries: 7
+Finish: 2026-08-24 18:47:20.628755
