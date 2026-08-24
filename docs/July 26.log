@@ -5400,3 +5400,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [HKEX Appoints Head Of External Communications](http://www.mondovisione.com/media-and-resources/news/hkex-appoints-head-of-external-communications-2026824/)
 append_entries: 1
 Finish: 2026-08-24 10:40:57.125499
+------------------------------------------------------
+Started: 2026-08-24 12:58:26.886269
+Existing_entries: 898
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ETFGI: Active ETF Assets Reach Record US$ 2.59 Trillion As Industry Posts Highest-Ever YTD Inflows Of US$ 590 Billion At End July](http://www.mondovisione.com/media-and-resources/news/etfgi-active-etf-assets-reach-record-us-259-trillion-as-industry-posts-highes-2026824/)
+append_entries: 1
+Finish: 2026-08-24 12:58:28.256868
