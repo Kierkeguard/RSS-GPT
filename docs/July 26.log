@@ -5444,3 +5444,15 @@ Append: [Hong Kong Securities And Futures Commission Revokes Ernest Chan Tsz Kin
 Append: [Circular On Releasing The Revised Stainless Steel Futures Rules Of The Shanghai Futures Exchange](http://www.mondovisione.com/media-and-resources/news/circular-on-releasing-the-revised-stainless-steel-futures-rules-of-the-shanghai-2026824/)
 append_entries: 7
 Finish: 2026-08-24 18:47:20.628755
+------------------------------------------------------
+Started: 2026-08-24 20:35:01.771544
+Existing_entries: 906
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Swaps Report Update](http://www.mondovisione.com/media-and-resources/news/cftc-swaps-report-update-2026824/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Treasury Announces The Quantum-Readiness Task Force](http://www.mondovisione.com/media-and-resources/news/us-treasury-announces-yhe-quantum-readiness-task-force-2026824/)
+append_entries: 2
+Finish: 2026-08-24 20:35:02.718412
