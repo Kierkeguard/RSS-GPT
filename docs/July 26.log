@@ -5363,3 +5363,25 @@ Existing_entries: 891
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-08-24 04:50:31.959006
+------------------------------------------------------
+Started: 2026-08-24 07:06:49.657074
+Existing_entries: 891
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Dubai Financial Market Regulated Short Sell – Weekly Summary - 17th August 2026 To 21st August 2026](http://www.mondovisione.com/media-and-resources/news/dubai-financial-market-regulated-short-sell-weekly-summary-17th-august-2026-2026824/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Releases New Professional Year Guidance For Aspiring Financial Advisers](http://www.mondovisione.com/media-and-resources/news/asic-releases-new-professional-year-guidance-for-aspiring-financial-advisers-2026824/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC: Get Ready For New Director ID Requirements From 1 July 2027](http://www.mondovisione.com/media-and-resources/news/asic-get-ready-for-new-director-id-requirements-from-1-july-2027-2026824/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASX Launches Australia's First Exchange-Traded Bond And Credit Index Futures With Bloomberg Indices](http://www.mondovisione.com/media-and-resources/news/asx-launches-australias-first-exchange-traded-bond-and-credit-index-futures-wit-2026824/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC: The Devastating Impact Behind Bank Impersonation Scams](http://www.mondovisione.com/media-and-resources/news/asic-the-devastating-impact-behind-bank-impersonation-scams-2026824/)
+Append: [Qatar Stock Exchange: Randomization Of The Opening & Closing Time](http://www.mondovisione.com/media-and-resources/news/qatar-stock-exchange-randomization-of-the-opening-and-closing-time-2026824/)
+append_entries: 6
+Finish: 2026-08-24 07:06:50.906813
