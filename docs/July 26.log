@@ -5409,3 +5409,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ETFGI: Active ETF Assets Reach Record US$ 2.59 Trillion As Industry Posts Highest-Ever YTD Inflows Of US$ 590 Billion At End July](http://www.mondovisione.com/media-and-resources/news/etfgi-active-etf-assets-reach-record-us-259-trillion-as-industry-posts-highes-2026824/)
 append_entries: 1
 Finish: 2026-08-24 12:58:28.256868
+------------------------------------------------------
+Started: 2026-08-24 14:46:58.640245
+Existing_entries: 899
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-08-24 14:46:59.620093
