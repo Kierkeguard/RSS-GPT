@@ -5480,3 +5480,18 @@ Existing_entries: 908
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-08-25 04:43:11.092293
+------------------------------------------------------
+Started: 2026-08-25 06:55:26.033727
+Existing_entries: 908
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Launches Sustainability Reporting Video Series](http://www.mondovisione.com/media-and-resources/news/asic-launches-sustainability-reporting-video-series-2026825/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SIFMA Fixed Income Market Close Recommendation In The U.S., The U.K., And Japan For U.S. Labor Day Holiday](http://www.mondovisione.com/media-and-resources/news/sifma-fixed-income-market-close-recommendation-in-the-us-the-uk-and-japan-2026825/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Fund Secondaries, Harrison Street Asset Management And LODAS Markets Collaborate To Advance Strategic Liquidity For Interval Funds](http://www.mondovisione.com/media-and-resources/news/nasdaq-fund-secondaries-harrison-street-asset-management-and-lodas-markets-coll-2026825/)
+append_entries: 3
+Finish: 2026-08-25 06:55:27.388189
