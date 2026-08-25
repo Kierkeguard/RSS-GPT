@@ -5531,3 +5531,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [LCH Clears First POLSTR Overnight Index Swaps](http://www.mondovisione.com/media-and-resources/news/lch-clears-first-polstr-overnight-index-swaps-2026825/)
 append_entries: 1
 Finish: 2026-08-25 12:54:41.827712
+------------------------------------------------------
+Started: 2026-08-25 14:50:38.117167
+Existing_entries: 917
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Federal Trade Commission (FTC) Approves Final Consent Order In Ascension Health-AmSurg Deal](http://www.mondovisione.com/media-and-resources/news/us-federal-trade-commission-ftc-approves-final-consent-order-in-ascension-heal-2026825/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ICE First Look At Mortgage Performance: Mortgage Delinquencies Ease In July As Both New Defaults And Cure Activity Improve](http://www.mondovisione.com/media-and-resources/news/ice-first-look-at-mortgage-performance-mortgage-delinquencies-ease-in-july-as-b-2026825/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Clear Street Launches Electronic Execution Across Europe And Asia-Pacific](http://www.mondovisione.com/media-and-resources/news/clear-street-launches-electronic-execution-across-europe-and-asia-pacific-2026825/)
+append_entries: 3
+Finish: 2026-08-25 14:50:39.413457
