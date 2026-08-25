@@ -5495,3 +5495,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Nasdaq Fund Secondaries, Harrison Street Asset Management And LODAS Markets Collaborate To Advance Strategic Liquidity For Interval Funds](http://www.mondovisione.com/media-and-resources/news/nasdaq-fund-secondaries-harrison-street-asset-management-and-lodas-markets-coll-2026825/)
 append_entries: 3
 Finish: 2026-08-25 06:55:27.388189
+------------------------------------------------------
+Started: 2026-08-25 08:49:08.722758
+Existing_entries: 911
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tel Aviv Stock Exchange Launches A New Mobile App](http://www.mondovisione.com/media-and-resources/news/tel-aviv-stock-exchange-launches-a-new-mobile-app-2026825/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Financial Services Industry Publishes Roadmap For Equity Issuance Electronification](http://www.mondovisione.com/media-and-resources/news/financial-services-industry-publishes-roadmap-for-equity-issuance-electronificat-2026825/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [APAC Deal Activity Down 11% YoY In First Seven Months Of 2026, Reveals GlobalData](http://www.mondovisione.com/media-and-resources/news/apac-deal-activity-down-11-yoy-in-first-seven-months-of-2026-reveals-globaldat-2026825/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Withdraws Financial Reporting Relief For Uncontactable Members](http://www.mondovisione.com/media-and-resources/news/asic-withdraws-financial-reporting-relief-for-uncontactable-members-2026825/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC: Helping Small Business Directors Respond Early To Financial Difficulty](http://www.mondovisione.com/media-and-resources/news/asic-helping-small-business-directors-respond-early-to-financial-difficulty-2026825/)
+append_entries: 5
+Finish: 2026-08-25 08:49:09.717160
