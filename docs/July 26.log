@@ -5573,3 +5573,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [London Stock Exchange Group plc Director Declaration](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-director-declaration-2026825/)
 append_entries: 5
 Finish: 2026-08-25 18:44:49.303233
+------------------------------------------------------
+Started: 2026-08-25 20:33:47.509350
+Existing_entries: 925
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NYSE Group Consolidated Short Interest Report](http://www.mondovisione.com/media-and-resources/news/nyse-group-consolidated-short-interest-report-2026825/)
+append_entries: 1
+Finish: 2026-08-25 20:33:48.860259
