@@ -5522,3 +5522,12 @@ Existing_entries: 916
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-08-25 10:37:13.207171
+------------------------------------------------------
+Started: 2026-08-25 12:54:40.912492
+Existing_entries: 916
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LCH Clears First POLSTR Overnight Index Swaps](http://www.mondovisione.com/media-and-resources/news/lch-clears-first-polstr-overnight-index-swaps-2026825/)
+append_entries: 1
+Finish: 2026-08-25 12:54:41.827712
