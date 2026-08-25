@@ -5552,3 +5552,24 @@ Existing_entries: 920
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-08-25 16:41:39.366413
+------------------------------------------------------
+Started: 2026-08-25 18:44:48.168717
+Existing_entries: 920
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group Announces First Trade Of U.S. Zinc Futures](http://www.mondovisione.com/media-and-resources/news/cme-group-announces-first-trade-of-us-zinc-futures-2026825/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The EBA Consults On Revised Technical Standards For The Reclassification Of Investment Firms As Credit Institutions](http://www.mondovisione.com/media-and-resources/news/the-eba-consults-on-revised-technical-standards-for-the-reclassification-of-inve-2026825/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Exchange Group - Options & Equities Markets - Pre-Test Update: Reg SCI / SIFMA BCP Testing On Saturday, October 24, 2026](http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-options-and-equities-markets-pre-test-update-reg-sci-si-2026825/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FTSE UK Index Series – Indicative Quarterly Review Changes September 2026](http://www.mondovisione.com/media-and-resources/news/ftse-uk-index-series-indicative-quarterly-review-changes-september-2026-2026825/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc Director Declaration](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-director-declaration-2026825/)
+append_entries: 5
+Finish: 2026-08-25 18:44:49.303233
