@@ -42,3 +42,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Moscow Exchange Announces Results For The Second Quarter Of 2026](http://www.mondovisione.com/media-and-resources/news/moscow-exchange-announces-results-for-the-second-quarter-of-2026-2026826/)
 append_entries: 4
 Finish: 2026-08-26 10:38:54.426911
+------------------------------------------------------
+Started: 2026-08-26 13:00:16.435241
+Existing_entries: 14
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group Enters Wind Market With Contracts Designed For Renewable Energy Hedging](http://www.mondovisione.com/media-and-resources/news/cme-group-enters-wind-market-with-contracts-designed-for-renewable-energy-hedgin-2026826/)
+append_entries: 1
+Finish: 2026-08-26 13:00:17.673682
