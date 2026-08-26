@@ -87,3 +87,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [The EBA Consults On Draft Technical Standards On Institutions’ Operational Risk Management](http://www.mondovisione.com/media-and-resources/news/the-eba-consults-on-draft-technical-standards-on-institutions-operational-risk-2026826/)
 append_entries: 1
 Finish: 2026-08-26 19:51:45.075630
+------------------------------------------------------
+Started: 2026-08-26 22:56:59.440034
+Existing_entries: 21
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-08-26 22:57:00.593452
