@@ -66,3 +66,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [UK Financial Conduct Authority (FCA) Annual Report And Accounts 2025/26 (For The Year Ended 31 March 2026)](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-fca-annual-report-and-accounts-202526-for-the-2026826/)
 append_entries: 3
 Finish: 2026-08-26 14:48:57.869912
+------------------------------------------------------
+Started: 2026-08-26 16:50:22.080126
+Existing_entries: 18
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Announcement On Amendments Regarding Debt Securities Market And Borsa İstanbul Money Market Procedures](http://www.mondovisione.com/media-and-resources/news/announcement-on-amendments-regarding-debt-securities-market-and-borsa-istanbul-m-2026826/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Stronger Mainland Connectivity Reinforces Hong Kong’s Leading Role As China Assets Gateway: Hong Kong Securities And Futures Commission Quarterly Report](http://www.mondovisione.com/media-and-resources/news/stronger-mainland-connectivity-reinforces-hong-kongs-leading-role-as-china-asse-2026826/)
+append_entries: 2
+Finish: 2026-08-26 16:50:23.196625
