@@ -78,3 +78,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Stronger Mainland Connectivity Reinforces Hong Kong’s Leading Role As China Assets Gateway: Hong Kong Securities And Futures Commission Quarterly Report](http://www.mondovisione.com/media-and-resources/news/stronger-mainland-connectivity-reinforces-hong-kongs-leading-role-as-china-asse-2026826/)
 append_entries: 2
 Finish: 2026-08-26 16:50:23.196625
+------------------------------------------------------
+Started: 2026-08-26 19:51:43.639539
+Existing_entries: 20
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The EBA Consults On Draft Technical Standards On Institutions’ Operational Risk Management](http://www.mondovisione.com/media-and-resources/news/the-eba-consults-on-draft-technical-standards-on-institutions-operational-risk-2026826/)
+append_entries: 1
+Finish: 2026-08-26 19:51:45.075630
