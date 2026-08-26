@@ -51,3 +51,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CME Group Enters Wind Market With Contracts Designed For Renewable Energy Hedging](http://www.mondovisione.com/media-and-resources/news/cme-group-enters-wind-market-with-contracts-designed-for-renewable-energy-hedgin-2026826/)
 append_entries: 1
 Finish: 2026-08-26 13:00:17.673682
+------------------------------------------------------
+Started: 2026-08-26 14:48:56.464734
+Existing_entries: 15
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FTSE Russell And 21shares Announce Global Benchmark Partnership Across US, European, And Australian ETP Suites - Strategic Initiative Standardizes Index Architecture Across 21shares’ Worldwide Product Lineup, Building On Transitions Successfully Completed In Europe And Australia Earlier This Year](http://www.mondovisione.com/media-and-resources/news/ftse-russell-and-21shares-announce-global-benchmark-partnership-across-us-europ-2026826/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Toronto Stock Exchange, TSX Venture Exchange, TSX Alpha Exchange And Montréal Exchange Closed For Labour Day](http://www.mondovisione.com/media-and-resources/news/toronto-stock-exchange-tsx-venture-exchange-tsx-alpha-exchange-and-montral-ex-2026826/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority (FCA) Annual Report And Accounts 2025/26 (For The Year Ended 31 March 2026)](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-fca-annual-report-and-accounts-202526-for-the-2026826/)
+append_entries: 3
+Finish: 2026-08-26 14:48:57.869912
