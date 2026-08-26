@@ -5597,3 +5597,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [S&P Global Market Intelligence Data | Top 10 Most Shorted Stocks In The US](http://www.mondovisione.com/media-and-resources/news/sandp-global-market-intelligence-data-top-10-most-shorted-stocks-in-the-us-2026825/)
 append_entries: 3
 Finish: 2026-08-25 22:31:47.704511
+------------------------------------------------------
+Started: 2026-08-26 01:38:38.695067
+Existing_entries: 929
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-08-26 01:38:39.950045
