@@ -93,3 +93,21 @@ Existing_entries: 21
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-08-26 22:57:00.593452
+------------------------------------------------------
+Started: 2026-08-27 08:30:43.134589
+Existing_entries: 21
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [A Quarter Of A Century Of ETFs On ASX](http://www.mondovisione.com/media-and-resources/news/a-quarter-of-a-century-of-etfs-on-asx-2026827/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC And APRA Warn Frontier AI Awareness Must Turn To Action](http://www.mondovisione.com/media-and-resources/news/asic-and-apra-warn-frontier-ai-awareness-must-turn-to-action-2026827/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASX: Dividend Reinvestment Plan Update](http://www.mondovisione.com/media-and-resources/news/asx-dividend-reinvestment-plan-update-2026827/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Emirati Women Represent 94% Of Female-Held Wealth On ADX](http://www.mondovisione.com/media-and-resources/news/emirati-women-represent-94-of-female-held-wealth-on-adx-2026827/)
+append_entries: 4
+Finish: 2026-08-27 08:30:44.329777
