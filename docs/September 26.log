@@ -137,3 +137,21 @@ Append: [NYSE Texas Opens Headquarters At Old Parkland In Dallas - Governor Greg
 Append: [CME Group To Launch E-mini Equity Factor Futures On September 21](http://www.mondovisione.com/media-and-resources/news/cme-group-to-launch-e-mini-equity-factor-futures-on-september-21-2026827/)
 append_entries: 10
 Finish: 2026-08-27 20:14:16.222108
+------------------------------------------------------
+Started: 2026-08-28 06:01:59.612882
+Existing_entries: 35
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX Enhances Product Offering With SHEIN Debut](http://www.mondovisione.com/media-and-resources/news/hkex-enhances-product-offering-with-shein-debut-2026828/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC: 38 Entities Feigned Legitimacy As U.S. Advisers Through False Filings To Lure Retail Investors](http://www.mondovisione.com/media-and-resources/news/sec-38-entities-feigned-legitimacy-as-us-advisers-through-false-filings-to-lu-2026828/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Agencies Issue Final Rule To Prioritize Material Financial Risks](http://www.mondovisione.com/media-and-resources/news/us-agencies-issue-final-rule-to-prioritize-material-financial-risks-2026827/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Office Of The Comptroller Of The US Currency Acts To Improve Transparency And Consistency To Bank Enforcement And Supervisory Standards](http://www.mondovisione.com/media-and-resources/news/office-of-the-comptroller-of-the-us-currency-acts-to-improve-transparency-and-co-2026827/)
+append_entries: 4
+Finish: 2026-08-28 06:02:00.706378
