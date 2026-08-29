@@ -205,3 +205,12 @@ Existing_entries: 51
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-08-29 16:30:18.679451
+------------------------------------------------------
+Started: 2026-08-29 20:44:09.370706
+Existing_entries: 51
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nigerian Exchange Weekly Market Report For The Week Ended 28 August 2026](http://www.mondovisione.com/media-and-resources/news/nigerian-exchange-weekly-market-report-for-the-week-ended-28-august-2026-2026829/)
+append_entries: 1
+Finish: 2026-08-29 20:44:10.642386
