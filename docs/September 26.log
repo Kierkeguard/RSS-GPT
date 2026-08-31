@@ -250,3 +250,25 @@ Existing_entries: 52
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-08-31 00:18:56.167304
+------------------------------------------------------
+Started: 2026-08-31 08:25:54.962097
+Existing_entries: 52
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Japan Electric Power Exchange And Tokyo Commodity Exchange: JJ-Link Phase 2 Launches Offering Forward Transactions Based On The Electricity Futures Market](http://www.mondovisione.com/media-and-resources/news/japan-electric-power-exchange-and-tokyo-commodity-exchange-jj-link-phase-2-laun-2026831/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Beyond The Payout: ASIC Warns Home Insurers To Reduce Cash Settlement Risks](http://www.mondovisione.com/media-and-resources/news/beyond-the-payout-asic-warns-home-insurers-to-reduce-cash-settlement-risks-2026831/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [JPX-R Annual Report 2026](http://www.mondovisione.com/media-and-resources/news/jpx-r-annual-report-2026-2026831/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Warns Insurers Cash Settlements Should Not Short-Change Homeowners In Need](http://www.mondovisione.com/media-and-resources/news/asic-warns-insurers-cash-settlements-should-not-short-change-homeowners-in-need-2026831/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Announcement Of Approval Of Two Institutions Including Chow Tai Seng Jewellery (Hong Kong) Co., Limited As Shanghai Gold Exchange’s International Members And Terminating Of SGE International Membership Of China Zheshang Bank Co., Ltd. Shanghai Pilot Free Trade Zone Branch And Two Other Institutions](http://www.mondovisione.com/media-and-resources/news/announcement-of-approval-of-two-institutions-including-chow-tai-seng-jewellery-2026831/)
+Append: [Saudi Arabia Capital Market Authority: 44 Winners Honored In Fourth Season Of Gulf Smart Investor Award, With Prizes Exceeding SAR 1.5 Million](http://www.mondovisione.com/media-and-resources/news/saudi-arabia-capital-market-authority-44-winners-honored-in-fourth-season-of-gu-2026831/)
+append_entries: 6
+Finish: 2026-08-31 08:25:56.275714
