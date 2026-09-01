@@ -376,3 +376,28 @@ Append: [Boerse Stuttgart Records August Turnover Of Around EUR 16 Billion](http
 Append: [Deutsche Börse Trading Volumes In August 2026](http://www.mondovisione.com/media-and-resources/news/deutsche-brse-trading-volumes-in-august-2026-202691/)
 append_entries: 6
 Finish: 2026-09-01 16:20:41.925569
+------------------------------------------------------
+Started: 2026-09-01 20:50:02.398911
+Existing_entries: 92
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Resolves Action Against Swaps Trader For Making False Statements](http://www.mondovisione.com/media-and-resources/news/cftc-resolves-action-against-swaps-trader-for-making-false-statements-202691/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Office Of The Comptroller Of The US Currency Releases CRA Performance Evaluations For 23 National Banks And Federal Savings Associations](http://www.mondovisione.com/media-and-resources/news/office-of-the-comptroller-of-the-us-currency-releases-cra-performance-evaluation-202691/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Moscow Exchange Trading Volumes In August 2026](http://www.mondovisione.com/media-and-resources/news/moscow-exchange-trading-volumes-in-august-2026-202691/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [READOUT: US Secretary Of The Treasury Scott Bessent's Meeting With Bank Of Japan Governor Kazuo Ueda](http://www.mondovisione.com/media-and-resources/news/readout-us-secretary-of-the-treasury-scott-bessents-meeting-with-bank-of-japan-202691/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ISDA derivatiViews: 10 Years Of The ISDA SIMM](http://www.mondovisione.com/media-and-resources/news/isda-derivativiews-10-years-of-the-isda-simm-202691/)
+Append: [Ontario Securities Commission Investor Warnings And Alerts For August 11 – September 1, 2026](http://www.mondovisione.com/media-and-resources/news/ontario-securities-commission-investor-warnings-and-alerts-for-august-11-septe-202691/)
+Append: [Statement On Proposed Amendments To The SEC’s Transfer Agent Rules, SEC Commissioner Mark T. Uyeda, Sept. 1, 2026](http://www.mondovisione.com/media-and-resources/news/statement-on-proposed-amendments-to-the-secs-transfer-agent-rules-sec-commissi-202691/)
+Append: [Time To Transfer: Statement On Proposed Transfer Agent Rules, SEC Commissioner Hester M. Peirce, Sept. 1, 2026](http://www.mondovisione.com/media-and-resources/news/time-to-transfer-statement-on-proposed-transfer-agent-rules-sec-commissioner-h-202691/)
+Append: [London Stock Exchange Group plc Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-transaction-in-own-shares-202691/)
+append_entries: 9
+Finish: 2026-09-01 20:50:03.650630
