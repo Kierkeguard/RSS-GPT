@@ -354,3 +354,25 @@ Append: [Tokyo Stock Exchange: Applications Open For FY2026 “Nadeshiko Brands�
 Append: [Monetary Authority Of Singapore Consults On Legislative Amendments To Implement Stablecoin Regulatory Framework](http://www.mondovisione.com/media-and-resources/news/monetary-authority-of-singapore-consults-on-legislative-amendments-to-implement-202691/)
 append_entries: 10
 Finish: 2026-09-01 11:24:24.706020
+------------------------------------------------------
+Started: 2026-09-01 16:20:40.693832
+Existing_entries: 86
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Proposes to Modernize Rules for Registered Transfer Agents](http://www.mondovisione.com/media-and-resources/news/sec-proposes-to-modernize-rules-for-registered-transfer-agents-202691/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Purdue University/CME Group Ag Economy Barometer: Farmer Sentiment Rises Again In August As Future Expectations Improve](http://www.mondovisione.com/media-and-resources/news/purdue-universitycme-group-ag-economy-barometer-farmer-sentiment-rises-again-i-202691/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Unlocking Opportunities For Workers And Entrepreneurs With A Criminal Record, Governor Michael S. Barr, At The Second-Chance Lending Forum, Developing Evidence-Based Policy On Creditworthiness And Criminal History, Washington, D.C.](http://www.mondovisione.com/media-and-resources/news/unlocking-opportunities-for-workers-and-entrepreneurs-with-a-criminal-record-go-202691/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Nordic And Baltic Markets: Monthly Trade Statistics](http://www.mondovisione.com/media-and-resources/news/nasdaq-nordic-and-baltic-markets-monthly-trade-statistics-202691/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Boerse Stuttgart Records August Turnover Of Around EUR 16 Billion](http://www.mondovisione.com/media-and-resources/news/boerse-stuttgart-records-august-turnover-of-around-eur-16-billion-202691/)
+Append: [Deutsche Börse Trading Volumes In August 2026](http://www.mondovisione.com/media-and-resources/news/deutsche-brse-trading-volumes-in-august-2026-202691/)
+append_entries: 6
+Finish: 2026-09-01 16:20:41.925569
