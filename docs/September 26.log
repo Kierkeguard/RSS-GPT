@@ -401,3 +401,18 @@ Append: [Time To Transfer: Statement On Proposed Transfer Agent Rules, SEC Commi
 Append: [London Stock Exchange Group plc Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-transaction-in-own-shares-202691/)
 append_entries: 9
 Finish: 2026-09-01 20:50:03.650630
+------------------------------------------------------
+Started: 2026-09-01 23:54:12.235491
+Existing_entries: 101
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group Opens Registration For 23rd Annual Global University Trading Challenge](http://www.mondovisione.com/media-and-resources/news/cme-group-opens-registration-for-23rd-annual-global-university-trading-challenge-202691/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Announces Agenda And Panelists For Roundtable On Preparations For 24-Hour Trading](http://www.mondovisione.com/media-and-resources/news/sec-announces-agenda-and-panelists-for-roundtable-on-preparations-for-24-hour-tr-202691/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Charges San Francisco Bay Area Private Fund Executives With Multimillion Dollar Ponzi-Like Scheme](http://www.mondovisione.com/media-and-resources/news/sec-charges-san-francisco-bay-area-private-fund-executives-with-multimillion-dol-202691/)
+append_entries: 3
+Finish: 2026-09-01 23:54:13.374606
