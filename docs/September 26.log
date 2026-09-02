@@ -477,3 +477,15 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Borsa İstanbul’s Opening Bell Rang For Bakırcı Gayrimenkul Yatırım Ortaklığı A.Ş.](http://www.mondovisione.com/media-and-resources/news/borsa-istanbuls-opening-bell-rang-for-bakrc-gayrimenkul-yatrm-ortakl-a-202692/)
 append_entries: 5
 Finish: 2026-09-02 19:18:14.789044
+------------------------------------------------------
+Started: 2026-09-02 22:28:45.152871
+Existing_entries: 119
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NZX Shareholder Metrics - August 2026](http://www.mondovisione.com/media-and-resources/news/nzx-shareholder-metrics-august-2026-202692/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group Sets New Open Interest Record In Henry Hub Natural Gas Futures](http://www.mondovisione.com/media-and-resources/news/cme-group-sets-new-open-interest-record-in-henry-hub-natural-gas-futures-202692/)
+append_entries: 2
+Finish: 2026-09-02 22:28:46.107054
