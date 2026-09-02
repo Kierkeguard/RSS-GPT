@@ -422,3 +422,12 @@ Existing_entries: 104
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-09-02 03:50:21.550874
+------------------------------------------------------
+Started: 2026-09-02 08:38:12.474812
+Existing_entries: 104
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Final Call For Firms To Act Before ASIC’s Digital Asset Licensing Deadline](http://www.mondovisione.com/media-and-resources/news/final-call-for-firms-to-act-before-asics-digital-asset-licensing-deadline-202692/)
+append_entries: 1
+Finish: 2026-09-02 08:38:13.786177
