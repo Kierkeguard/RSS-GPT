@@ -416,3 +416,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SEC Charges San Francisco Bay Area Private Fund Executives With Multimillion Dollar Ponzi-Like Scheme](http://www.mondovisione.com/media-and-resources/news/sec-charges-san-francisco-bay-area-private-fund-executives-with-multimillion-dol-202691/)
 append_entries: 3
 Finish: 2026-09-01 23:54:13.374606
+------------------------------------------------------
+Started: 2026-09-02 03:50:20.510037
+Existing_entries: 104
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-09-02 03:50:21.550874
