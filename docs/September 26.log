@@ -489,3 +489,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CME Group Sets New Open Interest Record In Henry Hub Natural Gas Futures](http://www.mondovisione.com/media-and-resources/news/cme-group-sets-new-open-interest-record-in-henry-hub-natural-gas-futures-202692/)
 append_entries: 2
 Finish: 2026-09-02 22:28:46.107054
+------------------------------------------------------
+Started: 2026-09-03 08:46:40.519510
+Existing_entries: 121
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-09-03 08:46:41.523945
