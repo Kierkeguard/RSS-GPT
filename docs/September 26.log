@@ -521,3 +521,25 @@ Append: [OCC Reports August 2026 Monthly Volume Data](http://www.mondovisione.co
 Append: [The Economic Outlook And Some Comments On My Policy Communication, Federal Reserve Governor Christopher J. Waller, At Reuters NEXT Newsmaker Interview, Washington, D.C.](http://www.mondovisione.com/media-and-resources/news/the-economic-outlook-and-some-comments-on-my-policy-communication-federal-reser-202693/)
 append_entries: 10
 Finish: 2026-09-03 19:12:16.140553
+------------------------------------------------------
+Started: 2026-09-03 22:25:58.839783
+Existing_entries: 131
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [First Amendment Sense And Sensibilities: Statement On Proposed Rescission of Pay-To-Play Rule, SEC Commissioner Hester M. Peirce, Sept. 3, 2026](http://www.mondovisione.com/media-and-resources/news/first-amendment-sense-and-sensibilities-statement-on-proposed-rescission-of-pay-202693/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Proposes Rescission Of Political Contribution Rule For Investment Advisers](http://www.mondovisione.com/media-and-resources/news/sec-proposes-rescission-of-political-contribution-rule-for-investment-advisers-202693/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Statement On Proposal To Rescind “Pay-To-Play” Rule, Paul S. Atkins, SEC Chairman, Sept. 3, 2026](http://www.mondovisione.com/media-and-resources/news/statement-on-proposal-to-rescind-pay-to-play-rule-paul-s-atkins-sec-chairma-202693/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Statement On Proposed Rescission Of Rule 206(4)-5 Under The Investment Advisers Act, SEC Commissioner Mark T. Uyeda, Sept. 3, 2026](http://www.mondovisione.com/media-and-resources/news/statement-on-proposed-rescission-of-rule-2064-5-under-the-investment-advisers-202693/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cboe Global Markets Reports Trading Volume For August 2026](http://www.mondovisione.com/media-and-resources/news/cboe-global-markets-reports-trading-volume-for-august-2026-202693/)
+Append: [Nasdaq Reports August 2026 Volumes](http://www.mondovisione.com/media-and-resources/news/nasdaq-reports-august-2026-volumes-202693/)
+append_entries: 6
+Finish: 2026-09-03 22:26:00.109176
