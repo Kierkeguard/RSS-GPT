@@ -4,6 +4,287 @@
 <title>News Articles</title>
 <link>http://www.mondovisione.com/media-and-resources/news/</link>
 
+<item>
+<title>Remarks At George Washington University - Digital Markets &amp; International Regulation, CFTC Director Of International Affairs Mel Gunewardena, Washington, DC | September 03, 2026</title>
+<link>http://www.mondovisione.com/media-and-resources/news/remarks-at-george-washington-university-digital-markets-and-international-regula-202693/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/remarks-at-george-washington-university-digital-markets-and-international-regula-202693/</guid>
+<content:encoded><![CDATA[
+
+<p>Good Morning, Bom dia, Tudu bem.</p>
+<p>It is a great pleasure to join you for the fourth edition of Regulation Week, jointly organized by the Funda&ccedil;&atilde;o Getulio Vargas Center for Law and Regulation in Rio de Janeiro and the George Washington University Regulatory Studies Center here in Washington, D.C.</p>
+<p>For those I have not met, I am Mel Gunewardena, Director of International Affairs to Chairman Mike Selig at the U.S. Commodity Futures Trading Commission.</p>
+<p>The views I express today are my own and do not necessarily represent those of Chairman Selig or the Commission.</p>
+<p>When I began my career at Goldman Sachs in 1994, markets were largely manual. Trading pits, hand signals, brokers, phones and handwritten tickets remained central to execution and price discovery.</p>
+<p>Then markets moved to screens. Electronic trading broke down geographic barriers and computer networks helped move institutional trades from phones to electronic platforms. Options moved from pits and voice markets to screens. Markets became faster, more transparent and increasingly global.</p>
+<p>The relationship between cash and derivatives also began to reverse. When I started, derivatives were largely priced from underlying cash markets. Today, across many of the world&rsquo;s most important markets, derivatives increasingly drive price formation, price discovery and risk transfer. A simple lead-lag analysis demonstrates that Treasury futures lead price discovery in interest rates; WTI and Brent crude oil derivatives establish reference prices used throughout physical oil markets; and equity-index futures determine where cash equities reopen after overnight developments.</p>
+<p>Global derivatives markets now exceed $1.2 quadrillion, and the CFTC oversees roughly $600 trillion across interest rates, equities, credit, currencies and commodities.</p>
+<p>The next stage was the computer age. Mathematical models, expanding data and greater computing power moved markets from predominantly human execution toward algorithmic strategies operating across asset classes and geographies.</p>
+<p>We are now entering another stage: markets that are not merely electronic or algorithmic, but increasingly continuous, programmable, composable and autonomous.</p>
+<p>In 2017, during President Trump&rsquo;s first term, the CFTC became the first regulator in the world to establish regulated crypto asset derivatives markets, with the launch of bitcoin futures.</p>
+<p>Today, under President Trump, the United States is leading the next transformation. The GENIUS Act has established a federal framework for payment stablecoins, while the CLARITY Act is advancing a broader framework for crypto asset markets.</p>
+<p>At the CFTC, Chairman Selig is translating that leadership into global derivatives markets&mdash;bringing innovation onshore and adapting the agency&rsquo;s framework to a fundamentally different market architecture. The Commission approved the first &ldquo;true&rdquo; onchain perpetual futures contract, set expectations for 24/7 trading, clearing and settlement, and began putting rules in place for prediction markets.</p>
+<p>The global financial markets are moving toward programmable and composable financial assets, continuous settlement and machine-executable infrastructure.</p>
+<p>Tokenized securities, commodities, funds and collateral can operate alongside stablecoins and tokenized deposits. Smart contracts, atomic delivery-versus-payment, oracle networks, cryptographic attestations and cross-chain interoperability could transform how liquidity, collateral and risk move through the global financial system.</p>
+<p>AI is also transforming who&mdash;or what&mdash;trades these markets. When I began at Goldman Sachs in 1994, Fischer Black was still at the firm, and the Black-Scholes model he developed with Myron Scholes remained the gold standard for modern quantitative finance. It applied probability and stochastic mathematics to the pricing of uncertainty.</p>
+<p>The next generation used statistical models and greater computing power to identify relationships across markets and execute algorithmically. I saw that progression firsthand while covering Renaissance Technologies, then at the frontier of model-driven trading.</p>
+<p>Today, artificial intelligence and large language models are taking it further&mdash;from models governed by predefined rules toward systems capable of interpreting unstructured information, reasoning across multiple inputs, making decisions and increasingly acting autonomously.</p>
+<p>These are not separate developments. A tokenized asset can trade continuously, settle through a stablecoin, rely on smart contracts and oracle networks, reference a traditional derivatives benchmark, move across interoperable protocols and ultimately be traded by an autonomous AI system.</p>
+<p>Collateral that was once valued and moved periodically can be revalued, pledged, released and rehypothecated in real time. Smart contracts can automatically adjust margin, liquidate positions and redirect collateral across interconnected markets and protocols. This may reduce settlement risk and improve capital efficiency, but it can also accelerate procyclicality, trigger cascading liquidations and transmit risk across markets before either regulators or market participants can intervene.</p>
+<p>This convergence could make markets more efficient, expand access to capital and create new ways to transfer risk. But it could also fundamentally reshape the speed, scale and channels through which prices and risk moves across products, platforms and jurisdictions.</p>
+<p>But this structural transformation represents a major and growing gap in the international regulatory agenda. International regulation remains organized around individual institutions, products and technologies while the market itself is becoming integrated, continuous and increasingly autonomous.</p>
+<p>Much of the international regulatory architecture was built for markets with identifiable products, institutions and jurisdictions; defined trading hours; distinct trading, clearing and settlement functions; and ultimately, human decision-making.</p>
+<p>Those assumptions are breaking down.</p>
+<p>Markets may remain legally separated by jurisdiction, venue and product, but economically they are increasingly interconnected.&nbsp;</p>
+<p>A Brent-linked contract trading on an online platform in Singapore can affect Brent in London and transmit into WTI in the United States. Volatility in a Korean equity can be amplified through an onchain derivatives platform operating from the British Virgin Islands and transmitted back into Korea.</p>
+<p>The jurisdictions may be different. The venues may be different. The products may be different. Economically, they are part of the same market.</p>
+<p>For example, a technology interface in one jurisdiction may be a gateway to a global derivatives market, with liquidity, leverage and risk distributed across an onchain ecosystem. Regulators should understand the economic market behind the interface, not simply the entity inside their legal perimeter.</p>
+<p>As markets are increasingly interconnected, I notice four important gaps across the various international standard setting work and the various bilateral regulatory work undertaken by international regulators</p>
+<p>The first is supervisory cooperation.</p>
+<p>Many regulatory Memoranda of Understanding and supervisory cooperation agreements were designed for technical cooperation and information sharing. They were not built for markets capable of transmitting risk across jurisdictions in seconds, and many lack clear requirements for market disruption, cyber incidents, infrastructure failures, liquidity stress, defaults and timely supervisory notification.</p>
+<p>Information sharing after something has gone wrong is not crisis management. Modern supervisory cooperation requires early notification, real-time coordination and clear responsibility before and during market stress.</p>
+<p>The second gap is financial-stability oversight.</p>
+<p>The international financial stability architecture remains heavily weighted toward central banks and cash-securities regulators, including jurisdictions with limited derivatives markets. Derivatives regulators and experts overseeing the markets where global price discovery and risk transfer increasingly occur remain underrepresented.</p>
+<p>That imbalance shapes the analysis.</p>
+<p>Non-bank credit illustrates the problem. Years have been spent pursuing hypothetical risks that have not materialized, while structural changes in AI, tokenization, new products and derivatives have been examined too often as isolated workstreams rather than as interacting components of a changing market structure.</p>
+<p>The result is product analysis rather than systemic analysis, frequently driven by what has already entered the news cycle. Examined separately, these developments can appear novel but contained. Viewed together, they reveal how leverage, positioning, concentration, collateral and liquidity connect markets and transmit and amplify risk across the financial system.</p>
+<p>Financial stability cannot be understood solely from economic statistics, balance sheets and cash markets&mdash;or from yesterday&rsquo;s headlines in <em>The Wall Street Journal</em>. By the time a vulnerability becomes front-page news, it is no longer a warning. It is an event.</p>
+<p>Understanding that risk requires derivatives expertise, market-level data, a practical understanding of how markets operate and a holistic view of the financial system. Without them, the system is structured to understand the next crisis only after it arrives.</p>
+<p>That is not forward-looking financial stability oversight. It is institutionalized crisis management.</p>
+<p>The third gap is global standard-setting governance.</p>
+<p>Authorities come to the table with vastly different markets, expertise and access to information. Yet leadership and representation can reflect geography, institutional convention and established relationships rather than market scale, expertise, data and responsibility for the risks being supervised.</p>
+<p>Consensus and cooperation then become a substitute for judgment. The objective becomes finding what everyone can agree to rather than identifying what global markets require. The result can be lowest-common-denominator regulation, comfortable, broadly acceptable and behind the risk before a standard is published.</p>
+<p>A global market standard setter cannot operate like a diplomatic institution. Market relevance, expertise and risk&mdash;not convention&mdash;should determine who leads, what gets prioritized and how standards are shaped.</p>
+<p>It should not be controversial to expect an institution that sets governance standards to practice good governance itself&mdash;or one that sets global standards to focus on the most consequential global risks.</p>
+<p>If that sounds like a high standard, it should. Standard setters, of all institutions, should not be afraid of one.</p>
+<p>The fourth gap is in our market safeguards.</p>
+<p>Much of today&rsquo;s framework was built for the computer age&mdash;fat-finger trades, erroneous orders, computer glitches and algorithmic disruptions. Price limits, and circuit breakers were designed for those risks.</p>
+<p>But the next disruption could come from autonomous systems functioning exactly as designed. It could begin in an unsupervised market trading through a weekend or overnight, when liquidity is thin and traditional markets are closed, establishing prices that are transmitted into regulated markets when they reopen.</p>
+<p>The market may be closed. Price discovery is not.</p>
+<p>Our current markets safeguards were not designed for markets that are autonomous, decentralized,&nbsp; and continuous.</p>
+<p>These gaps cannot be addressed retrospectively. Regulators must understand the technology, anticipate the new risk topology created by composability, interoperability and automated execution, and establish coherent standards that permit responsible innovation while protecting markets.</p>
+<p>The greatest regulatory risk may no longer be simply that markets move outside the regulatory perimeter.</p>
+<p>It may be that the regulatory perimeter itself no longer describes the market.</p>
+<p>At the CFTC, under Chairman Selig, the agency is reviewing the architecture through which foreign markets and institutions access the United States and the cross-border arrangements supporting that access.</p>
+<p>Participation in the world&rsquo;s deepest financial markets should be supported by modern supervisory arrangements that protect customers and market integrity while addressing financial stability, economic and national security risks.</p>
+<p>International cooperation therefore becomes more important, not less. But it must evolve with the markets it is intended to govern.</p>
+<p>The choice is not between innovation and regulation. It is whether innovation develops within deep, transparent and well-regulated markets&mdash;or beyond the reach of frameworks that were too slow to understand it.</p>
+<p>The next generation of markets is already being built: assets that are programmable, infrastructure that is composable, trading that is continuous and participants that are increasingly autonomous.</p>
+<p>Capital is already moving through this architecture. Price discovery is already occurring within it. And risk will move through it faster than our institutions unless regulation evolves.</p>
+<p>Markets will not wait for regulation to catch up.</p>
+<p>The defining regulatory question of the next decade is therefore not whether these markets will emerge. It is whether those responsible for protecting the global financial system will understand them early enough to shape them.</p>
+<p>The United States has repeatedly led the world through transformations in market structure&mdash;from manual markets to electronic markets, to the computer age.</p>
+<p>Today, as global markets stand at the threshold of another great transformation, we again have both an opportunity and a responsibility.</p>
+<p>Under the leadership of Chairman Selig, and with responsibility for roughly half of the $1.2 quadrillion global derivatives market, the CFTC will help lead this transformation.</p>
+<p>Because the future of markets will be shaped by those who recognize the opportunity, understand the risks and have the vision to realize its extraordinary benefits.</p>
+]]></content:encoded>
+<pubDate>Thu, 03 Sep 2026 19:56:02 GMT</pubDate>
+<pubDate>Thu, 03 Sep 2026 19:56:02 GMT</pubDate>
+</item>
+<item>
+<title>Quarterly Adjustment Of GPW Benchmark Indices</title>
+<link>http://www.mondovisione.com/media-and-resources/news/quarterly-adjustment-of-gpw-benchmark-indices-202693/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/quarterly-adjustment-of-gpw-benchmark-indices-202693/</guid>
+<content:encoded><![CDATA[
+
+<p>GPW Benchmark announces the quarterly adjustment of WIG20, mWIG40, sWIG80 and WIG30 indices portfolios. Changes will come into force after close of business on September 18, 2026.</p>
+<p>As a result, the WIG20, WIG20TR, mWIG40, mWIG40TR, WIG30 and WIG30TR portfolios will remain unchanged.</p>
+<p>In the sWIG80 and sWIG80TR portfolios there will be following changes:</p>
+<ul>
+<li>new companies: NIEWIADOW, SYN2BIO;</li>
+<li>removed companies: ERBUD, WITTCHEN.</li>
+</ul>
+<p>Detailed information on the quarterly adjustment is available <a class="safe---anchor---wc" href="https://gpwbenchmark.pl/en-komunikaty-i-uchwaly-gpw_read?cmn_id=2942&amp;title=WIG20+/+WIG20TR+/+mWIG40+/+mWIG40TR+/+sWIG80+/+sWIG80TR+/+WIG30+/+WIG30TR+(Communiqu%C3%A9)" rel="noopener noreferrer nofollow" target="_blank"><b>here</b></a>.</p>
+]]></content:encoded>
+<pubDate>Thu, 03 Sep 2026 18:42:54 GMT</pubDate>
+<pubDate>Thu, 03 Sep 2026 18:42:54 GMT</pubDate>
+</item>
+<item>
+<title>Nadex Product Schedule For The Week Of September 7, 2026, For The 2026 Labor Day Holiday</title>
+<link>http://www.mondovisione.com/media-and-resources/news/nadex-product-schedule-for-the-week-of-september-7-2026-for-the-2026-labor-day-202693/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/nadex-product-schedule-for-the-week-of-september-7-2026-for-the-2026-labor-day-202693/</guid>
+<content:encoded><![CDATA[
+
+<p>Nadex will observe the following modified holiday schedule for the 2026 Labor Day Holiday.</p>
+<p>Monday, September 7, 2026:</p>
+<p>The Exchange will open at its regular time at 6:00pm ET on Sunday evening for trade date Monday, September 7th, 2026. The Exchange will list a limited offering of contracts and will close at 5:00pm ET. Contracts will be listed as follows:</p>
+<ul>
+<li>
+<p>No Event contracts will be listed for US indices or commodities on this trade date. They will resume listing at 6PM ET (Monday) for the trade date of Tuesday, September 8th, 2026.</p>
+</li>
+<li>
+<p>No Event contracts will be listed for the AUD/USD, EUR/USD, GBP/USD, USD/JPY currency pairs.</p>
+</li>
+<li>
+<p>Cryptocurrency Event contracts and Cryptocurrency Touch Brackets will observe their regular schedule.</p>
+</li>
+<li>
+<p>Industry Event - Live Presentations - NAICS 711 will observe their regular schedule.</p>
+</li>
+</ul>
+<p>Tuesday, September 8, 2026: The Exchange will observe normal business hours.</p>
+<p>Wednesday, September 9, 2026: The Exchange will observe normal business hours.</p>
+<p>Thursday, September 10, 2026: The Exchange will observe normal business hours.</p>
+<p>Friday, September 11, 2026: The Exchange will observe normal business hours.</p>
+<p>Please note, Nadex is extending the Illiquid Markets coverage to Cryptocurrency products for trade date September 7th, 2026. As such, Nadex authorized Market Makers operating pursuant to a Market Maker Agreement will be relieved of their quoting obligations relating to size on trade date September 7th, 2026, from 5:00pm ET on calendar date September 6th, 2026, to 5:00pm ET on calendar date September 7th. A Market Maker(s) that elects to quote in any Cryptocurrency market during this period will be required to comply with the spread obligations set forth in its Market Maker Agreement.</p>
+<p>Please refer to the Holiday Product Schedule Guidelines for specific product trading hours.</p>
+<div class="split-index__description">Should you have any questions or require further information, please contact the <a class="secondary inline" href="mailto:compliance@nadex.com">Compliance Department</a>.</div>
+]]></content:encoded>
+<pubDate>Thu, 03 Sep 2026 19:27:36 GMT</pubDate>
+<pubDate>Thu, 03 Sep 2026 19:27:36 GMT</pubDate>
+</item>
+<item>
+<title>Nodal Exchange And Compute Desk To launch Compute Futures Contracts</title>
+<link>http://www.mondovisione.com/media-and-resources/news/nodal-exchange-and-compute-desk-to-launch-compute-futures-contracts-202693/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/nodal-exchange-and-compute-desk-to-launch-compute-futures-contracts-202693/</guid>
+<content:encoded><![CDATA[
+
+<p>Nodal Exchange, a leading U.S. power derivatives exchange offering the world&rsquo;s largest suite of locational power futures contracts, and Compute Desk, a premier provider of compute data and benchmark indexes for the GPU (Graphics Processing Unit) compute ecosystem, today announced plans to launch a new suite of GPU compute futures contracts on Nodal Exchange, bringing standardized risk management tools to the rapidly expanding compute market.</p>
+<p><span id="more-31235">&nbsp;</span>By pairing Compute Desk&rsquo;s IOSCO-compliant GPU rental price indexes with Nodal&rsquo;s clearing and exchange infrastructure, the collaboration allows participants to take a position or hedge against GPU rental pricing on Hopper, Blackwell and beyond.</p>
+<p>These new compute futures will financially settle against Compute Desk&rsquo;s daily, blended GPU price indexes.</p>
+<p>&ldquo;Nodal has the majority of the North American power futures open interest, and power is a significant operating cost for data centers. By offering the leading set of power and compute contracts on the same venue, Nodal is positioned to be the exchange of choice for the hedging and trading needs of the AI economy,&rdquo; said Paul Cusenza, Chairman and CEO of Nodal Exchange.</p>
+<p>&ldquo;Compute Desk offers best-in-class compute price indexes based on an exclusive coverage of private compute transactions, as well as their robust benchmark administration methodology,&rdquo; said Christian Schneider, Chief Strategy Officer at Nodal.&nbsp; &ldquo;We are excited to enter the compute market with such a strong partner.&rdquo;</p>
+<p>&ldquo;Compute has become a full-on financial asset class. For the first time, hyperscalers, AI infrastructure companies, AI labs and their lenders will be able to manage their financial exposures to compute. Partnering with Nodal creates institutional risk-transfer products including CFTC-regulated compute futures on a leading exchange, cleared by Nodal Clear,&rdquo; said Andrawes Bahou, Founder and CEO of Compute Desk. &ldquo;We chose to partner with Nodal, for their world-leading coverage of power and electricity, an obvious nexus to compute.&rdquo;</p>
+<p>These contracts are scheduled to be available this year, subject to regulatory compliance.</p>
+]]></content:encoded>
+<pubDate>Thu, 03 Sep 2026 19:25:18 GMT</pubDate>
+<pubDate>Thu, 03 Sep 2026 19:25:18 GMT</pubDate>
+</item>
+<item>
+<title>SEC Investor Advisory Committee To Host Sept. 10 Meeting</title>
+<link>http://www.mondovisione.com/media-and-resources/news/sec-investor-advisory-committee-to-host-sept-10-meeting-202693/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/sec-investor-advisory-committee-to-host-sept-10-meeting-202693/</guid>
+<content:encoded><![CDATA[
+
+<div class="clearfix text-formatted usa-prose field field--name-body field--type-text-with-summary field--label-hidden field__item">
+<p>The Securities and Exchange Commission&rsquo;s Investor Advisory Committee will host a public meeting at the SEC Headquarters in Washington D.C. on Sept. 10 at 10 a.m. ET to discuss artificial intelligence technologies in the public markets and the SEC&rsquo;s Regulation National Market System rules.&nbsp;</p>
+<p>The meeting will also be webcast on the <a href="http://www.sec.gov/">SEC website</a> and consist of two panels:</p>
+<ul>
+<li>AI Technologies and the Public Markets Information Ecosystem</li>
+<li>Regulation National Market System&nbsp;</li>
+</ul>
+<p>The full <a href="https://www.sec.gov/about/advisory-committees/investor-advisory-committee/iac091026-agenda">agenda</a> is available on the committee&rsquo;s webpage.</p>
+<p>The Investor Advisory Committee, which focuses on investor-related interests, advises the Commission on regulatory priorities and various initiatives to help protect investors and promote the integrity of the U.S. securities markets. Established by <a href="https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chap2B-sec78pp.htm">statute</a>, the Committee is authorized by Congress to submit findings and recommendations to the Commission.</p>
+<p>Learn more on the <a href="https://www.sec.gov/about/advisory-committees/investor-advisory-committee">Investor Advisory Committee webpage</a>.</p>
+<div></div>
+</div>
+<div class="field field--name-dynamic-twig-fieldnode-press-release-end field--type-ds field--label-hidden field__item">
+<div class="news__press_release__end"></div>
+</div>
+]]></content:encoded>
+<pubDate>Thu, 03 Sep 2026 18:49:55 GMT</pubDate>
+<pubDate>Thu, 03 Sep 2026 18:49:55 GMT</pubDate>
+</item>
+<item>
+<title>CoinShares’ Bitcoin And Ethereum ETPs Launch To UK Market On Hargreaves Lansdown - Physically-Backed BITC And ETHE Now Available To Platform's Two Million Retail Investors, Following The FCA's Decision To Lift The Retail Ban On Crypto ETPs</title>
+<link>http://www.mondovisione.com/media-and-resources/news/coinshares-bitcoin-and-ethereum-etps-launch-to-uk-market-on-hargreaves-lansdown-202693/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/coinshares-bitcoin-and-ethereum-etps-launch-to-uk-market-on-hargreaves-lansdown-202693/</guid>
+<content:encoded><![CDATA[
+
+<p><b>CoinShares PLC (Nasdaq: CSHR) ("CoinShares" or the "Company")</b>, a leading global asset manager specialising in digital assets, announced that Bitcoin and Ethereum ETPs have listed on Hargreaves Lansdown, one of the UK&rsquo;s leading investment and savings platforms. The physically-backed ETPs are available to Hargreaves Lansdown&rsquo;s investors today, making CoinShares' LSE-listed crypto products available to the platform's two million retail investors for the first time, through a regulated and familiar framework.</p>
+<p>Hargreaves Lansdown is the UK's largest retail investment platform to list CoinShares' crypto ETPs, marking a significant step for regulated digital asset investment in the UK. CoinShares&rsquo; Bitcoin ETP (ticker: BITC) and Ethereum ETP (ticker: ETHE) were both launched in 2021 and are listed on SIX Swiss Exchange, B&ouml;rse Xetra, Euronext Paris, Euronext Amsterdam, Euronext Milan, and the London Stock Exchange. Both securities are physically backed by an institutional grade custodian, which means investors have the option to redeem their securities directly from the product.</p>
+<p>CoinShares cut the management fee on its Ethereum ETP to 0.0% p.a. in 2023, with investors earning 1.15% p.a. in staking yield. In February, the fee on its flagship Bitcoin ETP was permanently reduced to 0.15% p.a., reinforcing its commitment to competitive pricing.</p>
+<p>The UK regulatory environment has shifted decisively in favour of regulated digital asset investment, from the FCA&rsquo;s decision to lift the retail ban on crypto ETPs in October 2025 and the launch of the FCA&rsquo;s simplified crypto framework last month. Platforms are increasingly answering calls to provide regulated access to crypto investment products, enabling a larger pool of investors to achieve portfolio diversification.</p>
+<p>CoinShares believes that crypto belongs in a professional, transparent, and investor-centric regulatory environment. CoinShares recently surveyed 261 European wealth management professionals and found that 52% of UK wealth managers can't see their clients' crypto portfolios.</p>
+<p>Jean-Marie Mognetti, Co-Founder, President and Chief Executive Officer of CoinShares, said:</p>
+<p>&ldquo;We are committed to digital asset investment being accessible to all investors through familiar, regulated structures. This milestone partnership with Hargreaves Lansdown means real diversification will be possible for retail investors looking to balance their portfolios with a truly alternative asset class. A strong digital asset ecosystem, open to all, is finally reaching the UK.&rdquo;</p>
+]]></content:encoded>
+<pubDate>Thu, 03 Sep 2026 18:53:04 GMT</pubDate>
+<pubDate>Thu, 03 Sep 2026 18:53:04 GMT</pubDate>
+</item>
+<item>
+<title>How Credit Index Futures Have Proved Their Worth In 2026: Huw Pill, Bank Of England Chief Economist And Executive Director, Monetary Analysis</title>
+<link>http://www.mondovisione.com/media-and-resources/news/how-credit-index-futures-have-proved-their-worth-in-2026-huw-pill-bank-of-engl-202693/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/how-credit-index-futures-have-proved-their-worth-in-2026-huw-pill-bank-of-engl-202693/</guid>
+<content:encoded><![CDATA[
+
+<p><span>In these remarks, Huw explains why he has supported raising Bank Rate to 4% in recent MPC meetings. He argues that clear, prompt and decisive policy action and communication would help steer markets, reduce uncertainty and support monetary policy transmission, thereby avoiding that inflationary pressures originating in the Middle East become embedded and persistent.</span></p>
+<p><a class="med-block-cta " href="https://www.bankofengland.co.uk/about/people/huw-pill/biography"> </a>
+<div class="cta-img"><a class="med-block-cta " href="https://www.bankofengland.co.uk/about/people/huw-pill/biography"><img height="347" src="https://www.bankofengland.co.uk/-/media/boe/images/people/huw-pill/huw-pill.jpg?h=347&amp;iar=0&amp;mh=347&amp;mw=520&amp;w=350&amp;hash=5A63076858696A87796AB333EB6643B7" width="350" /></a></div>
+<div class="cta-content">
+<h3><a class="med-block-cta " href="https://www.bankofengland.co.uk/about/people/huw-pill/biography">Huw Pill</a></h3>
+<p><a class="med-block-cta " href="https://www.bankofengland.co.uk/about/people/huw-pill/biography">Chief Economist and Executive Director, Monetary Analysis</a></p>
+</div>
+</p>
+<h2>Remarks</h2>
+<p>Thanks to our hosts at the Edinburgh Chamber of Commerce for the opportunity to speak at the roundtable this evening.</p>
+<p>As a member of the Bank of England&rsquo;s Monetary Policy Committee, it is always a pleasure to engage with the business community here in Scotland: not only to celebrate your opportunities and successes, but also to inform our policy discussions through a better understanding of your experiences and concerns.</p>
+<p>As we heard reverberate across the cities of North America this summer: <em>&ldquo;No Scotland, no party!&rdquo;</em></p>
+<p>In my remarks today, I will survey the impact of recent events in the Middle East on the outlook for monetary policy here in the UK. Drawing on staff analysis prepared for the MPC&rsquo;s deliberations, I will explore the issue through three distinct (though homophonic&nbsp;lenses.</p>
+<p><span>Click <a href="https://www.bankofengland.co.uk/speech/2026/september/remarks-at-the-edinburgh-chamber-of-commerce" title="here">here</a> for full details.</span></p>
+]]></content:encoded>
+<pubDate>Thu, 03 Sep 2026 18:39:11 GMT</pubDate>
+<pubDate>Thu, 03 Sep 2026 18:39:11 GMT</pubDate>
+</item>
+<item>
+<title>CCP Global Publishes The PQD Quarterly Trends Report For 2026 Q2</title>
+<link>http://www.mondovisione.com/media-and-resources/news/ccp-global-publishes-the-pqd-quarterly-trends-report-for-2026-q2-202693/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/ccp-global-publishes-the-pqd-quarterly-trends-report-for-2026-q2-202693/</guid>
+<content:encoded><![CDATA[
+
+<p>Global announced the publication of the CCP Global Public Quantitative Disclosure (PQD) Quarterly Trends Report (QTR) for 2026 Q2. The QTR can be viewed <a class="safe---anchor---wc OWAAutoLink" href="https://ccp-global.org/sites/default/files/2026-09/CCPG_PQD_QTR_Q2%202026.pdf" id="anchor-93099612-a8ef-c80d-55c9-ff25cbd4da2d" rel="noopener noreferrer nofollow" target="_blank" title="https://ccp-global.org/sites/default/files/2026-09/CCPG_PQD_QTR_Q2%202026.pdf">here</a>.</p>
+<p>The CCP Global PQD QTR provides a detailed insight into the global CCP PQD landscape through various charts and analysis. The report offers market participants with a view of the distribution of collateral across Americas, APAC and EMEA. This and previous quarters' QTRs can also be found on the <a class="safe---anchor---wc OWAAutoLink" href="https://ccp-global.org/pqd" id="OWAe3894882-75f8-0431-d9e8-feb5a1573e48" rel="noopener noreferrer nofollow" target="_blank" title="https://ccp-global.org/pqd">CCP Global website</a>, alongside the CCP Global PQD Template, FAQ Guide, and all 60+ PQDs used to compile the report.</p>
+]]></content:encoded>
+<pubDate>Thu, 03 Sep 2026 19:05:19 GMT</pubDate>
+<pubDate>Thu, 03 Sep 2026 19:05:19 GMT</pubDate>
+</item>
+<item>
+<title>OCC Reports August 2026 Monthly Volume Data</title>
+<link>http://www.mondovisione.com/media-and-resources/news/occ-reports-august-2026-monthly-volume-data-202693/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/occ-reports-august-2026-monthly-volume-data-202693/</guid>
+<content:encoded><![CDATA[
+
+<p><a class="safe---anchor---wc" href="https://www.theocc.com/newsroom/views/2026/09-02-august-2026-monthly-volume-report" rel="noopener noreferrer nofollow" target="_blank">Latest monthly volume data</a> from the Options Clearing Corporation (OCC) shows the OCC cleared more than 1.44 billion contracts in August, an increase of 14.4% from August 2025. Year-to-date average daily volume reached 70.8 million contracts, nearly 23% above the same period last year.</p>
+<p>&ldquo;With year-to-date average daily volume nearly 23% higher than it was at this point last year, OCC continues to support elevated activity across the listed options market. Our focus remains on providing resilient clearing and settlement services that market participants can rely on as volumes and product usage evolve.&rdquo; -Mike Hansen, Head of Clearing and Settlement Services, OCC</p>
+<p>Key highlights include:</p>
+<ul>
+<li>Total volume increased 14.4% year over year. OCC cleared more than 1.44 billion contracts during August, while year-to-date average daily volume increased 22.6% to 70.8 million contracts.</li>
+<li>ETF options recorded the strongest annual growth among the options categories. August volume increased 35.3% to more than 579 million contracts, with year-to-date average daily volume also up approximately 35%.</li>
+<li>Index options continued to post double-digit growth. August volume rose 16.9% to more than 122 million contracts, while year-to-date average daily volume increased 30.3%.</li>
+<li>Securities-lending loan value increased as transaction count declined. Average daily loan value rose 24.4% to approximately $226.5 billion, while total transactions decreased 5.1% year over year.</li>
+</ul>
+]]></content:encoded>
+<pubDate>Thu, 03 Sep 2026 19:02:32 GMT</pubDate>
+<pubDate>Thu, 03 Sep 2026 19:02:32 GMT</pubDate>
+</item>
+<item>
+<title>The Economic Outlook And Some Comments On My Policy Communication, Federal Reserve Governor Christopher J. Waller, At Reuters NEXT Newsmaker Interview, Washington, D.C.</title>
+<link>http://www.mondovisione.com/media-and-resources/news/the-economic-outlook-and-some-comments-on-my-policy-communication-federal-reser-202693/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/the-economic-outlook-and-some-comments-on-my-policy-communication-federal-reser-202693/</guid>
+<content:encoded><![CDATA[
+
+<p>Thank you, Howard. To set the stage before we talk, let me give you a sense of my thinking, as of today, about the economic outlook and the implications for monetary policy.<a href="https://www.federalreserve.gov/newsevents/speech/waller20260903a.htm#fn1" title="footnote 1"><span>1</span></a><a name="f1"></a> The short version is that, while inflation remains meaningfully above the Federal Open Market Committee's (FOMC) 2 percent goal, recent data suggest we are finally seeing some signs of disinflation. If this continues in the data due over the next two weeks, I would be inclined to support holding the target for the federal funds rate at its current setting. But there continues to be considerable uncertainty about how military conflicts, trade policy, and artificial intelligence (AI) will affect prices and economic activity. If the incoming data for August show this improvement has been fleeting, then it may be appropriate to raise the policy rate when the FOMC meets on September 15 and 16. After a description of my outlook for the economy and monetary policy, I will offer some thoughts on how I communicate those views to the public.</p>
+<p>Let me start with the real side of the economy. Despite the uncertainties I mentioned, most of which weigh on economic activity, growth in real gross domestic product (GDP) is continuing at a solid pace. Real GDP grew at a 1.8 percent annual rate in the first half of this year. Consumer spending growth was solid in the second quarter after a slow start to the year, while business investment has been strong throughout. Overall, real private domestic final purchases, the measure of spending that best reflects the underlying strength of consumer demand, rose a strong 3 percent in the first half of 2026.</p>
+<p>We have only limited data for the third quarter, including July retail sales, which were weak. But this decrease reflected the fact that Amazon's Prime Day promotion was held in June, dragging down seasonally adjusted sales in July. Outside of "non-store" sales, retail spending grew. Given the rise in wealth from the increase in equity prices this year, I believe this should sustain consumption growth.</p>
+<p>On the business side, data center plans point to continued rapid growth in business investment associated with the ongoing buildout of AI and related technological upgrades. High-tech investment continues to rise at a rapid pace, and software investment, which some feared could be depressed by AI's coding ability, has grown near its long-term historical average rate.</p>
+<p>Some would argue that this investment in a narrow sector that tends to be capital intensive, rather than labor intensive, is misleadingly propping up GDP and should in some sense be discounted. I don't agree.<a href="https://www.federalreserve.gov/newsevents/speech/waller20260903a.htm#fn2" title="footnote 2"><span>2</span></a><a name="f2"></a> AI investment is a legitimate part of GDP today, and I expect this technology will continue to be an important part of the economy after the buildout peaks and AI becomes as integrated into our lives as the internet has been.</p>
+<p>More broadly, one signal of continuing business spending growth was another increase in July in sentiment among purchasing managers for nonmanufacturing firms&mdash;to a level that I would also describe as "solid." New orders for these firms, which represent the majority of businesses in the economy, continued to grow in July, and the index of supply problems continued to improve. Today we will get the August nonmanufacturing survey, so we will see if this trend continues.</p>
+<p>Combining the various pieces of the economy, I expect real GDP to grow a bit more than 2 percent this year, a respectable outcome considering the uncertainties I mentioned.</p>
+<p>Turning to the labor market, it is also in satisfactory shape. While there were indications in the second half of 2025 of easing labor demand, relative to supply, those signs evaporated. Job creation, though a bit volatile, has increased this year by an average of 60,000 a month through July. That is close to and probably a bit above estimates of what it takes to keep pace with the slow growth in the labor force&mdash;mostly because of much lower net immigration. Payroll gains have broadened to most sectors of the economy in recent months, and the unemployment rate has fallen a bit to 4.1 percent in July, a historically low rate and slightly below the median of FOMC participants' long-run or equilibrium rate. Layoffs and initial claims for unemployment insurance are likewise low. I expect more of the same tomorrow when we get the August employment report.</p>
+<p>With economic activity and the labor market in good shape, they are not a large factor in my determination of the appropriate setting of monetary policy. But they are an important backdrop for the part of the outlook that is my focus right now, inflation, and my judgment about how much the current stance of policy is working to return inflation to 2 percent. More about that in a moment.</p>
+<p>Inflation is elevated significantly above the FOMC's 2 percent goal and has exceeded that target for five and a half years. In July, prices based on personal consumption expenditures (PCE) rose 0.2 percent, and core prices excluding food and energy increased 0.2 percent. While I was happy to see this monthly number for core inflation because it continued the pattern of lower monthly readings that we saw earlier in the year, what caught my eye in the last PCE report is that nonmarket services prices accounted for approximately half of the increase in core prices. As you are probably aware, I don't like throwing out specific categories going into the estimate of PCE inflation, but nonmarket services prices have always been an issue for me, since they are imputed and not actual price changes.<a href="https://www.federalreserve.gov/newsevents/speech/waller20260903a.htm#fn3" title="footnote 3"><span>3</span></a><a name="f3"></a> So, ignoring this one factor, my take is that underlying inflation is doing better than the core numbers suggest.</p>
+<p>PCE prices are up 3.7 percent in the past 12 months, and core PCE inflation is 3.3 percent. While it is important to acknowledge these 12-month increases for the real-world effect they have had on businesses and consumers, they are not the best guide for where inflation is today. I say this because, notwithstanding uncertainty over the geopolitical factors that have raised prices, I don't see elevated energy prices and tariffs now as a significant source of ongoing inflation pressure. The evidence is that the price effects of tariffs have largely passed through inflation, and my earlier worry that higher energy prices would bleed into many goods and services prices hasn't come to pass, at least so far.</p>
+<p>In the wake of these price shocks, to get a fix on the current trend for inflation, it is helpful to focus on more recent price increases, such as how inflation measured over the past three months has evolved over the year. To deal with the ongoing volatility in energy prices, I will focus on core inflation, excluding food and energy prices, which is a good guide for inflation going forward.</p>
+<p>Three-month core inflation is 3.05 percent for the three months through July, a level that is still not consistent with the FOMC's 2 percent goal. Nevertheless, it is important to note the trend. Three-month inflation has fallen steadily from 4.76 percent in February. That is a considerable improvement, and the speed of this downward trajectory is encouraging.</p>
+<p>One factor that I expect will lower reported inflation a bit is a pending change in the way the Commerce Department estimates the fees paid to stock market traders and related professionals. That change in this "nonmarket" price estimate, which I expect to be made shortly, could lower 12-month PCE inflation by a few tenths of a percentage point. Given my issues with nonmarket services prices, this is a welcome measurement correction.</p>
+<p>I do see some upside risks to inflation. Energy prices have moved up again and remain significantly higher than they were at the beginning of 2026, and the economy faces both pressure on technology goods prices related to the AI buildout and the possibility of more tariff increases. But, in contrast to the period of high inflation after the pandemic, wage growth, once one accounts for productivity growth, is broadly consistent with an expectation that inflation is continuing to come down to 2 percent.</p>
+<p>I am also attentive to the fact that public views about future inflation could rise after the long period of inflation above the FOMC's goal. Fortunately, the Fed has a very good record of making good on its commitments, and we haven't seen a significant increase in longer-term inflation expectations, but it must be acknowledged as a risk&mdash;one that the FOMC should be prepared to act on if longer-term expectations rise and progress on inflation reverses.</p>
+<p>This leads me to my outlook for monetary policy, which I previewed at the beginning of these remarks. As of today, the labor market is stable, with employment near its maximum sustainable level, and inflation is making slow but continued progress on reaching 2 percent. We will get another employment report and inflation reading before the next FOMC meeting. I don't expect that the employment data will deviate much from what we have been seeing. So my decision on the appropriate stance of policy will be heavily influenced by what we learn about August inflation. If there is continued progress toward our 2 percent goal, then I am willing to support holding the policy rate at its current level.</p>
+<p>But if inflation comes in hot, I would consider a rate hike. I judge that policy is currently only slightly restricting aggregate demand, and it may not take much acceleration in inflation to nudge me into supporting tighter policy. If there is evidence that progress toward 2 percent inflation reversed in August, a small adjustment in our stance would help ensure that it resumes.</p>
+<p>By way of wrapping up, I want to speak about central bank communication, which I consider an essential part of the monetary policy process. I distinguish between three types of communication that matter for monetary policy and how I try to communicate my views to the public.</p>
+<p>First, I try to communicate why I have taken my <em>current</em> policy position. If I vote to hold rates steady, I explain how <em>current</em> economic conditions affected my policy decision. I was comfortable supporting the FOMC's decision in late July to hold rates steady because the data at that time led me to view the real side of the economy as solid and we finally saw hints that disinflation may be starting. So I was willing to be patient and see if the disinflation would continue.</p>
+<p>The second way in which I communicate is to explain how <em>future</em> economic data will shape my <em>future</em> monetary policy decisions&mdash;in short, I try to describe my "reaction function." When thinking about future data, I communicate that IF the data comes in a particular way, THEN I will advocate for policy to be set a particular way. The key point here is that this it is not a commitment to a policy action&mdash;it is a conditional policy statement. A different economic outcome would lead me to advocate for a different policy action. In my remarks today, I have outlined what it would take for me to support a continued pause as well as what would cause me to support tighter policy. By communicating my reaction function, consumers, businesses, and investors can better understand how I will vote on policy given the range of outcomes and then factor that into their planning for the future.</p>
+<p>Now, is that reaction function perfect? No. But my years as a professional economist and policymaker have given me substantial knowledge on how policy should respond to shocks. In this sense, I view myself as a home plate umpire in baseball. The pitcher is trying to strike out the batter, and the batter is trying to hit the ball or walk to get on base. Both want to play the ball, but they cannot do that until they know the umpire's strike zone. The strike zone is the umpire's reaction function. If the ball goes here, it's a strike; if it goes there, it's a ball. The players don't expect the umpire to have a perfect strike zone&mdash;they just need a rough idea of its parameters and some guarantee that it won't change much on every pitch. Perfection is not needed for them to play well. So, when it comes to my reaction function, I do not let perfection become the enemy of the good.</p>
+<p>The third and final type of communication is forward guidance, which specifies a path for the policy rate that is essentially <em>independent</em> of incoming data. This type of communication is most warranted when the policy rate is at the effective lower bound and additional communication is needed to guide market expectations.<a href="https://www.federalreserve.gov/newsevents/speech/waller20260903a.htm#fn4" title="footnote 4"><span>4</span></a><a name="f4"></a> For example, by September 2021 it was clear to me that we needed to raise the policy rate to deal with accelerating inflation. But as this would only happen after asset purchases had stopped, I supported forward guidance that strongly signaled the end of those purchases, setting the stage for rate increases in 2022. By communicating to markets that rate hikes were coming and coming soon, market interest rates began to climb. By March 2022, the two-year Treasury note had increased 200 basis points, and we hadn't moved the policy rate off the effective lower bound yet. In this example, forward guidance helped tighten economic conditions long before we actually raised the policy rate. But it is important to remember that those actions were taken when the policy rate was near zero. I agree with Chairman Warsh that forward guidance isn't appropriate now or in many other situations. But when it is truly needed, I believe it should be used.</p>
+<p>And with that, I think I have said enough. So, Howard, let's get to your questions, which I am sure will be well informed and probably better informed than my answers.</p>
+<hr align="left" size="1" width="33%" />
+<p><a name="fn1"></a>1. The views expressed here are my own and are not necessarily those of my colleagues on the Federal Reserve Board or the Federal Open Market Committee.&nbsp;</p>
+<p><a name="fn2"></a>2. I see this as a technological change that will reliably raise productivity and living standards while improving the quality of our lives. For a discussion on how AI is likely to affect our lives along these lines and how it differs from past technological changes, see Christopher J. Waller (2025), "<a href="https://www.federalreserve.gov/newsevents/speech/waller20251015a.htm">Innovation at the Speed of AI</a>," speech delivered at DC Fintech Week, Arlington, Va., October 15.)&nbsp;</p>
+<p><a name="fn3"></a>3. For a discussion on how imputed prices were holding up inflation in 2024 and how, because they are estimated rather than directly observed, I consider them to be a less reliable guide to the balance of supply and demand across all goods and services in the economy, see Christopher J. Waller (2025), "<a href="https://www.bis.org/speeches/20250114-challenges-facing-central-bankers">Challenges Facing Central Bankers</a>," speech delivered at Lectures of the Governor, Organisation for Economic Co-operation and Development, Paris, France, January 8.)&nbsp;</p>
+<p><a name="fn4"></a>4. See my July 6, 2026 remarks on where I discuss how forward guidance can be a valuable tool that has, at times, significantly strengthened policymaking and will continue to be useful and yet is more art than science and there have been times when it has hindered, rather than helped, policymaking. Christopher J. Waller (2026), "<a href="https://www.federalreserve.gov/newsevents/speech/waller20260706a.htm">Two Thoughts on the Transmission of Monetary Policy</a>," speech delivered at "Challenges for Monetary Policy Transmission in a Changing World," a conference sponsored by the Bank of Italy for the research network initiated by the European System of Central Banks, Rome, Italy, July 6.)&nbsp;</p>
+]]></content:encoded>
+<pubDate>Thu, 03 Sep 2026 14:59:17 GMT</pubDate>
+<pubDate>Thu, 03 Sep 2026 14:59:17 GMT</pubDate>
+</item>
 
 <item>
 <title>NZX Shareholder Metrics - August 2026</title>
