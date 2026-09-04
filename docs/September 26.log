@@ -549,3 +549,24 @@ Existing_entries: 137
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-09-04 03:51:17.754687
+------------------------------------------------------
+Started: 2026-09-04 08:42:18.896404
+Existing_entries: 137
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Montréal Exchange Interest Rate Derivative Trading Ceases At 13:30 Today, September 4, 2026 - Exchange's Markets Closed September 7, 2026](http://www.mondovisione.com/media-and-resources/news/montral-exchange-interest-rate-derivative-trading-ceases-at-1330-today-septem-202694/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASX Group Monthly Activity Report - August 2026](http://www.mondovisione.com/media-and-resources/news/asx-group-monthly-activity-report-august-2026-202694/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Parliamentary Joint Committee On Corporations And Financial Services, Opening Statement, 4 September 2026 - Opening Statement By ASIC Chair Sarah Court At The Parliamentary Joint Committee On Corporations And Financial Services Oversight Of ASIC, The Takeovers Panel And The Corporations Legislation](http://www.mondovisione.com/media-and-resources/news/parliamentary-joint-committee-on-corporations-and-financial-services-opening-st-202694/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Shanghai Gold Exchange Monthly Report Of Data Highlights - August, 2026](http://www.mondovisione.com/media-and-resources/news/shanghai-gold-exchange-monthly-report-of-data-highlights-august-2026-202694/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Financial Trade Associations Issue Joint Statement On Political Contributions Rule For Investment Advisers](http://www.mondovisione.com/media-and-resources/news/us-financial-trade-associations-issue-joint-statement-on-political-contributions-202694/)
+append_entries: 5
+Finish: 2026-09-04 08:42:20.428983
