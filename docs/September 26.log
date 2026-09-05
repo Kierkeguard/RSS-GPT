@@ -635,3 +635,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CCP Global Submits A Response To The BOE's Discussion Paper On CCP Resolution](http://www.mondovisione.com/media-and-resources/news/ccp-global-submits-a-response-to-the-boes-discussion-paper-on-ccp-resolution-202694/)
 append_entries: 5
 Finish: 2026-09-05 08:13:53.640374
+------------------------------------------------------
+Started: 2026-09-05 13:19:38.570488
+Existing_entries: 161
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-09-05 13:19:39.498723
