@@ -741,3 +741,21 @@ Append: [Last Chance To Register: Limited Seats Remain For The 7th Annual ETFGI 
 Append: [Eurex: Trading And Market Insights With Rex Jones - European Interest Rate Options](http://www.mondovisione.com/media-and-resources/news/eurex-trading-and-market-insights-with-rex-jones-european-interest-rate-optio-202697/)
 append_entries: 6
 Finish: 2026-09-07 15:39:12.216574
+------------------------------------------------------
+Started: 2026-09-07 19:44:10.775454
+Existing_entries: 171
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Euronext Announces Volumes For August 2026](http://www.mondovisione.com/media-and-resources/news/euronext-announces-volumes-for-august-2026-202697/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-transaction-in-own-shares-202697/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [EEX Launches New Handysize Freight Futures](http://www.mondovisione.com/media-and-resources/news/eex-launches-new-handysize-freight-futures-202697/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Monthly Review- Diverging Sector Performance Stands Out Amid The Second-Quarter Earnings Season - August On Tel Aviv Stock Exchange: Stability In The Flagship Indices Amid Significant Sector Divergence](http://www.mondovisione.com/media-and-resources/news/monthly-review-diverging-sector-performance-stands-out-amid-the-second-quarter-202697/)
+append_entries: 4
+Finish: 2026-09-07 19:44:11.959721
