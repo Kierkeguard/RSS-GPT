@@ -759,3 +759,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Monthly Review- Diverging Sector Performance Stands Out Amid The Second-Quarter Earnings Season - August On Tel Aviv Stock Exchange: Stability In The Flagship Indices Amid Significant Sector Divergence](http://www.mondovisione.com/media-and-resources/news/monthly-review-diverging-sector-performance-stands-out-amid-the-second-quarter-202697/)
 append_entries: 4
 Finish: 2026-09-07 19:44:11.959721
+------------------------------------------------------
+Started: 2026-09-07 22:40:29.498753
+Existing_entries: 175
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-09-07 22:40:30.859153
