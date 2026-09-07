@@ -704,3 +704,18 @@ Existing_entries: 162
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-09-07 03:52:28.057100
+------------------------------------------------------
+Started: 2026-09-07 09:09:47.859489
+Existing_entries: 162
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [S&P Maintains ‘A’ Rating And Stable Outlook For SIX](http://www.mondovisione.com/media-and-resources/news/sandp-maintains-a-rating-and-stable-outlook-for-six-202697/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Taiwan Futures Exchange Newsletter - September 2026](http://www.mondovisione.com/media-and-resources/news/taiwan-futures-exchange-newsletter-september-2026-202697/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Securities Commission Malaysia And Bursa Malaysia Collaborate To Advance Informed Investing Among Retail Investors](http://www.mondovisione.com/media-and-resources/news/securities-commission-malaysia-and-bursa-malaysia-collaborate-to-advance-informe-202697/)
+append_entries: 3
+Finish: 2026-09-07 09:09:48.953427
