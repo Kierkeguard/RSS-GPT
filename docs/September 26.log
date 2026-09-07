@@ -719,3 +719,25 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Securities Commission Malaysia And Bursa Malaysia Collaborate To Advance Informed Investing Among Retail Investors](http://www.mondovisione.com/media-and-resources/news/securities-commission-malaysia-and-bursa-malaysia-collaborate-to-advance-informe-202697/)
 append_entries: 3
 Finish: 2026-09-07 09:09:48.953427
+------------------------------------------------------
+Started: 2026-09-07 15:39:11.202521
+Existing_entries: 165
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Defiance ETFs Launches Memory & Photonics ETF Tracking The Solactive Memory And Photonics Index](http://www.mondovisione.com/media-and-resources/news/defiance-etfs-launches-memory-and-photonics-etf-tracking-the-solactive-memory-and-202697/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group Sets New FX Open Interest Record](http://www.mondovisione.com/media-and-resources/news/cme-group-sets-new-fx-open-interest-record-202697/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER Calls For Better Market Modelling As Data Centre Demand Outpaces Electricity Supply In Portugal](http://www.mondovisione.com/media-and-resources/news/acer-calls-for-better-market-modelling-as-data-centre-demand-outpaces-electricit-202697/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [August 2026 Figures At Eurex](http://www.mondovisione.com/media-and-resources/news/august-2026-figures-at-eurex-202697/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Last Chance To Register: Limited Seats Remain For The 7th Annual ETFGI Global ETFs Insights Summit Asia Pacific On Sept 9th And 10th](http://www.mondovisione.com/media-and-resources/news/last-chance-to-register-limited-seats-remain-for-the-7th-annual-etfgi-global-et-202697/)
+Append: [Eurex: Trading And Market Insights With Rex Jones - European Interest Rate Options](http://www.mondovisione.com/media-and-resources/news/eurex-trading-and-market-insights-with-rex-jones-european-interest-rate-optio-202697/)
+append_entries: 6
+Finish: 2026-09-07 15:39:12.216574
