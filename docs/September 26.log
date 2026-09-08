@@ -771,3 +771,21 @@ Existing_entries: 175
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-09-08 03:55:39.256533
+------------------------------------------------------
+Started: 2026-09-08 08:45:27.580415
+Existing_entries: 175
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ExeQution Analytics Launches FX Solution: Solas](http://www.mondovisione.com/media-and-resources/news/exeqution-analytics-launches-fx-solution-solas-202698/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Record Year For Investment Product Sales In Hong Kong With Robust Demand For FICC-Related Products: Hong Kong Securities and Futures Commission-Hong Kong Monetary Authority Joint Survey 2025](http://www.mondovisione.com/media-and-resources/news/record-year-for-investment-product-sales-in-hong-kong-with-robust-demand-for-fic-202698/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SET Market Report For August 2026](http://www.mondovisione.com/media-and-resources/news/set-market-report-for-august-2026-202698/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Shenzhen Stock Exchange Market Bulletin, September 04, 2026, Issue 21](http://www.mondovisione.com/media-and-resources/news/shenzhen-stock-exchange-market-bulletin-september-04-2026-issue-21-202698/)
+append_entries: 4
+Finish: 2026-09-08 08:45:28.491427
