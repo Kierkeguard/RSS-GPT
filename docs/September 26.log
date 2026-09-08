@@ -836,3 +836,15 @@ Append: [Nasdaq, Börse Stuttgart And Others Urge EU To Rethink €100bn DLT Cap
 Append: [With Intelligence Launches Investor Analytics - Builds On Industry’s Leading Database Of Institutional Investors To Align Fundraising Goals With Institutional Investor Intentions And Performance Benchmarks](http://www.mondovisione.com/media-and-resources/news/with-intelligence-launches-investor-analytics-builds-on-industrys-leading-dat-202698/)
 append_entries: 7
 Finish: 2026-09-08 19:20:34.688268
+------------------------------------------------------
+Started: 2026-09-08 22:29:00.910291
+Existing_entries: 194
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Swaps Report Update](http://www.mondovisione.com/media-and-resources/news/cftc-swaps-report-update-202698/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TMX Group Consolidated Trading Statistics – August 2026 - Toronto Stock Exchange, TSX Venture Exchange, TSX Alpha Exchange, Including Alpha-X & Alpha DRK, And Montréal Exchange](http://www.mondovisione.com/media-and-resources/news/tmx-group-consolidated-trading-statistics-august-2026-toronto-stock-exchange-202698/)
+append_entries: 2
+Finish: 2026-09-08 22:29:01.822781
