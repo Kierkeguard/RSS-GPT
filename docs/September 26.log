@@ -789,3 +789,27 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Shenzhen Stock Exchange Market Bulletin, September 04, 2026, Issue 21](http://www.mondovisione.com/media-and-resources/news/shenzhen-stock-exchange-market-bulletin-september-04-2026-issue-21-202698/)
 append_entries: 4
 Finish: 2026-09-08 08:45:28.491427
+------------------------------------------------------
+Started: 2026-09-08 14:16:47.597319
+Existing_entries: 179
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Archax Adds US Digital Broker-Dealer, Completing Regulated Coverage Across UK, EU And US - FINRA Membership And SEC Registration Clear The Way For Archax To Offer Tokenized Real-World Asset Products And Services Directly In The United States](http://www.mondovisione.com/media-and-resources/news/archax-adds-us-digital-broker-dealer-completing-regulated-coverage-across-uk-e-202698/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Economic Secretary To The Treasury Speech At UK Finance - The Economic Secretary To The Treasury Delivered Her Speech At UK Finance](http://www.mondovisione.com/media-and-resources/news/uk-economic-secretary-to-the-treasury-speech-at-uk-finance-the-economic-secret-202698/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group To Enter European Dairy Market With Transition Of EEX Dairy Products](http://www.mondovisione.com/media-and-resources/news/cme-group-to-enter-european-dairy-market-with-transition-of-eex-dairy-products-202698/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CPMI-IOSCO: Global Standard-Setting Bodies Publish A Toolkit For Cyber Resilience At Financial Market Infrastructures (FMIs) And A Discussion Paper On FMIs' Reliance On Third-Party Service Providers](http://www.mondovisione.com/media-and-resources/news/cpmi-iosco-global-standard-setting-bodies-publish-a-toolkit-for-cyber-resilienc-202698/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CRIF Launches AI Anti-Fraud Solution For Financial Providers To Tackle Tampering During Customer Onboarding](http://www.mondovisione.com/media-and-resources/news/crif-launches-ai-anti-fraud-solution-for-financial-providers-to-tackle-tampering-202698/)
+Append: [LAVA Advisory Partners Enters The US With New York Office And Appointment Of Two US-Based Partners](http://www.mondovisione.com/media-and-resources/news/lava-advisory-partners-enters-the-us-with-new-york-office-and-appointment-of-two-202698/)
+Append: [SIX Launches Affordable European Market Data Alternative](http://www.mondovisione.com/media-and-resources/news/six-launches-affordable-european-market-data-alternative-202698/)
+Append: [MENA Fintech Association Welcomes Wise As A Corporate Member to Advance Cross-Border Payments And Global Financial Connectivity](http://www.mondovisione.com/media-and-resources/news/mena-fintech-association-welcomes-wise-as-a-corporate-member-to-advance-cross-bo-202698/)
+append_entries: 8
+Finish: 2026-09-08 14:16:48.587754
