@@ -854,3 +854,24 @@ Existing_entries: 196
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-09-09 04:00:40.635668
+------------------------------------------------------
+Started: 2026-09-09 08:55:53.307008
+Existing_entries: 196
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Deutsche Börse AG Launches An Offering Of Convertible Bonds In An Aggregate Amount Of EUR 600 Million Due 2031](http://www.mondovisione.com/media-and-resources/news/deutsche-brse-ag-launches-an-offering-of-convertible-bonds-in-an-aggregate-amou-202699/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Connecting Global Markets To Shape The Future: Hong Kong’s Next Chapter As A Fixed Income And Currency Hub - Keynote Speech At The Fourth HKEX China Conference - Mr Rico Leung, Executive Director, Supervision Of Markets, Hong Kong Securities And Futures Commission, 9 September 2026](http://www.mondovisione.com/media-and-resources/news/connecting-global-markets-to-shape-the-future-hong-kongs-next-chapter-as-a-fix-202699/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASX Update - Dividend/Distribution](http://www.mondovisione.com/media-and-resources/news/asx-update-dividenddistribution-202699/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC: Financial Advice Update – September 2026](http://www.mondovisione.com/media-and-resources/news/asic-financial-advice-update-september-2026-202699/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Zealand Financial Markets Authority: OCR Pass Through Transparency - Delivering Transparency On The Pace At Which Financial Institutions Respond To Changes In The Official Cash Rate](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-ocr-pass-through-transparency-deliver-202699/)
+append_entries: 5
+Finish: 2026-09-09 08:55:54.899140
