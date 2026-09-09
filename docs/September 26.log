@@ -922,3 +922,15 @@ Append: [ESMA Consults On Disclosure Requirements And Updates Guidelines And Q&A
 Append: [Euronext Announces September 2026 Results Of The OBX® Family](http://www.mondovisione.com/media-and-resources/news/euronext-announces-september-2026-results-of-the-obx-family-202699/)
 append_entries: 10
 Finish: 2026-09-09 19:10:16.914503
+------------------------------------------------------
+Started: 2026-09-09 22:22:57.952385
+Existing_entries: 216
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Exchange Data International, Symbol Master, And CPZ Partner To Streamline Data For AI Trading - EDI’s Global Reference And Pricing Data And SMI’s Options Symbology Are Being Integrated Into CPZAI, The AI-Native Systematic Trading Operating System Built By CPZ](http://www.mondovisione.com/media-and-resources/news/exchange-data-international-symbol-master-and-cpz-partner-to-streamline-data-f-202699/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [EDX Integrates Fireblocks Network Link To Streamline Institutional Digital Asset Transfers](http://www.mondovisione.com/media-and-resources/news/edx-integrates-fireblocks-network-link-to-streamline-institutional-digital-asset-202699/)
+append_entries: 2
+Finish: 2026-09-09 22:22:58.942084
