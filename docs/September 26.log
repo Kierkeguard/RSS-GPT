@@ -875,3 +875,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [New Zealand Financial Markets Authority: OCR Pass Through Transparency - Delivering Transparency On The Pace At Which Financial Institutions Respond To Changes In The Official Cash Rate](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-ocr-pass-through-transparency-deliver-202699/)
 append_entries: 5
 Finish: 2026-09-09 08:55:54.899140
+------------------------------------------------------
+Started: 2026-09-09 14:16:39.866657
+Existing_entries: 201
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LME Announces Launch Date And Liquidity Provider Programme For Steel HRC Shanghai Futures Contract](http://www.mondovisione.com/media-and-resources/news/lme-announces-launch-date-and-liquidity-provider-programme-for-steel-hrc-shangha-202699/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Pirum Appoints Ray Wong As Director Of Product - AI & Data - Senior Leader In Agentic AI And Capital Markets Data Products Joins To Accelerate Pirum's Data-Driven AI Solutions Portfolio](http://www.mondovisione.com/media-and-resources/news/pirum-appoints-ray-wong-as-director-of-product-ai-and-data-senior-leader-in-ag-202699/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [83% Expect To Meet T+1 Deadline Next Year, But Only 32% Say They Are Fully Prepared Today:  Tokenovate](http://www.mondovisione.com/media-and-resources/news/83-expect-to-meet-t1-deadline-next-year-but-only-32-say-they-are-fully-prepa-202699/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Sage Capital Management Selects OpenPayd To Expand Fiat Access For Institutional Digital Asset Clients - Live Integration Adds USD, EUR And GBP CAPABILITIES, INCLUDING USD On/Off-Ramping Via SWIFT, Alongside SEPA And Faster Payments Connectivity.](http://www.mondovisione.com/media-and-resources/news/sage-capital-management-selects-openpayd-to-expand-fiat-access-for-institutional-202699/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Broadridge Launches DLX, An Always-On Digital Asset Infrastructure Platform For Tokenized Markets - DLX Is The Operating System For Tokenized Finance, Combining Multi-Chain Enablement, A Programmable Smart Contract Composer, 24/7 Transaction Capabilities, Integrated Distribution, And Institutional-Grade Workflow Orchestration Across Traditional And On-Chain Markets](http://www.mondovisione.com/media-and-resources/news/broadridge-launches-dlx-an-always-on-digital-asset-infrastructure-platform-for-202699/)
+append_entries: 5
+Finish: 2026-09-09 14:16:41.143454
