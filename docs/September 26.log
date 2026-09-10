@@ -940,3 +940,24 @@ Existing_entries: 218
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-09-10 03:59:38.465938
+------------------------------------------------------
+Started: 2026-09-10 08:54:09.718980
+Existing_entries: 218
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Caplin Launches End-To-End White-Label Digital Asset Solution For Institutional Trading Desks - Gives Sell-Side Firms Hosted Multi-Asset Trading Infrastructure Out Of The Box With Deployment In As Little As 12 Weeks](http://www.mondovisione.com/media-and-resources/news/caplin-launches-end-to-end-white-label-digital-asset-solution-for-institutional-2026910/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Sterling Trading Tech Launches STRIDER™ - AI Driven Web And Mobile For Frictionless 24-Hour Trading Worldwide](http://www.mondovisione.com/media-and-resources/news/sterling-trading-tech-launches-strider-ai-driven-web-and-mobile-for-frictionl-2026910/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Pictet Lists AI Enhanced Equity ETFs At SIX Swiss Exchange](http://www.mondovisione.com/media-and-resources/news/pictet-lists-ai-enhanced-equity-etfs-at-six-swiss-exchange-2026910/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Callum Dunn Joins DIGITEC As Lead Solutions Architect](http://www.mondovisione.com/media-and-resources/news/callum-dunn-joins-digitec-as-lead-solutions-architect-2026910/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Zealand Financial Markets Authority: KiwiSaver Annual Report 2026 Stresses The Importance Of Good Governance As Balances Pass $40,000](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-kiwisaver-annual-report-2026-stresses-t-2026910/)
+append_entries: 5
+Finish: 2026-09-10 08:54:10.960326
