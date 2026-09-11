@@ -1039,3 +1039,15 @@ Existing_entries: 247
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-09-11 03:56:38.653396
+------------------------------------------------------
+Started: 2026-09-11 08:50:02.335407
+Existing_entries: 247
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Seeks Feedback On Future Access To Information On Companies Register](http://www.mondovisione.com/media-and-resources/news/asic-seeks-feedback-on-future-access-to-information-on-companies-register-2026911/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Office Of The Comptroller Of The Currency Advances Community Bank Comeback, Reduces Exam Burden For Smallest Institutions](http://www.mondovisione.com/media-and-resources/news/us-office-of-the-comptroller-of-the-currency-advances-community-bank-comeback-r-2026911/)
+append_entries: 2
+Finish: 2026-09-11 08:50:03.246719
