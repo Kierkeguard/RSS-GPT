@@ -1083,3 +1083,15 @@ Append: [Euronext Announces September 2026 Quarterly Review Results Of The MIB E
 Append: [US Treasury Welcomes The Revised GloBE Information Return Implementing President Trump’s Day One Executive Order - New Rules Deliver On President Trump's International Tax Agenda To Protect U.S. Companies From Compliance Burdens](http://www.mondovisione.com/media-and-resources/news/us-treasury-welcomes-the-revised-globe-information-return-implementing-president-2026911/)
 append_entries: 10
 Finish: 2026-09-11 19:04:07.484878
+------------------------------------------------------
+Started: 2026-09-11 22:22:07.091410
+Existing_entries: 259
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Commitments Of Traders Reports Update](http://www.mondovisione.com/media-and-resources/news/cftc-commitments-of-traders-reports-update-2026911/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Approves Final Rule Concerning Whistleblower Awards](http://www.mondovisione.com/media-and-resources/news/cftc-approves-final-rule-concerning-whistleblower-awards-2026911/)
+append_entries: 2
+Finish: 2026-09-11 22:22:08.289170
