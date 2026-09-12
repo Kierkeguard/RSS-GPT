@@ -1095,3 +1095,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [CFTC Approves Final Rule Concerning Whistleblower Awards](http://www.mondovisione.com/media-and-resources/news/cftc-approves-final-rule-concerning-whistleblower-awards-2026911/)
 append_entries: 2
 Finish: 2026-09-11 22:22:08.289170
+------------------------------------------------------
+Started: 2026-09-12 03:58:35.511572
+Existing_entries: 261
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-09-12 03:58:36.922258
