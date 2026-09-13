@@ -1143,3 +1143,12 @@ Existing_entries: 263
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-09-13 11:26:50.178319
+------------------------------------------------------
+Started: 2026-09-13 18:40:34.434893
+Existing_entries: 263
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MAPNA Group’s Listing Anniversary Marked At Tehran Securities Exchange](http://www.mondovisione.com/media-and-resources/news/mapna-groups-listing-anniversary-marked-at-tehran-securities-exchange-2026913/)
+append_entries: 1
+Finish: 2026-09-13 18:40:37.978904
