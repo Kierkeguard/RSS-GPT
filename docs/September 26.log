@@ -1152,3 +1152,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [MAPNA Group’s Listing Anniversary Marked At Tehran Securities Exchange](http://www.mondovisione.com/media-and-resources/news/mapna-groups-listing-anniversary-marked-at-tehran-securities-exchange-2026913/)
 append_entries: 1
 Finish: 2026-09-13 18:40:37.978904
+------------------------------------------------------
+Started: 2026-09-13 22:14:59.543531
+Existing_entries: 264
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-09-13 22:15:00.745056
