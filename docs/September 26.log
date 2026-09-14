@@ -1215,3 +1215,21 @@ Append: [TMX Group CFO To Present At The 25th Annual CIBC Eastern Institutional 
 Append: [UK Financial Conduct Authority: Upper Tribunal Upholds Crispin Odey Ban](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-upper-tribunal-upholds-crispin-odey-ban-2026914/)
 append_entries: 10
 Finish: 2026-09-14 19:08:04.619256
+------------------------------------------------------
+Started: 2026-09-14 23:01:28.117902
+Existing_entries: 283
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Swaps Report Update](http://www.mondovisione.com/media-and-resources/news/cftc-swaps-report-update-2026914/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New York Attorney General James Calls On Congress To Preserve States’ Ability To Protect Americans From Cryptocurrency Scams - The Clarity Act Would Jeopardize State Attorneys General’s Ability To Protect Investors From Scams And Frauds](http://www.mondovisione.com/media-and-resources/news/new-york-attorney-general-james-calls-on-congress-to-preserve-states-ability-to-2026914/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ETFGI: ETF Industry In The United States Reports Record Assets Of US$16.36 Trillion And Record Year-To-Date Net Inflows Of US$1.41 Trillion At The End Of August](http://www.mondovisione.com/media-and-resources/news/etfgi-etf-industry-in-the-united-states-reports-record-assets-of-us1636-trill-2026914/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Meritz Securities Connects To Bruce Markets’ Data Feed For U.S. Equities, Improving Market Data For Korean Traders](http://www.mondovisione.com/media-and-resources/news/meritz-securities-connects-to-bruce-markets-data-feed-for-us-equities-improv-2026914/)
+append_entries: 4
+Finish: 2026-09-14 23:01:29.425410
