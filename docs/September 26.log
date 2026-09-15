@@ -1291,3 +1291,18 @@ Append: [BME Expands Its Structured Products Offering With Société Générale�
 Append: [TS Imagine Launches TSIQ, An AI Platform For Capital Markets - Built On Five Years Of Investment In Data And Financial Context, TSIQ Delivers Trusted, Auditable Intelligence Across Capital Markets Workflows](http://www.mondovisione.com/media-and-resources/news/ts-imagine-launches-tsiq-an-ai-platform-for-capital-markets-built-on-five-yea-2026915/)
 append_entries: 10
 Finish: 2026-09-15 16:38:45.771820
+------------------------------------------------------
+Started: 2026-09-15 21:03:37.945366
+Existing_entries: 307
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group Expands Credit Ecosystem With Launch Of Liquid Leveraged Loan Index Futures](http://www.mondovisione.com/media-and-resources/news/cme-group-expands-credit-ecosystem-with-launch-of-liquid-leveraged-loan-index-fu-2026915/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Ontario Securities Commission Publishes Investment Management Division Annual Summary Report](http://www.mondovisione.com/media-and-resources/news/ontario-securities-commission-publishes-investment-management-division-annual-su-2026915/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Money And Power: Lessons From History For Stablecoins And US Dollar Dominance – Speech By Carolyn Wilkins, Bank Of England External Member Of The Financial Policy Committee, Given At Queen’s University, Belfast](http://www.mondovisione.com/media-and-resources/news/money-and-power-lessons-from-history-for-stablecoins-and-us-dollar-dominance-2026915/)
+append_entries: 3
+Finish: 2026-09-15 21:03:38.722505
