@@ -1327,3 +1327,27 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [TMX Group Prices $1.1 Billion Private Placement Debenture Offering](http://www.mondovisione.com/media-and-resources/news/tmx-group-prices-11-billion-private-placement-debenture-offering-2026916/)
 append_entries: 3
 Finish: 2026-09-16 07:27:34.104930
+------------------------------------------------------
+Started: 2026-09-16 13:17:24.484080
+Existing_entries: 313
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tehran Securities Exchange Hosts 23rd Dairy Co. - New Listing](http://www.mondovisione.com/media-and-resources/news/tehran-securities-exchange-hosts-23rd-dairy-co-new-listing-2026916/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ICE Launches Private Credit Reference Data Service](http://www.mondovisione.com/media-and-resources/news/ice-launches-private-credit-reference-data-service-2026916/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority: Crypto Firms Get Guidance On How The New Regime Applies](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-crypto-firms-get-guidance-on-how-the-new-regime-2026916/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CLARITY Act Failure: A Setback for US Digital Assets, But Not The End Of The Road - James Butterfill, Head Of Research, CoinShares](http://www.mondovisione.com/media-and-resources/news/clarity-act-failure-a-setback-for-us-digital-assets-but-not-the-end-of-the-roa-2026916/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BME: MARF Has Registered A New Promissory Note Program From Grupo Inmobiliario Gomendio For 50 Million Euros](http://www.mondovisione.com/media-and-resources/news/bme-marf-has-registered-a-new-promissory-note-program-from-grupo-inmobiliario-g-2026916/)
+Append: [The WFE Publishes 12th Annual Sustainability Survey: Exchanges See Sustainability As A Strategic Opportunity To Create And Protect Value](http://www.mondovisione.com/media-and-resources/news/the-wfe-publishes-12th-annual-sustainability-survey-exchanges-see-sustainabilit-2026916/)
+Append: [FIA Publishes Paper On Improving EU Financial Services Rulemaking](http://www.mondovisione.com/media-and-resources/news/fia-publishes-paper-on-improving-eu-financial-services-rulemaking-2026916/)
+Append: ["SET To Host “JUMP+ Investor Day 2026”On September 26, Connecting Listed Companies With Investors To Showcase Corporate Growth Strategies"](http://www.mondovisione.com/media-and-resources/news/set-to-host-jump-investor-day-2026on-september-26-connecting-listed-compani-2026916/)
+append_entries: 8
+Finish: 2026-09-16 13:17:25.602028
