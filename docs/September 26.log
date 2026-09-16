@@ -1312,3 +1312,18 @@ Existing_entries: 310
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-09-16 00:03:58.025282
+------------------------------------------------------
+Started: 2026-09-16 07:27:33.039577
+Existing_entries: 310
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Global Financial Centres Index 40 - Asian Financial Centres Challenge The Established Players](http://www.mondovisione.com/media-and-resources/news/global-financial-centres-index-40-asian-financial-centres-challenge-the-establ-2026916/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Osaka Exchange: MKS PAMP Has Been Approved As An Approved Person In The Chain Of Custody Related To The Issuance Of Warehouse Receipts For Precious Metals](http://www.mondovisione.com/media-and-resources/news/osaka-exchange-mks-pamp-has-been-approved-as-an-approved-person-in-the-chain-of-2026916/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [TMX Group Prices $1.1 Billion Private Placement Debenture Offering](http://www.mondovisione.com/media-and-resources/news/tmx-group-prices-11-billion-private-placement-debenture-offering-2026916/)
+append_entries: 3
+Finish: 2026-09-16 07:27:34.104930
