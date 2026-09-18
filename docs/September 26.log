@@ -1491,3 +1491,27 @@ Existing_entries: 363
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-09-18 04:33:20.746123
+------------------------------------------------------
+Started: 2026-09-18 10:54:48.969070
+Existing_entries: 363
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Vienna Stock Exchange: New Composition Of Central And Eastern European Benchmark Indices](http://www.mondovisione.com/media-and-resources/news/vienna-stock-exchange-new-composition-of-central-and-eastern-european-benchmark-2026918/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Releases August 2026 Financial Adviser Exam Results](http://www.mondovisione.com/media-and-resources/news/asic-releases-august-2026-financial-adviser-exam-results-2026918/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [From Artificial Intelligence To Accountable Intelligence: Governance, Culture And Competence For Performance  In The Age Of AI - Keynote Speech At The Corporate Governance Conference 2026 - Dr Kelvin Wong  Chairman, Hong Kong Securities And Futures Commission, 18 September 2026](http://www.mondovisione.com/media-and-resources/news/from-artificial-intelligence-to-accountable-intelligence-governance-culture-an-2026918/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Monetary Authority Of Singapore And People’s Bank Of China Strengthen Cooperation In Transition And Adaptation Finance At The 4th Singapore-China Green Finance Taskforce Meeting](http://www.mondovisione.com/media-and-resources/news/monetary-authority-of-singapore-and-peoples-bank-of-china-strengthen-cooperatio-2026918/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Application For Quotation Of Securities - ASX](http://www.mondovisione.com/media-and-resources/news/application-for-quotation-of-securities-asx-2026918/)
+Append: [ASIC Issues Consolidated Reporting And Auditing Relief Instruments](http://www.mondovisione.com/media-and-resources/news/asic-issues-consolidated-reporting-and-auditing-relief-instruments-2026918/)
+Append: [US Office Of The Comptroller Of The Currency Announces Enforcement Actions For September 2026](http://www.mondovisione.com/media-and-resources/news/us-office-of-the-comptroller-of-the-currency-announces-enforcement-actions-for-s-2026918/)
+Append: [SIFMA Statement On SEC Innovation Exemption](http://www.mondovisione.com/media-and-resources/news/sifma-statement-on-sec-innovation-exemption-2026918/)
+append_entries: 8
+Finish: 2026-09-18 10:54:49.921477
