@@ -1558,3 +1558,12 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Building A Stronger UK Investment Culture, Speech By Lucy Castledine, UK Financial Conduct Authority, Director Of Consumer Investments, At The 2026 Investor Summit](http://www.mondovisione.com/media-and-resources/news/building-a-stronger-uk-investment-culture-speech-by-lucy-castledine-uk-financi-2026918/)
 append_entries: 5
 Finish: 2026-09-19 12:22:40.986508
+------------------------------------------------------
+Started: 2026-09-19 17:05:51.259340
+Existing_entries: 382
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tehran Securities Exchange Weekly Market Report, 12 - 16 Sept. 2026](http://www.mondovisione.com/media-and-resources/news/tehran-securities-exchange-weekly-market-report-12-16-sept-2026-2026919/)
+append_entries: 1
+Finish: 2026-09-19 17:05:52.226475
