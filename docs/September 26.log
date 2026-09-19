@@ -1537,3 +1537,24 @@ Append: [Initial Findings From Independent Review Of Silicon Valley Bank, Federa
 Append: [Malawi Stock Exchange Weekly Summary Report - 18 September 2026](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-18-september-2026-2026918/)
 append_entries: 6
 Finish: 2026-09-18 16:08:48.729756
+------------------------------------------------------
+Started: 2026-09-19 12:22:39.935819
+Existing_entries: 377
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Commitments Of Traders Reports Update](http://www.mondovisione.com/media-and-resources/news/cftc-commitments-of-traders-reports-update-2026918/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nigerian Exchange Weekly Market Report For The Week Ended 19 September 2026](http://www.mondovisione.com/media-and-resources/news/nigerian-exchange-weekly-market-report-for-the-week-ended-19-september-2026-2026918/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nodal Exchange Named Americas Energy Derivatives Exchange Of The Year By Global Capital](http://www.mondovisione.com/media-and-resources/news/nodal-exchange-named-americas-energy-derivatives-exchange-of-the-year-by-global-2026918/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Swedish Financial Supervisory Authority’s Views On Stronger Competitiveness In European Capital Markets, Future Supervision And AI](http://www.mondovisione.com/media-and-resources/news/the-swedish-financial-supervisory-authoritys-views-on-stronger-competitiveness-2026918/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Building A Stronger UK Investment Culture, Speech By Lucy Castledine, UK Financial Conduct Authority, Director Of Consumer Investments, At The 2026 Investor Summit](http://www.mondovisione.com/media-and-resources/news/building-a-stronger-uk-investment-culture-speech-by-lucy-castledine-uk-financi-2026918/)
+append_entries: 5
+Finish: 2026-09-19 12:22:40.986508
