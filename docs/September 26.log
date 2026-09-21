@@ -1667,3 +1667,12 @@ Append: [Eurosystem Brings Central Bank Money To Tokenised Finance](http://www.m
 Append: [NABLA Lists On Euronext](http://www.mondovisione.com/media-and-resources/news/nabla-lists-on-euronext-2026921/)
 append_entries: 10
 Finish: 2026-09-21 19:10:24.877869
+------------------------------------------------------
+Started: 2026-09-21 23:05:31.847461
+Existing_entries: 403
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Swaps Report Update](http://www.mondovisione.com/media-and-resources/news/cftc-swaps-report-update-2026921/)
+append_entries: 1
+Finish: 2026-09-21 23:05:32.828321
