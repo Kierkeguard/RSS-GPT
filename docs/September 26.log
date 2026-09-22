@@ -1731,3 +1731,25 @@ Append: [ADX And Its Listed Companies Connect With International Capital At Glob
 Append: [Borsa Istanbul: Uptick Rule Will Be Applied Until Further Announcement Starting From The Session Dated 22 September 2026 In The Equity Market](http://www.mondovisione.com/media-and-resources/news/borsa-istanbul-uptick-rule-will-be-applied-until-further-announcement-starting-2026922/)
 append_entries: 10
 Finish: 2026-09-22 16:38:44.157879
+------------------------------------------------------
+Started: 2026-09-22 21:04:56.982962
+Existing_entries: 421
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Censures OTC Link LLC For Repeated Compliance Failures Related To Regulation SCI](http://www.mondovisione.com/media-and-resources/news/sec-censures-otc-link-llc-for-repeated-compliance-failures-related-to-regulation-2026922/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Options And MIAX Emerald Options - Market For Underlying Security Used For Openings For Newly Listed Symbols Effective Wednesday, September 23, 2026](http://www.mondovisione.com/media-and-resources/news/miax-options-and-miax-emerald-options-market-for-underlying-security-used-for-2026922/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FINRA Orders American Portfolios To Pay $1.2 Million In Restitution And $400,000 In Fines For UIT Supervision Failures - Firm Failed To Reasonably Supervise Recommendations That Customers Sell Unit Investment Trusts Before Maturity](http://www.mondovisione.com/media-and-resources/news/finra-orders-american-portfolios-to-pay-12-million-in-restitution-and-400000-2026922/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Ontario Securities Commission Investor Warnings And Alerts For September 1 – September 22, 2026](http://www.mondovisione.com/media-and-resources/news/ontario-securities-commission-investor-warnings-and-alerts-for-september-1-sep-2026922/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Asset Owners Focus On Governance As Concerns About Climate Risk Rise, FTSE Russell Survey Finds](http://www.mondovisione.com/media-and-resources/news/asset-owners-focus-on-governance-as-concerns-about-climate-risk-rise-ftse-russe-2026922/)
+Append: [International Investors Now Account For A Record 50.4% Of The Spanish Stock Market, While Households Have Regained Ground, Reaching 16.7%](http://www.mondovisione.com/media-and-resources/news/international-investors-now-account-for-a-record-504-of-the-spanish-stock-mark-2026922/)
+append_entries: 6
+Finish: 2026-09-22 21:04:58.356806
