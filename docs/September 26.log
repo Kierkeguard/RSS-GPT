@@ -1682,3 +1682,26 @@ Existing_entries: 404
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-09-22 04:11:51.060959
+------------------------------------------------------
+Started: 2026-09-22 11:16:38.078149
+Existing_entries: 404
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority - Debt Advice Warning: Spot The Red Flags](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-debt-advice-warning-spot-the-red-flags-2026922/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Regnology Research Maps Route From AI Pilots To Production In Regulatory Reporting](http://www.mondovisione.com/media-and-resources/news/regnology-research-maps-route-from-ai-pilots-to-production-in-regulatory-reporti-2026922/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BNP Paribas’ Securities Services Business Provides Unisuper With Advanced Investment Data Capabilities Through Its Data PRISM360 Solution, In Partnership With NeoXam](http://www.mondovisione.com/media-and-resources/news/bnp-paribas-securities-services-business-provides-unisuper-with-advanced-inves-2026922/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ClearToken Approved To Operate A Digital Securities Depository In The Bank Of England's Digital Securities Sandbox - Approval Enables Regulated Continuous 24/7 Settlement For Tokenised Debt And Equities, With A Phased Expansion To Additional Asset Classes](http://www.mondovisione.com/media-and-resources/news/cleartoken-approved-to-operate-a-digital-securities-depository-in-the-bank-of-en-2026922/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Opening Keynote Address, Dato’ Mohammad Faiz Azmi, Chairman, Securities Commission Malaysia, CGI Global Governance Summit 2026, ‘Governance, Sustainability & Value Creation, 22 September 2026, 9.30 AM, KLGCC Convention Centre, Kuala Lumpur](http://www.mondovisione.com/media-and-resources/news/opening-keynote-address-dato-mohammad-faiz-azmi-chairman-securities-commissi-2026922/)
+Append: [MENA Fintech Association Releases Bi-Annual Regulatory Update On ADGM’s Evolving Digital Asset Framework](http://www.mondovisione.com/media-and-resources/news/mena-fintech-association-releases-bi-annual-regulatory-update-on-adgms-evolving-2026922/)
+Append: [ASX To Launch SOFIA, A New Secured Overnight Benchmark For Australia](http://www.mondovisione.com/media-and-resources/news/asx-to-launch-sofia-a-new-secured-overnight-benchmark-for-australia-2026922/)
+append_entries: 7
+Finish: 2026-09-22 11:16:39.434819
