@@ -1850,3 +1850,28 @@ Existing_entries: 456
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-09-24 04:04:01.693489
+------------------------------------------------------
+Started: 2026-09-24 11:26:04.295336
+Existing_entries: 456
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Miami International Holdings Announces OCC Clearing Membership For Its FCM](http://www.mondovisione.com/media-and-resources/news/miami-international-holdings-announces-occ-clearing-membership-for-its-fcm-2026924/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Outlet Group Lists On Euronext](http://www.mondovisione.com/media-and-resources/news/outlet-group-lists-on-euronext-2026924/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The Outlook For Inflation − Speech By Clare Lombardelli, Bank Of England Deputy Governor, Monetary Policy, Given At The Sixth Biennial Conference On Macroeconomic Policy, Warsaw](http://www.mondovisione.com/media-and-resources/news/the-outlook-for-inflation-speech-by-clare-lombardelli-bank-of-england-deputy-2026924/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Silverflow And Hypergate Launch Integrated Payment Solution To Accelerate Acquiring Innovation - Joint Solution Enables Acquirers And Payment Providers To Accelerate Onboarding, Reduce Operational Complexity And Modernise Payment Infrastructure](http://www.mondovisione.com/media-and-resources/news/silverflow-and-hypergate-launch-integrated-payment-solution-to-accelerate-acquir-2026924/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Five Research Papers Awarded At 2026 SET Research Scholarship Project For Undergraduate And Graduate Students, Spotlighting JUMP+ Theme To Enhance Thai Listed Companies’ Value](http://www.mondovisione.com/media-and-resources/news/five-research-papers-awarded-at-2026-set-research-scholarship-project-for-underg-2026924/)
+Append: [Japan Exchange Group Notice Of Revisions To Earnings Forecast And Dividend Forecast](http://www.mondovisione.com/media-and-resources/news/japan-exchange-group-notice-of-revisions-to-earnings-forecast-and-dividend-forec-2026924/)
+Append: [Iress Joins ASX Australian Liquidity Centre To Strengthen Market Connectivity](http://www.mondovisione.com/media-and-resources/news/iress-joins-asx-australian-liquidity-centre-to-strengthen-market-connectivity-2026924/)
+Append: [ASIC Strengthens AI Trading Safeguards And Streamlines Market Integrity Rules](http://www.mondovisione.com/media-and-resources/news/asic-strengthens-ai-trading-safeguards-and-streamlines-market-integrity-rules-2026924/)
+Append: [Canadian Investment Regulatory Organization Elects Marc Provost To Board Of Directors, Re-Elects Rhonda Goldberg](http://www.mondovisione.com/media-and-resources/news/canadian-investment-regulatory-organization-elects-marc-provost-to-board-of-dire-2026924/)
+append_entries: 9
+Finish: 2026-09-24 11:26:05.500442
