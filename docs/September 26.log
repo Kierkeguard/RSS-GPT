@@ -1899,3 +1899,26 @@ Append: [Phoenix Announces Sale Of Logiq](http://www.mondovisione.com/media-and-
 Append: [Underdog Leverages Eventus Validus Platform For Trade Surveillance Across Its Markets](http://www.mondovisione.com/media-and-resources/news/underdog-leverages-eventus-validus-platform-for-trade-surveillance-across-its-ma-2026924/)
 append_entries: 8
 Finish: 2026-09-24 16:51:13.235017
+------------------------------------------------------
+Started: 2026-09-24 21:20:56.222881
+Existing_entries: 473
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Announces End-Of-Month Open Short Interest Positions In Nasdaq Stocks As Of Settlement Date September 15, 2026](http://www.mondovisione.com/media-and-resources/news/nasdaq-announces-end-of-month-open-short-interest-positions-in-nasdaq-stocks-as-2026924/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NYSE Group Consolidated Short Interest Report](http://www.mondovisione.com/media-and-resources/news/nyse-group-consolidated-short-interest-report-2026924/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Federal Reserve Board Requests Public Comment On Two Proposals Related To Establishing A Regulatory Framework For Board-Supervised Payment Stablecoin Issuers Under The GENIUS Act](http://www.mondovisione.com/media-and-resources/news/federal-reserve-board-requests-public-comment-on-two-proposals-related-to-establ-2026924/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Federal Reserve: Senior Credit Officer Opinion Survey On Dealer Financing Terms](http://www.mondovisione.com/media-and-resources/news/federal-reserve-senior-credit-officer-opinion-survey-on-dealer-financing-terms-2026924/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Staff Releases Updates To FAQs Concerning Registrants And Registered Entity Activities Relating To Crypto Assets And Blockchain Technologies](http://www.mondovisione.com/media-and-resources/news/cftc-staff-releases-updates-to-faqs-concerning-registrants-and-registered-entity-2026924/)
+Append: [New York Attorney General James And New York Governor Hochul Announce Lawsuit Against Polymarket For Running Illegal Gambling Operation](http://www.mondovisione.com/media-and-resources/news/new-york-attorney-general-james-and-new-york-governor-hochul-announce-lawsuit-ag-2026924/)
+Append: [CoinShares Market Commentary - Crypto Rallies Despite A Hawkish Fed And CLARITY Act Collapse](http://www.mondovisione.com/media-and-resources/news/coinshares-market-commentary-crypto-rallies-despite-a-hawkish-fed-and-clarity-2026924/)
+append_entries: 7
+Finish: 2026-09-24 21:20:57.471263
