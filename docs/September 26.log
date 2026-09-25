@@ -1997,3 +1997,15 @@ Append: [EU/EEA Banks Display Strength Amid A Challenging Risk Environment](http
 Append: [Malawi Stock Exchange Weekly Summary Report, 25 September 2026](http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-25-september-2026-2026925/)
 append_entries: 9
 Finish: 2026-09-25 18:22:24.793769
+------------------------------------------------------
+Started: 2026-09-25 23:11:42.203698
+Existing_entries: 501
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC: Frequently Asked Questions On The Application Of The Federal Securities Laws To Certain Types Of Crypto Assets And Certain Transactions Involving Crypto Assets  (Issued Sept. 25, 2026)](http://www.mondovisione.com/media-and-resources/news/sec-frequently-asked-questions-on-the-application-of-the-federal-securities-law-2026925/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Commitments Of Traders Reports Update](http://www.mondovisione.com/media-and-resources/news/cftc-commitments-of-traders-reports-update-2026925/)
+append_entries: 2
+Finish: 2026-09-25 23:11:43.486422

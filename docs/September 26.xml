@@ -5,11 +5,76 @@
 <link>http://www.mondovisione.com/media-and-resources/news/</link>
 
 <item>
+<title>SEC: Frequently Asked Questions On The Application Of The Federal Securities Laws To Certain Types Of Crypto Assets And Certain Transactions Involving Crypto Assets  (Issued Sept. 25, 2026)</title>
+<link>http://www.mondovisione.com/media-and-resources/news/sec-frequently-asked-questions-on-the-application-of-the-federal-securities-law-2026925/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/sec-frequently-asked-questions-on-the-application-of-the-federal-securities-law-2026925/</guid>
+<content:encoded><![CDATA[
+
+<p>The answers to these frequently asked questions (FAQs) represent the views of the staff of the Division of Corporation Finance. They are not a rule, regulation or statement of the Securities and Exchange Commission. The Commission has neither approved nor disapproved their content. Like all staff guidance, these FAQs have no legal force or effect, do not alter or amend applicable law, and do not create any new or additional obligations for any person.</p>
+<p>Unless defined herein, the terms used in these FAQs shall have the meanings ascribed to them in the <a href="https://www.sec.gov/rules-regulations/2026/03/s7-2026-09#33-11412interpretive">Interpretive Release</a> issued by the Commission on March 17, 2026.</p>
+<h3>Group 1: Questions Regarding Section III of the Interpretive Release (Classification of Crypto Assets)</h3>
+<p><span>Question 1.1:</span> For purposes of the Interpretive Release, the Commission provided certain definitions of the terms &ldquo;functional&rdquo; and &ldquo;decentralized.&rdquo; However, with respect to whether an issuer has fulfilled its representations or promises to engage in essential managerial efforts, the Interpretive Release states that &ldquo;<em>&hellip;whether the issuer has achieved functionality would be based on how the issuer defined or otherwise described functionality, not a general market conception of what constitutes functionality</em>&rdquo; and &ldquo;<em>&hellip;whether the issuer has achieved decentralization would be based on how the issuer defined or otherwise described decentralization, not a general market conception of what constitutes decentralization</em>.&rdquo; How do the definitions of &ldquo;functional&rdquo; and &ldquo;decentralized&rdquo; in the Interpretive Release relate to how an issuer may define or otherwise describe &ldquo;functionality&rdquo; and &ldquo;decentralization&rdquo; as part of its representations or promises in marketing and promoting an investment contract?</p>
+<p><span>Answer: </span>Those definitions are not relevant to whether an issuer has fulfilled its representations or promises because each issuer determines the thresholds that must be met to achieve functionality and/or decentralization for purposes of its representations or promises. However, those definitions are relevant to how the Commission classifies crypto assets as set forth in Section III of the Interpretive Release.</p>
+<p><span>Question 1.2:</span> How are Staking Receipt Tokens classified for purposes of Section III of the Interpretive Release?</p>
+<p><span>Answer:</span> Under the circumstances described in the Interpretive Release, a Staking Receipt Token that is a receipt for a digital commodity that is not subject to an investment contract is itself a digital tool because it is a receipt that serves a practical function of evidencing the holder&rsquo;s ownership of the underlying digital commodity. However, a Staking Receipt Token also may be classified as a digital commodity if it is issued by a protocol-based Liquid Staking Provider. In these cases, the Staking Receipt Token is intrinsically linked to and derives its value from the programmatic operation of a crypto system that is functional, as well as supply and demand dynamics.<a class="ck-anchor" href="https://www.sec.gov/about/divisions-offices/division-corporation-finance/faqs-crypto-assets#_edn3" id="_ednref1">[1]</a></p>
+<p><span>Question 1.3:</span> The Interpretive Release addresses Staking Receipt Tokens and Redeemable Wrapped Tokens and characterizes them as &ldquo;receipts.&rdquo; What distinguishes a &ldquo;receipt&rdquo; from other financial instruments?</p>
+<p><span>Answer:</span> A &ldquo;receipt&rdquo; in this context is an instrument certifying that a stated amount of an asset has been deposited with a depository or custodian issuing the receipt and evidencing the depositor&rsquo;s ownership of such deposited asset. A receipt does not change any of the rights, obligations, or benefits of the deposited asset, and does not provide the holder with any additional financial incentives or benefits. A receipt is distinguished from other financial instruments in that it does not transfer ownership or control of the deposited asset to the receipt issuer, such that the issuer cannot transfer, lend, pledge, rehypothecate, or otherwise use the deposited asset for any reason, or subject the asset to claims by third parties.</p>
+<h3>Group 2: Questions Regarding Section IV of the Interpretive Release (Crypto Assets That Are Subject to an Investment Contract)</h3>
+<p><span>Question 2.1:</span> The Interpretive Release states that &ldquo;&hellip;<em>representations or promises are more likely to create reasonable expectations of profit when they are explicit and unambiguous as to the essential managerial efforts to be undertaken by the issuer, contain sufficient details demonstrating the issuer&rsquo;s ability to implement the proposed project, and explain how the issuer&rsquo;s efforts will produce the profits that purchasers reasonably expect</em>.&rdquo; When do promotional and marketing communications constitute representations or promises to engage in essential managerial efforts?</p>
+<p><span>Answer:</span> When promotional and marketing communications constitute representations or promises to engage in essential managerial efforts depends on the facts and circumstances. However, promoting a crypto system&rsquo;s current utility and capabilities likely would not, without more, constitute representations or promises to engage in essential managerial efforts. Similarly, promoting a crypto system&rsquo;s potential utility, features, and capabilities with indefinite aspirational statements likely would not, without more, constitute representations or promises to engage in essential managerial efforts if such promotional activities contain nothing promoting the potential for profit.</p>
+<p><span>Question 2.2:</span> Section IV.B.2. of the Interpretive Release addresses certain circumstances where a non-security crypto asset that was offered and sold subject to an investment contract would no longer be subject to an investment contract if a purchaser would not reasonably expect the issuer to be able to fulfill or to continue to engage in the essential managerial efforts it represented or promised it would undertake. Does the non-security crypto asset separate from and cease to be subject to the associated investment contract where the representations or promises are assumed by another party?</p>
+<p><span>Answer:</span> No, separation would not occur where another party assumes the issuer&rsquo;s representations or promises to undertake essential managerial efforts, whether affirmatively or by operation of law.</p>
+<p><span>Question 2.3:</span> Software is often in a constant state of development because of ongoing maintenance and upgrades. In addition, a functional crypto system may require network effects to grow. After a crypto system is functional, what activities can the issuer and other market participants engage in with respect to the crypto system that would not constitute essential managerial efforts?</p>
+<p><span>Answer:</span> The Commission has recently expressed the view that, once a crypto system is functional, services to secure, maintain, improve, or enhance such a system or its functionality, or to facilitate network effects, whether through sponsoring or funding development projects or other similar activities, would not involve essential managerial efforts. As a result, any representations or promises by the issuer to provide or continue to provide (or arrange for the provision of) such services after the crypto system is functional would not satisfy the <em>Howey</em> test. <em>See</em> <em>Regulation Crypto Assets</em>, Release No. 33-11434 (Aug. 18, 2026), pg. 56 [91 FR 54510, 54525 (Aug. 21, 2026)].<a class="ck-anchor" href="https://www.sec.gov/about/divisions-offices/division-corporation-finance/faqs-crypto-assets#_edn2" id="_ednref2">[2]</a></p>
+<p><span>Question 2.4:</span> &nbsp;Where a functional crypto system has no central party, are statements made by the issuer capable of creating a new investment contract to which the native crypto asset is subject?</p>
+<p><span>Answer:</span> Once a functional crypto system has no central party, statements made by the issuer relating to the functional crypto system likely would not create a new investment contract because neither the issuer nor any other person has control of the functional crypto system that would allow them to take any action which would affect the failure or success of the crypto system.</p>
+<p><span>Question 2.5:</span> Issuers of non-security crypto assets may conduct buyback programs for several reasons, including treasury management, supply reduction, protocol-funded burns, and rebalancing. Does an issuer&rsquo;s announcement of a non-security crypto asset buyback program constitute a representation or promise to undertake essential managerial efforts?</p>
+<p><span>Answer:</span> Where a crypto system is functional, an issuer&rsquo;s announcement of a non-security crypto asset buyback program would not constitute a representation or promise to undertake essential managerial efforts. Where a crypto system is not functional, however, such an announcement could constitute a representation or promise to undertake essential managerial efforts if the issuer presents the buyback as creating yield or return for token holders.</p>
+<p><span>Question 2.6:</span> The Interpretive Release indicates that the term &ldquo;issuer&rdquo; includes &ldquo;<em>affiliates and agents of the issuer or a promoter</em>.&rdquo; Would a trading platform that offers a secondary market for a crypto asset be considered a promoter for purposes of determining whether an investment contract is being offered?</p>
+<p><span>Answer:</span> A trading platform that offers a secondary market for a crypto asset would only be considered a promoter if the trading platform met the definition of &ldquo;promoter&rdquo; as defined in Securities Act Rule 405.</p>
+<div>
+<hr align="left" size="1" width="33%" />
+<div id="_edn3">
+<p><a class="ck-anchor" href="https://www.sec.gov/about/divisions-offices/division-corporation-finance/faqs-crypto-assets#_ednref1" id="_edn1">[1]</a> A Staking Receipt Token typically does not have intrinsic economic properties or rights as it merely evidences the holder&rsquo;s ownership of the underlying digital commodity and does not provide the holder with any other rights or obligations. While the holder of a Staking Receipt Token is entitled to rewards accruing with respect to the underlying digital commodity, the Staking Receipt Token itself does not create that entitlement or guarantee, generate, or otherwise set or fix the amount of the rewards. <em>See</em> Section V.B.4. of the Interpretive Release.</p>
+</div>
+<div id="edn2">
+<p><a class="ck-anchor" href="https://www.sec.gov/about/divisions-offices/division-corporation-finance/faqs-crypto-assets#_ednref2" id="_edn2">[2]</a> The interpretation included in the Regulation Crypto Assets proposing release and referenced in this answer is based on the crypto system being &ldquo;functional.&rdquo; For purposes of that interpretation, the term &ldquo;functional&rdquo; has the meaning ascribed to such term in Section III of the Interpretive Release.</p>
+</div>
+</div>
+]]></content:encoded>
+<pubDate>Fri, 25 Sep 2026 20:45:49 GMT</pubDate>
+<pubDate>Fri, 25 Sep 2026 20:45:49 GMT</pubDate>
+</item>
+<item>
+<title>CFTC Commitments Of Traders Reports Update</title>
+<link>http://www.mondovisione.com/media-and-resources/news/cftc-commitments-of-traders-reports-update-2026925/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/cftc-commitments-of-traders-reports-update-2026925/</guid>
+<content:encoded><![CDATA[
+
+<p><span>The <a class="safe---anchor---wc" href="https://links-2.govdelivery.com/CL0/https:%2F%2Fwww.cftc.gov%2FMarketReports%2FCommitmentsofTraders%2Findex.htm%3Futm_source=govdelivery%23COT/1/010101a0da0d4a6f-adb21f5e-1204-447a-9d73-715821e237d3-000000/cJ86OXsRCzHqXwMoKwg3CDzwVrKBpaaExYFB19_ffPM=452" rel="noopener noreferrer nofollow" target="_blank" title="COT Historical Viewable">current reports for the week of September 22, 2026</a> are now available. Report data is also available in the <a class="safe---anchor---wc" href="https://links-2.govdelivery.com/CL0/https:%2F%2Fpublicreporting.cftc.gov%2F%3Futm_source=govdelivery/1/010101a0da0d4a6f-adb21f5e-1204-447a-9d73-715821e237d3-000000/KvZ6_aDNZJRdhiZTQByHLAbnL42CuqhByISx0Al8-bU=452" rel="noopener noreferrer nofollow" target="_blank" title="COT Public Reporting Environment (PRE)">CFTC Public Reporting Environment (PRE)</a>, which allows users to search, filter, customize and download report data.</span></p>
+<p><span>Additional information on <strong><a class="safe---anchor---wc" href="https://links-2.govdelivery.com/CL0/https:%2F%2Fwww.cftc.gov%2FMarketReports%2FCommitmentsofTraders%2Findex.htm%3Futm_source=govdelivery/1/010101a0da0d4a6f-adb21f5e-1204-447a-9d73-715821e237d3-000000/Nz-gnHTPpiGq0It799I5zuhhjpZdYJSadQVvggyH5i0=452" rel="noopener noreferrer nofollow" target="_blank" title="Commitments of Traders (COT)">Commitments of Traders (COT) | CFTC.gov</a></strong></span></p>
+<ul>
+<li><span><a class="safe---anchor---wc" href="https://links-2.govdelivery.com/CL0/https:%2F%2Fwww.cftc.gov%2FMarketReports%2FCommitmentsofTraders%2FHistoricalViewable%2Findex.htm%3Futm_source=govdelivery/1/010101a0da0d4a6f-adb21f5e-1204-447a-9d73-715821e237d3-000000/ETQSfezG4HY42np7XUkr8jtrMjxWtNDFz2-MmKVvPzY=452" rel="noopener noreferrer nofollow" target="_blank" title="COT Historical Viewable reports">Historical Viewable</a></span></li>
+<li><span><a class="safe---anchor---wc" href="https://links-2.govdelivery.com/CL0/https:%2F%2Fwww.cftc.gov%2FMarketReports%2FCommitmentsofTraders%2FHistoricalCompressed%2Findex.htm%3Futm_source=govdelivery/1/010101a0da0d4a6f-adb21f5e-1204-447a-9d73-715821e237d3-000000/Yr5XwCRAJca8ag0RT-bQbPcRbrbDEPV9ddE9X81KlrY=452" rel="noopener noreferrer nofollow" target="_blank" title="COT Historical Compressed">Historical Compressed</a></span></li>
+<li><span><a class="safe---anchor---wc" href="https://links-2.govdelivery.com/CL0/https:%2F%2Fwww.cftc.gov%2FMarketReports%2FCommitmentsofTraders%2FReleaseSchedule%2Findex.htm%3Futm_source=govdelivery/1/010101a0da0d4a6f-adb21f5e-1204-447a-9d73-715821e237d3-000000/IMvE_NiaDS5ADN5Z_lUVWfXG-Z5y9P1Pv6MEw0tooBc=452" rel="noopener noreferrer nofollow" target="_blank" title="COT Release Schedule">COT Release Schedule</a></span></li>
+</ul>
+<p><strong><span><a class="safe---anchor---wc" href="https://links-2.govdelivery.com/CL0/https:%2F%2Fpublicreporting.cftc.gov%2F%3Futm_source=govdelivery/2/010101a0da0d4a6f-adb21f5e-1204-447a-9d73-715821e237d3-000000/Uk-kLdz8wVJpssHbz1BkzSuFOkgRBJIPEvWyQfYayG4=452" rel="noopener noreferrer nofollow" target="_blank" title="CFTC Public Reporting Environment (PRE)">CFTC Public Reporting Environment (PRE)</a></span></strong></p>
+<ul>
+<li><span><a class="safe---anchor---wc" href="https://links-2.govdelivery.com/CL0/https:%2F%2Fpublicreporting.cftc.gov%2Fstories%2Fs%2FCOT-Help%2Fp2fg-u73y%2F%3Futm_source=govdelivery/1/010101a0da0d4a6f-adb21f5e-1204-447a-9d73-715821e237d3-000000/qhbxa2xcemciJ95ziFTGWjMsyfJyLcUt3Em7_rQ4-aw=452" rel="noopener noreferrer nofollow" target="_blank" title="PRE User Guide">PRE User Guide</a></span></li>
+<li><span><a class="safe---anchor---wc" href="https://links-2.govdelivery.com/CL0/https:%2F%2Fpublicreporting.cftc.gov%2Fstories%2Fs%2Finwp-fmhz%3Futm_source=govdelivery/1/010101a0da0d4a6f-adb21f5e-1204-447a-9d73-715821e237d3-000000/smmn7i8CJWlrRAxGTSrjddHvaqOdjFLtZcTcsy-syXo=452" rel="noopener noreferrer nofollow" target="_blank" title="PRE Frequently Asked Questions (FAQs)">PRE Frequently Asked Questions (FAQs)</a></span></li>
+</ul>
+<p>&nbsp;</p>
+<div id="mail_footer"></div>
+]]></content:encoded>
+<pubDate>Fri, 25 Sep 2026 20:42:54 GMT</pubDate>
+<pubDate>Fri, 25 Sep 2026 20:42:54 GMT</pubDate>
+</item>
+
+<item>
 <title>CFTC Charges Cash FX Group S.A., And CEO, Three Others With $950 Million Fraud Scheme</title>
 <link>http://www.mondovisione.com/media-and-resources/news/cftc-charges-cash-fx-group-sa-and-ceo-three-others-with-950-million-fraud-s-2026925/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/cftc-charges-cash-fx-group-sa-and-ceo-three-others-with-950-million-fraud-s-2026925/</guid>
 <content:encoded><![CDATA[
-
 <p>The Commodity Futures Trading Commission today announced it filed a complaint in the U.S. District Court for the Middle District of Florida against <strong>Cash FX Group S.A.</strong> and<strong> </strong>its CEO, <strong>Huascar Jose Lopez Castillo</strong>, of Brazil; <strong>The Conversion Pros, Inc.</strong> and its CEO, <strong>Ronald Pope</strong>, of Oregon; and <strong>Justin Halladay</strong>, of Florida.</p>
 <p>The complaint alleges the defendants operated a multilevel marketing Ponzi scheme, fraudulently soliciting and accepting over $950 million from the public, including individuals in the United States, for the purported purpose of trading retail foreign currency contracts in a commodity pool.&nbsp;</p>
 <p>According to the complaint, the defendants falsely claimed pool funds were traded by expert traders, proprietary algorithms, and artificial intelligence, and promised up to 15% weekly returns on that trading.</p>
@@ -34,18 +99,15 @@
 </div>
 ]]></content:encoded>
 <pubDate>Fri, 25 Sep 2026 17:47:44 GMT</pubDate>
-<pubDate>Fri, 25 Sep 2026 17:47:44 GMT</pubDate>
 </item>
 <item>
 <title>Nigerian Exchange Weekly Market Report For 25 September 2026</title>
 <link>http://www.mondovisione.com/media-and-resources/news/nigerian-exchange-weekly-market-report-for-25-september-2026-2026925/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/nigerian-exchange-weekly-market-report-for-25-september-2026-2026925/</guid>
 <content:encoded><![CDATA[
-
 <p>A total turnover of 4.689 billion shares worth ₦240.824 billion in 261,198 deals was traded  this week by investors on the floor of the Exchange, in contrast to a total of 3.249 billion  shares valued at ₦237.986 billion that exchanged hands last week in 287,919 deals.</p>
 <p>Click <a href="https://mondovisione.com/_assets/files/NGX_Weekly-Report-20260925.pdf" title="NGX_Weekly Report 20260925">here</a> for full details.</p>
 ]]></content:encoded>
-<pubDate>Fri, 25 Sep 2026 17:57:38 GMT</pubDate>
 <pubDate>Fri, 25 Sep 2026 17:57:38 GMT</pubDate>
 </item>
 <item>
@@ -53,7 +115,6 @@
 <link>http://www.mondovisione.com/media-and-resources/news/the-eba-consults-on-revised-technical-standards-for-joint-decisions-on-instituti-2026925/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/the-eba-consults-on-revised-technical-standards-for-joint-decisions-on-instituti-2026925/</guid>
 <content:encoded><![CDATA[
-
 <p><span>The European Banking Authority (EBA) today started a public consultation on proposed revisions to the Implementing Technical Standards (ITS) governing the joint decision process for institution-specific prudential requirements foreseen by Article 113 of the Capital Requirements Directive. The revisions are part of the EBA&rsquo;s broader efforts to simplify and enhance the efficiency of the regulatory and supervisory framework, as outlined in its </span><a href="https://www.eba.europa.eu/sites/default/files/2025-10/b8e0ef8e-2d49-43fc-b917-dbca3423588c/Report%20on%20the%20efficiency%20of%20the%20regulatory%20and%20supervisory%20framework.pdf"><span>Report on the efficiency of the regulatory and supervisory framework</span></a><span>, published in October 2025.</span></p>
 <p>The EBA is proposing targeted amendments to streamline the joint decision process and align it with current supervisory practices. This reflects developments in the regulatory and supervisory framework since the ITS were first adopted in 2014, including changes introduced by CRD V and the revised EBA Guidelines on the Supervisory Review and Evaluation Process (SREP), and builds on more than ten years of experience in supervisory colleges.</p>
 <p>The revised ITS:</p>
@@ -110,14 +171,12 @@
 </article></aside></p>
 ]]></content:encoded>
 <pubDate>Fri, 25 Sep 2026 17:53:47 GMT</pubDate>
-<pubDate>Fri, 25 Sep 2026 17:53:47 GMT</pubDate>
 </item>
 <item>
 <title>2026 ISDA Canada Conference, Toronto, September 24, 2026, Opening Remarks, Katherine Tew Darras, ISDA General Counsel</title>
 <link>http://www.mondovisione.com/media-and-resources/news/2026-isda-canada-conference-toronto-september-24-2026-opening-remarks-kathe-2026925/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/2026-isda-canada-conference-toronto-september-24-2026-opening-remarks-kathe-2026925/</guid>
 <content:encoded><![CDATA[
-
 <p>Good morning and welcome to the 2026 ISDA Canada Conference. Thank you for joining us today and thanks to our sponsor, Osler, Hoskin &amp; Harcourt, for supporting the event.</p>
 <p>It&rsquo;s great to be back in Toronto at a fascinating time for derivatives markets.</p>
 <p>Technological innovations like AI and tokenization look set to reshape the structure of our markets, bringing huge changes to trading and risk management practices.</p>
@@ -159,14 +218,12 @@
 </ul>
 ]]></content:encoded>
 <pubDate>Fri, 25 Sep 2026 17:51:29 GMT</pubDate>
-<pubDate>Fri, 25 Sep 2026 17:51:29 GMT</pubDate>
 </item>
 <item>
 <title>Trading Technologies’ TT® Platform Named Multi-Asset Trading System Of The Year At FOW Asia Pacific Awards 2026</title>
 <link>http://www.mondovisione.com/media-and-resources/news/trading-technologies-tt-platform-named-multi-asset-trading-system-of-the-year-2026925/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/trading-technologies-tt-platform-named-multi-asset-trading-system-of-the-year-2026925/</guid>
 <content:encoded><![CDATA[
-
 <p>In a ceremony in Hong Kong last night, the TT platform of Trading Technologies International, Inc. (TT), a global capital markets technology provider, was named Multi-Asset Trading System of the Year at the FOW Asia Pacific Awards 2026. This was the fourth consecutive year in which the platform was recognized for exceptional achievement in the region and its first recognition in the multi-asset category in these awards.</p>
 <p>Hosted by Futures &amp; Options World (FOW), the FOW Asia Pacific Awards recognize outstanding performance and innovation for firms and individuals in the Asian derivatives industry. Winners are selected by a specialist panel of independent industry experts with relevant subject matter expertise from across the Asia-Pacific (APAC) region.</p>
 <p>TT CEO Justin Llewellyn-Jones said: &ldquo;We have been steadily transforming TT from a derivatives-first trading platform into a multi-asset ecosystem capable of meeting clients&rsquo; diverse needs. By introducing functionality relevant to the fixed income and foreign exchange trading communities, as an example, we&rsquo;re also ensuring that institutions and professionals traders across APAC and globally can take advantage of a host of cross-asset trading opportunities, using the tools that have long made TT such a popular futures trading platform. It&rsquo;s gratifying to achieve this multi-asset recognition as we continue to build on this strategy.&rdquo;</p>
@@ -175,14 +232,12 @@
 <p>In July, TT was named APAC Capital Markets Tech Supplier of the Year at the second annual Capital Markets Technology Awards APAC, hosted by A-Team Group. TT won the categories of Trading System of the Year and Derivatives Trading System of the Year at the FOW Asia Pacific Awards 2025.</p>
 ]]></content:encoded>
 <pubDate>Fri, 25 Sep 2026 15:53:20 GMT</pubDate>
-<pubDate>Fri, 25 Sep 2026 15:53:20 GMT</pubDate>
 </item>
 <item>
 <title>Bank Of England: Minutes Of The Market Participants Group Meeting – 24 September 2026</title>
 <link>http://www.mondovisione.com/media-and-resources/news/bank-of-england-minutes-of-the-market-participants-group-meeting-24-september-2026925/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/bank-of-england-minutes-of-the-market-participants-group-meeting-24-september-2026925/</guid>
 <content:encoded><![CDATA[
-
 <p><span>The Market Participants Group (MPG) is a senior-level forum for financial market participants to share their views on relevant themes and narratives in financial markets with members of the Bank of England&rsquo;s Monetary Policy Committee.</span></p>
 <p>Time: 5pm &ndash; 6.30pm | Location: Bank of England</p>
 <p><section class="page-section">
@@ -237,14 +292,12 @@
 </section></p>
 ]]></content:encoded>
 <pubDate>Fri, 25 Sep 2026 17:24:53 GMT</pubDate>
-<pubDate>Fri, 25 Sep 2026 17:24:53 GMT</pubDate>
 </item>
 <item>
 <title>Dubai Financial Market Regulated Short Sell – Weekly Summary - 21st September 2026 To 25th September 2026</title>
 <link>http://www.mondovisione.com/media-and-resources/news/dubai-financial-market-regulated-short-sell-weekly-summary-21st-september-20-2026925/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/dubai-financial-market-regulated-short-sell-weekly-summary-21st-september-20-2026925/</guid>
 <content:encoded><![CDATA[
-
 <p>The following is the weekly trading summary for DFM Regulated Short Sell Transactions for the abovementioned period.</p>
 <table border="0" cellpadding="0" cellspacing="0" class="TableGrid" style="width: 545.0pt; border-collapse: collapse;" width="727">
 <tbody>
@@ -283,14 +336,12 @@
 <p>This Dubai Financial Market Announcement will be available on the website at&nbsp; <a href="https://www.dfm.ae/the-exchange/news-disclosures/market-announcements">https://www.dfm.ae/the</a><a href="https://www.dfm.ae/the-exchange/news-disclosures/market-announcements">-</a><a href="https://www.dfm.ae/the-exchange/news-disclosures/market-announcements">exchange/news</a><a href="https://www.dfm.ae/the-exchange/news-disclosures/market-announcements">-</a><a href="https://www.dfm.ae/the-exchange/news-disclosures/market-announcements">disclosures/market</a><a href="https://www.dfm.ae/the-exchange/news-disclosures/market-announcements">-</a><a href="https://www.dfm.ae/the-exchange/news-disclosures/market-announcements">announcements</a><a href="https://www.dfm.ae/the-exchange/news-disclosures/market-announcements"></a></p>
 ]]></content:encoded>
 <pubDate>Fri, 25 Sep 2026 16:22:26 GMT</pubDate>
-<pubDate>Fri, 25 Sep 2026 16:22:26 GMT</pubDate>
 </item>
 <item>
 <title>EU/EEA Banks Display Strength Amid A Challenging Risk Environment</title>
 <link>http://www.mondovisione.com/media-and-resources/news/eueea-banks-display-strength-amid-a-challenging-risk-environment-2026925/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/eueea-banks-display-strength-amid-a-challenging-risk-environment-2026925/</guid>
 <content:encoded><![CDATA[
-
 <div>
 <div>
 <ul>
@@ -346,20 +397,16 @@
 <p>Click <a href="https://www.eba.europa.eu/publications-and-media/press-releases/eueea-banks-display-strength-amid-challenging-risk-environment" title="here">here</a> for full details.</p>
 ]]></content:encoded>
 <pubDate>Fri, 25 Sep 2026 17:17:16 GMT</pubDate>
-<pubDate>Fri, 25 Sep 2026 17:17:16 GMT</pubDate>
 </item>
 <item>
 <title>Malawi Stock Exchange Weekly Summary Report, 25 September 2026</title>
 <link>http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-25-september-2026-2026925/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/malawi-stock-exchange-weekly-summary-report-25-september-2026-2026925/</guid>
 <content:encoded><![CDATA[
-
 <p><span>Click </span><a href="https://mondovisione.com/_assets/files/MSE_Weekly-Summary-Report-25-September-2026.pdf" title="MSE_Weekly Summary Report 25 September 2026">here</a><span> to download Malawi Stock Exchange's weekly summary report.</span></p>
 ]]></content:encoded>
 <pubDate>Fri, 25 Sep 2026 17:44:15 GMT</pubDate>
-<pubDate>Fri, 25 Sep 2026 17:44:15 GMT</pubDate>
 </item>
-
 <item>
 <title>Exegy Secures Double Victory At WatersTechnology IMD &amp; IRD Awards for Market Data Excellence - Recognized As Low-Latency Provider Of The Year While ExegyNexus™ Earns Best Real-Time Market Data Initiative</title>
 <link>http://www.mondovisione.com/media-and-resources/news/exegy-secures-double-victory-at-waterstechnology-imd-and-ird-awards-for-market-dat-2026925/</link>
