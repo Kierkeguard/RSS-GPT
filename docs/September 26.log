@@ -1928,3 +1928,25 @@ Existing_entries: 480
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-09-25 00:22:01.490712
+------------------------------------------------------
+Started: 2026-09-25 07:25:03.855436
+Existing_entries: 480
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC: Former Big Un CEO Richard Evans Sentenced For Communicating Inside Information](http://www.mondovisione.com/media-and-resources/news/asic-former-big-un-ceo-richard-evans-sentenced-for-communicating-inside-informa-2026925/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tokyo Stock Exchange: Announcement Of The 2026 “TSE Asia Startup Hub” Supported Companies](http://www.mondovisione.com/media-and-resources/news/tokyo-stock-exchange-announcement-of-the-2026-tse-asia-startup-hub-supported-2026925/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Remakes Dollar Disclosure And Exempt Documents Relief](http://www.mondovisione.com/media-and-resources/news/asic-remakes-dollar-disclosure-and-exempt-documents-relief-2026925/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SET And NYSE Sign MOU, Paving The Way For Cross-Border Collaboration Between Thai And U.S. Capital Markets](http://www.mondovisione.com/media-and-resources/news/set-and-nyse-sign-mou-paving-the-way-for-cross-border-collaboration-between-tha-2026925/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nadex/OG.com Submits Security Futures Perpetuals For CFTC approval](http://www.mondovisione.com/media-and-resources/news/nadexogcom-submits-security-futures-perpetuals-for-cftc-approval-2026925/)
+Append: [Nadex/OG.com Submits New Chapter 16 Rulebook To CFTC For Approval Of Perpetual Security Futures](http://www.mondovisione.com/media-and-resources/news/nadexogcom-submits-new-chapter-16-rulebook-to-cftc-for-approval-of-perpetual-s-2026925/)
+append_entries: 6
+Finish: 2026-09-25 07:25:04.826549
