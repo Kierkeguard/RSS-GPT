@@ -2057,3 +2057,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [SET, mai, TFEX, LiVEx And TDX To Open For Trading As Usual On Monday, September 28, 2026](http://www.mondovisione.com/media-and-resources/news/set-mai-tfex-livex-and-tdx-to-open-for-trading-as-usual-on-monday-september-2026927/)
 append_entries: 2
 Finish: 2026-09-27 13:43:34.913204
+------------------------------------------------------
+Started: 2026-09-27 18:10:36.724073
+Existing_entries: 505
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-09-27 18:10:37.922744
