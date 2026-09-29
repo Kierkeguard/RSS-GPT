@@ -2136,3 +2136,24 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Cboe Global Markets Announces Date Of Third-Quarter 2026 Earnings Release And Conference Call](http://www.mondovisione.com/media-and-resources/news/cboe-global-markets-announces-date-of-third-quarter-2026-earnings-release-and-co-2026928/)
 append_entries: 1
 Finish: 2026-09-29 01:39:08.458237
+------------------------------------------------------
+Started: 2026-09-29 08:10:04.781771
+Existing_entries: 526
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tokyo Financial Exchange: Application Of Intraday Additional Margin Call](http://www.mondovisione.com/media-and-resources/news/tokyo-financial-exchange-application-of-intraday-additional-margin-call-2026929/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Montréal Exchange Interest Rate Derivative Trading Ceases At 13:30 Today, September 29, 2026 - Interest Rate Derivative Market Closed On September 30, 2026](http://www.mondovisione.com/media-and-resources/news/montral-exchange-interest-rate-derivative-trading-ceases-at-1330-today-septem-2026929/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Remakes Wholly-Owned Companies Relief Instrument](http://www.mondovisione.com/media-and-resources/news/asic-remakes-wholly-owned-companies-relief-instrument-2026929/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New Zealand Financial Markets Authority Extends No Action Relief For Climate Reporting Entities](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-extends-no-action-relief-for-climate-rep-2026929/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [BNP Paribas Accredited As NZX Participant](http://www.mondovisione.com/media-and-resources/news/bnp-paribas-accredited-as-nzx-participant-2026929/)
+append_entries: 5
+Finish: 2026-09-29 08:10:05.666077
