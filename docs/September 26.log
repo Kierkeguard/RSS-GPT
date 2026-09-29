@@ -2127,3 +2127,12 @@ Append: [London Stock Exchange Group plc Transaction In Own Shares](http://www.m
 Append: [Eurex: Building Liquidity In Europe’s Volatility Markets](http://www.mondovisione.com/media-and-resources/news/eurex-building-liquidity-in-europes-volatility-markets-2026928/)
 append_entries: 10
 Finish: 2026-09-28 20:26:57.482770
+------------------------------------------------------
+Started: 2026-09-29 01:39:07.170485
+Existing_entries: 525
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cboe Global Markets Announces Date Of Third-Quarter 2026 Earnings Release And Conference Call](http://www.mondovisione.com/media-and-resources/news/cboe-global-markets-announces-date-of-third-quarter-2026-earnings-release-and-co-2026928/)
+append_entries: 1
+Finish: 2026-09-29 01:39:08.458237
