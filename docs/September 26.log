@@ -2209,3 +2209,18 @@ Append: [FINRA Foundation And AFCPE® Select The 2026 FINRA Foundation Military 
 Append: [SEC Charges Multiple Entities In Fraud Schemes Totaling At Least $15 Million That Used WhatsApp And Other Platforms To Lure Investors](http://www.mondovisione.com/media-and-resources/news/sec-charges-multiple-entities-in-fraud-schemes-totaling-at-least-15-million-tha-2026929/)
 append_entries: 10
 Finish: 2026-09-29 22:04:10.481165
+------------------------------------------------------
+Started: 2026-09-30 04:55:18.839454
+Existing_entries: 551
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Montréal Exchange Interest Rate Derivative Market Closed Today, September 30, 2026](http://www.mondovisione.com/media-and-resources/news/montral-exchange-interest-rate-derivative-market-closed-today-september-30-20-2026930/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [S&P Global Schedules Third Quarter 2026 Earnings Announcement And Conference Call For Tuesday, October 27, 2026](http://www.mondovisione.com/media-and-resources/news/sandp-global-schedules-third-quarter-2026-earnings-announcement-and-conference-cal-2026930/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [S&P Global Declares Fourth Quarter Dividend](http://www.mondovisione.com/media-and-resources/news/sandp-global-declares-fourth-quarter-dividend-2026930/)
+append_entries: 3
+Finish: 2026-09-30 04:55:20.030291
