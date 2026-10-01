@@ -2298,3 +2298,15 @@ Append: [Performance Interval: Statement On Proposals To Facilitate Retail Inves
 Append: [CFTC Secures Court Order Directing Louisiana Man And Arkansas Woman To Pay Over $31 Million For Digital Assets, Precious Metals Fraud - Court Separately Enters Consent Orders Against Two Florida Defendants In The Scheme](http://www.mondovisione.com/media-and-resources/news/cftc-secures-court-order-directing-louisiana-man-and-arkansas-woman-to-pay-over-2026930/)
 append_entries: 6
 Finish: 2026-09-30 23:35:40.720748
+------------------------------------------------------
+Started: 2026-10-01 05:08:21.776852
+Existing_entries: 580
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Staff Statement On Trump Accounts, SEC Divisions Of Investment Management And Corporation Finance, Sept. 30, 2026](http://www.mondovisione.com/media-and-resources/news/staff-statement-on-trump-accounts-sec-divisions-of-investment-management-and-co-2026101/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Statement On Proposed Amendments To Adviser Performance-Based Compensation, Interval Fund Modernization, And Multiple Share Class Rules For Closed-End Funds And BDCs](http://www.mondovisione.com/media-and-resources/news/statement-on-proposed-amendments-to-adviser-performance-based-compensation-inte-2026101/)
+append_entries: 2
+Finish: 2026-10-01 05:08:23.360811
