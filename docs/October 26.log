@@ -80,3 +80,25 @@ Existing_entries: 28
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-10-02 04:58:02.820731
+------------------------------------------------------
+Started: 2026-10-02 12:12:44.778578
+Existing_entries: 28
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [LuxSE Unveils The European Safe Asset Gateway To Strengthen Europe’s Capital Markets](http://www.mondovisione.com/media-and-resources/news/luxse-unveils-the-european-safe-asset-gateway-to-strengthen-europes-capital-mar-2026102/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ICBC UBS AM Launches ICBC UBS HK-Global Artificial Intelligence ETF, Tracking The Solactive G2 AI Economy Select Index](http://www.mondovisione.com/media-and-resources/news/icbc-ubs-am-launches-icbc-ubs-hk-global-artificial-intelligence-etf-tracking-th-2026102/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Helsinki Welcomes Steady Energy To Nasdaq First North](http://www.mondovisione.com/media-and-resources/news/nasdaq-helsinki-welcomes-steady-energy-to-nasdaq-first-north-2026102/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Moderna, Inc. To Join The Nasdaq-100 Index® Beginning October 9, 2026](http://www.mondovisione.com/media-and-resources/news/moderna-inc-to-join-the-nasdaq-100-index-beginning-october-9-2026-2026102/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [MIAX Exchange Group - Options Markets - Qualified Securities For Q4 2026](http://www.mondovisione.com/media-and-resources/news/miax-exchange-group-options-markets-qualified-securities-for-q4-2026-2026102/)
+Append: [CFTC Staff Extends Brexit-Related No-Action Positions](http://www.mondovisione.com/media-and-resources/news/cftc-staff-extends-brexit-related-no-action-positions-2026102/)
+append_entries: 6
+Finish: 2026-10-02 12:12:45.717867
