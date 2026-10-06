@@ -253,3 +253,29 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [US Office Of The Comptroller Of The Currency Hails 2026 Update To U.S. National Strategy For Financial Literacy](http://www.mondovisione.com/media-and-resources/news/us-office-of-the-comptroller-of-the-currency-hails-2026-update-to-us-national-2026106/)
 append_entries: 2
 Finish: 2026-10-06 05:44:20.802067
+------------------------------------------------------
+Started: 2026-10-06 13:05:14.181434
+Existing_entries: 65
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Tradeweb Reports September 2026 Total Trading Volume Of $81.6 Trillion And Average Daily Volume Of $3.7 Trillion](http://www.mondovisione.com/media-and-resources/news/tradeweb-reports-september-2026-total-trading-volume-of-816-trillion-and-avera-2026106/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Phillip Capital Inc., Eventus Announce Another Long-Term Extension Of Relationship For Trade Surveillance On All PhillipCapital Markets](http://www.mondovisione.com/media-and-resources/news/phillip-capital-inc-eventus-announce-another-long-term-extension-of-relationsh-2026106/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Miami International Holdings Reports September 2026 Trading Results - MIAX Exchange Group Reports 22.0% Increase In Multi-List Options ADV YTD](http://www.mondovisione.com/media-and-resources/news/miami-international-holdings-reports-september-2026-trading-results-miax-excha-2026106/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Vermiculus Launches AI-Powered, Configurable Corporate Action System - VeriAct, Vermiculus Corporate Action System, Enables Market Infrastructures To Manage Any Corporate Action Event Type Through A Fully Configurable, Cloud-Native System With Complete Transparency, Automation, And Scalability](http://www.mondovisione.com/media-and-resources/news/vermiculus-launches-ai-powered-configurable-corporate-action-system-veriact-2026106/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [UK Takes Next Step Towards First Digitally Native Government Bond](http://www.mondovisione.com/media-and-resources/news/uk-takes-next-step-towards-first-digitally-native-government-bond-2026106/)
+Append: [LME Data Highlights: Q3 2026](http://www.mondovisione.com/media-and-resources/news/lme-data-highlights-q3-2026-2026106/)
+Append: [Eurex Expands Into Japanese Equity Derivatives](http://www.mondovisione.com/media-and-resources/news/eurex-expands-into-japanese-equity-derivatives-2026106/)
+Append: [BNP Paribas’ Securities Services Business Extends Its General Meetings Solutions To Global Custody Clients, Supported By Proxymity](http://www.mondovisione.com/media-and-resources/news/bnp-paribas-securities-services-business-extends-its-general-meetings-solutions-2026106/)
+Append: [Liquidnet launches SuperBlock TI To Unlock More Natural Block Liquidity - New Liquidity Discovery Solution Helps Traders Source Exceptionally Large Natural Block Opportunities While Maintaining Control Over The Distribution Of Trading Interest](http://www.mondovisione.com/media-and-resources/news/liquidnet-launches-superblock-ti-to-unlock-more-natural-block-liquidity-new-li-2026106/)
+Append: [Nippon Life Asset Management Launches New Mutual Fund Tracking The Solactive Japan Super Large Cap High Dividend 10 Index](http://www.mondovisione.com/media-and-resources/news/nippon-life-asset-management-launches-new-mutual-fund-tracking-the-solactive-jap-2026106/)
+append_entries: 10
+Finish: 2026-10-06 13:05:16.127515
