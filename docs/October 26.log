@@ -241,3 +241,15 @@ Append: [CFTC Seeks Public Comment On Advanced Notice Of Proposed Rulemaking Rel
 Append: [BIS: Basel III Applicable In Almost All Member Jurisdictions By 2027](http://www.mondovisione.com/media-and-resources/news/bis-basel-iii-applicable-in-almost-all-member-jurisdictions-by-2027-2026105/)
 append_entries: 10
 Finish: 2026-10-05 22:24:56.038757
+------------------------------------------------------
+Started: 2026-10-06 05:44:19.680280
+Existing_entries: 63
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Cboe Global Markets Reports Trading Volume For September 2026](http://www.mondovisione.com/media-and-resources/news/cboe-global-markets-reports-trading-volume-for-september-2026-2026106/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [US Office Of The Comptroller Of The Currency Hails 2026 Update To U.S. National Strategy For Financial Literacy](http://www.mondovisione.com/media-and-resources/news/us-office-of-the-comptroller-of-the-currency-hails-2026-update-to-us-national-2026106/)
+append_entries: 2
+Finish: 2026-10-06 05:44:20.802067
