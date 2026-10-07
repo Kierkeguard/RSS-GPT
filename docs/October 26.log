@@ -320,3 +320,9 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [smartTrade Wins Two Awards At The Euromoney FX Awards 2026](http://www.mondovisione.com/media-and-resources/news/smarttrade-wins-two-awards-at-the-euromoney-fx-awards-2026-2026106/)
 append_entries: 3
 Finish: 2026-10-06 23:40:49.089776
+------------------------------------------------------
+Started: 2026-10-07 05:15:25.989313
+Existing_entries: 88
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+append_entries: 0
+Finish: 2026-10-07 05:15:47.065539
