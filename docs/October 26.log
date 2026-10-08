@@ -386,3 +386,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [Nasdaq Reports September 2026 Volumes And 3Q26 Statistics](http://www.mondovisione.com/media-and-resources/news/nasdaq-reports-september-2026-volumes-and-3q26-statistics-2026107/)
 append_entries: 1
 Finish: 2026-10-08 00:05:03.891949
+------------------------------------------------------
+Started: 2026-10-08 08:38:37.563307
+Existing_entries: 108
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group's International Average Daily Volume Rises 22% To 9 Million Contracts In Q3 2026](http://www.mondovisione.com/media-and-resources/news/cme-groups-international-average-daily-volume-rises-22-to-9-million-contracts-2026108/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [One Trading Announces Strategic Investment From Nasdaq Ventures - Nasdaq And One Trading To Explore Opportunities To Combine Their Market Infrastructure Expertise, Global Reach And Advanced Derivatives Technologies To Support Market Innovation And Enable 24/7 Trading Of Equity Futures](http://www.mondovisione.com/media-and-resources/news/one-trading-announces-strategic-investment-from-nasdaq-ventures-nasdaq-and-one-2026108/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SET Steps Up As “Transition Enabler” To Help Thai Firms Cut Emissions, Access Green Finance](http://www.mondovisione.com/media-and-resources/news/set-steps-up-as-transition-enabler-to-help-thai-firms-cut-emissions-access-gr-2026108/)
+append_entries: 3
+Finish: 2026-10-08 08:38:39.857349
