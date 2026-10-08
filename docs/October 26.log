@@ -377,3 +377,12 @@ Append: [Bank Of England: Minutes Of The London FXJSC Legal Sub Committee Meetin
 Append: [ESMA Clarifies Access For EU Market Participants To The Services Of Third-Country CSDs](http://www.mondovisione.com/media-and-resources/news/esma-clarifies-access-for-eu-market-participants-to-the-services-of-third-countr-2026107/)
 append_entries: 10
 Finish: 2026-10-07 19:49:29.158368
+------------------------------------------------------
+Started: 2026-10-08 00:05:02.800721
+Existing_entries: 107
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Reports September 2026 Volumes And 3Q26 Statistics](http://www.mondovisione.com/media-and-resources/news/nasdaq-reports-september-2026-volumes-and-3q26-statistics-2026107/)
+append_entries: 1
+Finish: 2026-10-08 00:05:03.891949
