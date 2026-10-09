@@ -515,3 +515,26 @@ Append: [Federal Reserve Board Releases Results Of The 2025 Survey Of Consumer F
 Append: [UK Cross-Market Operational Resilience Group Holds Sector-Wide Cloud Outage Simulation Exercise](http://www.mondovisione.com/media-and-resources/news/uk-cross-market-operational-resilience-group-holds-sector-wide-cloud-outage-simu-2026109/)
 append_entries: 10
 Finish: 2026-10-09 19:21:41.279481
+------------------------------------------------------
+Started: 2026-10-09 23:54:01.553620
+Existing_entries: 149
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Seeks Public Comment On Notice Of Proposed Rulemaking Concerning The Inclusion Of Certain Event Contracts In The Definition Of Swap](http://www.mondovisione.com/media-and-resources/news/cftc-seeks-public-comment-on-notice-of-proposed-rulemaking-concerning-the-inclus-2026109/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Announces End-Of-Month Open Short Interest Positions In Nasdaq Stocks As Of Settlement Date September 30, 2026](http://www.mondovisione.com/media-and-resources/news/nasdaq-announces-end-of-month-open-short-interest-positions-in-nasdaq-stocks-as-2026109/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [NYSE Group Consolidated Short Interest Report](http://www.mondovisione.com/media-and-resources/news/nyse-group-consolidated-short-interest-report-2026109/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Issues Interim Final Rule Excluding Certain Activity From The Definition Of Swap](http://www.mondovisione.com/media-and-resources/news/cftc-issues-interim-final-rule-excluding-certain-activity-from-the-definition-of-2026109/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Commitments Of Traders Reports Update](http://www.mondovisione.com/media-and-resources/news/cftc-commitments-of-traders-reports-update-2026109/)
+Append: [CFTC Financial Data For Futures Commission Merchants Update](http://www.mondovisione.com/media-and-resources/news/cftc-financial-data-for-futures-commission-merchants-update-2026109/)
+Append: [Nigerian Exchange Weekly Market Report For The Week Ended 9 October 2026](http://www.mondovisione.com/media-and-resources/news/nigerian-exchange-weekly-market-report-for-the-week-ended-9-october-2026-2026109/)
+append_entries: 7
+Finish: 2026-10-09 23:54:02.681962
