@@ -448,3 +448,18 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [ESMA Sets Out Supervisory Expectations On Services Related To Unauthorised Stablecoins](http://www.mondovisione.com/media-and-resources/news/esma-sets-out-supervisory-expectations-on-services-related-to-unauthorised-stabl-2026108/)
 append_entries: 5
 Finish: 2026-10-08 23:08:22.956128
+------------------------------------------------------
+Started: 2026-10-09 05:28:51.372808
+Existing_entries: 126
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Montréal Exchange Interest Rate Derivative Trading Ceases At 13:30 Today, October 9, 2026 - Exchange's Markets Closed On October 12, 2026](http://www.mondovisione.com/media-and-resources/news/montral-exchange-interest-rate-derivative-trading-ceases-at-1330-today-octobe-2026109/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [More Trading Hours, Different Risks: Canadian Investment Regulatory Organization Helps Investors Understand Extended Hours Trading](http://www.mondovisione.com/media-and-resources/news/more-trading-hours-different-risks-canadian-investment-regulatory-organization-2026109/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [One of Them Sweet Lies: Investors Must Verify Before They Act - By Holland Grant, Bahamas International Securities Exchange COO](http://www.mondovisione.com/media-and-resources/news/one-of-them-sweet-lies-investors-must-verify-before-they-act-by-holland-grant-2026109/)
+append_entries: 3
+Finish: 2026-10-09 05:28:52.362996
