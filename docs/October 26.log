@@ -538,3 +538,18 @@ Append: [CFTC Financial Data For Futures Commission Merchants Update](http://www
 Append: [Nigerian Exchange Weekly Market Report For The Week Ended 9 October 2026](http://www.mondovisione.com/media-and-resources/news/nigerian-exchange-weekly-market-report-for-the-week-ended-9-october-2026-2026109/)
 append_entries: 7
 Finish: 2026-10-09 23:54:02.681962
+------------------------------------------------------
+Started: 2026-10-10 05:12:46.455635
+Existing_entries: 156
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [OG.com Markets Pick Of The Week Program](http://www.mondovisione.com/media-and-resources/news/ogcom-markets-pick-of-the-week-program-20261010/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [OG.com Markets Refer A Friend Program](http://www.mondovisione.com/media-and-resources/news/ogcom-markets-refer-a-friend-program-20261010/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [New York Attorney General James Bans Former Cryptocurrency CEO Who Defrauded Investors From Financial Industry - Ex-Celsius CEO Alex Mashinsky Defrauded Hundreds Of Thousands Of Investors Out Of Billions Of Dollars In Cryptocurrency](http://www.mondovisione.com/media-and-resources/news/new-york-attorney-general-james-bans-former-cryptocurrency-ceo-who-defrauded-inv-20261010/)
+append_entries: 3
+Finish: 2026-10-10 05:12:47.946264
