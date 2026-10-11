@@ -577,3 +577,12 @@ Existing_entries: 159
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-10-11 05:03:04.666147
+------------------------------------------------------
+Started: 2026-10-11 12:26:07.833412
+Existing_entries: 159
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [PNAH Rings The Opening Bell To Mark 8 Years At Tehran Securities Exchange](http://www.mondovisione.com/media-and-resources/news/pnah-rings-the-opening-bell-to-mark-8-years-at-tehran-securities-exchange-20261011/)
+append_entries: 1
+Finish: 2026-10-11 12:26:08.923973
