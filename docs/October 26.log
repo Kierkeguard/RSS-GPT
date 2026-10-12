@@ -604,3 +604,27 @@ Existing_entries: 160
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-10-12 05:17:16.939278
+------------------------------------------------------
+Started: 2026-10-12 14:56:15.714575
+Existing_entries: 160
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Welcome Remarks, Dato’ Mohammad Faiz Azmi, Chairman, Securities Commission Malaysia, Regulatory Roundtable: Strengthening The Governance Role Of Company Secretaries Serving Public Listed Companies, 12 October 2026, 1.45 PM, VOCO Kuching](http://www.mondovisione.com/media-and-resources/news/welcome-remarks-dato-mohammad-faiz-azmi-chairman-securities-commission-malay-20261012/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX Launches S&P 500 & HKEX Tech 100 Index In Partnership With S&P Dow Jones Indices](http://www.mondovisione.com/media-and-resources/news/hkex-launches-sandp-500-and-hkex-tech-100-index-in-partnership-with-sandp-dow-jones-in-20261012/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [FSB Chair Sets Out FSB Work On AI And Stablecoins](http://www.mondovisione.com/media-and-resources/news/fsb-chair-sets-out-fsb-work-on-ai-and-stablecoins-20261012/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Taiwan Futures Exchange Newsletter - October 2026](http://www.mondovisione.com/media-and-resources/news/taiwan-futures-exchange-newsletter-october-2026-20261012/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX To Introduce 12 Stock Option Classes With Weekly And Monthly Expiries](http://www.mondovisione.com/media-and-resources/news/hkex-to-introduce-12-stock-option-classes-with-weekly-and-monthly-expiries-20261012/)
+Append: [ASIC Annual Forum 2026 Explores How Australia Can Stay Ahead Of The Next Wave Of Global Change](http://www.mondovisione.com/media-and-resources/news/asic-annual-forum-2026-explores-how-australia-can-stay-ahead-of-the-next-wave-of-20261012/)
+Append: [SGX Group’s Resilient September Performance Lifts Securities, Derivatives Volume For Quarter](http://www.mondovisione.com/media-and-resources/news/sgx-groups-resilient-september-performance-lifts-securities-derivatives-volume-20261012/)
+Append: [ASIC Moves To Extend And Strengthen CFD Consumer Protections](http://www.mondovisione.com/media-and-resources/news/asic-moves-to-extend-and-strengthen-cfd-consumer-protections-20261012/)
+append_entries: 8
+Finish: 2026-10-12 14:56:16.879497
