@@ -653,3 +653,15 @@ Append: [ELITE Day: Seventh Edition Celebrates ‘Unstoppable Businesses’](htt
 Append: [VERALLIS S.A. Lists On Euronext](http://www.mondovisione.com/media-and-resources/news/verallis-sa-lists-on-euronext-20261012/)
 append_entries: 9
 Finish: 2026-10-12 22:49:09.220219
+------------------------------------------------------
+Started: 2026-10-13 06:15:51.619800
+Existing_entries: 177
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group's Corn Futures Set New Daily Volume Record After USDA Raised Outlook](http://www.mondovisione.com/media-and-resources/news/cme-groups-corn-futures-set-new-daily-volume-record-after-usda-raised-outlook-20261013/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group Announces Cloud Migration Milestones](http://www.mondovisione.com/media-and-resources/news/cme-group-announces-cloud-migration-milestones-20261013/)
+append_entries: 2
+Finish: 2026-10-13 06:15:52.594201
