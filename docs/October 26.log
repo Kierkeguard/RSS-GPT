@@ -769,3 +769,26 @@ error: __init__() got an unexpected keyword argument 'proxies'
 Append: [FSB Consults On High-Level Principles For Regulatory And Supervisory Modernisation](http://www.mondovisione.com/media-and-resources/news/fsb-consults-on-high-level-principles-for-regulatory-and-supervisory-modernisati-20261014/)
 append_entries: 5
 Finish: 2026-10-14 13:28:18.551022
+------------------------------------------------------
+Started: 2026-10-14 18:24:02.496220
+Existing_entries: 213
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [Ontario Securities Commission Investor Warnings And Alerts For September 22, 2026 – October 14, 2026](http://www.mondovisione.com/media-and-resources/news/ontario-securities-commission-investor-warnings-and-alerts-for-september-22-202-20261014/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Small Business Advisory Committee To Discuss IPO Modernization And Regulation Crowdfunding](http://www.mondovisione.com/media-and-resources/news/sec-small-business-advisory-committee-to-discuss-ipo-modernization-and-regulatio-20261014/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [The EBA Classifies USDC As The First Significant e-money Token In The European Union](http://www.mondovisione.com/media-and-resources/news/the-eba-classifies-usdc-as-the-first-significant-e-money-token-in-the-european-u-20261014/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ESMA Analysis Shows Continued Growth In Cross-Border Investment Services](http://www.mondovisione.com/media-and-resources/news/esma-analysis-shows-continued-growth-in-cross-border-investment-services-20261014/)
+Summarization failed, append the original article
+error: __init__() got an unexpected keyword argument 'proxies'
+Append: [ACER - REMIT Breach: Estonian Competition Authority Fines Futugrid For Manipulating The Electricity Market](http://www.mondovisione.com/media-and-resources/news/acer-remit-breach-estonian-competition-authority-fines-futugrid-for-manipulat-20261014/)
+Append: [UAE Capital Market Authority Enhances Access To Capital Market Regulatory Frameworks](http://www.mondovisione.com/media-and-resources/news/uae-capital-market-authority-enhances-access-to-capital-market-regulatory-framew-20261014/)
+Append: [ASX: Record 11.5 Million Australians Now Invest Beyond Super](http://www.mondovisione.com/media-and-resources/news/asx-record-115-million-australians-now-invest-beyond-super-20261014/)
+append_entries: 7
+Finish: 2026-10-14 18:24:03.639391
