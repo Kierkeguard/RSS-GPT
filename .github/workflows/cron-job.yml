@@ -56,4 +56,5 @@ jobs:
           git commit -m "Github Auto Build at `date +"%Y-%m-%d %H:%M"`"
         
           echo "======git push===="
-          git push
+          git pull --rebase origin main
+          git push origin main
