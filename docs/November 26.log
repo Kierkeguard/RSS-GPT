@@ -24,3 +24,15 @@ Append: [Intercontinental Exchange Reports October 2026 Statistics](http://www.m
 Append: [Bitcoin May Have Already Priced In US Midterm Shift, Says CoinShares Research Chief](http://www.mondovisione.com/media-and-resources/news/bitcoin-may-have-already-priced-in-us-midterm-shift-says-coinshares-research-ch-2026114/)
 append_entries: 10
 Finish: 2026-11-04 21:46:41.959807
+------------------------------------------------------
+Started: 2026-11-05 02:05:01.807346
+Existing_entries: 10
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Client.__init__() got an unexpected keyword argument 'proxies'
+Append: [Cboe Global Markets Reports Trading Volume for October 2026](http://www.mondovisione.com/media-and-resources/news/cboe-global-markets-reports-trading-volume-for-october-2026-2026114/)
+Summarization failed, append the original article
+error: Client.__init__() got an unexpected keyword argument 'proxies'
+Append: [Intercontinental Exchange CFO Warren Gardiner To Present At The J.P. Morgan Ultimate Services Investor Conference On November 17](http://www.mondovisione.com/media-and-resources/news/intercontinental-exchange-cfo-warren-gardiner-to-present-at-the-jp-morgan-ulti-2026114/)
+append_entries: 2
+Finish: 2026-11-05 02:05:02.702723
