@@ -103,3 +103,27 @@ error: Client.__init__() got an unexpected keyword argument 'proxies'
 Append: [US Federal Bank Regulatory Agencies Release 2025 Small Business, Small Farm, And Community Development Lending Data](http://www.mondovisione.com/media-and-resources/news/us-federal-bank-regulatory-agencies-release-2025-small-business-small-farm-and-2026115/)
 append_entries: 3
 Finish: 2026-11-06 02:06:54.768271
+------------------------------------------------------
+Started: 2026-11-06 11:56:46.436264
+Existing_entries: 35
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Client.__init__() got an unexpected keyword argument 'proxies'
+Append: [Broadridge’s Distributed Ledger Repo Processes $7.6 Trillion In October - October 2026 ADV Reaches $345 Billion As Broadridge Continues To Advance Institutional Tokenization Infrastructure](http://www.mondovisione.com/media-and-resources/news/broadridges-distributed-ledger-repo-processes-76-trillion-in-october-octobe-2026116/)
+Summarization failed, append the original article
+error: Client.__init__() got an unexpected keyword argument 'proxies'
+Append: [Samsung Securities Introduces Six Commodity-Linked ETNs Tracking Solactive Copper, Gold, And Silver Indices](http://www.mondovisione.com/media-and-resources/news/samsung-securities-introduces-six-commodity-linked-etns-tracking-solactive-coppe-2026116/)
+Summarization failed, append the original article
+error: Client.__init__() got an unexpected keyword argument 'proxies'
+Append: [SIX Exchange Regulation Concludes Investigation Into ASMALLWORLD AG](http://www.mondovisione.com/media-and-resources/news/six-exchange-regulation-concludes-investigation-into-asmallworld-ag-2026116/)
+Summarization failed, append the original article
+error: Client.__init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX 2026 Third Quarter Results](http://www.mondovisione.com/media-and-resources/news/hkex-2026-third-quarter-results-2026116/)
+Summarization failed, append the original article
+error: Client.__init__() got an unexpected keyword argument 'proxies'
+Append: [Putting A Premium On Trust: Getting The Basics Right In Insurance - Speech By ASIC Commissioner Alan Kirkland At The Insurance Council Of Australia Annual Conference In Sydney On 6 November 2026](http://www.mondovisione.com/media-and-resources/news/putting-a-premium-on-trust-getting-the-basics-right-in-insurance-speech-by-as-2026116/)
+Append: [Financial Services Agency Of Japan And Climate Data Steering Committee Launch Jurisdictional Data Partnership For The Climate Data Utility](http://www.mondovisione.com/media-and-resources/news/financial-services-agency-of-japan-and-climate-data-steering-committee-launch-ju-2026116/)
+Append: [ASIC Consults On Relief And Guidance For The New Foreign Financial Services Provider Regime](http://www.mondovisione.com/media-and-resources/news/asic-consults-on-relief-and-guidance-for-the-new-foreign-financial-services-prov-2026116/)
+Append: [New Zealand Financial Markets Authority Urges Clearer Fee Disclosure For Investors](http://www.mondovisione.com/media-and-resources/news/new-zealand-financial-markets-authority-urges-clearer-fee-disclosure-for-investo-2026116/)
+append_entries: 8
+Finish: 2026-11-06 11:56:47.597521
