@@ -88,3 +88,18 @@ Append: [Corporate CUSIP Request Volumes Rise In October - Municipal Volumes Edg
 Append: [Shaping The Future Of Money, Keynote Speech By Piero Cipollone, Member Of The Executive Board Of The ECB, At The Eighth International Conference Of Regional Card Schemes And Retail Financial Market Infrastructures, Tirana, 5 November 2026](http://www.mondovisione.com/media-and-resources/news/shaping-the-future-of-money-keynote-speech-by-piero-cipollone-member-of-the-ex-2026115/)
 append_entries: 10
 Finish: 2026-11-05 20:58:31.770671
+------------------------------------------------------
+Started: 2026-11-06 02:06:53.438836
+Existing_entries: 32
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Client.__init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Issues Impartial Access Requirements Interpretation](http://www.mondovisione.com/media-and-resources/news/cftc-issues-impartial-access-requirements-interpretation-2026115/)
+Summarization failed, append the original article
+error: Client.__init__() got an unexpected keyword argument 'proxies'
+Append: [Miami International Holdings Reports October 2026 Trading Results - MIAX Exchange Group Reports 16.6% Increase In Multi-List Options ADV YTD](http://www.mondovisione.com/media-and-resources/news/miami-international-holdings-reports-october-2026-trading-results-miax-exchang-2026115/)
+Summarization failed, append the original article
+error: Client.__init__() got an unexpected keyword argument 'proxies'
+Append: [US Federal Bank Regulatory Agencies Release 2025 Small Business, Small Farm, And Community Development Lending Data](http://www.mondovisione.com/media-and-resources/news/us-federal-bank-regulatory-agencies-release-2025-small-business-small-farm-and-2026115/)
+append_entries: 3
+Finish: 2026-11-06 02:06:54.768271
