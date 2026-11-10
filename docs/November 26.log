@@ -328,3 +328,27 @@ Append: [Correspondence Between UK Chancellor Of The Exchequer And Governor Of T
 Append: [Anthropic Launches Roadshow For Proposed Initial Public Offering](http://www.mondovisione.com/media-and-resources/news/anthropic-launches-roadshow-for-proposed-initial-public-offering-20261110/)
 append_entries: 10
 Finish: 2026-11-10 17:36:13.094359
+------------------------------------------------------
+Started: 2026-11-10 23:00:40.089870
+Existing_entries: 94
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Client.__init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq Announces End-Of-Month Open Short Interest Positions In Nasdaq Stocks As Of Settlement Date October 30, 2026](http://www.mondovisione.com/media-and-resources/news/nasdaq-announces-end-of-month-open-short-interest-positions-in-nasdaq-stocks-as-20261110/)
+Summarization failed, append the original article
+error: Client.__init__() got an unexpected keyword argument 'proxies'
+Append: [NYSE Group Consolidated Short Interest Report](http://www.mondovisione.com/media-and-resources/news/nyse-group-consolidated-short-interest-report-20261110/)
+Summarization failed, append the original article
+error: Client.__init__() got an unexpected keyword argument 'proxies'
+Append: [The U.S. Economy And Considerations For Monetary Policy, Federal Reserve Vice Chair For Supervision Michelle W. Bowman, At The C. Peter Mccolough Series On International Economics Council On Foreign Relations, Washington, D.C.](http://www.mondovisione.com/media-and-resources/news/the-us-economy-and-considerations-for-monetary-policy-federal-reserve-vice-ch-20261110/)
+Summarization failed, append the original article
+error: Client.__init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Announces Enforcement Annual Results For Fiscal Year 2026 - Division Continues To Prioritize Impactful Enforcement Actions And Emphasize Individual Accountability To Deter Misconduct And Strengthen Investor Protection And Market Integrity](http://www.mondovisione.com/media-and-resources/news/sec-announces-enforcement-annual-results-for-fiscal-year-2026-division-continu-20261110/)
+Summarization failed, append the original article
+error: Client.__init__() got an unexpected keyword argument 'proxies'
+Append: [New York Governor Hochul Declares New York Will Lead the Nation in AI Science and Safety; Launches New Research Institute](http://www.mondovisione.com/media-and-resources/news/new-york-governor-hochul-declares-new-york-will-lead-the-nation-in-ai-science-an-20261110/)
+Append: [Ontario Securities Commission Publishes The First Article In Its Q-Bits Series Alongside A Technical Report On Quantum Computing Risks And Opportunities To Help Market Participants Prepare For The Quantum Future](http://www.mondovisione.com/media-and-resources/news/ontario-securities-commission-publishes-the-first-article-in-its-q-bits-series-a-20261110/)
+Append: [Appointments To BIS Global Payments Standard-Setting Body And Consultative Council For The Americas](http://www.mondovisione.com/media-and-resources/news/appointments-to-bis-global-payments-standard-setting-body-and-consultative-counc-20261110/)
+Append: [The Bermuda Stock Exchange Will Be Closed For Remembrance Day](http://www.mondovisione.com/media-and-resources/news/the-bermuda-stock-exchange-will-be-closed-for-remembrance-day-20261110/)
+append_entries: 8
+Finish: 2026-11-10 23:00:41.153663
