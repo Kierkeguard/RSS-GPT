@@ -5,11 +5,293 @@
 <link>http://www.mondovisione.com/media-and-resources/news/</link>
 
 <item>
+<title>Moscow Exchange: Changes In Trading And Clearing Reports On The Securities Market</title>
+<link>http://www.mondovisione.com/media-and-resources/news/moscow-exchange-changes-in-trading-and-clearing-reports-on-the-securities-marke-20261111/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/moscow-exchange-changes-in-trading-and-clearing-reports-on-the-securities-marke-20261111/</guid>
+<content:encoded><![CDATA[
+
+<p>We have clarified the scope of changes to the trading and clearing reports on the Securities Market, which was announced in Developer Newsletter No. 156. Please note that in reports SEM21 and SEM21D, the attributes RegNumber, FaceUnit, Volume, and IssueSize remain mandatory. They will not be populated for digital currencies: empty value &ndash; for attributes RegNumber and FaceUnit, value 0 &ndash; for Volume and IssueSize. The announcement on the website has been updated: <a href="https://www.moex.com/n105622">https://www.moex.com/n105622</a>.</p>
+<p>The full list of changes to the reports is provided below.</p>
+<h3 id="id-[Update]Изменениявотчётахпоитогамторговиклиринганафондовомрынке30.11-Changesintradingreports">Changes in trading reports</h3>
+<ol>
+<li>In the SEM21 (General Market Data) and SEM21D (General Intraday Market Data) reports: 	 
+<ul>
+<li>The description of the attributes BoardType, SecurityId, SecuryType, PriceType, EngType, LowOffer, TrendClose, MP2ValTrd, and MarketPrice2 is changed;</li>
+<li>The mandatory attributes RegNumber and FaceUnit for digital currencies are not populated &ndash; empty value;</li>
+<li>The mandatory attributes Volume and IssueSize for digital currencies are not populated &ndash; value is 0.</li>
+</ul>
+</li>
+<li>New reports are introduced: 	 
+<ul>
+<li>SEM27 (Compliance with the REPO_CI Tariff Plan Condition);</li>
+<li>SEM02DC (Orders for digital currency register);</li>
+<li>SEM03DC (Digital currency trades register).</li>
+</ul>
+</li>
+<li>In the SEM02C (Cancelled orders register) report: 	 
+<ul>
+<li>The description of the SecurityId field is changed;</li>
+<li>A decimal places value (8) is added to the Quantity and QuantityVisible attributes.</li>
+</ul>
+</li>
+</ol>
+<p>Updated specifications for report formats are available on the MOEX website: <a href="https://www.moex.com/en/documents/13896">https://www.moex.com/en/documents/13896</a>.<br /> Schemas and styles for printed report forms are available on the MOEX FTP server: <a href="https://ftp.moex.com/pub/Reports/Equities">https://ftp.moex.com/pub/Reports/Equities</a>.<br /> Trading reports for digital currencies are available on the test environment. Reports from the test environment are prepared upon request; please contact support.<br /> <strong>Changes in clearing reports</strong></p>
+<ol>
+<li>In the EQM20 (Report on trading/clearing accounts) and EQM28 (Report on additional divisions on trade accounts open for the clearing member operations) reports: 	 
+<ul>
+<li>The description of the attributes DepAccId and DepUnitId is changed;</li>
+<li>New attribute, DepositoryId - Depository code / digital depository code, is added to the node RECORDS: 		 
+<ul>
+<li>N - a trading Securities Sub-account for recording securities, opened at the depository of NKO JSC NSD.</li>
+<li>R - a trading Sub-account of a digital account for recording digital currencies and foreign digital instruments, opened at the Settlement Digital Depository.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>In the EQM06 (Trades included into clearing (EQM06/EQM06P/EQM06R)*) report: 	 
+<ul>
+<li>The description of the attributes InstrType, Price, Quantity, Amount, Balance, ClientDetails, DueDate, and Type is changed;</li>
+<li>New attribute, TradeType - Type of trade in foreign currency / digital currency / foreign digital instrument (InstrType=C):, is added to the node RECORDS: 		 
+<ul>
+<li>S - Swap trade.</li>
+<li>T - Buy/sell trade.</li>
+</ul>
+</li>
+<li>The number of decimal places in the Quantity and Balance attributes is changed from 2 to 8.</li>
+</ul>
+</li>
+<li>In the EQM6C (Trades included into clearing (client trades)) report: 	 
+<ul>
+<li>The description of the attributes InstrType, Price, Quantity, Amount, Balance, ClientDetails, DueDate, and Type is changed;</li>
+<li>New attribute, TradeType - Type of trade in foreign currency / digital currency / foreign digital instrument (InstrType=C), is added to the node RECORDS: 		 
+<ul>
+<li>S - Swap trade.</li>
+<li>T - Buy/sell trade.</li>
+</ul>
+</li>
+<li>A decimal places value (8) is added to the Quantity and Balance field.</li>
+</ul>
+</li>
+<li>In the EQM6D (Trades included into clearing (for holders)) report: 	 
+<ul>
+<li>The description of the attributes InstrType, Price, Quantity, Amount, Balance, ClientDetails, and Type is changed;</li>
+<li>New attribute, TradeType - Type of trade in foreign currency / digital currency / foreign digital instrument (InstrType=C):, is added to the node RECORDS: 		 
+<ul>
+<li>S - Swap trade.</li>
+<li>T - Buy/sell trade.</li>
+</ul>
+</li>
+<li>A decimal places value (8) is added to the Quantity and Balance field.</li>
+</ul>
+</li>
+<li>In the EQM13 (Report on net liabilities and net claims) report: 	 
+<ul>
+<li>The description of the attributes GuarDepUnitId, SecurityId, and SecShortName is changed;</li>
+<li>New value for the attribute PosType in the node POSTYPES is added: 		 
+<ul>
+<li>D - information on digital currencies / foreign digital instruments.</li>
+</ul>
+</li>
+<li>New value for the attribute DataType in the node RECORDS is added: 		 
+<ul>
+<li>DISCH_OBLIG - Net claim / Net liability terminated as a result of interim clearing settlement sessions.</li>
+</ul>
+</li>
+<li>The number of decimal places in the NettoSum, Debit, and Credit attributes is changed from 2 to 8.</li>
+</ul>
+</li>
+<li>In the EQM23 (Report on obligation under T+ trades) report: 	 
+<ul>
+<li>The description of the attributes GuarDepUnitId, SecurityId, and SecShortName is changed;</li>
+<li>New value for the attribute PosType in the node POSTYPES is added: 		 
+<ul>
+<li>D - information on digital currencies / foreign digital instruments.</li>
+</ul>
+</li>
+<li>The number of decimal places in the Debit and Credit attributes is changed from 2 to 8.</li>
+</ul>
+</li>
+<li>In the EQM84 (Collateral valuation report) report: 	 
+<ul>
+<li>The description of the attributes CurrencyId, CurrencyName, SecurityId, SecShortName, Quantity, LockQuantity, and FreeQuantity is changed;</li>
+<li>The number of decimal places in the Quantity, LockQuantity, and FreeQuantity attributes is changed from 2 to 8.</li>
+</ul>
+</li>
+<li>In the EQM91 (Report on net liabilities that will be terminated) report: 	 
+<ul>
+<li>The description of the attributes CurrencyId, CurrencyName, SecurityId, SecShortName, FixBalanceTime, and Balance is changed;</li>
+<li>The number of decimal places in the Balance, Netto, and UnsecuredLiabilities attributes is changed from 2 to 8.</li>
+</ul>
+</li>
+<li>In the EQM99 (Report on collateral) report: 	 
+<ul>
+<li>The description of the attributes SecurityId and SecShortName is changed;</li>
+<li>New value for the attribute PosType in the node POSTYPES is added: 		 
+<ul>
+<li>D - information on digital currencies / foreign digital instruments.</li>
+</ul>
+</li>
+<li>The number of decimal places in the OpeningBalance, ClosingBalance, DebitSum, CreditSum, NettoSum, Debit, Credit, and Netto attributes is changed from 2 to 8.</li>
+</ul>
+</li>
+</ol>
+<p><br /> Updated specifications for report formats are available on the MOEX website: <a href="https://www.moex.com/en/documents/13900">https://www.moex.com/en/documents/13900</a>.<br /> Schemas and styles for printed report forms are available on the MOEX FTP server: <a href="https://ftp.moex.com/pub/Reports/Equities">https://ftp.moex.com/pub/Reports/Equities</a>.<br /> <br /> The full list of planned changes has been updated: <a href="https://www.moex.com/media/version-2026-4.pdf">https://www.moex.com/media/version-2026-4.pdf</a>.<br /> The document describing technical implementation of digital currency trading in the Securities Market system has been updated: <a href="https://www.moex.com/media/tsifrovye-valyuty-v-sisteme-fondovogo-rynka.pdf">https://www.moex.com/media/tsifrovye-valyuty-v-sisteme-fondovogo-rynka.pdf</a>.</p>
+<table>
+</table>
+]]></content:encoded>
+<pubDate>Wed, 11 Nov 2026 18:17:55 GMT</pubDate>
+<pubDate>Wed, 11 Nov 2026 18:17:55 GMT</pubDate>
+</item>
+<item>
+<title>UK Retail Payments Infrastructure: Moving From Vision To Design − Speech By Victoria Cleland, Bank Of England, Senior Advisor To The Governors, Given At The FTT Fintech Festival, Published On 11 November 2026</title>
+<link>http://www.mondovisione.com/media-and-resources/news/uk-retail-payments-infrastructure-moving-from-vision-to-design-speech-by-vict-20261111/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/uk-retail-payments-infrastructure-moving-from-vision-to-design-speech-by-vict-20261111/</guid>
+<content:encoded><![CDATA[
+
+<div class="hero-paragraph"><span class="hero">The UK&rsquo;s next-generation retail payments infrastructure is being designed to meet evolving needs of the whole ecosystem. It must enable different payment journeys and forms of money and provide a platform for innovation. Victoria Cleland explains how industry inputs are shaping the Blueprint for the new core infrastructure. She also explains why collaboration remains essential, throughout the process.</span></div>
+<div class="hero-paragraph"></div>
+<div class="hero-paragraph"><a class="med-block-cta " href="https://www.bankofengland.co.uk/about/people/victoria-cleland/biography">
+<div class="cta-img"><img height="347" src="https://www.bankofengland.co.uk/-/media/boe/images/people/victoria-cleland/victoria-cleland-left.jpg?h=347&amp;iar=0&amp;mh=347&amp;mw=520&amp;w=350&amp;hash=964DB9E595108BEC0AA5B053A4B54356" width="350" /></div>
+<div class="cta-content">
+<h3>Victoria Cleland</h3>
+<p>Senior Advisor to the Governors</p>
+</div>
+</a></div>
+<div class="hero-paragraph"><span class="hero"><br /></span></div>
+<div class="content-block">
+<div class="page-content page-carousel sc-26ee725704694eb59fc7a3d5ba3e8399">
+<div class="content-block">
+<div class="page-content page-carousel sc-undefined" id="content">
+<div id="output"><section class="page-section">
+<h2>Speech</h2>
+<p>It is a pleasure to join you this morning at the FTT Fintech Festival, with an exciting update on our journey to create a next generation retail payments infrastructure for the UK. And when I say &ldquo;our journey&rdquo;, I do not just mean the Bank of England. I do not just mean the other authorities. I mean everyone in this room, and the whole payments ecosystem. To design and deliver an infrastructure that is well used, trusted and truly valued requires strong collaboration between the public and the private sectors, between incumbents and fintechs, and between providers and users.</p>
+<p>Payments are a key part of all our lives, and the lifeblood of the economy and of the financial system. And we need to keep them relevant in an ever-changing landscape. Technology, about which we are hearing so much at today&rsquo;s Festival, is reshaping how payments are initiated and authorised. And demand is changing, with expectations of speed and functionality increasing as payments respond to our "always on" world.</p>
+<p>So, what is our destination?</p>
+<p>Last year the Payments Vision Delivery Committee (PVDC) <sup><a class="footnote-link" href="https://www.bankofengland.co.uk/speech/2026/november/victoria-cleland-panel-at-the-ftt-fintech-festival-2026-london#footnote-1" id="footnote-ref-1"><span class="visually-hidden">footnote</span>[1]</a></sup> outlined five key outcomes for a next generation infrastructure:</p>
+<ul>
+<li>greater choice of innovative and cost-effective payment options;</li>
+<li>interoperability across a multi-money ecosystem;</li>
+<li>protection from fraud and wider financial crime;</li>
+<li>fair and transparent access that supports competition and innovation; and</li>
+<li>an operationally and financially resilient payments ecosystem.</li>
+</ul>
+<p>Together these will make a real difference for consumers and businesses, enhance resilience and support competition and innovation.</p>
+<p>To help realise this ambition, the Retail Payments Infrastructure Board (RPIB) was established. I chair the RPIB, which brings together a range of industry experts, with the FCA/PSR participating as an observer, to translate these PVDC outcomes into a high-level design for the core clearing and messaging infrastructure. Next Spring the Blueprint will be handed over to the industry led Delivery Company to deliver the new infrastructure.</p>
+<p>We took an important step towards this in June this year when the RPIB issued <a href="https://www.bankofengland.co.uk/paper/2026/cp/rpib-consultation">a public consultation</a> inviting respondents to help shape the design of the new infrastructure. The consultation asked what payment journeys the infrastructure should support; the principles and characteristics that should guide its design; and the role of the core infrastructure as a platform for innovation across the wider payments ecosystem.</p>
+<p>Today, I want to explain what we heard, how that feedback is helping us on our journey from vision to design, and the next steps.</p>
+<h3 class="exclude-navigation">Respondents</h3>
+<p>First, I would like to say an enormous thank you to everyone who contributed to the consultation. I was really encouraged by the diversity of organisations responding and by the insightful feedback in the 121 responses. We received responses from: financial institutions, payment firms, technology firms, merchants, consumers as well as trade bodies, consultants and individuals. This feedback has been supplemented by a variety of roundtables, forums and discussions, with the high level of engagement underlining how important payments are to so many players.</p>
+<p>Feedback demonstrated broad support for the direction of travel, and for moving at pace. Respondents saw the payment journeys, design principles and conceptual architecture as a strong basis for the next stage.</p>
+<p>Of course, broad support does not mean that every detail has been agreed and every question has been answered. Important choices remain: where the boundary of the core should sit, how interoperability should work in practice, and how migration should be managed safely. But we have strong buy-in for the overall destination and we know the big questions that need to be addressed.</p>
+<h3 class="exclude-navigation">From feedback to design</h3>
+<p>I cannot do justice to all of the feedback this morning - there is far more detail in our published <a href="https://www.bankofengland.co.uk/paper/2026/cp/response-to-the-rpib-consultation">consultation response</a> - but I would like to focus on a few of the key points that will be front of my mind as we move into the co-creation phase.</p>
+<p>There was strong support for the proposed payment journeys: both the existing journeys and the new and emerging journeys including A2A at point of sale, payments between different forms of money, instant payments using aliases, advanced delegated payments, programmable and deferred payments. This endorsement was very good news, as ultimately payments need to meet users&rsquo; needs. And importantly the new infrastructure will enable not just different types of payments but also different types of money, with a core infrastructure that can support many different products. I sometimes refer to this as being able to plug and play products, be they faster payments, stablecoins, programmable payments and much more, into an infrastructure that supports future developments such as those being discussed at the Festival today.</p>
+<p>Interoperability between these different forms of money, allowing a payer to initiate a payment in one form of money and a payee to receive it in another form of money frictionlessly and at par, was welcomed. This will be a crucial feature of the new infrastructure and will greatly enhance choice for consumers and scope for Fintechs to develop new solutions.</p>
+<p>An ecosystem that prevents fraud and financial crime was a priority for respondents. While some features will be included in layers above the core, it is essential that the new infrastructure can support and enable effective controls across the ecosystem. They need to be designed in from the start.</p>
+<p>Respondents were supportive of a &lsquo;layered&rsquo; architecture <sup><a class="footnote-link" href="https://www.bankofengland.co.uk/speech/2026/november/victoria-cleland-panel-at-the-ftt-fintech-festival-2026-london#footnote-2" id="footnote-ref-2"><span class="visually-hidden">footnote</span>[2]</a></sup> for the wider payments ecosystem where the core infrastructure can act as a platform for innovation. They also welcomed the proposed modular and extensible approach, <sup><a class="footnote-link" href="https://www.bankofengland.co.uk/speech/2026/november/victoria-cleland-panel-at-the-ftt-fintech-festival-2026-london#footnote-3" id="footnote-ref-3"><span class="visually-hidden">footnote</span>[3]</a></sup> designed around common capabilities, rather than around each product in isolation. This should support existing payment journeys and provide a foundation to enable new products and forms of money to be included in the future. And extensibility will be key as the new infrastructure will need to be able to scale as payment volumes grow.</p>
+<p>As we reflect on these responses, we will be considering that there was a preference for a relatively thin core, <sup><a class="footnote-link" href="https://www.bankofengland.co.uk/speech/2026/november/victoria-cleland-panel-at-the-ftt-fintech-festival-2026-london#footnote-4" id="footnote-ref-4"><span class="visually-hidden">footnote</span>[4]</a></sup> that is the element that will be common to all products. <a id="_Int_usAAgy1s"></a>However, there was a range of views as to precisely how thin the core should be, and where certain capabilities should sit. Respondents placed varying levels of emphasis on the role shared services and common capabilities should play, and whether these should sit within the core.</p>
+<p>There was little disagreement though on the crucial importance of security, resilience and cyber security, in particular, in the context of AI and developments in frontier technologies. Respondents emphasised secure, resilient, and adaptable infrastructure, with sufficient flexibility to support future requirements. We envisage a system that will be designed to exacting levels of operational resilience. And the core infrastructure will connect to the Bank&rsquo;s RTGS service for settlement in central bank money, supporting confidence and financial stability by providing a safe and final means of settlement.</p>
+<p>Respondents highlighted common messaging, interfaces and technical standards as important foundations for the new infrastructure. And these, together with ISO20022 messaging, a consistent implementation of standards, and strong governance would be important to support interoperability in its broadest sense.</p>
+<p>There were many comments emphasising the importance of a smooth and safe transition to the next generation infrastructure. Planning the transition will be crucial and will need to draw on the input from many players, but it can only be planned once we have a clearer idea of what is being built and hence what is being transitioned to.</p>
+<h3 class="exclude-navigation">The core infrastructure is only part of the ecosystem</h3>
+<p>The next-generation infrastructure will be a critical layer of the UK retail payments ecosystem. But it is only one layer. It cannot deliver successful payment journeys on its own. Product and scheme arrangements, payment services providers, consumer protection, liability, merchant acceptance, commercial incentives, financial inclusion and access will all need to develop alongside the core. For the core we need to ensure that it can enable what is needed in the product layers that sit above it. And there is also a strong complementary role for the payments industry and financial institutions to leverage the core infrastructure to develop their product offerings to provide open, transparent and accessible payments. This an exciting opportunity to innovate, for all types of customers including the most vulnerable.</p>
+<p>The PVDC set out its thinking on this wider picture in its July 2026 <a href="https://www.gov.uk/government/publications/national-payments-vision/payments-vision-delivery-committee-update-roles-and-responsibilities-in-the-future-retail-payments-ecosystem" rel="noopener noreferrer" target="_blank">update on Roles and Responsibilities in the future Retail Payments Ecosystem<span class="visually-hidden">Opens in a new window</span><span class="icon-external">&nbsp;</span></a>. It is important now that the industry maintains momentum and stays focused, with Pay.UK continuing its vital role as Payment System Operator of the current systems, and the Delivery Company preparing to take forward the Blueprint for the next generation infrastructure.</p>
+<h3 class="exclude-navigation">What happens next</h3>
+<p>The valuable consultation responses, combined with insightful feedback from wider engagement, provide a strong foundation from which to develop the Blueprint for the next-generation infrastructure. This will set out the high-level design proposals to enable the Delivery Company to take forward the detailed design and delivery of the core.</p>
+<p>We are now entering a period of co-creation, bringing together public and private sector expertise. This will enable the golden thread of public policy objectives to run through a design, with industry helping to shape the requirements in a way that will enable them to operate effectively. RPIB, the Design Authority, representatives from the Delivery Company, and industry experts will work together and incorporate feedback from this and our future outreach activities.</p>
+<p>The Blueprint will then be handed over to the Delivery Company in Spring 2027, so that they can take forward detailed design, procurement, build and implementation. Ongoing public and private sector engagement will be important in ensuring that the design supports delivery of RPIB&rsquo;s vision for the new infrastructure and can adapt to the changing technological and demand landscape.</p>
+<p>This work does not mean that other innovation should stop and wait. We want it to continue, and we look forward to working with innovators so that it can align with the overall vision.</p>
+<p>This is an exciting journey, and we need to keep up momentum. Our destination is a core infrastructure that enables: greater choice, more innovation, and a payments ecosystem that is operationally and financially resilient. The feedback from the consultation has added more detail to our map. And we have a route from high-level design to industry led delivery. I would encourage everyone to move in the same direction together, to point out safe short cuts, and to encourage other passengers to join along the way. The destination is one where we can all thrive.</p>
+<p>I would like to thank Katie Britton and Sofia Edrihen Ruiz for helping with the preparation of these remarks.</p>
+<div class="footnotes-container"><ol>
+<li id="footnote-1">
+<p>On 7 November 2025, the PVDC published its strategic outcomes for the future UK retail payments infrastructure, building on the ambitions set out in the government&rsquo;s National Payments Vision.</p>
+</li>
+<li id="footnote-2">
+<p>Layered models are commonly used to represent complex payment systems and are not specific to this work.</p>
+</li>
+<li id="footnote-3">
+<p>Modular and extensible approach &ndash; designing the core infrastructure as a combination of discrete, self-contained components that can be upgraded independently over time, while allowing new functionality and capabilities to be added without requiring fundamental redesign or replacement of the entire core.</p>
+</li>
+<li id="footnote-4">
+<p>Thin core &ndash; a core that operates core messaging, clearing, shared services, and settlement coordination services while leaving sufficient room for private sector innovation and competition.</p>
+</li>
+</ol></div>
+</section></div>
+</div>
+</div>
+</div>
+</div>
+]]></content:encoded>
+<pubDate>Wed, 11 Nov 2026 17:58:03 GMT</pubDate>
+<pubDate>Wed, 11 Nov 2026 17:58:03 GMT</pubDate>
+</item>
+<item>
+<title>Policy paper: Joint EU-UK Financial Regulatory Forum - November 2026</title>
+<link>http://www.mondovisione.com/media-and-resources/news/policy-paper-joint-eu-uk-financial-regulatory-forum-november-2026-20261111/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/policy-paper-joint-eu-uk-financial-regulatory-forum-november-2026-20261111/</guid>
+<content:encoded><![CDATA[
+
+<p>The sixth meeting of the Joint EU-UK Financial Regulatory Forum (the Forum) between the European Union (EU) and the United Kingdom of Great Britain and Northern Ireland (UK) took place in Brussels on 10 November 2026.</p>
+<p>The meeting was co-chaired by the Director General of the European Commission&rsquo;s Directorate-General for Financial Stability, Financial Services and Capital Markets Union (DG FISMA) and the Director General for Financial Services at HM Treasury (HMT). Participants also attended from the European Central Bank (ECB), the European Supervisory Authorities (EBA, ESMA, EIOPA), the EU Single Resolution Board (SRB), the Bank of England (BoE) and the Financial Conduct Authority (FCA). &nbsp;</p>
+<p>Building on their shared objectives of safeguarding financial stability, ensuring market integrity, and protecting investors and consumers, the EU and the UK reaffirmed the value of a strong and structured dialogue to support cooperation on financial services and regulatory matters. Both sides welcomed recent technical exchanges and reaffirmed their commitment to take forward cooperation on emerging challenges including the green and digital transitions and to reduce burdens for firms on transaction reporting. Beyond the Forum, both sides also noted the importance of continued cooperation in other areas, such as anti-money laundering and sanctions.</p>
+<p>The Forum agenda covered six broad themes of mutual interest: (i) the macroeconomic and financial stability outlook; (ii) the policy outlook; (iii) banking and insurance; (iv) digital finance; (v) markets reform; and (vi) sustainable finance. &nbsp;</p>
+<p>Participants exchanged views on the macroeconomic and financial stability outlook. While the EU and UK financial sectors remain resilient, global uncertainty remains elevated. Both sides noted evolving cyber and operational risks including Artificial Intelligence (AI) and emphasised the importance of continued engagement. Participants discussed the 2027 Financial Stability Board (FSB) work programme, and the UK provided an update on planning for its 2027 G20 Presidency. Both parties reaffirmed their commitment to cooperation and dialogue in multilateral fora, welcomed the opportunity to continue that cooperation under the UK&rsquo;s G20 Presidency, and agreed that maintaining high standards of financial regulation is essential to safeguarding financial stability and market integrity and ensuring an international level playing field</p>
+<p>Participants exchanged views on their respective policy priorities to support economic growth and competitiveness while maintaining resilience. The European Commission provided an update on the implementation of the Savings and Investments Union (SIU) strategy, including the Market Integration and Supervision Package. This package is a key pillar of the SIU and the EU&rsquo;s wider competitiveness agenda, aiming to eliminate barriers to integrated capital markets. The UK provided an update on the implementation of the Financial Services Growth and Competitiveness Strategy and the Financial Services and Markets Bill.</p>
+<p>The EU and the UK exchanged views on developments in their respective banking sectors and prudential frameworks. The EU highlighted the adoption, in July 2026, of its Communication on the competitiveness of the EU banking sector, another key pillar of the SIU strategy, and noted the intention to present a legislative package in early 2027. Both sides also reflected on reforms to their respective securitisation frameworks, with the Commission noting the recent political agreement reached between the Parliament and the Council on the review of the EU Securitisation Framework. Both sides also exchanged views on the implementation of Basel standards. They noted the importance of maintaining robust regulatory standards and of preserving banking sector resilience to support economic growth, as well as frameworks that are forward-looking and supportive of innovation and evolution in the financial system.</p>
+<p>The parties also exchanged views on the importance of effective cross-border resolution frameworks. Both sides welcomed continued cooperation in international fora, including the FSB, to support the operationalisation of open bank bail-in.</p>
+<p>Participants held a discussion on structural shifts in the insurance sector and the appropriate regulatory responses.&nbsp;</p>
+<p>The EU and the UK exchanged views on recent developments in digital innovation in the financial sector including the opportunities and risks associated with AI, stablecoins, cryptoassets and broader tokenisation in financial markets. Participants noted the potential that digital finance has to drive innovation, improve market efficiency and strengthen the competitiveness of the UK and EU economies. Recognising the common policy challenges, both sides committed to continue exchanges on the digital transition including on digital assets. The EU and the UK will also continue to cooperate closely in multilateral fora with a view to supporting digital innovation while addressing risks to financial stability, market integrity and consumer protection.</p>
+<p>The EU and the UK welcomed the positive recent exchanges on transaction reporting and consolidated tape and committed to continue engagement to explore opportunities for future cooperation. On accelerated settlement (T+1), while acknowledging that each jurisdiction is following its own independent implementation processes, the EU and UK agreed to continue to maintain close coordination as work progresses towards the implementation date of 11 October 2027.</p>
+<p>The European Commission provided an update on efforts to enhance the competitiveness of EU venture capital and growth capital fund managers, including by enabling them to operate more efficiently across the EU single market and achieve greater scale. The UK noted progress on its reforms to its Alternative Investment Fund Managers Regulations (AIFMR). Alongside this, participants discussed their respective workstreams relating to fund reporting frameworks. Moreover, participants exchanged views on ongoing efforts to strengthen Money Market Funds&rsquo; (MMFs) resilience and welcomed the close and constructive cooperation between EU and UK authorities in this area. The UK also updated participants on progress regarding the extension of the Temporary Marketing Permissions Regime (TMPR), confirming that there will be no cliff-edge for EU MMFs, as well as on the next steps for their recognition under the Overseas Funds Regime (OFR) to establish a longer-term solution on market access. &nbsp;</p>
+<p>Participants also exchanged views on private markets, including potential vulnerabilities, as well as ongoing work in both jurisdictions to assess risks in market-based finance. Participants recognised the role transparency can play in strengthening market participants and authorities&rsquo; ability to monitor vulnerabilities and manage risks in the non-bank financial intermediation (NBFI) sector. Both the EU and UK remain engaged within international fora to promote more analytical work and data sharing on private markets. The European Commission provided an update on ongoing work on private credit markets and the recent call for advice to the ESAs. The Bank of England gave an update on the ongoing system-wide exploratory scenario on private markets.&nbsp;</p>
+<p>Participants recognised the role of sustainable finance in mobilising private investment to support the transition towards more sustainable, competitive and resilient economies. In this context, participants exchanged updates on developments in sustainable finance in their respective jurisdictions and discussed a range of common policy priorities including sustainability disclosures for financial products, sustainability reporting standards, and transition finance. Both sides welcomed positive recent exchanges and committed to continue engagement on the green transition. &nbsp;The EU and UK also reaffirmed their support for continued dialogue and cooperation on sustainable finance at international levels.</p>
+<p>The EU and the UK underlined the importance of continued engagement on issues of common interest, reflecting the interlinkages between the EU and UK financial sectors, and agreed to remain in contact ahead of the next meeting of the Forum.</p>
+]]></content:encoded>
+<pubDate>Wed, 11 Nov 2026 18:23:56 GMT</pubDate>
+<pubDate>Wed, 11 Nov 2026 18:23:56 GMT</pubDate>
+</item>
+<item>
+<title>Principals And Agents – Speech By Jonathan Hall, Bank Of England, External Member Of The Financial Policy Committee, Given At CFM-Imperial Workshop On Quantitative Finance (Hosted By Deutsche Bank)</title>
+<link>http://www.mondovisione.com/media-and-resources/news/principals-and-agents-speech-by-jonathan-hall-bank-of-england-external-membe-20261111/</link>
+<guid>http://www.mondovisione.com/media-and-resources/news/principals-and-agents-speech-by-jonathan-hall-bank-of-england-external-membe-20261111/</guid>
+<content:encoded><![CDATA[
+
+<div class="hero-paragraph"><span class="hero">
+<p>In his final speech as an external member of the Financial Policy Committee, Jon Hall considers the growing use of AI agents in finance and the potential implications for financial stability. Drawing on principal-agent theory and the Bank of England&rsquo;s own institutional framework, he discusses how access controls, monitoring and other safeguards could help manage the risks as AI agents become more capable.</p>
+<a class="med-block-cta " href="https://www.bankofengland.co.uk/about/people/jonathan-hall/biography"> </a>
+<div class="cta-img"><a class="med-block-cta " href="https://www.bankofengland.co.uk/about/people/jonathan-hall/biography"><img height="347" src="https://www.bankofengland.co.uk/-/media/boe/images/people/jonathan-hall/jonathan-hall-front.jpg?h=347&amp;iar=0&amp;mh=347&amp;mw=520&amp;w=350&amp;hash=6371707B4A7EAADC5AFA90ABE1859821" title="Jonathan Hall" width="350" /></a></div>
+<div class="cta-content">
+<h3><a class="med-block-cta " href="https://www.bankofengland.co.uk/about/people/jonathan-hall/biography">Jonathan Hall</a></h3>
+<p><a class="med-block-cta " href="https://www.bankofengland.co.uk/about/people/jonathan-hall/biography">External member of the Financial Policy Committee</a></p>
+</div>
+</span></div>
+<div class="content-block">
+<div class="page-content page-carousel sc-bc05493705604fd49e2f6692decd421b">
+<div class="content-block">
+<div class="page-content page-carousel sc-undefined" id="content">
+<div id="output">
+<h2 class="exclude-navigation">Speech</h2>
+<p>This will be my final speech as a member of the Bank of England&rsquo;s Financial Policy Committee (&ldquo;FPC&rdquo;). Naturally, that makes me want to reflect on the lessons learned whilst working as a public servant at the Bank. But I also want to look forward and discuss one of the challenges the FPC is likely to face in the years ahead &ndash; the growing use of AI agents in finance.&nbsp;</p>
+<p>Fortunately, I can do both, as there is a common denominator: the Bank and an AI agent are both delegates in a principal-agent relationship. The Bank of England provides not only proof that delegating authority to powerful agents is not a new issue, but also a framework for how to ensure an &ldquo;agent&rdquo; remains transparent, accountable and subject to appropriate constraints.</p>
+<p>Of course, AI adoption also brings new challenges, not least the speed and scale at which agents can act and interact. Some guardrails will need to evolve. But by managing risk through both top-down supervision and bottom-up model control, our regulatory framework should be resilient to the adoption of AI technologies.</p>
+<p>My remarks will focus mainly on how to mitigate the risks of misalignment between principal and agent as AI becomes more capable. There is, of course, another possible future in which those capabilities fall significantly short of current expectations. That might bring a different set of financial stability risks, particularly given the degree of optimism reflected in market prices. That is a live market issue but not my focus today.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p>Click <a href="https://www.bankofengland.co.uk/speech/2026/november/jon-hall-speech-at-cf-imperial-workshop" title="here">here</a> for full details.</p>
+]]></content:encoded>
+<pubDate>Wed, 11 Nov 2026 17:38:04 GMT</pubDate>
+<pubDate>Wed, 11 Nov 2026 17:38:04 GMT</pubDate>
+</item>
+
+<item>
 <title>UK Government Guidance - Money Laundering Advisory Notice - October 2026 - HM Treasury Advisory Notice: Changes To The Financial Action Task Force’s Public Lists</title>
 <link>http://www.mondovisione.com/media-and-resources/news/uk-government-guidance-money-laundering-advisory-notice-october-2026-hm-tr-20261111/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/uk-government-guidance-money-laundering-advisory-notice-october-2026-hm-tr-20261111/</guid>
 <content:encoded><![CDATA[
-
 <p>The Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 (&ldquo;the MLRs&rdquo;) require the UK regulated sector to apply enhanced customer due diligence in relation to countries identified as high-risk jurisdictions by the Financial Action Task Force (FATF). This obligation is in addition to the requirement to apply enhanced customer due diligence where there is an assessed high risk of money laundering or terrorist financing, including geographic risk based on credible sources (for example the UK&rsquo;s National Risk Assessment).</p>
 <p>Regulation 33(1)(b) of the MLRs requires regulated businesses (&ldquo;relevant persons&rdquo;) to apply enhanced customer due diligence measures and enhanced ongoing monitoring in any business relationships with a person established in a FATF call for action country or in relation to any relevant transaction where either of the parties to the transaction is established in a FATF call for action country, where a FATF call for action country is defined as a country named on the FATF&rsquo;s list of &ldquo;High-Risk Jurisdictions subject to a Call to Action&rdquo;.</p>
 <p>For these purposes, regulation 33(3) explains that:</p>
@@ -85,20 +367,17 @@
 <p>6. <a href="https://www.gov.uk/government/policy-teams/anti-money-laundering-and-counter-financing-of-terrorism">Further information about what HM Treasury is doing to combat financial crime, and how to subscribe to financial crime alerts.</a></p>
 ]]></content:encoded>
 <pubDate>Wed, 11 Nov 2026 12:38:36 GMT</pubDate>
-<pubDate>Wed, 11 Nov 2026 12:38:36 GMT</pubDate>
 </item>
 <item>
 <title>CME Group Sets New Volume Record In Lean Hog Futures And Options</title>
 <link>http://www.mondovisione.com/media-and-resources/news/cme-group-sets-new-volume-record-in-lean-hog-futures-and-options-20261111/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/cme-group-sets-new-volume-record-in-lean-hog-futures-and-options-20261111/</guid>
 <content:encoded><![CDATA[
-
 <p>CME Group, the world's leading derivatives marketplace, today announced that its Lean Hog futures and options reached a new daily volume record of 209,363 contracts on November 9, 2026, surpassing the previous record of 204,948 contracts traded on November 10, 2025.&nbsp;</p>
 <p>"Steady supply and contracting demand have pushed Lean Hog prices to six-year lows, and market participants are turning to CME Group in record numbers to manage their risk," said John Ricci, Global Head of Agricultural Products at CME Group. "This price volatility is another example of why we remain focused on equipping clients with precise hedging tools to manage their risk in any market environment."&nbsp;</p>
 <p>In addition, CME Group's Livestock options reached a new daily volume record for options on November 5, 2026, with 136,923 contracts.</p>
 <p>For more information on CME Group Hog futures and options, please visit <a href="https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4819974-1&amp;h=1703518641&amp;u=https%3A%2F%2Fwww.cmegroup.com%2Fmarkets%2Fagriculture%2Flivestock%2Flean-hogs&amp;a=here" rel="nofollow" target="_blank">here</a>.&nbsp;</p>
 ]]></content:encoded>
-<pubDate>Wed, 11 Nov 2026 12:19:24 GMT</pubDate>
 <pubDate>Wed, 11 Nov 2026 12:19:24 GMT</pubDate>
 </item>
 <item>
@@ -106,7 +385,6 @@
 <link>http://www.mondovisione.com/media-and-resources/news/adi-foundation-and-the-vault-partner-to-strengthen-institutional-custody-technol-20261111/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/adi-foundation-and-the-vault-partner-to-strengthen-institutional-custody-technol-20261111/</guid>
 <content:encoded><![CDATA[
-
 <ul>
 <li><i>The Vault will bring its multi-party computation custody technology to ADI Chain and lead joint research into quantum-resistant security, as tokenized real-world assets reach a record US$32.1 billion globally.</i></li>
 </ul>
@@ -123,14 +401,12 @@
 <p>The organizations plan to establish a joint working group to define the custody integration timeline and post-quantum research roadmap, with further milestones to be announced as the collaboration progresses.</p>
 ]]></content:encoded>
 <pubDate>Wed, 11 Nov 2026 12:04:57 GMT</pubDate>
-<pubDate>Wed, 11 Nov 2026 12:04:57 GMT</pubDate>
 </item>
 <item>
 <title>FSB Recommends Türkiye Further Strengthens Its Regulatory Framework For Crypto-Assets And Stablecoins</title>
 <link>http://www.mondovisione.com/media-and-resources/news/fsb-recommends-trkiye-further-strengthens-its-regulatory-framework-for-crypto-a-20261111/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/fsb-recommends-trkiye-further-strengthens-its-regulatory-framework-for-crypto-a-20261111/</guid>
 <content:encoded><![CDATA[
-
 <ul class="wp-block-list">
 <li><span>Peer review finds Turkish authorities have made meaningful progress in enhancing the regulation, supervision and oversight of crypto-assets.</span></li>
 <li><span>Further steps are warranted to reinforce T&uuml;rkiye&rsquo;s framework and improve alignment with the FSB Global Regulatory Framework for Crypto-asset Activities.</span></li>
@@ -152,14 +428,12 @@
 <p>Peer review assesses T&uuml;rkiye&rsquo;s progress in implementing the FSB recommendations for the regulation and supervision of crypto-asset activities, including stablecoins.</p>
 ]]></content:encoded>
 <pubDate>Wed, 11 Nov 2026 10:24:58 GMT</pubDate>
-<pubDate>Wed, 11 Nov 2026 10:24:58 GMT</pubDate>
 </item>
 <item>
 <title>This Morning, Representatives Of The Hedge Fund Association (IHFA) Opened Trading On The Tel Aviv Stock Exchange</title>
 <link>http://www.mondovisione.com/media-and-resources/news/this-morning-representatives-of-the-hedge-fund-association-ihfa-opened-tradin-20261111/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/this-morning-representatives-of-the-hedge-fund-association-ihfa-opened-tradin-20261111/</guid>
 <content:encoded><![CDATA[
-
 <p>This morning (November 11, 2026), the CEO and board members of the Israel Hedge Fund Association (IHFA) opened trading on the Tel Aviv Stock Exchange (TASE) in a opening&nbsp; bell ceremony marking the the Association's 13th Annual International Conference.</p>
 <p>More than 100 hedge fund managers from Israel and abroad attended the ceremony, including CEOs and founders of some of the largest and most influential hedge funds in the world. Their participation reflects the importance of the linkage between the Israeli investment industry and the international financial community. Alongside senior industry figures, new immigrants from the investment field who chose to join the Israeli industry also took part.</p>
 <p>The ceremony was accompanied by <strong>Agam Berger, a former hostage in captivity</strong>, playing the violin in a moving moment that carried a message of unity, hope and faith in a better future.</p>
@@ -175,14 +449,12 @@
 <p>Credit: Erez Uzir, free of charge.</p>
 ]]></content:encoded>
 <pubDate>Wed, 11 Nov 2026 12:59:55 GMT</pubDate>
-<pubDate>Wed, 11 Nov 2026 12:59:55 GMT</pubDate>
 </item>
 <item>
 <title>Western Exchanges Surge As Emerging Market Venues Slump In October: FTSE Mondo Visione Index</title>
 <link>http://www.mondovisione.com/media-and-resources/news/western-exchanges-surge-as-emerging-market-venues-slump-in-october-ftse-mondo-v-20261111/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/western-exchanges-surge-as-emerging-market-venues-slump-in-october-ftse-mondo-v-20261111/</guid>
 <content:encoded><![CDATA[
-
 <p>Global exchange stocks split sharply in October 2026, with performance determined by geographic footprint and asset specialisation, according to the FTSE Mondo Visione Exchanges Index.</p>
 <h4>Western exchanges lead</h4>
 <ul>
@@ -1476,14 +1748,12 @@
 <p>The FTSE Mondo Visione Exchanges Index is compiled by FTSE Group from data based on the share price performance of listed exchanges and trading platforms.</p>
 ]]></content:encoded>
 <pubDate>Wed, 11 Nov 2026 09:42:06 GMT</pubDate>
-<pubDate>Wed, 11 Nov 2026 09:42:06 GMT</pubDate>
 </item>
 <item>
 <title>DIP Holding Debuts On DFM As The UAE’s First IPO For 2026</title>
 <link>http://www.mondovisione.com/media-and-resources/news/dip-holding-debuts-on-dfm-as-the-uaes-first-ipo-for-2026-20261111/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/dip-holding-debuts-on-dfm-as-the-uaes-first-ipo-for-2026-20261111/</guid>
 <content:encoded><![CDATA[
-
 <ul>
 <li><i>The IPO attracted strong demand from local, regional and international investors.</i></li>
 <li><i>The offering raised AED 1.9 billion (USD 529 million), implying a market capitalisation of AED 9.7 billion (USD 2.6 billion) at listing, with shares priced at AED 1.12 per share.</i></li>
@@ -1501,14 +1771,12 @@
 <p>The Company&rsquo;s shares commenced trading today under the ticker symbol &ldquo;DIP&rdquo; and ISIN &ldquo;AEE02089D257&rdquo;. The listing comes amid a period of increased trading activity and continued institutional participation in Dubai&rsquo;s capital markets. As of September 2026, total market capitalisation on DFM stood at AED 993 billion. Total traded value increased by 22% year-on-year to AED 162 billion during the first nine months of 2026, while average daily traded value rose by 25% to AED 883 million.</p>
 ]]></content:encoded>
 <pubDate>Wed, 11 Nov 2026 09:51:23 GMT</pubDate>
-<pubDate>Wed, 11 Nov 2026 09:51:23 GMT</pubDate>
 </item>
 <item>
 <title>Deutsche Börse Group Offers 24/7 Global Trading For Tokenized DAX 40 Equities On 360X</title>
 <link>http://www.mondovisione.com/media-and-resources/news/deutsche-brse-group-offers-247-global-trading-for-tokenized-dax-40-equities-on-20261111/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/deutsche-brse-group-offers-247-global-trading-for-tokenized-dax-40-equities-on-20261111/</guid>
 <content:encoded><![CDATA[
-
 <div class="row-with-description ">
 <div class="text-highlight">
 <ul class="rte--list">
@@ -1545,14 +1813,12 @@
 </div>
 ]]></content:encoded>
 <pubDate>Wed, 11 Nov 2026 09:47:40 GMT</pubDate>
-<pubDate>Wed, 11 Nov 2026 09:47:40 GMT</pubDate>
 </item>
 <item>
 <title>Sharegain’s Keren Halperin Re-Elected To ISLA Board</title>
 <link>http://www.mondovisione.com/media-and-resources/news/sharegains-keren-halperin-re-elected-to-isla-board-20261111/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/sharegains-keren-halperin-re-elected-to-isla-board-20261111/</guid>
 <content:encoded><![CDATA[
-
 <p><a class="safe---anchor---wc" href="https://sharegain.com/" rel="noopener noreferrer nofollow" target="_blank">Sharegain</a>, the global leader in securities lending for retail-facing financial institutions, today announced that Deputy CEO Keren Halperin &nbsp;has been re-elected to the Board of Directors of the <a class="safe---anchor---wc" href="https://www.islaemea.org/" rel="noopener noreferrer nofollow" target="_blank">International Securities Lending Association (ISLA)</a> for a second consecutive term.</p>
 <p>For over 20 years, Keren&rsquo;s career has been rooted in capital markets, as a trader at a</p>
 <p>pioneering algo-trading firm, later as a regulator in the legal department of a major stock exchange, and for the past decade, Deputy CEO of Sharegain. Keren&rsquo;s re-appointment is a recognition of this unique blend of experience and the broad perspective it has given her on the securities lending market.</p>
@@ -1564,20 +1830,16 @@
 <p>&ldquo;I would like to thank ISLA&rsquo;s members for their continued trust. It&rsquo;s a privilege to serve alongside such a talented and committed Board.&rdquo;</p>
 ]]></content:encoded>
 <pubDate>Wed, 11 Nov 2026 08:09:01 GMT</pubDate>
-<pubDate>Wed, 11 Nov 2026 08:09:01 GMT</pubDate>
 </item>
 <item>
 <title>Montréal Exchange Interest Rate Derivative Market Closed Today, November 11, 2026</title>
 <link>http://www.mondovisione.com/media-and-resources/news/montral-exchange-interest-rate-derivative-market-closed-today-november-11-202-20261111/</link>
 <guid>http://www.mondovisione.com/media-and-resources/news/montral-exchange-interest-rate-derivative-market-closed-today-november-11-202-20261111/</guid>
 <content:encoded><![CDATA[
-
 <p><span>The interest rate derivative market is closed today, November 11, 2026.</span></p>
 ]]></content:encoded>
 <pubDate>Wed, 11 Nov 2026 05:51:29 GMT</pubDate>
-<pubDate>Wed, 11 Nov 2026 05:51:29 GMT</pubDate>
 </item>
-
 <item>
 <title>Nasdaq Announces End-Of-Month Open Short Interest Positions In Nasdaq Stocks As Of Settlement Date October 30, 2026</title>
 <link>http://www.mondovisione.com/media-and-resources/news/nasdaq-announces-end-of-month-open-short-interest-positions-in-nasdaq-stocks-as-20261110/</link>
