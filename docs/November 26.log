@@ -358,3 +358,29 @@ Existing_entries: 102
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-11-11 05:29:59.619243
+------------------------------------------------------
+Started: 2026-11-11 13:51:56.656779
+Existing_entries: 102
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Client.__init__() got an unexpected keyword argument 'proxies'
+Append: [UK Government Guidance - Money Laundering Advisory Notice - October 2026 - HM Treasury Advisory Notice: Changes To The Financial Action Task Force’s Public Lists](http://www.mondovisione.com/media-and-resources/news/uk-government-guidance-money-laundering-advisory-notice-october-2026-hm-tr-20261111/)
+Summarization failed, append the original article
+error: Client.__init__() got an unexpected keyword argument 'proxies'
+Append: [CME Group Sets New Volume Record In Lean Hog Futures And Options](http://www.mondovisione.com/media-and-resources/news/cme-group-sets-new-volume-record-in-lean-hog-futures-and-options-20261111/)
+Summarization failed, append the original article
+error: Client.__init__() got an unexpected keyword argument 'proxies'
+Append: [ADI Foundation And The Vault Partner To Strengthen Institutional Custody Technology And Advance Post-Quantum Security On ADI Chain](http://www.mondovisione.com/media-and-resources/news/adi-foundation-and-the-vault-partner-to-strengthen-institutional-custody-technol-20261111/)
+Summarization failed, append the original article
+error: Client.__init__() got an unexpected keyword argument 'proxies'
+Append: [FSB Recommends Türkiye Further Strengthens Its Regulatory Framework For Crypto-Assets And Stablecoins](http://www.mondovisione.com/media-and-resources/news/fsb-recommends-trkiye-further-strengthens-its-regulatory-framework-for-crypto-a-20261111/)
+Summarization failed, append the original article
+error: Client.__init__() got an unexpected keyword argument 'proxies'
+Append: [This Morning, Representatives Of The Hedge Fund Association (IHFA) Opened Trading On The Tel Aviv Stock Exchange](http://www.mondovisione.com/media-and-resources/news/this-morning-representatives-of-the-hedge-fund-association-ihfa-opened-tradin-20261111/)
+Append: [Western Exchanges Surge As Emerging Market Venues Slump In October: FTSE Mondo Visione Index](http://www.mondovisione.com/media-and-resources/news/western-exchanges-surge-as-emerging-market-venues-slump-in-october-ftse-mondo-v-20261111/)
+Append: [DIP Holding Debuts On DFM As The UAE’s First IPO For 2026](http://www.mondovisione.com/media-and-resources/news/dip-holding-debuts-on-dfm-as-the-uaes-first-ipo-for-2026-20261111/)
+Append: [Deutsche Börse Group Offers 24/7 Global Trading For Tokenized DAX 40 Equities On 360X](http://www.mondovisione.com/media-and-resources/news/deutsche-brse-group-offers-247-global-trading-for-tokenized-dax-40-equities-on-20261111/)
+Append: [Sharegain’s Keren Halperin Re-Elected To ISLA Board](http://www.mondovisione.com/media-and-resources/news/sharegains-keren-halperin-re-elected-to-isla-board-20261111/)
+Append: [Montréal Exchange Interest Rate Derivative Market Closed Today, November 11, 2026](http://www.mondovisione.com/media-and-resources/news/montral-exchange-interest-rate-derivative-market-closed-today-november-11-202-20261111/)
+append_entries: 10
+Finish: 2026-11-11 13:51:57.779680
