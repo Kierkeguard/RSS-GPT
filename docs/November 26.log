@@ -408,3 +408,29 @@ Existing_entries: 116
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-11-12 02:46:13.925737
+------------------------------------------------------
+Started: 2026-11-12 12:24:19.380447
+Existing_entries: 116
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Client.__init__() got an unexpected keyword argument 'proxies'
+Append: [UK Financial Conduct Authority Proposes Greater Pension Investment Flexibility To Support Long-Term Value For Savers](http://www.mondovisione.com/media-and-resources/news/uk-financial-conduct-authority-proposes-greater-pension-investment-flexibility-t-20261112/)
+Summarization failed, append the original article
+error: Client.__init__() got an unexpected keyword argument 'proxies'
+Append: [76% Of Quant Finance Professionals Say Skills Gap Is Widening As AI Reshapes Quant Roles - More Than Half Of Professionals Say Hiring Quant Talent Is Difficult As AI Expands Job Demands Across Finance, According To A New CQF Institute Survey](http://www.mondovisione.com/media-and-resources/news/76-of-quant-finance-professionals-say-skills-gap-is-widening-as-ai-reshapes-qua-20261112/)
+Summarization failed, append the original article
+error: Client.__init__() got an unexpected keyword argument 'proxies'
+Append: [Exchange Data International Partners With Tallarium To Offer Real-Time OTC Energy Forward Curve Data](http://www.mondovisione.com/media-and-resources/news/exchange-data-international-partners-with-tallarium-to-offer-real-time-otc-energ-20261112/)
+Summarization failed, append the original article
+error: Client.__init__() got an unexpected keyword argument 'proxies'
+Append: [Helio Intelligence Appoints Andrew Rashbass As Chair](http://www.mondovisione.com/media-and-resources/news/helio-intelligence-appoints-andrew-rashbass-as-chair-20261112/)
+Summarization failed, append the original article
+error: Client.__init__() got an unexpected keyword argument 'proxies'
+Append: [Fourthline Expands Into Luxembourg With Banque Internationale à Luxembourg (BIL) As New Business Partner For Its Identity Verification Solution](http://www.mondovisione.com/media-and-resources/news/fourthline-expands-into-luxembourg-with-banque-internationale-luxembourg-bil-20261112/)
+Append: [Samsung Securities Launches Two China Thematic ETNs Tracking Solactive’s KRW-Hedged China Rare Earth And Gaming Benchmarks](http://www.mondovisione.com/media-and-resources/news/samsung-securities-launches-two-china-thematic-etns-tracking-solactives-krw-hed-20261112/)
+Append: [BMLL And Vola Dynamics Partner To Bring Market-Maker-Quality Options Analytics To Unified Historical Data In A Fully Managed Research Environment](http://www.mondovisione.com/media-and-resources/news/bmll-and-vola-dynamics-partner-to-bring-market-maker-quality-options-analytics-t-20261112/)
+Append: [HKEX Hosts ETF Summit 2026 As Market Sets New Records](http://www.mondovisione.com/media-and-resources/news/hkex-hosts-etf-summit-2026-as-market-sets-new-records-20261112/)
+Append: [TOPPAN And BitGo Conduct Proof-of-Concept for Decentralized Key Management Scheme To Securely And Seamlessly Manage Digital Assets - Verifying A Scheme Combining 3-Party Decentralized Management Of Private Keys With Corporate Identity Verification Via vLEI To Reduce Single Points Of Failure And Strengthen Transaction Security](http://www.mondovisione.com/media-and-resources/news/toppan-and-bitgo-conduct-proof-of-concept-for-decentralized-key-management-schem-20261112/)
+Append: [SET Market Report For October 2026](http://www.mondovisione.com/media-and-resources/news/set-market-report-for-october-2026-20261112/)
+append_entries: 10
+Finish: 2026-11-12 12:24:20.138525
