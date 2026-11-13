@@ -491,3 +491,29 @@ Append: [MIAX Options Exchange - Amendment To Request For Response Message Handl
 Append: [Nadex Certifies Its Weekly Trading Streak Program](http://www.mondovisione.com/media-and-resources/news/nadex-certifies-its-weekly-trading-streak-program-20261113/)
 append_entries: 9
 Finish: 2026-11-13 11:59:32.743300
+------------------------------------------------------
+Started: 2026-11-13 19:34:01.904589
+Existing_entries: 145
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Client.__init__() got an unexpected keyword argument 'proxies'
+Append: [Nigerian Exchange Weekly Market Report For The Week Ended 13 November 2026](http://www.mondovisione.com/media-and-resources/news/nigerian-exchange-weekly-market-report-for-the-week-ended-13-november-2026-20261113/)
+Summarization failed, append the original article
+error: Client.__init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Files Lawsuit Against Arkansas As The Agency Defends Its Federal Jurisdiction Over Prediction Markets](http://www.mondovisione.com/media-and-resources/news/cftc-files-lawsuit-against-arkansas-as-the-agency-defends-its-federal-jurisdicti-20261113/)
+Summarization failed, append the original article
+error: Client.__init__() got an unexpected keyword argument 'proxies'
+Append: [Statement On Proposing Release For Executive Compensation Disclosure Reform, SEC Commissioner Mark T. Uyeda, Nov. 13, 2026](http://www.mondovisione.com/media-and-resources/news/statement-on-proposing-release-for-executive-compensation-disclosure-reform-sec-20261113/)
+Summarization failed, append the original article
+error: Client.__init__() got an unexpected keyword argument 'proxies'
+Append: [Statement On Proposing Release For Executive Compensation Disclosure Reform, Paul S. Atkins, SEC Chairman, Nov. 13, 2026](http://www.mondovisione.com/media-and-resources/news/statement-on-proposing-release-for-executive-compensation-disclosure-reform-pau-20261113/)
+Summarization failed, append the original article
+error: Client.__init__() got an unexpected keyword argument 'proxies'
+Append: [SEC Proposes Executive And Director Compensation Disclosure Reforms](http://www.mondovisione.com/media-and-resources/news/sec-proposes-executive-and-director-compensation-disclosure-reforms-20261113/)
+Append: [Moscow Exchange: Updated Constituents List For OFZ Zero Coupon Yield Curve To Come Into Force On 16 November 2026](http://www.mondovisione.com/media-and-resources/news/moscow-exchange-updated-constituents-list-for-ofz-zero-coupon-yield-curve-to-co-20261113/)
+Append: [LuxSE Welcomes Angola's First Sustainability Bond - Banco Angolano De Investimentos And The Luxembourg Stock Exchange Mark A Milestone With The Display Of Angola’s Inaugural Sustainability Bond On The Luxembourg Green Exchange](http://www.mondovisione.com/media-and-resources/news/luxse-welcomes-angolas-first-sustainability-bond-banco-angolano-de-investimen-20261113/)
+Append: [The EBA Supports The NGFS Declaration On The Macro-Financial Dimension Of The Energy Transition On The Occasion Of COP31](http://www.mondovisione.com/media-and-resources/news/the-eba-supports-the-ngfs-declaration-on-the-macro-financial-dimension-of-the-en-20261113/)
+Append: [Mo’ Data, Mo’ Problems, Jamie Selway, Director, SEC Division Of Trading And Markets, Baruch College Conference On Trading, Liquidity, & Market Structure, New York, NY, Nov. 13, 2026](http://www.mondovisione.com/media-and-resources/news/mo-data-mo-problems-jamie-selway-director-sec-division-of-trading-and-mark-20261113/)
+Append: [IOSCO SupTech Sprint Regarding The Supervision Of Digital Assets Markets](http://www.mondovisione.com/media-and-resources/news/iosco-suptech-sprint-regarding-the-supervision-of-digital-assets-markets-20261113/)
+append_entries: 10
+Finish: 2026-11-13 19:34:02.967205
