@@ -466,3 +466,28 @@ Existing_entries: 136
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-11-13 02:29:29.855327
+------------------------------------------------------
+Started: 2026-11-13 11:59:31.899231
+Existing_entries: 136
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Client.__init__() got an unexpected keyword argument 'proxies'
+Append: [Financial Stability In A Rapidly Changing World - Keynote Speech By FSB Chair, Andrew Bailey, At The IOSCO Conference: 25 Years Of Standard Setting From Madrid And Of Stakeholder Engagement](http://www.mondovisione.com/media-and-resources/news/financial-stability-in-a-rapidly-changing-world-keynote-speech-by-fsb-chair-a-20261113/)
+Summarization failed, append the original article
+error: Client.__init__() got an unexpected keyword argument 'proxies'
+Append: [Moscow Exchange: Planned Changes In The Securities And FX Market Systems](http://www.mondovisione.com/media-and-resources/news/moscow-exchange-planned-changes-in-the-securities-and-fx-market-systems-20261113/)
+Summarization failed, append the original article
+error: Client.__init__() got an unexpected keyword argument 'proxies'
+Append: [HKEX To Launch Digital Payment Solution For Derivatives After-Hours Trading From December 2026](http://www.mondovisione.com/media-and-resources/news/hkex-to-launch-digital-payment-solution-for-derivatives-after-hours-trading-from-20261113/)
+Summarization failed, append the original article
+error: Client.__init__() got an unexpected keyword argument 'proxies'
+Append: [ASIC Proposes Extending Relief For Time-Sharing And ASX-Listed Schemes](http://www.mondovisione.com/media-and-resources/news/asic-proposes-extending-relief-for-time-sharing-and-asx-listed-schemes-20261113/)
+Summarization failed, append the original article
+error: Client.__init__() got an unexpected keyword argument 'proxies'
+Append: [Leading Finance Professor Michael Weber Appointed Monetary Authority Of Singapore Term Professor At National University Of Singapore](http://www.mondovisione.com/media-and-resources/news/leading-finance-professor-michael-weber-appointed-monetary-authority-of-singapor-20261113/)
+Append: [Japan Financial Services Agency - A Speech On “Derivatives: Grit, Ingenuity, And Growth” At The ISDA Derivatives Trading Forum Tokyo 2026](http://www.mondovisione.com/media-and-resources/news/japan-financial-services-agency-a-speech-on-derivatives-grit-ingenuity-and-20261113/)
+Append: [ASIC And APRA Release Final Guidance To Streamline FAR Reporting](http://www.mondovisione.com/media-and-resources/news/asic-and-apra-release-final-guidance-to-streamline-far-reporting-20261113/)
+Append: [MIAX Options Exchange - Amendment To Request For Response Message Handling For PRIME And cPRIME Auctions](http://www.mondovisione.com/media-and-resources/news/miax-options-exchange-amendment-to-request-for-response-message-handling-for-p-20261113/)
+Append: [Nadex Certifies Its Weekly Trading Streak Program](http://www.mondovisione.com/media-and-resources/news/nadex-certifies-its-weekly-trading-streak-program-20261113/)
+append_entries: 9
+Finish: 2026-11-13 11:59:32.743300
