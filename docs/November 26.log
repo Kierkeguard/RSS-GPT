@@ -547,3 +547,12 @@ error: Client.__init__() got an unexpected keyword argument 'proxies'
 Append: [US Federal Agencies Extend Comment Period For Proposed Third-Party Risk Management Guidance](http://www.mondovisione.com/media-and-resources/news/us-federal-agencies-extend-comment-period-for-proposed-third-party-risk-manageme-20261114/)
 append_entries: 4
 Finish: 2026-11-14 08:46:58.207368
+------------------------------------------------------
+Started: 2026-11-14 16:27:57.988190
+Existing_entries: 161
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Client.__init__() got an unexpected keyword argument 'proxies'
+Append: [Tehran Securities Exchange Weekly Market Report, 7 - 11 November 2026](http://www.mondovisione.com/media-and-resources/news/tehran-securities-exchange-weekly-market-report-7-11-november-2026-20261114/)
+append_entries: 1
+Finish: 2026-11-14 16:27:58.881016
