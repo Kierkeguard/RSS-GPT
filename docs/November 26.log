@@ -517,3 +517,15 @@ Append: [Mo’ Data, Mo’ Problems, Jamie Selway, Director, SEC Division Of Tra
 Append: [IOSCO SupTech Sprint Regarding The Supervision Of Digital Assets Markets](http://www.mondovisione.com/media-and-resources/news/iosco-suptech-sprint-regarding-the-supervision-of-digital-assets-markets-20261113/)
 append_entries: 10
 Finish: 2026-11-13 19:34:02.967205
+------------------------------------------------------
+Started: 2026-11-14 00:48:32.082110
+Existing_entries: 155
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Client.__init__() got an unexpected keyword argument 'proxies'
+Append: [Federal Reserve Board: Financial Stability Report](http://www.mondovisione.com/media-and-resources/news/federal-reserve-board-financial-stability-report-20261113/)
+Summarization failed, append the original article
+error: Client.__init__() got an unexpected keyword argument 'proxies'
+Append: [Remarks At Beer Institute Annual Membership Meeting, CFTC Chairman Michael S. Selig, Washington, DC | November 13, 2026](http://www.mondovisione.com/media-and-resources/news/remarks-at-beer-institute-annual-membership-meeting-cftc-chairman-michael-s-se-20261113/)
+append_entries: 2
+Finish: 2026-11-14 00:48:32.897800
