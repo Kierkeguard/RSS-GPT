@@ -529,3 +529,21 @@ error: Client.__init__() got an unexpected keyword argument 'proxies'
 Append: [Remarks At Beer Institute Annual Membership Meeting, CFTC Chairman Michael S. Selig, Washington, DC | November 13, 2026](http://www.mondovisione.com/media-and-resources/news/remarks-at-beer-institute-annual-membership-meeting-cftc-chairman-michael-s-se-20261113/)
 append_entries: 2
 Finish: 2026-11-14 00:48:32.897800
+------------------------------------------------------
+Started: 2026-11-14 08:46:56.964333
+Existing_entries: 157
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Client.__init__() got an unexpected keyword argument 'proxies'
+Append: [New Real Estate ETF Broadens Investment Opportunities On Tehran Securities Exchange](http://www.mondovisione.com/media-and-resources/news/new-real-estate-etf-broadens-investment-opportunities-on-tehran-securities-excha-20261114/)
+Summarization failed, append the original article
+error: Client.__init__() got an unexpected keyword argument 'proxies'
+Append: [CFTC Sues Louisiana After State Court Blocks CFTC-Regulated Exchanges](http://www.mondovisione.com/media-and-resources/news/cftc-sues-louisiana-after-state-court-blocks-cftc-regulated-exchanges-20261114/)
+Summarization failed, append the original article
+error: Client.__init__() got an unexpected keyword argument 'proxies'
+Append: [New Technology, Old Questions: Productivity Puzzles And The Macroeconomy, Federal Reserve Vice Chair Philip N. Jefferson, At The University Of California, San Diego Economic Roundtable, San Diego, California](http://www.mondovisione.com/media-and-resources/news/new-technology-old-questions-productivity-puzzles-and-the-macroeconomy-federa-20261114/)
+Summarization failed, append the original article
+error: Client.__init__() got an unexpected keyword argument 'proxies'
+Append: [US Federal Agencies Extend Comment Period For Proposed Third-Party Risk Management Guidance](http://www.mondovisione.com/media-and-resources/news/us-federal-agencies-extend-comment-period-for-proposed-third-party-risk-manageme-20261114/)
+append_entries: 4
+Finish: 2026-11-14 08:46:58.207368
