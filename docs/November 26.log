@@ -568,3 +568,12 @@ Existing_entries: 162
 Fetching from https://mondovisione.com/media-and-resources/news/rss/
 append_entries: 0
 Finish: 2026-11-15 05:41:50.751153
+------------------------------------------------------
+Started: 2026-11-15 13:43:24.400158
+Existing_entries: 162
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Client.__init__() got an unexpected keyword argument 'proxies'
+Append: [Qatar Stock Exchange: FTSE Global Equity Index Series December 2026 Quarterly Review Changes](http://www.mondovisione.com/media-and-resources/news/qatar-stock-exchange-ftse-global-equity-index-series-december-2026-quarterly-re-20261115/)
+append_entries: 1
+Finish: 2026-11-15 13:43:25.660081
