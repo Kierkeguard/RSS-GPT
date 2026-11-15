@@ -577,3 +577,12 @@ error: Client.__init__() got an unexpected keyword argument 'proxies'
 Append: [Qatar Stock Exchange: FTSE Global Equity Index Series December 2026 Quarterly Review Changes](http://www.mondovisione.com/media-and-resources/news/qatar-stock-exchange-ftse-global-equity-index-series-december-2026-quarterly-re-20261115/)
 append_entries: 1
 Finish: 2026-11-15 13:43:25.660081
+------------------------------------------------------
+Started: 2026-11-15 19:38:51.307967
+Existing_entries: 163
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Client.__init__() got an unexpected keyword argument 'proxies'
+Append: [Aghaz Fund Makes A Strong Debut On Tehran Securities Exchange](http://www.mondovisione.com/media-and-resources/news/aghaz-fund-makes-a-strong-debut-on-tehran-securities-exchange-20261115/)
+append_entries: 1
+Finish: 2026-11-15 19:39:03.203532
