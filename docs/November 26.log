@@ -607,3 +607,29 @@ error: Client.__init__() got an unexpected keyword argument 'proxies'
 Append: [Qatar Stock Exchange: QE Index, QE Al Rayan Islamic Index And QE All Share Index Constituents (Semi Annual Index Review December 2026)](http://www.mondovisione.com/media-and-resources/news/qatar-stock-exchange-qe-index-qe-al-rayan-islamic-index-and-qe-all-share-index-20261116/)
 append_entries: 1
 Finish: 2026-11-16 15:18:10.486479
+------------------------------------------------------
+Started: 2026-11-17 00:05:08.421744
+Existing_entries: 165
+Fetching from https://mondovisione.com/media-and-resources/news/rss/
+Summarization failed, append the original article
+error: Client.__init__() got an unexpected keyword argument 'proxies'
+Append: [Ontario Securities Commission Publishes New Research On Investor Segments And Risk Patterns To Strengthen Investor Protection](http://www.mondovisione.com/media-and-resources/news/ontario-securities-commission-publishes-new-research-on-investor-segments-and-ri-20261116/)
+Summarization failed, append the original article
+error: Client.__init__() got an unexpected keyword argument 'proxies'
+Append: [Deloitte And SIFMA Release White Paper On Digital Cash And The Future Of US Securities Settlement](http://www.mondovisione.com/media-and-resources/news/deloitte-aad-sifma-release-white-paper-on-digital-cash-and-the-future-of-us-secu-20261116/)
+Summarization failed, append the original article
+error: Client.__init__() got an unexpected keyword argument 'proxies'
+Append: [London Stock Exchange Group plc Publication Of Final Terms](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-publication-of-final-terms-20261116/)
+Summarization failed, append the original article
+error: Client.__init__() got an unexpected keyword argument 'proxies'
+Append: [EBA Supports Further Progress On The Banking Union, Including On Deposit Insurance](http://www.mondovisione.com/media-and-resources/news/eba-supports-further-progress-on-the-banking-union-including-on-deposit-insuran-20261116/)
+Summarization failed, append the original article
+error: Client.__init__() got an unexpected keyword argument 'proxies'
+Append: [Nasdaq And Mercedes‑AMG PETRONAS F1 Team Renew Multi‑Year Partnership](http://www.mondovisione.com/media-and-resources/news/nasdaq-and-mercedesamg-petronas-f1-team-renew-multiyear-partnership-20261116/)
+Append: [The BME Pre Market Environment Welcomes A4Radar, Depa y AmazingUp](http://www.mondovisione.com/media-and-resources/news/the-bme-pre-market-environment-welcomes-a4radar-depa-y-amazingup-20261116/)
+Append: [Have Your Say! ACER Seeks Stakeholders’ Feedback On Its Activities](http://www.mondovisione.com/media-and-resources/news/have-your-say-acer-seeks-stakeholders-feedback-on-its-activities-20261116/)
+Append: [Coinbase And Broadridge Publish Proposed Standard For Onchain Shareholder Communications - Broadridge Launches Data Oracle](http://www.mondovisione.com/media-and-resources/news/coinbase-and-broadridge-publish-proposed-standard-for-onchain-shareholder-commun-20261116/)
+Append: [London Stock Exchange Group plc Transaction In Own Shares](http://www.mondovisione.com/media-and-resources/news/london-stock-exchange-group-plc-transaction-in-own-shares-20261116/)
+Append: [IOSCO Warns Retail Investors And Market Intermediaries About The Growth And Rising Sophistication Of Fraudulent Schemes](http://www.mondovisione.com/media-and-resources/news/iosco-warns-retail-investors-and-market-intermediaries-about-the-growth-and-risi-20261116/)
+append_entries: 10
+Finish: 2026-11-17 00:05:09.120799
